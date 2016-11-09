@@ -1,5 +1,5 @@
 # Keka
-The macOS file archiver
+The macOS file archiver.
 
 ## What to do here
 
