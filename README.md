@@ -1,14 +1,6 @@
 # Keka
 The macOS file archiver
 
-The main compression core is [p7zip](http://p7zip.sourceforge.net) ([7-zip](http://www.7-zip.org) port)
-
-### Compression formats supported:
-7z, Zip, Tar, Gzip, Bzip2, DMG, ISO
-
-### Extraction formats supported:
-RAR, 7z, Lzma, xz, Zip, Tar, Gzip, Bzip2, ISO, EXE, CAB, PAX
-
 ## What to do here
 
 This repository is used mainly to take care of [Issues](https://github.com/aonez/Keka/issues) and have a collaborative [Wiki](https://github.com/aonez/Keka/wiki).
@@ -27,5 +19,3 @@ Keka started in [SourceForge](http://sourceforge.net/projects/keka). It will be 
 Later on, thanks to [NETWORKREDUX](https://networkredux.com) and [Trac](https://trac.edgewall.org), the project gained its own [ticketing system](http://trac.kekaosx.com). Due to spam and speed issues, it will be used no more. No new users, no new tickets. Use [Issues](https://github.com/aonez/Keka/issues) instead.
 
 There's also [some documentation](http://trac.kekaosx.com/wiki/Doc) in the Keka trac that will be transferred over time here in the [Wiki](https://github.com/aonez/Keka/wiki).
-
-To be continued...
