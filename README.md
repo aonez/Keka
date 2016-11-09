@@ -5,10 +5,10 @@ The macOS file archiver
 
 This repository is used mainly to take care of [Issues](https://github.com/aonez/Keka/issues) and have a collaborative [Wiki](https://github.com/aonez/Keka/wiki).
 
-Translator will have here the files to translate in the near future. Meanwhile, read the [instructions](http://www.kekaosx.com/forum/viewtopic.php?f=1&t=5) and download the [files to be translated](http://sourceforge.net/projects/keka/files/Keka%20Translator.7z/download).
+Translators will have here the files to translate in the near future. Meanwhile, read the [instructions](http://www.kekaosx.com/forum/viewtopic.php?f=1&t=5) and download the [files to be translated](http://sourceforge.net/projects/keka/files/Keka%20Translator.7z/download).
 
 
-Also head to [Releases](https://github.com/aonez/Keka/releases) if you need a concrete version not found in the [Keka website](http://www.kekaosx.com).
+Also head to [Releases](https://github.com/aonez/Keka/releases) if you need a concrete version not found on the [Keka website](http://www.kekaosx.com).
 
 ### So, where is the source code
 Sadly, the source code of Keka 1.0 and newer will be not public due some legal issues (this is one [of the reasons](http://trac.kekaosx.com/ticket/14)). Legal support is needed, if you can help the project with law force, please get in contact with aonez or at info@kekaosx.com. Any help is welcome.
