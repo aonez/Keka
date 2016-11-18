@@ -1,0 +1,199 @@
+/* ---------------------------------------------------------------------------- */
+// New in 1.0
+
+/* general use */
+"OK" = "OK";
+"Yes" = "Ja";
+"No" = "Nee";
+"Don't show again" = "Toon niet opnieuw";
+
+/* misk */
+"Set as default compressor" = "Stel in als standaard in/uitpak-programma";
+"Not now" = "Not now";
+"Want to make Keka your default compressor?" = "Wil u Keka instellen als standaard inpak-programma?";
+"This means that all the compatible files will be extracted with Keka by now. You can set this later in the Keka Preferences." = "Dit betekent dat vanaf nu alle compatibele bestanden uitgepakt worden met Keka. U kan dit later instellen in de Keka voorkeuren.";
+"Really want to close Keka?" = "Wil u Keka echt afsluiten?";
+"The current operations will be canceled. If you choose to wait and quit Keka will exit when all work is done." = "De huidige actie zal worden geannuleerd. Indien u kiest om te wachten zal Keka zichzelf afsluiten wanneer de operatie voltooid is.";
+
+/* ---------------------------------------------------------------------------- */
+
+
+
+/* Growl */
+
+/* ---------------------------------------------------------------------------- */
+// New in 1.0
+"Password needed" = "Wachtwoord nodig";
+"File \"%@\" needs a password to be extracted" = "Bestand \"%@\" heeft een wachtwoord nodig om uitgepakt te worden.";
+/* ---------------------------------------------------------------------------- */
+// Updated in 1.0
+"Extraction of \"%@\" done" = "Uitpakken van \"%@\" voltooid";
+"Extraction of \"%@\" failed." = "Uitpakken van \"%@\" mislukt.";
+//"Extraction of file \"%@\" complete" = "Uitpakken van bestand \"%@\" voltooid.";
+//"Extraction of file \"%@\" failed." = "Uitpakken van bestand \"%@\" mislukt.";
+/* ---------------------------------------------------------------------------- */
+"Extraction complete" = "Uitpakken voltooid";
+"Extraction fail" = "Uitpakken mislukt";
+"Compression complete" = "Inpakken voltooid";
+"File \"%@\" created" = "Bestand \"%@\" aangemaakt";
+"Compression fail" = "Inpakken mislukt";
+"File \"%@\" cannot be created" = "Bestand \"%@\" kan niet worden aangemaakt";
+"Operation not implemented" = "Actie niet ingebouwd";
+"This operation is not implemented yet so Keka is in beta process." = "Deze actie is nog niet ingebouwd, dus Keka is in beta-modus.";
+
+
+
+/* Progress window */
+"Performing operation..." = "Actie wordt uitgevoerd...";
+"Waiting..." = "Wachten...";
+"Extracting \"%@\"" = "Uitpakken \"%@\"";
+"Extracting \"%@...\"" = "Uitpakken \"%@...\"";
+"Creating %@ file..." = "Aanmaken van %@ bestand...";
+"Creating file \"%@\"" = "Aanmaken van bestand \"%@\"";
+"Creating file \"%@...\"" = "Aanmaken van bestand \"%@...\"";
+/* ---------------------------------------------------------------------------- */
+// Updated in 1.0
+"Time elapsed: %d:%@%d:%@%d hours%@" = "Verstreken tijd: %d:%@%d:%@%d uren%@";
+"Time elapsed: %d:%@%d minutes%@" = "Verstreken tijd: %d:%@%d minuten%@";
+"Time elapsed: %d seconds%@" = "Verstreken tijd: %d seconden%@";
+
+
+//"Time elapsed: %d seconds" = "Verstreken tijd: %d seconden";
+//"Time elapsed: %d:%@%d minutes" = "Verstreken tijd: %d:%@%d minuten";
+//"Time elapsed: %d:%@%d:%@%d hours" = "Verstreken tijd: %d:%@%d:%@%d uren";
+/* ---------------------------------------------------------------------------- */
+"%d seconds" = "%d seconden";
+"%d:%@%d minutes" = "%d:%@%d minuten";
+"%d:%@%d:%@%d hours" = "%d:%@%d:%@%d uren";
+"Pause" = "Pauzeer";
+"Continue" = "Hervat";
+"Operation paused" = "Actie gepauzeerd";
+"Cancel" = "Annuleer";
+"Close" = "Sluit";
+"Operation failed" = "Actie mislukt";
+"Operation failed with error code %d" = "Actie mislukt met foutcode %d";
+/* ---------------------------------------------------------------------------- */
+// New in 1.0
+"Choose a name and folder to start the compression" = "Kies een naam en map om te starten met inpakken.";
+"Creation of \"%@\" failed" = "Aanmaken van \"%@\" mislukt";
+"Creating \"%@\"" = "Aanmaken van \"%@\"";
+"Prepearing extraction..." = "Voorbereiden van uitpakken…";
+"Choose a folder to extract this file" = "Kies een map om dit bestand uit te pakken";
+"Extraction of \"%@\" failed" = "Uitpakken van \"%@\" mislukt";
+"Keka - %i on queue" = "Keka - %i in de wachtrij";
+"Keka can't create this ISO image" = "Keka kan dit ISO-bestand niet aanmaken";
+"You can only create an ISO image with a single folder. Try to put all your files in a folder and drop it to Keka to create the ISO image." = "U kan enkel een ISO-bestand aanmaken met één enkele map. Probeer al uw bestanden in één folder te verzamelen en sleep deze folder dan op Keka om een ISO-bestand aan te maken.";
+"Compress \"%@\" in %@ to..." = "Pak \"%@\" in %@ naar...";
+"Compress in %@ to..." = "Pak %@ in naar ...";
+"Save as:" = "Bewaar als:";
+"Compress" = "Pak in";
+"Extract \"%@\" to..." = "Pak uit \"%@\" to…";
+"Extract as:" = "Pak uit als";
+"Extract" = "Pak uit";
+" - Remaining: Calculating..." = " - Resterend: Berekenen...";
+" - Remaining: About one second" = " - Resterend: Ongeveer één seconde";
+" - Remaining: About %d seconds" = " - Resterend: Ongeveer %d seconden";
+" - Remaining: About 1 minute" = " - Resterend: Ongeveer 1 minuut";
+" - Remaining: About %d minutes" = " - Resterend: Ongeveer %d minuten";
+" - Remaining: About 1 hour" = " - Resterend: Ongeveer 1 uur";
+" - Remaining: About %d hours" = " - Resterend: Ongeveer %d uren";
+" - Remaining: About 1 day" = " - Resterend: Ongeveer 1 dag";
+" - Remaining: About %d days" = " - Resterend: Ongeveer %d dagen";
+" - Remaining: About 1 year" = " - Resterend: Ongeveer 1 jaar";
+" - Remaining: About %d years" = " - Resterend: Ongeveer %d jaren";
+" - Remaining: Less than one second" = " - Resterend: Minder dan een seconde";
+"Can't show progress time..." = "Kan resterenden tijd niet tonen…";
+/* ---------------------------------------------------------------------------- */
+
+
+
+/* Password window */
+/* ---------------------------------------------------------------------------- */
+// Updated in 1.0
+"Password for \"%@\"" = "Wachtwoord voor \"%@\"";
+/* ---------------------------------------------------------------------------- */
+
+
+
+/* Preferences */
+// Compression methods
+/* ---------------------------------------------------------------------------- */
+// Replaced in 1.0
+"No compression" = "Geen";
+"Fastest, less compression" = "Snelste";
+"Fast, less compression" = "Snel";
+"Normal" = "Normaal";
+"Slow, more compression" = "Goed";
+"Slowest, more compression" = "Beste";
+
+"Method: No compression" = "Inpakmethode: Opslaan";
+"Method: Fastest, less compression" = "Inpakmethode: Snelste";
+"Method: Fast, less compression" = "Inpakmethode: Snel";
+"Method: Normal" = "Inpakmethode: Normaal";
+"Method: Slow, more compression" = "Inpakmethode: Goed";
+"Method: Slowest, more compression" = "Inpakmethode: Beste";
+// New in 1.0
+"Compression" = "Inpakken";
+"Extraction" = "Uitpakken";
+"Keka can't use the \"extlx.plist\" list, please get in contact with the developers.\n\nNow Keka will quit." = "Keka kan de \"extlx.plist\" lijst niet gebruiken, contacteer a.u.b. de ontwikkelaar.\n\nKeka zal nu afsluiten.";
+"Keka is dying!" = "Keka kan niet verder werken!";
+/* ---------------------------------------------------------------------------- */
+
+// Save location and default name combo boxes
+"Ask each time" = "Altijd vragen";
+"Next to original file" = "In dezelfde map als het originele bestand";
+"Custom folder..." = "Zelfgekozen map...";
+"Same as original file" = "Hetzelfde als het originele bestand";
+"Custom name..." = "Zelfgekozen naam...";
+"Compressed file" = "Ingepakt bestand";
+/* ---------------------------------------------------------------------------- */
+// New in 1.0
+"Set as default folder" = "Maak dit de standaard map";
+/* ---------------------------------------------------------------------------- */
+
+// Action to perform - ### VERY IMPORTANT TO BE THE SAME AS IN THE XIB FILE ###
+"Perform automatic action" = "Voer automatische actie uit";
+"Always compress" = "Altijd inpakken";
+"Always extract" = "Altijd uitpakken";
+
+//Split items - ### VERY IMPORTANT TO BE THE SAME AS IN THE XIB FILE ###
+"1.4 MB Floppy" = "1.4 MB Diskette";
+"650 MB CD" = "650 MB CD";
+"700 MB CD" = "700 MB CD";
+"4480 MB DVD" = "4480 MB DVD";
+
+
+
+/* Drag and Drop layer */
+/* ---------------------------------------------------------------------------- */
+// New in 1.0
+"Drop here to extract" = "Sleep naar hier om uit te pakken";
+"Drop here to compress" = "Sleep naar hier om in te pakken";
+/* ---------------------------------------------------------------------------- */
+
+
+
+/* Error messages */
+/* ---------------------------------------------------------------------------- */
+// New in 1.0
+"Error code %d\nThe first part \"%@\" can't be found" = "Foutcode %d\nHet eerste deel \"%@\" kan niet gevonden worden";
+"unknown" = "onbekend";
+"Unknown error" = "onbekende fout";
+"Error code %d using \"%@\"\n%@" = "Foutcode %d gebruikend \"%@\"\n%@";
+"No errors found" = "Geen fouten gevonden";
+"Minor error, the operation may be done well" = "Kleine fout, de actie is mogelijk wel correct uitgevoerd";
+"Fatal error" = "Fatale fout";
+"CRC error occurred, maybe the file is corrupt" = "CRC-fout gebeurd, misschien is het bestand corrupt";
+"Attempt to modify an archive previously locked" = "Poging om een vergrendeld archief aan te passen";
+"Maybe you don't have permission to write or your disk is full" = "Misschien beschikt u niet over voldoende schrijfrechten of is er onvoldoende schrijfruimte";
+"Can't open the file, maybe you don't have read permission" = "Kan het bestand niet openen, heeft u de nodige leesrechten";
+"Command line error, please contact with the developer" = "Command line fout, neem contact op met de ontwikkelaar";
+"Not enough memory. Try to close some programs and repeat the operation" = "Niet genoeg geheugen. Sluit enkele programma's en probeer de actie opnieuw";
+"Can't create the file, maybe you don't have permission or free space" = "Kan het bestand niet aanmaken, beschikt u over de nodige rechten en voldoende schrijfruimte";
+"Canceled manually" = "Door gebruiker geannuleerd";
+"Bad password, try again" = "Verkeerd wachtwoord, probeer opnieuw";
+"This archive is locked" = "Dit archief is vergrendeld";
+"Write error. No permission? No space left?" = "Schrijffout. Onvoldoende rechten? Onvoldoende schrijfruimte over?";
+"Can't open the file, maybe it's not accessible" = "Kan het bestand niet openen, misschien is het niet toegankelijk";
+"No files matching the mask" = "Geen bestanden die voldoen aan de filter";
+/* ---------------------------------------------------------------------------- */

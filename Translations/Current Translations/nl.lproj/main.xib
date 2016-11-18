@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11201" systemVersion="15G1004" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none">
+    <dependencies>
+        <deployment identifier="macosx"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11201"/>
+    </dependencies>
+    <objects>
+        <customObject id="-2" userLabel="File's Owner"/>
+        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
+        <customObject id="-3" userLabel="Application">
+            <connections>
+                <outlet property="delegate" destination="1470" id="1473"/>
+            </connections>
+        </customObject>
+        <customObject id="1470" customClass="kekaController">
+            <connections>
+                <outlet property="tasksScrollView" destination="1507" id="1513"/>
+                <outlet property="tasksView" destination="1501" id="1516"/>
+                <outlet property="tasksWindow" destination="1499" id="1515"/>
+            </connections>
+        </customObject>
+        <menu title="Main Menu" systemMenu="main" id="1517" userLabel="MainMenu">
+            <items>
+                <menuItem title="Keka" id="1523">
+                    <menu key="submenu" title="Keka" systemMenu="apple" id="1532">
+                        <items>
+                            <menuItem title="Over Keka" id="1544">
+                                <modifierMask key="keyEquivalentModifierMask"/>
+                                <connections>
+                                    <action selector="orderFrontStandardAboutPanel:" target="-1" id="1641"/>
+                                </connections>
+                            </menuItem>
+                            <menuItem isSeparatorItem="YES" id="1537">
+                                <modifierMask key="keyEquivalentModifierMask" command="YES"/>
+                            </menuItem>
+                            <menuItem title="Voorzieningen" id="1536">
+                                <modifierMask key="keyEquivalentModifierMask"/>
+                                <menu key="submenu" title="Voorzieningen" systemMenu="services" id="1545"/>
+                            </menuItem>
+                            <menuItem isSeparatorItem="YES" id="1540">
+                                <modifierMask key="keyEquivalentModifierMask" command="YES"/>
+                            </menuItem>
+                            <menuItem title="Verberg Keka" keyEquivalent="h" id="1543">
+                                <connections>
+                                    <action selector="hide:" target="-1" id="1642"/>
+                                </connections>
+                            </menuItem>
+                            <menuItem title="Verberg andere" keyEquivalent="h" id="1534">
+                                <modifierMask key="keyEquivalentModifierMask" option="YES" command="YES"/>
+                                <connections>
+                                    <action selector="hideOtherApplications:" target="-1" id="1643"/>
+                                </connections>
+                            </menuItem>
+                            <menuItem title="Toon alles" id="1542"/>
+                            <menuItem isSeparatorItem="YES" id="1535">
+                                <modifierMask key="keyEquivalentModifierMask" command="YES"/>
+                            </menuItem>
+                            <menuItem title="Stop Keka" keyEquivalent="q" id="1541" userLabel="1111">
+                                <connections>
+                                    <action selector="terminate:" target="-1" id="1645"/>
+                                </connections>
+                            </menuItem>
+                        </items>
+                    </menu>
+                </menuItem>
+                <menuItem title="Archief" hidden="YES" enabled="NO" id="1520">
+                    <menu key="submenu" title="Archief" id="1580">
+                        <items>
+                            <menuItem title="Nieuw" enabled="NO" keyEquivalent="n" id="1587" userLabel="9"/>
+                            <menuItem title="Open…" enabled="NO" keyEquivalent="o" id="1588"/>
+                            <menuItem title="Open recente bestanden..." enabled="NO" id="1586">
+                                <menu key="submenu" title="Open recente bestanden..." systemMenu="recentDocuments" id="1592">
+                                    <items>
+                                        <menuItem title="Wis menu" enabled="NO" id="1593"/>
+                                    </items>
+                                </menu>
+                            </menuItem>
+                            <menuItem isSeparatorItem="YES" id="1583" userLabel="7">
+                                <modifierMask key="keyEquivalentModifierMask" command="YES"/>
+                            </menuItem>
+                            <menuItem title="Sluit" enabled="NO" keyEquivalent="w" id="1584" userLabel="1"/>
+                            <menuItem title="Bewaar" enabled="NO" keyEquivalent="s" id="1591" userLabel="3"/>
+                            <menuItem title="Bewaar als…" enabled="NO" keyEquivalent="S" id="1590" userLabel="8">
+                                <modifierMask key="keyEquivalentModifierMask" shift="YES" command="YES"/>
+                            </menuItem>
+                            <menuItem title="Bestand herladen" enabled="NO" id="1582" userLabel="10">
+                                <modifierMask key="keyEquivalentModifierMask"/>
+                            </menuItem>
+                            <menuItem isSeparatorItem="YES" id="1581" userLabel="2">
+                                <modifierMask key="keyEquivalentModifierMask" command="YES"/>
+                            </menuItem>
+                            <menuItem title="Pagina-instelling..." enabled="NO" keyEquivalent="P" id="1585" userLabel="5">
+                                <modifierMask key="keyEquivalentModifierMask" shift="YES" command="YES"/>
+                            </menuItem>
+                            <menuItem title="Druk af..." hidden="YES" enabled="NO" keyEquivalent="p" id="1589" userLabel="6"/>
+                        </items>
+                    </menu>
+                </menuItem>
+                <menuItem title="Wijzig" id="1521">
+                    <menu key="submenu" title="Wijzig" id="1548">
+                        <items>
+                            <menuItem title="Ongedaan maken" keyEquivalent="z" id="1559">
+                                <connections>
+                                    <action selector="undo:" target="-1" id="1654"/>
+                                </connections>
+                            </menuItem>
+                            <menuItem title="Opnieuw" hidden="YES" keyEquivalent="Z" id="1553">
+                                <modifierMask key="keyEquivalentModifierMask" shift="YES" command="YES"/>
+                            </menuItem>
+                            <menuItem isSeparatorItem="YES" id="1554">
+                                <modifierMask key="keyEquivalentModifierMask" command="YES"/>
+                            </menuItem>
+                            <menuItem title="Knip" keyEquivalent="x" id="1557">
+                                <connections>
+                                    <action selector="cut:" target="-1" id="1653"/>
+                                </connections>
+                            </menuItem>
+                            <menuItem title="Kopieer" keyEquivalent="c" id="1555">
+                                <connections>
+                                    <action selector="copy:" target="-1" id="1652"/>
+                                </connections>
+                            </menuItem>
+                            <menuItem title="Plak" keyEquivalent="v" id="1556">
+                                <connections>
+                                    <action selector="paste:" target="-1" id="1657"/>
+                                </connections>
+                            </menuItem>
+                            <menuItem title="Verwijder" id="1561">
+                                <connections>
+                                    <action selector="delete:" target="-1" id="1650"/>
+                                </connections>
+                            </menuItem>
+                            <menuItem title="Alles selecteren" keyEquivalent="a" id="1560">
+                                <connections>
+                                    <action selector="selectAll:" target="-1" id="1649"/>
+                                </connections>
+                            </menuItem>
+                        </items>
+                    </menu>
+                </menuItem>
+                <menuItem title="Opmaak" hidden="YES" enabled="NO" id="1518">
+                    <modifierMask key="keyEquivalentModifierMask"/>
+                    <menu key="submenu" title="Opmaak" id="1597">
+                        <items>
+                            <menuItem title="Lettertype" enabled="NO" id="1599">
+                                <modifierMask key="keyEquivalentModifierMask"/>
+                                <menu key="submenu" title="Lettertype" systemMenu="font" id="1600">
+                                    <items>
+                                        <menuItem title="Toon lettertypen" enabled="NO" keyEquivalent="t" id="1616"/>
+                                        <menuItem title="Vet" tag="2" enabled="NO" keyEquivalent="b" id="1615"/>
+                                        <menuItem title="Cursief" tag="1" enabled="NO" keyEquivalent="i" id="1614"/>
+                                        <menuItem title="Onderstreept" enabled="NO" keyEquivalent="u" id="1613"/>
+                                        <menuItem isSeparatorItem="YES" id="1612"/>
+                                        <menuItem title="Groter" tag="3" enabled="NO" keyEquivalent="+" id="1611"/>
+                                        <menuItem title="Kleiner" tag="4" enabled="NO" keyEquivalent="-" id="1610"/>
+                                        <menuItem isSeparatorItem="YES" id="1609"/>
+                                        <menuItem title="Spatiëring" enabled="NO" id="1608">
+                                            <modifierMask key="keyEquivalentModifierMask"/>
+                                            <menu key="submenu" title="Spatiëring" id="1617">
+                                                <items>
+                                                    <menuItem title="Standaard" enabled="NO" id="1621">
+                                                        <modifierMask key="keyEquivalentModifierMask"/>
+                                                    </menuItem>
+                                                    <menuItem title="Geen" enabled="NO" id="1620">
+                                                        <modifierMask key="keyEquivalentModifierMask"/>
+                                                    </menuItem>
+                                                    <menuItem title="Versmald" enabled="NO" id="1619">
+                                                        <modifierMask key="keyEquivalentModifierMask"/>
+                                                    </menuItem>
+                                                    <menuItem title="Uitgerekt" enabled="NO" id="1618">
+                                                        <modifierMask key="keyEquivalentModifierMask"/>
+                                                    </menuItem>
+                                                </items>
+                                            </menu>
+                                        </menuItem>
+                                        <menuItem title="Ligatuur" enabled="NO" id="1607">
+                                            <modifierMask key="keyEquivalentModifierMask"/>
+                                            <menu key="submenu" title="Ligatuur" id="1622">
+                                                <items>
+                                                    <menuItem title="Standaard" enabled="NO" id="1625">
+                                                        <modifierMask key="keyEquivalentModifierMask"/>
+                                                    </menuItem>
+                                                    <menuItem title="Geen" enabled="NO" id="1624">
+                                                        <modifierMask key="keyEquivalentModifierMask"/>
+                                                    </menuItem>
+                                                    <menuItem title="Alle" enabled="NO" id="1623">
+                                                        <modifierMask key="keyEquivalentModifierMask"/>
+                                                    </menuItem>
+                                                </items>
+                                            </menu>
+                                        </menuItem>
+                                        <menuItem title="Basislijn" enabled="NO" id="1606">
+                                            <modifierMask key="keyEquivalentModifierMask"/>
+                                            <menu key="submenu" title="Basislijn" id="1626">
+                                                <items>
+                                                    <menuItem title="Standaard" enabled="NO" id="1631">
+                                                        <modifierMask key="keyEquivalentModifierMask"/>
+                                                    </menuItem>
+                                                    <menuItem title="Superscript" enabled="NO" id="1630">
+                                                        <modifierMask key="keyEquivalentModifierMask"/>
+                                                    </menuItem>
+                                                    <menuItem title="Subscript" enabled="NO" id="1629">
+                                                        <modifierMask key="keyEquivalentModifierMask"/>
+                                                    </menuItem>
+                                                    <menuItem title="Omhoog" enabled="NO" id="1628">
+                                                        <modifierMask key="keyEquivalentModifierMask"/>
+                                                    </menuItem>
+                                                    <menuItem title="Omlaag" enabled="NO" id="1627">
+                                                        <modifierMask key="keyEquivalentModifierMask"/>
+                                                    </menuItem>
+                                                </items>
+                                            </menu>
+                                        </menuItem>
+                                        <menuItem isSeparatorItem="YES" id="1605"/>
+                                        <menuItem title="Toon kleuren" enabled="NO" keyEquivalent="C" id="1604"/>
+                                        <menuItem isSeparatorItem="YES" id="1603"/>
+                                        <menuItem title="Kopieer stijl" enabled="NO" keyEquivalent="c" id="1602">
+                                            <modifierMask key="keyEquivalentModifierMask" option="YES" command="YES"/>
+                                        </menuItem>
+                                        <menuItem title="Plak stijl" enabled="NO" keyEquivalent="v" id="1601">
+                                            <modifierMask key="keyEquivalentModifierMask" option="YES" command="YES"/>
+                                        </menuItem>
+                                    </items>
+                                </menu>
+                            </menuItem>
+                            <menuItem title="Tekst" enabled="NO" id="1598">
+                                <modifierMask key="keyEquivalentModifierMask"/>
+                                <menu key="submenu" title="Tekst" id="1632">
+                                    <items>
+                                        <menuItem title="Lijn links uit" enabled="NO" keyEquivalent="{" id="1640"/>
+                                        <menuItem title="Centreer" enabled="NO" keyEquivalent="|" id="1639"/>
+                                        <menuItem title="Vul uit" enabled="NO" id="1638">
+                                            <modifierMask key="keyEquivalentModifierMask"/>
+                                        </menuItem>
+                                        <menuItem title="Lijn rechts uit" enabled="NO" keyEquivalent="}" id="1637"/>
+                                        <menuItem isSeparatorItem="YES" id="1636"/>
+                                        <menuItem title="Toon liniaal" enabled="NO" keyEquivalent="r" id="1635"/>
+                                        <menuItem title="Kopieer liniaal" enabled="NO" keyEquivalent="c" id="1634">
+                                            <modifierMask key="keyEquivalentModifierMask" control="YES" command="YES"/>
+                                        </menuItem>
+                                        <menuItem title="Plak liniaal" enabled="NO" keyEquivalent="v" id="1633">
+                                            <modifierMask key="keyEquivalentModifierMask" control="YES" command="YES"/>
+                                        </menuItem>
+                                    </items>
+                                </menu>
+                            </menuItem>
+                        </items>
+                    </menu>
+                </menuItem>
+                <menuItem title="Weergave" hidden="YES" enabled="NO" id="1519">
+                    <menu key="submenu" title="Weergave" id="1594">
+                        <items>
+                            <menuItem title="Toon knoppenbalk" enabled="NO" keyEquivalent="t" id="1596">
+                                <modifierMask key="keyEquivalentModifierMask" option="YES" command="YES"/>
+                            </menuItem>
+                            <menuItem title="Pas knoppenbalk aan..." enabled="NO" id="1595"/>
+                        </items>
+                    </menu>
+                </menuItem>
+                <menuItem title="Venster" id="1524">
+                    <menu key="submenu" title="Venster" systemMenu="window" id="1525">
+                        <items>
+                            <menuItem title="Minimaliseer" keyEquivalent="m" id="1529">
+                                <connections>
+                                    <action selector="performMiniaturize:" target="-1" id="1646"/>
+                                </connections>
+                            </menuItem>
+                            <menuItem title="Vergroot/Verklein" id="1528">
+                                <connections>
+                                    <action selector="performZoom:" target="-1" id="1647"/>
+                                </connections>
+                            </menuItem>
+                            <menuItem isSeparatorItem="YES" id="1531">
+                                <modifierMask key="keyEquivalentModifierMask" command="YES"/>
+                            </menuItem>
+                            <menuItem title="Alles naar voorgrond" id="1530">
+                                <connections>
+                                    <action selector="arrangeInFront:" target="-1" id="1648"/>
+                                </connections>
+                            </menuItem>
+                        </items>
+                    </menu>
+                </menuItem>
+                <menuItem title="Help" id="1522" userLabel="1">
+                    <menu key="submenu" title="Help" id="1546" userLabel="2">
+                        <items>
+                            <menuItem title="Keka Help" keyEquivalent="?" id="1547">
+                                <connections>
+                                    <action selector="openHelpInBrowser:" target="1470" id="1656"/>
+                                </connections>
+                            </menuItem>
+                        </items>
+                    </menu>
+                </menuItem>
+            </items>
+        </menu>
+        <window title="Keka" allowsToolTipsWhenApplicationIsInactive="NO" autorecalculatesKeyViewLoop="NO" oneShot="NO" showsToolbarButton="NO" visibleAtLaunch="NO" animationBehavior="default" id="1475">
+            <windowStyleMask key="styleMask" titled="YES" miniaturizable="YES"/>
+            <windowPositionMask key="initialPositionMask" leftStrut="YES" rightStrut="YES" topStrut="YES" bottomStrut="YES"/>
+            <rect key="contentRect" x="196" y="207" width="399" height="68"/>
+            <rect key="screenRect" x="0.0" y="0.0" width="2560" height="1418"/>
+            <view key="contentView" id="1476">
+                <rect key="frame" x="0.0" y="0.0" width="399" height="68"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <scrollView autohidesScrollers="YES" horizontalLineScroll="10" horizontalPageScroll="10" verticalLineScroll="10" verticalPageScroll="10" hasHorizontalScroller="NO" hasVerticalScroller="NO" usesPredominantAxisScrolling="NO" id="1506">
+                        <rect key="frame" x="-1" y="-1" width="401" height="70"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <clipView key="contentView" id="aXg-E0-50a">
+                            <rect key="frame" x="1" y="1" width="399" height="68"/>
+                            <autoresizingMask key="autoresizingMask"/>
+                            <subviews>
+                                <view id="1507">
+                                    <rect key="frame" x="-47" y="0.0" width="401" height="70"/>
+                                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                </view>
+                            </subviews>
+                            <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
+                        </clipView>
+                        <scroller key="horizontalScroller" hidden="YES" verticalHuggingPriority="750" horizontal="YES" id="1508">
+                            <rect key="frame" x="-100" y="-100" width="384" height="15"/>
+                            <autoresizingMask key="autoresizingMask"/>
+                        </scroller>
+                        <scroller key="verticalScroller" hidden="YES" verticalHuggingPriority="750" doubleValue="1" horizontal="NO" id="1509">
+                            <rect key="frame" x="-100" y="-100" width="15" height="66"/>
+                            <autoresizingMask key="autoresizingMask"/>
+                        </scroller>
+                    </scrollView>
+                </subviews>
+            </view>
+        </window>
+        <window title="Keka" allowsToolTipsWhenApplicationIsInactive="NO" autorecalculatesKeyViewLoop="NO" oneShot="NO" showsToolbarButton="NO" visibleAtLaunch="NO" animationBehavior="default" id="1499">
+            <windowStyleMask key="styleMask" titled="YES" miniaturizable="YES"/>
+            <windowPositionMask key="initialPositionMask" leftStrut="YES" rightStrut="YES" topStrut="YES" bottomStrut="YES"/>
+            <rect key="contentRect" x="196" y="207" width="399" height="68"/>
+            <rect key="screenRect" x="0.0" y="0.0" width="2560" height="1418"/>
+            <view key="contentView" id="1500">
+                <rect key="frame" x="0.0" y="0.0" width="399" height="68"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <customView id="1501" customClass="taskController">
+                        <rect key="frame" x="0.0" y="0.0" width="399" height="68"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                    </customView>
+                </subviews>
+            </view>
+        </window>
+    </objects>
+</document>

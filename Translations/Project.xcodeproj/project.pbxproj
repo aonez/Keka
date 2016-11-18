@@ -1,0 +1,383 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		F746DF201DDF78BF0030FBCE /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = F746DF1F1DDF78BF0030FBCE /* README.md */; };
+		F746DF241DDFB5540030FBCE /* getkeka.sh in Resources */ = {isa = PBXBuildFile; fileRef = F746DF231DDFB5540030FBCE /* getkeka.sh */; };
+		F746DF261DDFBC860030FBCE /* reopen.sh in Resources */ = {isa = PBXBuildFile; fileRef = F746DF251DDFBC860030FBCE /* reopen.sh */; };
+		F7BCE6AD16E3F58800167184 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F7BCE6AC16E3F58800167184 /* Cocoa.framework */; };
+		F7BCE6B716E3F58800167184 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F7BCE6B516E3F58800167184 /* InfoPlist.strings */; };
+		F7BCE6B916E3F58800167184 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F7BCE6B816E3F58800167184 /* main.m */; };
+		F7BCE6BD16E3F58800167184 /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = F7BCE6BB16E3F58800167184 /* Credits.rtf */; };
+		F7BCE6C016E3F58800167184 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F7BCE6BF16E3F58800167184 /* AppDelegate.m */; };
+		F7BCE6C316E3F58800167184 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = F7BCE6C116E3F58800167184 /* MainMenu.xib */; };
+		F7C4907D16E3F797008D7498 /* advanced.xib in Resources */ = {isa = PBXBuildFile; fileRef = F7C4907616E3F797008D7498 /* advanced.xib */; };
+		F7C4907E16E3F797008D7498 /* compression.xib in Resources */ = {isa = PBXBuildFile; fileRef = F7C4907716E3F797008D7498 /* compression.xib */; };
+		F7C4907F16E3F797008D7498 /* Credits.html in Resources */ = {isa = PBXBuildFile; fileRef = F7C4907816E3F797008D7498 /* Credits.html */; };
+		F7C4908016E3F797008D7498 /* extraction.xib in Resources */ = {isa = PBXBuildFile; fileRef = F7C4907916E3F797008D7498 /* extraction.xib */; };
+		F7C4908116E3F797008D7498 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = F7C4907A16E3F797008D7498 /* Localizable.strings */; };
+		F7C4908216E3F797008D7498 /* main.xib in Resources */ = {isa = PBXBuildFile; fileRef = F7C4907B16E3F797008D7498 /* main.xib */; };
+		F7C4908316E3F797008D7498 /* preferences.xib in Resources */ = {isa = PBXBuildFile; fileRef = F7C4907C16E3F797008D7498 /* preferences.xib */; };
+		F7C4908516E3F7A5008D7498 /* KekaTranslator.icns in Resources */ = {isa = PBXBuildFile; fileRef = F7C4908416E3F7A5008D7498 /* KekaTranslator.icns */; };
+		F7C4908816E3F8D7008D7498 /* advanced.xib in CopyFiles */ = {isa = PBXBuildFile; fileRef = F7C4907616E3F797008D7498 /* advanced.xib */; };
+		F7C4908916E3F8D7008D7498 /* compression.xib in CopyFiles */ = {isa = PBXBuildFile; fileRef = F7C4907716E3F797008D7498 /* compression.xib */; };
+		F7C4908A16E3F8D7008D7498 /* Credits.html in CopyFiles */ = {isa = PBXBuildFile; fileRef = F7C4907816E3F797008D7498 /* Credits.html */; };
+		F7C4908B16E3F8D7008D7498 /* extraction.xib in CopyFiles */ = {isa = PBXBuildFile; fileRef = F7C4907916E3F797008D7498 /* extraction.xib */; };
+		F7C4908C16E3F8D7008D7498 /* Localizable.strings in CopyFiles */ = {isa = PBXBuildFile; fileRef = F7C4907A16E3F797008D7498 /* Localizable.strings */; };
+		F7C4908D16E3F8D7008D7498 /* main.xib in CopyFiles */ = {isa = PBXBuildFile; fileRef = F7C4907B16E3F797008D7498 /* main.xib */; };
+		F7C4908E16E3F8D7008D7498 /* preferences.xib in CopyFiles */ = {isa = PBXBuildFile; fileRef = F7C4907C16E3F797008D7498 /* preferences.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		F7C4908716E3F8C6008D7498 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = Translation;
+			dstSubfolderSpec = 7;
+			files = (
+				F7C4908816E3F8D7008D7498 /* advanced.xib in CopyFiles */,
+				F7C4908916E3F8D7008D7498 /* compression.xib in CopyFiles */,
+				F7C4908A16E3F8D7008D7498 /* Credits.html in CopyFiles */,
+				F7C4908B16E3F8D7008D7498 /* extraction.xib in CopyFiles */,
+				F7C4908C16E3F8D7008D7498 /* Localizable.strings in CopyFiles */,
+				F7C4908D16E3F8D7008D7498 /* main.xib in CopyFiles */,
+				F7C4908E16E3F8D7008D7498 /* preferences.xib in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		F746DF1F1DDF78BF0030FBCE /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
+		F746DF231DDFB5540030FBCE /* getkeka.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = getkeka.sh; sourceTree = "<group>"; };
+		F746DF251DDFBC860030FBCE /* reopen.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = reopen.sh; sourceTree = "<group>"; };
+		F7BCE6A816E3F58800167184 /* Keka Translator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Keka Translator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F7BCE6AC16E3F58800167184 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		F7BCE6AF16E3F58800167184 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+		F7BCE6B016E3F58800167184 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		F7BCE6B116E3F58800167184 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		F7BCE6B416E3F58800167184 /* Keka Translator-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Keka Translator-Info.plist"; sourceTree = "<group>"; };
+		F7BCE6B616E3F58800167184 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		F7BCE6B816E3F58800167184 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		F7BCE6BA16E3F58800167184 /* Keka Translator-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Keka Translator-Prefix.pch"; sourceTree = "<group>"; };
+		F7BCE6BC16E3F58800167184 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
+		F7BCE6BE16E3F58800167184 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		F7BCE6BF16E3F58800167184 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		F7BCE6C216E3F58800167184 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		F7C4906F16E3F6D7008D7498 /* LANGUAGE.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LANGUAGE.h; sourceTree = "<group>"; };
+		F7C4907616E3F797008D7498 /* advanced.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = advanced.xib; sourceTree = "<group>"; };
+		F7C4907716E3F797008D7498 /* compression.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = compression.xib; sourceTree = "<group>"; };
+		F7C4907816E3F797008D7498 /* Credits.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = Credits.html; sourceTree = "<group>"; };
+		F7C4907916E3F797008D7498 /* extraction.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = extraction.xib; sourceTree = "<group>"; };
+		F7C4907A16E3F797008D7498 /* Localizable.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
+		F7C4907B16E3F797008D7498 /* main.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = main.xib; sourceTree = "<group>"; };
+		F7C4907C16E3F797008D7498 /* preferences.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = preferences.xib; sourceTree = "<group>"; };
+		F7C4908416E3F7A5008D7498 /* KekaTranslator.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = KekaTranslator.icns; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F7BCE6A516E3F58800167184 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F7BCE6AD16E3F58800167184 /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F7BCE69D16E3F58800167184 = {
+			isa = PBXGroup;
+			children = (
+				F7BCE6B216E3F58800167184 /* Keka Translator */,
+				F7BCE6AB16E3F58800167184 /* Frameworks */,
+				F7BCE6A916E3F58800167184 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F7BCE6A916E3F58800167184 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F7BCE6A816E3F58800167184 /* Keka Translator.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F7BCE6AB16E3F58800167184 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F7BCE6AC16E3F58800167184 /* Cocoa.framework */,
+				F7BCE6AE16E3F58800167184 /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		F7BCE6AE16E3F58800167184 /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F7BCE6AF16E3F58800167184 /* AppKit.framework */,
+				F7BCE6B016E3F58800167184 /* CoreData.framework */,
+				F7BCE6B116E3F58800167184 /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		F7BCE6B216E3F58800167184 /* Keka Translator */ = {
+			isa = PBXGroup;
+			children = (
+				F746DF1F1DDF78BF0030FBCE /* README.md */,
+				F7C4906F16E3F6D7008D7498 /* LANGUAGE.h */,
+				F7C4907516E3F797008D7498 /* Translation */,
+				F7C4908616E3F7BD008D7498 /* Misk */,
+			);
+			path = "Keka Translator";
+			sourceTree = "<group>";
+		};
+		F7BCE6B316E3F58800167184 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				F746DF251DDFBC860030FBCE /* reopen.sh */,
+				F746DF231DDFB5540030FBCE /* getkeka.sh */,
+				F7C4908416E3F7A5008D7498 /* KekaTranslator.icns */,
+				F7BCE6B416E3F58800167184 /* Keka Translator-Info.plist */,
+				F7BCE6B516E3F58800167184 /* InfoPlist.strings */,
+				F7BCE6B816E3F58800167184 /* main.m */,
+				F7BCE6BA16E3F58800167184 /* Keka Translator-Prefix.pch */,
+				F7BCE6BB16E3F58800167184 /* Credits.rtf */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		F7C4907516E3F797008D7498 /* Translation */ = {
+			isa = PBXGroup;
+			children = (
+				F7C4907616E3F797008D7498 /* advanced.xib */,
+				F7C4907716E3F797008D7498 /* compression.xib */,
+				F7C4907816E3F797008D7498 /* Credits.html */,
+				F7C4907916E3F797008D7498 /* extraction.xib */,
+				F7C4907A16E3F797008D7498 /* Localizable.strings */,
+				F7C4907B16E3F797008D7498 /* main.xib */,
+				F7C4907C16E3F797008D7498 /* preferences.xib */,
+			);
+			path = Translation;
+			sourceTree = SOURCE_ROOT;
+		};
+		F7C4908616E3F7BD008D7498 /* Misk */ = {
+			isa = PBXGroup;
+			children = (
+				F7BCE6B316E3F58800167184 /* Supporting Files */,
+				F7BCE6BE16E3F58800167184 /* AppDelegate.h */,
+				F7BCE6BF16E3F58800167184 /* AppDelegate.m */,
+				F7BCE6C116E3F58800167184 /* MainMenu.xib */,
+			);
+			name = Misk;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F7BCE6A716E3F58800167184 /* Keka Translator */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F7BCE6C616E3F58800167184 /* Build configuration list for PBXNativeTarget "Keka Translator" */;
+			buildPhases = (
+				F7BCE6A416E3F58800167184 /* Sources */,
+				F7BCE6A516E3F58800167184 /* Frameworks */,
+				F7BCE6A616E3F58800167184 /* Resources */,
+				F7C4908716E3F8C6008D7498 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Keka Translator";
+			productName = "Keka Translator";
+			productReference = F7BCE6A816E3F58800167184 /* Keka Translator.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F7BCE69F16E3F58800167184 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = F7BCE6A216E3F58800167184 /* Build configuration list for PBXProject "Project" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = F7BCE69D16E3F58800167184;
+			productRefGroup = F7BCE6A916E3F58800167184 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F7BCE6A716E3F58800167184 /* Keka Translator */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F7BCE6A616E3F58800167184 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F7BCE6B716E3F58800167184 /* InfoPlist.strings in Resources */,
+				F7BCE6BD16E3F58800167184 /* Credits.rtf in Resources */,
+				F7BCE6C316E3F58800167184 /* MainMenu.xib in Resources */,
+				F746DF241DDFB5540030FBCE /* getkeka.sh in Resources */,
+				F746DF261DDFBC860030FBCE /* reopen.sh in Resources */,
+				F7C4907D16E3F797008D7498 /* advanced.xib in Resources */,
+				F7C4907E16E3F797008D7498 /* compression.xib in Resources */,
+				F7C4907F16E3F797008D7498 /* Credits.html in Resources */,
+				F7C4908016E3F797008D7498 /* extraction.xib in Resources */,
+				F7C4908116E3F797008D7498 /* Localizable.strings in Resources */,
+				F7C4908216E3F797008D7498 /* main.xib in Resources */,
+				F7C4908316E3F797008D7498 /* preferences.xib in Resources */,
+				F7C4908516E3F7A5008D7498 /* KekaTranslator.icns in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F7BCE6A416E3F58800167184 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F746DF201DDF78BF0030FBCE /* README.md in Sources */,
+				F7BCE6B916E3F58800167184 /* main.m in Sources */,
+				F7BCE6C016E3F58800167184 /* AppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		F7BCE6B516E3F58800167184 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F7BCE6B616E3F58800167184 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		F7BCE6BB16E3F58800167184 /* Credits.rtf */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F7BCE6BC16E3F58800167184 /* en */,
+			);
+			name = Credits.rtf;
+			sourceTree = "<group>";
+		};
+		F7BCE6C116E3F58800167184 /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F7BCE6C216E3F58800167184 /* en */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		F7BCE6C416E3F58800167184 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		F7BCE6C516E3F58800167184 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		F7BCE6C716E3F58800167184 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Keka Translator/Keka Translator-Prefix.pch";
+				INFOPLIST_FILE = "Keka Translator/Keka Translator-Info.plist";
+				PRODUCT_NAME = "Keka Translator";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		F7BCE6C816E3F58800167184 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Keka Translator/Keka Translator-Prefix.pch";
+				INFOPLIST_FILE = "Keka Translator/Keka Translator-Info.plist";
+				PRODUCT_NAME = "Keka Translator";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F7BCE6A216E3F58800167184 /* Build configuration list for PBXProject "Project" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F7BCE6C416E3F58800167184 /* Debug */,
+				F7BCE6C516E3F58800167184 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F7BCE6C616E3F58800167184 /* Build configuration list for PBXNativeTarget "Keka Translator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F7BCE6C716E3F58800167184 /* Debug */,
+				F7BCE6C816E3F58800167184 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F7BCE69F16E3F58800167184 /* Project object */;
+}

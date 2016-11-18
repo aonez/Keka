@@ -1,0 +1,199 @@
+/* ---------------------------------------------------------------------------- */
+// New in 1.0
+
+/* general use */
+"OK" = "OK";
+"Yes" = "Si";
+"No" = "No";
+"Don't show again" = "No volver a mostrar";
+
+/* misk */
+"Set as default compressor" = "Usar como compresor por defecto";
+"Not now" = "Ahora no";
+"Want to make Keka your default compressor?" = "¿Quieres que Keka sea tu compresor por defecto?";
+"This means that all the compatible files will be extracted with Keka by now. You can set this later in the Keka Preferences." = "Esto significa que todos los archivos compatibles serán descomprimidos con Keka. Puedes hacer que Keka sea tu compresor por defecto en cualquier otro momento desde las Preferencias.";
+"Really want to close Keka?" = "¿Seguro que quieres salir de Keka?";
+"The current operations will be canceled. If you choose to wait and quit Keka will exit when all work is done." = "Las operaciones que se están ejecutando se cancelarán.";
+
+/* ---------------------------------------------------------------------------- */
+
+
+
+/* Growl */
+
+/* ---------------------------------------------------------------------------- */
+// New in 1.0
+"Password needed" = "Se necesita una contraseña";
+"File \"%@\" needs a password to be extracted" = "El archivo \"%@\" necesita una contraseña para ser descomprimido";
+/* ---------------------------------------------------------------------------- */
+// Updated in 1.0
+"Extraction of \"%@\" done" = "El archivo \"%@\" se ha descomprimido";
+"Extraction of \"%@\" failed." = "La descompresión del archivo \"%@\" ha fallado.";
+//"Extraction of file \"%@\" complete" = "Extraction of file \"%@\" complete";
+//"Extraction of file \"%@\" failed." = "Extraction of file \"%@\" failed.";
+/* ---------------------------------------------------------------------------- */
+"Extraction complete" = "Extracción completa";
+"Extraction fail" = "Extracción fallida";
+"Compression complete" = "Compresión completa";
+"File \"%@\" created" = "Archivo \"%@\" creado";
+"Compression fail" = "Compresión fallida";
+"File \"%@\" cannot be created" = "El archivo \"%@\" no se ha podido crear";
+//"Operation not implemented" = "Operation not implemented";
+//"This operation is not implemented yet so Keka is in beta process." = "This operation is not implemented yet so Keka is in beta process.";
+
+
+
+/* Progress window */
+"Performing operation..." = "Preparando la operación...";
+"Waiting..." = "Esperando...";
+"Extracting \"%@\"" = "Extrayendo \"%@\"";
+"Extracting \"%@...\"" = "Extrayendo \"%@...\"";
+"Creating %@ file..." = "Creando el archivo %@...";
+"Creating file \"%@\"" = "Creando el archivo \"%@\"";
+"Creating file \"%@...\"" = "Creando el archivo \"%@...\"";
+/* ---------------------------------------------------------------------------- */
+// Updated in 1.0
+"Time elapsed: %d:%@%d:%@%d hours%@" = "Transcurrido: %d:%@%d:%@%d horas%@";
+"Time elapsed: %d:%@%d minutes%@" = "Transcurrido: %d:%@%d minutos%@";
+"Time elapsed: %d seconds%@" = "Transcurrido: %d segundos%@";
+
+
+//"Time elapsed: %d seconds" = "Time elapsed: %d seconds";
+//"Time elapsed: %d:%@%d minutes" = "Time elapsed: %d:%@%d minutes";
+//"Time elapsed: %d:%@%d:%@%d hours" = "Time elapsed: %d:%@%d:%@%d hours";
+/* ---------------------------------------------------------------------------- */
+"%d seconds" = "%d segundos";
+"%d:%@%d minutes" = "%d:%@%d minutos";
+"%d:%@%d:%@%d hours" = "%d:%@%d:%@%d horas";
+"Pause" = "Pausa";
+"Continue" = "Continuar";
+"Operation paused" = "Operación pausada";
+"Cancel" = "Cancelar";
+"Close" = "Cerrar";
+"Operation failed" = "Operación fallida";
+"Operation failed with error code %d" = "La operación ha fallado con el código de error %d";
+/* ---------------------------------------------------------------------------- */
+// New in 1.0
+"Choose a name and folder to start the compression" = "Escoge un nombre y una carpeta para empezar a comprimir";
+"Creation of \"%@\" failed" = "La creación del archivo \"%@\" ha fallado";
+"Creating \"%@\"" = "Creando \"%@\"";
+"Prepearing extraction..." = "Preparando la descompresión...";
+"Choose a folder to extract this file" = "Selecciona una carpeta para descomprimir este archivo";
+"Extraction of \"%@\" failed" = "La descompresión de \"%@\" ha fallado";
+"Keka - %i on queue" = "Keka - %i en espera";
+"Keka can't create this ISO image" = "Keka no puede crear esta imagen ISO";
+"You can only create an ISO image with a single folder. Try to put all your files in a folder and drop it to Keka to create the ISO image." = "Sólo puedes crear una imagen ISO con una carpeta. Intenta trasladar todos los archivos a una carpeta y usa esa carpeta para crear la imagen ISO con Keka.";
+"Compress \"%@\" in %@ to..." = "Comprimir \"%@\" como %@ en...";
+"Compress in %@ to..." = "Comprimir como %@ en...";
+"Save as:" = "Guardar como:";
+"Compress" = "Comprimir";
+"Extract \"%@\" to..." = "Descomprimr \"%@\" en...";
+"Extract as:" = "Descomprimir como:";
+"Extract" = "Descomprimir";
+" - Remaining: Calculating..." = " - Restante: Calculando...";
+" - Remaining: About one second" = " - Restante: Aproximadamente un segundo";
+" - Remaining: About %d seconds" = " - Restante: Unos %d segundos";
+" - Remaining: About 1 minute" = " - Restante: Aproximadamente 1 minuto";
+" - Remaining: About %d minutes" = " - Restante: Unos %d minutos";
+" - Remaining: About 1 hour" = " - Restante: Aproximadamente 1 hour";
+" - Remaining: About %d hours" = " - Restante: Unas %d hours";
+" - Remaining: About 1 day" = " - Restante: Aproximadamente 1 day";
+" - Remaining: About %d days" = " - Restante: Unos %d days";
+" - Remaining: About 1 year" = " - Restante: Aproximadamente 1 year";
+" - Remaining: About %d years" = " - Restante: Unos %d years";
+" - Remaining: Less than one second" = " - Restante: Menos de un segundo";
+"Can't show progress time..." = "No se puede mostrar el tiempo...";
+/* ---------------------------------------------------------------------------- */
+
+
+
+/* Password window */
+/* ---------------------------------------------------------------------------- */
+// Updated in 1.0
+"Password for \"%@\"" = "Contraseña para \"%@\"";
+/* ---------------------------------------------------------------------------- */
+
+
+
+/* Preferences */
+// Compression methods
+/* ---------------------------------------------------------------------------- */
+// Replaced in 1.0
+"No compression" = "Sin compresión";
+"Fastest, less compression" = "Muy rápido, menos compresión";
+"Fast, less compression" = "Rápido, menos compresión";
+"Normal" = "Normal";
+"Slow, more compression" = "Lento, más compresión";
+"Slowest, more compression" = "Muy lento, máxima compresión";
+
+"Method: No compression" = "Método: Sin compresión";
+"Method: Fastest, less compression" = "Método: Muy rápido, menos comp.";
+"Method: Fast, less compression" = "Método: Rápido, menos compresión";
+"Method: Normal" = "Método: Normal";
+"Method: Slow, more compression" = "Método: Lento, más compresión";
+"Method: Slowest, more compression" = "Método: Muy lento, máxima comp.";
+// New in 1.0
+"Compression" = "Compresión";
+"Extraction" = "Extracción";
+"Keka can't use the \"extlx.plist\" list, please get in contact with the developers.\n\nNow Keka will quit." = "Keka no puede usar la lista \"extlx.plist\", por favor ponte en contacto con los desarrolladores.\n\nKeka se cerrará ahora.";
+"Keka is dying!" = "Keka se está muriendo!";
+/* ---------------------------------------------------------------------------- */
+
+// Save location and defaul name combo boxes
+"Ask each time" = "Preguntar cada vez";
+"Next to original file" = "Al lado del archivo original";
+"Custom folder..." = "Carpeta personalizada...";
+"Same as original file" = "El mismo que el archivo original";
+"Custom name..." = "Nombre personalizado...";
+"Compressed file" = "Archivo comprimido";
+/* ---------------------------------------------------------------------------- */
+// New in 1.0
+"Set as default folder" = "Usar como carpeta por defecto";
+/* ---------------------------------------------------------------------------- */
+
+// Action to perform - ### VERY IMPORTANT TO BE THE SAME AS IN THE XIB FILE ###
+"Perform automatic action" = "Realizar operación automáticamente";
+"Always compress" = "Comprimir siempre";
+"Always extract" = "Extraer siempre";
+
+//Split items - ### VERY IMPORTANT TO BE THE SAME AS IN THE XIB FILE ###
+"1.4 MB Floppy" = "1.4 MB Disquete";
+"650 MB CD" = "650 MB CD";
+"700 MB CD" = "700 MB CD";
+"4480 MB DVD" = "4480 MB DVD";
+
+
+
+/* Drag and Drop layer */
+/* ---------------------------------------------------------------------------- */
+// New in 1.0
+"Drop here to extract" = "Suelta aquí para descomprimir";
+"Drop here to compress" = "Suelta aquí para comprimir";
+/* ---------------------------------------------------------------------------- */
+
+
+
+/* Error messages */
+/* ---------------------------------------------------------------------------- */
+// New in 1.0
+"Error code %d\nThe first part \"%@\" can't be found" = "Código de error %d\nLa primera parte \"%@\" no se ha encontrado";
+"unknown" = "desconocido";
+"Unknown error" = "Error desconocido";
+"Error code %d using \"%@\"\n%@" = "Código de error %d usando \"%@\"\n%@";
+"No errors found" = "Sin errores";
+"Minor error, the operation may be done well" = "Error menor, la operación puede haberse realizado con éxito";
+"Fatal error" = "Error fatal";
+"CRC error occurred, maybe the file is corrupt" = "Ha ocurrido un error de CRC, seguramento el archivo esté corrupto";
+"Attempt to modify an archive previously locked" = "Se ha intentado modificar un archivo previamente cerrado (sólido)";
+"Maybe you don't have permission to write or your disk is full" = "Quizá no tengas permisos de escritura o tu disco esté lleno";
+"Can't open the file, maybe you don't have read permission" = "No se puede abrir el archivo, quizá no tengas permisos de lectura";
+"Command line error, please contact with the developer" = "Error en la linea de comandos, por favor contacta con el desarrollador";
+"Not enough memory. Try to close some programs and repeat the operation" = "No hay memoria suficiente. Prueba a cerrar algunos programas y repetir la operación";
+"Can't create the file, maybe you don't have permission or free space" = "No se puede crear el archivo, quizá no tengas permisos de escritura o espacio libre";
+"Canceled manually" = "Cancelado manualmente";
+"Bad password, try again" = "Contraseña incorrecta, inténtalo de nuevo";
+"This archive is locked" = "El archivo está cerrado (sólido)";
+"Write error. No permission? No space left?" = "Error de escritura. Quizá no tengas permisos de escritura o tu disco esté lleno";
+"Can't open the file, maybe it's not accessible" = "No se puede abrir el archivo, quizá esté inaccesible o no tengas permisos de lectura";
+"No files matching the mask" = "No coincide ninguna de los filtros";
+/* ---------------------------------------------------------------------------- */

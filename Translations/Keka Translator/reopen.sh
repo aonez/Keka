@@ -1,14 +1,16 @@
-pathResources="${0%/*}"
-pathApp=${pathResources%/*/*}
-app="Keka Translator"
+pathResources="$1"
+pathApp="$2"
+app="$3"
 
-count=0
-while pgrep $app > /dev/null; do
-	count=$(($count +1))
-	touch /Users/aone/Desktop/test/$count
+while [ ! -f "$pathResources/updating" ]
+do
 	sleep 1
 done
 
+rm "$pathResources/updating"
+#sleep 3
+
 echo "Reopening $app..."
 open "$pathApp"
+
 exit

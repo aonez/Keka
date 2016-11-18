@@ -1,0 +1,152 @@
+
+
+/* general use */
+"OK" = "OK";
+"Yes" = "Ja";
+"No" = "Nein";
+"Don't show again" = "Nicht erneut anzeigen";
+
+/* misk */
+"Set as default compressor" = "Als Standard-Komprimierer verwenden";
+"Not now" = "Später";
+"Want to make Keka your default compressor?" = "Wollen Sie Keka als Standard-Komprimierer festlegen?";
+"This means that all the compatible files will be extracted with Keka by now. You can set this later in the Keka Preferences." = "Dies bedeutet, dass alle kompatibelen Dateien von nun an mit Keka entpackt werden. Sie können dies später in den Keka Einstellungen ändern.";
+"Really want to close Keka?" = "Wollen Sie Keka wirklich schliessen?";
+"The current operations will be canceled. If you choose to wait and quit Keka will exit when all work is done." = "Die laufenden Aktionen werden abgebrochen. Wenn Sie warten, wird Keka beendet, sobald alle Arbeit getan ist.";
+// New in 1.0
+"Password needed" = "Kennwort benötigt";
+"File \"%@\" needs a password to be extracted" = "Datei \"%@\" benötigt ein Kennwort zum Entpacken";
+// Updated in 1.0
+"Extraction of \"%@\" done" = "Entpacken abgeschlossen";
+"Extraction of \"%@\" failed." = "Entpacken von \"%@\" fehlgeschlagen.";
+/* ---------------------------------------------------------------------------- */
+"Extraction complete" = "Entpacken abgeschlossen";
+"Extraction fail" = "Entpacken fehlgeschlagen";
+"Compression complete" = "Komprimierung abgeschlossen";
+"File \"%@\" created" = "Datei \"%@\" erstellt";
+"Compression fail" = "Komprimierung fehlgeschlagen";
+"File \"%@\" cannot be created" = "Datei \"%@\" kann nicht erstellt werden";
+"Operation not implemented" = "Aktion nicht implementiert";
+"This operation is not implemented yet so Keka is in beta process." = "Diese Aktion ist noch nicht implementiert solange Keka in der Betaphase ist.";
+
+
+
+/* Progress window */
+"Performing operation..." = "Aktion wird ausgeführt...";
+"Waiting..." = "Warten…";
+"Extracting \"%@\"" = "Entpacke \"%@\"";
+"Extracting \"%@...\"" = "Entpacke \"%@...\"";
+"Creating %@ file..." = "Erstelle %@ Datei...";
+"Creating file \"%@\"" = "Erstelle Datei \"%@\"";
+"Creating file \"%@...\"" = "Erstelle Datei \"%@...\"";
+// Updated in 1.0
+"Time elapsed: %d:%@%d:%@%d hours%@" = "Verstrichene Zeit: %d:%@%d:%@%d Stunden%@";
+"Time elapsed: %d:%@%d minutes%@" = "Verstrichene Zeit: %d:%@%d Minuten%@";
+"Time elapsed: %d seconds%@" = "Verstrichene Zeit: %d Sekunden%@";
+/* ---------------------------------------------------------------------------- */
+"%d seconds" = "%d Sekunden";
+"%d:%@%d minutes" = "%d:%@%d Minuten";
+"%d:%@%d:%@%d hours" = "%d:%@%d:%@%d Stunden";
+"Pause" = "Pause";
+"Continue" = "Fortfahren";
+"Operation paused" = "Aktion angehalten";
+"Cancel" = "Abbrechen";
+"Close" = "Schließen";
+"Operation failed" = "Aktion fehlgeschlagen";
+"Operation failed with error code %d" = "Aktion fehlgeschlagen mit Fehlercode %d";
+// New in 1.0
+"Choose a name and folder to start the compression" = "Wählen Sie Name und Ordner um die Komprimierung zu starten";
+"Creation of \"%@\" failed" = "Erstellung von \"%@\" fehlgeschlagen";
+"Creating \"%@\"" = "Erstelle \"%@\"";
+"Prepearing extraction..." = "Entpacken vorbereiten...";
+"Choose a folder to extract this file" = "Wählen Sie einen Ordener um die Datei zu entpacken";
+"Extraction of \"%@\" failed" = "Entpacken von \"%@\" Fehlgeschlagen";
+"Keka - %i on queue" = "Keka - %i in Warteschlange";
+"Keka can't create this ISO image" = "Keka kann dieses ISO-Abbild nicht erstellen";
+"You can only create an ISO image with a single folder. Try to put all your files in a folder and drop it to Keka to create the ISO image." = "Sie können nur ein ISO-Abbild aus einem einzelnen Ordner erstellen. Versuchen Sie, alle Ihre Dateien in einem Ordner abzulegen und ziehen Sie ihn auf Keka um das ISO-Abbild zu erstellen.";
+"Compress \"%@\" in %@ to..." = "Komprimiere \"%@\" in %@ nach...";
+"Compress in %@ to..." = "Komprimiere in %@ nach...";
+"Save as:" = "Sichern unter:";
+"Compress" = "Komprimieren";
+"Extract \"%@\" to..." = "Entpacke \"%@\" nach…";
+"Extract as:" = "Entpacken als:";
+"Extract" = "Entpacken";
+" - Remaining: Calculating..." = " - Verbleibend: Berechnung erfolgt...";
+" - Remaining: About one second" = " - Verbleibend: Ungefähr eine Sekunde";
+" - Remaining: About %d seconds" = " - Verbleibend: Ungefähr %d Sekunden";
+" - Remaining: About 1 minute" = " - Verbleibend: Ungefähr 1 Minute";
+" - Remaining: About %d minutes" = " - Verbleibend: Ungefähr %d Minuten";
+" - Remaining: About 1 hour" = " - Verbleibend: Ungefähr 1 Stunde";
+" - Remaining: About %d hours" = " - Verbleibend: Ungefähr %d Stunden";
+" - Remaining: About 1 day" = " - Verbleibend: Ungefähr 1 Tag";
+" - Remaining: About %d days" = " - Verbleibend: Ungefähr %d Tage";
+" - Remaining: About 1 year" = " - Verbleibend: Ungefähr 1 Jahr";
+" - Remaining: About %d years" = " - Verbleibend: Ungefähr %d Jahre";
+" - Remaining: Less than one second" = " - Verbleibend: Weniger als eine Sekunde";
+"Can't show progress time..." = "Zeitfortschritt kann nicht angezeigt werden...";
+// Updated in 1.0
+"Password for \"%@\"" = "Kennwort für \"%@\"";
+// Replaced in 1.0
+"No compression" = "Keine Komprimierung";
+"Fastest, less compression" = "Schnellste, weniger Komprimierung";
+"Fast, less compression" = "Schnell, weniger Komprimierung";
+"Normal" = "Normal";
+"Slow, more compression" = "Langsam, mehr Komprimierung";
+"Slowest, more compression" = "Langsamste, mehr Komprimierung";
+
+"Method: No compression" = "Methode: Keine Komprimierung";
+"Method: Fastest, less compression" = "Methode: Schnellste, weniger Komprimierung";
+"Method: Fast, less compression" = "Methode: Schnell, weniger Komprimierung";
+"Method: Normal" = "Methode: Normal";
+"Method: Slow, more compression" = "Methode: Langsam, mehr Komprimierung";
+"Method: Slowest, more compression" = "Methode: Langsamste, mehr Komprimierung";
+// New in 1.0
+"Compression" = "Komprimierung";
+"Extraction" = "Entpacken";
+"Keka can't use the \"extlx.plist\" list, please get in contact with the developers.\n\nNow Keka will quit." = "Keka kann die Liste \"extlx.plist\" nicht nutzen, bitte kontaktieren sie die Entwickler.\n\nKeka wird jetzt beendet.";
+"Keka is dying!" = "Keka stürtz ab!";
+
+// Save location and defaul name combo boxes
+"Ask each time" = "Jedes mal fragen";
+"Next to original file" = "Neben der Originaldatei";
+"Custom folder..." = "Benutzerdefinierter Ordner...";
+"Same as original file" = "Gleich der Originaldatei";
+"Custom name..." = "Benutzerdefinierter Name...";
+"Compressed file" = "Komprimierte Datei";
+// New in 1.0
+"Set as default folder" = "Als Standard-Ordner verwenden";
+
+// Action to perform - ### VERY IMPORTANT TO BE THE SAME AS IN THE XIB FILE ###
+"Perform automatic action" = "Automatische Aktion ausführen";
+"Always compress" = "Immer komprimieren";
+"Always extract" = "Immer entpacken";
+
+//Split items - ### VERY IMPORTANT TO BE THE SAME AS IN THE XIB FILE ###
+"1.4 MB Floppy" = "1.4 MB Diskette";
+"650 MB CD" = "650 MB CD";
+"700 MB CD" = "700 MB CD";
+"4480 MB DVD" = "4480 MB DVD";
+// New in 1.0
+"Drop here to extract" = "Hier ablegen zum Entpacken";
+"Drop here to compress" = "Hier ablegen zum Komprimieren";
+// New in 1.0
+"Error code %d\nThe first part \"%@\" can't be found" = "Fehlercode %d\nDer erste Teil \"%@\" wurde nicht gefunden";
+"unknown" = "Unbekannt";
+"Unknown error" = "Unbekannter Fehler";
+"Error code %d using \"%@\"\n%@" = "Fehlercode %d mit \"%@\"\n%@";
+"No errors found" = "Keine Fehler gefunden";
+"Minor error, the operation may be done well" = "Geringfügiger Fehler, die Aktion kann gut gelaufen sein.";
+"Fatal error" = "Fataler Fehler";
+"CRC error occurred, maybe the file is corrupt" = "CRC-Fehler, die Datei ist vielleicht beschädigt";
+"Attempt to modify an archive previously locked" = "Versuch ein gesperrtes Archiv zu ändern";
+"Maybe you don't have permission to write or your disk is full" = "Vielleicht haben Sie keine Schreibrechte oder die Festplatte ist voll";
+"Can't open the file, maybe you don't have read permission" = "Datei konnte nicht geöffnet werden,  vielleicht haben Sie keine Leserechte";
+"Command line error, please contact with the developer" = "Kommandozeilen-Fehler, bitte wenden Sie sich an der Entwickler";
+"Not enough memory. Try to close some programs and repeat the operation" = "Nicht genügend Speicher. Versuchen Sie, einige Programme zu schließen und die Aktion zu wiederholen";
+"Can't create the file, maybe you don't have permission or free space" = "Datei konnte nicht erstellt werden,  vielleicht haben Sie keine Berechtigung oder freien Speicherplatz";
+"Canceled manually" = "Manuell abgebrochen";
+"Bad password, try again" = "Falsches Kennwort, versuchen Sie es erneut";
+"This archive is locked" = "Dieses Archiv ist gesperrt";
+"Write error. No permission? No space left?" = "Schreibfehler. Keine Zugriffberechtigung? Kein Speicherplatz?";
+"Can't open the file, maybe it's not accesible" = "Datei konnte nicht geöffnet werden,  vielleicht ist sie nicht zugänglich";
+"No files matching the mask" = "Keine Dateien entsprechen der Maske";
