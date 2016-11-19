@@ -6,14 +6,13 @@ The macOS file archiver.
 - [Issues](https://github.com/aonez/Keka/issues) - look for open ones, [create](https://github.com/aonez/Keka/issues/new) a new one.
 - [Wiki](https://github.com/aonez/Keka/wiki) - learn and share Keka knowledge.
 - [Releases](https://github.com/aonez/Keka/releases) - download an specific version.
+- [Translations](Translations/) - Keep Keka multilingual and well spoken :)
 
 This repository is used mainly to take care of [Issues](https://github.com/aonez/Keka/issues) and have a collaborative [Wiki](https://github.com/aonez/Keka/wiki).
 
 If you have a problem or a request just search the [Issues](https://github.com/aonez/Keka/issues) for similar ones or [create](https://github.com/aonez/Keka/issues/new) a new one.
 
 If you'll like to chat and you think the [Issues](https://github.com/aonez/Keka/issues) section is not the right place, just head to the [Forum](http://forum.kekaosx.com).
-
-Translators will have here the files to translate in the near future. Meanwhile, read the [instructions](http://www.kekaosx.com/forum/viewtopic.php?f=1&t=5) and download the [files to be translated](http://sourceforge.net/projects/keka/files/Keka%20Translator.7z/download).
 
 Also head to [Releases](https://github.com/aonez/Keka/releases) if you need a concrete version not found on the [Keka website](http://www.kekaosx.com).
 
