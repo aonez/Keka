@@ -3,7 +3,7 @@
 If you like Keka and have some Xcode and grammar skills, make it speak your language!
 
 
-## What to do here?
+## What to do here
 
 In the [Current Translations](Current Translations/) folder you have all the updated files of the translations. You can simply update them and send a pull request.
 
