@@ -6,7 +6,7 @@ The macOS file archiver.
 - [Issues](https://github.com/aonez/Keka/issues) - look for open ones, [create](https://github.com/aonez/Keka/issues/new) a new one.
 - [Wiki](https://github.com/aonez/Keka/wiki) - learn and share Keka knowledge.
 - [Releases](https://github.com/aonez/Keka/releases) - download an specific version.
-- [Translations](Translations/) - Keep Keka multilingual and well spoken :)
+- [Translations](Translations/) - keep Keka multilingual and well spoken :)
 
 This repository is used mainly to take care of [Issues](https://github.com/aonez/Keka/issues) and have a collaborative [Wiki](https://github.com/aonez/Keka/wiki).
 
