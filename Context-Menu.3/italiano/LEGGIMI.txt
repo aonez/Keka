@@ -1,0 +1,6 @@
+Copia semplicemente il file "Comprimi con keka.workflow" nella cartella /Utenti/"Il tuo nome utente"/Services
+Puoi tradurre la stringa con qualsiasi editor di testo:
+
+	- Fai click con il tasto destro sul file "Comprimi con keka.workflow"
+	- Scegli "Mostra contenuto pacchetto"
+	- Nella cartella "Content", modifica il file "Info.plist" alla linea 11

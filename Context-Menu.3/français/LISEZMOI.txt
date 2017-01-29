@@ -1,0 +1,6 @@
+Copiez le fichier "Compresser avec Keka.workflow" à l'emplacement /Utilisateurs/"Votre nom d'utilisateur"/Bibliothèque/Services.
+Vous pouvez en effectuer la traduction avec un éditeur de texte quelconque :
+
+	- Clic-droit sur le fichier "Compresser avec Keka.workflow"
+	- Afficher le contenu du paquet
+	- Dans le dossier Contents, éditez le fichier "Info.plist", ligne 11.
