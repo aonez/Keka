@@ -1,0 +1,6 @@
+Zum installieren einfach die "Komprimieren mit Keka.workflow" Datei in /Users/"Ihr Nutzerverzeichnis"/Library/Services kopieren
+Eigene Übersetzungen können Sie mit jedem Text Editor erstellen:
+
+	- Mit der rechten Maustaste auf "Komprimieren mit Keka.workflow" klicken
+	- Paketinhalt zeigen
+	- Im Ordner "Contents" die Datei "Info.plist" bearbeiten und den Textstring in Zeile 11 anpassen.
