@@ -1,7 +1,19 @@
 # Keka
 The macOS file archiver.
 
-## What to do here
+## Downloads
+
+### Current version
+
+Head to the [Releases](https://github.com/aonez/Keka/releases) section to get the [latest stable version](https://github.com/aonez/Keka/releases/latest) or a pre-release version, if available.
+
+### Legacy versions
+- Mac OS X 10.6 Snow Leopard: [Keka 1.0.4](https://github.com/aonez/Keka/releases/tag/v1.0.4-snow)
+- Mac OS X 10.5 Leopard: [Keka 1.0.4 Leo](https://github.com/aonez/Keka/releases/tag/v1.0.4-leo)
+- Mac OS X 10.4 Tiger: [Keka 0.1.2.1 Tiger](https://github.com/aonez/Keka/releases/tag/v0.1.2.1-tiger)
+
+
+## What more to do here
 
 - [Issues](https://github.com/aonez/Keka/issues) - look for open ones, [create](https://github.com/aonez/Keka/issues/new) a new one.
 - [Wiki](https://github.com/aonez/Keka/wiki) - learn and share Keka knowledge.
