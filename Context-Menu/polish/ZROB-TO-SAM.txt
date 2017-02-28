@@ -1,0 +1,6 @@
+Just copy "Compress with keka.workflow" file to /Users/"Your user name"/Library/Services
+You can translate the string with any text editor:
+
+	- Right clic on "Compress with keka.workflow" file
+	- Show content
+	- Inside Contents folder, edit "Info.plist", line 11.
