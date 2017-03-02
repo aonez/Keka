@@ -8,7 +8,7 @@
 			<key>NSMenuItem</key>
 			<dict>
 				<key>default</key>
-				<string>Archiwizuj...</string>
+				<string>Keka - dodaj do archiwum...</string>
 			</dict>
 			<key>NSMessage</key>
 			<string>runWorkflowAsService</string>

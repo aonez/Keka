@@ -40,7 +40,7 @@
             <rect key="frame" x="0.0" y="0.0" width="450" height="263"/>
             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
             <subviews>
-                <box autoresizesSubviews="NO" borderType="line" title="Tryb działania:" id="191">
+                <box autoresizesSubviews="NO" borderType="line" title="Actions" id="191">
                     <rect key="frame" x="36" y="144" width="379" height="99"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                     <view key="contentView" id="1WJ-X2-yW7">
@@ -50,7 +50,7 @@
                             <textField verticalHuggingPriority="750" id="193">
                                 <rect key="frame" x="15" y="14" width="347" height="28"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                                <textFieldCell key="cell" controlSize="small" sendsActionOnEndEditing="YES" title="Tryb automatyczny: archiwizuj/wypakuj - zależnie od typu pliku." id="194">
+                                <textFieldCell key="cell" controlSize="small" sendsActionOnEndEditing="YES" title="Automatic action: depending on file extensions Keka will decide if compress or uncompress." id="194">
                                     <font key="font" metaFont="smallSystem"/>
                                     <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                                     <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
@@ -64,9 +64,9 @@
                                     <font key="font" metaFont="menu"/>
                                     <menu key="menu" title="OtherViews" id="196">
                                         <items>
-                                            <menuItem title="Tryb automatyczny" id="199"/>
-                                            <menuItem title="Archiwizuj" id="198"/>
-                                            <menuItem title="Wypakuj" id="197"/>
+                                            <menuItem title="Perform automatic action" id="199"/>
+                                            <menuItem title="Always compress" id="198"/>
+                                            <menuItem title="Always extract" id="197"/>
                                         </items>
                                     </menu>
                                 </popUpButtonCell>
@@ -80,7 +80,7 @@
                 <button id="180">
                     <rect key="frame" x="37" y="67" width="377" height="18"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                    <buttonCell key="cell" type="check" title="Zamknij program po wykonaniu zadania." bezelStyle="regularSquare" imagePosition="leading" alignment="left" inset="2" id="187">
+                    <buttonCell key="cell" type="check" title="Close Keka when no window visible" bezelStyle="regularSquare" imagePosition="leading" alignment="left" inset="2" id="187">
                         <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
                         <font key="font" metaFont="system"/>
                     </buttonCell>
@@ -91,7 +91,7 @@
                 <button verticalHuggingPriority="750" id="183">
                     <rect key="frame" x="33" y="17" width="385" height="32"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                    <buttonCell key="cell" type="push" title="Ustaw jako domyślny kompresor plików" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="184">
+                    <buttonCell key="cell" type="push" title="Set Keka as default compressor/uncompressor" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="184">
                         <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
                         <font key="font" metaFont="system"/>
                     </buttonCell>
@@ -109,7 +109,7 @@
                 <button id="258">
                     <rect key="frame" x="37" y="64" width="377" height="18"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                    <buttonCell key="cell" type="check" title="Wyklucz ukryte pliki systemowe" bezelStyle="regularSquare" imagePosition="leading" alignment="left" inset="2" id="265">
+                    <buttonCell key="cell" type="check" title="Exclude Mac OS X resource forks (ex: .DS_Store)" bezelStyle="regularSquare" imagePosition="leading" alignment="left" inset="2" id="265">
                         <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
                         <font key="font" metaFont="system"/>
                     </buttonCell>
@@ -120,7 +120,7 @@
                 <button id="259">
                     <rect key="frame" x="37" y="41" width="377" height="18"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                    <buttonCell key="cell" type="check" title="Przejdź do pliku po zakończeniu archiwizacji " bezelStyle="regularSquare" imagePosition="leading" alignment="left" inset="2" id="264">
+                    <buttonCell key="cell" type="check" title="Show file in Finder after compression" bezelStyle="regularSquare" imagePosition="leading" alignment="left" inset="2" id="264">
                         <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
                         <font key="font" metaFont="system"/>
                     </buttonCell>
@@ -131,7 +131,7 @@
                 <button id="260">
                     <rect key="frame" x="37" y="18" width="377" height="18"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                    <buttonCell key="cell" type="check" title="Archiwizuj jako pojedynczy plik" bezelStyle="regularSquare" imagePosition="leading" alignment="left" inset="2" id="263">
+                    <buttonCell key="cell" type="check" title="Archive as single files" bezelStyle="regularSquare" imagePosition="leading" alignment="left" inset="2" id="263">
                         <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
                         <font key="font" metaFont="system"/>
                     </buttonCell>
@@ -142,7 +142,7 @@
                 <button id="261">
                     <rect key="frame" x="37" y="87" width="377" height="18"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                    <buttonCell key="cell" type="check" title="Usuń pliki źródłowe po zakończeniu archiwizacji" bezelStyle="regularSquare" imagePosition="leading" alignment="left" inset="2" id="262">
+                    <buttonCell key="cell" type="check" title="Move to trash original file(s) after compression" bezelStyle="regularSquare" imagePosition="leading" alignment="left" inset="2" id="262">
                         <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
                         <font key="font" metaFont="system"/>
                     </buttonCell>
@@ -150,7 +150,7 @@
                         <action selector="deleteCompression:" target="-2" id="267"/>
                     </connections>
                 </button>
-                <box autoresizesSubviews="NO" borderType="line" title="Nazwa i lokalizacja pliku" id="270">
+                <box autoresizesSubviews="NO" borderType="line" title="Name and location" id="270">
                     <rect key="frame" x="36" y="152" width="379" height="170"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                     <view key="contentView" id="3l7-qs-blF">
@@ -165,9 +165,9 @@
                                     <font key="font" metaFont="menu"/>
                                     <menu key="menu" title="OtherViews" id="278">
                                         <items>
-                                            <menuItem title="Zawsze pytaj, gdzie zapisać" id="279"/>
-                                            <menuItem title="Zapisz w pierwotnej lokalizacji" id="280"/>
-                                            <menuItem title="Wybierz folder..." id="281"/>
+                                            <menuItem title="Ask each time" id="279"/>
+                                            <menuItem title="Next to original file" id="280"/>
+                                            <menuItem title="Custom folder..." id="281"/>
                                         </items>
                                     </menu>
                                 </popUpButtonCell>
@@ -178,7 +178,7 @@
                             <textField verticalHuggingPriority="750" id="273">
                                 <rect key="frame" x="15" y="126" width="347" height="17"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                                <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" title="Zapisz w:" id="282">
+                                <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" title="Save to location:" id="282">
                                     <font key="font" metaFont="system"/>
                                     <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                                     <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
@@ -192,8 +192,8 @@
                                     <font key="font" metaFont="menu"/>
                                     <menu key="menu" title="OtherViews" id="285">
                                         <items>
-                                            <menuItem title="Nazwa zgodna z oryginałem" id="286"/>
-                                            <menuItem title="Wybierz nazwę..." id="287"/>
+                                            <menuItem title="Same as original file" id="286"/>
+                                            <menuItem title="Custom name..." id="287"/>
                                         </items>
                                     </menu>
                                 </popUpButtonCell>
@@ -204,7 +204,7 @@
                             <textField verticalHuggingPriority="750" id="272">
                                 <rect key="frame" x="15" y="73" width="347" height="17"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                                <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" title="Nazwy nowych plików:" id="283">
+                                <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" title="Name of new files:" id="283">
                                     <font key="font" metaFont="system"/>
                                     <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                                     <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
@@ -235,7 +235,7 @@
                             <textField verticalHuggingPriority="750" id="158">
                                 <rect key="frame" x="15" y="99" width="178" height="17"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                                <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" alignment="left" title="Domyślny format:" id="159">
+                                <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" alignment="left" title="Default format:" id="159">
                                     <font key="font" metaFont="system"/>
                                     <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                                     <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
@@ -244,7 +244,7 @@
                             <textField verticalHuggingPriority="750" id="157">
                                 <rect key="frame" x="15" y="66" width="178" height="17"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                                <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" alignment="left" title="Domyślna metoda kompresji:" id="160">
+                                <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" alignment="left" title="Default method:" id="160">
                                     <font key="font" metaFont="system"/>
                                     <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                                     <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
@@ -275,7 +275,7 @@
                             <textField verticalHuggingPriority="750" id="156">
                                 <rect key="frame" x="15" y="14" width="347" height="14"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
-                                <textFieldCell key="cell" controlSize="small" sendsActionOnEndEditing="YES" alignment="center" title="Ustawienie działa tylko, gdy program nie jest uruchomiony." id="161">
+                                <textFieldCell key="cell" controlSize="small" sendsActionOnEndEditing="YES" alignment="center" title="Those only are applied when Keka is not opened" id="161">
                                     <font key="font" metaFont="smallSystem"/>
                                     <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                                     <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
@@ -289,12 +289,12 @@
                                     <font key="font" metaFont="menu"/>
                                     <menu key="menu" title="OtherViews" id="163">
                                         <items>
-                                            <menuItem title="Bez kompresji" id="164"/>
-                                            <menuItem title="2" id="167"/>
-                                            <menuItem title="3" id="165"/>
-                                            <menuItem title="4" id="166"/>
-                                            <menuItem title="5" id="169"/>
-                                            <menuItem title="Wysoka kompresja" id="168"/>
+                                            <menuItem title="No compression" id="164"/>
+                                            <menuItem title="Fastest, less compression" id="167"/>
+                                            <menuItem title="Fast, less compression" id="165"/>
+                                            <menuItem title="Normal" id="166"/>
+                                            <menuItem title="Slow, more compression" id="169"/>
+                                            <menuItem title="Slowest, more compression" id="168"/>
                                         </items>
                                     </menu>
                                 </popUpButtonCell>
@@ -308,14 +308,14 @@
                 <popUpButton verticalHuggingPriority="750" id="434">
                     <rect key="frame" x="277" y="116" width="115" height="26"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                    <popUpButtonCell key="cell" type="push" title="Brak" bezelStyle="rounded" alignment="left" lineBreakMode="truncatingTail" state="on" borderStyle="borderAndBezel" imageScaling="proportionallyDown" inset="2" selectedItem="453" id="437">
+                    <popUpButtonCell key="cell" type="push" title="None" bezelStyle="rounded" alignment="left" lineBreakMode="truncatingTail" state="on" borderStyle="borderAndBezel" imageScaling="proportionallyDown" inset="2" selectedItem="453" id="437">
                         <behavior key="behavior" lightByBackground="YES" lightByGray="YES"/>
                         <font key="font" metaFont="menu"/>
                         <menu key="menu" title="OtherViews" id="438">
                             <items>
-                                <menuItem title="Brak" state="on" id="453"/>
-                                <menuItem title="Domyślny - kompresja" id="452"/>
-                                <menuItem title="Domyślny - wypakowywanie" id="439"/>
+                                <menuItem title="None" state="on" id="453"/>
+                                <menuItem title="Default compression" id="452"/>
+                                <menuItem title="Default extraction" id="439"/>
                                 <menuItem title="Basso" id="455"/>
                                 <menuItem title="Blow" id="450"/>
                                 <menuItem title="Bottle" id="451"/>
@@ -340,7 +340,7 @@
                 <textField verticalHuggingPriority="750" id="435">
                     <rect key="frame" x="58" y="122" width="217" height="17"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                    <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" title="Odtwórz dzwięk po zakończeniu kompresji:" id="436">
+                    <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" title="Play a sound after a compression:" id="436">
                         <font key="font" metaFont="system"/>
                         <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                         <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
@@ -348,7 +348,7 @@
                 </textField>
             </subviews>
         </customView>
-        <window title="Okno" allowsToolTipsWhenApplicationIsInactive="NO" autorecalculatesKeyViewLoop="NO" oneShot="NO" showsToolbarButton="NO" animationBehavior="default" id="330" userLabel="preferencesWindow">
+        <window title="Window" allowsToolTipsWhenApplicationIsInactive="NO" autorecalculatesKeyViewLoop="NO" oneShot="NO" showsToolbarButton="NO" animationBehavior="default" id="330" userLabel="preferencesWindow">
             <windowStyleMask key="styleMask" titled="YES" closable="YES" miniaturizable="YES"/>
             <windowPositionMask key="initialPositionMask" rightStrut="YES" bottomStrut="YES"/>
             <rect key="contentRect" x="182" y="520" width="450" height="279"/>
@@ -390,7 +390,7 @@
             <rect key="frame" x="0.0" y="0.0" width="450" height="212"/>
             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
             <subviews>
-                <box autoresizesSubviews="NO" borderType="line" title="Lokalizacja plików" id="352">
+                <box autoresizesSubviews="NO" borderType="line" title="Location" id="352">
                     <rect key="frame" x="36" y="106" width="379" height="86"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                     <view key="contentView" id="oBl-fC-JPb">
@@ -400,14 +400,14 @@
                             <popUpButton verticalHuggingPriority="750" id="354">
                                 <rect key="frame" x="27" y="10" width="335" height="26"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                                <popUpButtonCell key="cell" type="push" title="Domyślny folder..." bezelStyle="rounded" alignment="left" lineBreakMode="truncatingTail" state="on" borderStyle="borderAndBezel" imageScaling="proportionallyDown" inset="2" selectedItem="359" id="355">
+                                <popUpButtonCell key="cell" type="push" title="Custom folder..." bezelStyle="rounded" alignment="left" lineBreakMode="truncatingTail" state="on" borderStyle="borderAndBezel" imageScaling="proportionallyDown" inset="2" selectedItem="359" id="355">
                                     <behavior key="behavior" lightByBackground="YES" lightByGray="YES"/>
                                     <font key="font" metaFont="menu"/>
                                     <menu key="menu" title="OtherViews" id="356">
                                         <items>
-                                            <menuItem title="Zawsze pytaj, gdzie zapisac" id="357"/>
-                                            <menuItem title="Pierwotna lokalizacja" id="358"/>
-                                            <menuItem title="Wybierz folder..." state="on" id="359"/>
+                                            <menuItem title="Ask each time" id="357"/>
+                                            <menuItem title="Next to original file" id="358"/>
+                                            <menuItem title="Custom folder..." state="on" id="359"/>
                                         </items>
                                     </menu>
                                 </popUpButtonCell>
@@ -418,7 +418,7 @@
                             <textField verticalHuggingPriority="750" id="353">
                                 <rect key="frame" x="15" y="42" width="347" height="17"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                                <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" title="Wypadkuj do:" id="360">
+                                <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" title="Extract to location:" id="360">
                                     <font key="font" metaFont="system"/>
                                     <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                                     <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
@@ -430,7 +430,7 @@
                 <button id="351">
                     <rect key="frame" x="37" y="18" width="377" height="18"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                    <buttonCell key="cell" type="check" title="Przejdź do plików po zakończeniu wypakowywania:" bezelStyle="regularSquare" imagePosition="leading" alignment="left" inset="2" id="361">
+                    <buttonCell key="cell" type="check" title="Show content in Finder after extraction" bezelStyle="regularSquare" imagePosition="leading" alignment="left" inset="2" id="361">
                         <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
                         <font key="font" metaFont="system"/>
                     </buttonCell>
@@ -441,7 +441,7 @@
                 <button id="350">
                     <rect key="frame" x="37" y="41" width="377" height="18"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                    <buttonCell key="cell" type="check" title="Usuń archiwum po zakończeniu wypakowania" bezelStyle="regularSquare" imagePosition="leading" alignment="left" inset="2" id="362">
+                    <buttonCell key="cell" type="check" title="Move to trash compressed file(s) after been extracted" bezelStyle="regularSquare" imagePosition="leading" alignment="left" inset="2" id="362">
                         <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
                         <font key="font" metaFont="system"/>
                     </buttonCell>
@@ -452,7 +452,7 @@
                 <textField verticalHuggingPriority="750" id="412">
                     <rect key="frame" x="62" y="76" width="209" height="17"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                    <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" title="Odtwórz dzwięk po zakończeniu wypakowywania:" id="433">
+                    <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" title="Play a sound after an extraction:" id="433">
                         <font key="font" metaFont="system"/>
                         <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                         <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
@@ -461,14 +461,14 @@
                 <popUpButton verticalHuggingPriority="750" id="413">
                     <rect key="frame" x="273" y="70" width="115" height="26"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                    <popUpButtonCell key="cell" type="push" title="Brak" bezelStyle="rounded" alignment="left" lineBreakMode="truncatingTail" state="on" borderStyle="borderAndBezel" imageScaling="proportionallyDown" inset="2" selectedItem="418" id="414">
+                    <popUpButtonCell key="cell" type="push" title="None" bezelStyle="rounded" alignment="left" lineBreakMode="truncatingTail" state="on" borderStyle="borderAndBezel" imageScaling="proportionallyDown" inset="2" selectedItem="418" id="414">
                         <behavior key="behavior" lightByBackground="YES" lightByGray="YES"/>
                         <font key="font" metaFont="menu"/>
                         <menu key="menu" title="OtherViews" id="415">
                             <items>
-                                <menuItem title="Brak" state="on" id="418"/>
-                                <menuItem title="Domyślny - kompresja" id="419"/>
-                                <menuItem title="Domyślny - ekstrakcja" id="432"/>
+                                <menuItem title="None" state="on" id="418"/>
+                                <menuItem title="Default compression" id="419"/>
+                                <menuItem title="Default extraction" id="432"/>
                                 <menuItem title="Basso" id="416"/>
                                 <menuItem title="Blow" id="421"/>
                                 <menuItem title="Bottle" id="420"/>
