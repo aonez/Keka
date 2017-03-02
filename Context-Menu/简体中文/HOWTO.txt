@@ -1,6 +1,6 @@
-Just copy "Compress with keka.workflow" file to /Users/"Your user name"/Library/Services
-You can translate the string with any text editor:
+复制 "使用 Keka 压缩.workflow" 文件到 /Users/"你的用户名"/Library/Services
+你可以使用任何文本编辑器翻译字符串:
 
-	- Right clic on "Compress with keka.workflow" file
-	- Show content
-	- Inside Contents folder, edit "Info.plist", line 11.
+	- 右键单击 "使用 Keka 压缩.workflow" 文件
+	- 显示包内容
+	- 进入 Contents 文件夹, 编辑 "Info.plist", 第 11 行.
