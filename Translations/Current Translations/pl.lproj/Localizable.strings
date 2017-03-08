@@ -51,14 +51,14 @@
 /* ---------------------------------------------------------------------------- */
 
 // Updated in 1.0
-"Time elapsed: %d:%@%d:%@%d hours%@" = "Pozostały czas: %d:%@%d:%@%d godzin%@";
-"Time elapsed: %d:%@%d minutes%@" = "Pozostały czas: %d:%@%d minut%@";
-"Time elapsed: %d seconds%@" = "Pozostały czas: %d sekund%@";
+"Time elapsed: %d:%@%d:%@%d hours%@" = "Upłynęło: %d:%@%d:%@%d godzin%@";
+"Time elapsed: %d:%@%d minutes%@" = "Upłynęło: %d:%@%d minut%@";
+"Time elapsed: %d seconds%@" = "Upłynęło: %d sekund%@";
 
 
-//"Time elapsed: %d seconds" = "Pozostały czas:: %d sekund";
-//"Time elapsed: %d:%@%d minutes" = "Pozostały czas: %d:%@%d minut";
-//"Time elapsed: %d:%@%d:%@%d hours" = "Pozostały czas: %d:%@%d:%@%d godzin";
+//"Time elapsed: %d seconds" = "Upłynęło: %d sekund";
+//"Time elapsed: %d:%@%d minutes" = "Upłynęło: %d:%@%d minut";
+//"Time elapsed: %d:%@%d:%@%d hours" = "Upłynęło: %d:%@%d:%@%d godzin";
 /* ---------------------------------------------------------------------------- */
 
 "%d seconds" = "%d sekund";
@@ -90,19 +90,19 @@
 "Extract \"%@\" to..." = "Extract \"%@\" to…";
 "Extract as:" = "Extract as:";
 "Extract" = "Extract";
-" - Remaining: Calculating..." = " - Pozostały czas: obliczanie...";
-" - Remaining: About one second" = " - Pozostały czas: ok. 1 sekundy";
-" - Remaining: About %d seconds" = " - Pozostały czas: ok. %d sekundy";
-" - Remaining: About 1 minute" = " - Pozostały czas: ok. 1 minuty";
-" - Remaining: About %d minutes" = " - Pozostały czas: ok. %d minut";
-" - Remaining: About 1 hour" = " - Pozostały czas: ok. 1 godziny";
-" - Remaining: About %d hours" = " - Pozostały czas: ok. %d godzin";
-" - Remaining: About 1 day" = " - Pozostały czas: ok. 1 dnia";
-" - Remaining: About %d days" = " - Pozostały czas: ok. %d dani";
-" - Remaining: About 1 year" = " - Pozostały czas: ok. 1 roku";
-" - Remaining: About %d years" = " - Pozostały czas: ok. %d lat";
-" - Remaining: Less than one second" = " - Pozostały czas: < 1 sekundy";
-"Can't show progress time..." = "Pozostały czas: obliczanie...";
+" - Remaining: Calculating..." = " - Pozostało: obliczanie...";
+" - Remaining: About one second" = " - Pozostało: ok. 1 sekundy";
+" - Remaining: About %d seconds" = " - Pozostało: ok. %d sekundy";
+" - Remaining: About 1 minute" = " - Pozostało: ok. 1 minuty";
+" - Remaining: About %d minutes" = " - Pozostało: ok. %d minut";
+" - Remaining: About 1 hour" = " - Pozostało: ok. 1 godziny";
+" - Remaining: About %d hours" = " - Pozostało: ok. %d godzin";
+" - Remaining: About 1 day" = " - Pozostało: ok. 1 dnia";
+" - Remaining: About %d days" = " - Pozostało: ok. %d dani";
+" - Remaining: About 1 year" = " - Pozostało: ok. 1 roku";
+" - Remaining: About %d years" = " - Pozostało: ok. %d lat";
+" - Remaining: Less than one second" = " - Pozostało: < 1 sekundy";
+"Can't show progress time..." = "Pozostało: obliczanie...";
 /* ---------------------------------------------------------------------------- */
 
 /* Password window */
