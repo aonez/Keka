@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11201" systemVersion="15G1004" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none">
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11762" systemVersion="16D32" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none">
     <dependencies>
-        <deployment identifier="macosx"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11201"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11762"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <objects>
         <customObject id="-2" userLabel="File's Owner"/>
         <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application">
+        <customObject id="-3" userLabel="Application" customClass="NSObject">
             <connections>
                 <outlet property="delegate" destination="1470" id="1473"/>
             </connections>
@@ -24,7 +24,7 @@
                 <menuItem title="Keka" id="1523">
                     <menu key="submenu" title="Keka" systemMenu="apple" id="1532">
                         <items>
-                            <menuItem title="Keka - informacje" id="1544">
+                            <menuItem title="O programie Keka..." id="1544">
                                 <modifierMask key="keyEquivalentModifierMask"/>
                                 <connections>
                                     <action selector="orderFrontStandardAboutPanel:" target="-1" id="1641"/>
@@ -68,8 +68,8 @@
                         <items>
                             <menuItem title="Nowy" enabled="NO" keyEquivalent="n" id="1587" userLabel="9"/>
                             <menuItem title="Otwórz" enabled="NO" keyEquivalent="o" id="1588"/>
-                            <menuItem title="Otwórz ponownie" enabled="NO" id="1586">
-                                <menu key="submenu" title="Otwórz ponownie" systemMenu="recentDocuments" id="1592">
+                            <menuItem title="Otwórz ostatnio używane" enabled="NO" id="1586">
+                                <menu key="submenu" title="Otwórz ostatnio używane" systemMenu="recentDocuments" id="1592">
                                     <items>
                                         <menuItem title="Wyczyść menu" enabled="NO" id="1593"/>
                                     </items>
@@ -151,23 +151,25 @@
                                         <menuItem title="Kursywa" tag="1" enabled="NO" keyEquivalent="i" id="1614"/>
                                         <menuItem title="Podkreślenie" enabled="NO" keyEquivalent="u" id="1613"/>
                                         <menuItem isSeparatorItem="YES" id="1612"/>
-                                        <menuItem title="Większe" tag="3" enabled="NO" keyEquivalent="+" id="1611"/>
-                                        <menuItem title="Mniejsze" tag="4" enabled="NO" keyEquivalent="-" id="1610"/>
-                                        <menuItem isSeparatorItem="YES" id="1609"/>
-                                        <menuItem title="Odstępy" enabled="NO" id="1608">
+                                        <menuItem title="Większa" tag="3" enabled="NO" keyEquivalent="+" id="1611"/>
+                                        <menuItem title="Mniejsza" tag="4" enabled="NO" keyEquivalent="" id="1610">
                                             <modifierMask key="keyEquivalentModifierMask"/>
-                                            <menu key="submenu" title="Odstępy" id="1617">
+                                        </menuItem>
+                                        <menuItem isSeparatorItem="YES" id="1609"/>
+                                        <menuItem title="Kerning" enabled="NO" id="1608">
+                                            <modifierMask key="keyEquivalentModifierMask"/>
+                                            <menu key="submenu" title="Kerning" id="1617">
                                                 <items>
-                                                    <menuItem title="Użyj domyślnych" enabled="NO" id="1621">
+                                                    <menuItem title="Używaj domyślnych" enabled="NO" id="1621">
                                                         <modifierMask key="keyEquivalentModifierMask"/>
                                                     </menuItem>
-                                                    <menuItem title="Wyłącz" enabled="NO" id="1620">
+                                                    <menuItem title="Nie używaj" enabled="NO" id="1620">
                                                         <modifierMask key="keyEquivalentModifierMask"/>
                                                     </menuItem>
-                                                    <menuItem title="Zmniejsz odstępy" enabled="NO" id="1619">
+                                                    <menuItem title="Ciaśniejszy" enabled="NO" id="1619">
                                                         <modifierMask key="keyEquivalentModifierMask"/>
                                                     </menuItem>
-                                                    <menuItem title="Zwiększ odstępy" enabled="NO" id="1618">
+                                                    <menuItem title="Luźniejszy" enabled="NO" keyEquivalent="" id="1618">
                                                         <modifierMask key="keyEquivalentModifierMask"/>
                                                     </menuItem>
                                                 </items>
@@ -180,20 +182,20 @@
                                                     <menuItem title="Użyj domyślnych" enabled="NO" id="1625">
                                                         <modifierMask key="keyEquivalentModifierMask"/>
                                                     </menuItem>
-                                                    <menuItem title="Wyłącz" enabled="NO" id="1624">
+                                                    <menuItem title="Nie używaj" enabled="NO" id="1624">
                                                         <modifierMask key="keyEquivalentModifierMask"/>
                                                     </menuItem>
-                                                    <menuItem title="Włącz wszystkie" enabled="NO" id="1623">
+                                                    <menuItem title="Używaj wszystkich" enabled="NO" id="1623">
                                                         <modifierMask key="keyEquivalentModifierMask"/>
                                                     </menuItem>
                                                 </items>
                                             </menu>
                                         </menuItem>
-                                        <menuItem title="Linia pisma" enabled="NO" id="1606">
+                                        <menuItem title="Linia bazowa" enabled="NO" id="1606">
                                             <modifierMask key="keyEquivalentModifierMask"/>
-                                            <menu key="submenu" title="Linia pisma" id="1626">
+                                            <menu key="submenu" title="Linia bazowa" id="1626">
                                                 <items>
-                                                    <menuItem title="Użyj domyślnych" enabled="NO" id="1631">
+                                                    <menuItem title="Użyj domyślnej" enabled="NO" id="1631">
                                                         <modifierMask key="keyEquivalentModifierMask"/>
                                                     </menuItem>
                                                     <menuItem title="Indeks górny" enabled="NO" id="1630">
@@ -202,10 +204,10 @@
                                                     <menuItem title="Indeks dolny" enabled="NO" id="1629">
                                                         <modifierMask key="keyEquivalentModifierMask"/>
                                                     </menuItem>
-                                                    <menuItem title="Powiększenie" enabled="NO" id="1628">
+                                                    <menuItem title="Podnieś" enabled="NO" id="1628">
                                                         <modifierMask key="keyEquivalentModifierMask"/>
                                                     </menuItem>
-                                                    <menuItem title="Pomniejszenie" enabled="NO" id="1627">
+                                                    <menuItem title="Obniż" enabled="NO" id="1627">
                                                         <modifierMask key="keyEquivalentModifierMask"/>
                                                     </menuItem>
                                                 </items>
@@ -227,17 +229,17 @@
                                 <modifierMask key="keyEquivalentModifierMask"/>
                                 <menu key="submenu" title="Tekst" id="1632">
                                     <items>
-                                        <menuItem title="Do lewej" enabled="NO" keyEquivalent="{" id="1640"/>
+                                        <menuItem title="Wyrównaj do lewej" enabled="NO" keyEquivalent="{" id="1640"/>
                                         <menuItem title="Wyśrodkuj" enabled="NO" keyEquivalent="|" id="1639"/>
                                         <menuItem title="Wyjustuj" enabled="NO" id="1638">
                                             <modifierMask key="keyEquivalentModifierMask"/>
                                         </menuItem>
-                                        <menuItem title="Do prawej" enabled="NO" keyEquivalent="}" id="1637"/>
+                                        <menuItem title="Wyrównaj do prawej" enabled="NO" keyEquivalent="}" id="1637"/>
                                         <menuItem isSeparatorItem="YES" id="1636"/>
-                                        <menuItem title="Pokaż linijkę" enabled="NO" id="1635">
+                                        <menuItem title="Pokazuj linijkę" enabled="NO" id="1635">
                                             <modifierMask key="keyEquivalentModifierMask"/>
                                         </menuItem>
-                                        <menuItem title="Skopiuj linijkę" enabled="NO" keyEquivalent="c" id="1634">
+                                        <menuItem title="Kopiuj linijkę" enabled="NO" keyEquivalent="c" id="1634">
                                             <modifierMask key="keyEquivalentModifierMask" control="YES" command="YES"/>
                                         </menuItem>
                                         <menuItem title="Wklej linijkę" enabled="NO" keyEquivalent="v" id="1633">
@@ -286,7 +288,7 @@
                 <menuItem title="Pomoc" id="1522" userLabel="1">
                     <menu key="submenu" title="Pomoc" id="1546" userLabel="2">
                         <items>
-                            <menuItem title="Wsparcie programu Keka" keyEquivalent="?" id="1547">
+                            <menuItem title="Pomoc programu Keka..." keyEquivalent="?" id="1547">
                                 <connections>
                                     <action selector="openHelpInBrowser:" target="1470" id="1656"/>
                                 </connections>

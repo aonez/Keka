@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11201" systemVersion="16B2555" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none">
+<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11762" systemVersion="16D32" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none">
     <dependencies>
-        <deployment identifier="macosx"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11201"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11762"/>
         <capability name="box content view" minToolsVersion="7.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <objects>
         <customObject id="-2" userLabel="File's Owner" customClass="defaultsController">
@@ -109,7 +109,7 @@
                 <button id="258">
                     <rect key="frame" x="37" y="64" width="377" height="18"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                    <buttonCell key="cell" type="check" title="Wyklucz ukryte pliki systemowe" bezelStyle="regularSquare" imagePosition="leading" alignment="left" inset="2" id="265">
+                    <buttonCell key="cell" type="check" title="Wyklucz ukryte pliki systemowe." bezelStyle="regularSquare" imagePosition="leading" alignment="left" inset="2" id="265">
                         <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
                         <font key="font" metaFont="system"/>
                     </buttonCell>
@@ -120,7 +120,7 @@
                 <button id="259">
                     <rect key="frame" x="37" y="41" width="377" height="18"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                    <buttonCell key="cell" type="check" title="Przejdź do pliku po zakończeniu archiwizacji " bezelStyle="regularSquare" imagePosition="leading" alignment="left" inset="2" id="264">
+                    <buttonCell key="cell" type="check" title="Przejdź do pliku po zarchiwizowaniu." bezelStyle="regularSquare" imagePosition="leading" alignment="left" inset="2" id="264">
                         <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
                         <font key="font" metaFont="system"/>
                     </buttonCell>
@@ -131,7 +131,7 @@
                 <button id="260">
                     <rect key="frame" x="37" y="18" width="377" height="18"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                    <buttonCell key="cell" type="check" title="Archiwizuj jako pojedynczy plik" bezelStyle="regularSquare" imagePosition="leading" alignment="left" inset="2" id="263">
+                    <buttonCell key="cell" type="check" title="Archiwum jako pojedynczy plik." bezelStyle="regularSquare" imagePosition="leading" alignment="left" inset="2" id="263">
                         <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
                         <font key="font" metaFont="system"/>
                     </buttonCell>
@@ -142,7 +142,7 @@
                 <button id="261">
                     <rect key="frame" x="37" y="87" width="377" height="18"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                    <buttonCell key="cell" type="check" title="Usuń pliki źródłowe po zakończeniu archiwizacji" bezelStyle="regularSquare" imagePosition="leading" alignment="left" inset="2" id="262">
+                    <buttonCell key="cell" type="check" title="Usuń pliki źródłowe po zarchiwizowaniu." bezelStyle="regularSquare" imagePosition="leading" alignment="left" inset="2" id="262">
                         <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
                         <font key="font" metaFont="system"/>
                     </buttonCell>
@@ -213,7 +213,7 @@
                             <textField hidden="YES" verticalHuggingPriority="750" id="275">
                                 <rect key="frame" x="30" y="14" width="329" height="22"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                                <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" selectable="YES" editable="YES" enabled="NO" sendsActionOnEndEditing="YES" state="on" borderStyle="bezel" placeholderString="Here your custom name" drawsBackground="YES" id="276">
+                                <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" selectable="YES" editable="YES" enabled="NO" sendsActionOnEndEditing="YES" state="on" borderStyle="bezel" title="                                 nazwa_pliku" placeholderString="Here your custom name" drawsBackground="YES" id="276">
                                     <font key="font" metaFont="system"/>
                                     <color key="textColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                     <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
@@ -258,13 +258,13 @@
                                     <font key="font" metaFont="menu"/>
                                     <menu key="menu" title="OtherViews" id="171">
                                         <items>
-                                            <menuItem title="7z" id="172"/>
-                                            <menuItem title="Zip" id="173"/>
-                                            <menuItem title="Tar" id="174"/>
-                                            <menuItem title="Gzip" id="175"/>
-                                            <menuItem title="Bzip2" id="348"/>
-                                            <menuItem title="Dmg" id="347"/>
-                                            <menuItem title="Iso" id="176"/>
+                                            <menuItem title=".7z" id="172"/>
+                                            <menuItem title=".zip" id="173"/>
+                                            <menuItem title=".tar" id="174"/>
+                                            <menuItem title=".gzip" id="175"/>
+                                            <menuItem title=".bzip2" id="348"/>
+                                            <menuItem title=".dmg" id="347"/>
+                                            <menuItem title=".iso" id="176"/>
                                         </items>
                                     </menu>
                                 </popUpButtonCell>
@@ -290,11 +290,11 @@
                                     <menu key="menu" title="OtherViews" id="163">
                                         <items>
                                             <menuItem title="Bez kompresji" id="164"/>
-                                            <menuItem title="2" id="167"/>
-                                            <menuItem title="3" id="165"/>
-                                            <menuItem title="4" id="166"/>
-                                            <menuItem title="5" id="169"/>
-                                            <menuItem title="Wysoka kompresja" id="168"/>
+                                            <menuItem title="Bardzo niski stopień kompresji" id="167"/>
+                                            <menuItem title="Niski stopień kompresji" id="165"/>
+                                            <menuItem title="Średni stopień kompresji" id="166"/>
+                                            <menuItem title="Wysoki stopień kompresji" id="169"/>
+                                            <menuItem title="Najwyższy stopień kompresji" id="168"/>
                                         </items>
                                     </menu>
                                 </popUpButtonCell>
@@ -359,17 +359,17 @@
             </view>
             <toolbar key="toolbar" implicitIdentifier="418F7D4F-6B77-4A2C-BEBF-F48E99FF2940" autosavesConfiguration="NO" displayMode="iconAndLabel" sizeMode="regular" id="331">
                 <allowedToolbarItems>
-                    <toolbarItem implicitItemIdentifier="B9845E7D-EBF3-422E-A051-5E4AC0F6861D" explicitItemIdentifier="General" label="General" paletteLabel="General" tag="-1" image="NSPreferencesGeneral" selectable="YES" id="334">
+                    <toolbarItem implicitItemIdentifier="B9845E7D-EBF3-422E-A051-5E4AC0F6861D" explicitItemIdentifier="General" label="Ogólne" paletteLabel="Ogólne" tag="-1" image="NSPreferencesGeneral" selectable="YES" id="334">
                         <connections>
                             <action selector="toolbarAction:" target="-2" id="341"/>
                         </connections>
                     </toolbarItem>
-                    <toolbarItem implicitItemIdentifier="E6B0B9B4-8932-45E7-858D-22AAA7618C0E" explicitItemIdentifier="Compression" label="Compression" paletteLabel="Compression" tag="-1" image="compression" selectable="YES" id="333">
+                    <toolbarItem implicitItemIdentifier="E6B0B9B4-8932-45E7-858D-22AAA7618C0E" explicitItemIdentifier="Compression" label="Kompresowanie" paletteLabel="Kompresowanie" tag="-1" image="compression" selectable="YES" id="333">
                         <connections>
                             <action selector="toolbarAction:" target="-2" id="340"/>
                         </connections>
                     </toolbarItem>
-                    <toolbarItem implicitItemIdentifier="2B2618D1-310B-4582-8FCD-143C1926638F" explicitItemIdentifier="Extraction" label="Extraction" paletteLabel="Extraction" tag="-1" image="NSMultipleDocuments" selectable="YES" id="338">
+                    <toolbarItem implicitItemIdentifier="2B2618D1-310B-4582-8FCD-143C1926638F" explicitItemIdentifier="Extraction" label="Wypakowywanie" paletteLabel="Wypakowywanie" tag="-1" image="NSMultipleDocuments" selectable="YES" id="338">
                         <connections>
                             <action selector="toolbarAction:" target="-2" id="339"/>
                         </connections>
@@ -400,7 +400,7 @@
                             <popUpButton verticalHuggingPriority="750" id="354">
                                 <rect key="frame" x="27" y="10" width="335" height="26"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                                <popUpButtonCell key="cell" type="push" title="Domyślny folder..." bezelStyle="rounded" alignment="left" lineBreakMode="truncatingTail" state="on" borderStyle="borderAndBezel" imageScaling="proportionallyDown" inset="2" selectedItem="359" id="355">
+                                <popUpButtonCell key="cell" type="push" title="Wybierz folder..." bezelStyle="rounded" alignment="left" lineBreakMode="truncatingTail" state="on" borderStyle="borderAndBezel" imageScaling="proportionallyDown" inset="2" selectedItem="359" id="355">
                                     <behavior key="behavior" lightByBackground="YES" lightByGray="YES"/>
                                     <font key="font" metaFont="menu"/>
                                     <menu key="menu" title="OtherViews" id="356">
@@ -418,7 +418,7 @@
                             <textField verticalHuggingPriority="750" id="353">
                                 <rect key="frame" x="15" y="42" width="347" height="17"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                                <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" title="Wypadkuj do:" id="360">
+                                <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" title="Wypakuj do:" id="360">
                                     <font key="font" metaFont="system"/>
                                     <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                                     <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
@@ -430,7 +430,7 @@
                 <button id="351">
                     <rect key="frame" x="37" y="18" width="377" height="18"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                    <buttonCell key="cell" type="check" title="Przejdź do plików po zakończeniu wypakowywania:" bezelStyle="regularSquare" imagePosition="leading" alignment="left" inset="2" id="361">
+                    <buttonCell key="cell" type="check" title="Przejdź do plików po wypakowywaniu." bezelStyle="regularSquare" imagePosition="leading" alignment="left" inset="2" id="361">
                         <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
                         <font key="font" metaFont="system"/>
                     </buttonCell>
@@ -441,7 +441,7 @@
                 <button id="350">
                     <rect key="frame" x="37" y="41" width="377" height="18"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                    <buttonCell key="cell" type="check" title="Usuń archiwum po zakończeniu wypakowania" bezelStyle="regularSquare" imagePosition="leading" alignment="left" inset="2" id="362">
+                    <buttonCell key="cell" type="check" title="Usuń archiwum po wypakowaniu." bezelStyle="regularSquare" imagePosition="leading" alignment="left" inset="2" id="362">
                         <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
                         <font key="font" metaFont="system"/>
                     </buttonCell>
