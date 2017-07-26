@@ -1,6 +1,8 @@
 # Keka
 The macOS file archiver.
 
+Follow us on Twitter at [@kekaosx](https://twitter.com/kekaosx).
+
 ## Downloads
 
 ### Current version
