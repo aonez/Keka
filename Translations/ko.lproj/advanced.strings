@@ -1,0 +1,189 @@
+
+/* Class = "NSWindow"; title = "Keka"; ObjectID = "371"; */
+"371.title" = "Keka";
+
+/* Class = "NSMenu"; title = "Dock Menu"; ObjectID = "942"; */
+"942.title" = "Dock Menu";
+
+/* Class = "NSMenuItem"; title = "자동"; ObjectID = "943"; */
+"943.title" = "자동";
+
+/* Class = "NSMenuItem"; title = "항상 압축"; ObjectID = "944"; */
+"944.title" = "항상 압축";
+
+/* Class = "NSMenuItem"; title = "항상 압축 해제"; ObjectID = "945"; */
+"945.title" = "항상 압축 해제";
+
+/* Class = "NSMenuItem"; title = "압축 형식"; ObjectID = "947"; */
+"947.title" = "압축 형식";
+
+/* Class = "NSMenu"; title = "압축 형식"; ObjectID = "948"; */
+"948.title" = "압축 형식";
+
+/* Class = "NSMenuItem"; title = "7z"; ObjectID = "952"; */
+"952.title" = "7z";
+
+/* Class = "NSMenuItem"; title = "Zip"; ObjectID = "953"; */
+"953.title" = "Zip";
+
+/* Class = "NSMenuItem"; title = "Tar"; ObjectID = "954"; */
+"954.title" = "Tar";
+
+/* Class = "NSMenuItem"; title = "Gzip"; ObjectID = "955"; */
+"955.title" = "Gzip";
+
+/* Class = "NSMenuItem"; title = "Iso"; ObjectID = "956"; */
+"956.title" = "Iso";
+
+/* Class = "NSMenuItem"; title = "압축 방법"; ObjectID = "957"; */
+"957.title" = "압축 방법";
+
+/* Class = "NSMenu"; title = "압축 방법"; ObjectID = "958"; */
+"958.title" = "압축 방법";
+
+/* Class = "NSMenuItem"; title = "압축 안하기"; ObjectID = "960"; */
+"960.title" = "압축 안하기";
+
+/* Class = "NSMenuItem"; title = "가장 빠르게, 낮은 압축률"; ObjectID = "961"; */
+"961.title" = "가장 빠르게, 낮은 압축률";
+
+/* Class = "NSMenuItem"; title = "빠르게, 낮은 압축률"; ObjectID = "962"; */
+"962.title" = "빠르게, 낮은 압축률";
+
+/* Class = "NSMenuItem"; title = "보통"; ObjectID = "963"; */
+"963.title" = "보통";
+
+/* Class = "NSMenuItem"; title = "천천히, 높은 압축률"; ObjectID = "964"; */
+"964.title" = "천천히, 높은 압축률";
+
+/* Class = "NSMenuItem"; title = "가장 천천히, 높은 압축률"; ObjectID = "965"; */
+"965.title" = "가장 천천히, 높은 압축률";
+
+/* Class = "NSTextFieldCell"; title = "Secondary action"; ObjectID = "1621"; */
+"1621.title" = "Secondary action";
+
+/* Class = "NSTextFieldCell"; title = "Main action"; ObjectID = "1622"; */
+"1622.title" = "Main action";
+
+/* Class = "NSToolbarItem"; label = "7z"; ObjectID = "1800"; */
+"1800.label" = "7z";
+
+/* Class = "NSToolbarItem"; paletteLabel = "7z"; ObjectID = "1800"; */
+"1800.paletteLabel" = "7z";
+
+/* Class = "NSToolbarItem"; label = "Zip"; ObjectID = "1801"; */
+"1801.label" = "Zip";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Zip"; ObjectID = "1801"; */
+"1801.paletteLabel" = "Zip";
+
+/* Class = "NSToolbarItem"; label = "Tar"; ObjectID = "1802"; */
+"1802.label" = "Tar";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Tar"; ObjectID = "1802"; */
+"1802.paletteLabel" = "Tar";
+
+/* Class = "NSToolbarItem"; label = "Gzip"; ObjectID = "1803"; */
+"1803.label" = "Gzip";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Gzip"; ObjectID = "1803"; */
+"1803.paletteLabel" = "Gzip";
+
+/* Class = "NSToolbarItem"; label = "Bzip2"; ObjectID = "1804"; */
+"1804.label" = "Bzip2";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Bzip2"; ObjectID = "1804"; */
+"1804.paletteLabel" = "Bzip2";
+
+/* Class = "NSToolbarItem"; label = "Dmg"; ObjectID = "1805"; */
+"1805.label" = "Dmg";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Dmg"; ObjectID = "1805"; */
+"1805.paletteLabel" = "Dmg";
+
+/* Class = "NSToolbarItem"; label = "Iso"; ObjectID = "1806"; */
+"1806.label" = "Iso";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Iso"; ObjectID = "1806"; */
+"1806.paletteLabel" = "Iso";
+
+/* Class = "NSButtonCell"; title = "솔리드 압축 (단일 데이터 블록으로 압축)"; ObjectID = "1880"; */
+"1880.title" = "솔리드 압축 (단일 데이터 블록으로 압축)";
+
+/* Class = "NSButtonCell"; title = "파일이름 암호화"; ObjectID = "1881"; */
+"1881.title" = "파일이름 암호화";
+
+/* Class = "NSMenuItem"; title = "Dmg"; ObjectID = "2156"; */
+"2156.title" = "Dmg";
+
+/* Class = "NSMenuItem"; title = "Bzip2"; ObjectID = "2158"; */
+"2158.title" = "Bzip2";
+
+/* Class = "NSTextFieldCell"; title = "압축된 읽기 전용 DMG 볼륨을 만들 수 있습니다.\n\n볼륨 이름을 직접 지정하거나, 압축하는 파일에 따른 이름을 사용할 수 있습니다."; ObjectID = "2189"; */
+"2189.title" = "압축된 읽기 전용 DMG 볼륨을 만들 수 있습니다.\n\n볼륨 이름을 직접 지정하거나, 압축하는 파일에 따른 이름을 사용할 수 있습니다.";
+
+/* Class = "NSButtonCell"; title = "단일 파일로 압축"; ObjectID = "2221"; */
+"2221.title" = "단일 파일로 압축";
+
+/* Class = "NSButtonCell"; title = "압축 완료 후 파일 삭제"; ObjectID = "2222"; */
+"2222.title" = "압축 완료 후 파일 삭제";
+
+/* Class = "NSButtonCell"; title = "Mac OS X 전용 파일 포함 안하기 (예: .DS_Store)"; ObjectID = "2244"; */
+"2244.title" = "Mac OS X 전용 파일 포함 안하기 (예: .DS_Store)";
+
+/* Class = "NSTextFieldCell"; title = "암호:"; ObjectID = "2262"; */
+"2262.title" = "암호:";
+
+/* Class = "NSTextFieldCell"; title = "분할 압축:"; ObjectID = "2270"; */
+"2270.title" = "분할 압축:";
+
+/* Class = "NSComboBoxCell"; placeholderString = "예: 5 MB"; ObjectID = "2271"; */
+"2271.placeholderString" = "예: 5 MB";
+
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[0] = "1.4 MB Floppy"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[0]" = "1.4 MB Floppy";
+
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[1] = "650 MB CD"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[1]" = "650 MB CD";
+
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[2] = "700 MB CD"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[2]" = "700 MB CD";
+
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[3] = "4.7 GB DVD"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[3]" = "4.7 GB DVD";
+
+/* Class = "NSTextFieldCell"; title = "볼륨 이름:"; ObjectID = "2343"; */
+"2343.title" = "볼륨 이름:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "특정 이름 입력"; ObjectID = "2354"; */
+"2354.placeholderString" = "특정 이름 입력";
+
+/* Class = "NSTextFieldCell"; title = "압축된 읽기 전용 ISO 볼륨을 만들 수 있습니다. 폴더를 ISO 볼륨으로 만들 수도 있습니다.\n\n볼륨 이름을 직접 지정하거나, 압축하는 파일에 따른 이름을 사용할 수 있습니다."; ObjectID = "2363"; */
+"2363.title" = "압축된 읽기 전용 ISO 볼륨을 만들 수 있습니다. 폴더를 ISO 볼륨으로 만들 수도 있습니다.\n\n볼륨 이름을 직접 지정하거나, 압축하는 파일에 따른 이름을 사용할 수 있습니다.";
+
+/* Class = "NSTextFieldCell"; title = "저장"; ObjectID = "2390"; */
+"2390.title" = "저장";
+
+/* Class = "NSTextFieldCell"; title = "빠르게"; ObjectID = "2392"; */
+"2392.title" = "빠르게";
+
+/* Class = "NSTextFieldCell"; title = "느리게"; ObjectID = "2394"; */
+"2394.title" = "느리게";
+
+/* Class = "NSTextFieldCell"; title = "보통"; ObjectID = "2398"; */
+"2398.title" = "보통";
+
+/* Class = "NSTextFieldCell"; title = "압축 방법: Selected"; ObjectID = "2402"; */
+"2402.title" = "압축 방법: Selected";
+
+/* Class = "NSToolbarItem"; label = "Rar"; ObjectID = "2408"; */
+"2408.label" = "Rar";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Rar"; ObjectID = "2408"; */
+"2408.paletteLabel" = "Rar";
+
+/* Class = "NSTextFieldCell"; title = "Just wait for an update :)"; ObjectID = "2415"; */
+"2415.title" = "Just wait for an update :)";
+
+/* Class = "NSTextFieldCell"; title = "암호 다시 입력:"; ObjectID = "2426"; */
+"2426.title" = "암호 다시 입력:";
