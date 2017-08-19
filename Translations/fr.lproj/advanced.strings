@@ -1,0 +1,189 @@
+
+/* Class = "NSWindow"; title = "Keka"; ObjectID = "371"; */
+"371.title" = "Keka";
+
+/* Class = "NSMenu"; title = "Dock Menu"; ObjectID = "942"; */
+"942.title" = "Dock Menu";
+
+/* Class = "NSMenuItem"; title = "Choisir l'action automatiquement"; ObjectID = "943"; */
+"943.title" = "Choisir l'action automatiquement";
+
+/* Class = "NSMenuItem"; title = "Toujours comprimer"; ObjectID = "944"; */
+"944.title" = "Toujours comprimer";
+
+/* Class = "NSMenuItem"; title = "Toujours extraire"; ObjectID = "945"; */
+"945.title" = "Toujours extraire";
+
+/* Class = "NSMenuItem"; title = "Format"; ObjectID = "947"; */
+"947.title" = "Format";
+
+/* Class = "NSMenu"; title = "Format"; ObjectID = "948"; */
+"948.title" = "Format";
+
+/* Class = "NSMenuItem"; title = "7z"; ObjectID = "952"; */
+"952.title" = "7z";
+
+/* Class = "NSMenuItem"; title = "Zip"; ObjectID = "953"; */
+"953.title" = "Zip";
+
+/* Class = "NSMenuItem"; title = "Tar"; ObjectID = "954"; */
+"954.title" = "Tar";
+
+/* Class = "NSMenuItem"; title = "Gzip"; ObjectID = "955"; */
+"955.title" = "Gzip";
+
+/* Class = "NSMenuItem"; title = "Iso"; ObjectID = "956"; */
+"956.title" = "Iso";
+
+/* Class = "NSMenuItem"; title = "Méthode"; ObjectID = "957"; */
+"957.title" = "Méthode";
+
+/* Class = "NSMenu"; title = "Méthode"; ObjectID = "958"; */
+"958.title" = "Méthode";
+
+/* Class = "NSMenuItem"; title = "Sans compression"; ObjectID = "960"; */
+"960.title" = "Sans compression";
+
+/* Class = "NSMenuItem"; title = "Très rapide, moins comprimé"; ObjectID = "961"; */
+"961.title" = "Très rapide, moins comprimé";
+
+/* Class = "NSMenuItem"; title = "Rapide, moins comprimé"; ObjectID = "962"; */
+"962.title" = "Rapide, moins comprimé";
+
+/* Class = "NSMenuItem"; title = "Normal"; ObjectID = "963"; */
+"963.title" = "Normal";
+
+/* Class = "NSMenuItem"; title = "Lent, mieux comprimé"; ObjectID = "964"; */
+"964.title" = "Lent, mieux comprimé";
+
+/* Class = "NSMenuItem"; title = "Très lent, mieux comprimé"; ObjectID = "965"; */
+"965.title" = "Très lent, mieux comprimé";
+
+/* Class = "NSTextFieldCell"; title = "Secondary action"; ObjectID = "1621"; */
+"1621.title" = "Secondary action";
+
+/* Class = "NSTextFieldCell"; title = "Main action"; ObjectID = "1622"; */
+"1622.title" = "Main action";
+
+/* Class = "NSToolbarItem"; label = "7z"; ObjectID = "1800"; */
+"1800.label" = "7z";
+
+/* Class = "NSToolbarItem"; paletteLabel = "7z"; ObjectID = "1800"; */
+"1800.paletteLabel" = "7z";
+
+/* Class = "NSToolbarItem"; label = "Zip"; ObjectID = "1801"; */
+"1801.label" = "Zip";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Zip"; ObjectID = "1801"; */
+"1801.paletteLabel" = "Zip";
+
+/* Class = "NSToolbarItem"; label = "Tar"; ObjectID = "1802"; */
+"1802.label" = "Tar";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Tar"; ObjectID = "1802"; */
+"1802.paletteLabel" = "Tar";
+
+/* Class = "NSToolbarItem"; label = "Gzip"; ObjectID = "1803"; */
+"1803.label" = "Gzip";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Gzip"; ObjectID = "1803"; */
+"1803.paletteLabel" = "Gzip";
+
+/* Class = "NSToolbarItem"; label = "Bzip2"; ObjectID = "1804"; */
+"1804.label" = "Bzip2";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Bzip2"; ObjectID = "1804"; */
+"1804.paletteLabel" = "Bzip2";
+
+/* Class = "NSToolbarItem"; label = "Dmg"; ObjectID = "1805"; */
+"1805.label" = "Dmg";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Dmg"; ObjectID = "1805"; */
+"1805.paletteLabel" = "Dmg";
+
+/* Class = "NSToolbarItem"; label = "Iso"; ObjectID = "1806"; */
+"1806.label" = "Iso";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Iso"; ObjectID = "1806"; */
+"1806.paletteLabel" = "Iso";
+
+/* Class = "NSButtonCell"; title = "Archive \"solide\""; ObjectID = "1880"; */
+"1880.title" = "Archive \"solide\"";
+
+/* Class = "NSButtonCell"; title = "Crypter les noms de fichiers"; ObjectID = "1881"; */
+"1881.title" = "Crypter les noms de fichiers";
+
+/* Class = "NSMenuItem"; title = "Dmg"; ObjectID = "2156"; */
+"2156.title" = "Dmg";
+
+/* Class = "NSMenuItem"; title = "Bzip2"; ObjectID = "2158"; */
+"2158.title" = "Bzip2";
+
+/* Class = "NSTextFieldCell"; title = "Vous pouvez créer une image Dmg qui sera comprimée et accessible en lecture seule.\n\nChoisissez un nom de volume pour cette image ou laissez l'application choisir un nom en fonction des fichiers que vous comprimez."; ObjectID = "2189"; */
+"2189.title" = "Vous pouvez créer une image Dmg qui sera comprimée et accessible en lecture seule.\n\nChoisissez un nom de volume pour cette image ou laissez l'application choisir un nom en fonction des fichiers que vous comprimez.";
+
+/* Class = "NSButtonCell"; title = "Archiver les fichiers séparément"; ObjectID = "2221"; */
+"2221.title" = "Archiver les fichiers séparément";
+
+/* Class = "NSButtonCell"; title = "Supprimer les fichiers après compression"; ObjectID = "2222"; */
+"2222.title" = "Supprimer les fichiers après compression";
+
+/* Class = "NSButtonCell"; title = "Exclure les fichiers spéciaux Mac"; ObjectID = "2244"; */
+"2244.title" = "Exclure les fichiers spéciaux Mac";
+
+/* Class = "NSTextFieldCell"; title = "Mot de passe :"; ObjectID = "2262"; */
+"2262.title" = "Mot de passe :";
+
+/* Class = "NSTextFieldCell"; title = "Découper :"; ObjectID = "2270"; */
+"2270.title" = "Découper :";
+
+/* Class = "NSComboBoxCell"; placeholderString = "Exemple: 5 MB"; ObjectID = "2271"; */
+"2271.placeholderString" = "Exemple: 5 MB";
+
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[0] = "Disquette 1.4 Mo"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[0]" = "Disquette 1.4 Mo";
+
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[1] = "CD 650 Mo"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[1]" = "CD 650 Mo";
+
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[2] = "CD 700 Mo"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[2]" = "CD 700 Mo";
+
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[3] = "DVD 4.7 Go"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[3]" = "DVD 4.7 Go";
+
+/* Class = "NSTextFieldCell"; title = "Nom de volume :"; ObjectID = "2343"; */
+"2343.title" = "Nom de volume :";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Nom"; ObjectID = "2354"; */
+"2354.placeholderString" = "Nom";
+
+/* Class = "NSTextFieldCell"; title = "Vous pouvez créer une image Iso qui sera comprimée et accessible en lecture seule. Les images Iso peuvent être créées uniquement à partir d'un dossier.\n\nChoisissez un nom de volume pour cette image ou laissez l'application choisir un nom en fonction des fichiers que vous comprimez."; ObjectID = "2363"; */
+"2363.title" = "Vous pouvez créer une image Iso qui sera comprimée et accessible en lecture seule. Les images Iso peuvent être créées uniquement à partir d'un dossier.\n\nChoisissez un nom de volume pour cette image ou laissez l'application choisir un nom en fonction des fichiers que vous comprimez.";
+
+/* Class = "NSTextFieldCell"; title = "Non c."; ObjectID = "2390"; */
+"2390.title" = "Non c.";
+
+/* Class = "NSTextFieldCell"; title = "Rapide"; ObjectID = "2392"; */
+"2392.title" = "Rapide";
+
+/* Class = "NSTextFieldCell"; title = "Lent"; ObjectID = "2394"; */
+"2394.title" = "Lent";
+
+/* Class = "NSTextFieldCell"; title = "Normal"; ObjectID = "2398"; */
+"2398.title" = "Normal";
+
+/* Class = "NSTextFieldCell"; title = "Méthode : Sélectionnée"; ObjectID = "2402"; */
+"2402.title" = "Méthode : Sélectionnée";
+
+/* Class = "NSToolbarItem"; label = "Rar"; ObjectID = "2408"; */
+"2408.label" = "Rar";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Rar"; ObjectID = "2408"; */
+"2408.paletteLabel" = "Rar";
+
+/* Class = "NSTextFieldCell"; title = "Dans une prochaine mise à jour :)"; ObjectID = "2415"; */
+"2415.title" = "Dans une prochaine mise à jour :)";
+
+/* Class = "NSTextFieldCell"; title = "Répéter :"; ObjectID = "2426"; */
+"2426.title" = "Répéter :";
