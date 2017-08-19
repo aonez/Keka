@@ -1,0 +1,261 @@
+
+/* Class = "NSBox"; title = "圧縮形式"; ObjectID = "153"; */
+"153.title" = "圧縮形式";
+
+/* Class = "NSTextFieldCell"; title = "形式のデフォルト:"; ObjectID = "159"; */
+"159.title" = "形式のデフォルト:";
+
+/* Class = "NSTextFieldCell"; title = "圧縮法のデフォルト:"; ObjectID = "160"; */
+"160.title" = "圧縮法のデフォルト:";
+
+/* Class = "NSTextFieldCell"; title = "Keka のウィンドウは開いていない場合のみに適用します。"; ObjectID = "161"; */
+"161.title" = "Keka のウィンドウは開いていない場合のみに適用します。";
+
+/* Class = "NSMenuItem"; title = "圧縮しない"; ObjectID = "164"; */
+"164.title" = "圧縮しない";
+
+/* Class = "NSMenuItem"; title = "早い、圧縮率は低い"; ObjectID = "165"; */
+"165.title" = "早い、圧縮率は低い";
+
+/* Class = "NSMenuItem"; title = "通常"; ObjectID = "166"; */
+"166.title" = "通常";
+
+/* Class = "NSMenuItem"; title = "最も早い、圧縮率は最も低い"; ObjectID = "167"; */
+"167.title" = "最も早い、圧縮率は最も低い";
+
+/* Class = "NSMenuItem"; title = "最も遅い、圧縮率は最も高い"; ObjectID = "168"; */
+"168.title" = "最も遅い、圧縮率は最も高い";
+
+/* Class = "NSMenuItem"; title = "遅い、圧縮率は高い"; ObjectID = "169"; */
+"169.title" = "遅い、圧縮率は高い";
+
+/* Class = "NSMenuItem"; title = "7z"; ObjectID = "172"; */
+"172.title" = "7z";
+
+/* Class = "NSMenuItem"; title = "Zip"; ObjectID = "173"; */
+"173.title" = "Zip";
+
+/* Class = "NSMenuItem"; title = "Tar"; ObjectID = "174"; */
+"174.title" = "Tar";
+
+/* Class = "NSMenuItem"; title = "Gzip"; ObjectID = "175"; */
+"175.title" = "Gzip";
+
+/* Class = "NSMenuItem"; title = "Iso"; ObjectID = "176"; */
+"176.title" = "Iso";
+
+/* Class = "NSButtonCell"; title = "Keka を圧縮・解凍ツールのデフォルトに設定する"; ObjectID = "184"; */
+"184.title" = "Keka を圧縮・解凍ツールのデフォルトに設定する";
+
+/* Class = "NSButtonCell"; title = "すべてのウィンドウを閉じる時に Keka を終了する"; ObjectID = "187"; */
+"187.title" = "すべてのウィンドウを閉じる時に Keka を終了する";
+
+/* Class = "NSBox"; title = "動作"; ObjectID = "191"; */
+"191.title" = "動作";
+
+/* Class = "NSTextFieldCell"; title = "自動: 拡張子により圧縮・解凍します。"; ObjectID = "194"; */
+"194.title" = "自動: 拡張子により圧縮・解凍します。";
+
+/* Class = "NSMenuItem"; title = "常に解凍する"; ObjectID = "197"; */
+"197.title" = "常に解凍する";
+
+/* Class = "NSMenuItem"; title = "常に圧縮する"; ObjectID = "198"; */
+"198.title" = "常に圧縮する";
+
+/* Class = "NSMenuItem"; title = "自動"; ObjectID = "199"; */
+"199.title" = "自動";
+
+/* Class = "NSButtonCell"; title = "圧縮後にオリジナルファイルをゴミ箱に入れる"; ObjectID = "262"; */
+"262.title" = "圧縮後にオリジナルファイルをゴミ箱に入れる";
+
+/* Class = "NSButtonCell"; title = "個別の圧縮ファイルを作成する"; ObjectID = "263"; */
+"263.title" = "個別の圧縮ファイルを作成する";
+
+/* Class = "NSButtonCell"; title = "圧縮後に Finder でファイルを表示する"; ObjectID = "264"; */
+"264.title" = "圧縮後に Finder でファイルを表示する";
+
+/* Class = "NSButtonCell"; title = "Mac のリソースフォークを含めない (例: .DS_Store)"; ObjectID = "265"; */
+"265.title" = "Mac のリソースフォークを含めない (例: .DS_Store)";
+
+/* Class = "NSBox"; title = "名前と場所"; ObjectID = "270"; */
+"270.title" = "名前と場所";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "276"; */
+"276.placeholderString" = "Here your custom name";
+
+/* Class = "NSTextFieldCell"; title = "ファイル名を指定"; ObjectID = "276"; */
+"276.title" = "ファイル名を指定";
+
+/* Class = "NSMenuItem"; title = "常に確認"; ObjectID = "279"; */
+"279.title" = "常に確認";
+
+/* Class = "NSMenuItem"; title = "オリジナルファイルと同じフォルダ"; ObjectID = "280"; */
+"280.title" = "オリジナルファイルと同じフォルダ";
+
+/* Class = "NSMenuItem"; title = "フォルダを指定..."; ObjectID = "281"; */
+"281.title" = "フォルダを指定...";
+
+/* Class = "NSTextFieldCell"; title = "保存先の場所:"; ObjectID = "282"; */
+"282.title" = "保存先の場所:";
+
+/* Class = "NSTextFieldCell"; title = "新しいファイル名:"; ObjectID = "283"; */
+"283.title" = "新しいファイル名:";
+
+/* Class = "NSMenuItem"; title = "オリジナルファイルと同じファイル名"; ObjectID = "286"; */
+"286.title" = "オリジナルファイルと同じファイル名";
+
+/* Class = "NSMenuItem"; title = "ファイル名を指定..."; ObjectID = "287"; */
+"287.title" = "ファイル名を指定...";
+
+/* Class = "NSToolbarItem"; label = "圧縮"; ObjectID = "333"; */
+"333.label" = "圧縮";
+
+/* Class = "NSToolbarItem"; paletteLabel = "圧縮"; ObjectID = "333"; */
+"333.paletteLabel" = "圧縮";
+
+/* Class = "NSToolbarItem"; label = "一般"; ObjectID = "334"; */
+"334.label" = "一般";
+
+/* Class = "NSToolbarItem"; paletteLabel = "一般"; ObjectID = "334"; */
+"334.paletteLabel" = "一般";
+
+/* Class = "NSToolbarItem"; label = "解凍"; ObjectID = "338"; */
+"338.label" = "解凍";
+
+/* Class = "NSToolbarItem"; paletteLabel = "解凍"; ObjectID = "338"; */
+"338.paletteLabel" = "解凍";
+
+/* Class = "NSMenuItem"; title = "Dmg"; ObjectID = "347"; */
+"347.title" = "Dmg";
+
+/* Class = "NSMenuItem"; title = "Bzip2"; ObjectID = "348"; */
+"348.title" = "Bzip2";
+
+/* Class = "NSBox"; title = "保存先の場所"; ObjectID = "352"; */
+"352.title" = "保存先の場所";
+
+/* Class = "NSMenuItem"; title = "常に確認"; ObjectID = "357"; */
+"357.title" = "常に確認";
+
+/* Class = "NSMenuItem"; title = "オリジナルファイルと同じフォルダ"; ObjectID = "358"; */
+"358.title" = "オリジナルファイルと同じフォルダ";
+
+/* Class = "NSMenuItem"; title = "フォルダを指定"; ObjectID = "359"; */
+"359.title" = "フォルダを指定";
+
+/* Class = "NSTextFieldCell"; title = "保存先のフォルダ:"; ObjectID = "360"; */
+"360.title" = "保存先のフォルダ:";
+
+/* Class = "NSButtonCell"; title = "解凍後に Finder でファイルを表示する"; ObjectID = "361"; */
+"361.title" = "解凍後に Finder でファイルを表示する";
+
+/* Class = "NSButtonCell"; title = "解凍後にオリジナルファイルをゴミ箱に入れる"; ObjectID = "362"; */
+"362.title" = "解凍後にオリジナルファイルをゴミ箱に入れる";
+
+/* Class = "NSMenuItem"; title = "Basso"; ObjectID = "416"; */
+"416.title" = "Basso";
+
+/* Class = "NSMenuItem"; title = "Tink"; ObjectID = "417"; */
+"417.title" = "Tink";
+
+/* Class = "NSMenuItem"; title = "なし"; ObjectID = "418"; */
+"418.title" = "なし";
+
+/* Class = "NSMenuItem"; title = "圧縮のデフォルト"; ObjectID = "419"; */
+"419.title" = "圧縮のデフォルト";
+
+/* Class = "NSMenuItem"; title = "Bottle"; ObjectID = "420"; */
+"420.title" = "Bottle";
+
+/* Class = "NSMenuItem"; title = "Blow"; ObjectID = "421"; */
+"421.title" = "Blow";
+
+/* Class = "NSMenuItem"; title = "Submarine"; ObjectID = "422"; */
+"422.title" = "Submarine";
+
+/* Class = "NSMenuItem"; title = "Sosumi"; ObjectID = "423"; */
+"423.title" = "Sosumi";
+
+/* Class = "NSMenuItem"; title = "Purr"; ObjectID = "424"; */
+"424.title" = "Purr";
+
+/* Class = "NSMenuItem"; title = "Pop"; ObjectID = "425"; */
+"425.title" = "Pop";
+
+/* Class = "NSMenuItem"; title = "Ping"; ObjectID = "426"; */
+"426.title" = "Ping";
+
+/* Class = "NSMenuItem"; title = "Morse"; ObjectID = "427"; */
+"427.title" = "Morse";
+
+/* Class = "NSMenuItem"; title = "Hero"; ObjectID = "428"; */
+"428.title" = "Hero";
+
+/* Class = "NSMenuItem"; title = "Glass"; ObjectID = "429"; */
+"429.title" = "Glass";
+
+/* Class = "NSMenuItem"; title = "Funk"; ObjectID = "430"; */
+"430.title" = "Funk";
+
+/* Class = "NSMenuItem"; title = "Frog"; ObjectID = "431"; */
+"431.title" = "Frog";
+
+/* Class = "NSMenuItem"; title = "解凍のデフォルト"; ObjectID = "432"; */
+"432.title" = "解凍のデフォルト";
+
+/* Class = "NSTextFieldCell"; title = "解凍後にサウンドを再生:"; ObjectID = "433"; */
+"433.title" = "解凍後にサウンドを再生:";
+
+/* Class = "NSTextFieldCell"; title = "圧縮後にサウンドを再生:"; ObjectID = "436"; */
+"436.title" = "圧縮後にサウンドを再生:";
+
+/* Class = "NSMenuItem"; title = "解凍のデフォルト"; ObjectID = "439"; */
+"439.title" = "解凍のデフォルト";
+
+/* Class = "NSMenuItem"; title = "Frog"; ObjectID = "440"; */
+"440.title" = "Frog";
+
+/* Class = "NSMenuItem"; title = "Funk"; ObjectID = "441"; */
+"441.title" = "Funk";
+
+/* Class = "NSMenuItem"; title = "Glass"; ObjectID = "442"; */
+"442.title" = "Glass";
+
+/* Class = "NSMenuItem"; title = "Hero"; ObjectID = "443"; */
+"443.title" = "Hero";
+
+/* Class = "NSMenuItem"; title = "Morse"; ObjectID = "444"; */
+"444.title" = "Morse";
+
+/* Class = "NSMenuItem"; title = "Ping"; ObjectID = "445"; */
+"445.title" = "Ping";
+
+/* Class = "NSMenuItem"; title = "Pop"; ObjectID = "446"; */
+"446.title" = "Pop";
+
+/* Class = "NSMenuItem"; title = "Purr"; ObjectID = "447"; */
+"447.title" = "Purr";
+
+/* Class = "NSMenuItem"; title = "Sosumi"; ObjectID = "448"; */
+"448.title" = "Sosumi";
+
+/* Class = "NSMenuItem"; title = "Submarine"; ObjectID = "449"; */
+"449.title" = "Submarine";
+
+/* Class = "NSMenuItem"; title = "Blow"; ObjectID = "450"; */
+"450.title" = "Blow";
+
+/* Class = "NSMenuItem"; title = "Bottle"; ObjectID = "451"; */
+"451.title" = "Bottle";
+
+/* Class = "NSMenuItem"; title = "圧縮のデフォルト"; ObjectID = "452"; */
+"452.title" = "圧縮のデフォルト";
+
+/* Class = "NSMenuItem"; title = "なし"; ObjectID = "453"; */
+"453.title" = "なし";
+
+/* Class = "NSMenuItem"; title = "Tink"; ObjectID = "454"; */
+"454.title" = "Tink";
+
+/* Class = "NSMenuItem"; title = "Basso"; ObjectID = "455"; */
+"455.title" = "Basso";

@@ -1,0 +1,189 @@
+
+/* Class = "NSWindow"; title = "Keka"; ObjectID = "371"; */
+"371.title" = "Keka";
+
+/* Class = "NSMenu"; title = "Dock Menu"; ObjectID = "942"; */
+"942.title" = "Dock Menu";
+
+/* Class = "NSMenuItem"; title = "Automatikus művelet"; ObjectID = "943"; */
+"943.title" = "Automatikus művelet";
+
+/* Class = "NSMenuItem"; title = "Mindig tömörít"; ObjectID = "944"; */
+"944.title" = "Mindig tömörít";
+
+/* Class = "NSMenuItem"; title = "Mindig kibont"; ObjectID = "945"; */
+"945.title" = "Mindig kibont";
+
+/* Class = "NSMenuItem"; title = "Formátum"; ObjectID = "947"; */
+"947.title" = "Formátum";
+
+/* Class = "NSMenu"; title = "Formátum"; ObjectID = "948"; */
+"948.title" = "Formátum";
+
+/* Class = "NSMenuItem"; title = "7z"; ObjectID = "952"; */
+"952.title" = "7z";
+
+/* Class = "NSMenuItem"; title = "Zip"; ObjectID = "953"; */
+"953.title" = "Zip";
+
+/* Class = "NSMenuItem"; title = "Tar"; ObjectID = "954"; */
+"954.title" = "Tar";
+
+/* Class = "NSMenuItem"; title = "Gzip"; ObjectID = "955"; */
+"955.title" = "Gzip";
+
+/* Class = "NSMenuItem"; title = "Iso"; ObjectID = "956"; */
+"956.title" = "Iso";
+
+/* Class = "NSMenuItem"; title = "Tömörítés mértéke"; ObjectID = "957"; */
+"957.title" = "Tömörítés mértéke";
+
+/* Class = "NSMenu"; title = "Tömörítés mértéke"; ObjectID = "958"; */
+"958.title" = "Tömörítés mértéke";
+
+/* Class = "NSMenuItem"; title = "Nincs tömörítés"; ObjectID = "960"; */
+"960.title" = "Nincs tömörítés";
+
+/* Class = "NSMenuItem"; title = "Gyors, Legkevesebb tömörítés"; ObjectID = "961"; */
+"961.title" = "Gyors, Legkevesebb tömörítés";
+
+/* Class = "NSMenuItem"; title = "Kevés tömörítés"; ObjectID = "962"; */
+"962.title" = "Kevés tömörítés";
+
+/* Class = "NSMenuItem"; title = "Normál"; ObjectID = "963"; */
+"963.title" = "Normál";
+
+/* Class = "NSMenuItem"; title = "Jobb tömörítés"; ObjectID = "964"; */
+"964.title" = "Jobb tömörítés";
+
+/* Class = "NSMenuItem"; title = "Lassú, legjobb tömörítés"; ObjectID = "965"; */
+"965.title" = "Lassú, legjobb tömörítés";
+
+/* Class = "NSTextFieldCell"; title = "Secondary action"; ObjectID = "1621"; */
+"1621.title" = "Secondary action";
+
+/* Class = "NSTextFieldCell"; title = "Main action"; ObjectID = "1622"; */
+"1622.title" = "Main action";
+
+/* Class = "NSToolbarItem"; label = "7z"; ObjectID = "1800"; */
+"1800.label" = "7z";
+
+/* Class = "NSToolbarItem"; paletteLabel = "7z"; ObjectID = "1800"; */
+"1800.paletteLabel" = "7z";
+
+/* Class = "NSToolbarItem"; label = "Zip"; ObjectID = "1801"; */
+"1801.label" = "Zip";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Zip"; ObjectID = "1801"; */
+"1801.paletteLabel" = "Zip";
+
+/* Class = "NSToolbarItem"; label = "Tar"; ObjectID = "1802"; */
+"1802.label" = "Tar";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Tar"; ObjectID = "1802"; */
+"1802.paletteLabel" = "Tar";
+
+/* Class = "NSToolbarItem"; label = "Gzip"; ObjectID = "1803"; */
+"1803.label" = "Gzip";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Gzip"; ObjectID = "1803"; */
+"1803.paletteLabel" = "Gzip";
+
+/* Class = "NSToolbarItem"; label = "Bzip2"; ObjectID = "1804"; */
+"1804.label" = "Bzip2";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Bzip2"; ObjectID = "1804"; */
+"1804.paletteLabel" = "Bzip2";
+
+/* Class = "NSToolbarItem"; label = "Dmg"; ObjectID = "1805"; */
+"1805.label" = "Dmg";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Dmg"; ObjectID = "1805"; */
+"1805.paletteLabel" = "Dmg";
+
+/* Class = "NSToolbarItem"; label = "Iso"; ObjectID = "1806"; */
+"1806.label" = "Iso";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Iso"; ObjectID = "1806"; */
+"1806.paletteLabel" = "Iso";
+
+/* Class = "NSButtonCell"; title = "Tömörítés egybefüggő blokként"; ObjectID = "1880"; */
+"1880.title" = "Tömörítés egybefüggő blokként";
+
+/* Class = "NSButtonCell"; title = "Fájlnevek titkosítása"; ObjectID = "1881"; */
+"1881.title" = "Fájlnevek titkosítása";
+
+/* Class = "NSMenuItem"; title = "Dmg"; ObjectID = "2156"; */
+"2156.title" = "Dmg";
+
+/* Class = "NSMenuItem"; title = "Bzip2"; ObjectID = "2158"; */
+"2158.title" = "Bzip2";
+
+/* Class = "NSTextFieldCell"; title = "Itt létrehozhatsz egy tömörített, csak olvasható Dmg lemezképet.\n\nÍrj be egy nevet a lemezkép számára, vagy használd az alapértelmezett értéket a tömörítendő fájlok alapján."; ObjectID = "2189"; */
+"2189.title" = "Itt létrehozhatsz egy tömörített, csak olvasható Dmg lemezképet.\n\nÍrj be egy nevet a lemezkép számára, vagy használd az alapértelmezett értéket a tömörítendő fájlok alapján.";
+
+/* Class = "NSButtonCell"; title = "Arhiválás fájlonként"; ObjectID = "2221"; */
+"2221.title" = "Arhiválás fájlonként";
+
+/* Class = "NSButtonCell"; title = "Fájlok törlése a művelet végén"; ObjectID = "2222"; */
+"2222.title" = "Fájlok törlése a művelet végén";
+
+/* Class = "NSButtonCell"; title = "Fájlrendszer metaadatfájlok kizárása"; ObjectID = "2244"; */
+"2244.title" = "Fájlrendszer metaadatfájlok kizárása";
+
+/* Class = "NSTextFieldCell"; title = "Jelszó:"; ObjectID = "2262"; */
+"2262.title" = "Jelszó:";
+
+/* Class = "NSTextFieldCell"; title = "Feldarabolás:"; ObjectID = "2270"; */
+"2270.title" = "Feldarabolás:";
+
+/* Class = "NSComboBoxCell"; placeholderString = "Pl: 5 MB"; ObjectID = "2271"; */
+"2271.placeholderString" = "Pl: 5 MB";
+
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[0] = "1.4 MB Floppy"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[0]" = "1.4 MB Floppy";
+
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[1] = "650 MB CD"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[1]" = "650 MB CD";
+
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[2] = "700 MB CD"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[2]" = "700 MB CD";
+
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[3] = "4.7 GB DVD"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[3]" = "4.7 GB DVD";
+
+/* Class = "NSTextFieldCell"; title = "Képfájl neve:"; ObjectID = "2343"; */
+"2343.title" = "Képfájl neve:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Egyéni fájlnév"; ObjectID = "2354"; */
+"2354.placeholderString" = "Egyéni fájlnév";
+
+/* Class = "NSTextFieldCell"; title = "Itt létrehozhatsz egy tömörített, csak olvasható Iso lemezképet. Az Iso lemezképek csak mappákból készíthetőek.\n\nÍrj be egy nevet a lemezkép számára, vagy használd az alapértelmezett értéket a tömörítendő fájlok alapján."; ObjectID = "2363"; */
+"2363.title" = "Itt létrehozhatsz egy tömörített, csak olvasható Iso lemezképet. Az Iso lemezképek csak mappákból készíthetőek.\n\nÍrj be egy nevet a lemezkép számára, vagy használd az alapértelmezett értéket a tömörítendő fájlok alapján.";
+
+/* Class = "NSTextFieldCell"; title = "Nincs"; ObjectID = "2390"; */
+"2390.title" = "Nincs";
+
+/* Class = "NSTextFieldCell"; title = "Gyors"; ObjectID = "2392"; */
+"2392.title" = "Gyors";
+
+/* Class = "NSTextFieldCell"; title = "Lassú"; ObjectID = "2394"; */
+"2394.title" = "Lassú";
+
+/* Class = "NSTextFieldCell"; title = "Normál"; ObjectID = "2398"; */
+"2398.title" = "Normál";
+
+/* Class = "NSTextFieldCell"; title = "Tömörítés mértéke:"; ObjectID = "2402"; */
+"2402.title" = "Tömörítés mértéke:";
+
+/* Class = "NSToolbarItem"; label = "Rar"; ObjectID = "2408"; */
+"2408.label" = "Rar";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Rar"; ObjectID = "2408"; */
+"2408.paletteLabel" = "Rar";
+
+/* Class = "NSTextFieldCell"; title = "Just wait for an update :)"; ObjectID = "2415"; */
+"2415.title" = "Just wait for an update :)";
+
+/* Class = "NSTextFieldCell"; title = "Újra:"; ObjectID = "2426"; */
+"2426.title" = "Újra:";

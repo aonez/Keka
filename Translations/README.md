@@ -5,8 +5,8 @@ If you like Keka and have some Xcode and grammar skills, make it speak your lang
 
 ## What to do here
 
-In the [Current Translations](Current Translations/) folder you have all the updated files of the translations. You can simply update them and send a pull request.
+Here you have all the updated files of the translations.
 
-If you like, you can use the "Keka Translator.app" (using Xcode) to translate and test your files before uploading them. Just clone the project, open the Project file and follow the instructions there. Just remember to place the translated files you've created/updated in the correct folder inside [Current Translations](Current Translations/) folder.
+You can simply update them and send a pull request or contact via mail, [Twitter](https://twitter.com/kekaosx) or the [Forum](http://forum.kekaosx.com/viewforum.php?f=1&sid=a4a0efa6504875e63a87331b4e5b4f5d).
 
 #### Have fun and thanks for your support!
