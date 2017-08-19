@@ -1,0 +1,261 @@
+
+/* Class = "NSBox"; title = "Formaat"; ObjectID = "153"; */
+"153.title" = "Formaat";
+
+/* Class = "NSTextFieldCell"; title = "Standaard archiefformaat:"; ObjectID = "159"; */
+"159.title" = "Standaard archiefformaat:";
+
+/* Class = "NSTextFieldCell"; title = "Standaard inpakmethode:"; ObjectID = "160"; */
+"160.title" = "Standaard inpakmethode:";
+
+/* Class = "NSTextFieldCell"; title = "Enkel van toepassing wanneer Keka nog niet is gestart"; ObjectID = "161"; */
+"161.title" = "Enkel van toepassing wanneer Keka nog niet is gestart";
+
+/* Class = "NSMenuItem"; title = "Opslaan"; ObjectID = "164"; */
+"164.title" = "Opslaan";
+
+/* Class = "NSMenuItem"; title = "Snel"; ObjectID = "165"; */
+"165.title" = "Snel";
+
+/* Class = "NSMenuItem"; title = "Normaal"; ObjectID = "166"; */
+"166.title" = "Normaal";
+
+/* Class = "NSMenuItem"; title = "Snelste"; ObjectID = "167"; */
+"167.title" = "Snelste";
+
+/* Class = "NSMenuItem"; title = "Beste"; ObjectID = "168"; */
+"168.title" = "Beste";
+
+/* Class = "NSMenuItem"; title = "Goed"; ObjectID = "169"; */
+"169.title" = "Goed";
+
+/* Class = "NSMenuItem"; title = "7z"; ObjectID = "172"; */
+"172.title" = "7z";
+
+/* Class = "NSMenuItem"; title = "Zip"; ObjectID = "173"; */
+"173.title" = "Zip";
+
+/* Class = "NSMenuItem"; title = "Tar"; ObjectID = "174"; */
+"174.title" = "Tar";
+
+/* Class = "NSMenuItem"; title = "Gzip"; ObjectID = "175"; */
+"175.title" = "Gzip";
+
+/* Class = "NSMenuItem"; title = "Iso"; ObjectID = "176"; */
+"176.title" = "Iso";
+
+/* Class = "NSButtonCell"; title = "Stel Keka in als standaard in/uitpak-programma"; ObjectID = "184"; */
+"184.title" = "Stel Keka in als standaard in/uitpak-programma";
+
+/* Class = "NSButtonCell"; title = "Sluit Keka af wanneer er geen venster zichtbaar is"; ObjectID = "187"; */
+"187.title" = "Sluit Keka af wanneer er geen venster zichtbaar is";
+
+/* Class = "NSBox"; title = "Acties"; ObjectID = "191"; */
+"191.title" = "Acties";
+
+/* Class = "NSTextFieldCell"; title = "Automatische actie: afhankelijk van de bestandsextensies beslist Keka om in of uit te pakken."; ObjectID = "194"; */
+"194.title" = "Automatische actie: afhankelijk van de bestandsextensies beslist Keka om in of uit te pakken.";
+
+/* Class = "NSMenuItem"; title = "Altijd uitpakken"; ObjectID = "197"; */
+"197.title" = "Altijd uitpakken";
+
+/* Class = "NSMenuItem"; title = "Altijd inpakken"; ObjectID = "198"; */
+"198.title" = "Altijd inpakken";
+
+/* Class = "NSMenuItem"; title = "Voer automatische actie uit"; ObjectID = "199"; */
+"199.title" = "Voer automatische actie uit";
+
+/* Class = "NSButtonCell"; title = "Bestanden na inpakken verwijderen"; ObjectID = "262"; */
+"262.title" = "Bestanden na inpakken verwijderen";
+
+/* Class = "NSButtonCell"; title = "Elk bestand in een apart archief plaatsen"; ObjectID = "263"; */
+"263.title" = "Elk bestand in een apart archief plaatsen";
+
+/* Class = "NSButtonCell"; title = "Toon bestand in Finder na inpakken"; ObjectID = "264"; */
+"264.title" = "Toon bestand in Finder na inpakken";
+
+/* Class = "NSButtonCell"; title = "Mac specifieke bestanden uitsluiten (bvb.: .DS_Store)"; ObjectID = "265"; */
+"265.title" = "Mac specifieke bestanden uitsluiten (bvb.: .DS_Store)";
+
+/* Class = "NSBox"; title = "Naam en locatie"; ObjectID = "270"; */
+"270.title" = "Naam en locatie";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Tik hier uw zelfgekozen naam..."; ObjectID = "276"; */
+"276.placeholderString" = "Tik hier uw zelfgekozen naam...";
+
+/* Class = "NSTextFieldCell"; title = "Tik hier uw zelfgekozen naam..."; ObjectID = "276"; */
+"276.title" = "Tik hier uw zelfgekozen naam...";
+
+/* Class = "NSMenuItem"; title = "Altijd vragen"; ObjectID = "279"; */
+"279.title" = "Altijd vragen";
+
+/* Class = "NSMenuItem"; title = "In dezelfde map als het originele bestand"; ObjectID = "280"; */
+"280.title" = "In dezelfde map als het originele bestand";
+
+/* Class = "NSMenuItem"; title = "Zelfgekozen map..."; ObjectID = "281"; */
+"281.title" = "Zelfgekozen map...";
+
+/* Class = "NSTextFieldCell"; title = "Bewaar op locatie:"; ObjectID = "282"; */
+"282.title" = "Bewaar op locatie:";
+
+/* Class = "NSTextFieldCell"; title = "Naam voor nieuwe bestanden:"; ObjectID = "283"; */
+"283.title" = "Naam voor nieuwe bestanden:";
+
+/* Class = "NSMenuItem"; title = "Hetzelfde als het originele bestand"; ObjectID = "286"; */
+"286.title" = "Hetzelfde als het originele bestand";
+
+/* Class = "NSMenuItem"; title = "Zelfgekozen naam..."; ObjectID = "287"; */
+"287.title" = "Zelfgekozen naam...";
+
+/* Class = "NSToolbarItem"; label = "Inpakken"; ObjectID = "333"; */
+"333.label" = "Inpakken";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Inpakken"; ObjectID = "333"; */
+"333.paletteLabel" = "Inpakken";
+
+/* Class = "NSToolbarItem"; label = "Algemeen"; ObjectID = "334"; */
+"334.label" = "Algemeen";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Algemeen"; ObjectID = "334"; */
+"334.paletteLabel" = "Algemeen";
+
+/* Class = "NSToolbarItem"; label = "Uitpakken"; ObjectID = "338"; */
+"338.label" = "Uitpakken";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Uitpakken"; ObjectID = "338"; */
+"338.paletteLabel" = "Uitpakken";
+
+/* Class = "NSMenuItem"; title = "Dmg"; ObjectID = "347"; */
+"347.title" = "Dmg";
+
+/* Class = "NSMenuItem"; title = "Bzip2"; ObjectID = "348"; */
+"348.title" = "Bzip2";
+
+/* Class = "NSBox"; title = "Locatie"; ObjectID = "352"; */
+"352.title" = "Locatie";
+
+/* Class = "NSMenuItem"; title = "Altijd vragen"; ObjectID = "357"; */
+"357.title" = "Altijd vragen";
+
+/* Class = "NSMenuItem"; title = "In dezelfde map als het originele bestand"; ObjectID = "358"; */
+"358.title" = "In dezelfde map als het originele bestand";
+
+/* Class = "NSMenuItem"; title = "Zelfgekozen map..."; ObjectID = "359"; */
+"359.title" = "Zelfgekozen map...";
+
+/* Class = "NSTextFieldCell"; title = "Uitpakken op locatie:"; ObjectID = "360"; */
+"360.title" = "Uitpakken op locatie:";
+
+/* Class = "NSButtonCell"; title = "Toon bestanden in Finder na uitpakken"; ObjectID = "361"; */
+"361.title" = "Toon bestanden in Finder na uitpakken";
+
+/* Class = "NSButtonCell"; title = "Bestanden na uitpakken verwijderen"; ObjectID = "362"; */
+"362.title" = "Bestanden na uitpakken verwijderen";
+
+/* Class = "NSMenuItem"; title = "Basso"; ObjectID = "416"; */
+"416.title" = "Basso";
+
+/* Class = "NSMenuItem"; title = "Tink"; ObjectID = "417"; */
+"417.title" = "Tink";
+
+/* Class = "NSMenuItem"; title = "Geen"; ObjectID = "418"; */
+"418.title" = "Geen";
+
+/* Class = "NSMenuItem"; title = "Standaard inpakken"; ObjectID = "419"; */
+"419.title" = "Standaard inpakken";
+
+/* Class = "NSMenuItem"; title = "Bottle"; ObjectID = "420"; */
+"420.title" = "Bottle";
+
+/* Class = "NSMenuItem"; title = "Blow"; ObjectID = "421"; */
+"421.title" = "Blow";
+
+/* Class = "NSMenuItem"; title = "Submarine"; ObjectID = "422"; */
+"422.title" = "Submarine";
+
+/* Class = "NSMenuItem"; title = "Sosumi"; ObjectID = "423"; */
+"423.title" = "Sosumi";
+
+/* Class = "NSMenuItem"; title = "Purr"; ObjectID = "424"; */
+"424.title" = "Purr";
+
+/* Class = "NSMenuItem"; title = "Pop"; ObjectID = "425"; */
+"425.title" = "Pop";
+
+/* Class = "NSMenuItem"; title = "Ping"; ObjectID = "426"; */
+"426.title" = "Ping";
+
+/* Class = "NSMenuItem"; title = "Morse"; ObjectID = "427"; */
+"427.title" = "Morse";
+
+/* Class = "NSMenuItem"; title = "Hero"; ObjectID = "428"; */
+"428.title" = "Hero";
+
+/* Class = "NSMenuItem"; title = "Glass"; ObjectID = "429"; */
+"429.title" = "Glass";
+
+/* Class = "NSMenuItem"; title = "Funk"; ObjectID = "430"; */
+"430.title" = "Funk";
+
+/* Class = "NSMenuItem"; title = "Frog"; ObjectID = "431"; */
+"431.title" = "Frog";
+
+/* Class = "NSMenuItem"; title = "Standaard uitpakken"; ObjectID = "432"; */
+"432.title" = "Standaard uitpakken";
+
+/* Class = "NSTextFieldCell"; title = "Speel geluid af na uitpakken:"; ObjectID = "433"; */
+"433.title" = "Speel geluid af na uitpakken:";
+
+/* Class = "NSTextFieldCell"; title = "Speel geluid af na inpakken:"; ObjectID = "436"; */
+"436.title" = "Speel geluid af na inpakken:";
+
+/* Class = "NSMenuItem"; title = "Standaard uitpakken"; ObjectID = "439"; */
+"439.title" = "Standaard uitpakken";
+
+/* Class = "NSMenuItem"; title = "Frog"; ObjectID = "440"; */
+"440.title" = "Frog";
+
+/* Class = "NSMenuItem"; title = "Funk"; ObjectID = "441"; */
+"441.title" = "Funk";
+
+/* Class = "NSMenuItem"; title = "Glass"; ObjectID = "442"; */
+"442.title" = "Glass";
+
+/* Class = "NSMenuItem"; title = "Hero"; ObjectID = "443"; */
+"443.title" = "Hero";
+
+/* Class = "NSMenuItem"; title = "Morse"; ObjectID = "444"; */
+"444.title" = "Morse";
+
+/* Class = "NSMenuItem"; title = "Ping"; ObjectID = "445"; */
+"445.title" = "Ping";
+
+/* Class = "NSMenuItem"; title = "Pop"; ObjectID = "446"; */
+"446.title" = "Pop";
+
+/* Class = "NSMenuItem"; title = "Purr"; ObjectID = "447"; */
+"447.title" = "Purr";
+
+/* Class = "NSMenuItem"; title = "Sosumi"; ObjectID = "448"; */
+"448.title" = "Sosumi";
+
+/* Class = "NSMenuItem"; title = "Submarine"; ObjectID = "449"; */
+"449.title" = "Submarine";
+
+/* Class = "NSMenuItem"; title = "Blow"; ObjectID = "450"; */
+"450.title" = "Blow";
+
+/* Class = "NSMenuItem"; title = "Bottle"; ObjectID = "451"; */
+"451.title" = "Bottle";
+
+/* Class = "NSMenuItem"; title = "Standaard inpakken"; ObjectID = "452"; */
+"452.title" = "Standaard inpakken";
+
+/* Class = "NSMenuItem"; title = "Geen"; ObjectID = "453"; */
+"453.title" = "Geen";
+
+/* Class = "NSMenuItem"; title = "Tink"; ObjectID = "454"; */
+"454.title" = "Tink";
+
+/* Class = "NSMenuItem"; title = "Basso"; ObjectID = "455"; */
+"455.title" = "Basso";
