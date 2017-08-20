@@ -1,9 +1,0 @@
-「Keka で圧縮する.workflow」を /Users/自分のユーザ名/Library/Services にコピーします。
-
-メニューに表示するアイテムを変更したい場合は下記のようにテキストエディターまたは Property List Editor で編集できます。
-
-	- 「Keka で圧縮する.workflow」のファイルに右クリックまたはControl-クリックします
-	- 「パッケージの内容を表示」を選択します
-	- 「Contents」のフォルダの中の「Info.plist」のファイルを編集します。
-			テキストエディターで編集の場合、11行にあるタグの間の文字列を編集します。
-			Xcode または Property List Editor を利用の場合、「Menu Item Title」の値を編集します。
