@@ -1,6 +1,0 @@
-Aby dodać program Keka do menu kontekstowego skopiuj plik "Compress with keka.workflow" do folderu usług systemu macOS: "/Users/"Twoja-nazwa-użytkownika"/Library/Services".
-Tekst wyświetlany w menu kontekstowym można przetłumaczyć w dowolnym edytorze tekstu:
-
-	- Zaznacz plik "Compress with keka.workflow" i kliknij prawym przyciskiem, aby otworzyć menu kontekstowe.
-	- Wybierz z menu kontekstowego opcję "Pokaż zawartość pakietu".
-	- W folderze "Contents" znajduje się plik "Info.plist", tekst wyświetlany w menu kontekstowym jest umieszczony w linii 11.

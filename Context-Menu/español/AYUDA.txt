@@ -1,7 +1,0 @@
-Simplemente copia el archivo "Compress with keka.workflow" a /Usuarios/"Tu nombre de usuario"/Libreria/Services
-
-Puedes cambiar el texto que sale en el menú contextual:
-
-	- Botón derecho en el archivo "Compress with keka.workflow"
-	- Mostrar contenido del paquete
-	- Dentro de la carpeta Contents, edita el archivo "Info.plist", línea 11.
