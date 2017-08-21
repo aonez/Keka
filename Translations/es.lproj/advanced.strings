@@ -59,12 +59,6 @@
 /* Class = "NSMenuItem"; title = "Muy lento, máxima compresión"; ObjectID = "965"; */
 "965.title" = "Muy lento, máxima compresión";
 
-/* Class = "NSTextFieldCell"; title = "Secondary action"; ObjectID = "1621"; */
-"1621.title" = "Secondary action";
-
-/* Class = "NSTextFieldCell"; title = "Main action"; ObjectID = "1622"; */
-"1622.title" = "Main action";
-
 /* Class = "NSToolbarItem"; label = "7z"; ObjectID = "1800"; */
 "1800.label" = "7z";
 
