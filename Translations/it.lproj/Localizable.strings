@@ -4,7 +4,7 @@
 "No" = "No";
 "Don't show again" = "Non mostrare più";
 "Set as default compressor" = "Imposta come compressore di default";
-"Not now" = "Not now";
+"Not now" = "Non adesso";
 "Want to make Keka your default compressor?" = "Vuoi rendere Keka il tuo compressore di default?";
 "This means that all the compatible files will be extracted with Keka by now. You can set this later in the Keka Preferences." = "Ciò significa che tutti i file compatibili saranno ora estratti con Keka. È possibile impostare questo in seguito nelle preferenze di Keka.";
 "Really want to close Keka?" = "Sei sicuro di voler chiudere Keka?";
@@ -50,8 +50,8 @@
 "Keka - %i on queue" = "Keka - %i in coda";
 "Keka can't create this ISO image" = "Keka non può creare questa immagine ISO";
 "You can only create an ISO image with a single folder. Try to put all your files in a folder and drop it to Keka to create the ISO image." = "Puoi solo creare un'immagine ISO con una singola cartella. Prova a mettere tutti i file in una cartella e rilasciarla su Keka per creare l'immagine ISO.";
-"Keka can't create this xz tarball" = "Keka can't create this xz tarball";
-"This operation is not supported on OS X 10.8.\nPlease update your system or manually create a Tar and then xz it." = "This operation is not supported on OS X 10.8.\nPlease update your system or manually create a Tar and then xz it.";
+"Keka can't create this xz tarball" = "Keka non può creare questo tarball con xz";
+"This operation is not supported on OS X 10.8.\nPlease update your system or manually create a Tar and then xz it." = "Questa operazione non è supportata su OS X 10.8.\nAggiorna il tuo sistema o crea manualmente un tar e poi comprimilo con xz.";
 "Compress \"%@\" in %@ to..." = "Comprimi \"%@\" in %@ a...";
 "Compress in %@ to..." = "Comprimi in %@ a...";
 "Save as:" = "Registra col nome:";
