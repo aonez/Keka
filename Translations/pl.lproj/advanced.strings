@@ -386,12 +386,6 @@
 /* Class = "NSMenuItem"; title = "Najwyższy stopień kompresji"; ObjectID = "965"; */
 "965.title" = "Najwyższy stopień kompresji";
 
-/* Class = "NSTextFieldCell"; title = "Akcja drugorzędna"; ObjectID = "1621"; */
-"1621.title" = "Akcja drugorzędna";
-
-/* Class = "NSTextFieldCell"; title = "Akcja domyślna"; ObjectID = "1622"; */
-"1622.title" = "Akcja domyślna";
-
 /* Class = "NSToolbarItem"; label = "7z"; ObjectID = "1800"; */
 "1800.label" = "7z";
 
