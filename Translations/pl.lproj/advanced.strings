@@ -140,8 +140,8 @@
 /* Class = "NSMenuItem"; title = "Dyktowanie"; ObjectID = "211"; */
 "211.title" = "Dyktowanie";
 
-/* Class = "NSMenu"; title = "Speech"; ObjectID = "212"; */
-"212.title" = "Speech";
+/* Class = "NSMenu"; title = "Mowa"; ObjectID = "212"; */
+"212.title" = "Mowa";
 
 /* Class = "NSMenuItem"; title = "Znajdź poprzedni"; ObjectID = "213"; */
 "213.title" = "Znajdź poprzedni";
@@ -350,23 +350,23 @@
 /* Class = "NSMenuItem"; title = "7z"; ObjectID = "952"; */
 "952.title" = "7z";
 
-/* Class = "NSMenuItem"; title = "Zip"; ObjectID = "953"; */
-"953.title" = "Zip";
+/* Class = "NSMenuItem"; title = "zip"; ObjectID = "953"; */
+"953.title" = "zip";
 
-/* Class = "NSMenuItem"; title = "Tar"; ObjectID = "954"; */
-"954.title" = "Tar";
+/* Class = "NSMenuItem"; title = "tar"; ObjectID = "954"; */
+"954.title" = "tar";
 
-/* Class = "NSMenuItem"; title = "Gzip"; ObjectID = "955"; */
-"955.title" = "Gzip";
+/* Class = "NSMenuItem"; title = "gzip"; ObjectID = "955"; */
+"955.title" = "gzip";
 
-/* Class = "NSMenuItem"; title = "Iso"; ObjectID = "956"; */
-"956.title" = "Iso";
+/* Class = "NSMenuItem"; title = "iso"; ObjectID = "956"; */
+"956.title" = "iso";
 
-/* Class = "NSMenuItem"; title = "Metoda kompresji"; ObjectID = "957"; */
-"957.title" = "Metoda kompresji";
+/* Class = "NSMenuItem"; title = "Metoda archiwizacji"; ObjectID = "957"; */
+"957.title" = "Metoda archiwizacji";
 
-/* Class = "NSMenu"; title = "Metoda kompresji"; ObjectID = "958"; */
-"958.title" = "Metoda kompresji";
+/* Class = "NSMenu"; title = "Metoda archiwizacji"; ObjectID = "958"; */
+"958.title" = "Metoda archiwizacji";
 
 /* Class = "NSMenuItem"; title = "Brak kompresji"; ObjectID = "960"; */
 "960.title" = "Brak kompresji";
@@ -392,41 +392,41 @@
 /* Class = "NSToolbarItem"; paletteLabel = "7z"; ObjectID = "1800"; */
 "1800.paletteLabel" = "7z";
 
-/* Class = "NSToolbarItem"; label = "Zip"; ObjectID = "1801"; */
-"1801.label" = "Zip";
+/* Class = "NSToolbarItem"; label = "zip"; ObjectID = "1801"; */
+"1801.label" = "zip";
 
-/* Class = "NSToolbarItem"; paletteLabel = "Zip"; ObjectID = "1801"; */
-"1801.paletteLabel" = "Zip";
+/* Class = "NSToolbarItem"; paletteLabel = "zip"; ObjectID = "1801"; */
+"1801.paletteLabel" = "zip";
 
-/* Class = "NSToolbarItem"; label = "Tar"; ObjectID = "1802"; */
-"1802.label" = "Tar";
+/* Class = "NSToolbarItem"; label = "tar"; ObjectID = "1802"; */
+"1802.label" = "tar";
 
-/* Class = "NSToolbarItem"; paletteLabel = "Tar"; ObjectID = "1802"; */
-"1802.paletteLabel" = "Tar";
+/* Class = "NSToolbarItem"; paletteLabel = "tar"; ObjectID = "1802"; */
+"1802.paletteLabel" = "tar";
 
-/* Class = "NSToolbarItem"; label = "Gzip"; ObjectID = "1803"; */
-"1803.label" = "Gzip";
+/* Class = "NSToolbarItem"; label = "gzip"; ObjectID = "1803"; */
+"1803.label" = "gzip";
 
-/* Class = "NSToolbarItem"; paletteLabel = "Gzip"; ObjectID = "1803"; */
-"1803.paletteLabel" = "Gzip";
+/* Class = "NSToolbarItem"; paletteLabel = "gzip"; ObjectID = "1803"; */
+"1803.paletteLabel" = "gzip";
 
-/* Class = "NSToolbarItem"; label = "Bzip2"; ObjectID = "1804"; */
-"1804.label" = "Bzip2";
+/* Class = "NSToolbarItem"; label = "bzip2"; ObjectID = "1804"; */
+"1804.label" = "bzip2";
 
-/* Class = "NSToolbarItem"; paletteLabel = "Bzip2"; ObjectID = "1804"; */
-"1804.paletteLabel" = "Bzip2";
+/* Class = "NSToolbarItem"; paletteLabel = "bzip2"; ObjectID = "1804"; */
+"1804.paletteLabel" = "bzip2";
 
-/* Class = "NSToolbarItem"; label = "Dmg"; ObjectID = "1805"; */
-"1805.label" = "Dmg";
+/* Class = "NSToolbarItem"; label = "dmg"; ObjectID = "1805"; */
+"1805.label" = "dmg";
 
-/* Class = "NSToolbarItem"; paletteLabel = "Dmg"; ObjectID = "1805"; */
-"1805.paletteLabel" = "Dmg";
+/* Class = "NSToolbarItem"; paletteLabel = "dmg"; ObjectID = "1805"; */
+"1805.paletteLabel" = "dmg";
 
-/* Class = "NSToolbarItem"; label = "Iso"; ObjectID = "1806"; */
-"1806.label" = "Iso";
+/* Class = "NSToolbarItem"; label = "iso"; ObjectID = "1806"; */
+"1806.label" = "iso";
 
-/* Class = "NSToolbarItem"; paletteLabel = "Iso"; ObjectID = "1806"; */
-"1806.paletteLabel" = "Iso";
+/* Class = "NSToolbarItem"; paletteLabel = "iso"; ObjectID = "1806"; */
+"1806.paletteLabel" = "iso";
 
 /* Class = "NSButtonCell"; title = "Utwórz archiwum ciągłe"; ObjectID = "1880"; */
 "1880.title" = "Utwórz archiwum ciągłe";
@@ -434,20 +434,20 @@
 /* Class = "NSButtonCell"; title = "Szyfrowanie nazw plików"; ObjectID = "1881"; */
 "1881.title" = "Szyfrowanie nazw plików";
 
-/* Class = "NSMenuItem"; title = "Dmg"; ObjectID = "2156"; */
-"2156.title" = "Dmg";
+/* Class = "NSMenuItem"; title = "dmg"; ObjectID = "2156"; */
+"2156.title" = "dmg";
 
-/* Class = "NSMenuItem"; title = "Bzip2"; ObjectID = "2158"; */
-"2158.title" = "Bzip2";
+/* Class = "NSMenuItem"; title = "bzip2"; ObjectID = "2158"; */
+"2158.title" = "bzip2";
 
-/* Class = "NSTextFieldCell"; title = "Możesz utworzyć plik DMG tylko do odczytu. Plik może być utworzony tylko na bazie folderu. Ustaw nazwę dla pluku DMG lub użyj domyślnej nazwy."; ObjectID = "2189"; */
-"2189.title" = "Możesz utworzyć plik DMG tylko do odczytu. Plik może być utworzony tylko na bazie folderu. Ustaw nazwę dla pluku DMG lub użyj domyślnej nazwy.";
+/* Class = "NSTextFieldCell"; title = "Utwórz archiwum DMG - tylko do odczytu. Wprowadź własną nazwę dla pliku DMG lub użyj domyślnej."; ObjectID = "2189"; */
+"2189.title" = "Utwórz archiwum DMG - tylko do odczytu. Wprowadź własną nazwę dla pliku DMG lub użyj domyślnej.";
 
-/* Class = "NSButtonCell"; title = "Archiwum jako pojedynczy plik"; ObjectID = "2221"; */
-"2221.title" = "Archiwum jako pojedynczy plik";
+/* Class = "NSButtonCell"; title = "Osobne archiwum dla każdego pliku"; ObjectID = "2221"; */
+"2221.title" = "Osobne archiwum dla każdego pliku";
 
-/* Class = "NSButtonCell"; title = "Usuń pliki po zakończeniu archiwizowania"; ObjectID = "2222"; */
-"2222.title" = "Usuń pliki po zakończeniu archiwizowania";
+/* Class = "NSButtonCell"; title = "Usuń pliki po zarchiwizowaniu"; ObjectID = "2222"; */
+"2222.title" = "Usuń pliki po zarchiwizowaniu";
 
 /* Class = "NSButtonCell"; title = "Wyklucz ukryte pliki systemowe"; ObjectID = "2244"; */
 "2244.title" = "Wyklucz ukryte pliki systemowe";
@@ -455,14 +455,14 @@
 /* Class = "NSTextFieldCell"; title = "Hasło:"; ObjectID = "2262"; */
 "2262.title" = "Hasło:";
 
-/* Class = "NSTextFieldCell"; title = "Podziel archiwum:"; ObjectID = "2270"; */
-"2270.title" = "Podziel archiwum:";
+/* Class = "NSTextFieldCell"; title = "Podziel:"; ObjectID = "2270"; */
+"2270.title" = "Podziel:";
 
-/* Class = "NSComboBoxCell"; placeholderString = "Example: 5 MB"; ObjectID = "2271"; */
-"2271.placeholderString" = "Example: 5 MB";
+/* Class = "NSComboBoxCell"; placeholderString = "np. 5 MB"; ObjectID = "2271"; */
+"2271.placeholderString" = "np. 5 MB";
 
-/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[0] = "1.4 MB Floppy disk"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[0]" = "1.4 MB Floppy disk";
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[0] = "1.4 MB Floppy"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[0]" = "1.4 MB Floppy";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[1] = "650 MB CD"; ObjectID = "2271"; */
 "2271.ibShadowedObjectValues[1]" = "650 MB CD";
@@ -476,11 +476,11 @@
 /* Class = "NSTextFieldCell"; title = "Nazwa archiwum:"; ObjectID = "2343"; */
 "2343.title" = "Nazwa archiwum:";
 
-/* Class = "NSTextFieldCell"; placeholderString = "custom name"; ObjectID = "2354"; */
-"2354.placeholderString" = "custom name";
+/* Class = "NSTextFieldCell"; placeholderString = "nazwa_archiwum"; ObjectID = "2354"; */
+"2354.placeholderString" = "nazwa_archiwum";
 
-/* Class = "NSTextFieldCell"; title = "Możesz utworzyć skompresowany plik ISO tylko do odczytu. Plik może być utworzony tylko na bazie folderu. Ustaw nazwę dla pluku ISO lub użyj domyślnej nazwy."; ObjectID = "2363"; */
-"2363.title" = "Możesz utworzyć skompresowany plik ISO tylko do odczytu. Plik może być utworzony tylko na bazie folderu. Ustaw nazwę dla pluku ISO lub użyj domyślnej nazwy.";
+/* Class = "NSTextFieldCell"; title = "Utwórz archiwum ISO - tylko do odczytu. Wprowadź własną nazwę dla pliku ISO lub użyj domyślnej."; ObjectID = "2363"; */
+"2363.title" = "Utwórz archiwum ISO - tylko do odczytu. Wprowadź własną nazwę dla pliku ISO lub użyj domyślnej.";
 
 /* Class = "NSTextFieldCell"; title = "Bez kompresji"; ObjectID = "2390"; */
 "2390.title" = "Bez kompresji";
@@ -497,14 +497,14 @@
 /* Class = "NSTextFieldCell"; title = "Metoda kompresji: Wybrana"; ObjectID = "2402"; */
 "2402.title" = "Metoda kompresji: Wybrana";
 
-/* Class = "NSToolbarItem"; label = "Rar"; ObjectID = "2408"; */
-"2408.label" = "Rar";
+/* Class = "NSToolbarItem"; label = "ear"; ObjectID = "2408"; */
+"2408.label" = "ear";
 
-/* Class = "NSToolbarItem"; paletteLabel = "Rar"; ObjectID = "2408"; */
-"2408.paletteLabel" = "Rar";
+/* Class = "NSToolbarItem"; paletteLabel = "rar"; ObjectID = "2408"; */
+"2408.paletteLabel" = "rar";
 
 /* Class = "NSTextFieldCell"; title = "Pracujemy nad tym..."; ObjectID = "2415"; */
 "2415.title" = "Pracujemy nad tym...";
 
-/* Class = "NSTextFieldCell"; title = "Powtórz hasło:"; ObjectID = "2426"; */
-"2426.title" = "Powtórz hasło:";
+/* Class = "NSTextFieldCell"; title = "Powtórz:"; ObjectID = "2426"; */
+"2426.title" = "Powtórz:";
