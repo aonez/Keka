@@ -29,9 +29,9 @@
 "Creating %@ file..." = "Tworzenie pliku %@...";
 "Creating file \"%@\"" = "Tworzenie pliku \"%@\"";
 "Creating file \"%@...\"" = "Tworzenie pliku \"%@...\"";
-"Time elapsed: %d:%@%d:%@%d hours%@" = "Pozostały czas: %d:%@%d:%@%d godzin%@";
-"Time elapsed: %d:%@%d minutes%@" = "Pozostały czas: %d:%@%d minut%@";
-"Time elapsed: %d seconds%@" = "Pozostały czas: %d sekund%@";
+"Time elapsed: %d:%@%d:%@%d hours%@" = "Upłynęło: %d:%@%d:%@%d godzin%@";
+"Time elapsed: %d:%@%d minutes%@" = "Upłynęło: %d:%@%d minut%@";
+"Time elapsed: %d seconds%@" = "Upłynęło: %d sekund%@";
 "%d seconds" = "%d sekund";
 "%d:%@%d minutes" = "%d:%@%d minut";
 "%d:%@%d:%@%d hours" = "%d:%@%d:%@%d godzin";
@@ -72,7 +72,7 @@
 " - Remaining: About 1 year" = " - Pozostało: ok. 1 roku";
 " - Remaining: About %d years" = " - Pozostało: ok. %d lat";
 " - Remaining: Less than one second" = " - Pozostało: mniej niż sekunda";
-"Can't show progress time..." = "Nie można wyświetlić pozostałego czasu…";
+"Can't show progress time..." = "Obliczanie postępu…";
 "Password for \"%@\"" = "Hasło do archiwum \"%@\"";
 "No compression" = "Brak kompresji";
 "Fastest, less compression" = "Bardzo szybka, najniższy stopień kompresji";
