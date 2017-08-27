@@ -13,6 +13,7 @@
 "File \"%@\" needs a password to be extracted" = "解压 \"%@\" 需要密码";
 "Extraction of \"%@\" done" = "解压\"%@\" 完成";
 "Extraction of \"%@\" failed." = "解压 \"%@\" 失败.";
+"Extraction of %i files done" = "解压 %i 文件完成";
 "Extraction complete" = "解压缩完成";
 "Extraction fail" = "解压缩失败";
 "Compression complete" = "压缩完成";
@@ -105,6 +106,7 @@
 "4.7 GB DVD" = "4.7 GB DVD";
 "Drop here to extract" = "从这里解压缩";
 "Drop here to compress" = "从这里压缩";
+"Binary \"%@\" is not accessible" = "\"%@\" 无法访问";
 "The first part \"%@\" can't be found" = "The first part \"%@\" can't be found";
 "unknown" = "未知";
 "Unknown error" = "未知错误";
