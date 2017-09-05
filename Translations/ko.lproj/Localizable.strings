@@ -13,6 +13,7 @@
 "File \"%@\" needs a password to be extracted" = "\"%@\" 파일은 압축을 풀기 위해 암호가 필요합니다";
 "Extraction of \"%@\" done" = "\"%@\" 파일 압축 해제 완료";
 "Extraction of \"%@\" failed." = "\"%@\" 파일 압축 해제 실패";
+"Extraction of %i files done" = "Extraction of %i files done";
 "Extraction complete" = "압축 해제 완료";
 "Extraction fail" = "압축 해제 실패";
 "Compression complete" = "압축 완료";

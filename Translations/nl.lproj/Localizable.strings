@@ -13,6 +13,7 @@
 "File \"%@\" needs a password to be extracted" = "Bestand \"%@\" heeft een wachtwoord nodig om uitgepakt te worden.";
 "Extraction of \"%@\" done" = "Uitpakken van \"%@\" voltooid";
 "Extraction of \"%@\" failed." = "Uitpakken van \"%@\" mislukt.";
+"Extraction of %i files done" = "Extraction of %i files done";
 "Extraction complete" = "Uitpakken voltooid";
 "Extraction fail" = "Uitpakken mislukt";
 "Compression complete" = "Inpakken voltooid";
