@@ -13,6 +13,7 @@
 "File \"%@\" needs a password to be extracted" = "\"%@\" を解凍できるようにパスワードを使用する必要があります。";
 "Extraction of \"%@\" done" = "\"%@\" は解凍されました。";
 "Extraction of \"%@\" failed." = "\"%@\" は解凍できませんでした。";
+"Extraction of %i files done" = "Extraction of %i files done";
 "Extraction complete" = "解凍完了";
 "Extraction fail" = "解凍できませんでした";
 "Compression complete" = "圧縮完了";
