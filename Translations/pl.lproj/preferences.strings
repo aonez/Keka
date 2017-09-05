@@ -263,8 +263,8 @@
 /* Class = "NSMenuItem"; title = "Basso"; ObjectID = "455"; */
 "455.title" = "Basso";
 
-/* Class = "NSButtonCell"; title = "Enable context menu services"; ObjectID = "CRY-lE-Luz"; */
-"CRY-lE-Luz.title" = "Enable context menu services";
+/* Class = "NSButtonCell"; title = "Włącz usługi menu kontekstowego"; ObjectID = "CRY-lE-Luz"; */
+"CRY-lE-Luz.title" = "Włącz usługi menu kontekstowego";
 
-/* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "b5e-bj-Pgz"; */
-"b5e-bj-Pgz.title" = "Use unified toolbar (resets customizations)";
+/* Class = "NSButtonCell"; title = "Użyj jednolitego paska narzędzi"; ObjectID = "b5e-bj-Pgz"; */
+"b5e-bj-Pgz.title" = "Użyj jednolitego paska narzędzi";
