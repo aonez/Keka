@@ -14,6 +14,7 @@
 "Extraction of \"%@\" done" = "\"%@\" kibontása kész.";
 "Extraction of \"%@\" failed." = "\"%@\" kibontása sikertelen.";
 "Extraction complete" = "Kibontás kész";
+"Extraction of %i files done" = "Extraction of %i files done";
 "Extraction fail" = "A kibontás során hiba lépett fel";
 "Compression complete" = "Tömörítés kész";
 "File \"%@\" created" = "\"%@\" létrehozva";
