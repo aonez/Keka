@@ -13,6 +13,7 @@
 "File \"%@\" needs a password to be extracted" = "O arquivo \"%@\" necessita de senha para ser extraído";
 "Extraction of \"%@\" done" = "Extração de \"%@\" completa";
 "Extraction of \"%@\" failed." = "A extração de \"%@\" falhou.";
+"Extraction of %i files done" = "Extraction of %i files done";
 "Extraction complete" = "Extração completa";
 "Extraction fail" = "Extração falhou";
 "Compression complete" = "Compressão completa";
