@@ -49,7 +49,7 @@
 /* Class = "NSMenu"; title = "Edit"; ObjectID = "gy4-dO-Qdu"; */
 "gy4-dO-Qdu.title" = "Edycja";
 
-/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "Ro6-g5-CxU"; */
+/* Class = "NSMenuItem"; title = "Wytnij"; ObjectID = "Ro6-g5-CxU"; */
 "Ro6-g5-CxU.title" = "Wytnij";
 
 /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "v5b-pg-pYC"; */
