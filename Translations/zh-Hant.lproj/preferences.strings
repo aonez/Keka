@@ -11,6 +11,9 @@
 /* Class = "NSTextFieldCell"; title = "設定將於 Keka 重啓後生效"; ObjectID = "161"; */
 "161.title" = "設定將於 Keka 重啓後生效";
 
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "163"; */
+"163.title" = "OtherViews";
+
 /* Class = "NSMenuItem"; title = "不壓縮"; ObjectID = "164"; */
 "164.title" = "不壓縮";
 
@@ -29,20 +32,8 @@
 /* Class = "NSMenuItem"; title = "慢速，較高壓縮率"; ObjectID = "169"; */
 "169.title" = "慢速，較高壓縮率";
 
-/* Class = "NSMenuItem"; title = "7z"; ObjectID = "172"; */
-"172.title" = "7z";
-
-/* Class = "NSMenuItem"; title = "Zip"; ObjectID = "173"; */
-"173.title" = "Zip";
-
-/* Class = "NSMenuItem"; title = "Tar"; ObjectID = "174"; */
-"174.title" = "Tar";
-
-/* Class = "NSMenuItem"; title = "Gzip"; ObjectID = "175"; */
-"175.title" = "Gzip";
-
-/* Class = "NSMenuItem"; title = "Iso"; ObjectID = "176"; */
-"176.title" = "Iso";
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "171"; */
+"171.title" = "OtherViews";
 
 /* Class = "NSButtonCell"; title = "設為預設的 壓縮/解壓縮 工具"; ObjectID = "184"; */
 "184.title" = "設為預設的 壓縮/解壓縮 工具";
@@ -55,6 +46,9 @@
 
 /* Class = "NSTextFieldCell"; title = "自動判斷操作: Keka 文件副檔名決定壓縮或解壓縮。"; ObjectID = "194"; */
 "194.title" = "自動判斷操作: Keka 文件副檔名決定壓縮或解壓縮。";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "196"; */
+"196.title" = "OtherViews";
 
 /* Class = "NSMenuItem"; title = "總是解壓縮"; ObjectID = "197"; */
 "197.title" = "總是解壓縮";
@@ -83,6 +77,9 @@
 /* Class = "NSTextFieldCell"; placeholderString = "自定義命名"; ObjectID = "276"; */
 "276.placeholderString" = "自定義命名";
 
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "278"; */
+"278.title" = "OtherViews";
+
 /* Class = "NSMenuItem"; title = "每次詢問"; ObjectID = "279"; */
 "279.title" = "每次詢問";
 
@@ -98,11 +95,17 @@
 /* Class = "NSTextFieldCell"; title = "新文件命名:"; ObjectID = "283"; */
 "283.title" = "新文件命名:";
 
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "285"; */
+"285.title" = "OtherViews";
+
 /* Class = "NSMenuItem"; title = "和原文件相同"; ObjectID = "286"; */
 "286.title" = "和原文件相同";
 
 /* Class = "NSMenuItem"; title = "自定義..."; ObjectID = "287"; */
 "287.title" = "自定義...";
+
+/* Class = "NSWindow"; title = "視窗"; ObjectID = "330"; */
+"330.title" = "視窗";
 
 /* Class = "NSToolbarItem"; label = "壓縮"; ObjectID = "333"; */
 "333.label" = "壓縮";
@@ -122,14 +125,11 @@
 /* Class = "NSToolbarItem"; paletteLabel = "解壓縮"; ObjectID = "338"; */
 "338.paletteLabel" = "解壓縮";
 
-/* Class = "NSMenuItem"; title = "Dmg"; ObjectID = "347"; */
-"347.title" = "Dmg";
-
-/* Class = "NSMenuItem"; title = "Bzip2"; ObjectID = "348"; */
-"348.title" = "Bzip2";
-
 /* Class = "NSBox"; title = "位置"; ObjectID = "352"; */
 "352.title" = "位置";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "356"; */
+"356.title" = "OtherViews";
 
 /* Class = "NSMenuItem"; title = "每次詢問"; ObjectID = "357"; */
 "357.title" = "每次詢問";
@@ -148,6 +148,9 @@
 
 /* Class = "NSButtonCell"; title = "解壓縮完成後删除原文件"; ObjectID = "362"; */
 "362.title" = "解壓縮完成後删除原文件";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "415"; */
+"415.title" = "OtherViews";
 
 /* Class = "NSMenuItem"; title = "Basso"; ObjectID = "416"; */
 "416.title" = "Basso";
@@ -205,6 +208,9 @@
 
 /* Class = "NSTextFieldCell"; title = "壓縮完成播放提示聲:"; ObjectID = "436"; */
 "436.title" = "壓縮完成播放提示聲:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "438"; */
+"438.title" = "OtherViews";
 
 /* Class = "NSMenuItem"; title = "默認解壓縮"; ObjectID = "439"; */
 "439.title" = "默認解壓縮";
