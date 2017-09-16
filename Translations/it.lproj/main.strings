@@ -23,7 +23,7 @@
 "Boj-Hb-G0X.title" = "Esci da Keka";
 
 /* Class = "NSMenu"; title = "File"; ObjectID = "TTb-AR-olf"; */
-"TTb-AR-olf.title" = "Archivio";
+"TTb-AR-olf.title" = "File";
 
 /* Class = "NSMenuItem"; title = "New"; ObjectID = "bFm-YE-6u3"; */
 "bFm-YE-6u3.title" = "Nuovo";
@@ -47,7 +47,7 @@
 "tjx-uw-4ov.title" = "Formato di stampa...";
 
 /* Class = "NSMenu"; title = "Edit"; ObjectID = "gy4-dO-Qdu"; */
-"gy4-dO-Qdu.title" = "Composizione";
+"gy4-dO-Qdu.title" = "Modifica";
 
 /* Class = "NSMenuItem"; title = "Cut"; ObjectID = "Ro6-g5-CxU"; */
 "Ro6-g5-CxU.title" = "Taglia";
