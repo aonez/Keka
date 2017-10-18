@@ -264,7 +264,7 @@
 "455.title" = "Basso";
 
 /* Class = "NSButtonCell"; title = "Enable context menu services"; ObjectID = "CRY-lE-Luz"; */
-"CRY-lE-Luz.title" = "Включить сервисы в контекстном меню";
+"CRY-lE-Luz.title" = "Добавить в контекстное меню Сервисы";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "Включить интеграцию с Центром Уведомлений";
