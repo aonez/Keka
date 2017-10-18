@@ -159,7 +159,7 @@
 "417.title" = "Tink";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "418"; */
-"418.title" = "(без звука)";
+"418.title" = "без звука";
 
 /* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "419"; */
 "419.title" = "Сжатие";
@@ -255,7 +255,7 @@
 "452.title" = "Сжатие";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "453"; */
-"453.title" = "(без звука)";
+"453.title" = "без звука";
 
 /* Class = "NSMenuItem"; title = "Tink"; ObjectID = "454"; */
 "454.title" = "Tink";
