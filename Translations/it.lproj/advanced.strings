@@ -181,3 +181,6 @@
 
 /* Class = "NSTextFieldCell"; title = "Ripeti:"; ObjectID = "2426"; */
 "2426.title" = "Ripeti:";
+
+/* Class = "NSButtonCell"; title = "Use AES-256 encryption"; ObjectID = "Lw7-h9-3Qh"; */
+"Lw7-h9-3Qh.title" = "Utilizza codifica AES-256";
