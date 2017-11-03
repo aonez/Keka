@@ -102,10 +102,10 @@
 "1806.paletteLabel" = "Iso";
 
 /* Class = "NSButtonCell"; title = "솔리드 압축 (단일 데이터 블록으로 압축)"; ObjectID = "1880"; */
-"1880.title" = "솔리드 압축 (단일 데이터 블록으로 압축)";
+"UYy-aQ-V1a.title" = "솔리드 압축 (단일 데이터 블록으로 압축)";
 
 /* Class = "NSButtonCell"; title = "파일이름 암호화"; ObjectID = "1881"; */
-"1881.title" = "파일이름 암호화";
+"L2I-Q8-zqc.title" = "파일이름 암호화";
 
 /* Class = "NSMenuItem"; title = "Dmg"; ObjectID = "2156"; */
 "2156.title" = "Dmg";
