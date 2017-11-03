@@ -285,10 +285,10 @@
 "406.title" = "使用默认";
 
 /* Class = "NSMenuItem"; title = "Superscript"; ObjectID = "407"; */
-"407.title" = "Superscript";
+"407.title" = "上标";
 
 /* Class = "NSMenuItem"; title = "Subscript"; ObjectID = "408"; */
-"408.title" = "Subscript";
+"408.title" = "下标";
 
 /* Class = "NSMenuItem"; title = "Raise"; ObjectID = "409"; */
 "409.title" = "提升";
