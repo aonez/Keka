@@ -476,8 +476,8 @@
 /* Class = "NSTextFieldCell"; title = "Nazwa archiwum:"; ObjectID = "2343"; */
 "2343.title" = "Nazwa archiwum:";
 
-/* Class = "NSTextFieldCell"; placeholderString = "nazwa_archiwum"; ObjectID = "2354"; */
-"2354.placeholderString" = "nazwa_archiwum";
+/* Class = "NSTextFieldCell"; placeholderString = "nazwa"; ObjectID = "2354"; */
+"2354.placeholderString" = "nazwa";
 
 /* Class = "NSTextFieldCell"; title = "Utwórz archiwum ISO - tylko do odczytu. Wprowadź własną nazwę dla pliku ISO lub użyj domyślnej."; ObjectID = "2363"; */
 "2363.title" = "Utwórz archiwum ISO - tylko do odczytu. Wprowadź własną nazwę dla pliku ISO lub użyj domyślnej.";
