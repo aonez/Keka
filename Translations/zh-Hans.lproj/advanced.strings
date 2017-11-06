@@ -514,3 +514,6 @@
 
 /* Class = "NSTextFieldCell"; title = "确认:"; ObjectID = "2426"; */
 "2426.title" = "确认:";
+
+/* Class = "NSButtonCell"; title = "Use AES-256 encryption"; ObjectID = "Lw7-h9-3Qh"; */
+"Lw7-h9-3Qh.title" = "Use AES-256 encryption";
