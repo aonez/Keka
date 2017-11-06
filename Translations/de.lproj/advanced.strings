@@ -113,8 +113,8 @@
 /* Class = "NSMenuItem"; title = "Bzip2"; ObjectID = "2158"; */
 "2158.title" = "Bzip2";
 
-/* Class = "NSTextFieldCell"; title = "Sie können ein Dmg-Image erstellen das nur lesbar und komprimiert ist.\nLegen Sie einen Namen für das Image fest oder nutzen den Standard-Namen basierend auf den zu komprimierenden Dateien."; ObjectID = "2189"; */
-"2189.title" = "Sie können ein Dmg-Image erstellen das nur lesbar und komprimiert ist.\nLegen Sie einen Namen für das Image fest oder nutzen den Standard-Namen basierend auf den zu komprimierenden Dateien.";
+/* Class = "NSTextFieldCell"; title = "Sie können ein Dmg-Image erstellen das nur lesbar und komprimiert ist.\n\nLegen Sie einen Namen für das Image fest oder nutzen den Standard-Namen basierend auf den zu komprimierenden Dateien."; ObjectID = "2189"; */
+"2189.title" = "Sie können ein Dmg-Image erstellen das nur lesbar und komprimiert ist.\n\nLegen Sie einen Namen für das Image fest oder nutzen den Standard-Namen basierend auf den zu komprimierenden Dateien.";
 
 /* Class = "NSButtonCell"; title = "Als einzelne Dateien archivieren"; ObjectID = "2221"; */
 "2221.title" = "Als einzelne Dateien archivieren";
@@ -152,8 +152,8 @@
 /* Class = "NSTextFieldCell"; placeholderString = "Benutzerdefinierter Name"; ObjectID = "2354"; */
 "2354.placeholderString" = "Benutzerdefinierter Name";
 
-/* Class = "NSTextFieldCell"; title = "Sie können ein Iso-Image erstellen das nur lesbar und komprimiert ist. Iso-Images können nur aus Ordnern erstellt werden.\nLegen Sie einen Namen für das Image fest oder nutzen den Standard-Namen basierend auf den zu komprimierenden Dateien."; ObjectID = "2363"; */
-"2363.title" = "Sie können ein Iso-Image erstellen das nur lesbar und komprimiert ist. Iso-Images können nur aus Ordnern erstellt werden.\nLegen Sie einen Namen für das Image fest oder nutzen den Standard-Namen basierend auf den zu komprimierenden Dateien.";
+/* Class = "NSTextFieldCell"; title = "Sie können ein Iso-Image erstellen das nur lesbar und komprimiert ist. Iso-Images können nur aus Ordnern erstellt werden.\n\nLegen Sie einen Namen für das Image fest oder nutzen den Standard-Namen basierend auf den zu komprimierenden Dateien."; ObjectID = "2363"; */
+"2363.title" = "Sie können ein Iso-Image erstellen das nur lesbar und komprimiert ist. Iso-Images können nur aus Ordnern erstellt werden.\n\nLegen Sie einen Namen für das Image fest oder nutzen den Standard-Namen basierend auf den zu komprimierenden Dateien.";
 
 /* Class = "NSTextFieldCell"; title = "Speichern"; ObjectID = "2390"; */
 "2390.title" = "Speichern";
