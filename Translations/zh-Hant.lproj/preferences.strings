@@ -266,5 +266,11 @@
 /* Class = "NSButtonCell"; title = "啟用右鍵>服務捷徑"; ObjectID = "CRY-lE-Luz"; */
 "CRY-lE-Luz.title" = "啟用右鍵>服務捷徑";
 
+/* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
+"SOL-6U-5P9.title" = "Enable Notification Center integration";
+
 /* Class = "NSButtonCell"; title = "使用統一工具列 (重設個人設定)"; ObjectID = "b5e-bj-Pgz"; */
 "b5e-bj-Pgz.title" = "使用統一工具列 (重設個人設定)";
+
+/* Class = "NSButtonCell"; title = "Use AES-256 when encrypting Zip files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
+"hp7-jO-HeV.title" = "Use AES-256 when encrypting Zip files (less compatible)";
