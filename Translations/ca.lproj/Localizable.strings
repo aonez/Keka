@@ -8,7 +8,7 @@
 "Set as default compressor" = "Utilitza com a compressor per defecte";
 "Not now" = "Ara no";
 "Want to make Keka your default compressor?" = "Voleu que el Keka sigui el compressor per defecte?";
-"This means that all the compatible files will be extracted with Keka by now. You can set this later in the Keka Preferences." = "Això significa que, a partir d'ara, tots els arxius compatibles s'extrauran amb el Keka. Ho podeu configurar més tard a les opcions del Keka.";
+"This means that all the compatible files will be extracted with Keka by now. You can set this later in the Keka Preferences." = "Això significa que, a partir d'ara, tots els arxius compatibles s'extrauran amb el Keka. Podeu configurar-ho més tard a les opcions del Keka.";
 "Really want to close Keka?" = "Voleu tancar el Keka?";
 "The current operations will be canceled. If you choose to wait and quit Keka will exit when all work is done." = "Es cancel·laran les operacions actuals. Si trieu esperar i sortir, el Keka es tancarà en finalitzar les tasques pendents.";
 "Password needed" = "Contrasenya necessària";
@@ -28,8 +28,8 @@
 "Waiting..." = "S'està esperant...";
 "Extracting \"%@\"" = "Extracció de: «%@»";
 "Extracting \"%@...\"" = "S'està extraient «%@»...";
-"Creating %@ file..." = "S'està creant %@...";
-"Creating file \"%@\"" = "Creació de l'arxiu «%@»";
+"Creating %@ file..." = "S'està creant «%@»...";
+"Creating file \"%@\"" = "Creació de: «%@»";
 "Creating file \"%@...\"" = "S'està creant «%@»...";
 "Time elapsed: %d:%@%d:%@%d hours%@" = "Temps transcorregut: %d:%@%d:%@%d hores%@";
 "Time elapsed: %d:%@%d minutes%@" = "Temps transcorregut: %d:%@%d minuts%@";
@@ -46,7 +46,7 @@
 "Operation failed with error code %d" = "Ha fallat l'operació amb el codi d'error %d";
 "Choose a name and folder to start the compression" = "Trieu el nom i la carpeta per iniciar la compressió";
 "Creation of \"%@\" failed" = "Ha fallat la creació de: «%@»";
-"Creating \"%@\"" = "Creant «%@»";
+"Creating \"%@\"" = "Creació de: «%@»";
 "Prepearing extraction..." = "S'està preparant l'extracció…";
 "Choose a folder to extract this file" = "Trieu la carpeta on extreure l'arxiu";
 "Extraction of \"%@\" failed" = "Ha fallat l'extracció de: «%@»";
@@ -117,7 +117,7 @@
 "Minor error, the operation may be done well" = "Error menor, l'operació pot haver finalitzat correctament";
 "Fatal error" = "Error fatal";
 "CRC error occurred, maybe the file is corrupt" = "S'ha produït un error de verificació CRC; potser l'arxiu és corrupte";
-"Attempt to modify an archive previously locked" = "S'ha provat de modificar un arxiu blocat prèviament";
+"Attempt to modify an archive previously locked" = "S'ha provat a modificar un arxiu blocat prèviament";
 "Maybe you don't have permission to write or your disk is full" = "Potser no teniu permisos d'escriptura o el disc és ple";
 "Can't open the file, maybe you don't have read permission" = "No es pot obrir l'arxiu. Potser no teniu permisos de lectura";
 "Command line error, please contact with the developer" = "Error a la línia d'ordres. Contacteu amb el desenvolupador";
@@ -125,7 +125,7 @@
 "Can't create the file, maybe you don't have permission or free space" = "No es pot crear l'arxiu. Potser no teniu prou permisos o espai al disc";
 "Canceled manually" = "S'ha cancel·lat manualment";
 "Bad password, try again" = "Contrasenya errònia, torneu a provar";
-"This archive is locked" = "Aquest arxiu està blocat";
+"This archive is locked" = "L'arxiu està blocat";
 "Write error. No permission? No space left?" = "Error d'escriptura. Sense permisos? Sense espai disponible?";
 "Can't open the file, maybe it's not accessible" = "No es pot obrir l'arxiu. Potser no està accessible";
 "No files matching the mask" = "No s'han trobat fitxers amb el filtre utilitzat";
