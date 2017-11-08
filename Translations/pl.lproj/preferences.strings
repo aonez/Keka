@@ -50,8 +50,8 @@
 /* Class = "NSButtonCell"; title = "Ustaw jako domyślny archiwizator plików"; ObjectID = "184"; */
 "184.title" = "Ustaw jako domyślny archiwizator plików";
 
-/* Class = "NSButtonCell"; title = "Zamknij program po wykonaniu zadania."; ObjectID = "187"; */
-"187.title" = "Zamknij program po wykonaniu zadania.";
+/* Class = "NSButtonCell"; title = "Zamknij program po wykonaniu zadania"; ObjectID = "187"; */
+"187.title" = "Zamknij program po wykonaniu zadania";
 
 /* Class = "NSBox"; title = "Tryb działania:"; ObjectID = "191"; */
 "191.title" = "Tryb działania:";
@@ -149,8 +149,8 @@
 /* Class = "NSTextFieldCell"; title = "Lokalizacja wypakowanych plików:"; ObjectID = "360"; */
 "360.title" = "Lokalizacja wypakowanych plików:";
 
-/* Class = "NSButtonCell"; title = "Przejdź do plików po wypakowywaniu:"; ObjectID = "361"; */
-"361.title" = "Przejdź do plików po wypakowywaniu:";
+/* Class = "NSButtonCell"; title = "Przejdź do plików po wypakowywaniu"; ObjectID = "361"; */
+"361.title" = "Przejdź do plików po wypakowywaniu";
 
 /* Class = "NSButtonCell"; title = "Usuń archiwum po wypakowaniu"; ObjectID = "362"; */
 "362.title" = "Usuń archiwum po wypakowaniu";
