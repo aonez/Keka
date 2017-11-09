@@ -258,7 +258,13 @@
 "455.title" = "Basso";
 
 /* Class = "NSButtonCell"; title = "Enable context menu services"; ObjectID = "CRY-lE-Luz"; */
-"CRY-lE-Luz.title" = "Enable context menu services";
+"CRY-lE-Luz.title" = "Attiva i servizi del menu contestuale";
 
 /* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "b5e-bj-Pgz"; */
-"b5e-bj-Pgz.title" = "Use unified toolbar (resets customizations)";
+"b5e-bj-Pgz.title" = "Utilizza la barra strumenti unificata (ripristina personalizzazioni)";
+
+/* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
+"SOL-6U-5P9.title" = "Attiva integrazione Centro Notifiche";
+
+/* Class = "NSButtonCell"; title = "Use AES-256 when encrypting Zip files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
+"hp7-jO-HeV.title" = "Utilizza AES-256 durante la codifica dei file Zip (meno compatibile)";

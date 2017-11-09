@@ -1,4 +1,6 @@
 "_BASE_USED_" = "it";
+"_ADVANCED_EXTRA_WIDTH_" = "0.0";
+"_PREFERENCES_EXTRA_WIDTH_" = "50.0";
 "OK" = "OK";
 "Yes" = "Sì";
 "No" = "No";
@@ -13,7 +15,7 @@
 "File \"%@\" needs a password to be extracted" = "Il file \"%@\" richiede una password per essere estratto";
 "Extraction of \"%@\" done" = "Estrazione di \"%@\" effettuata";
 "Extraction of \"%@\" failed." = "Estrazione di \"%@\" non riuscita.";
-"Extraction of %i files done" = "Extraction of %i files done";
+"Extraction of %i files done" = "Estrazione di %i file effettuata";
 "Extraction complete" = "Estrazione completa";
 "Extraction fail" = "Estrazione non riuscita";
 "Compression complete" = "Compressione completa";

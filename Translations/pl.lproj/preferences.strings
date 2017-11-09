@@ -50,8 +50,8 @@
 /* Class = "NSButtonCell"; title = "Ustaw jako domyślny archiwizator plików"; ObjectID = "184"; */
 "184.title" = "Ustaw jako domyślny archiwizator plików";
 
-/* Class = "NSButtonCell"; title = "Zamknij program po wykonaniu zadania"; ObjectID = "187"; */
-"187.title" = "Zamknij program po wykonaniu zadania";
+/* Class = "NSButtonCell"; title = "Zamknij program po wykonaniu zadania."; ObjectID = "187"; */
+"187.title" = "Zamknij program po wykonaniu zadania.";
 
 /* Class = "NSBox"; title = "Tryb działania:"; ObjectID = "191"; */
 "191.title" = "Tryb działania:";
@@ -263,14 +263,14 @@
 /* Class = "NSMenuItem"; title = "Basso"; ObjectID = "455"; */
 "455.title" = "Basso";
 
-/* Class = "NSButtonCell"; title = "Dodaj do menu kontekstowego"; ObjectID = "CRY-lE-Luz"; */
-"CRY-lE-Luz.title" = "Dodaj do menu kontekstowego";
+/* Class = "NSButtonCell"; title = "Dodaj do menu kontakstowego"; ObjectID = "CRY-lE-Luz"; */
+"CRY-lE-Luz.title" = "Dodaj do menu kontakstowego";
 
-/* Class = "NSButtonCell"; title = "Integracja z Centrum Powiadomień"; ObjectID = "SOL-6U-5P9"; */
-"SOL-6U-5P9.title" = "Integracja z Centrum Powiadomień";
+/* Class = "NSButtonCell"; title = "Dodaj do Centrum Powiadomień"; ObjectID = "SOL-6U-5P9"; */
+"SOL-6U-5P9.title" = "Dodaj do Centrum Powiadomień";
 
-/* Class = "NSButtonCell"; title = "Użyj nowego paska narzędzi"; ObjectID = "b5e-bj-Pgz"; */
-"b5e-bj-Pgz.title" = "Użyj nowego paska narzędzi";
+/* Class = "NSButtonCell"; title = "Włącz nowy pasek zadań"; ObjectID = "b5e-bj-Pgz"; */
+"b5e-bj-Pgz.title" = "Włącz nowy pasek zadań";
 
 /* Class = "NSButtonCell"; title = "Użyj szyfrowania AES-256"; ObjectID = "hp7-jO-HeV"; */
 "hp7-jO-HeV.title" = "Użyj szyfrowania AES-256";

@@ -1,4 +1,6 @@
 "_BASE_USED_" = "en";
+"_ADVANCED_EXTRA_WIDTH_" = "0.0";
+"_PREFERENCES_EXTRA_WIDTH_" = "0.0";
 "OK" = "OK";
 "Yes" = "Yes";
 "No" = "No";
@@ -88,7 +90,7 @@
 "Method: Slowest, more compression" = "Method: Slowest, more compression";
 "Compression" = "Compression";
 "Extraction" = "Extraction";
-"Keka can't use the \"extlx.plist\" list, please get in contact with the developers.\n\nNow Keka will quit." = "Keka can't use the \"extlx.plist\" list, please get in contact with the developers.\n\nNow Keka will quit.";
+"Keka can't use the \"extlx.plist\" list, please get in contact with the developers.\n\nNow Keka will quit." = "Keka can't use the \"extlx.plist\" list, please get in contact with the developers.\n\nKeka will quit now.";
 "Keka is dying!" = "Keka is dying!";
 "Ask each time" = "Ask each time";
 "Next to original file" = "Next to original file";

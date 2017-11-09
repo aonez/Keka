@@ -1,0 +1,114 @@
+
+/* Class = "NSMenu"; title = "Dock 選單"; ObjectID = "942"; */
+"942.title" = "Dock 選單";
+
+/* Class = "NSMenuItem"; title = "自動執行操作"; ObjectID = "943"; */
+"943.title" = "自動執行操作";
+
+/* Class = "NSMenuItem"; title = "總是壓縮"; ObjectID = "944"; */
+"944.title" = "總是壓縮";
+
+/* Class = "NSMenuItem"; title = "總是解壓縮"; ObjectID = "945"; */
+"945.title" = "總是解壓縮";
+
+/* Class = "NSMenuItem"; title = "Format"; ObjectID = "947"; */
+"947.title" = "格式化";
+
+/* Class = "NSMenu"; title = "壓縮格式"; ObjectID = "948"; */
+"948.title" = "壓縮格式";
+
+/* Class = "NSMenuItem"; title = "壓縮方式"; ObjectID = "957"; */
+"957.title" = "壓縮方式";
+
+/* Class = "NSMenu"; title = "壓縮方式"; ObjectID = "958"; */
+"958.title" = "壓縮方式";
+
+/* Class = "NSMenuItem"; title = "不壓縮"; ObjectID = "960"; */
+"960.title" = "不壓縮";
+
+/* Class = "NSMenuItem"; title = "非常快、低壓縮率"; ObjectID = "961"; */
+"961.title" = "非常快、低壓縮率";
+
+/* Class = "NSMenuItem"; title = "快、較低壓縮率"; ObjectID = "962"; */
+"962.title" = "快、較低壓縮率";
+
+/* Class = "NSMenuItem"; title = "正常"; ObjectID = "963"; */
+"963.title" = "正常";
+
+/* Class = "NSMenuItem"; title = "慢、較高壓縮率"; ObjectID = "964"; */
+"964.title" = "慢、較高壓縮率";
+
+/* Class = "NSMenuItem"; title = "非常慢、高壓縮率"; ObjectID = "965"; */
+"965.title" = "非常慢、高壓縮率";
+
+/* Class = "NSTextFieldCell"; title = "您可以建立一個唯讀壓縮 Dmg 光碟映像。\n\n設定映像名稱或根據壓縮檔案產生名稱。"; ObjectID = "2189"; */
+"2189.title" = "您可以建立一個唯讀壓縮 Dmg 光碟映像。\n\n設定映像名稱或根據壓縮檔案產生名稱。";
+
+/* Class = "NSButtonCell"; title = "壓縮單一檔案"; ObjectID = "2221"; */
+"2221.title" = "壓縮單一檔案";
+
+/* Class = "NSButtonCell"; title = "壓縮完成後刪除原始檔案"; ObjectID = "2222"; */
+"2222.title" = "壓縮完成後刪除原始檔案";
+
+/* Class = "NSButtonCell"; title = "排除 Mac 資源檔案"; ObjectID = "2244"; */
+"2244.title" = "排除 Mac 資源檔案";
+
+/* Class = "NSTextFieldCell"; title = "密碼:"; ObjectID = "2262"; */
+"2262.title" = "密碼:";
+
+/* Class = "NSTextFieldCell"; title = "分割:"; ObjectID = "2270"; */
+"2270.title" = "分割:";
+
+/* Class = "NSComboBoxCell"; placeholderString = "例如: 5 MB"; ObjectID = "2271"; */
+"2271.placeholderString" = "例如: 5 MB";
+
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[0] = "1.4 MB Floppy disk"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[0]" = "1.4 MB 磁碟";
+
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[1] = "650 MB CD"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[1]" = "650 MB CD";
+
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[2] = "700 MB CD"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[2]" = "700 MB CD";
+
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[3] = "4.7 GB DVD"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[3]" = "4.7 GB DVD";
+
+/* Class = "NSTextFieldCell"; title = "映像名稱:"; ObjectID = "2343"; */
+"2343.title" = "映像名稱:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "自訂名稱"; ObjectID = "2354"; */
+"2354.placeholderString" = "自訂名稱";
+
+/* Class = "NSTextFieldCell"; title = "您可以建立一個唯讀壓縮 Iso 映像。Iso映像只可以壓縮檔案夾。\n\n設定映像名稱或根據壓縮檔案產生名稱。"; ObjectID = "2363"; */
+"2363.title" = "您可以建立一個唯讀的壓縮 Iso 映像。Iso映像只可以壓縮檔案夾。\n\n設定映像名稱或根據壓縮檔案產生名稱。";
+
+/* Class = "NSTextFieldCell"; title = "儲存"; ObjectID = "2390"; */
+"2390.title" = "儲存";
+
+/* Class = "NSTextFieldCell"; title = "快"; ObjectID = "2392"; */
+"2392.title" = "快";
+
+/* Class = "NSTextFieldCell"; title = "慢"; ObjectID = "2394"; */
+"2394.title" = "慢";
+
+/* Class = "NSTextFieldCell"; title = "正常"; ObjectID = "2398"; */
+"2398.title" = "正常";
+
+/* Class = "NSTextFieldCell"; title = "壓縮方式：已選"; ObjectID = "2402"; */
+"2402.title" = "壓縮方式：已選";
+
+/* Class = "NSTextFieldCell"; title = "重複:"; ObjectID = "2426"; */
+"2426.title" = "重複:";
+
+/* Class = "NSButtonCell"; title = "加密檔案名稱"; ObjectID = "L2I-Q8-zqc"; */
+"L2I-Q8-zqc.title" = "加密檔案名稱";
+
+/* Class = "NSWindow"; title = "Keka"; ObjectID = "RXN-3Y-Yyn"; */
+"RXN-3Y-Yyn.title" = "Keka";
+
+/* Class = "NSButtonCell"; title = "Solid archive"; ObjectID = "UYy-aQ-V1a"; */
+"UYy-aQ-V1a.title" = "Solid archive";
+
+/* Class = "NSButtonCell"; title = "Use AES-256 encryption"; ObjectID = "Lw7-h9-3Qh"; */
+"Lw7-h9-3Qh.title" = "Use AES-256 encryption";

@@ -113,8 +113,8 @@
 /* Class = "NSMenuItem"; title = "Bzip2"; ObjectID = "2158"; */
 "2158.title" = "Bzip2";
 
-/* Class = "NSTextFieldCell"; title = "È possibile creare un volume Dmg che sarà a sola lettura e compresso.\nImposta un nome di volume a questo Dmg o utilizza il nome predefinito in base ai file da comprimere."; ObjectID = "2189"; */
-"2189.title" = "È possibile creare un volume Dmg che sarà a sola lettura e compresso.\nImposta un nome di volume a questo Dmg o utilizza il nome predefinito in base ai file da comprimere.";
+/* Class = "NSTextFieldCell"; title = "È possibile creare un volume Dmg che sarà a sola lettura e compresso.\n\nImposta un nome di volume a questo Dmg o utilizza il nome predefinito in base ai file da comprimere."; ObjectID = "2189"; */
+"2189.title" = "È possibile creare un volume Dmg che sarà a sola lettura e compresso.\n\nImposta un nome di volume a questo Dmg o utilizza il nome predefinito in base ai file da comprimere.";
 
 /* Class = "NSButtonCell"; title = "Archivia come singoli file"; ObjectID = "2221"; */
 "2221.title" = "Archivia come singoli file";
@@ -152,8 +152,8 @@
 /* Class = "NSTextFieldCell"; placeholderString = "nome pesonalizz."; ObjectID = "2354"; */
 "2354.placeholderString" = "nome pesonalizz.";
 
-/* Class = "NSTextFieldCell"; title = "È possibile creare un volume Iso che sarà a sola lettura e compresso. I volumi Iso possono essere creati solo da una cartella.\nImposta un nome di volume a questo Iso o utilizza il nome predefinito in base ai file da comprimere."; ObjectID = "2363"; */
-"2363.title" = "È possibile creare un volume Iso che sarà a sola lettura e compresso. I volumi Iso possono essere creati solo da una cartella.\nImposta un nome di volume a questo Iso o utilizza il nome predefinito in base ai file da comprimere.";
+/* Class = "NSTextFieldCell"; title = "È possibile creare un volume Iso che sarà a sola lettura e compresso. I volumi Iso possono essere creati solo da una cartella.\n\nImposta un nome di volume a questo Iso o utilizza il nome predefinito in base ai file da comprimere."; ObjectID = "2363"; */
+"2363.title" = "È possibile creare un volume Iso che sarà a sola lettura e compresso. I volumi Iso possono essere creati solo da una cartella.\n\nImposta un nome di volume a questo Iso o utilizza il nome predefinito in base ai file da comprimere.";
 
 /* Class = "NSTextFieldCell"; title = "Ness."; ObjectID = "2390"; */
 "2390.title" = "Ness.";
@@ -181,3 +181,6 @@
 
 /* Class = "NSTextFieldCell"; title = "Ripeti:"; ObjectID = "2426"; */
 "2426.title" = "Ripeti:";
+
+/* Class = "NSButtonCell"; title = "Use AES-256 encryption"; ObjectID = "Lw7-h9-3Qh"; */
+"Lw7-h9-3Qh.title" = "Utilizza codifica AES-256";
