@@ -83,8 +83,8 @@
 /* Class = "NSBox"; title = "Nazwa i lokalizacja pliku"; ObjectID = "270"; */
 "270.title" = "Nazwa i lokalizacja pliku";
 
-/* Class = "NSTextFieldCell"; placeholderString = "nazwa"; ObjectID = "276"; */
-"276.placeholderString" = "nazwa";
+/* Class = "NSTextFieldCell"; placeholderString = "nazwa_pliku"; ObjectID = "276"; */
+"276.placeholderString" = "nazwa_pliku";
 
 /* Class = "NSMenuItem"; title = "Zawsze pytaj, gdzie zapisać"; ObjectID = "279"; */
 "279.title" = "Zawsze pytaj, gdzie zapisać";
@@ -263,11 +263,11 @@
 /* Class = "NSMenuItem"; title = "Basso"; ObjectID = "455"; */
 "455.title" = "Basso";
 
-/* Class = "NSButtonCell"; title = "Integracja z menu kontakstowym"; ObjectID = "CRY-lE-Luz"; */
-"CRY-lE-Luz.title" = "Integracja z menu kontakstowym";
+/* Class = "NSButtonCell"; title = "Integracja z menu kontekstowym"; ObjectID = "CRY-lE-Luz"; */
+"CRY-lE-Luz.title" = "Integracja z menu kontekstowym";
 
-/* Class = "NSButtonCell"; title = "Intagracja z Centrum Powiadomień"; ObjectID = "SOL-6U-5P9"; */
-"SOL-6U-5P9.title" = "Intagracja z Centrum Powiadomień";
+/* Class = "NSButtonCell"; title = "Integracja z Centrum Powiadomień"; ObjectID = "SOL-6U-5P9"; */
+"SOL-6U-5P9.title" = "Integracja z Centrum Powiadomień";
 
 /* Class = "NSButtonCell"; title = "Włącz nowy pasek narzędzi"; ObjectID = "b5e-bj-Pgz"; */
 "b5e-bj-Pgz.title" = "Włącz nowy pasek narzędzi";
