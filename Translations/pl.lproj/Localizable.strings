@@ -1,4 +1,6 @@
 "_BASE_USED_" = "pl";
+"_ADVANCED_EXTRA_WIDTH_" = "0.0";
+"_PREFERENCES_EXTRA_WIDTH_" = "0.0";
 "OK" = "OK";
 "Yes" = "Tak";
 "No" = "Nie";
@@ -86,7 +88,7 @@
 "Method: Normal" = "Metoda: Domyślna";
 "Method: Slow, more compression" = "Metoda: Wolna, wysoki stopień kompresji";
 "Method: Slowest, more compression" = "Metoda: Najwolniejsza, najwyższy stopień kompresji";
-"Compression" = "Archiwizowanie";
+"Compression" = "Archiwizacja";
 "Extraction" = "Wypakowywanie";
 "Keka can't use the \"extlx.plist\" list, please get in contact with the developers.\n\nNow Keka will quit." = "Keka nie może uzyskać dostępu do \"extlx.plist\". Skontaktuj się z autorem.\n\nProgram zostanie zamknięty.";
 "Keka is dying!" = "Keka umiera!";

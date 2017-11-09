@@ -508,3 +508,6 @@
 
 /* Class = "NSTextFieldCell"; title = "Powtórz:"; ObjectID = "2426"; */
 "2426.title" = "Powtórz:";
+
+/* Class = "NSButtonCell"; title = "Użyj szyfrowania AES-256"; ObjectID = "Lw7-h9-3Qh"; */
+"Lw7-h9-3Qh.title" = "Użyj szyfrowania AES-256";

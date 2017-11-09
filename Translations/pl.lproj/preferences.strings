@@ -68,17 +68,17 @@
 /* Class = "NSMenuItem"; title = "Tryb automatyczny"; ObjectID = "199"; */
 "199.title" = "Tryb automatyczny";
 
-/* Class = "NSButtonCell"; title = "Usuń pliki po archiwizacji"; ObjectID = "262"; */
-"262.title" = "Usuń pliki po archiwizacji";
+/* Class = "NSButtonCell"; title = "Usuń pliki po zarchiwizowaniu"; ObjectID = "262"; */
+"262.title" = "Usuń pliki po zarchiwizowaniu";
 
 /* Class = "NSButtonCell"; title = "Osobne archiwum dla każdego pliku"; ObjectID = "263"; */
 "263.title" = "Osobne archiwum dla każdego pliku";
 
-/* Class = "NSButtonCell"; title = "Przejdź do pliku po archiwizacji "; ObjectID = "264"; */
-"264.title" = "Przejdź do pliku po archiwizacji ";
+/* Class = "NSButtonCell"; title = "Przejdź do pliku po archiwizacji"; ObjectID = "264"; */
+"264.title" = "Przejdź do pliku po archiwizacji";
 
-/* Class = "NSButtonCell"; title = "Wyklucz ukryte pliki systemowe"; ObjectID = "265"; */
-"265.title" = "Wyklucz ukryte pliki systemowe";
+/* Class = "NSButtonCell"; title = "Wyklucz pliki systemowe"; ObjectID = "265"; */
+"265.title" = "Wyklucz pliki systemowe";
 
 /* Class = "NSBox"; title = "Nazwa i lokalizacja pliku"; ObjectID = "270"; */
 "270.title" = "Nazwa i lokalizacja pliku";
@@ -204,7 +204,7 @@
 "431.title" = "Frog";
 
 /* Class = "NSMenuItem"; title = "Domyślny - wypakowywanie"; ObjectID = "432"; */
-"432.title" = "Domyślny - ekstrakcja";
+"432.title" = "Domyślny - wypakowywanie";
 
 /* Class = "NSTextFieldCell"; title = "Dźwięk wypakowywania:"; ObjectID = "433"; */
 "433.title" = "Dżwięk wypakowywania:";
@@ -263,8 +263,14 @@
 /* Class = "NSMenuItem"; title = "Basso"; ObjectID = "455"; */
 "455.title" = "Basso";
 
-/* Class = "NSButtonCell"; title = "Włącz usługi menu kontekstowego"; ObjectID = "CRY-lE-Luz"; */
-"CRY-lE-Luz.title" = "Włącz usługi menu kontekstowego";
+/* Class = "NSButtonCell"; title = "Dodaj do menu kontekstowego"; ObjectID = "CRY-lE-Luz"; */
+"CRY-lE-Luz.title" = "Dodaj do menu kontekstowego";
 
-/* Class = "NSButtonCell"; title = "Użyj jednolitego paska narzędzi"; ObjectID = "b5e-bj-Pgz"; */
-"b5e-bj-Pgz.title" = "Użyj jednolitego paska narzędzi";
+/* Class = "NSButtonCell"; title = "Integracja z Centrum Powiadomień"; ObjectID = "SOL-6U-5P9"; */
+"SOL-6U-5P9.title" = "Integracja z Centrum Powiadomień";
+
+/* Class = "NSButtonCell"; title = "Użyj nowego paska narzędzi"; ObjectID = "b5e-bj-Pgz"; */
+"b5e-bj-Pgz.title" = "Użyj nowego paska narzędzi";
+
+/* Class = "NSButtonCell"; title = "Użyj szyfrowania AES-256"; ObjectID = "hp7-jO-HeV"; */
+"hp7-jO-HeV.title" = "Użyj szyfrowania AES-256";
