@@ -26,20 +26,20 @@
 /* Class = "NSMenuItem"; title = "不壓縮"; ObjectID = "960"; */
 "960.title" = "不壓縮";
 
-/* Class = "NSMenuItem"; title = "非常快、低壓縮率"; ObjectID = "961"; */
-"961.title" = "非常快、低壓縮率";
+/* Class = "NSMenuItem"; title = "最快、低壓縮率"; ObjectID = "961"; */
+"961.title" = "最快、低壓縮率";
 
 /* Class = "NSMenuItem"; title = "快、較低壓縮率"; ObjectID = "962"; */
-"962.title" = "快、較低壓縮率";
+"962.title" = "較快、較低壓縮率";
 
 /* Class = "NSMenuItem"; title = "正常"; ObjectID = "963"; */
 "963.title" = "正常";
 
 /* Class = "NSMenuItem"; title = "慢、較高壓縮率"; ObjectID = "964"; */
-"964.title" = "慢、較高壓縮率";
+"964.title" = "較慢、較高壓縮率";
 
 /* Class = "NSMenuItem"; title = "非常慢、高壓縮率"; ObjectID = "965"; */
-"965.title" = "非常慢、高壓縮率";
+"965.title" = "最慢、高壓縮率";
 
 /* Class = "NSTextFieldCell"; title = "您可以建立一個唯讀壓縮 Dmg 光碟映像。\n\n設定映像名稱或根據壓縮檔案產生名稱。"; ObjectID = "2189"; */
 "2189.title" = "您可以建立一個唯讀壓縮 Dmg 光碟映像。\n\n設定映像名稱或根據壓縮檔案產生名稱。";
@@ -108,7 +108,7 @@
 "RXN-3Y-Yyn.title" = "Keka";
 
 /* Class = "NSButtonCell"; title = "Solid archive"; ObjectID = "UYy-aQ-V1a"; */
-"UYy-aQ-V1a.title" = "Solid archive";
+"UYy-aQ-V1a.title" = "實體壓縮檔";
 
 /* Class = "NSButtonCell"; title = "Use AES-256 encryption"; ObjectID = "Lw7-h9-3Qh"; */
-"Lw7-h9-3Qh.title" = "Use AES-256 encryption";
+"Lw7-h9-3Qh.title" = "使用 AES-256 技術加密";
