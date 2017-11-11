@@ -455,8 +455,8 @@
 /* Class = "NSTextFieldCell"; title = "Hasło:"; ObjectID = "2262"; */
 "2262.title" = "Hasło:";
 
-/* Class = "NSTextFieldCell"; title = "Podziel:"; ObjectID = "2270"; */
-"2270.title" = "Podziel:";
+/* Class = "NSTextFieldCell"; title = "Podziel plik:"; ObjectID = "2270"; */
+"2270.title" = "Podziel plik:";
 
 /* Class = "NSComboBoxCell"; placeholderString = "np. 5 MB"; ObjectID = "2271"; */
 "2271.placeholderString" = "np. 5 MB";
@@ -473,11 +473,11 @@
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[3] = "4.7 GB DVD"; ObjectID = "2271"; */
 "2271.ibShadowedObjectValues[3]" = "4.7 GB DVD";
 
-/* Class = "NSTextFieldCell"; title = "Nazwa archiwum:"; ObjectID = "2343"; */
-"2343.title" = "Nazwa archiwum:";
+/* Class = "NSTextFieldCell"; title = "Nazwa:"; ObjectID = "2343"; */
+"2343.title" = "Nazwa:";
 
-/* Class = "NSTextFieldCell"; placeholderString = "nazwa"; ObjectID = "2354"; */
-"2354.placeholderString" = "nazwa";
+/* Class = "NSTextFieldCell"; placeholderString = "nazwa_archiwum"; ObjectID = "2354"; */
+"2354.placeholderString" = "nazwa_archiwum";
 
 /* Class = "NSTextFieldCell"; title = "Utwórz archiwum ISO - tylko do odczytu. Wprowadź własną nazwę dla pliku ISO lub użyj domyślnej."; ObjectID = "2363"; */
 "2363.title" = "Utwórz archiwum ISO - tylko do odczytu. Wprowadź własną nazwę dla pliku ISO lub użyj domyślnej.";
@@ -509,5 +509,5 @@
 /* Class = "NSTextFieldCell"; title = "Powtórz:"; ObjectID = "2426"; */
 "2426.title" = "Powtórz:";
 
-/* Class = "NSButtonCell"; title = "Use AES-256 encryption"; ObjectID = "Lw7-h9-3Qh"; */
-"Lw7-h9-3Qh.title" = "Use AES-256 encryption";
+/* Class = "NSButtonCell"; title = "Użyj szyfrowania AES-256."; ObjectID = "Lw7-h9-3Qh"; */
+"Lw7-h9-3Qh.title" = "Użyj szyfrowania AES-256.";
