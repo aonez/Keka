@@ -1,0 +1,9 @@
+
+/* Class = "NSTextFieldCell"; title = "Timer status"; ObjectID = "62"; */
+"62.title" = "剩余时间";
+
+/* Class = "NSTextFieldCell"; title = "Status Text"; ObjectID = "63"; */
+"63.title" = "状态";
+
+/* Class = "NSTextFieldCell"; title = "Multiline Label"; ObjectID = "92"; */
+"92.title" = "多行标签";
