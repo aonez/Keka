@@ -12,7 +12,7 @@
 "945.title" = "總是解壓縮";
 
 /* Class = "NSMenuItem"; title = "Format"; ObjectID = "947"; */
-"947.title" = "Format";
+"947.title" = "格式化";
 
 /* Class = "NSMenu"; title = "壓縮格式"; ObjectID = "948"; */
 "948.title" = "壓縮格式";
@@ -26,32 +26,32 @@
 /* Class = "NSMenuItem"; title = "不壓縮"; ObjectID = "960"; */
 "960.title" = "不壓縮";
 
-/* Class = "NSMenuItem"; title = "非常快, 低壓縮率"; ObjectID = "961"; */
-"961.title" = "非常快, 低壓縮率";
+/* Class = "NSMenuItem"; title = "最快、低壓縮率"; ObjectID = "961"; */
+"961.title" = "最快、低壓縮率";
 
-/* Class = "NSMenuItem"; title = "快, 較低壓縮率"; ObjectID = "962"; */
-"962.title" = "快, 較低壓縮率";
+/* Class = "NSMenuItem"; title = "快、較低壓縮率"; ObjectID = "962"; */
+"962.title" = "較快、較低壓縮率";
 
 /* Class = "NSMenuItem"; title = "正常"; ObjectID = "963"; */
 "963.title" = "正常";
 
-/* Class = "NSMenuItem"; title = "慢, 較高壓縮率"; ObjectID = "964"; */
-"964.title" = "慢, 較高壓縮率";
+/* Class = "NSMenuItem"; title = "慢、較高壓縮率"; ObjectID = "964"; */
+"964.title" = "較慢、較高壓縮率";
 
-/* Class = "NSMenuItem"; title = "非常慢, 高壓縮率"; ObjectID = "965"; */
-"965.title" = "非常慢, 高壓縮率";
+/* Class = "NSMenuItem"; title = "非常慢、高壓縮率"; ObjectID = "965"; */
+"965.title" = "最慢、高壓縮率";
 
-/* Class = "NSTextFieldCell"; title = "你可以建立一個唯讀的壓縮 Dmg 映像。\n\n設定映像名稱或使用根據你的壓縮檔案生成的名稱。"; ObjectID = "2189"; */
-"2189.title" = "你可以建立一個唯讀的壓縮 Dmg 映像。\n\n設定映像名稱或使用根據你的壓縮檔案生成的名稱。";
+/* Class = "NSTextFieldCell"; title = "您可以建立一個唯讀壓縮 Dmg 光碟映像。\n\n設定映像名稱或根據壓縮檔案產生名稱。"; ObjectID = "2189"; */
+"2189.title" = "您可以建立一個唯讀壓縮 Dmg 光碟映像。\n\n設定映像名稱或根據壓縮檔案產生名稱。";
 
-/* Class = "NSButtonCell"; title = "壓縮單份文件"; ObjectID = "2221"; */
-"2221.title" = "壓縮單份文件";
+/* Class = "NSButtonCell"; title = "壓縮單一檔案"; ObjectID = "2221"; */
+"2221.title" = "壓縮單一檔案";
 
-/* Class = "NSButtonCell"; title = "壓縮完成後刪除原文件"; ObjectID = "2222"; */
-"2222.title" = "壓縮完成後刪除原文件";
+/* Class = "NSButtonCell"; title = "壓縮完成後刪除原始檔案"; ObjectID = "2222"; */
+"2222.title" = "壓縮完成後刪除原始檔案";
 
-/* Class = "NSButtonCell"; title = "排除 Mac 資源文件"; ObjectID = "2244"; */
-"2244.title" = "排除 Mac 資源文件";
+/* Class = "NSButtonCell"; title = "排除 Mac 資源檔案"; ObjectID = "2244"; */
+"2244.title" = "排除 Mac 資源檔案";
 
 /* Class = "NSTextFieldCell"; title = "密碼:"; ObjectID = "2262"; */
 "2262.title" = "密碼:";
@@ -77,11 +77,11 @@
 /* Class = "NSTextFieldCell"; title = "映像名稱:"; ObjectID = "2343"; */
 "2343.title" = "映像名稱:";
 
-/* Class = "NSTextFieldCell"; placeholderString = "自定義名稱"; ObjectID = "2354"; */
-"2354.placeholderString" = "自定義名稱";
+/* Class = "NSTextFieldCell"; placeholderString = "自訂名稱"; ObjectID = "2354"; */
+"2354.placeholderString" = "自訂名稱";
 
-/* Class = "NSTextFieldCell"; title = "你可以建立一個唯讀的壓縮 Iso 映像。Iso映像只可以壓縮文件夾。\n\n設定映像名稱或使用根據你的壓縮檔案生成的名稱。"; ObjectID = "2363"; */
-"2363.title" = "你可以建立一個唯讀的壓縮 Iso 映像。Iso映像只可以壓縮文件夾。\n\n設定映像名稱或使用根據你的壓縮檔案生成的名稱。";
+/* Class = "NSTextFieldCell"; title = "您可以建立一個唯讀壓縮 Iso 映像。Iso映像只可以壓縮檔案夾。\n\n設定映像名稱或根據壓縮檔案產生名稱。"; ObjectID = "2363"; */
+"2363.title" = "您可以建立一個唯讀的壓縮 Iso 映像。Iso映像只可以壓縮檔案夾。\n\n設定映像名稱或根據壓縮檔案產生名稱。";
 
 /* Class = "NSTextFieldCell"; title = "儲存"; ObjectID = "2390"; */
 "2390.title" = "儲存";
@@ -95,17 +95,20 @@
 /* Class = "NSTextFieldCell"; title = "正常"; ObjectID = "2398"; */
 "2398.title" = "正常";
 
-/* Class = "NSTextFieldCell"; title = "壓縮方式: 已選"; ObjectID = "2402"; */
-"2402.title" = "壓縮方式: 已選";
+/* Class = "NSTextFieldCell"; title = "壓縮方式：已選"; ObjectID = "2402"; */
+"2402.title" = "壓縮方式：已選";
 
 /* Class = "NSTextFieldCell"; title = "重複:"; ObjectID = "2426"; */
 "2426.title" = "重複:";
 
-/* Class = "NSButtonCell"; title = "加密檔案名"; ObjectID = "L2I-Q8-zqc"; */
-"L2I-Q8-zqc.title" = "加密檔案名";
+/* Class = "NSButtonCell"; title = "加密檔案名稱"; ObjectID = "L2I-Q8-zqc"; */
+"L2I-Q8-zqc.title" = "加密檔案名稱";
 
 /* Class = "NSWindow"; title = "Keka"; ObjectID = "RXN-3Y-Yyn"; */
 "RXN-3Y-Yyn.title" = "Keka";
 
 /* Class = "NSButtonCell"; title = "Solid archive"; ObjectID = "UYy-aQ-V1a"; */
-"UYy-aQ-V1a.title" = "Solid archive";
+"UYy-aQ-V1a.title" = "實體壓縮檔";
+
+/* Class = "NSButtonCell"; title = "Use AES-256 encryption"; ObjectID = "Lw7-h9-3Qh"; */
+"Lw7-h9-3Qh.title" = "使用 AES-256 技術加密";
