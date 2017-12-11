@@ -2,14 +2,14 @@
 /* Class = "NSBox"; title = "格式"; ObjectID = "153"; */
 "153.title" = "格式";
 
-/* Class = "NSTextFieldCell"; title = "默認壓縮格式:"; ObjectID = "159"; */
-"159.title" = "默認壓縮格式:";
+/* Class = "NSTextFieldCell"; title = "預設壓縮格式:"; ObjectID = "159"; */
+"159.title" = "預設壓縮格式:";
 
-/* Class = "NSTextFieldCell"; title = "默認壓縮格式:"; ObjectID = "160"; */
-"160.title" = "默認壓縮格式:";
+/* Class = "NSTextFieldCell"; title = "預設壓縮格式:"; ObjectID = "160"; */
+"160.title" = "預設壓縮格式:";
 
-/* Class = "NSTextFieldCell"; title = "設定將於 Keka 重啓後生效"; ObjectID = "161"; */
-"161.title" = "設定將於 Keka 重啓後生效";
+/* Class = "NSTextFieldCell"; title = "將於 Keka 重新啟動後套用設定"; ObjectID = "161"; */
+"161.title" = "將於 Keka 重新啟動後套用設定";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "163"; */
 "163.title" = "OtherViews";
@@ -17,20 +17,20 @@
 /* Class = "NSMenuItem"; title = "不壓縮"; ObjectID = "164"; */
 "164.title" = "不壓縮";
 
-/* Class = "NSMenuItem"; title = "快速，較低壓縮率"; ObjectID = "165"; */
-"165.title" = "快速，較低壓縮率";
+/* Class = "NSMenuItem"; title = "快速、較低壓縮率"; ObjectID = "165"; */
+"165.title" = "快速、較低壓縮率";
 
 /* Class = "NSMenuItem"; title = "正常"; ObjectID = "166"; */
 "166.title" = "正常";
 
-/* Class = "NSMenuItem"; title = "非常快，低壓縮率"; ObjectID = "167"; */
-"167.title" = "非常快，低壓縮率";
+/* Class = "NSMenuItem"; title = "非常快、低壓縮率"; ObjectID = "167"; */
+"167.title" = "非常快、低壓縮率";
 
-/* Class = "NSMenuItem"; title = "非常慢，高壓縮率"; ObjectID = "168"; */
-"168.title" = "非常慢，高壓縮率";
+/* Class = "NSMenuItem"; title = "非常慢、高壓縮率"; ObjectID = "168"; */
+"168.title" = "非常慢、高壓縮率";
 
-/* Class = "NSMenuItem"; title = "慢速，較高壓縮率"; ObjectID = "169"; */
-"169.title" = "慢速，較高壓縮率";
+/* Class = "NSMenuItem"; title = "慢速、較高壓縮率"; ObjectID = "169"; */
+"169.title" = "慢速、較高壓縮率";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "171"; */
 "171.title" = "OtherViews";
@@ -38,14 +38,14 @@
 /* Class = "NSButtonCell"; title = "設為預設的 壓縮/解壓縮 工具"; ObjectID = "184"; */
 "184.title" = "設為預設的 壓縮/解壓縮 工具";
 
-/* Class = "NSButtonCell"; title = "關閉了所有視窗時，也關閉 Keka"; ObjectID = "187"; */
-"187.title" = "關閉了所有視窗時，也關閉 Keka";
+/* Class = "NSButtonCell"; title = "當所有視窗關閉時，也關閉 Keka"; ObjectID = "187"; */
+"187.title" = "當所有視窗關閉時，也關閉 Keka";
 
 /* Class = "NSBox"; title = "操作"; ObjectID = "191"; */
 "191.title" = "操作";
 
-/* Class = "NSTextFieldCell"; title = "自動判斷操作: Keka 文件副檔名決定壓縮或解壓縮。"; ObjectID = "194"; */
-"194.title" = "自動判斷操作: Keka 文件副檔名決定壓縮或解壓縮。";
+/* Class = "NSTextFieldCell"; title = "自動判斷操作: Keka 檔案副檔名決定壓縮或解壓縮。"; ObjectID = "194"; */
+"194.title" = "自動判斷操作: Keka 檔案副檔名決定壓縮或解壓縮。";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "196"; */
 "196.title" = "OtherViews";
@@ -59,50 +59,50 @@
 /* Class = "NSMenuItem"; title = "自動判斷操作"; ObjectID = "199"; */
 "199.title" = "自動判斷操作";
 
-/* Class = "NSButtonCell"; title = "壓縮完成後删除原文件"; ObjectID = "262"; */
-"262.title" = "壓縮完成後删除原文件";
+/* Class = "NSButtonCell"; title = "壓縮完成後刪除原始檔案"; ObjectID = "262"; */
+"262.title" = "壓縮完成後刪除原始檔案";
 
-/* Class = "NSButtonCell"; title = "壓縮單份文件"; ObjectID = "263"; */
-"263.title" = "壓縮單份文件";
+/* Class = "NSButtonCell"; title = "壓縮單一檔案"; ObjectID = "263"; */
+"263.title" = "壓縮單一檔案";
 
 /* Class = "NSButtonCell"; title = "壓縮完成後在 Finder 中顯示"; ObjectID = "264"; */
 "264.title" = "壓縮完成後在 Finder 中顯示";
 
-/* Class = "NSButtonCell"; title = "排除 Mac OS X 系統文件 (例如: .DS_Store)"; ObjectID = "265"; */
-"265.title" = "排除 Mac OS X 系統文件 (例如: .DS_Store)";
+/* Class = "NSButtonCell"; title = "排除 Mac OS X 系統檔案 (例如: .DS_Store)"; ObjectID = "265"; */
+"265.title" = "排除 Mac OS X 系統檔案 (例如: .DS_Store)";
 
 /* Class = "NSBox"; title = "名稱和位置"; ObjectID = "270"; */
 "270.title" = "名稱和位置";
 
-/* Class = "NSTextFieldCell"; placeholderString = "自定義命名"; ObjectID = "276"; */
-"276.placeholderString" = "自定義命名";
+/* Class = "NSTextFieldCell"; placeholderString = "自訂名稱"; ObjectID = "276"; */
+"276.placeholderString" = "自訂名稱";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "278"; */
 "278.title" = "OtherViews";
 
-/* Class = "NSMenuItem"; title = "每次詢問"; ObjectID = "279"; */
-"279.title" = "每次詢問";
+/* Class = "NSMenuItem"; title = "每次都詢問"; ObjectID = "279"; */
+"279.title" = "每次都詢問";
 
-/* Class = "NSMenuItem"; title = "和原文件相同目錄"; ObjectID = "280"; */
-"280.title" = "和原文件相同目錄";
+/* Class = "NSMenuItem"; title = "與原始檔案相同檔案夾"; ObjectID = "280"; */
+"280.title" = "與原始檔案相同檔案夾";
 
-/* Class = "NSMenuItem"; title = "自定義目錄..."; ObjectID = "281"; */
-"281.title" = "自定義目錄...";
+/* Class = "NSMenuItem"; title = "自訂檔案夾..."; ObjectID = "281"; */
+"281.title" = "自訂檔案夾...";
 
-/* Class = "NSTextFieldCell"; title = "保存位置:"; ObjectID = "282"; */
-"282.title" = "保存位置:";
+/* Class = "NSTextFieldCell"; title = "儲存位置:"; ObjectID = "282"; */
+"282.title" = "儲存位置:";
 
-/* Class = "NSTextFieldCell"; title = "新文件命名:"; ObjectID = "283"; */
-"283.title" = "新文件命名:";
+/* Class = "NSTextFieldCell"; title = "新檔案命名:"; ObjectID = "283"; */
+"283.title" = "新檔案命名:";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "285"; */
 "285.title" = "OtherViews";
 
-/* Class = "NSMenuItem"; title = "和原文件相同"; ObjectID = "286"; */
-"286.title" = "和原文件相同";
+/* Class = "NSMenuItem"; title = "與原始檔案相同"; ObjectID = "286"; */
+"286.title" = "與原始檔案相同";
 
-/* Class = "NSMenuItem"; title = "自定義..."; ObjectID = "287"; */
-"287.title" = "自定義...";
+/* Class = "NSMenuItem"; title = "自訂..."; ObjectID = "287"; */
+"287.title" = "自訂...";
 
 /* Class = "NSWindow"; title = "視窗"; ObjectID = "330"; */
 "330.title" = "視窗";
@@ -119,7 +119,7 @@
 /* Class = "NSToolbarItem"; paletteLabel = "通用"; ObjectID = "334"; */
 "334.paletteLabel" = "通用";
 
-/* Class = "NSToolbarItem"; label = "解压缩"; ObjectID = "338"; */
+/* Class = "NSToolbarItem"; label = "解壓縮"; ObjectID = "338"; */
 "338.label" = "解壓縮";
 
 /* Class = "NSToolbarItem"; paletteLabel = "解壓縮"; ObjectID = "338"; */
@@ -131,14 +131,14 @@
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "356"; */
 "356.title" = "OtherViews";
 
-/* Class = "NSMenuItem"; title = "每次詢問"; ObjectID = "357"; */
-"357.title" = "每次詢問";
+/* Class = "NSMenuItem"; title = "每次都詢問"; ObjectID = "357"; */
+"357.title" = "每次都詢問";
 
-/* Class = "NSMenuItem"; title = "和原文件相同目錄"; ObjectID = "358"; */
-"358.title" = "和原文件相同目錄";
+/* Class = "NSMenuItem"; title = "與原始檔案相同檔案夾"; ObjectID = "358"; */
+"358.title" = "與原始檔案相同檔案夾";
 
-/* Class = "NSMenuItem"; title = "自定義目錄..."; ObjectID = "359"; */
-"359.title" = "自定義目錄...";
+/* Class = "NSMenuItem"; title = "自訂檔案夾..."; ObjectID = "359"; */
+"359.title" = "自訂檔案夾...";
 
 /* Class = "NSTextFieldCell"; title = "解壓縮位置:"; ObjectID = "360"; */
 "360.title" = "解壓縮位置:";
@@ -146,8 +146,8 @@
 /* Class = "NSButtonCell"; title = "解壓縮完成後在 Finder 中顯示"; ObjectID = "361"; */
 "361.title" = "解壓縮完成後在 Finder 中顯示";
 
-/* Class = "NSButtonCell"; title = "解壓縮完成後删除原文件"; ObjectID = "362"; */
-"362.title" = "解壓縮完成後删除原文件";
+/* Class = "NSButtonCell"; title = "壓縮完成後刪除原始檔案"; ObjectID = "362"; */
+"362.title" = "壓縮完成後刪除原始檔案";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "415"; */
 "415.title" = "OtherViews";
@@ -161,8 +161,8 @@
 /* Class = "NSMenuItem"; title = "無"; ObjectID = "418"; */
 "418.title" = "無";
 
-/* Class = "NSMenuItem"; title = "默認壓縮"; ObjectID = "419"; */
-"419.title" = "默認壓縮";
+/* Class = "NSMenuItem"; title = "預設壓縮"; ObjectID = "419"; */
+"419.title" = "預設壓縮";
 
 /* Class = "NSMenuItem"; title = "Bottle"; ObjectID = "420"; */
 "420.title" = "Bottle";
@@ -192,28 +192,28 @@
 "428.title" = "Hero";
 
 /* Class = "NSMenuItem"; title = "Glass"; ObjectID = "429"; */
-"429.title" = "Glass";
+"429.title" = "玻璃";
 
 /* Class = "NSMenuItem"; title = "Funk"; ObjectID = "430"; */
-"430.title" = "Funk";
+"430.title" = "放克";
 
 /* Class = "NSMenuItem"; title = "Frog"; ObjectID = "431"; */
-"431.title" = "Frog";
+"431.title" = "青蛙";
 
-/* Class = "NSMenuItem"; title = "默認解壓縮"; ObjectID = "432"; */
-"432.title" = "默認解壓縮";
+/* Class = "NSMenuItem"; title = "預設解壓縮"; ObjectID = "432"; */
+"432.title" = "預設解壓縮";
 
-/* Class = "NSTextFieldCell"; title = "解壓縮完成播放提示聲:"; ObjectID = "433"; */
-"433.title" = "解壓縮完成播放提示聲:";
+/* Class = "NSTextFieldCell"; title = "解壓縮完成播放通知音效:"; ObjectID = "433"; */
+"433.title" = "解壓縮完成播放通知音效:";
 
-/* Class = "NSTextFieldCell"; title = "壓縮完成播放提示聲:"; ObjectID = "436"; */
-"436.title" = "壓縮完成播放提示聲:";
+/* Class = "NSTextFieldCell"; title = "壓縮完成播放通知音效:"; ObjectID = "436"; */
+"436.title" = "壓縮完成播放通知音效:";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "438"; */
 "438.title" = "OtherViews";
 
-/* Class = "NSMenuItem"; title = "默認解壓縮"; ObjectID = "439"; */
-"439.title" = "默認解壓縮";
+/* Class = "NSMenuItem"; title = "預設解壓縮"; ObjectID = "439"; */
+"439.title" = "預設解壓縮";
 
 /* Class = "NSMenuItem"; title = "Frog"; ObjectID = "440"; */
 "440.title" = "Frog";
@@ -251,8 +251,8 @@
 /* Class = "NSMenuItem"; title = "Bottle"; ObjectID = "451"; */
 "451.title" = "Bottle";
 
-/* Class = "NSMenuItem"; title = "默認壓縮"; ObjectID = "452"; */
-"452.title" = "默認壓縮";
+/* Class = "NSMenuItem"; title = "預設壓縮"; ObjectID = "452"; */
+"452.title" = "預設壓縮";
 
 /* Class = "NSMenuItem"; title = "無"; ObjectID = "453"; */
 "453.title" = "無";
@@ -266,5 +266,11 @@
 /* Class = "NSButtonCell"; title = "啟用右鍵>服務捷徑"; ObjectID = "CRY-lE-Luz"; */
 "CRY-lE-Luz.title" = "啟用右鍵>服務捷徑";
 
+/* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
+"SOL-6U-5P9.title" = "Enable Notification Center integration";
+
 /* Class = "NSButtonCell"; title = "使用統一工具列 (重設個人設定)"; ObjectID = "b5e-bj-Pgz"; */
 "b5e-bj-Pgz.title" = "使用統一工具列 (重設個人設定)";
+
+/* Class = "NSButtonCell"; title = "Use AES-256 when encrypting Zip files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
+"hp7-jO-HeV.title" = "Use AES-256 when encrypting Zip files (less compatible)";
