@@ -48,7 +48,7 @@
 "184.title" = "设为默认的 压缩/解压缩 工具";
 
 /* Class = "NSButtonCell"; title = "关闭 Keka 当没有窗口可见"; ObjectID = "187"; */
-"187.title" = "关闭 Keka 当没有窗口可见";
+"187.title" = "当没有窗口可见时 关闭 Keka";
 
 /* Class = "NSBox"; title = "操作"; ObjectID = "191"; */
 "191.title" = "操作";
@@ -261,10 +261,10 @@
 "CRY-lE-Luz.title" = "添加到服务菜单";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
-"SOL-6U-5P9.title" = "Enable Notification Center integration";
+"SOL-6U-5P9.title" = "启用集成通知中心";
 
 /* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "b5e-bj-Pgz"; */
 "b5e-bj-Pgz.title" = "使用统一的工具栏（重置自定义设置）";
 
 /* Class = "NSButtonCell"; title = "Use AES-256 when encrypting Zip files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
-"hp7-jO-HeV.title" = "Use AES-256 when encrypting Zip files (less compatible)";
+"hp7-jO-HeV.title" = "当加密 Zip 文件时使用 AES-256 (兼容性较低)";
