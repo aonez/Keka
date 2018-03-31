@@ -2,11 +2,11 @@
 /* Class = "NSBox"; title = "格式"; ObjectID = "153"; */
 "153.title" = "格式";
 
-/* Class = "NSTextFieldCell"; title = "默认压缩格式:"; ObjectID = "159"; */
-"159.title" = "默认压缩格式:";
+/* Class = "NSTextFieldCell"; title = "默认压缩格式："; ObjectID = "159"; */
+"159.title" = "默认压缩格式：";
 
-/* Class = "NSTextFieldCell"; title = "默认压缩方式:"; ObjectID = "160"; */
-"160.title" = "默认压缩方式:";
+/* Class = "NSTextFieldCell"; title = "默认压缩方式："; ObjectID = "160"; */
+"160.title" = "默认压缩方式：";
 
 /* Class = "NSTextFieldCell"; title = "设置仅在 Keka 关闭后打开生效"; ObjectID = "161"; */
 "161.title" = "设置仅在 Keka 关闭后打开生效";
@@ -41,8 +41,8 @@
 /* Class = "NSMenuItem"; title = "Gzip"; ObjectID = "175"; */
 "175.title" = "Gzip";
 
-/* Class = "NSMenuItem"; title = "Iso"; ObjectID = "176"; */
-"176.title" = "Iso";
+/* Class = "NSMenuItem"; title = "ISO"; ObjectID = "176"; */
+"176.title" = "ISO";
 
 /* Class = "NSButtonCell"; title = "设为默认的 压缩/解压缩 工具"; ObjectID = "184"; */
 "184.title" = "设为默认的 压缩/解压缩 工具";
@@ -54,7 +54,7 @@
 "191.title" = "操作";
 
 /* Class = "NSTextFieldCell"; title = "自动判断操作: Keka 根据文件扩展名决定压缩或解压缩。"; ObjectID = "194"; */
-"194.title" = "自动判断操作: Keka 根据文件扩展名决定压缩或解压缩。";
+"194.title" = "自动判断操作：Keka 根据文件扩展名决定压缩或解压缩。";
 
 /* Class = "NSMenuItem"; title = "总是解压缩"; ObjectID = "197"; */
 "197.title" = "总是解压缩";
@@ -93,10 +93,10 @@
 "281.title" = "自定义目录...";
 
 /* Class = "NSTextFieldCell"; title = "保存位置:"; ObjectID = "282"; */
-"282.title" = "保存位置:";
+"282.title" = "保存位置：";
 
-/* Class = "NSTextFieldCell"; title = "新文件命名:"; ObjectID = "283"; */
-"283.title" = "新文件命名:";
+/* Class = "NSTextFieldCell"; title = "新文件命名："; ObjectID = "283"; */
+"283.title" = "新文件命名：";
 
 /* Class = "NSMenuItem"; title = "和原文件相同"; ObjectID = "286"; */
 "286.title" = "和原文件相同";
@@ -122,8 +122,8 @@
 /* Class = "NSToolbarItem"; paletteLabel = "解压缩"; ObjectID = "338"; */
 "338.paletteLabel" = "解压缩";
 
-/* Class = "NSMenuItem"; title = "Dmg"; ObjectID = "347"; */
-"347.title" = "Dmg";
+/* Class = "NSMenuItem"; title = "DMG"; ObjectID = "347"; */
+"347.title" = "DMG";
 
 /* Class = "NSMenuItem"; title = "Bzip2"; ObjectID = "348"; */
 "348.title" = "Bzip2";
@@ -140,8 +140,8 @@
 /* Class = "NSMenuItem"; title = "自定义目录..."; ObjectID = "359"; */
 "359.title" = "自定义目录...";
 
-/* Class = "NSTextFieldCell"; title = "解压缩位置:"; ObjectID = "360"; */
-"360.title" = "解压缩位置:";
+/* Class = "NSTextFieldCell"; title = "解压缩位置："; ObjectID = "360"; */
+"360.title" = "解压缩位置：";
 
 /* Class = "NSButtonCell"; title = "解压缩完成后在 Finder 中显示"; ObjectID = "361"; */
 "361.title" = "解压缩完成后在 Finder 中显示";
@@ -257,14 +257,14 @@
 /* Class = "NSMenuItem"; title = "Basso"; ObjectID = "455"; */
 "455.title" = "Basso";
 
-/* Class = "NSButtonCell"; title = "Enable context menu services"; ObjectID = "CRY-lE-Luz"; */
+/* Class = "NSButtonCell"; title = "添加到服务菜单"; ObjectID = "CRY-lE-Luz"; */
 "CRY-lE-Luz.title" = "添加到服务菜单";
 
-/* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
-"SOL-6U-5P9.title" = "启用集成通知中心";
+/* Class = "NSButtonCell"; title = "启用内置通知中心"; ObjectID = "SOL-6U-5P9"; */
+"SOL-6U-5P9.title" = "启用内置通知中心";
 
-/* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "b5e-bj-Pgz"; */
-"b5e-bj-Pgz.title" = "使用统一的工具栏（重置自定义设置）";
+/* Class = "NSButtonCell"; title = "使用统一工具栏（重置自定义设置）"; ObjectID = "b5e-bj-Pgz"; */
+"b5e-bj-Pgz.title" = "使用统一工具栏（重置自定义设置）";
 
-/* Class = "NSButtonCell"; title = "Use AES-256 when encrypting Zip files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
-"hp7-jO-HeV.title" = "当加密 Zip 文件时使用 AES-256 (兼容性较低)";
+/* Class = "NSButtonCell"; title = "加密 Zip 文件时使用 AES-256 (兼容性较低)"; ObjectID = "hp7-jO-HeV"; */
+"hp7-jO-HeV.title" = "加密 Zip 文件时使用 AES-256 (兼容性较低)";
