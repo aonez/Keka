@@ -2,7 +2,7 @@
 "maF-B5-Hb6.title" = "关于 Keka";
 
 /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "FOL-81-NRF"; */
-"FOL-81-NRF.title" = "选项…";
+"FOL-81-NRF.title" = "选项...";
 
 /* Class = "NSMenuItem"; title = "Check for updates"; ObjectID = "K4O-VW-7FA"; */
 "K4O-VW-7FA.title" = "检查更新";
@@ -29,7 +29,7 @@
 "bFm-YE-6u3.title" = "新建";
 
 /* Class = "NSMenuItem"; title = "Open…"; ObjectID = "sUB-o8-so9"; */
-"sUB-o8-so9.title" = "打开…";
+"sUB-o8-so9.title" = "打开...";
 
 /* Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "jtN-lL-fdx"; */
 "jtN-lL-fdx.title" = "最近打开";
@@ -41,10 +41,10 @@
 "Qst-Ya-feO.title" = "保存";
 
 /* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "nvz-UK-KlM"; */
-"nvz-UK-KlM.title" = "保存为…";
+"nvz-UK-KlM.title" = "保存为...";
 
 /* Class = "NSMenuItem"; title = "Page Setup..."; ObjectID = "tjx-uw-4ov"; */
-"tjx-uw-4ov.title" = "打印设置…";
+"tjx-uw-4ov.title" = "打印设置...";
 
 /* Class = "NSMenu"; title = "Edit"; ObjectID = "gy4-dO-Qdu"; */
 "gy4-dO-Qdu.title" = "编辑";
