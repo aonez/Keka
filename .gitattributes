@@ -1,2 +1,2 @@
-*.strings   text
 *.strings   diff=localizablestrings
+*.strings   text
