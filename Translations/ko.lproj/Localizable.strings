@@ -1,6 +1,7 @@
 "_BASE_USED_" = "ko";
-"_ADVANCED_EXTRA_WIDTH_" = "20.0";
-"_PREFERENCES_EXTRA_WIDTH_" = "0.0";
+// Use the _ADVANCED_EXTRA_WIDTH_ to fit the method description properly
+"_ADVANCED_EXTRA_WIDTH_" = "0.0";
+//"_PREFERENCES_EXTRA_WIDTH_" = "0.0";
 "OK" = "확인";
 "Yes" = "예";
 "No" = "아니오";
