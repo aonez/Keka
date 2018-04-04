@@ -1,6 +1,7 @@
 "_BASE_USED_" = "pt-BR";
+// Use the _ADVANCED_EXTRA_WIDTH_ to fit the method description properly
 "_ADVANCED_EXTRA_WIDTH_" = "0.0";
-"_PREFERENCES_EXTRA_WIDTH_" = "0.0";
+//"_PREFERENCES_EXTRA_WIDTH_" = "0.0";
 "OK" = "OK";
 "Yes" = "Sim";
 "No" = "Não";

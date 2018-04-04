@@ -1,6 +1,7 @@
 "_BASE_USED_" = "zh-Hant";
+// Use the _ADVANCED_EXTRA_WIDTH_ to fit the method description properly
 "_ADVANCED_EXTRA_WIDTH_" = "0.0";
-"_PREFERENCES_EXTRA_WIDTH_" = "0.0";
+//"_PREFERENCES_EXTRA_WIDTH_" = "0.0";
 "OK" = "好";
 "Yes" = "是";
 "No" = "否";
