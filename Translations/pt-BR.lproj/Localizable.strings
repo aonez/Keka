@@ -77,19 +77,13 @@
 " - Remaining: Less than one second" = " - Restando: Menos de um segundo";
 "Can't show progress time..." = "Impossível mostrar estimativa...";
 "Password for \"%@\"" = "Senha para \"%@\"";
+"Method:" = "Método:";
 "No compression" = "Sem compressão";
 "Fastest, less compression" = "Veloz, menos compressão";
 "Fast, less compression" = "Ágil, menos compressão";
 "Normal" = "Normal";
 "Slow, more compression" = "Lento, mais compressão";
 "Slowest, more compression" = "Mole, mais compressão";
-
-"Method: No compression" = "Método: Sem compressão";
-"Method: Fastest, less compression" = "Método: Veloz, menos compressão";
-"Method: Fast, less compression" = "Método: Ágil, menos compressão";
-"Method: Normal" = "Método: Normal";
-"Method: Slow, more compression" = "Método: Lento, mais compressão";
-"Method: Slowest, more compression" = "Método: Mole, mais compressão";
 "Compression" = "Compressão";
 "Extraction" = "Extração";
 "Keka can't use the \"extlx.plist\" list, please get in contact with the developers.\n\nNow Keka will quit." = "Keka não pode usar \"extlx.plist\", por favor contate os desenvolvedores.\n\nKeka encerrará agora.";
