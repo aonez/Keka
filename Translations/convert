@@ -1,0 +1,110 @@
+#!/bin/bash
+
+GREEN='\033[0;32m'
+ORANGE='\033[0;33m'
+RED='\033[0;31m'
+YELLOW='\033[1;31m'
+WHITE='\033[1;37m'
+NC='\033[0m' # No Color
+
+cd "${0%/*}"
+
+xcode=0
+
+for var in "$@"
+do
+	if [ "$var" == "-xcode" ]; then
+		xcode=1
+		continue
+	fi
+done
+
+if [ $xcode -eq 1 ]; then
+	echo "Runing on Xcode..."
+	GREEN=''
+	ORANGE=''
+	RED=''
+	YELLOW=''
+	WHITE=''
+	NC=''
+else
+	clear
+fi
+
+someError=0
+someNoUTF8=0
+
+for f in *.*; do
+	
+	if [ ! -d ${f} ]; then
+		continue
+	fi
+	
+	echo "Checking language ${f}..."
+	
+	for t in ${f}/*.strings; do
+		
+		n=${t#$f/} # file name
+		echo -e -n "${n}"
+		
+		if [ $xcode -eq 1 ]; then
+			enc="$( file -i ${t} )"
+		else
+			enc="$( file -I ${t} )"
+		fi
+		
+		charset="$( echo ${enc} | cut -d'=' -f2 )"
+		noUTF8=0	
+			
+		if [[ ${charset} != "utf-8" ]]; then
+			noUTF8=1
+			echo -e -n " > ${ORANGE}${charset}${NC}"
+		else
+			echo -e -n " > ${GREEN}${charset}${NC}"
+		fi
+
+		if [[ ${charset} != "utf-8" ]]; then
+			convFrom=""
+			if [ $charset != "binary" ]; then
+				convFrom="-f ${charset}"
+			fi
+			conv="$( { iconv $convFrom -t utf-8 < ${t} > ${t}.tmp; } 2>&1 )"
+			
+		    if [ $? -eq 0 ]; then
+				mv -f ${t}.tmp ${t}
+				echo -e -n " > ${GREEN}UTF-8${NC}"
+			else
+				someNoUTF8=1
+				echo -e -n " > ${RED}${charset} !!!${NC} > ${ORANGE}${conv}${NC}"
+			fi
+		fi
+		
+		error=0
+		if [[ ${enc} = *"regexec error"* ]]; then
+			error=1
+			someError=1
+			encErr="$( echo ${enc#*"ERROR: "} | cut -d';' -f1 )"
+			echo -e -n " > ${RED}Error: ${ORANGE}${encErr}${NC}"
+		fi
+		
+		echo
+		
+	done
+	echo
+done
+
+echo "someNoUTF8 = $someNoUTF8"
+echo "someError = $someError"
+
+if [ $someNoUTF8 -eq 1 ] && [ $someError -eq 1 ]; then
+	echo -e "${RED}There are some files not encoded in UTF-8 and with errors${NC}"
+	exit 1
+elif [ $someNoUTF8 -eq 1 ]; then
+	echo -e "${RED}There are some files not encoded in UTF-8${NC}"
+	exit 1
+elif [ $someError -eq 1 ]; then
+	echo -e "${RED}There are some files with some errors${NC}"
+	exit 1
+fi
+
+exit
