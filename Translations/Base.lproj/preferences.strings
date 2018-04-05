@@ -8,7 +8,7 @@
 /* Class = "NSTextFieldCell"; title = "Default method:"; ObjectID = "160"; */
 "160.title" = "Default method:";
 
-/* Class = "NSTextFieldCell"; title = "Those only are applied when Keka is not opened"; ObjectID = "161"; */
+/* Class = "NSTextFieldCell"; title = "Those are only applied when Keka is not open"; ObjectID = "161"; */
 "161.title" = "Those are only applied when Keka is not open";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "163"; */
@@ -38,7 +38,7 @@
 /* Class = "NSButtonCell"; title = "Set Keka as default compressor/uncompressor"; ObjectID = "184"; */
 "184.title" = "Set Keka as default compressor/uncompressor";
 
-/* Class = "NSButtonCell"; title = "Close Keka when no window visible"; ObjectID = "187"; */
+/* Class = "NSButtonCell"; title = "Close Keka when no windows are open"; ObjectID = "187"; */
 "187.title" = "Close Keka when no windows are open";
 
 /* Class = "NSBox"; title = "Actions"; ObjectID = "191"; */
@@ -59,7 +59,7 @@
 /* Class = "NSMenuItem"; title = "Perform automatic action"; ObjectID = "199"; */
 "199.title" = "Perform automatic action";
 
-/* Class = "NSButtonCell"; title = "Move to trash original file(s) after compression"; ObjectID = "262"; */
+/* Class = "NSButtonCell"; title = "Move original file(s) to Trash after compression"; ObjectID = "262"; */
 "262.title" = "Move original file(s) to Trash after compression";
 
 /* Class = "NSButtonCell"; title = "Archive as single files"; ObjectID = "263"; */
@@ -68,7 +68,7 @@
 /* Class = "NSButtonCell"; title = "Show file in Finder after compression"; ObjectID = "264"; */
 "264.title" = "Show file in Finder after compression";
 
-/* Class = "NSButtonCell"; title = "Exclude Mac OS X resource forks (ex: .DS_Store)"; ObjectID = "265"; */
+/* Class = "NSButtonCell"; title = "Exclude Mac OS X resource forks (eg: .DS_Store)"; ObjectID = "265"; */
 "265.title" = "Exclude Mac OS X resource forks (eg: .DS_Store)";
 
 /* Class = "NSBox"; title = "Name and location"; ObjectID = "270"; */
@@ -263,7 +263,7 @@
 /* Class = "NSMenuItem"; title = "Basso"; ObjectID = "455"; */
 "455.title" = "Basso";
 
-/* Class = "NSButtonCell"; title = "Enable context menu services"; ObjectID = "CRY-lE-Luz"; */
+/* Class = "NSButtonCell"; title = "Enable context menu Services"; ObjectID = "CRY-lE-Luz"; */
 "CRY-lE-Luz.title" = "Enable context menu Services";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
@@ -272,5 +272,5 @@
 /* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "b5e-bj-Pgz"; */
 "b5e-bj-Pgz.title" = "Use unified toolbar (resets customizations)";
 
-/* Class = "NSButtonCell"; title = "Use AES-256 when encrypting Zip files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
+/* Class = "NSButtonCell"; title = "Use AES-256 when encrypting ZIP files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
 "hp7-jO-HeV.title" = "Use AES-256 when encrypting ZIP files (less compatible)";
