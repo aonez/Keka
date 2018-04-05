@@ -9,7 +9,7 @@
 "Set as default compressor" = "Set as default compressor";
 "Not now" = "Not now";
 "Want to make Keka your default compressor?" = "Want to make Keka your default compressor?";
-"This means that all the compatible files will be extracted with Keka by now. You can set this later in the Keka Preferences." = "This means that all the compatible files will be extracted with Keka by now. You can set this later in the Keka Preferences.";
+"This means that all the compatible files will be extracted with Keka by now. You can set this later in the Keka Preferences." = "This means that all the compatible files will be extracted with Keka. You can set this later in the Keka Preferences.";
 "Really want to close Keka?" = "Really want to close Keka?";
 "The current operations will be canceled. If you choose to wait and quit Keka will exit when all work is done." = "The current operations will be canceled. If you choose to wait and quit Keka will exit when all work is done.";
 "Password needed" = "Password needed";
@@ -24,7 +24,7 @@
 "Compression fail" = "Compression failed";
 "File \"%@\" cannot be created" = "File \"%@\" cannot be created";
 "Operation not implemented" = "Operation not implemented";
-"This operation is not implemented yet so Keka is in beta process." = "This operation is not implemented yet so Keka is in beta process.";
+"This operation is not implemented yet so Keka is in beta process." = "This operation is not implemented yet as Keka is in Beta.";
 "Performing operation..." = "Performing operation...";
 "Waiting..." = "Waiting...";
 "Extracting \"%@\"" = "Extracting \"%@\"";
@@ -55,7 +55,7 @@
 "Keka can't create this ISO image" = "Keka can't create this ISO image";
 "You can only create an ISO image with a single folder. Try to put all your files in a folder and drop it to Keka to create the ISO image." = "You can only create an ISO image with a single folder. Try to put all your files in a folder and drop it to Keka to create the ISO image.";
 "Keka can't create this xz tarball" = "Keka can't create this xz tarball";
-"This operation is not supported on OS X 10.8.\nPlease update your system or manually create a Tar and then xz it." = "This operation is not supported on OS X 10.8.\nPlease update your system or manually create a Tar and then xz it.";
+"This operation is not supported on OS X 10.8.\nPlease update your system or manually create a Tar and then xz it." = "This operation is not supported on OS X 10.8.\nPlease update your system or manually create a TAR and then XZ it.";
 "Compress \"%@\" in %@ to..." = "Compress \"%@\" in %@ to...";
 "Compress in %@ to..." = "Compress in %@ to...";
 "Save as:" = "Save as:";
@@ -86,7 +86,7 @@
 "Slowest, more compression" = "Slowest, more compression";
 "Compression" = "Compression";
 "Extraction" = "Extraction";
-"Keka can't use the \"extlx.plist\" list, please get in contact with the developers.\n\nNow Keka will quit." = "Keka can't use the \"extlx.plist\" list, please get in contact with the developers.\n\nKeka will quit now.";
+"Keka can't use the \"extlx.plist\" list, please get in contact with the developers.\n\nNow Keka will quit." = "Keka can't use the \"extlx.plist\" list, please get in contact with the developers.\n\nKeka will now quit.";
 "Keka is dying!" = "Keka is dying!";
 "Ask each time" = "Ask each time";
 "Next to original file" = "Next to original file";
@@ -110,7 +110,7 @@
 "Unknown error" = "Unknown error";
 "Error code %d using \"%@\"\n%@" = "Error code %d using \"%@\"\n%@";
 "No errors found" = "No errors found";
-"Minor error, the operation may be done well" = "Minor error, the operation may be done well";
+"Minor error, the operation may be done well" = "Minor error, the operation may have been completed";
 "Fatal error" = "Fatal error";
 "CRC error occurred, maybe the file is corrupt" = "CRC error occurred, maybe the file is corrupt";
 "Attempt to modify an archive previously locked" = "Attempt to modify an archive previously locked";
