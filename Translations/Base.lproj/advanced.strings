@@ -41,7 +41,7 @@
 /* Class = "NSMenuItem"; title = "Slowest, more compression"; ObjectID = "965"; */
 "965.title" = "Slowest, more compression";
 
-/* Class = "NSTextFieldCell"; title = "You can create a Dmg volume that will be readable only and compressed.\n\nSet a volumename to this Dmg or use the default name based on the files you compress."; ObjectID = "2189"; */
+/* Class = "NSTextFieldCell"; title = "You can create a DMG volume that will be read-only and compressed.\n\nSet a volume name to this DMG or use the default name based on the files you compress."; ObjectID = "2189"; */
 "2189.title" = "You can create a DMG volume that will be read-only and compressed.\n\nSet a volume name to this DMG or use the default name based on the files you compress.";
 
 /* Class = "NSButtonCell"; title = "Archive as single files"; ObjectID = "2221"; */
@@ -80,8 +80,8 @@
 /* Class = "NSTextFieldCell"; placeholderString = "custom name"; ObjectID = "2354"; */
 "2354.placeholderString" = "custom name";
 
-/* Class = "NSTextFieldCell"; title = "You can create a Iso volume that will be readable only and compressed. Iso volumes can be only created from a folder.\n\nSet a volume name to this Iso or use the default name based on the files you compress."; ObjectID = "2363"; */
-"2363.title" = "You can create a ISO volume that will be readable only and compressed. ISO volumes can be only created from a folder.\n\nSet a volume name to this ISO or use the default name based on the files you compress.";
+/* Class = "NSTextFieldCell"; title = "You can create a ISO volume that will be read-only and compressed. ISO volumes can be only created from a folder.\n\nSet a volume name to this ISO or use the default name based on the files you compress."; ObjectID = "2363"; */
+"2363.title" = "You can create a ISO volume that will be read-only and compressed. ISO volumes can be only created from a folder.\n\nSet a volume name to this ISO or use the default name based on the files you compress.";
 
 /* Class = "NSTextFieldCell"; title = "Store"; ObjectID = "2390"; */
 "2390.title" = "Store";
