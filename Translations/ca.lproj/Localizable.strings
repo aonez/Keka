@@ -1,6 +1,7 @@
 "_BASE_USED_" = "ca";
-"_ADVANCED_EXTRA_WIDTH_" = "15.0";
-"_PREFERENCES_EXTRA_WIDTH_" = "20.0";
+// Use the _ADVANCED_EXTRA_WIDTH_ to fit the method description properly
+"_ADVANCED_EXTRA_WIDTH_" = "5.0";
+//"_PREFERENCES_EXTRA_WIDTH_" = "0.0";
 "OK" = "D'acord";
 "Yes" = "Sí";
 "No" = "No";
@@ -76,18 +77,13 @@
 " - Remaining: Less than one second" = " - Restant: Menys d'un segon";
 "Can't show progress time..." = "No es pot mostrar el temps…";
 "Password for \"%@\"" = "Contrasenya per a «%@»";
+"Method:" = "Mètode:";
 "No compression" = "Sense compressió";
 "Fastest, less compression" = "Molt ràpida, poca compressió";
 "Fast, less compression" = "Ràpida, compressió menor";
 "Normal" = "Normal";
 "Slow, more compression" = "Lenta, compressió màxima";
 "Slowest, more compression" = "Molt lenta, compressió ultra";
-"Method: No compression" = "Mètode: Sense compressió";
-"Method: Fastest, less compression" = "Mètode: Molt ràpida, poca compressió";
-"Method: Fast, less compression" = "Mètode: Ràpida, compressió menor";
-"Method: Normal" = "Mètode: Normal";
-"Method: Slow, more compression" = "Mètode: Lenta, compressió màxima";
-"Method: Slowest, more compression" = "Molt lenta, compressió ultra";
 "Compression" = "Compressió";
 "Extraction" = "Extracció";
 "Keka can't use the \"extlx.plist\" list, please get in contact with the developers.\n\nNow Keka will quit." = "El Keka no pot utilitzar la llista «extlx.plist», contacteu amb els desenvolupadors.\n\nEl Keka es tancarà ara.";

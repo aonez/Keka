@@ -1,6 +1,7 @@
 "_BASE_USED_" = "ru";
-"_ADVANCED_EXTRA_WIDTH_" = "0.0";
-"_PREFERENCES_EXTRA_WIDTH_" = "200.0";
+// Use the _ADVANCED_EXTRA_WIDTH_ to fit the method description properly
+"_ADVANCED_EXTRA_WIDTH_" = "50.0";
+//"_PREFERENCES_EXTRA_WIDTH_" = "0.0";
 "OK" = "Да";
 "Yes" = "Да";
 "No" = "Нет";
@@ -76,18 +77,13 @@
 " - Remaining: Less than one second" = " - Осталось меньше секунды";
 "Can't show progress time..." = "Невозможно показать оставшееся время …";
 "Password for \"%@\"" = "Пароль для \"%@\"";
+"Method:" = "Метод:";
 "No compression" = "Без сжатия";
 "Fastest, less compression" = "Самый быстрый (меньше сжатие)";
 "Fast, less compression" = "Быстрый (меньше сжатие)";
 "Normal" = "Обычный";
 "Slow, more compression" = "Медленный (больше сжатие)";
 "Slowest, more compression" = "Самый медленный (больше сжатие)";
-"Method: No compression" = "Метод: Без сжатия";
-"Method: Fastest, less compression" = "Метод: Самый быстрый (меньше сжатие)";
-"Method: Fast, less compression" = "Метод: Быстрый (меньше сжатие)";
-"Method: Normal" = "Метод: Обычный";
-"Method: Slow, more compression" = "Метод: Медленный (больше сжатие)";
-"Method: Slowest, more compression" = "Метод: Самый медленный (больше сжатие)";
 "Compression" = "Сжатие";
 "Extraction" = "Распаковка";
 "Keka can't use the \"extlx.plist\" list, please get in contact with the developers.\n\nNow Keka will quit." = "Keka не может использовать список \"extlx.plist\", пожалуйста, обратитесь к разработчикам.\n\nKeka завершает работу.";
