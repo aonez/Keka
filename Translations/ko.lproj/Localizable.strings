@@ -1,6 +1,7 @@
 "_BASE_USED_" = "ko";
-"_ADVANCED_EXTRA_WIDTH_" = "20.0";
-"_PREFERENCES_EXTRA_WIDTH_" = "0.0";
+// Use the _ADVANCED_EXTRA_WIDTH_ to fit the method description properly
+"_ADVANCED_EXTRA_WIDTH_" = "0.0";
+//"_PREFERENCES_EXTRA_WIDTH_" = "0.0";
 "OK" = "확인";
 "Yes" = "예";
 "No" = "아니오";
@@ -76,18 +77,13 @@
 " - Remaining: Less than one second" = " - 남은 시간: 1 초 미만";
 "Can't show progress time..." = "진행 시간을 표시할 수 없습니다...";
 "Password for \"%@\"" = "다음을 위한 암호: \"%@\"";
+"Method:" = "압축 방법:";
 "No compression" = "압축 안하기";
 "Fastest, less compression" = "가장 빠르게, 낮은 압축률";
 "Fast, less compression" = "빠르게, 낮은 압축률";
 "Normal" = "기본";
 "Slow, more compression" = "느리게, 높은 압축률";
 "Slowest, more compression" = "가장 느리게, 높은 압축률";
-"Method: No compression" = "압축 방법: 압축 안하기";
-"Method: Fastest, less compression" = "압축 방법: 가장 빠르게, 낮은 압축률";
-"Method: Fast, less compression" = "압축 방법: 빠르게, 낮은 압축률";
-"Method: Normal" = "압축 방법: 기본";
-"Method: Slow, more compression" = "압축 방법: 느리게, 높은 압축률";
-"Method: Slowest, more compression" = "압축 방법: 가장 느리게, 높은 압축률";
 "Compression" = "압축";
 "Extraction" = "압축 해제";
 "Keka can't use the \"extlx.plist\" list, please get in contact with the developers.\n\nNow Keka will quit." = "Keka can't use the \"extlx.plist\" list, please get in contact with the developers.\n\nNow Keka will quit.";

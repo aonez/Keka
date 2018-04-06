@@ -1,6 +1,7 @@
 "_BASE_USED_" = "zh-Hant";
+// Use the _ADVANCED_EXTRA_WIDTH_ to fit the method description properly
 "_ADVANCED_EXTRA_WIDTH_" = "0.0";
-"_PREFERENCES_EXTRA_WIDTH_" = "0.0";
+//"_PREFERENCES_EXTRA_WIDTH_" = "0.0";
 "OK" = "好";
 "Yes" = "是";
 "No" = "否";
@@ -76,18 +77,13 @@
 " - Remaining: Less than one second" = " - 剩餘: 少於 1 秒";
 "Can't show progress time..." = "無法顯示進度時間…";
 "Password for \"%@\"" = "密碼 \"%@\"";
+"Method:" = "壓縮方式:";
 "No compression" = "不壓縮";
 "Fastest, less compression" = "最快、低壓縮率";
 "Fast, less compression" = "較快、低壓縮率";
 "Normal" = "正常";
 "Slow, more compression" = "較慢、較高壓縮率";
 "Slowest, more compression" = "最慢、高壓縮率";
-"Method: No compression" = "壓縮方式：不壓縮";
-"Method: Fastest, less compression" = "壓縮方式：最快、低壓縮率";
-"Method: Fast, less compression" = "壓縮方式：較快、較低壓縮率";
-"Method: Normal" = "壓縮方式：正常";
-"Method: Slow, more compression" = "壓縮方式：較慢、較高壓縮率";
-"Method: Slowest, more compression" = "壓縮方式：最慢、高壓縮率";
 "Compression" = "壓縮";
 "Extraction" = "解壓縮";
 "Keka can't use the \"extlx.plist\" list, please get in contact with the developers.\n\nNow Keka will quit." = "Keka 無法使用 \"extlx.plist\" 列表，請聯絡開發人員。\n\nKeka 即將關閉。";
