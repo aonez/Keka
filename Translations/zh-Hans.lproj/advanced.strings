@@ -23,8 +23,8 @@
 /* Class = "NSMenuItem"; title = "关于 Keka"; ObjectID = "58"; */
 "58.title" = "关于 Keka";
 
-/* Class = "NSMenuItem"; title = "打开…"; ObjectID = "72"; */
-"72.title" = "打开…";
+/* Class = "NSMenuItem"; title = "打开..."; ObjectID = "72"; */
+"72.title" = "打开...";
 
 /* Class = "NSMenuItem"; title = "关闭"; ObjectID = "73"; */
 "73.title" = "关闭";
@@ -35,11 +35,11 @@
 /* Class = "NSMenuItem"; title = "打印设置"; ObjectID = "77"; */
 "77.title" = "打印设置";
 
-/* Class = "NSMenuItem"; title = "打印…"; ObjectID = "78"; */
-"78.title" = "打印…";
+/* Class = "NSMenuItem"; title = "打印..."; ObjectID = "78"; */
+"78.title" = "打印...";
 
-/* Class = "NSMenuItem"; title = "保存为…"; ObjectID = "80"; */
-"80.title" = "保存为…";
+/* Class = "NSMenuItem"; title = "保存为..."; ObjectID = "80"; */
+"80.title" = "保存为...";
 
 /* Class = "NSMenu"; title = "文件"; ObjectID = "81"; */
 "81.title" = "文件";
@@ -71,8 +71,8 @@
 /* Class = "NSMenuItem"; title = "清除菜单"; ObjectID = "126"; */
 "126.title" = "清除菜单";
 
-/* Class = "NSMenuItem"; title = "选项…"; ObjectID = "129"; */
-"129.title" = "选项…";
+/* Class = "NSMenuItem"; title = "选项..."; ObjectID = "129"; */
+"129.title" = "选项...";
 
 /* Class = "NSMenu"; title = "服务"; ObjectID = "130"; */
 "130.title" = "服务";
@@ -119,8 +119,8 @@
 /* Class = "NSMenuItem"; title = "粘贴"; ObjectID = "203"; */
 "203.title" = "粘贴";
 
-/* Class = "NSMenuItem"; title = "Show Spelling…"; ObjectID = "204"; */
-"204.title" = "显示拼写…";
+/* Class = "NSMenuItem"; title = "Show Spelling..."; ObjectID = "204"; */
+"204.title" = "显示拼写...";
 
 /* Class = "NSMenu"; title = "编辑"; ObjectID = "205"; */
 "205.title" = "编辑";
@@ -131,8 +131,8 @@
 /* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "208"; */
 "208.title" = "查找下一个";
 
-/* Class = "NSMenuItem"; title = "Find…"; ObjectID = "209"; */
-"209.title" = "查找…";
+/* Class = "NSMenuItem"; title = "Find..."; ObjectID = "209"; */
+"209.title" = "查找...";
 
 /* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "210"; */
 "210.title" = "跳转到选择";
@@ -359,8 +359,8 @@
 /* Class = "NSMenuItem"; title = "Gzip"; ObjectID = "955"; */
 "955.title" = "Gzip";
 
-/* Class = "NSMenuItem"; title = "Iso"; ObjectID = "956"; */
-"956.title" = "Iso";
+/* Class = "NSMenuItem"; title = "ISO"; ObjectID = "956"; */
+"956.title" = "ISO";
 
 /* Class = "NSMenuItem"; title = "压缩方式"; ObjectID = "957"; */
 "957.title" = "压缩方式";
@@ -422,17 +422,17 @@
 /* Class = "NSToolbarItem"; paletteLabel = "Bzip2"; ObjectID = "1804"; */
 "1804.paletteLabel" = "Bzip2";
 
-/* Class = "NSToolbarItem"; label = "Dmg"; ObjectID = "1805"; */
-"1805.label" = "Dmg";
+/* Class = "NSToolbarItem"; label = "DMG"; ObjectID = "1805"; */
+"1805.label" = "DMG";
 
-/* Class = "NSToolbarItem"; paletteLabel = "Dmg"; ObjectID = "1805"; */
-"1805.paletteLabel" = "Dmg";
+/* Class = "NSToolbarItem"; paletteLabel = "DMG"; ObjectID = "1805"; */
+"1805.paletteLabel" = "DMG";
 
-/* Class = "NSToolbarItem"; label = "Iso"; ObjectID = "1806"; */
-"1806.label" = "Iso";
+/* Class = "NSToolbarItem"; label = "ISO"; ObjectID = "1806"; */
+"1806.label" = "ISO";
 
-/* Class = "NSToolbarItem"; paletteLabel = "Iso"; ObjectID = "1806"; */
-"1806.paletteLabel" = "Iso";
+/* Class = "NSToolbarItem"; paletteLabel = "ISO"; ObjectID = "1806"; */
+"1806.paletteLabel" = "ISO";
 
 /* Class = "NSButtonCell"; title = "固实"; ObjectID = "1880"; */
 "UYy-aQ-V1a.title" = "固实";
@@ -440,14 +440,14 @@
 /* Class = "NSButtonCell"; title = "加密文件名"; ObjectID = "1881"; */
 "L2I-Q8-zqc.title" = "加密文件名";
 
-/* Class = "NSMenuItem"; title = "Dmg"; ObjectID = "2156"; */
-"2156.title" = "Dmg";
+/* Class = "NSMenuItem"; title = "DMG"; ObjectID = "2156"; */
+"2156.title" = "DMG";
 
 /* Class = "NSMenuItem"; title = "Bzip2"; ObjectID = "2158"; */
 "2158.title" = "Bzip2";
 
-/* Class = "NSTextFieldCell"; title = "你将创建一个只读且被压缩的 Dmg 卷。\n\n为此 Dmg 设置一个卷名或根据你的原文件设置默认名。"; ObjectID = "2189"; */
-"2189.title" = "你将创建一个只读且被压缩的 Dmg 卷。\n\n为此 Dmg 设置一个卷名或根据你的原文件设置默认名。";
+/* Class = "NSTextFieldCell"; title = "你将创建一个只读且被压缩的 DMG 卷。\n\n为此 DMG 设置一个卷名或根据你的原文件设置默认名。"; ObjectID = "2189"; */
+"2189.title" = "你将创建一个只读且被压缩的 DMG 卷。\n\n为此 DMG 设置一个卷名或根据你的原文件设置默认名。";
 
 /* Class = "NSButtonCell"; title = "压缩单个文件"; ObjectID = "2221"; */
 "2221.title" = "压缩单个文件";
@@ -458,17 +458,17 @@
 /* Class = "NSButtonCell"; title = "排除 Mac OS X 资源文件"; ObjectID = "2244"; */
 "2244.title" = "排除 Mac OS X 资源文件";
 
-/* Class = "NSTextFieldCell"; title = "密码:"; ObjectID = "2262"; */
-"2262.title" = "密码:";
+/* Class = "NSTextFieldCell"; title = "密码："; ObjectID = "2262"; */
+"2262.title" = "密码：";
 
-/* Class = "NSTextFieldCell"; title = "分卷:"; ObjectID = "2270"; */
-"2270.title" = "分卷:";
+/* Class = "NSTextFieldCell"; title = "分卷："; ObjectID = "2270"; */
+"2270.title" = "分卷：";
 
-/* Class = "NSComboBoxCell"; placeholderString = "例如: 5 MB"; ObjectID = "2271"; */
-"2271.placeholderString" = "例如: 5 MB";
+/* Class = "NSComboBoxCell"; placeholderString = "例如：5 MB"; ObjectID = "2271"; */
+"2271.placeholderString" = "例如：5 MB";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[0] = "1.4 MB Floppy"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[0]" = "1.4 MB Floppy";
+"2271.ibShadowedObjectValues[0]" = "1.4 MB 软盘";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[1] = "650 MB CD"; ObjectID = "2271"; */
 "2271.ibShadowedObjectValues[1]" = "650 MB CD";
@@ -479,14 +479,14 @@
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[3] = "4.7 GB DVD"; ObjectID = "2271"; */
 "2271.ibShadowedObjectValues[3]" = "4.7 GB DVD";
 
-/* Class = "NSTextFieldCell"; title = "卷名:"; ObjectID = "2343"; */
-"2343.title" = "卷名:";
+/* Class = "NSTextFieldCell"; title = "卷名："; ObjectID = "2343"; */
+"2343.title" = "卷名：";
 
 /* Class = "NSTextFieldCell"; placeholderString = "自定义名称"; ObjectID = "2354"; */
 "2354.placeholderString" = "自定义名称";
 
-/* Class = "NSTextFieldCell"; title = "你将创建一个只读且被压缩的 Iso 卷。Iso 卷只能从文件夹创建。\n\n为此 Iso 设置一个卷名或根据你的原文件设置默认名。"; ObjectID = "2363"; */
-"2363.title" = "你将创建一个只读且被压缩的 Iso 卷。Iso 卷只能从文件夹创建。\n\n为此 Iso 设置一个卷名或根据你的原文件设置默认名。";
+/* Class = "NSTextFieldCell"; title = "你将创建一个只读且被压缩的 ISO 卷。ISO 卷只能从文件夹创建。\n\n为此 ISO 设置一个卷名或根据你的原文件设置默认名。"; ObjectID = "2363"; */
+"2363.title" = "你将创建一个只读且被压缩的 ISO 卷。ISO 卷只能从文件夹创建。\n\n为此 ISO 设置一个卷名或根据你的原文件设置默认名。";
 
 /* Class = "NSTextFieldCell"; title = "存储"; ObjectID = "2390"; */
 "2390.title" = "存储";
@@ -500,8 +500,8 @@
 /* Class = "NSTextFieldCell"; title = "正常"; ObjectID = "2398"; */
 "2398.title" = "正常";
 
-/* Class = "NSTextFieldCell"; title = "压缩方式: Selected"; ObjectID = "2402"; */
-"2402.title" = "压缩方式: 已选择";
+/* Class = "NSTextFieldCell"; title = "压缩方式：已选择"; ObjectID = "2402"; */
+"2402.title" = "压缩方式：已选择";
 
 /* Class = "NSToolbarItem"; label = "Rar"; ObjectID = "2408"; */
 "2408.label" = "Rar";
@@ -509,11 +509,11 @@
 /* Class = "NSToolbarItem"; paletteLabel = "Rar"; ObjectID = "2408"; */
 "2408.paletteLabel" = "Rar";
 
-/* Class = "NSTextFieldCell"; title = "Just wait for an update :)"; ObjectID = "2415"; */
-"2415.title" = "请等待更新 :)";
+/* Class = "NSTextFieldCell"; title = "请等待更新：)"; ObjectID = "2415"; */
+"2415.title" = "请等待更新：)";
 
-/* Class = "NSTextFieldCell"; title = "确认:"; ObjectID = "2426"; */
-"2426.title" = "确认:";
+/* Class = "NSTextFieldCell"; title = "确认："; ObjectID = "2426"; */
+"2426.title" = "确认：";
 
-/* Class = "NSButtonCell"; title = "Use AES-256 encryption"; ObjectID = "Lw7-h9-3Qh"; */
-"Lw7-h9-3Qh.title" = "Use AES-256 encryption";
+/* Class = "NSButtonCell"; title = "使用 AES-256 加密"; ObjectID = "Lw7-h9-3Qh"; */
+"Lw7-h9-3Qh.title" = "使用 AES-256 加密";
