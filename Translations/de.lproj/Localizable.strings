@@ -1,6 +1,7 @@
 "_BASE_USED_" = "de";
-"_ADVANCED_EXTRA_WIDTH_" = "0.0";
-"_PREFERENCES_EXTRA_WIDTH_" = "0.0";
+// Use the _ADVANCED_EXTRA_WIDTH_ to fit the method description properly
+"_ADVANCED_EXTRA_WIDTH_" = "48.0";
+//"_PREFERENCES_EXTRA_WIDTH_" = "0.0";
 "OK" = "OK";
 "Yes" = "Ja";
 "No" = "Nein";
@@ -76,18 +77,13 @@
 " - Remaining: Less than one second" = " - Verbleibend: Weniger als eine Sekunde";
 "Can't show progress time..." = "Zeitfortschritt kann nicht angezeigt werden...";
 "Password for \"%@\"" = "Kennwort für \"%@\"";
+"Method:" = "Methode:";
 "No compression" = "Keine Komprimierung";
 "Fastest, less compression" = "Schnellste, weniger Komprimierung";
 "Fast, less compression" = "Schnell, weniger Komprimierung";
 "Normal" = "Normal";
 "Slow, more compression" = "Langsam, mehr Komprimierung";
 "Slowest, more compression" = "Langsamste, mehr Komprimierung";
-"Method: No compression" = "Methode: Keine Komprimierung";
-"Method: Fastest, less compression" = "Methode: Schnellste, weniger Komprimierung";
-"Method: Fast, less compression" = "Methode: Schnell, weniger Komprimierung";
-"Method: Normal" = "Methode: Normal";
-"Method: Slow, more compression" = "Methode: Langsam, mehr Komprimierung";
-"Method: Slowest, more compression" = "Methode: Langsamste, mehr Komprimierung";
 "Compression" = "Komprimierung";
 "Extraction" = "Entpacken";
 "Keka can't use the \"extlx.plist\" list, please get in contact with the developers.\n\nNow Keka will quit." = "Keka kann die Liste \"extlx.plist\" nicht nutzen, bitte kontaktieren sie die Entwickler.\n\nKeka wird jetzt beendet.";
