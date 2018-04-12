@@ -1,0 +1,9 @@
+Changes in version 1.6:
+
+The option '-l, --list' has been ported from lziprecover.
+
+It is now an error to specify two or more different operations in the
+command line (--decompress, --list or --test).
+
+In test mode, plzip now continues checking the rest of the files if any
+input file is a terminal.
