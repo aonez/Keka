@@ -1,0 +1,97 @@
+Description
+
+Lzlib is a data compression library providing in-memory LZMA compression
+and decompression functions, including integrity checking of the
+decompressed data. The compressed data format used by the library is the
+lzip format. Lzlib is written in C.
+
+The lzip file format is designed for data sharing and long-term
+archiving, taking into account both data integrity and decoder
+availability:
+
+   * The lzip format provides very safe integrity checking and some data
+     recovery means. The lziprecover program can repair bit-flip errors
+     (one of the most common forms of data corruption) in lzip files,
+     and provides data recovery capabilities, including error-checked
+     merging of damaged copies of a file.
+
+   * The lzip format is as simple as possible (but not simpler). The
+     lzip manual provides the source code of a simple decompressor along
+     with a detailed explanation of how it works, so that with the only
+     help of the lzip manual it would be possible for a digital
+     archaeologist to extract the data from a lzip file long after
+     quantum computers eventually render LZMA obsolete.
+
+   * Additionally the lzip reference implementation is copylefted, which
+     guarantees that it will remain free forever.
+
+A nice feature of the lzip format is that a corrupt byte is easier to
+repair the nearer it is from the beginning of the file. Therefore, with
+the help of lziprecover, losing an entire archive just because of a
+corrupt byte near the beginning is a thing of the past.
+
+The functions and variables forming the interface of the compression
+library are declared in the file 'lzlib.h'. Usage examples of the
+library are given in the files 'main.c' and 'bbexample.c' from the
+source distribution.
+
+Compression/decompression is done by repeatedly calling a couple of
+read/write functions until all the data have been processed by the
+library. This interface is safer and less error prone than the
+traditional zlib interface.
+
+Compression/decompression is done when the read function is called. This
+means the value returned by the position functions will not be updated
+until a read call, even if a lot of data are written. If you want the
+data to be compressed in advance, just call the read function with a
+size equal to 0.
+
+If all the data to be compressed are written in advance, lzlib will
+automatically adjust the header of the compressed data to use the
+smallest possible dictionary size. This feature reduces the amount of
+memory needed for decompression and allows minilzip to produce identical
+compressed output as lzip.
+
+Lzlib will correctly decompress a data stream which is the concatenation
+of two or more compressed data streams. The result is the concatenation
+of the corresponding decompressed data streams. Integrity testing of
+concatenated compressed data streams is also supported.
+
+All the library functions are thread safe. The library does not install
+any signal handler. The decoder checks the consistency of the compressed
+data, so the library should never crash even in case of corrupted input.
+
+In spite of its name (Lempel-Ziv-Markov chain-Algorithm), LZMA is not a
+concrete algorithm; it is more like "any algorithm using the LZMA coding
+scheme". For example, the option '-0' of lzip uses the scheme in almost
+the simplest way possible; issuing the longest match it can find, or a
+literal byte if it can't find a match. Inversely, a much more elaborated
+way of finding coding sequences of minimum size than the one currently
+used by lzip could be developed, and the resulting sequence could also
+be coded using the LZMA coding scheme.
+
+Lzlib currently implements two variants of the LZMA algorithm; fast
+(used by option '-0' of minilzip) and normal (used by all other
+compression levels).
+
+The high compression of LZMA comes from combining two basic, well-proven
+compression ideas: sliding dictionaries (LZ77/78) and markov models (the
+thing used by every compression algorithm that uses a range encoder or
+similar order-0 entropy coder as its last stage) with segregation of
+contexts according to what the bits are used for.
+
+The ideas embodied in lzlib are due to (at least) the following people:
+Abraham Lempel and Jacob Ziv (for the LZ algorithm), Andrey Markov (for
+the definition of Markov chains), G.N.N. Martin (for the definition of
+range encoding), Igor Pavlov (for putting all the above together in
+LZMA), and Julian Seward (for bzip2's CLI).
+
+
+Copyright (C) 2009-2017 Antonio Diaz Diaz.
+
+This file is free documentation: you have unlimited permission to copy,
+distribute and modify it.
+
+The file Makefile.in is a data file used by configure to produce the
+Makefile. It has the same copyright owner and permissions that configure
+itself.

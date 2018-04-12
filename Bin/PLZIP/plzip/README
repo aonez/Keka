@@ -1,0 +1,98 @@
+Description
+
+Plzip is a massively parallel (multi-threaded) lossless data compressor
+based on the lzlib compression library, with a user interface similar to
+the one of lzip, bzip2 or gzip.
+
+Plzip can compress/decompress large files on multiprocessor machines
+much faster than lzip, at the cost of a slightly reduced compression
+ratio (0.4 to 2 percent larger compressed files). Note that the number
+of usable threads is limited by file size; on files larger than a few GB
+plzip can use hundreds of processors, but on files of only a few MB
+plzip is no faster than lzip.
+
+When compressing, plzip divides the input file into chunks and
+compresses as many chunks simultaneously as worker threads are chosen,
+creating a multimember compressed file.
+
+When decompressing, plzip decompresses as many members simultaneously as
+worker threads are chosen. Files that were compressed with lzip will not
+be decompressed faster than using lzip (unless the "-b" option was used)
+because lzip usually produces single-member files, which can't be
+decompressed in parallel.
+
+Plzip uses the lzip file format; the files produced by plzip are fully
+compatible with lzip-1.4 or newer, and can be rescued with lziprecover.
+
+The lzip file format is designed for data sharing and long-term
+archiving, taking into account both data integrity and decoder
+availability:
+
+   * The lzip format provides very safe integrity checking and some data
+     recovery means. The lziprecover program can repair bit-flip errors
+     (one of the most common forms of data corruption) in lzip files,
+     and provides data recovery capabilities, including error-checked
+     merging of damaged copies of a file.
+
+   * The lzip format is as simple as possible (but not simpler). The
+     lzip manual provides the source code of a simple decompressor along
+     with a detailed explanation of how it works, so that with the only
+     help of the lzip manual it would be possible for a digital
+     archaeologist to extract the data from a lzip file long after
+     quantum computers eventually render LZMA obsolete.
+
+   * Additionally the lzip reference implementation is copylefted, which
+     guarantees that it will remain free forever.
+
+A nice feature of the lzip format is that a corrupt byte is easier to
+repair the nearer it is from the beginning of the file. Therefore, with
+the help of lziprecover, losing an entire archive just because of a
+corrupt byte near the beginning is a thing of the past.
+
+Plzip uses the same well-defined exit status values used by lzip and
+bzip2, which makes it safer than compressors returning ambiguous warning
+values (like gzip) when it is used as a back end for other programs like
+tar or zutils.
+
+Plzip will automatically use the smallest possible dictionary size for
+each file without exceeding the given limit. Keep in mind that the
+decompression memory requirement is affected at compression time by the
+choice of dictionary size limit.
+
+When compressing, plzip replaces every file given in the command line
+with a compressed version of itself, with the name "original_name.lz".
+When decompressing, plzip attempts to guess the name for the decompressed
+file from that of the compressed file as follows:
+
+filename.lz    becomes   filename
+filename.tlz   becomes   filename.tar
+anyothername   becomes   anyothername.out
+
+(De)compressing a file is much like copying or moving it; therefore plzip
+preserves the access and modification dates, permissions, and, when
+possible, ownership of the file just as "cp -p" does. (If the user ID or
+the group ID can't be duplicated, the file permission bits S_ISUID and
+S_ISGID are cleared).
+
+Plzip is able to read from some types of non regular files if the
+"--stdout" option is specified.
+
+If no file names are specified, plzip compresses (or decompresses) from
+standard input to standard output. In this case, plzip will decline to
+write compressed output to a terminal, as this would be entirely
+incomprehensible and therefore pointless.
+
+Plzip will correctly decompress a file which is the concatenation of two
+or more compressed files. The result is the concatenation of the
+corresponding uncompressed files. Integrity testing of concatenated
+compressed files is also supported.
+
+
+Copyright (C) 2009-2017 Antonio Diaz Diaz.
+
+This file is free documentation: you have unlimited permission to copy,
+distribute and modify it.
+
+The file Makefile.in is a data file used by configure to produce the
+Makefile. It has the same copyright owner and permissions that configure
+itself.
