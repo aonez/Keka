@@ -54,8 +54,8 @@
 "Keka - %i on queue" = "Keka - %i en file d'attente";
 "Keka can't create this ISO image" = "Keka ne peut créer l'image ISO";
 "You can only create an ISO image with a single folder. Try to put all your files in a folder and drop it to Keka to create the ISO image." = "La création d'une image ISO n'accepte qu'un unique dossier. Placez tous vos fichiers dans un même dossier et déposez-le sur Keka pour créer une image ISO.";
-"Keka can't create this xz tarball" = "Keka can't create this xz tarball";
-"This operation is not supported on OS X 10.8.\nPlease update your system or manually create a Tar and then xz it." = "This operation is not supported on OS X 10.8.\nPlease update your system or manually create a Tar and then xz it.";
+"Keka can't create this XZ tarball" = "Keka can't create this XZ tarball";
+"This operation is not supported on OS X 10.8.\nPlease update your system or manually create a TAR and then XZ it." = "This operation is not supported on OS X 10.8.\nPlease update your system or manually create a TAR and then XZ it.";
 "Compress \"%@\" in %@ to..." = "Comprimer \"%@\" dans %@ vers...";
 "Compress in %@ to..." = "Comprimer dans %@ vers ...";
 "Save as:" = "Enregistrer sous:";
