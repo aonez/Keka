@@ -110,7 +110,7 @@ cat &gt;&gt; $file &lt;&lt;EOF
 &lt;/plist&gt;
 EOF
 
-open -a Keka $file</string>
+open -b com.aone.keka $file</string>
 					<key>CheckedForUserDefaultShell</key>
 					<true/>
 					<key>inputMethod</key>
