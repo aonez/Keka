@@ -41,8 +41,8 @@
 /* Class = "NSMenuItem"; title = "Slowest, more compression"; ObjectID = "965"; */
 "965.title" = "Самый медленный (больше сжатие)";
 
-/* Class = "NSTextFieldCell"; title = "You can create a Dmg volume that will be readable only and compressed.\n\nSet a volumename to this Dmg or use the default name based on the files you compress."; ObjectID = "2189"; */
-"2189.title" = "Вы можете создать Dmg-образ диска со сжатием, доступный только для чтения.\n\nУкажите имя для этого Dmg-образа, либо используйте имя по умолчанию на основе сжимаемых файлов.";
+/* Class = "NSTextFieldCell"; title = "You can create a DMG volume that will be readable only and compressed.\n\nSet a volumename to this DMG or use the default name based on the files you compress."; ObjectID = "2189"; */
+"2189.title" = "Вы можете создать DMG-образ диска со сжатием, доступный только для чтения.\n\nУкажите имя для этого DMG-образа, либо используйте имя по умолчанию на основе сжимаемых файлов.";
 
 /* Class = "NSButtonCell"; title = "Archive as single files"; ObjectID = "2221"; */
 "2221.title" = "Пофайловое сжатие";
@@ -80,7 +80,7 @@
 /* Class = "NSTextFieldCell"; placeholderString = "custom name"; ObjectID = "2354"; */
 "2354.placeholderString" = "укажите имя";
 
-/* Class = "NSTextFieldCell"; title = "You can create a Iso volume that will be readable only and compressed. Iso volumes can be only created from a folder.\n\nSet a volume name to this Iso or use the default name based on the files you compress."; ObjectID = "2363"; */
+/* Class = "NSTextFieldCell"; title = "You can create a ISO volume that will be readable only and compressed. ISO volumes can be only created from a folder.\n\nSet a volume name to this ISO or use the default name based on the files you compress."; ObjectID = "2363"; */
 "2363.title" = "Вы можете создать ISO-образ диска со сжатием, доступный только для чтения. ISO-образы могут быть созданы только из папок.\n\nУкажите имя для этого ISO-образа, либо используйте имя по умолчанию на основе сжимаемых файлов.";
 
 /* Class = "NSTextFieldCell"; title = "Store"; ObjectID = "2390"; */

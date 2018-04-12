@@ -41,8 +41,8 @@
 /* Class = "NSMenuItem"; title = "非常慢、高壓縮率"; ObjectID = "965"; */
 "965.title" = "最慢、高壓縮率";
 
-/* Class = "NSTextFieldCell"; title = "您可以建立一個唯讀壓縮 Dmg 光碟映像。\n\n設定映像名稱或根據壓縮檔案產生名稱。"; ObjectID = "2189"; */
-"2189.title" = "您可以建立一個唯讀壓縮 Dmg 光碟映像。\n\n設定映像名稱或根據壓縮檔案產生名稱。";
+/* Class = "NSTextFieldCell"; title = "您可以建立一個唯讀壓縮 DMG 光碟映像。\n\n設定映像名稱或根據壓縮檔案產生名稱。"; ObjectID = "2189"; */
+"2189.title" = "您可以建立一個唯讀壓縮 DMG 光碟映像。\n\n設定映像名稱或根據壓縮檔案產生名稱。";
 
 /* Class = "NSButtonCell"; title = "壓縮單一檔案"; ObjectID = "2221"; */
 "2221.title" = "壓縮單一檔案";
@@ -80,8 +80,8 @@
 /* Class = "NSTextFieldCell"; placeholderString = "自訂名稱"; ObjectID = "2354"; */
 "2354.placeholderString" = "自訂名稱";
 
-/* Class = "NSTextFieldCell"; title = "您可以建立一個唯讀壓縮 Iso 映像。Iso映像只可以壓縮檔案夾。\n\n設定映像名稱或根據壓縮檔案產生名稱。"; ObjectID = "2363"; */
-"2363.title" = "您可以建立一個唯讀的壓縮 Iso 映像。Iso映像只可以壓縮檔案夾。\n\n設定映像名稱或根據壓縮檔案產生名稱。";
+/* Class = "NSTextFieldCell"; title = "您可以建立一個唯讀壓縮 ISO 映像。ISO映像只可以壓縮檔案夾。\n\n設定映像名稱或根據壓縮檔案產生名稱。"; ObjectID = "2363"; */
+"2363.title" = "您可以建立一個唯讀的壓縮 ISO 映像。ISO映像只可以壓縮檔案夾。\n\n設定映像名稱或根據壓縮檔案產生名稱。";
 
 /* Class = "NSTextFieldCell"; title = "儲存"; ObjectID = "2390"; */
 "2390.title" = "儲存";

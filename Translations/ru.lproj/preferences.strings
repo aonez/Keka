@@ -272,5 +272,5 @@
 /* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "b5e-bj-Pgz"; */
 "b5e-bj-Pgz.title" = "Унифицированная панель инструментов (сброс настроек)";
 
-/* Class = "NSButtonCell"; title = "Use AES-256 when encrypting Zip files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
-"hp7-jO-HeV.title" = "Использовать алгоритм AES-256 для шифрования Zip-файлов (меньшая совместимость)";
+/* Class = "NSButtonCell"; title = "Use AES-256 when encrypting ZIP files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
+"hp7-jO-HeV.title" = "Использовать алгоритм AES-256 для шифрования ZIP-файлов (меньшая совместимость)";

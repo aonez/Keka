@@ -347,8 +347,8 @@
 /* Class = "NSMenu"; title = "Format"; ObjectID = "948"; */
 "948.title" = "Format";
 
-/* Class = "NSMenuItem"; title = "7z"; ObjectID = "952"; */
-"952.title" = "7z";
+/* Class = "NSMenuItem"; title = "7Z"; ObjectID = "952"; */
+"952.title" = "7Z";
 
 /* Class = "NSMenuItem"; title = "zip"; ObjectID = "953"; */
 "953.title" = "zip";
@@ -386,11 +386,11 @@
 /* Class = "NSMenuItem"; title = "Najwyższy stopień kompresji"; ObjectID = "965"; */
 "965.title" = "Najwyższy stopień kompresji";
 
-/* Class = "NSToolbarItem"; label = "7z"; ObjectID = "1800"; */
-"1800.label" = "7z";
+/* Class = "NSToolbarItem"; label = "7Z"; ObjectID = "1800"; */
+"1800.label" = "7Z";
 
-/* Class = "NSToolbarItem"; paletteLabel = "7z"; ObjectID = "1800"; */
-"1800.paletteLabel" = "7z";
+/* Class = "NSToolbarItem"; paletteLabel = "7Z"; ObjectID = "1800"; */
+"1800.paletteLabel" = "7Z";
 
 /* Class = "NSToolbarItem"; label = "zip"; ObjectID = "1801"; */
 "1801.label" = "zip";
