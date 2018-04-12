@@ -1,0 +1,121 @@
+Description
+
+Lzip is a lossless data compressor with a user interface similar to the
+one of gzip or bzip2. Lzip can compress about as fast as gzip (lzip -0),
+or compress most files more than bzip2 (lzip -9). Decompression speed is
+intermediate between gzip and bzip2. Lzip is better than gzip and bzip2
+from a data recovery perspective.
+
+The lzip file format is designed for data sharing and long-term
+archiving, taking into account both data integrity and decoder
+availability:
+
+   * The lzip format provides very safe integrity checking and some data
+     recovery means. The lziprecover program can repair bit-flip errors
+     (one of the most common forms of data corruption) in lzip files,
+     and provides data recovery capabilities, including error-checked
+     merging of damaged copies of a file.
+
+   * The lzip format is as simple as possible (but not simpler). The
+     lzip manual provides the source code of a simple decompressor along
+     with a detailed explanation of how it works, so that with the only
+     help of the lzip manual it would be possible for a digital
+     archaeologist to extract the data from a lzip file long after
+     quantum computers eventually render LZMA obsolete.
+
+   * Additionally the lzip reference implementation is copylefted, which
+     guarantees that it will remain free forever.
+
+A nice feature of the lzip format is that a corrupt byte is easier to
+repair the nearer it is from the beginning of the file. Therefore, with
+the help of lziprecover, losing an entire archive just because of a
+corrupt byte near the beginning is a thing of the past.
+
+Lzip uses the same well-defined exit status values used by bzip2, which
+makes it safer than compressors returning ambiguous warning values (like
+gzip) when it is used as a back end for other programs like tar or
+zutils.
+
+Lzip will automatically use the smallest possible dictionary size for
+each file without exceeding the given limit. Keep in mind that the
+decompression memory requirement is affected at compression time by the
+choice of dictionary size limit.
+
+The amount of memory required for compression is about 1 or 2 times the
+dictionary size limit (1 if input file size is less than dictionary size
+limit, else 2) plus 9 times the dictionary size really used. The option
+'-0' is special and only requires about 1.5 MiB at most. The amount of
+memory required for decompression is about 46 kB larger than the
+dictionary size really used.
+
+When compressing, lzip replaces every file given in the command line
+with a compressed version of itself, with the name "original_name.lz".
+When decompressing, lzip attempts to guess the name for the decompressed
+file from that of the compressed file as follows:
+
+filename.lz    becomes   filename
+filename.tlz   becomes   filename.tar
+anyothername   becomes   anyothername.out
+
+(De)compressing a file is much like copying or moving it; therefore lzip
+preserves the access and modification dates, permissions, and, when
+possible, ownership of the file just as "cp -p" does. (If the user ID or
+the group ID can't be duplicated, the file permission bits S_ISUID and
+S_ISGID are cleared).
+
+Lzip is able to read from some types of non regular files if the
+"--stdout" option is specified.
+
+If no file names are specified, lzip compresses (or decompresses) from
+standard input to standard output. In this case, lzip will decline to
+write compressed output to a terminal, as this would be entirely
+incomprehensible and therefore pointless.
+
+Lzip will correctly decompress a file which is the concatenation of two
+or more compressed files. The result is the concatenation of the
+corresponding uncompressed files. Integrity testing of concatenated
+compressed files is also supported.
+
+Lzip can produce multimember files, and lziprecover can safely recover
+the undamaged members in case of file damage. Lzip can also split the
+compressed output in volumes of a given size, even when reading from
+standard input. This allows the direct creation of multivolume
+compressed tar archives.
+
+Lzip is able to compress and decompress streams of unlimited size by
+automatically creating multimember output. The members so created are
+large, about 2 PiB each.
+
+In spite of its name (Lempel-Ziv-Markov chain-Algorithm), LZMA is not a
+concrete algorithm; it is more like "any algorithm using the LZMA coding
+scheme". For example, the option '-0' of lzip uses the scheme in almost
+the simplest way possible; issuing the longest match it can find, or a
+literal byte if it can't find a match. Inversely, a much more elaborated
+way of finding coding sequences of minimum size than the one currently
+used by lzip could be developed, and the resulting sequence could also
+be coded using the LZMA coding scheme.
+
+Lzip currently implements two variants of the LZMA algorithm; fast
+(used by option '-0') and normal (used by all other compression levels).
+
+The high compression of LZMA comes from combining two basic, well-proven
+compression ideas: sliding dictionaries (LZ77/78) and markov models (the
+thing used by every compression algorithm that uses a range encoder or
+similar order-0 entropy coder as its last stage) with segregation of
+contexts according to what the bits are used for.
+
+The ideas embodied in lzip are due to (at least) the following people:
+Abraham Lempel and Jacob Ziv (for the LZ algorithm), Andrey Markov (for
+the definition of Markov chains), G.N.N. Martin (for the definition of
+range encoding), Igor Pavlov (for putting all the above together in
+LZMA), and Julian Seward (for bzip2's CLI).
+
+
+Copyright (C) 2008-2017 Antonio Diaz Diaz.
+
+This file is free documentation: you have unlimited permission to copy,
+distribute and modify it.
+
+The file Makefile.in is a data file used by configure to produce the
+Makefile. It has the same copyright owner and permissions that configure
+itself.

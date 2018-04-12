@@ -1,0 +1,16 @@
+Changes in version 1.19:
+
+The option '-l, --list' has been ported from lziprecover.
+
+It is now an error to specify two or more different operations in the
+command line (--decompress, --list or --test).
+
+Compression time of option '-0' has been slightly reduced.
+
+Decompression time has been reduced by 2%.
+
+In test mode, lzip now continues checking the rest of the files if any
+input file is a terminal.
+
+Trailing data are now shown both in hexadecimal and as a string of
+printable ASCII characters.
