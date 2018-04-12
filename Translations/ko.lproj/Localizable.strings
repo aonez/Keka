@@ -54,8 +54,8 @@
 "Keka - %i on queue" = "Keka - %i on queue";
 "Keka can't create this ISO image" = "Keka가 이 ISO 볼륨을 만들 수 없습니다";
 "You can only create an ISO image with a single folder. Try to put all your files in a folder and drop it to Keka to create the ISO image." = "ISO 이미지는 단일 폴더로만 생성이 가능합니다. 모든 파일들을 하나의 폴더에 넣은 뒤 다시 시도하세요.";
-"Keka can't create this xz tarball" = "Keka can't create this xz tarball";
-"This operation is not supported on OS X 10.8.\nPlease update your system or manually create a Tar and then xz it." = "This operation is not supported on OS X 10.8.\nPlease update your system or manually create a Tar and then xz it.";
+"Keka can't create this XZ tarball" = "Keka can't create this XZ tarball";
+"This operation is not supported on OS X 10.8.\nPlease update your system or manually create a TAR and then XZ it." = "This operation is not supported on OS X 10.8.\nPlease update your system or manually create a TAR and then XZ it.";
 "Compress \"%@\" in %@ to..." = "\"%@\"을(를) %@ 형식으로 압축하기...";
 "Compress in %@ to..." = "%@ 형식으로 압축하기...";
 "Save as:" = "다른 이름으로 저장:";

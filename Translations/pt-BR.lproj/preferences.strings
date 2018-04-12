@@ -29,21 +29,6 @@
 /* Class = "NSMenuItem"; title = "Lento, mais compressão"; ObjectID = "169"; */
 "169.title" = "Lento, mais compressão";
 
-/* Class = "NSMenuItem"; title = "7z"; ObjectID = "172"; */
-"172.title" = "7z";
-
-/* Class = "NSMenuItem"; title = "Zip"; ObjectID = "173"; */
-"173.title" = "Zip";
-
-/* Class = "NSMenuItem"; title = "Tar"; ObjectID = "174"; */
-"174.title" = "Tar";
-
-/* Class = "NSMenuItem"; title = "Gzip"; ObjectID = "175"; */
-"175.title" = "Gzip";
-
-/* Class = "NSMenuItem"; title = "Iso"; ObjectID = "176"; */
-"176.title" = "Iso";
-
 /* Class = "NSButtonCell"; title = "Definir Keka como gestor de arquivos comprimidos"; ObjectID = "184"; */
 "184.title" = "Definir Keka como gestor de arquivos comprimidos";
 
@@ -121,12 +106,6 @@
 
 /* Class = "NSToolbarItem"; paletteLabel = "Extração"; ObjectID = "338"; */
 "338.paletteLabel" = "Extração";
-
-/* Class = "NSMenuItem"; title = "Dmg"; ObjectID = "347"; */
-"347.title" = "Dmg";
-
-/* Class = "NSMenuItem"; title = "Bzip2"; ObjectID = "348"; */
-"348.title" = "Bzip2";
 
 /* Class = "NSBox"; title = "Location"; ObjectID = "352"; */
 "352.title" = "Location";
@@ -266,5 +245,5 @@
 /* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "b5e-bj-Pgz"; */
 "b5e-bj-Pgz.title" = "Use unified toolbar (resets customizations)";
 
-/* Class = "NSButtonCell"; title = "Use AES-256 when encrypting Zip files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
-"hp7-jO-HeV.title" = "Use AES-256 when encrypting Zip files (less compatible)";
+/* Class = "NSButtonCell"; title = "Use AES-256 when encrypting ZIP files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
+"hp7-jO-HeV.title" = "Use AES-256 when encrypting ZIP files (less compatible)";

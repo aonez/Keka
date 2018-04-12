@@ -29,21 +29,6 @@
 /* Class = "NSMenuItem"; title = "遅い、圧縮率は高い"; ObjectID = "169"; */
 "169.title" = "遅い、圧縮率は高い";
 
-/* Class = "NSMenuItem"; title = "7z"; ObjectID = "172"; */
-"172.title" = "7z";
-
-/* Class = "NSMenuItem"; title = "Zip"; ObjectID = "173"; */
-"173.title" = "Zip";
-
-/* Class = "NSMenuItem"; title = "Tar"; ObjectID = "174"; */
-"174.title" = "Tar";
-
-/* Class = "NSMenuItem"; title = "Gzip"; ObjectID = "175"; */
-"175.title" = "Gzip";
-
-/* Class = "NSMenuItem"; title = "Iso"; ObjectID = "176"; */
-"176.title" = "Iso";
-
 /* Class = "NSButtonCell"; title = "Keka を圧縮・解凍ツールのデフォルトに設定する"; ObjectID = "184"; */
 "184.title" = "Keka を圧縮・解凍ツールのデフォルトに設定する";
 
@@ -124,12 +109,6 @@
 
 /* Class = "NSToolbarItem"; paletteLabel = "解凍"; ObjectID = "338"; */
 "338.paletteLabel" = "解凍";
-
-/* Class = "NSMenuItem"; title = "Dmg"; ObjectID = "347"; */
-"347.title" = "Dmg";
-
-/* Class = "NSMenuItem"; title = "Bzip2"; ObjectID = "348"; */
-"348.title" = "Bzip2";
 
 /* Class = "NSBox"; title = "保存先の場所"; ObjectID = "352"; */
 "352.title" = "保存先の場所";
@@ -269,5 +248,5 @@
 /* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "b5e-bj-Pgz"; */
 "b5e-bj-Pgz.title" = "Use unified toolbar (resets customizations)";
 
-/* Class = "NSButtonCell"; title = "Use AES-256 when encrypting Zip files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
-"hp7-jO-HeV.title" = "Use AES-256 when encrypting Zip files (less compatible)";
+/* Class = "NSButtonCell"; title = "Use AES-256 when encrypting ZIP files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
+"hp7-jO-HeV.title" = "Use AES-256 when encrypting ZIP files (less compatible)";

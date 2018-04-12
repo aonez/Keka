@@ -272,5 +272,5 @@
 /* Class = "NSButtonCell"; title = "Utilitza la barra d'eines unificada (reinicia la personalització)"; ObjectID = "b5e-bj-Pgz"; */
 "b5e-bj-Pgz.title" = "Utilitza la barra d'eines unificada (reinicia la personalització)";
 
-/* Class = "NSButtonCell"; title = "Utilitza AES-256 en xifrant arxius Zip (menys compatibilitat)"; ObjectID = "hp7-jO-HeV"; */
-"hp7-jO-HeV.title" = "Utilitza AES-256 xifrant arxius Zip (compatibilitat menor)";
+/* Class = "NSButtonCell"; title = "Utilitza AES-256 en xifrant arxius ZIP (menys compatibilitat)"; ObjectID = "hp7-jO-HeV"; */
+"hp7-jO-HeV.title" = "Utilitza AES-256 xifrant arxius ZIP (compatibilitat menor)";
