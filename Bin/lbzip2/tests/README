@@ -1,0 +1,88 @@
+Test cases for lbzip2.                                          -*- outline -*-
+
+
+* Compressor tests
+
+** fib
+
+   Check how compressor copes with a Fibonacci word on input. I think that
+   Fibonacci word is the worst case for some BWT implementations.
+
+** repet
+
+   Check how compressor handles very repetitive data (a sequence of alternating
+   two different characters). This seems to be the worst case for some bzip2
+   implementations (like ant).
+
+
+* Decompressor tests
+
+** 32767
+
+   Test if decompressor supports blocks with more than 18001 selectors
+   (in particular 32767 selectors). Some implementations (p7zip, ant)
+   choke on this.
+
+** ch255
+
+   Test how decompressor copes with a `zip bomb'.
+
+** codelen20
+
+   Check if decompressor correctly handles 20-bit prefix codes.
+
+** concat
+
+   Check whether decompressor supports concatenated bzip2 streams. Some
+   implementations don't support that (including older versions of the
+   original bzip2).
+
+** crc1
+
+   Determine whether decompressor checks block CRCs. Some old versions
+   of yambi didn't check them.
+
+** crc2
+
+   Determine whether decompressor checks stream CRCs. Pre-2.0 versions
+   of lbzip2 don't check stream CRC.
+
+** cve
+
+   Test if decompressor is vulnerable to CVE-2010-0405 (integer overflow
+   in BZ2_decompress). Most decompressors based on bzip2-1.0.5 or earlier
+   are vulnerable.
+
+** empty
+
+   Check if decompressor supports empty compressed files.
+
+** gap
+
+   Check if decompressor allows a gap consisting of garbage bytes between
+   bzip2 streams. Pre-2.0 lbzip2 allows that.
+
+** incomp-[12]
+
+   Check if cyclic, non-randomized files are supported. See comments in
+   `incomp' file for more infomation.
+
+** overrun
+
+   Check if decompressor correctly rejects blocks that overrun maximal block
+   size declared in bzip2 header. Pre-2.0 lbzip2 bounded block sizes on a flat
+   value of 900000, ignoring the information in stream header.
+
+** rand
+
+   Check if decompressor supports randomized blocks. Old yambi versions lacked
+   that. Some implementations (eg. busybox) don't seem to care about
+   randomized blocks at all.
+
+** trash
+
+   Check if decompressor ignores trailing garbage after bzip2 stream.
+
+** void
+
+   Check if decompressor treats empty bz2 files as empty streams.
