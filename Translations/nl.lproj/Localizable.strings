@@ -1,7 +1,7 @@
 "_BASE_USED_" = "nl";
-// Use the _ADVANCED_EXTRA_WIDTH_ to fit the method description properly
+/* Use the _ADVANCED_EXTRA_WIDTH_ (if needed) to fit the method description properly */
 "_ADVANCED_EXTRA_WIDTH_" = "0.0";
-//"_PREFERENCES_EXTRA_WIDTH_" = "0.0";
+/* "_PREFERENCES_EXTRA_WIDTH_" = "0.0"; */
 "OK" = "OK";
 "Yes" = "Ja";
 "No" = "Nee";
@@ -24,7 +24,6 @@
 "Compression fail" = "Inpakken mislukt";
 "File \"%@\" cannot be created" = "Bestand \"%@\" kan niet worden aangemaakt";
 "Operation not implemented" = "Actie niet ingebouwd";
-"This operation is not implemented yet so Keka is in beta process." = "Deze actie is nog niet ingebouwd, dus Keka is in beta-modus.";
 "Performing operation..." = "Actie wordt uitgevoerd...";
 "Waiting..." = "Wachten...";
 "Extracting \"%@\"" = "Uitpakken \"%@\"";

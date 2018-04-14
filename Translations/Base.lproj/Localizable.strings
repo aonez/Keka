@@ -1,7 +1,7 @@
 "_BASE_USED_" = "en";
-// Use the _ADVANCED_EXTRA_WIDTH_ to fit the method description properly
+/* Use the _ADVANCED_EXTRA_WIDTH_ (if needed) to fit the method description properly */
 "_ADVANCED_EXTRA_WIDTH_" = "0.0";
-//"_PREFERENCES_EXTRA_WIDTH_" = "0.0";
+/* "_PREFERENCES_EXTRA_WIDTH_" = "0.0"; */
 "OK" = "OK";
 "Yes" = "Yes";
 "No" = "No";
@@ -24,7 +24,6 @@
 "Compression fail" = "Compression failed";
 "File \"%@\" cannot be created" = "File \"%@\" cannot be created";
 "Operation not implemented" = "Operation not implemented";
-"This operation is not implemented yet so Keka is in beta process." = "This operation is not implemented yet as Keka is in Beta.";
 "Performing operation..." = "Performing operation...";
 "Waiting..." = "Waiting...";
 "Extracting \"%@\"" = "Extracting \"%@\"";
