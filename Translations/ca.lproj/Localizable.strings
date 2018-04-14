@@ -1,7 +1,7 @@
 "_BASE_USED_" = "ca";
-// Use the _ADVANCED_EXTRA_WIDTH_ to fit the method description properly
+/* Use the _ADVANCED_EXTRA_WIDTH_ (if needed) to fit the method description properly */
 "_ADVANCED_EXTRA_WIDTH_" = "5.0";
-//"_PREFERENCES_EXTRA_WIDTH_" = "0.0";
+/* "_PREFERENCES_EXTRA_WIDTH_" = "0.0"; */
 "OK" = "D'acord";
 "Yes" = "Sí";
 "No" = "No";
@@ -24,7 +24,6 @@
 "Compression fail" = "Compressió fallida";
 "File \"%@\" cannot be created" = "No es pot crear l'arxiu «%@»";
 "Operation not implemented" = "Operació no implementada";
-"This operation is not implemented yet so Keka is in beta process." = "Aquesta operació encara no s'ha implementat a la versió beta del Keka.";
 "Performing operation..." = "Operació en curs...";
 "Waiting..." = "S'està esperant...";
 "Extracting \"%@\"" = "Extracció de: «%@»";

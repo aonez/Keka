@@ -1,7 +1,7 @@
 "_BASE_USED_" = "hu";
-// Use the _ADVANCED_EXTRA_WIDTH_ to fit the method description properly
+/* Use the _ADVANCED_EXTRA_WIDTH_ (if needed) to fit the method description properly */
 "_ADVANCED_EXTRA_WIDTH_" = "0.0";
-//"_PREFERENCES_EXTRA_WIDTH_" = "0.0";
+/* "_PREFERENCES_EXTRA_WIDTH_" = "0.0"; */
 "OK" = "OK";
 "Yes" = "Igen";
 "No" = "Nem";
@@ -16,15 +16,14 @@
 "File \"%@\" needs a password to be extracted" = "A \"%@\" fájl kibontásához jelszóra van szükség";
 "Extraction of \"%@\" done" = "\"%@\" kibontása kész.";
 "Extraction of \"%@\" failed." = "\"%@\" kibontása sikertelen.";
-"Extraction complete" = "Kibontás kész";
 "Extraction of %i files done" = "Extraction of %i files done";
+"Extraction complete" = "Kibontás kész";
 "Extraction fail" = "A kibontás során hiba lépett fel";
 "Compression complete" = "Tömörítés kész";
 "File \"%@\" created" = "\"%@\" létrehozva";
 "Compression fail" = "A tömörítés során hiba lépett fel";
 "File \"%@\" cannot be created" = "\"%@\" nem hozható létre";
 "Operation not implemented" = "A funkció még nincs a programban";
-"This operation is not implemented yet so Keka is in beta process." = "Mivel ezen Keka beta kiadású még lehetnek nem befejezett funkciói.";
 "Performing operation..." = "Művelet előkészítése...";
 "Waiting..." = "Várakozás...";
 "Extracting \"%@\"" = "\"%@\" kibontása";
@@ -77,18 +76,13 @@
 " - Remaining: Less than one second" = " - Hátralévő idő: Kevesebb mint egy perc";
 "Can't show progress time..." = "Nem kiírható…";
 "Password for \"%@\"" = "\"%@\" jelszava";
+"Method:" = "Mód:";
 "No compression" = "Nincs tömörítés";
 "Fastest, less compression" = "Gyors, Legkevesebb tömörítés";
 "Fast, less compression" = "Kevés tömörítés";
 "Normal" = "Normál";
 "Slow, more compression" = "Jobb tömörítés";
 "Slowest, more compression" = "Lassú, legjobb tömörítés";
-"Method: No compression" = "Mód: Nincs tömörítés";
-"Method: Fastest, less compression" = "Mód: Legkevesebb tömörítés";
-"Method: Fast, less compression" = "Mód: Kevés tömörítés";
-"Method: Normal" = "Mód: Normál";
-"Method: Slow, more compression" = "Mód: Jobb tömörítés";
-"Method: Slowest, more compression" = "Mód: Legjobb tömörítés";
 "Compression" = "Tömörítés";
 "Extraction" = "Kibontás";
 "Keka can't use the \"extlx.plist\" list, please get in contact with the developers.\n\nNow Keka will quit." = "A Keka nem tudja használni a \"extlx.plist\" fájlt, lépj kapcsolatba a fejlesztővel.\n\nA Keka most kilép.";
