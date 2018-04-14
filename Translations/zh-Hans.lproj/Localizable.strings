@@ -1,7 +1,7 @@
 "_BASE_USED_" = "zh-Hans";
-// Use the _ADVANCED_EXTRA_WIDTH_ to fit the method description properly
+/* Use the _ADVANCED_EXTRA_WIDTH_ (if needed) to fit the method description properly */
 "_ADVANCED_EXTRA_WIDTH_" = "0.0";
-//"_PREFERENCES_EXTRA_WIDTH_" = "0.0";
+/* "_PREFERENCES_EXTRA_WIDTH_" = "0.0"; */
 "OK" = "好";
 "Yes" = "是";
 "No" = "否";
@@ -24,7 +24,6 @@
 "Compression fail" = "压缩失败";
 "File \"%@\" cannot be created" = "文件 \"%@\" 不能被创建";
 "Operation not implemented" = "操作未执行";
-"This operation is not implemented yet so Keka is in beta process." = "这个操作还没有执行因为 Keka 正处于测试阶段.";
 "Performing operation..." = "正在执行操作...";
 "Waiting..." = "请稍候...";
 "Extracting \"%@\"" = "正在解压 \"%@\"";

@@ -1,7 +1,7 @@
 "_BASE_USED_" = "ru";
-// Use the _ADVANCED_EXTRA_WIDTH_ to fit the method description properly
+/* Use the _ADVANCED_EXTRA_WIDTH_ (if needed) to fit the method description properly */
 "_ADVANCED_EXTRA_WIDTH_" = "50.0";
-//"_PREFERENCES_EXTRA_WIDTH_" = "0.0";
+/* "_PREFERENCES_EXTRA_WIDTH_" = "0.0"; */
 "OK" = "Да";
 "Yes" = "Да";
 "No" = "Нет";
@@ -24,7 +24,6 @@
 "Compression fail" = "Не удалось сжать файл(ы)";
 "File \"%@\" cannot be created" = "Не удалось создать файл \"%@\" ";
 "Operation not implemented" = "Операция не реализована";
-"This operation is not implemented yet so Keka is in beta process." = "Данная операция еще не реализована в бета-версии Keka.";
 "Performing operation..." = "Выполнение операции...";
 "Waiting..." = "Ожидание...";
 "Extracting \"%@\"" = "Распаковка \"%@\"";
