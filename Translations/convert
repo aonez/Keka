@@ -31,8 +31,6 @@ if [ $xcode -eq 1 ]; then
 	YELLOW=''
 	WHITE=''
 	NC=''
-else
-	clear
 fi
 
 someError=0
@@ -52,6 +50,21 @@ for f in *.*; do
 	
 	for t in ${f}/*.strings; do
 		
+		md5="$(md5 "${t}" | cut -d'=' -f 2)"
+		md5="${md5## }"
+		md5file=${f}/.${t#${f}/}.conversion.md5
+		if [ ! -f "${md5file}" ]; then
+			echo $md5 > "${md5file}"
+		else
+			md5old="$(cat "${md5file}")"
+			if [[ $md5 == $md5old ]]; then
+				unset md5old
+				continue
+			else
+				echo $md5 > "${md5file}"
+			fi
+		fi
+
 		n=${t#$f/} # file name
 		echo -e -n "${n}"
 		
@@ -77,12 +90,14 @@ for f in *.*; do
 				convFrom="-f ${charset}"
 			fi
 			conv="$( { iconv $convFrom -t utf-8 < ${t} > ${t}.tmp; } 2>&1 )"
-			
+			echo $md5 > "${md5file}"
+
 		    if [ $? -eq 0 ]; then
 				mv -f ${t}.tmp ${t}
 				echo -e -n " > ${GREEN}UTF-8${NC}"
 			else
 				someNoUTF8=1
+				rm "${md5file}"
 				echo -e -n " > ${RED}${charset} !!!${NC} > ${ORANGE}${conv}${NC}"
 			fi
 		fi
@@ -91,6 +106,7 @@ for f in *.*; do
 		if [[ ${enc} = *"regexec error"* ]]; then
 			error=1
 			someError=1
+			rm "${md5file}"
 			encErr="$( echo ${enc#*"ERROR: "} | cut -d';' -f1 )"
 			echo -e -n " > ${RED}Error: ${ORANGE}${encErr}${NC}"
 		fi
@@ -114,5 +130,7 @@ elif [ $someError -eq 1 ]; then
 	echo -e "${RED}There are some files with some errors${NC}"
 	exit 1
 fi
+
+echo
 
 exit
