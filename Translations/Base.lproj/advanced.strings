@@ -1,6 +1,3 @@
-﻿
-/* Class = "NSMenu"; title = "Dock Menu"; ObjectID = "942"; */
-"942.title" = "Dock Menu";
 
 /* Class = "NSMenuItem"; title = "Perform automatic action"; ObjectID = "943"; */
 "943.title" = "Perform automatic action";
@@ -106,9 +103,6 @@
 
 /* Class = "NSButtonCell"; title = "Use AES-256 encryption"; ObjectID = "Lw7-h9-3Qh"; */
 "Lw7-h9-3Qh.title" = "Use AES-256 encryption";
-
-/* Class = "NSWindow"; title = "Keka"; ObjectID = "RXN-3Y-Yyn"; */
-"RXN-3Y-Yyn.title" = "Keka";
 
 /* Class = "NSButtonCell"; title = "Solid archive"; ObjectID = "UYy-aQ-V1a"; */
 "UYy-aQ-V1a.title" = "Solid archive";
