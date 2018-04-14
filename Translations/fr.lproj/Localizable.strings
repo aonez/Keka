@@ -121,5 +121,5 @@
 "Bad password, try again" = "Mot de passe incorrect, veuillez recommencer";
 "This archive is locked" = "Cette archive est verrouillée";
 "Write error. No permission? No space left?" = "Erreur d'écriture. Pas de permission ? Pas d'espace libre ?";
-"Can't open the file, maybe it's not accesible" = "Echec d'ouverture du fichier, le fichier n'est peut-être pas accessible";
+"Can't open the file, maybe it's not accessible" = "Echec d'ouverture du fichier, le fichier n'est peut-être pas accessible";
 "No files matching the mask" = "Aucun fichier ne correspond au filtre";
