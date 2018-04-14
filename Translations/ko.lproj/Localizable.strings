@@ -103,6 +103,7 @@
 "4.7 GB DVD" = "4.7 GB DVD";
 "Drop here to extract" = "압축을 푸려면 여기에 끌어 놓으세요";
 "Drop here to compress" = "압축을 하려면 여기에 끌어 놓으세요";
+"Binary \"%@\" is not accessible" = "Binary \"%@\" is not accessible";
 "The first part \"%@\" can't be found" = "The first part \"%@\" can't be found";
 "unknown" = "알 수 없음";
 "Unknown error" = "알 수 없는 오류";
