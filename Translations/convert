@@ -10,11 +10,15 @@ NC='\033[0m' # No Color
 cd "${0%/*}"
 
 xcode=0
+onlyBase=0
 
 for var in "$@"
 do
 	if [ "$var" == "-xcode" ]; then
 		xcode=1
+		continue
+	elif [ "$var" == "-onlyBase" ]; then
+		onlyBase=1
 		continue
 	fi
 done
@@ -37,6 +41,10 @@ someNoUTF8=0
 for f in *.*; do
 	
 	if [ ! -d ${f} ]; then
+		continue
+	fi
+	
+	if [ $onlyBase -eq 1 ] && [[ ${f} != "Base.strings" ]]; then
 		continue
 	fi
 	
