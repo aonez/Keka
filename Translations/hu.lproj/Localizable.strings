@@ -103,6 +103,7 @@
 "4.7 GB DVD" = "4.7 GB DVD";
 "Drop here to extract" = "Bobd ide a kibontáshoz";
 "Drop here to compress" = "Bobd ide a tömörítéshez";
+"Binary \"%@\" is not accessible" = "Binary \"%@\" is not accessible";
 "The first part \"%@\" can't be found" = "Az első darab \"%@\" nem található";
 "unknown" = "ismeretlen";
 "Unknown error" = "Ismeretlen hiba";
