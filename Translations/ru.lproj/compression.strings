@@ -1,9 +1,0 @@
-
-/* Class = "NSTextFieldCell"; title = "Timer status"; ObjectID = "62"; */
-"62.title" = "Статус таймера";
-
-/* Class = "NSTextFieldCell"; title = "Status Text"; ObjectID = "63"; */
-"63.title" = "Текст состояния";
-
-/* Class = "NSTextFieldCell"; title = "Multiline Label"; ObjectID = "92"; */
-"92.title" = "Многострочный заголовок";

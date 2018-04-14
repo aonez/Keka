@@ -2,115 +2,97 @@
 /* Class = "NSBox"; title = "Format"; ObjectID = "153"; */
 "153.title" = "Format";
 
-/* Class = "NSTextFieldCell"; title = "Format per defecte:"; ObjectID = "159"; */
+/* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
 "159.title" = "Format per defecte:";
 
-/* Class = "NSTextFieldCell"; title = "Mètode per defecte:"; ObjectID = "160"; */
+/* Class = "NSTextFieldCell"; title = "Default method:"; ObjectID = "160"; */
 "160.title" = "Mètode per defecte:";
 
-/* Class = "NSTextFieldCell"; title = "Això només s'aplica quan el Keka no està obert"; ObjectID = "161"; */
+/* Class = "NSTextFieldCell"; title = "Those are only applied when Keka is not open"; ObjectID = "161"; */
 "161.title" = "Això només s'aplica quan el Keka no està obert";
 
-/* Class = "NSMenu"; title = "Altres visualitzacions"; ObjectID = "163"; */
-"163.title" = "Altres visualitzacions";
-
-/* Class = "NSMenuItem"; title = "Sense compressió"; ObjectID = "164"; */
+/* Class = "NSMenuItem"; title = "No compression"; ObjectID = "164"; */
 "164.title" = "Sense compressió";
 
-/* Class = "NSMenuItem"; title = "Ràpida, compressió menor"; ObjectID = "165"; */
+/* Class = "NSMenuItem"; title = "Fast, less compression"; ObjectID = "165"; */
 "165.title" = "Ràpida, compressió menor";
 
 /* Class = "NSMenuItem"; title = "Normal"; ObjectID = "166"; */
 "166.title" = "Normal";
 
-/* Class = "NSMenuItem"; title = "Molt ràpida, poca compressió"; ObjectID = "167"; */
+/* Class = "NSMenuItem"; title = "Fastest, less compression"; ObjectID = "167"; */
 "167.title" = "Molt ràpida, poca compressió";
 
-/* Class = "NSMenuItem"; title = "Molt lenta, compressió ultra"; ObjectID = "168"; */
+/* Class = "NSMenuItem"; title = "Slowest, more compression"; ObjectID = "168"; */
 "168.title" = "Molt lenta, compressió ultra";
 
-/* Class = "NSMenuItem"; title = "Lenta, compressió màxima"; ObjectID = "169"; */
+/* Class = "NSMenuItem"; title = "Slow, more compression"; ObjectID = "169"; */
 "169.title" = "Lenta, compressió màxima";
 
-/* Class = "NSMenu"; title = "Altres visualitzacions"; ObjectID = "171"; */
-"171.title" = "Altres visualitzacions";
-
-/* Class = "NSButtonCell"; title = "Fés que el Keka sigui el des/compressor per defecte"; ObjectID = "184"; */
+/* Class = "NSButtonCell"; title = "Set Keka as default compressor/uncompressor"; ObjectID = "184"; */
 "184.title" = "Fés que el Keka sigui el des/compressor per defecte";
 
-/* Class = "NSButtonCell"; title = "Tanca el Keka si no hi ha cap finestra visible"; ObjectID = "187"; */
+/* Class = "NSButtonCell"; title = "Close Keka when no windows are open"; ObjectID = "187"; */
 "187.title" = "Tanca el Keka si no hi ha cap finestra visible";
 
-/* Class = "NSBox"; title = "Accions"; ObjectID = "191"; */
+/* Class = "NSBox"; title = "Actions"; ObjectID = "191"; */
 "191.title" = "Accions";
 
-/* Class = "NSTextFieldCell"; title = "Acció automàtica: depenent del tipus d'extensió, el Keka decideix si comprimir o descomprimir."; ObjectID = "194"; */
+/* Class = "NSTextFieldCell"; title = "Automatic action: Keka will decide whether to compress or uncompress based on file format and extension"; ObjectID = "194"; */
 "194.title" = "Acció automàtica: depenent del tipus d'extensió, el Keka decideix si comprimir o descomprimir.";
 
-/* Class = "NSMenu"; title = "Altres visualitzacions"; ObjectID = "196"; */
-"196.title" = "Altres visualitzacions";
-
-/* Class = "NSMenuItem"; title = "Extreu sempre"; ObjectID = "197"; */
+/* Class = "NSMenuItem"; title = "Always extract"; ObjectID = "197"; */
 "197.title" = "Extreu sempre";
 
-/* Class = "NSMenuItem"; title = "Comprimeix sempre"; ObjectID = "198"; */
+/* Class = "NSMenuItem"; title = "Always compress"; ObjectID = "198"; */
 "198.title" = "Comprimeix sempre";
 
-/* Class = "NSMenuItem"; title = "Realitza l'acció automàtica"; ObjectID = "199"; */
+/* Class = "NSMenuItem"; title = "Perform automatic action"; ObjectID = "199"; */
 "199.title" = "Realitza l'acció automàtica";
 
-/* Class = "NSButtonCell"; title = "Mou a la paperera els fitxers després de la compressió"; ObjectID = "262"; */
+/* Class = "NSButtonCell"; title = "Move original file(s) to Trash after compression"; ObjectID = "262"; */
 "262.title" = "Mou a la paperera els fitxers després de comprimir";
 
-/* Class = "NSButtonCell"; title = "Arxiva els fitxers per separat"; ObjectID = "263"; */
+/* Class = "NSButtonCell"; title = "Archive as single files"; ObjectID = "263"; */
 "263.title" = "Arxiva els fitxers per separat";
 
-/* Class = "NSButtonCell"; title = "Mostra l'arxiu fitxer al Finder després de la compressió"; ObjectID = "264"; */
+/* Class = "NSButtonCell"; title = "Show file in Finder after compression"; ObjectID = "264"; */
 "264.title" = "Mostra l'arxiu fitxer al Finder després de la compressió";
 
-/* Class = "NSButtonCell"; title = "Omet els fitxers amagats del Mac (p. ex: .DS_Store)"; ObjectID = "265"; */
+/* Class = "NSButtonCell"; title = "Exclude Mac OS X resource forks (eg: .DS_Store)"; ObjectID = "265"; */
 "265.title" = "Omet els fitxers amagats del Mac (p. ex: .DS_Store)";
 
-/* Class = "NSBox"; title = "Nom i ubicació"; ObjectID = "270"; */
+/* Class = "NSBox"; title = "Name and location"; ObjectID = "270"; */
 "270.title" = "Nom i ubicació";
 
-/* Class = "NSTextFieldCell"; placeholderString = "Nom personalitzat"; ObjectID = "276"; */
+/* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "276"; */
 "276.placeholderString" = "Nom personalitzat";
 
-/* Class = "NSMenu"; title = "Altres visualitzacions"; ObjectID = "278"; */
-"278.title" = "Altres visualitzacions";
-
-/* Class = "NSMenuItem"; title = "Demana-ho sempre"; ObjectID = "279"; */
+/* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "279"; */
 "279.title" = "Demana-ho sempre";
 
-/* Class = "NSMenuItem"; title = "Al costat de l'original"; ObjectID = "280"; */
+/* Class = "NSMenuItem"; title = "Next to original file"; ObjectID = "280"; */
 "280.title" = "Al costat de l'original";
 
-/* Class = "NSMenuItem"; title = "Carpeta personalitzada..."; ObjectID = "281"; */
+/* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "281"; */
 "281.title" = "Carpeta personalitzada...";
 
-/* Class = "NSTextFieldCell"; title = "Desa la ubicació:"; ObjectID = "282"; */
+/* Class = "NSTextFieldCell"; title = "Save to location:"; ObjectID = "282"; */
 "282.title" = "Desa la ubicació:";
 
-/* Class = "NSTextFieldCell"; title = "Nom dels fitxers nous:"; ObjectID = "283"; */
+/* Class = "NSTextFieldCell"; title = "Name of new files:"; ObjectID = "283"; */
 "283.title" = "Nom dels fitxers nous:";
 
-/* Class = "NSMenu"; title = "Altres visualitzacions"; ObjectID = "285"; */
-"285.title" = "Altres visualitzacions";
-
-/* Class = "NSMenuItem"; title = "Igual que el fitxer original"; ObjectID = "286"; */
+/* Class = "NSMenuItem"; title = "Same as original file"; ObjectID = "286"; */
 "286.title" = "Igual que el fitxer original";
 
-/* Class = "NSMenuItem"; title = "Nom personalitzat..."; ObjectID = "287"; */
+/* Class = "NSMenuItem"; title = "Custom name..."; ObjectID = "287"; */
 "287.title" = "Nom personalitzat...";
 
-/* Class = "NSWindow"; title = "Finestra"; ObjectID = "330"; */
-"330.title" = "Finestra";
-
-/* Class = "NSToolbarItem"; label = "Compressió"; ObjectID = "333"; */
+/* Class = "NSToolbarItem"; label = "Compression"; ObjectID = "333"; */
 "333.label" = "Compressió";
 
-/* Class = "NSToolbarItem"; paletteLabel = "Compressió"; ObjectID = "333"; */
+/* Class = "NSToolbarItem"; paletteLabel = "Compression"; ObjectID = "333"; */
 "333.paletteLabel" = "Compressió";
 
 /* Class = "NSToolbarItem"; label = "General"; ObjectID = "334"; */
@@ -119,158 +101,65 @@
 /* Class = "NSToolbarItem"; paletteLabel = "General"; ObjectID = "334"; */
 "334.paletteLabel" = "General";
 
-/* Class = "NSToolbarItem"; label = "Extracció"; ObjectID = "338"; */
+/* Class = "NSToolbarItem"; label = "Extraction"; ObjectID = "338"; */
 "338.label" = "Extracció";
 
-/* Class = "NSToolbarItem"; paletteLabel = "Extracció"; ObjectID = "338"; */
+/* Class = "NSToolbarItem"; paletteLabel = "Extraction"; ObjectID = "338"; */
 "338.paletteLabel" = "Extracció";
 
-/* Class = "NSBox"; title = "Ubicació"; ObjectID = "352"; */
+/* Class = "NSBox"; title = "Location"; ObjectID = "352"; */
 "352.title" = "Ubicació";
 
-/* Class = "NSMenu"; title = "Altres visualitzacions"; ObjectID = "356"; */
-"356.title" = "Altres visualitzacions";
-
-/* Class = "NSMenuItem"; title = "Demana-ho sempre"; ObjectID = "357"; */
+/* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "357"; */
 "357.title" = "Demana-ho sempre";
 
-/* Class = "NSMenuItem"; title = "Al costat de l'original"; ObjectID = "358"; */
+/* Class = "NSMenuItem"; title = "Next to original file"; ObjectID = "358"; */
 "358.title" = "Al costat de l'original";
 
-/* Class = "NSMenuItem"; title = "Carpeta personalitzada..."; ObjectID = "359"; */
+/* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "359"; */
 "359.title" = "Carpeta personalitzada...";
 
-/* Class = "NSTextFieldCell"; title = "Extreu a la ubicació:"; ObjectID = "360"; */
+/* Class = "NSTextFieldCell"; title = "Extract to location:"; ObjectID = "360"; */
 "360.title" = "Extreu a la ubicació:";
 
-/* Class = "NSButtonCell"; title = "Mostra el contingut al Finder després de l'extracció"; ObjectID = "361"; */
+/* Class = "NSButtonCell"; title = "Show content in Finder after extraction"; ObjectID = "361"; */
 "361.title" = "Mostra el contingut al Finder després de l'extracció";
 
-/* Class = "NSButtonCell"; title = "Mou a la paperera l'arxiu comprimit després de l'extracció"; ObjectID = "362"; */
+/* Class = "NSButtonCell"; title = "Move compressed file(s) to Trash after extraction"; ObjectID = "362"; */
 "362.title" = "Mou a la paperera l'arxiu comprimit després de l'extracció";
 
-/* Class = "NSMenu"; title = "Altres visualitzacions"; ObjectID = "415"; */
-"415.title" = "Altres visualitzacions";
-
-/* Class = "NSMenuItem"; title = "Basso"; ObjectID = "416"; */
-"416.title" = "Basso";
-
-/* Class = "NSMenuItem"; title = "Tink"; ObjectID = "417"; */
-"417.title" = "Tink";
-
-/* Class = "NSMenuItem"; title = "Cap"; ObjectID = "418"; */
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "418"; */
 "418.title" = "None";
 
-/* Class = "NSMenuItem"; title = "So per defecte"; ObjectID = "419"; */
+/* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "419"; */
 "419.title" = "So per defecte";
 
-/* Class = "NSMenuItem"; title = "Bottle"; ObjectID = "420"; */
-"420.title" = "Bottle";
-
-/* Class = "NSMenuItem"; title = "Blow"; ObjectID = "421"; */
-"421.title" = "Blow";
-
-/* Class = "NSMenuItem"; title = "Submarine"; ObjectID = "422"; */
-"422.title" = "Submarine";
-
-/* Class = "NSMenuItem"; title = "Sosumi"; ObjectID = "423"; */
-"423.title" = "Sosumi";
-
-/* Class = "NSMenuItem"; title = "Purr"; ObjectID = "424"; */
-"424.title" = "Purr";
-
-/* Class = "NSMenuItem"; title = "Pop"; ObjectID = "425"; */
-"425.title" = "Pop";
-
-/* Class = "NSMenuItem"; title = "Ping"; ObjectID = "426"; */
-"426.title" = "Ping";
-
-/* Class = "NSMenuItem"; title = "Morse"; ObjectID = "427"; */
-"427.title" = "Morse";
-
-/* Class = "NSMenuItem"; title = "Hero"; ObjectID = "428"; */
-"428.title" = "Hero";
-
-/* Class = "NSMenuItem"; title = "Glass"; ObjectID = "429"; */
-"429.title" = "Glass";
-
-/* Class = "NSMenuItem"; title = "Funk"; ObjectID = "430"; */
-"430.title" = "Funk";
-
-/* Class = "NSMenuItem"; title = "Frog"; ObjectID = "431"; */
-"431.title" = "Frog";
-
-/* Class = "NSMenuItem"; title = "So d'extracció; ObjectID = "432"; */
+/* Class = "NSMenuItem"; title = "Default extraction"; ObjectID = "432"; */
 "432.title" = "So d'extracció";
 
-/* Class = "NSTextFieldCell"; title = "Reprodueix un so en finalitzar:"; ObjectID = "433"; */
+/* Class = "NSTextFieldCell"; title = "Play a sound after an extraction:"; ObjectID = "433"; */
 "433.title" = "Reprodueix un so en finalitzar:";
 
-/* Class = "NSTextFieldCell"; title = "Reprodueix un so en finalitzar:"; ObjectID = "436"; */
+/* Class = "NSTextFieldCell"; title = "Play a sound after a compression:"; ObjectID = "436"; */
 "436.title" = "Reprodueix un so en finalitzar:";
 
-/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "438"; */
-"438.title" = "OtherViews";
-
-/* Class = "NSMenuItem"; title = "Extracció per defecte"; ObjectID = "439"; */
+/* Class = "NSMenuItem"; title = "Default extraction"; ObjectID = "439"; */
 "439.title" = "Extracció per defecte";
 
-/* Class = "NSMenuItem"; title = "Frog"; ObjectID = "440"; */
-"440.title" = "Frog";
-
-/* Class = "NSMenuItem"; title = "Funk"; ObjectID = "441"; */
-"441.title" = "Funk";
-
-/* Class = "NSMenuItem"; title = "Glass"; ObjectID = "442"; */
-"442.title" = "Glass";
-
-/* Class = "NSMenuItem"; title = "Hero"; ObjectID = "443"; */
-"443.title" = "Hero";
-
-/* Class = "NSMenuItem"; title = "Morse"; ObjectID = "444"; */
-"444.title" = "Morse";
-
-/* Class = "NSMenuItem"; title = "Ping"; ObjectID = "445"; */
-"445.title" = "Ping";
-
-/* Class = "NSMenuItem"; title = "Pop"; ObjectID = "446"; */
-"446.title" = "Pop";
-
-/* Class = "NSMenuItem"; title = "Purr"; ObjectID = "447"; */
-"447.title" = "Purr";
-
-/* Class = "NSMenuItem"; title = "Sosumi"; ObjectID = "448"; */
-"448.title" = "Sosumi";
-
-/* Class = "NSMenuItem"; title = "Submarine"; ObjectID = "449"; */
-"449.title" = "Submarine";
-
-/* Class = "NSMenuItem"; title = "Blow"; ObjectID = "450"; */
-"450.title" = "Blow";
-
-/* Class = "NSMenuItem"; title = "Bottle"; ObjectID = "451"; */
-"451.title" = "Bottle";
-
-/* Class = "NSMenuItem"; title = "So d'extracció"; ObjectID = "452"; */
+/* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "452"; */
 "452.title" = "So d'extracció";
 
-/* Class = "NSMenuItem"; title = "Cap"; ObjectID = "453"; */
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "453"; */
 "453.title" = "Cap";
 
-/* Class = "NSMenuItem"; title = "Tink"; ObjectID = "454"; */
-"454.title" = "Tink";
-
-/* Class = "NSMenuItem"; title = "Basso"; ObjectID = "455"; */
-"455.title" = "Basso";
-
-/* Class = "NSButtonCell"; title = "Habilita el servei del menú contextual"; ObjectID = "CRY-lE-Luz"; */
+/* Class = "NSButtonCell"; title = "Enable context menu Services"; ObjectID = "CRY-lE-Luz"; */
 "CRY-lE-Luz.title" = "Habilita el servei del menú contextual";
 
-/* Class = "NSButtonCell"; title = "Habilita la integració de notificacions"; ObjectID = "SOL-6U-5P9"; */
+/* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "Habilita la integració de notificacions";
 
-/* Class = "NSButtonCell"; title = "Utilitza la barra d'eines unificada (reinicia la personalització)"; ObjectID = "b5e-bj-Pgz"; */
+/* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "b5e-bj-Pgz"; */
 "b5e-bj-Pgz.title" = "Utilitza la barra d'eines unificada (reinicia la personalització)";
 
-/* Class = "NSButtonCell"; title = "Utilitza AES-256 en xifrant arxius ZIP (menys compatibilitat)"; ObjectID = "hp7-jO-HeV"; */
+/* Class = "NSButtonCell"; title = "Use AES-256 when encrypting ZIP files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
 "hp7-jO-HeV.title" = "Utilitza AES-256 xifrant arxius ZIP (compatibilitat menor)";
