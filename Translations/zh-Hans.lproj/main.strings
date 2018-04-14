@@ -1,14 +1,90 @@
-/* Class = "NSMenuItem"; title = "About Keka"; ObjectID = "maF-B5-Hb6"; */
-"maF-B5-Hb6.title" = "关于 Keka";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "0I7-Eo-098"; */
+"0I7-Eo-098.title" = "窗口";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "0Tk-5P-8i2"; */
+"0Tk-5P-8i2.title" = "服务";
+
+/* Class = "NSMenuItem"; title = "Quit Keka"; ObjectID = "Boj-Hb-G0X"; */
+"Boj-Hb-G0X.title" = "退出 Keka";
+
+/* Class = "NSMenuItem"; title = "Open main window"; ObjectID = "CvM-a0-FOh"; */
+"CvM-a0-FOh.title" = "打开主窗口";
 
 /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "FOL-81-NRF"; */
 "FOL-81-NRF.title" = "选项…";
 
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "HpM-0q-Enu"; */
+"HpM-0q-Enu.title" = "显示所有";
+
 /* Class = "NSMenuItem"; title = "Check for updates"; ObjectID = "K4O-VW-7FA"; */
 "K4O-VW-7FA.title" = "检查更新";
 
-/* Class = "NSMenu"; title = "Services"; ObjectID = "8OL-yK-PsT"; */
-"0Tk-5P-8i2.title" = "服务";
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "KcM-nz-gqf"; */
+"KcM-nz-gqf.title" = "缩放窗口";
+
+/* Class = "NSMenuItem"; title = "Print…"; ObjectID = "M2y-gZ-kEG"; */
+"M2y-gZ-kEG.title" = "Print…";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "PwP-KI-Flr"; */
+"PwP-KI-Flr.title" = "View";
+
+/* Class = "NSMenuItem"; title = "Save"; ObjectID = "Qst-Ya-feO"; */
+"Qst-Ya-feO.title" = "保存";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "Ro6-g5-CxU"; */
+"Ro6-g5-CxU.title" = "剪切";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "S12-mL-KLt"; */
+"S12-mL-KLt.title" = "关闭";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "S6s-Is-TM3"; */
+"S6s-Is-TM3.title" = "帮助";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "TTb-AR-olf"; */
+"TTb-AR-olf.title" = "文件";
+
+/* Class = "NSMenuItem"; title = "Keka Help"; ObjectID = "Uuy-RK-W5n"; */
+"Uuy-RK-W5n.title" = "Keka 帮助";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "W9M-Wy-dHU"; */
+"W9M-Wy-dHU.title" = "粘贴";
+
+/* Class = "NSMenuItem"; title = "Show Toolbar"; ObjectID = "YHt-wh-fCp"; */
+"YHt-wh-fCp.title" = "Show Toolbar";
+
+/* Class = "NSMenuItem"; title = "New"; ObjectID = "bFm-YE-6u3"; */
+"bFm-YE-6u3.title" = "新建";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "bMs-9b-T4a"; */
+"bMs-9b-T4a.title" = "删除";
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "f7N-ob-xwH"; */
+"f7N-ob-xwH.title" = "View";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "gy4-dO-Qdu"; */
+"gy4-dO-Qdu.title" = "编辑";
+
+/* Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "jtN-lL-fdx"; */
+"jtN-lL-fdx.title" = "最近打开";
+
+/* Class = "NSMenuItem"; title = "About Keka"; ObjectID = "maF-B5-Hb6"; */
+"maF-B5-Hb6.title" = "关于 Keka";
+
+/* Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "nlc-UW-DRW"; */
+"nlc-UW-DRW.title" = "Revert to Saved";
+
+/* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "nvz-UK-KlM"; */
+"nvz-UK-KlM.title" = "保存为…";
+
+/* Class = "NSMenuItem"; title = "Customize Toolbar…"; ObjectID = "p3U-PZ-hC3"; */
+"p3U-PZ-hC3.title" = "Customize Toolbar…";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "rHb-df-xAE"; */
+"rHb-df-xAE.title" = "前置所有窗口";
+
+/* Class = "NSMenuItem"; title = "Open…"; ObjectID = "sUB-o8-so9"; */
+"sUB-o8-so9.title" = "打开…";
 
 /* Class = "NSMenuItem"; title = "Hide Keka"; ObjectID = "smC-MI-dLE"; */
 "smC-MI-dLE.title" = "隐藏 Keka";
@@ -16,71 +92,14 @@
 /* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "sx5-sf-JmW"; */
 "sx5-sf-JmW.title" = "隐藏其他窗口";
 
-/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "HpM-0q-Enu"; */
-"HpM-0q-Enu.title" = "显示所有";
-
-/* Class = "NSMenuItem"; title = "Quit Keka"; ObjectID = "Boj-Hb-G0X"; */
-"Boj-Hb-G0X.title" = "退出 Keka";
-
-/* Class = "NSMenu"; title = "File"; ObjectID = "TTb-AR-olf"; */
-"TTb-AR-olf.title" = "文件";
-
-/* Class = "NSMenuItem"; title = "New"; ObjectID = "bFm-YE-6u3"; */
-"bFm-YE-6u3.title" = "新建";
-
-/* Class = "NSMenuItem"; title = "Open…"; ObjectID = "sUB-o8-so9"; */
-"sUB-o8-so9.title" = "打开…";
-
-/* Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "jtN-lL-fdx"; */
-"jtN-lL-fdx.title" = "最近打开";
-
-/* Class = "NSMenuItem"; title = "Close"; ObjectID = "S12-mL-KLt"; */
-"S12-mL-KLt.title" = "关闭";
-
-/* Class = "NSMenuItem"; title = "Save"; ObjectID = "Qst-Ya-feO"; */
-"Qst-Ya-feO.title" = "保存";
-
-/* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "nvz-UK-KlM"; */
-"nvz-UK-KlM.title" = "保存为…";
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "tDe-Bb-f8d"; */
+"tDe-Bb-f8d.title" = "最小化";
 
 /* Class = "NSMenuItem"; title = "Page Setup..."; ObjectID = "tjx-uw-4ov"; */
 "tjx-uw-4ov.title" = "打印设置…";
 
-/* Class = "NSMenu"; title = "Edit"; ObjectID = "gy4-dO-Qdu"; */
-"gy4-dO-Qdu.title" = "编辑";
-
-/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "Ro6-g5-CxU"; */
-"Ro6-g5-CxU.title" = "剪切";
-
 /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "v5b-pg-pYC"; */
 "v5b-pg-pYC.title" = "复制";
 
-/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "W9M-Wy-dHU"; */
-"W9M-Wy-dHU.title" = "粘贴";
-
-/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "bMs-9b-T4a"; */
-"bMs-9b-T4a.title" = "删除";
-
 /* Class = "NSMenuItem"; title = "Select All"; ObjectID = "wbR-ho-uar"; */
 "wbR-ho-uar.title" = "全选";
-
-/* Class = "NSMenuItem"; title = "Window"; ObjectID = "Iga-SF-bok"; */
-"0I7-Eo-098.title" = "窗口";
-
-/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "tDe-Bb-f8d"; */
-"tDe-Bb-f8d.title" = "最小化";
-
-/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "KcM-nz-gqf"; */
-"KcM-nz-gqf.title" = "缩放窗口";
-
-/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "rHb-df-xAE"; */
-"rHb-df-xAE.title" = "前置所有窗口";
-
-/* Class = "NSMenuItem"; title = "Open main window"; ObjectID = "CvM-a0-FOh"; */
-"CvM-a0-FOh.title" = "打开主窗口";
-
-/* Class = "NSMenu"; title = "Help"; ObjectID = "S6s-Is-TM3"; */
-"S6s-Is-TM3.title" = "帮助";
-
-/* Class = "NSMenuItem"; title = "Keka Help"; ObjectID = "Uuy-RK-W5n"; */
-"Uuy-RK-W5n.title" = "Keka 帮助";
