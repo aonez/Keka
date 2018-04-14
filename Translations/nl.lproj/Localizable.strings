@@ -103,6 +103,7 @@
 "4.7 GB DVD" = "4.7 GB DVD";
 "Drop here to extract" = "Sleep naar hier om uit te pakken";
 "Drop here to compress" = "Sleep naar hier om in te pakken";
+"Binary \"%@\" is not accessible" = "Binary \"%@\" is not accessible";
 "The first part \"%@\" can't be found" = "Het eerste deel \"%@\" kan niet gevonden worden";
 "unknown" = "onbekend";
 "Unknown error" = "onbekende fout";

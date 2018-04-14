@@ -103,6 +103,7 @@
 "4.7 GB DVD" = "4.7GBのDVD";
 "Drop here to extract" = "ここにドラッグすると解凍します";
 "Drop here to compress" = "ここにドラッグすると圧縮します";
+"Binary \"%@\" is not accessible" = "Binary \"%@\" is not accessible";
 "The first part \"%@\" can't be found" = "\"%@\" の最初の部分が見つかりません。";
 "unknown" = "不明";
 "Unknown error" = "不明なエラーが起きました";
