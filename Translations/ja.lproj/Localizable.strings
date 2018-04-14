@@ -1,7 +1,7 @@
 "_BASE_USED_" = "ja";
-// Use the _ADVANCED_EXTRA_WIDTH_ to fit the method description properly
+/* Use the _ADVANCED_EXTRA_WIDTH_ (if needed) to fit the method description properly */
 "_ADVANCED_EXTRA_WIDTH_" = "0.0";
-//"_PREFERENCES_EXTRA_WIDTH_" = "0.0";
+/* "_PREFERENCES_EXTRA_WIDTH_" = "0.0"; */
 "OK" = "OK";
 "Yes" = "はい";
 "No" = "いいえ";
@@ -24,7 +24,6 @@
 "Compression fail" = "圧縮できませんでした";
 "File \"%@\" cannot be created" = "ファイル \"%@\" は作成できません。";
 "Operation not implemented" = "機能が実装されていません。";
-"This operation is not implemented yet so Keka is in beta process." = "機能がまだ実装されていません。";
 "Performing operation..." = "操作中...";
 "Waiting..." = "待機中...";
 "Extracting \"%@\"" = "\"%@\" を解凍中";
