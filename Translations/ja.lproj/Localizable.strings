@@ -121,5 +121,5 @@
 "Bad password, try again" = "パスワードは正しくありませんでした。\nもう一度試してください。";
 "This archive is locked" = "アーカイブはロックされています。";
 "Write error. No permission? No space left?" = "書き込みエラー、書くアクセス権とディスクに十分な空き領域があることを確認してください。";
-"Can't open the file, maybe it's not accesible" = "ファイルを開くことができません。ファイルがあるボリュームにアクセスできない可能性があります。";
+"Can't open the file, maybe it's not accessible" = "ファイルを開くことができません。ファイルがあるボリュームにアクセスできない可能性があります。";
 "No files matching the mask" = "マスクに合うファイルがありません。";
