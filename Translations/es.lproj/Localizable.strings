@@ -23,7 +23,7 @@
 "File \"%@\" created" = "Archivo \"%@\" creado";
 "Compression fail" = "Compresión fallida";
 "File \"%@\" cannot be created" = "El archivo \"%@\" no se ha podido crear";
-"Operation not implemented" = "Operation not implemented";
+"Operation not implemented" = "Operación no implementada";
 "Performing operation..." = "Preparando la operación...";
 "Waiting..." = "Esperando...";
 "Extracting \"%@\"" = "Extrayendo \"%@\"";
