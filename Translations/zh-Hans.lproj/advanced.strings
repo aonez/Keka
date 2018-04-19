@@ -1,9 +1,51 @@
-﻿
-/* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "2221"; */
-"2221.title" = "分别压缩每个文件";
+
+/* Class = "NSMenuItem"; title = "Perform automatic action"; ObjectID = "943"; */
+"943.title" = "执行自动操作";
+
+/* Class = "NSMenuItem"; title = "Always compress"; ObjectID = "944"; */
+"944.title" = "始终压缩";
+
+/* Class = "NSMenuItem"; title = "Always extract"; ObjectID = "945"; */
+"945.title" = "始终解压";
+
+/* Class = "NSMenuItem"; title = "Format"; ObjectID = "947"; */
+"947.title" = "格式";
+
+/* Class = "NSMenu"; title = "Format"; ObjectID = "948"; */
+"948.title" = "格式";
+
+/* Class = "NSMenuItem"; title = "Method"; ObjectID = "957"; */
+"957.title" = "压缩方式";
+
+/* Class = "NSMenu"; title = "Method"; ObjectID = "958"; */
+"958.title" = "压缩方式";
+
+/* Class = "NSMenuItem"; title = "No compression"; ObjectID = "960"; */
+"960.title" = "不压缩";
+
+/* Class = "NSMenuItem"; title = "Fastest, less compression"; ObjectID = "961"; */
+"961.title" = "非常快，低压缩率";
+
+/* Class = "NSMenuItem"; title = "Fast, less compression"; ObjectID = "962"; */
+"962.title" = "较快，较低压缩率";
+
+/* Class = "NSMenuItem"; title = "Normal"; ObjectID = "963"; */
+"963.title" = "正常";
+
+/* Class = "NSMenuItem"; title = "Slow, more compression"; ObjectID = "964"; */
+"964.title" = "较慢，较高压缩率";
+
+/* Class = "NSMenuItem"; title = "Slowest, more compression"; ObjectID = "965"; */
+"965.title" = "非常慢，高压缩率";
+
+/* Class = "NSTextFieldCell"; title = "You can create a DMG volume that will be read-only and compressed.\n\nSet a volume name to this DMG or use the default name based on the files you compress."; ObjectID = "2189"; */
+"2189.title" = "你可以创建一个只读且被压缩的 DMG 卷。\n\n为此 DMG 命名，否则默认使用原文件名称。";
+
+/* Class = "NSButtonCell"; title = "Archive as single files"; ObjectID = "2221"; */
+"2221.title" = "每个文件单独打包";
 
 /* Class = "NSButtonCell"; title = "Delete file(s) after compression"; ObjectID = "2222"; */
-"2222.title" = "压缩完成后删除源文件";
+"2222.title" = "压缩完成后删除原文件";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks"; ObjectID = "2244"; */
 "2244.title" = "排除 Mac 资源文件";
@@ -29,35 +71,14 @@
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[3] = "4.7 GB DVD"; ObjectID = "2271"; */
 "2271.ibShadowedObjectValues[3]" = "4.7 GB DVD";
 
-/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[4] = "8.5 GB DVD (DL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[4]" = "8.5 GB DVD（DL）";
-
-/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[5] = "7.8 GB Mini Blu-ray (SL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[5]" = "7.8 GB Mini 蓝光（SL）";
-
-/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[6] = "15.6 GB Mini Blu-ray (DL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[6]" = "15.6 GB Mini 蓝光（DL）";
-
-/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[7] = "25 GB Blu-ray (SL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[7]" = "25 GB 蓝光（SL）";
-
-/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[8] = "50 GB Blu-ray (DL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[8]" = "50 GB 蓝光（DL）";
-
-/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[9] = "100 GB Blu-ray XL (TL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[9]" = "100 GB 蓝光 XL（TL）";
-
-/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[10] = "128 GB Blu-ray XL (QL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[10]" = "128 GB 蓝光 XL（QL）";
-
 /* Class = "NSTextFieldCell"; title = "Volume name:"; ObjectID = "2343"; */
 "2343.title" = "卷名：";
 
 /* Class = "NSTextFieldCell"; placeholderString = "custom name"; ObjectID = "2354"; */
-"2354.placeholderString" = "自定义名称";
+"2354.placeholderString" = "自定名称";
 
 /* Class = "NSTextFieldCell"; title = "You can create a ISO volume that will be read-only and compressed. ISO volumes can be only created from a folder.\n\nSet a volume name to this ISO or use the default name based on the files you compress."; ObjectID = "2363"; */
-"2363.title" = "您可以创建一个被压缩的只读 ISO 卷。ISO 卷只能通过文件夹创建。\n\n为此 ISO 设置卷名，否则将根据压缩文件使用默认名称。";
+"2363.title" = "你可以创建一个只读且被压缩的 ISO 卷。ISO 卷只能由一个文件夹创建。\n\n为此 ISO 命名，否则默认使用原文件名称。";
 
 /* Class = "NSTextFieldCell"; title = "Store"; ObjectID = "2390"; */
 "2390.title" = "存储";
@@ -71,6 +92,9 @@
 /* Class = "NSTextFieldCell"; title = "Normal"; ObjectID = "2398"; */
 "2398.title" = "正常";
 
+/* Class = "NSTextFieldCell"; title = "Method: Selected"; ObjectID = "2402"; */
+"2402.title" = "压缩方式: 已选择";
+
 /* Class = "NSTextFieldCell"; title = "Repeat:"; ObjectID = "2426"; */
 "2426.title" = "重复：";
 
@@ -81,7 +105,4 @@
 "Lw7-h9-3Qh.title" = "使用 AES-256 加密";
 
 /* Class = "NSButtonCell"; title = "Solid archive"; ObjectID = "UYy-aQ-V1a"; */
-"UYy-aQ-V1a.title" = "固实归档";
-
-/* Class = "NSButtonCell"; title = "Use BZIP2 compression"; ObjectID = "qhy-NU-Cts"; */
-"qhy-NU-Cts.title" = "使用 BZIP2 压缩";
+"UYy-aQ-V1a.title" = "固实压缩";
