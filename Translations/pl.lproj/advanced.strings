@@ -30,7 +30,7 @@
 "962.title" = "Niski stopień kompresji";
 
 /* Class = "NSMenuItem"; title = "Normal"; ObjectID = "963"; */
-"963.title" = "Tryb normalny";
+"963.title" = "Średni stopień kompresji";
 
 /* Class = "NSMenuItem"; title = "Slow, more compression"; ObjectID = "964"; */
 "964.title" = "Wysoki stopień kompresji";
