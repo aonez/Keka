@@ -76,11 +76,11 @@
 " - Remaining: Less than one second" = " - Pozostało: mniej niż sekunda";
 "Can't show progress time..." = "Obliczanie postępu…";
 "Password for \"%@\"" = "Hasło do archiwum \"%@\"";
-"Method:" = "Method:";
-"No compression" = "Bardzo szybko";
+"Method:" = "Metoda:";
+"No compression" = "Bez kompresji";
 "Fastest, less compression" = "Bardzo szybka, najniższy stopień kompresji";
 "Fast, less compression" = "Szybka, niski stopień kompresji";
-"Normal" = "Domyślna";
+"Normal" = "Domyślna, średni stopień kompresji";
 "Slow, more compression" = "Wolna, wysoki stopień kompresji";
 "Slowest, more compression" = "Najwolniejsza, najwyższy stopień kompresji";
 "Compression" = "Archiwizacja";
@@ -122,5 +122,5 @@
 "Bad password, try again" = "Niewłaściwe hasło, spróbuj ponownie";
 "This archive is locked" = "Archiwum jest zablokowane";
 "Write error. No permission? No space left?" = "Błąd zapisu. Sprawdź, czy masz uprawnienia do zapisu i wolne miejsce na dysku.";
-"Can't open the file, maybe it's not accessible" = "Nie można otworzyć pliku.";
+"Can't open the file, maybe it's not accessible" = "Nie można otworzyć pliku";
 "No files matching the mask" = "Żaden z plików nie pasuje do maski";
