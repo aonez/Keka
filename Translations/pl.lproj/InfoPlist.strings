@@ -24,12 +24,12 @@
 "DMG Disk Image" = "obraz dysku DMG";
 "ISO Disk Image" = "obraz dysku ISO";
 "LHA Archive" = "archiwum LHA";
-"Windows EXE File" = "Windows EXE File";
-"Window Cabinet File" = "Window Cabinet File";
+"Windows EXE File" = "plik EXE (Windows)";
+"Window Cabinet File" = "plik CAB (Windows)";
 "WIM Disk Image" = "obraz dysku WIM";
-"Comic Book RAR Archive" = "Comic Book RAR archiwum";
-"Comic Book ZIP Archive" = "Comic Book ZIP archiwum";
+"Comic Book RAR Archive" = "archiwum Comic Book RAR";
+"Comic Book ZIP Archive" = "archiwum Comic Book ZIP";
 "JAR Archive" = "archiwum JAR";
-"Android Application Package" = "Android Application Package";
+"Android Application Package" = "plik APK (Android)";
 "APPX Archive" = "archiwum APPX";
 "Keka WorkFlow" = "kolejka czynności Keka";
