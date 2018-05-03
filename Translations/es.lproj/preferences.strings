@@ -152,9 +152,6 @@
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "453"; */
 "453.title" = "Ninguno";
 
-/* Class = "NSButtonCell"; title = "Enable context menu Services"; ObjectID = "CRY-lE-Luz"; */
-"CRY-lE-Luz.title" = "Enable context menu services";
-
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "Enable Notification Center integration";
 
