@@ -51,8 +51,8 @@
 "Choose a folder to extract this file" = "Válassz célmappát";
 "Extraction of \"%@\" failed" = "\"%@\" kibontása sikertelen";
 "Keka - %i on queue" = "Keka - %i sorban áll";
-"Keka can't create this ISO image" = "A Keka nem tudja elkészíteni ezt az ISO fájlt";
-"You can only create an ISO image with a single folder. Try to put all your files in a folder and drop it to Keka to create the ISO image." = "Csak egyetlen mappáról tudsz ISO lemezképfájlt készíteni. Próbáld az összes fájlodat egy mappába rendezni, majd azt az egy mappát a Keka-ra húzni.";
+"Keka can't create this %@ image" = "A Keka nem tudja elkészíteni ezt az %@ fájlt";
+"You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "Csak egyetlen mappáról tudsz %@ lemezképfájlt készíteni. Próbáld az összes fájlodat egy mappába rendezni, majd azt az egy mappát a Keka-ra húzni.";
 "Keka can't create this XZ tarball" = "Keka can't create this XZ tarball";
 "This operation is not supported on OS X 10.8.\nPlease update your system or manually create a TAR and then XZ it." = "This operation is not supported on OS X 10.8.\nPlease update your system or manually create a TAR and then XZ it.";
 "Compress \"%@\" in %@ to..." = "\"%@\" tömörítése, %@ formátumban...";
