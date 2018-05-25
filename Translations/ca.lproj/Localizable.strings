@@ -124,3 +124,10 @@
 "Write error. No permission? No space left?" = "Error d'escriptura. Sense permisos? Sense espai disponible?";
 "Can't open the file, maybe it's not accessible" = "No es pot obrir l'arxiu. Potser no està accessible";
 "No files matching the mask" = "No s'han trobat fitxers amb el filtre utilitzat";
+"Give access" = "Donar accés";
+"Quit" = "Sortir";
+"More information" = "Més informació";
+"Keka needs file access" = "El Keka necessita accés als fitxers";
+"In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "Per tal de integrarse amb el teu Mac, el Keka necessita accés local al disc.";
+"\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\nFes clic a \"Donar accés al Keka\", el disc ja està seleccionat.";
+"Give access to Keka" = "Donar accés al Keka";
