@@ -124,3 +124,10 @@
 "Write error. No permission? No space left?" = "Schreibfehler. Keine Zugriffberechtigung? Kein Speicherplatz?";
 "Can't open the file, maybe it's not accessible" = "Datei konnte nicht geöffnet werden,  vielleicht ist sie nicht zugänglich";
 "No files matching the mask" = "Keine Dateien entsprechen der Maske";
+"Give access" = "Give access";
+"Quit" = "Quit";
+"More information" = "More information";
+"Keka needs file access" = "Keka needs file access";
+"In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "In order to work seamlessly with your files, Keka needs local access to the Mac disk.";
+"\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\nSimply click on \"Give access to Keka\", your disk should already be selected.";
+"Give access to Keka" = "Give access to Keka";
