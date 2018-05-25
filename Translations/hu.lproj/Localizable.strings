@@ -124,3 +124,10 @@
 "Write error. No permission? No space left?" = "Írási hiba. Nincs jogosultság? Nincs több hely?";
 "Can't open the file, maybe it's not accessible" = "A fájl nem nyitható meg, talán nem elérhető";
 "No files matching the mask" = "Nem található a feltételnek megfelelő fájl";
+"Give access" = "Give access";
+"Quit" = "Quit";
+"More information" = "More information";
+"Keka needs file access" = "Keka needs file access";
+"In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "In order to work seamlessly with your files, Keka needs local access to the Mac disk.";
+"\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\nSimply click on \"Give access to Keka\", your disk should already be selected.";
+"Give access to Keka" = "Give access to Keka";

@@ -124,3 +124,10 @@
 "Write error. No permission? No space left?" = "쓰기 오류. 권한이 없거나 디스크에 용량이 없습니다.";
 "Can't open the file, maybe it's not accessible" = "파일을 열 수 없거나 파일에 접속할 수 없습니다.";
 "No files matching the mask" = "마스크와 일치하는 파일들이 없습니다.";
+"Give access" = "Give access";
+"Quit" = "Quit";
+"More information" = "More information";
+"Keka needs file access" = "Keka needs file access";
+"In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "In order to work seamlessly with your files, Keka needs local access to the Mac disk.";
+"\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\nSimply click on \"Give access to Keka\", your disk should already be selected.";
+"Give access to Keka" = "Give access to Keka";
