@@ -51,8 +51,8 @@
 "Choose a folder to extract this file" = "Kies een map om dit bestand uit te pakken";
 "Extraction of \"%@\" failed" = "Uitpakken van \"%@\" mislukt";
 "Keka - %i on queue" = "Keka - %i in de wachtrij";
-"Keka can't create this ISO image" = "Keka kan dit ISO-bestand niet aanmaken";
-"You can only create an ISO image with a single folder. Try to put all your files in a folder and drop it to Keka to create the ISO image." = "U kan enkel een ISO-bestand aanmaken met één enkele map. Probeer al uw bestanden in één folder te verzamelen en sleep deze folder dan op Keka om een ISO-bestand aan te maken.";
+"Keka can't create this %@ image" = "Keka kan dit %@-bestand niet aanmaken";
+"You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "U kan enkel een %@-bestand aanmaken met één enkele map. Probeer al uw bestanden in één folder te verzamelen en sleep deze folder dan op Keka om een %@-bestand aan te maken.";
 "Keka can't create this XZ tarball" = "Keka can't create this XZ tarball";
 "This operation is not supported on OS X 10.8.\nPlease update your system or manually create a TAR and then XZ it." = "This operation is not supported on OS X 10.8.\nPlease update your system or manually create a TAR and then XZ it.";
 "Compress \"%@\" in %@ to..." = "Pak \"%@\" in %@ naar...";

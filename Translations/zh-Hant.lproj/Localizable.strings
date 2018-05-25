@@ -51,8 +51,8 @@
 "Choose a folder to extract this file" = "選擇檔案夾解壓縮此檔案";
 "Extraction of \"%@\" failed" = "解壓 \"%@\" 失敗";
 "Keka - %i on queue" = "Keka - %i 在佇列";
-"Keka can't create this ISO image" = "Keka 無法建立此 ISO 光碟映像";
-"You can only create an ISO image with a single folder. Try to put all your files in a folder and drop it to Keka to create the ISO image." = "您只能使用檔案夾建立 ISO 光碟映像。嘗試將所有檔案放在一個檔案夾中，並將其拖曳到 Keka 以建立 ISO 光碟映像。";
+"Keka can't create this %@ image" = "Keka 無法建立此 %@ 光碟映像";
+"You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "您只能使用檔案夾建立 %@ 光碟映像。嘗試將所有檔案放在一個檔案夾中，並將其拖曳到 Keka 以建立 %@ 光碟映像。";
 "Keka can't create this XZ tarball" = "Keka 無法建立此 XZ 檔案的 TAR 打包工具。";
 "This operation is not supported on OS X 10.8.\nPlease update your system or manually create a TAR and then XZ it." = "此操作尚未支援 OS X 10.8。\n請更新作業系統或手動建立 TAR 檔案或 XZ 檔案。";
 "Compress \"%@\" in %@ to..." = "壓縮 \"%@\" 進 %@ 至...";
