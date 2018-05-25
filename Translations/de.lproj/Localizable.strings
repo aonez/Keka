@@ -51,8 +51,8 @@
 "Choose a folder to extract this file" = "Wählen Sie einen Ordener um die Datei zu entpacken";
 "Extraction of \"%@\" failed" = "Entpacken von \"%@\" Fehlgeschlagen";
 "Keka - %i on queue" = "Keka - %i in Warteschlange";
-"Keka can't create this ISO image" = "Keka kann dieses ISO-Abbild nicht erstellen";
-"You can only create an ISO image with a single folder. Try to put all your files in a folder and drop it to Keka to create the ISO image." = "Sie können nur ein ISO-Abbild aus einem einzelnen Ordner erstellen. Versuchen Sie, alle Ihre Dateien in einem Ordner abzulegen und ziehen Sie ihn auf Keka um das ISO-Abbild zu erstellen.";
+"Keka can't create this %@ image" = "Keka kann dieses %@-Abbild nicht erstellen";
+"You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "Sie können nur ein %@-Abbild aus einem einzelnen Ordner erstellen. Versuchen Sie, alle Ihre Dateien in einem Ordner abzulegen und ziehen Sie ihn auf Keka um das %@-Abbild zu erstellen.";
 "Keka can't create this XZ tarball" = "Keka can't create this XZ tarball";
 "This operation is not supported on OS X 10.8.\nPlease update your system or manually create a TAR and then XZ it." = "This operation is not supported on OS X 10.8.\nPlease update your system or manually create a TAR and then XZ it.";
 "Compress \"%@\" in %@ to..." = "Komprimiere \"%@\" in %@ nach...";
