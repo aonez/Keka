@@ -124,10 +124,10 @@
 "Write error. No permission? No space left?" = "Errore di scrittura. Nessun permesso? Niente spazio libero?";
 "Can't open the file, maybe it's not accessible" = "Impossibile aprire il file, forse non è accessibile";
 "No files matching the mask" = "Nessun file corrispondente alla maschera";
-"Give access" = "Give access";
-"Quit" = "Quit";
-"More information" = "More information";
-"Keka needs file access" = "Keka needs file access";
-"In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "In order to work seamlessly with your files, Keka needs local access to the Mac disk.";
-"\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\nSimply click on \"Give access to Keka\", your disk should already be selected.";
-"Give access to Keka" = "Give access to Keka";
+"Give access" = "Consenti l'accesso";
+"Quit" = "Esci";
+"More information" = "Maggiori informazioni";
+"Keka needs file access" = "Keka ha bisogno dell'accesso ai file";
+"In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "Per lavorare senza problemi con i tuoi file, Keka ha bisogno di un accesso locale al disco del Mac.";
+"\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\nFai semplicemente clic su \"Consenti l'accesso a Keka\", il tuo disco dovrebbe già essere selezionato.";
+"Give access to Keka" = "Consenti l'accesso a Keka";
