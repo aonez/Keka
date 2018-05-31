@@ -9,8 +9,8 @@
 "XZ Archive" = "XZ 아카이브";
 "XZ Tarball Archive" = "XZ 압축 TAR 아카이브";
 "RAR Archive" = "RAR 아카이브";
-"RAR Legacy Archive Volume" = "RAR Legacy Archive Volume";
-"Generic Archive Volume" = "Generic Archive Volume";
+"RAR Legacy Archive Volume" = "RAR Legacy 아카이브 볼륨";
+"Generic Archive Volume" = "일반적인 아카이브 볼륨";
 "BZIP2 Archive" = "BZIP2 아카이브";
 "BZIP2 Tarball Archive" = "BZIP2 압축 TAR 아카이브";
 "BZIP Archive" = "BZIP 아카이브";
@@ -24,12 +24,12 @@
 "DMG Disk Image" = "DMG 디스크 이미지";
 "ISO Disk Image" = "ISO 디스크 이미지";
 "LHA Archive" = "LHA 아카이브";
-"Windows EXE File" = "Windows EXE File";
-"Window Cabinet File" = "Window Cabinet File";
+"Windows EXE File" = "Windows EXE 파일";
+"Window Cabinet File" = "Window Cabinet 파일";
 "WIM Disk Image" = "WIM 디스크 이미지";
 "Comic Book RAR Archive" = "Comic Book RAR 아카이브";
 "Comic Book ZIP Archive" = "Comic Book ZIP 아카이브";
 "JAR Archive" = "JAR 아카이브";
-"Android Application Package" = "Android Application Package";
+"Android Application Package" = "안드로이드 Application Package";
 "APPX Archive" = "APPX 아카이브";
 "Keka WorkFlow" = "Keka 작업흐름";
