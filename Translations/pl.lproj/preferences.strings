@@ -59,7 +59,7 @@
 /* Class = "NSButtonCell"; title = "Show file in Finder after compression"; ObjectID = "264"; */
 "264.title" = "Przejdź do pliku po archiwizacji";
 
-/* Class = "NSButtonCell"; title = "Exclude Mac OS X resource forks (eg: .DS_Store)"; ObjectID = "265"; */
+/* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "265"; */
 "265.title" = "Wyklucz ukryte pliki systemowe";
 
 /* Class = "NSBox"; title = "Name and location"; ObjectID = "270"; */

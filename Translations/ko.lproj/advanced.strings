@@ -48,7 +48,7 @@
 "2222.title" = "압축 완료 후 파일 삭제";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks"; ObjectID = "2244"; */
-"2244.title" = "Mac OS X 전용 파일 포함 안하기 (예: .DS_Store)";
+"2244.title" = "Mac 전용 파일 포함 안하기 (예: .DS_Store)";
 
 /* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "2262"; */
 "2262.title" = "암호:";
