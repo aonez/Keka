@@ -53,8 +53,8 @@
 "Keka - %i on queue" = "Keka - %i on queue";
 "Keka can't create this %@ image" = "Keka가 이 %@ 볼륨을 만들 수 없습니다";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "%@ 이미지는 단일 폴더로만 생성이 가능합니다. 모든 파일들을 하나의 폴더에 넣은 뒤 다시 시도하세요.";
-"Keka can't create this XZ tarball" = "Keka can't create this XZ tarball";
-"This operation is not supported on OS X 10.8.\nPlease update your system or manually create a TAR and then XZ it." = "OS X 10.8 버전에서는 지원하지 않습니다.\nmacOS를 업데이트 하거나, 직접 TAR를 만든 후 XZ 하세요.";
+"Keka can't create this @% tarball" = "Keka can't create this @% tarball";
+"This operation is not supported on %@." = "%@ 버전에서는 지원하지 않습니다.";
 "Compress \"%@\" in %@ to..." = "\"%@\"을(를) %@ 형식으로 압축하기...";
 "Compress in %@ to..." = "%@ 형식으로 압축하기...";
 "Save as:" = "다른 이름으로 저장:";

@@ -53,8 +53,8 @@
 "Keka - %i on queue" = "Keka - %i jest w kolejce";
 "Keka can't create this %@ image" = "Tworzenie archiwum %@ zakończone niepowodzeniem";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "Pliki do archiwum %@ powinny znajdować się w jednym folderze.";
-"Keka can't create this XZ tarball" = "Keka nie może utworzyć archiwum XZ";
-"This operation is not supported on OS X 10.8.\nPlease update your system or manually create a TAR and then XZ it." = "Operacja nie jest wspierana przez OS X 10.8.\nZaktualizuj system lub ręcznie utwórz archiwum TAR i przetwórz jako XZ.";
+"Keka can't create this @% tarball" = "Keka nie może utworzyć archiwum @%";
+"This operation is not supported on %@." = "Operacja nie jest wspierana przez %@.";
 "Compress \"%@\" in %@ to..." = "Archiwizuj \"%@\" w %@ do...";
 "Compress in %@ to..." = "Archiwizuj %@ do...";
 "Save as:" = "Zapisz jako:";
