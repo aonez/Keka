@@ -59,8 +59,8 @@
 /* Class = "NSButtonCell"; title = "Show file in Finder after compression"; ObjectID = "264"; */
 "264.title" = "압축 완료 후 Finder에서 파일 보기";
 
-/* Class = "NSButtonCell"; title = "Exclude Mac OS X resource forks (eg: .DS_Store)"; ObjectID = "265"; */
-"265.title" = "macOS 전용 파일 포함 안하기 (예: .DS_Store)";
+/* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "265"; */
+"265.title" = "Mac 전용 파일 포함 안하기 (예: .DS_Store)";
 
 /* Class = "NSBox"; title = "Name and location"; ObjectID = "270"; */
 "270.title" = "이름 및 위치";
