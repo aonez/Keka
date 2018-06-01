@@ -153,10 +153,10 @@
 "453.title" = "없음";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
-"SOL-6U-5P9.title" = "macOS 알림 센터 사용";
+"SOL-6U-5P9.title" = "알림 센터 사용";
 
 /* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "b5e-bj-Pgz"; */
-"b5e-bj-Pgz.title" = "통합된 툴바 사용 (설정 초기화됨)";
+"b5e-bj-Pgz.title" = "통일된 툴바 사용 (사용자화 설정 초기화됨)";
 
 /* Class = "NSButtonCell"; title = "Use AES-256 when encrypting ZIP files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
 "hp7-jO-HeV.title" = "ZIP 파일 암호화 시, AES-256 사용 (낮은 호환성)";
