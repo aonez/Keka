@@ -131,5 +131,3 @@
 "In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "Keka가 자연스럽게 작동하기 위해서는 Mac 디스크에 대하 권한이 필요합니다.";
 "\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\nMac 디스크는 이미 선택되어 있으므로, 단순히 \"Give access to Keka\" 버튼을 클릭하세요.";
 "Give access to Keka" = "Keka에게 권한 허용";
-
-"Unknown error" = "알 수 없는 오류";
