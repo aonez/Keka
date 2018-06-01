@@ -53,8 +53,8 @@
 "Keka - %i on queue" = "Keka - %i on queue";
 "Keka can't create this %@ image" = "Keka can't create this %@ image";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image.";
-"Keka can't create this XZ tarball" = "Keka can't create this XZ tarball";
-"This operation is not supported on OS X 10.8.\nPlease update your system or manually create a TAR and then XZ it." = "This operation is not supported on OS X 10.8.\nPlease update your system or manually create a TAR and then XZ it.";
+"Keka can't create this @% tarball" = "Keka can't create this @% tarball";
+"This operation is not supported on %@." = "This operation is not supported on %@.";
 "Compress \"%@\" in %@ to..." = "Compress \"%@\" in %@ to...";
 "Compress in %@ to..." = "Compress in %@ to...";
 "Save as:" = "Save as:";
