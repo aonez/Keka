@@ -59,7 +59,7 @@
 /* Class = "NSButtonCell"; title = "Show file in Finder after compression"; ObjectID = "264"; */
 "264.title" = "Mostra l'arxiu fitxer al Finder després de la compressió";
 
-/* Class = "NSButtonCell"; title = "Exclude Mac OS X resource forks (eg: .DS_Store)"; ObjectID = "265"; */
+/* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "265"; */
 "265.title" = "Omet els fitxers amagats del Mac (p. ex: .DS_Store)";
 
 /* Class = "NSBox"; title = "Name and location"; ObjectID = "270"; */

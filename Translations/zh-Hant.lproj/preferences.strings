@@ -59,8 +59,8 @@
 /* Class = "NSButtonCell"; title = "Show file in Finder after compression"; ObjectID = "264"; */
 "264.title" = "壓縮完成後在 Finder 中顯示";
 
-/* Class = "NSButtonCell"; title = "Exclude Mac OS X resource forks (eg: .DS_Store)"; ObjectID = "265"; */
-"265.title" = "排除 Mac OS X 系統檔案 (例如: .DS_Store)";
+/* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "265"; */
+"265.title" = "排除 Mac 系統檔案 (例如: .DS_Store)";
 
 /* Class = "NSBox"; title = "Name and location"; ObjectID = "270"; */
 "270.title" = "名稱和位置";
