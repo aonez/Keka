@@ -1,7 +1,7 @@
 "_BASE_USED_" = "fr";
-// Use the _ADVANCED_EXTRA_WIDTH_ to fit the method description properly
+/* Use the _ADVANCED_EXTRA_WIDTH_ (if needed) to fit the method description properly */
 "_ADVANCED_EXTRA_WIDTH_" = "10.0";
-//"_PREFERENCES_EXTRA_WIDTH_" = "0.0";
+/* "_PREFERENCES_EXTRA_WIDTH_" = "0.0"; */
 "OK" = "OK";
 "Yes" = "Oui";
 "No" = "Non";
@@ -24,7 +24,6 @@
 "Compression fail" = "Echec de la compression";
 "File \"%@\" cannot be created" = "Le fichier \"%@\" n'a pu être créé";
 "Operation not implemented" = "Opération non disponible";
-"This operation is not implemented yet so Keka is in beta process." = "Cette opération n'est pas encore disponible dans cette version beta de Keka.";
 "Performing operation..." = "Opération en cours...";
 "Waiting..." = "Patientez...";
 "Extracting \"%@\"" = "Extraction de \"%@\"";
@@ -52,10 +51,10 @@
 "Choose a folder to extract this file" = "Choisissez un dossier où extraire ce fichier";
 "Extraction of \"%@\" failed" = "L'extraction de \"%@\" a échoué";
 "Keka - %i on queue" = "Keka - %i en file d'attente";
-"Keka can't create this ISO image" = "Keka ne peut créer l'image ISO";
-"You can only create an ISO image with a single folder. Try to put all your files in a folder and drop it to Keka to create the ISO image." = "La création d'une image ISO n'accepte qu'un unique dossier. Placez tous vos fichiers dans un même dossier et déposez-le sur Keka pour créer une image ISO.";
-"Keka can't create this xz tarball" = "Keka can't create this xz tarball";
-"This operation is not supported on OS X 10.8.\nPlease update your system or manually create a Tar and then xz it." = "This operation is not supported on OS X 10.8.\nPlease update your system or manually create a Tar and then xz it.";
+"Keka can't create this %@ image" = "Keka ne peut créer l'image %@";
+"You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "La création d'une image %@ n'accepte qu'un unique dossier. Placez tous vos fichiers dans un même dossier et déposez-le sur Keka pour créer une image %@.";
+"Keka can't create this @% tarball" = "Keka can't create this @% tarball";
+"This operation is not supported on %@." = "This operation is not supported on %@.";
 "Compress \"%@\" in %@ to..." = "Comprimer \"%@\" dans %@ vers...";
 "Compress in %@ to..." = "Comprimer dans %@ vers ...";
 "Save as:" = "Enregistrer sous:";
@@ -104,6 +103,7 @@
 "4.7 GB DVD" = "DVD 4.7 Go";
 "Drop here to extract" = "Déposer ici pour extraire";
 "Drop here to compress" = "Déposer ici pour comprimer";
+"Binary \"%@\" is not accessible" = "Binary \"%@\" is not accessible";
 "The first part \"%@\" can't be found" = "La première partie \"%@\" est introuvable";
 "unknown" = "inconnu";
 "Unknown error" = "Erreur inconnue";
@@ -122,5 +122,12 @@
 "Bad password, try again" = "Mot de passe incorrect, veuillez recommencer";
 "This archive is locked" = "Cette archive est verrouillée";
 "Write error. No permission? No space left?" = "Erreur d'écriture. Pas de permission ? Pas d'espace libre ?";
-"Can't open the file, maybe it's not accesible" = "Echec d'ouverture du fichier, le fichier n'est peut-être pas accessible";
+"Can't open the file, maybe it's not accessible" = "Echec d'ouverture du fichier, le fichier n'est peut-être pas accessible";
 "No files matching the mask" = "Aucun fichier ne correspond au filtre";
+"Give access" = "Give access";
+"Quit" = "Quit";
+"More information" = "More information";
+"Keka needs file access" = "Keka needs file access";
+"In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "In order to work seamlessly with your files, Keka needs local access to the Mac disk.";
+"\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\nSimply click on \"Give access to Keka\", your disk should already be selected.";
+"Give access to Keka" = "Give access to Keka";

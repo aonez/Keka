@@ -1,12 +1,3 @@
 ﻿
 /* Class = "NSButtonCell"; title = "Done"; ObjectID = "62"; */
 "62.title" = "Done";
-
-/* Class = "NSTextFieldCell"; title = "Timer status"; ObjectID = "93"; */
-"93.title" = "Timer status";
-
-/* Class = "NSTextFieldCell"; title = "Status Text"; ObjectID = "94"; */
-"94.title" = "Status Text";
-
-/* Class = "NSTextFieldCell"; title = "Multiline Label"; ObjectID = "152"; */
-"152.title" = "Multiline Label";
