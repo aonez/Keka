@@ -1,110 +1,92 @@
-
+﻿
 /* Class = "NSBox"; title = "Format"; ObjectID = "153"; */
 "153.title" = "Format";
 
-/* Class = "NSTextFieldCell"; title = "Format par défaut :"; ObjectID = "159"; */
+/* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
 "159.title" = "Format par défaut :";
 
-/* Class = "NSTextFieldCell"; title = "Méthode par défaut :"; ObjectID = "160"; */
+/* Class = "NSTextFieldCell"; title = "Default method:"; ObjectID = "160"; */
 "160.title" = "Méthode par défaut :";
 
-/* Class = "NSTextFieldCell"; title = "Ces réglages sont utilisés lorsque Keka n'est pas déjà lancé."; ObjectID = "161"; */
+/* Class = "NSTextFieldCell"; title = "Those are only applied when Keka is not open"; ObjectID = "161"; */
 "161.title" = "Ces réglages sont utilisés lorsque Keka n'est pas déjà lancé.";
 
-/* Class = "NSMenuItem"; title = "Non comprimé"; ObjectID = "164"; */
+/* Class = "NSMenuItem"; title = "No compression"; ObjectID = "164"; */
 "164.title" = "Non comprimé";
 
-/* Class = "NSMenuItem"; title = "Rapide, moins comprimé"; ObjectID = "165"; */
+/* Class = "NSMenuItem"; title = "Fast, less compression"; ObjectID = "165"; */
 "165.title" = "Rapide, moins comprimé";
 
 /* Class = "NSMenuItem"; title = "Normal"; ObjectID = "166"; */
 "166.title" = "Normal";
 
-/* Class = "NSMenuItem"; title = "Très rapide, moins comprimé"; ObjectID = "167"; */
+/* Class = "NSMenuItem"; title = "Fastest, less compression"; ObjectID = "167"; */
 "167.title" = "Très rapide, moins comprimé";
 
-/* Class = "NSMenuItem"; title = "Très lent, mieux comprimé"; ObjectID = "168"; */
+/* Class = "NSMenuItem"; title = "Slowest, more compression"; ObjectID = "168"; */
 "168.title" = "Très lent, mieux comprimé";
 
-/* Class = "NSMenuItem"; title = "Lent, mieux comprimé"; ObjectID = "169"; */
+/* Class = "NSMenuItem"; title = "Slow, more compression"; ObjectID = "169"; */
 "169.title" = "Lent, mieux comprimé";
 
-/* Class = "NSMenuItem"; title = "7z"; ObjectID = "172"; */
-"172.title" = "7z";
-
-/* Class = "NSMenuItem"; title = "Zip"; ObjectID = "173"; */
-"173.title" = "Zip";
-
-/* Class = "NSMenuItem"; title = "Tar"; ObjectID = "174"; */
-"174.title" = "Tar";
-
-/* Class = "NSMenuItem"; title = "Gzip"; ObjectID = "175"; */
-"175.title" = "Gzip";
-
-/* Class = "NSMenuItem"; title = "Iso"; ObjectID = "176"; */
-"176.title" = "Iso";
-
-/* Class = "NSButtonCell"; title = "Définir Keka comme compresseur/décompresseur par défaut"; ObjectID = "184"; */
+/* Class = "NSButtonCell"; title = "Set Keka as default compressor/uncompressor"; ObjectID = "184"; */
 "184.title" = "Définir Keka comme compresseur/décompresseur par défaut";
 
-/* Class = "NSButtonCell"; title = "Fermer Keka lorsqu'aucune fenêtre n'est visible"; ObjectID = "187"; */
+/* Class = "NSButtonCell"; title = "Close Keka when no windows are open"; ObjectID = "187"; */
 "187.title" = "Fermer Keka lorsqu'aucune fenêtre n'est visible";
 
 /* Class = "NSBox"; title = "Actions"; ObjectID = "191"; */
 "191.title" = "Actions";
 
-/* Class = "NSTextFieldCell"; title = "Choisir l'action automatiquement : Keka choisira de comprimer ou décomprimer selon l'extension des fichiers."; ObjectID = "194"; */
+/* Class = "NSTextFieldCell"; title = "Automatic action: Keka will decide whether to compress or uncompress based on file format and extension"; ObjectID = "194"; */
 "194.title" = "Choisir l'action automatiquement : Keka choisira de comprimer ou décomprimer selon l'extension des fichiers.";
 
-/* Class = "NSMenuItem"; title = "Toujours extraire"; ObjectID = "197"; */
+/* Class = "NSMenuItem"; title = "Always extract"; ObjectID = "197"; */
 "197.title" = "Toujours extraire";
 
-/* Class = "NSMenuItem"; title = "Toujours comprimer"; ObjectID = "198"; */
+/* Class = "NSMenuItem"; title = "Always compress"; ObjectID = "198"; */
 "198.title" = "Toujours comprimer";
 
-/* Class = "NSMenuItem"; title = "Choisir l'action automatiquement"; ObjectID = "199"; */
+/* Class = "NSMenuItem"; title = "Perform automatic action"; ObjectID = "199"; */
 "199.title" = "Choisir l'action automatiquement";
 
-/* Class = "NSButtonCell"; title = "Mettre les fichiers à la corbeille une fois comprimés"; ObjectID = "262"; */
+/* Class = "NSButtonCell"; title = "Move original file(s) to Trash after compression"; ObjectID = "262"; */
 "262.title" = "Mettre les fichiers à la corbeille une fois comprimés";
 
-/* Class = "NSButtonCell"; title = "Archiver les fichiers séparément"; ObjectID = "263"; */
+/* Class = "NSButtonCell"; title = "Archive as single files"; ObjectID = "263"; */
 "263.title" = "Archiver les fichiers séparément";
 
-/* Class = "NSButtonCell"; title = "Afficher les archives dans le Finder après compression"; ObjectID = "264"; */
+/* Class = "NSButtonCell"; title = "Show file in Finder after compression"; ObjectID = "264"; */
 "264.title" = "Afficher les archives dans le Finder après compression";
 
-/* Class = "NSButtonCell"; title = "Exclure les fichiers spéciaux Mac (ex : .DS_Store)"; ObjectID = "265"; */
+/* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "265"; */
 "265.title" = "Exclure les fichiers spéciaux Mac (ex : .DS_Store)";
 
-/* Class = "NSBox"; title = "Nom et emplacement"; ObjectID = "270"; */
+/* Class = "NSBox"; title = "Name and location"; ObjectID = "270"; */
 "270.title" = "Nom et emplacement";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "276"; */
 "276.placeholderString" = "Here your custom name";
 
-/* Class = "NSTextFieldCell"; title = "Entrez un nom personnalisé"; ObjectID = "276"; */
-"276.title" = "Entrez un nom personnalisé";
-
-/* Class = "NSMenuItem"; title = "Toujours demander"; ObjectID = "279"; */
+/* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "279"; */
 "279.title" = "Toujours demander";
 
-/* Class = "NSMenuItem"; title = "A côté du fichier d'origine"; ObjectID = "280"; */
+/* Class = "NSMenuItem"; title = "Next to original file"; ObjectID = "280"; */
 "280.title" = "A côté du fichier d'origine";
 
-/* Class = "NSMenuItem"; title = "Dossier personnalisé..."; ObjectID = "281"; */
+/* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "281"; */
 "281.title" = "Dossier personnalisé...";
 
-/* Class = "NSTextFieldCell"; title = "Créer les archives à cet emplacement :"; ObjectID = "282"; */
+/* Class = "NSTextFieldCell"; title = "Save to location:"; ObjectID = "282"; */
 "282.title" = "Créer les archives à cet emplacement :";
 
-/* Class = "NSTextFieldCell"; title = "Nom des nouvelles archives :"; ObjectID = "283"; */
+/* Class = "NSTextFieldCell"; title = "Name of new files:"; ObjectID = "283"; */
 "283.title" = "Nom des nouvelles archives :";
 
-/* Class = "NSMenuItem"; title = "Comme le fichier d'origine"; ObjectID = "286"; */
+/* Class = "NSMenuItem"; title = "Same as original file"; ObjectID = "286"; */
 "286.title" = "Comme le fichier d'origine";
 
-/* Class = "NSMenuItem"; title = "Nom personnalisé..."; ObjectID = "287"; */
+/* Class = "NSMenuItem"; title = "Custom name..."; ObjectID = "287"; */
 "287.title" = "Nom personnalisé...";
 
 /* Class = "NSToolbarItem"; label = "Compression"; ObjectID = "333"; */
@@ -113,10 +95,10 @@
 /* Class = "NSToolbarItem"; paletteLabel = "Compression"; ObjectID = "333"; */
 "333.paletteLabel" = "Compression";
 
-/* Class = "NSToolbarItem"; label = "Général"; ObjectID = "334"; */
+/* Class = "NSToolbarItem"; label = "General"; ObjectID = "334"; */
 "334.label" = "Général";
 
-/* Class = "NSToolbarItem"; paletteLabel = "Général"; ObjectID = "334"; */
+/* Class = "NSToolbarItem"; paletteLabel = "General"; ObjectID = "334"; */
 "334.paletteLabel" = "Général";
 
 /* Class = "NSToolbarItem"; label = "Extraction"; ObjectID = "338"; */
@@ -125,143 +107,50 @@
 /* Class = "NSToolbarItem"; paletteLabel = "Extraction"; ObjectID = "338"; */
 "338.paletteLabel" = "Extraction";
 
-/* Class = "NSMenuItem"; title = "Dmg"; ObjectID = "347"; */
-"347.title" = "Dmg";
-
-/* Class = "NSMenuItem"; title = "Bzip2"; ObjectID = "348"; */
-"348.title" = "Bzip2";
-
-/* Class = "NSBox"; title = "Emplacement"; ObjectID = "352"; */
+/* Class = "NSBox"; title = "Location"; ObjectID = "352"; */
 "352.title" = "Emplacement";
 
-/* Class = "NSMenuItem"; title = "Toujours demander"; ObjectID = "357"; */
+/* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "357"; */
 "357.title" = "Toujours demander";
 
-/* Class = "NSMenuItem"; title = "A côté du fichier d'origine"; ObjectID = "358"; */
+/* Class = "NSMenuItem"; title = "Next to original file"; ObjectID = "358"; */
 "358.title" = "A côté du fichier d'origine";
 
-/* Class = "NSMenuItem"; title = "Dossier personnalisé..."; ObjectID = "359"; */
+/* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "359"; */
 "359.title" = "Dossier personnalisé...";
 
-/* Class = "NSTextFieldCell"; title = "Extraire les archives à cet emplacement :"; ObjectID = "360"; */
+/* Class = "NSTextFieldCell"; title = "Extract to location:"; ObjectID = "360"; */
 "360.title" = "Extraire les archives à cet emplacement :";
 
-/* Class = "NSButtonCell"; title = "Afficher les fichiers dans le Finder après extraction"; ObjectID = "361"; */
+/* Class = "NSButtonCell"; title = "Show content in Finder after extraction"; ObjectID = "361"; */
 "361.title" = "Afficher les fichiers dans le Finder après extraction";
 
-/* Class = "NSButtonCell"; title = "Mettre les archives à la corbeille après extraction"; ObjectID = "362"; */
+/* Class = "NSButtonCell"; title = "Move compressed file(s) to Trash after extraction"; ObjectID = "362"; */
 "362.title" = "Mettre les archives à la corbeille après extraction";
 
-/* Class = "NSMenuItem"; title = "Basso"; ObjectID = "416"; */
-"416.title" = "Basso";
-
-/* Class = "NSMenuItem"; title = "Tink"; ObjectID = "417"; */
-"417.title" = "Tink";
-
-/* Class = "NSMenuItem"; title = "Aucun"; ObjectID = "418"; */
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "418"; */
 "418.title" = "Aucun";
 
-/* Class = "NSMenuItem"; title = "Par défaut - compression"; ObjectID = "419"; */
+/* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "419"; */
 "419.title" = "Par défaut - compression";
 
-/* Class = "NSMenuItem"; title = "Bottle"; ObjectID = "420"; */
-"420.title" = "Bottle";
-
-/* Class = "NSMenuItem"; title = "Blow"; ObjectID = "421"; */
-"421.title" = "Blow";
-
-/* Class = "NSMenuItem"; title = "Submarine"; ObjectID = "422"; */
-"422.title" = "Submarine";
-
-/* Class = "NSMenuItem"; title = "Sosumi"; ObjectID = "423"; */
-"423.title" = "Sosumi";
-
-/* Class = "NSMenuItem"; title = "Purr"; ObjectID = "424"; */
-"424.title" = "Purr";
-
-/* Class = "NSMenuItem"; title = "Pop"; ObjectID = "425"; */
-"425.title" = "Pop";
-
-/* Class = "NSMenuItem"; title = "Ping"; ObjectID = "426"; */
-"426.title" = "Ping";
-
-/* Class = "NSMenuItem"; title = "Morse"; ObjectID = "427"; */
-"427.title" = "Morse";
-
-/* Class = "NSMenuItem"; title = "Hero"; ObjectID = "428"; */
-"428.title" = "Hero";
-
-/* Class = "NSMenuItem"; title = "Glass"; ObjectID = "429"; */
-"429.title" = "Glass";
-
-/* Class = "NSMenuItem"; title = "Funk"; ObjectID = "430"; */
-"430.title" = "Funk";
-
-/* Class = "NSMenuItem"; title = "Frog"; ObjectID = "431"; */
-"431.title" = "Frog";
-
-/* Class = "NSMenuItem"; title = "Par défaut - extraction"; ObjectID = "432"; */
+/* Class = "NSMenuItem"; title = "Default extraction"; ObjectID = "432"; */
 "432.title" = "Par défaut - extraction";
 
-/* Class = "NSTextFieldCell"; title = "Jouer un son après extraction :"; ObjectID = "433"; */
+/* Class = "NSTextFieldCell"; title = "Play a sound after an extraction:"; ObjectID = "433"; */
 "433.title" = "Jouer un son après extraction :";
 
-/* Class = "NSTextFieldCell"; title = "Jouer un son après compression :"; ObjectID = "436"; */
+/* Class = "NSTextFieldCell"; title = "Play a sound after a compression:"; ObjectID = "436"; */
 "436.title" = "Jouer un son après compression :";
 
-/* Class = "NSMenuItem"; title = "Par défaut - extraction"; ObjectID = "439"; */
+/* Class = "NSMenuItem"; title = "Default extraction"; ObjectID = "439"; */
 "439.title" = "Par défaut - extraction";
 
-/* Class = "NSMenuItem"; title = "Frog"; ObjectID = "440"; */
-"440.title" = "Frog";
-
-/* Class = "NSMenuItem"; title = "Funk"; ObjectID = "441"; */
-"441.title" = "Funk";
-
-/* Class = "NSMenuItem"; title = "Glass"; ObjectID = "442"; */
-"442.title" = "Glass";
-
-/* Class = "NSMenuItem"; title = "Hero"; ObjectID = "443"; */
-"443.title" = "Hero";
-
-/* Class = "NSMenuItem"; title = "Morse"; ObjectID = "444"; */
-"444.title" = "Morse";
-
-/* Class = "NSMenuItem"; title = "Ping"; ObjectID = "445"; */
-"445.title" = "Ping";
-
-/* Class = "NSMenuItem"; title = "Pop"; ObjectID = "446"; */
-"446.title" = "Pop";
-
-/* Class = "NSMenuItem"; title = "Purr"; ObjectID = "447"; */
-"447.title" = "Purr";
-
-/* Class = "NSMenuItem"; title = "Sosumi"; ObjectID = "448"; */
-"448.title" = "Sosumi";
-
-/* Class = "NSMenuItem"; title = "Submarine"; ObjectID = "449"; */
-"449.title" = "Submarine";
-
-/* Class = "NSMenuItem"; title = "Blow"; ObjectID = "450"; */
-"450.title" = "Blow";
-
-/* Class = "NSMenuItem"; title = "Bottle"; ObjectID = "451"; */
-"451.title" = "Bottle";
-
-/* Class = "NSMenuItem"; title = "Par défaut - compression"; ObjectID = "452"; */
+/* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "452"; */
 "452.title" = "Par défaut - compression";
 
-/* Class = "NSMenuItem"; title = "Aucun"; ObjectID = "453"; */
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "453"; */
 "453.title" = "Aucun";
-
-/* Class = "NSMenuItem"; title = "Tink"; ObjectID = "454"; */
-"454.title" = "Tink";
-
-/* Class = "NSMenuItem"; title = "Basso"; ObjectID = "455"; */
-"455.title" = "Basso";
-
-/* Class = "NSButtonCell"; title = "Enable context menu services"; ObjectID = "CRY-lE-Luz"; */
-"CRY-lE-Luz.title" = "Enable context menu services";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "Enable Notification Center integration";
@@ -269,5 +158,5 @@
 /* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "b5e-bj-Pgz"; */
 "b5e-bj-Pgz.title" = "Use unified toolbar (resets customizations)";
 
-/* Class = "NSButtonCell"; title = "Use AES-256 when encrypting Zip files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
-"hp7-jO-HeV.title" = "Use AES-256 when encrypting Zip files (less compatible)";
+/* Class = "NSButtonCell"; title = "Use AES-256 when encrypting ZIP files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
+"hp7-jO-HeV.title" = "Use AES-256 when encrypting ZIP files (less compatible)";

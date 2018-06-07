@@ -1,7 +1,7 @@
 "_BASE_USED_" = "en";
-// Use the _ADVANCED_EXTRA_WIDTH_ to fit the method description properly
+/* Use the _ADVANCED_EXTRA_WIDTH_ (if needed) to fit the method description properly */
 "_ADVANCED_EXTRA_WIDTH_" = "0.0";
-//"_PREFERENCES_EXTRA_WIDTH_" = "0.0";
+/* "_PREFERENCES_EXTRA_WIDTH_" = "0.0"; */
 "OK" = "OK";
 "Yes" = "Yes";
 "No" = "No";
@@ -24,7 +24,6 @@
 "Compression fail" = "Compression failed";
 "File \"%@\" cannot be created" = "File \"%@\" cannot be created";
 "Operation not implemented" = "Operation not implemented";
-"This operation is not implemented yet so Keka is in beta process." = "This operation is not implemented yet as Keka is in Beta.";
 "Performing operation..." = "Performing operation...";
 "Waiting..." = "Waiting...";
 "Extracting \"%@\"" = "Extracting \"%@\"";
@@ -52,10 +51,10 @@
 "Choose a folder to extract this file" = "Choose a folder to extract this file";
 "Extraction of \"%@\" failed" = "Extraction of \"%@\" failed";
 "Keka - %i on queue" = "Keka - %i on queue";
-"Keka can't create this ISO image" = "Keka can't create this ISO image";
-"You can only create an ISO image with a single folder. Try to put all your files in a folder and drop it to Keka to create the ISO image." = "You can only create an ISO image with a single folder. Try to put all your files in a folder and drop it to Keka to create the ISO image.";
-"Keka can't create this xz tarball" = "Keka can't create this xz tarball";
-"This operation is not supported on OS X 10.8.\nPlease update your system or manually create a Tar and then xz it." = "This operation is not supported on OS X 10.8.\nPlease update your system or manually create a TAR and then XZ it.";
+"Keka can't create this %@ image" = "Keka can't create this %@ image";
+"You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image.";
+"Keka can't create this @% tarball" = "Keka can't create this @% tarball";
+"This operation is not supported on %@." = "This operation is not supported on %@.";
 "Compress \"%@\" in %@ to..." = "Compress \"%@\" in %@ to...";
 "Compress in %@ to..." = "Compress in %@ to...";
 "Save as:" = "Save as:";
@@ -125,3 +124,10 @@
 "Write error. No permission? No space left?" = "Write error. No permission? No space left?";
 "Can't open the file, maybe it's not accessible" = "Can't open the file, maybe it's not accessible";
 "No files matching the mask" = "No files matching the mask";
+"Give access" = "Give access";
+"Quit" = "Quit";
+"More information" = "More information";
+"Keka needs file access" = "Keka needs file access";
+"In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "In order to work seamlessly with your files, Keka needs local access to the Mac disk.";
+"\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\nSimply click on \"Give access to Keka\", your disk should already be selected.";
+"Give access to Keka" = "Give access to Keka";

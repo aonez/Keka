@@ -1,7 +1,4 @@
 
-/* Class = "NSMenu"; title = "Dock Menu"; ObjectID = "942"; */
-"942.title" = "Меню Dock";
-
 /* Class = "NSMenuItem"; title = "Perform automatic action"; ObjectID = "943"; */
 "943.title" = "Автовыбор нужного действия";
 
@@ -41,8 +38,8 @@
 /* Class = "NSMenuItem"; title = "Slowest, more compression"; ObjectID = "965"; */
 "965.title" = "Самый медленный (больше сжатие)";
 
-/* Class = "NSTextFieldCell"; title = "You can create a Dmg volume that will be readable only and compressed.\n\nSet a volumename to this Dmg or use the default name based on the files you compress."; ObjectID = "2189"; */
-"2189.title" = "Вы можете создать Dmg-образ диска со сжатием, доступный только для чтения.\n\nУкажите имя для этого Dmg-образа, либо используйте имя по умолчанию на основе сжимаемых файлов.";
+/* Class = "NSTextFieldCell"; title = "You can create a DMG volume that will be read-only and compressed.\n\nSet a volume name to this DMG or use the default name based on the files you compress."; ObjectID = "2189"; */
+"2189.title" = "Вы можете создать DMG-образ диска со сжатием, доступный только для чтения.\n\nУкажите имя для этого DMG-образа, либо используйте имя по умолчанию на основе сжимаемых файлов.";
 
 /* Class = "NSButtonCell"; title = "Archive as single files"; ObjectID = "2221"; */
 "2221.title" = "Пофайловое сжатие";
@@ -51,7 +48,7 @@
 "2222.title" = "Удалить файл(ы) после сжатия";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks"; ObjectID = "2244"; */
-"2244.title" = "Исключить вилки ресурсов macOS";
+"2244.title" = "Исключить вилки ресурсов Mac";
 
 /* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "2262"; */
 "2262.title" = "Пароль:";
@@ -80,7 +77,7 @@
 /* Class = "NSTextFieldCell"; placeholderString = "custom name"; ObjectID = "2354"; */
 "2354.placeholderString" = "укажите имя";
 
-/* Class = "NSTextFieldCell"; title = "You can create a Iso volume that will be readable only and compressed. Iso volumes can be only created from a folder.\n\nSet a volume name to this Iso or use the default name based on the files you compress."; ObjectID = "2363"; */
+/* Class = "NSTextFieldCell"; title = "You can create a ISO volume that will be read-only and compressed. ISO volumes can be only created from a folder.\n\nSet a volume name to this ISO or use the default name based on the files you compress."; ObjectID = "2363"; */
 "2363.title" = "Вы можете создать ISO-образ диска со сжатием, доступный только для чтения. ISO-образы могут быть созданы только из папок.\n\nУкажите имя для этого ISO-образа, либо используйте имя по умолчанию на основе сжимаемых файлов.";
 
 /* Class = "NSTextFieldCell"; title = "Store"; ObjectID = "2390"; */
@@ -107,11 +104,5 @@
 /* Class = "NSButtonCell"; title = "Use AES-256 encryption"; ObjectID = "Lw7-h9-3Qh"; */
 "Lw7-h9-3Qh.title" = "Использовать шифрование AES-256";
 
-/* Class = "NSWindow"; title = "Keka"; ObjectID = "RXN-3Y-Yyn"; */
-"RXN-3Y-Yyn.title" = "Keka";
-
 /* Class = "NSButtonCell"; title = "Solid archive"; ObjectID = "UYy-aQ-V1a"; */
 "UYy-aQ-V1a.title" = "Непрерывный архив";
-
-/* Class = "NSButtonCell"; title = "Use AES-256 encryption"; ObjectID = "Lw7-h9-3Qh"; */
-"Lw7-h9-3Qh.title" = "Use AES-256 encryption";
