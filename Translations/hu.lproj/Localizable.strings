@@ -1,7 +1,7 @@
 "_BASE_USED_" = "hu";
-// Use the _ADVANCED_EXTRA_WIDTH_ to fit the method description properly
+/* Use the _ADVANCED_EXTRA_WIDTH_ (if needed) to fit the method description properly */
 "_ADVANCED_EXTRA_WIDTH_" = "0.0";
-//"_PREFERENCES_EXTRA_WIDTH_" = "0.0";
+/* "_PREFERENCES_EXTRA_WIDTH_" = "0.0"; */
 "OK" = "OK";
 "Yes" = "Igen";
 "No" = "Nem";
@@ -16,15 +16,14 @@
 "File \"%@\" needs a password to be extracted" = "A \"%@\" fájl kibontásához jelszóra van szükség";
 "Extraction of \"%@\" done" = "\"%@\" kibontása kész.";
 "Extraction of \"%@\" failed." = "\"%@\" kibontása sikertelen.";
-"Extraction complete" = "Kibontás kész";
 "Extraction of %i files done" = "Extraction of %i files done";
+"Extraction complete" = "Kibontás kész";
 "Extraction fail" = "A kibontás során hiba lépett fel";
 "Compression complete" = "Tömörítés kész";
 "File \"%@\" created" = "\"%@\" létrehozva";
 "Compression fail" = "A tömörítés során hiba lépett fel";
 "File \"%@\" cannot be created" = "\"%@\" nem hozható létre";
 "Operation not implemented" = "A funkció még nincs a programban";
-"This operation is not implemented yet so Keka is in beta process." = "Mivel ezen Keka beta kiadású még lehetnek nem befejezett funkciói.";
 "Performing operation..." = "Művelet előkészítése...";
 "Waiting..." = "Várakozás...";
 "Extracting \"%@\"" = "\"%@\" kibontása";
@@ -52,10 +51,10 @@
 "Choose a folder to extract this file" = "Válassz célmappát";
 "Extraction of \"%@\" failed" = "\"%@\" kibontása sikertelen";
 "Keka - %i on queue" = "Keka - %i sorban áll";
-"Keka can't create this ISO image" = "A Keka nem tudja elkészíteni ezt az ISO fájlt";
-"You can only create an ISO image with a single folder. Try to put all your files in a folder and drop it to Keka to create the ISO image." = "Csak egyetlen mappáról tudsz ISO lemezképfájlt készíteni. Próbáld az összes fájlodat egy mappába rendezni, majd azt az egy mappát a Keka-ra húzni.";
-"Keka can't create this xz tarball" = "Keka can't create this xz tarball";
-"This operation is not supported on OS X 10.8.\nPlease update your system or manually create a Tar and then xz it." = "This operation is not supported on OS X 10.8.\nPlease update your system or manually create a Tar and then xz it.";
+"Keka can't create this %@ image" = "A Keka nem tudja elkészíteni ezt az %@ fájlt";
+"You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "Csak egyetlen mappáról tudsz %@ lemezképfájlt készíteni. Próbáld az összes fájlodat egy mappába rendezni, majd azt az egy mappát a Keka-ra húzni.";
+"Keka can't create this @% tarball" = "Keka can't create this @% tarball";
+"This operation is not supported on %@." = "This operation is not supported on %@.";
 "Compress \"%@\" in %@ to..." = "\"%@\" tömörítése, %@ formátumban...";
 "Compress in %@ to..." = "Tömörítés %@ formátumban...";
 "Save as:" = "Mentés mint:";
@@ -77,18 +76,13 @@
 " - Remaining: Less than one second" = " - Hátralévő idő: Kevesebb mint egy perc";
 "Can't show progress time..." = "Nem kiírható…";
 "Password for \"%@\"" = "\"%@\" jelszava";
+"Method:" = "Mód:";
 "No compression" = "Nincs tömörítés";
 "Fastest, less compression" = "Gyors, Legkevesebb tömörítés";
 "Fast, less compression" = "Kevés tömörítés";
 "Normal" = "Normál";
 "Slow, more compression" = "Jobb tömörítés";
 "Slowest, more compression" = "Lassú, legjobb tömörítés";
-"Method: No compression" = "Mód: Nincs tömörítés";
-"Method: Fastest, less compression" = "Mód: Legkevesebb tömörítés";
-"Method: Fast, less compression" = "Mód: Kevés tömörítés";
-"Method: Normal" = "Mód: Normál";
-"Method: Slow, more compression" = "Mód: Jobb tömörítés";
-"Method: Slowest, more compression" = "Mód: Legjobb tömörítés";
 "Compression" = "Tömörítés";
 "Extraction" = "Kibontás";
 "Keka can't use the \"extlx.plist\" list, please get in contact with the developers.\n\nNow Keka will quit." = "A Keka nem tudja használni a \"extlx.plist\" fájlt, lépj kapcsolatba a fejlesztővel.\n\nA Keka most kilép.";
@@ -109,6 +103,7 @@
 "4.7 GB DVD" = "4.7 GB DVD";
 "Drop here to extract" = "Bobd ide a kibontáshoz";
 "Drop here to compress" = "Bobd ide a tömörítéshez";
+"Binary \"%@\" is not accessible" = "Binary \"%@\" is not accessible";
 "The first part \"%@\" can't be found" = "Az első darab \"%@\" nem található";
 "unknown" = "ismeretlen";
 "Unknown error" = "Ismeretlen hiba";
@@ -127,5 +122,12 @@
 "Bad password, try again" = "Rossz jelszó, próbáld újra";
 "This archive is locked" = "Az archívum jelszóval védett";
 "Write error. No permission? No space left?" = "Írási hiba. Nincs jogosultság? Nincs több hely?";
-"Can't open the file, maybe it's not accesible" = "A fájl nem nyitható meg, talán nem elérhető";
+"Can't open the file, maybe it's not accessible" = "A fájl nem nyitható meg, talán nem elérhető";
 "No files matching the mask" = "Nem található a feltételnek megfelelő fájl";
+"Give access" = "Give access";
+"Quit" = "Quit";
+"More information" = "More information";
+"Keka needs file access" = "Keka needs file access";
+"In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "In order to work seamlessly with your files, Keka needs local access to the Mac disk.";
+"\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\nSimply click on \"Give access to Keka\", your disk should already be selected.";
+"Give access to Keka" = "Give access to Keka";

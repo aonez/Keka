@@ -1,273 +1,162 @@
-
-/* Class = "NSBox"; title = "압축 포맷"; ObjectID = "153"; */
+﻿
+/* Class = "NSBox"; title = "Format"; ObjectID = "153"; */
 "153.title" = "압축 포맷";
 
-/* Class = "NSTextFieldCell"; title = "기본 압축 형식:"; ObjectID = "159"; */
+/* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
 "159.title" = "기본 압축 형식:";
 
-/* Class = "NSTextFieldCell"; title = "기본 압축 방법:"; ObjectID = "160"; */
+/* Class = "NSTextFieldCell"; title = "Default method:"; ObjectID = "160"; */
 "160.title" = "기본 압축 방법:";
 
-/* Class = "NSTextFieldCell"; title = "이 설정들은 Keka가 열려있지 않을 때 적용됩니다"; ObjectID = "161"; */
+/* Class = "NSTextFieldCell"; title = "Those are only applied when Keka is not open"; ObjectID = "161"; */
 "161.title" = "이 설정들은 Keka가 열려있지 않을 때 적용됩니다";
 
-/* Class = "NSMenuItem"; title = "압축 안하기"; ObjectID = "164"; */
+/* Class = "NSMenuItem"; title = "No compression"; ObjectID = "164"; */
 "164.title" = "압축 안하기";
 
-/* Class = "NSMenuItem"; title = "빠르게, 낮은 압축률"; ObjectID = "165"; */
+/* Class = "NSMenuItem"; title = "Fast, less compression"; ObjectID = "165"; */
 "165.title" = "빠르게, 낮은 압축률";
 
-/* Class = "NSMenuItem"; title = "보통"; ObjectID = "166"; */
+/* Class = "NSMenuItem"; title = "Normal"; ObjectID = "166"; */
 "166.title" = "보통";
 
-/* Class = "NSMenuItem"; title = "가장 빠르게, 낮은 압축률"; ObjectID = "167"; */
+/* Class = "NSMenuItem"; title = "Fastest, less compression"; ObjectID = "167"; */
 "167.title" = "가장 빠르게, 낮은 압축률";
 
-/* Class = "NSMenuItem"; title = "가장 천천히, 높은 압축률"; ObjectID = "168"; */
+/* Class = "NSMenuItem"; title = "Slowest, more compression"; ObjectID = "168"; */
 "168.title" = "가장 천천히, 높은 압축률";
 
-/* Class = "NSMenuItem"; title = "천천히, 높은 압축률"; ObjectID = "169"; */
+/* Class = "NSMenuItem"; title = "Slow, more compression"; ObjectID = "169"; */
 "169.title" = "천천히, 높은 압축률";
 
-/* Class = "NSMenuItem"; title = "7z"; ObjectID = "172"; */
-"172.title" = "7z";
-
-/* Class = "NSMenuItem"; title = "Zip"; ObjectID = "173"; */
-"173.title" = "Zip";
-
-/* Class = "NSMenuItem"; title = "Tar"; ObjectID = "174"; */
-"174.title" = "Tar";
-
-/* Class = "NSMenuItem"; title = "Gzip"; ObjectID = "175"; */
-"175.title" = "Gzip";
-
-/* Class = "NSMenuItem"; title = "Iso"; ObjectID = "176"; */
-"176.title" = "Iso";
-
-/* Class = "NSButtonCell"; title = "Keka를 기본 압축/압축해제 프로그램으로 설정하기"; ObjectID = "184"; */
+/* Class = "NSButtonCell"; title = "Set Keka as default compressor/uncompressor"; ObjectID = "184"; */
 "184.title" = "Keka를 기본 압축/압축해제 프로그램으로 설정하기";
 
-/* Class = "NSButtonCell"; title = "아무런 창이 보이지 않을 때 Keka 종료하기"; ObjectID = "187"; */
+/* Class = "NSButtonCell"; title = "Close Keka when no windows are open"; ObjectID = "187"; */
 "187.title" = "아무런 창이 보이지 않을 때 Keka 종료하기";
 
-/* Class = "NSBox"; title = "Keka의 행동"; ObjectID = "191"; */
+/* Class = "NSBox"; title = "Actions"; ObjectID = "191"; */
 "191.title" = "Keka의 행동";
 
-/* Class = "NSTextFieldCell"; title = "자동: Keka가 파일을 압축할지, 압축풀지를 파일 확장자에 따라서 결정"; ObjectID = "194"; */
+/* Class = "NSTextFieldCell"; title = "Automatic action: Keka will decide whether to compress or uncompress based on file format and extension"; ObjectID = "194"; */
 "194.title" = "자동: Keka가 파일을 압축할지, 압축풀지를 파일 확장자에 따라서 결정";
 
-/* Class = "NSMenuItem"; title = "항상 압축 풀기"; ObjectID = "197"; */
+/* Class = "NSMenuItem"; title = "Always extract"; ObjectID = "197"; */
 "197.title" = "항상 압축 풀기";
 
-/* Class = "NSMenuItem"; title = "항상 압축"; ObjectID = "198"; */
+/* Class = "NSMenuItem"; title = "Always compress"; ObjectID = "198"; */
 "198.title" = "항상 압축";
 
-/* Class = "NSMenuItem"; title = "자동"; ObjectID = "199"; */
+/* Class = "NSMenuItem"; title = "Perform automatic action"; ObjectID = "199"; */
 "199.title" = "자동";
 
-/* Class = "NSButtonCell"; title = "압축 완료 후 원본 파일 휴지통으로 이동"; ObjectID = "262"; */
+/* Class = "NSButtonCell"; title = "Move original file(s) to Trash after compression"; ObjectID = "262"; */
 "262.title" = "압축 완료 후 원본 파일 휴지통으로 이동";
 
-/* Class = "NSButtonCell"; title = "단일 파일로 압축"; ObjectID = "263"; */
+/* Class = "NSButtonCell"; title = "Archive as single files"; ObjectID = "263"; */
 "263.title" = "단일 파일로 압축";
 
-/* Class = "NSButtonCell"; title = "압축 완료 후 Finder에서 파일 보기"; ObjectID = "264"; */
+/* Class = "NSButtonCell"; title = "Show file in Finder after compression"; ObjectID = "264"; */
 "264.title" = "압축 완료 후 Finder에서 파일 보기";
 
-/* Class = "NSButtonCell"; title = "Mac OS X 전용 파일 포함 안하기 (예: .DS_Store)"; ObjectID = "265"; */
-"265.title" = "Mac OS X 전용 파일 포함 안하기 (예: .DS_Store)";
+/* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "265"; */
+"265.title" = "Mac 전용 파일 포함 안하기 (예: .DS_Store)";
 
-/* Class = "NSBox"; title = "이름 및 위치"; ObjectID = "270"; */
+/* Class = "NSBox"; title = "Name and location"; ObjectID = "270"; */
 "270.title" = "이름 및 위치";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "276"; */
 "276.placeholderString" = "Here your custom name";
 
-/* Class = "NSTextFieldCell"; title = "특정 이름 입력"; ObjectID = "276"; */
-"276.title" = "특정 이름 입력";
-
-/* Class = "NSMenuItem"; title = "항상 묻기"; ObjectID = "279"; */
+/* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "279"; */
 "279.title" = "항상 묻기";
 
-/* Class = "NSMenuItem"; title = "원본 파일과 동일한 위치"; ObjectID = "280"; */
+/* Class = "NSMenuItem"; title = "Next to original file"; ObjectID = "280"; */
 "280.title" = "원본 파일과 동일한 위치";
 
-/* Class = "NSMenuItem"; title = "특정 위치..."; ObjectID = "281"; */
+/* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "281"; */
 "281.title" = "특정 위치...";
 
-/* Class = "NSTextFieldCell"; title = "저장 위치:"; ObjectID = "282"; */
+/* Class = "NSTextFieldCell"; title = "Save to location:"; ObjectID = "282"; */
 "282.title" = "저장 위치:";
 
-/* Class = "NSTextFieldCell"; title = "새로운 파일의 이름:"; ObjectID = "283"; */
+/* Class = "NSTextFieldCell"; title = "Name of new files:"; ObjectID = "283"; */
 "283.title" = "새로운 파일의 이름:";
 
-/* Class = "NSMenuItem"; title = "원본 파일과 동일한 이름"; ObjectID = "286"; */
+/* Class = "NSMenuItem"; title = "Same as original file"; ObjectID = "286"; */
 "286.title" = "원본 파일과 동일한 이름";
 
-/* Class = "NSMenuItem"; title = "특정 이름..."; ObjectID = "287"; */
+/* Class = "NSMenuItem"; title = "Custom name..."; ObjectID = "287"; */
 "287.title" = "특정 이름...";
 
-/* Class = "NSToolbarItem"; label = "압축"; ObjectID = "333"; */
+/* Class = "NSToolbarItem"; label = "Compression"; ObjectID = "333"; */
 "333.label" = "압축";
 
-/* Class = "NSToolbarItem"; paletteLabel = "압축"; ObjectID = "333"; */
+/* Class = "NSToolbarItem"; paletteLabel = "Compression"; ObjectID = "333"; */
 "333.paletteLabel" = "압축";
 
-/* Class = "NSToolbarItem"; label = "기본"; ObjectID = "334"; */
+/* Class = "NSToolbarItem"; label = "General"; ObjectID = "334"; */
 "334.label" = "기본";
 
-/* Class = "NSToolbarItem"; paletteLabel = "기본"; ObjectID = "334"; */
+/* Class = "NSToolbarItem"; paletteLabel = "General"; ObjectID = "334"; */
 "334.paletteLabel" = "기본";
 
-/* Class = "NSToolbarItem"; label = "압축 해제"; ObjectID = "338"; */
+/* Class = "NSToolbarItem"; label = "Extraction"; ObjectID = "338"; */
 "338.label" = "압축 해제";
 
-/* Class = "NSToolbarItem"; paletteLabel = "압축 해제"; ObjectID = "338"; */
+/* Class = "NSToolbarItem"; paletteLabel = "Extraction"; ObjectID = "338"; */
 "338.paletteLabel" = "압축 해제";
 
-/* Class = "NSMenuItem"; title = "Dmg"; ObjectID = "347"; */
-"347.title" = "Dmg";
-
-/* Class = "NSMenuItem"; title = "Bzip2"; ObjectID = "348"; */
-"348.title" = "Bzip2";
-
-/* Class = "NSBox"; title = "위치"; ObjectID = "352"; */
+/* Class = "NSBox"; title = "Location"; ObjectID = "352"; */
 "352.title" = "위치";
 
-/* Class = "NSMenuItem"; title = "항상 묻기"; ObjectID = "357"; */
+/* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "357"; */
 "357.title" = "항상 묻기";
 
-/* Class = "NSMenuItem"; title = "원본 파일과 동일한 위치"; ObjectID = "358"; */
+/* Class = "NSMenuItem"; title = "Next to original file"; ObjectID = "358"; */
 "358.title" = "원본 파일과 동일한 위치";
 
-/* Class = "NSMenuItem"; title = "특정 위치..."; ObjectID = "359"; */
+/* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "359"; */
 "359.title" = "특정 위치...";
 
-/* Class = "NSTextFieldCell"; title = "다음 위치로 압축 해제:"; ObjectID = "360"; */
+/* Class = "NSTextFieldCell"; title = "Extract to location:"; ObjectID = "360"; */
 "360.title" = "다음 위치로 압축 해제:";
 
-/* Class = "NSButtonCell"; title = "압축해제 완료 후 내용물을 Finder에서 보기"; ObjectID = "361"; */
+/* Class = "NSButtonCell"; title = "Show content in Finder after extraction"; ObjectID = "361"; */
 "361.title" = "압축해제 완료 후 내용물을 Finder에서 보기";
 
-/* Class = "NSButtonCell"; title = "압축해제 완료 후 원본 파일 휴지통으로 이동"; ObjectID = "362"; */
+/* Class = "NSButtonCell"; title = "Move compressed file(s) to Trash after extraction"; ObjectID = "362"; */
 "362.title" = "압축해제 완료 후 원본 파일 휴지통으로 이동";
 
-/* Class = "NSMenuItem"; title = "Basso"; ObjectID = "416"; */
-"416.title" = "Basso";
-
-/* Class = "NSMenuItem"; title = "Tink"; ObjectID = "417"; */
-"417.title" = "Tink";
-
-/* Class = "NSMenuItem"; title = "없음"; ObjectID = "418"; */
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "418"; */
 "418.title" = "없음";
 
-/* Class = "NSMenuItem"; title = "기본 압축음"; ObjectID = "419"; */
+/* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "419"; */
 "419.title" = "기본 압축음";
 
-/* Class = "NSMenuItem"; title = "Bottle"; ObjectID = "420"; */
-"420.title" = "Bottle";
-
-/* Class = "NSMenuItem"; title = "Blow"; ObjectID = "421"; */
-"421.title" = "Blow";
-
-/* Class = "NSMenuItem"; title = "Submarine"; ObjectID = "422"; */
-"422.title" = "Submarine";
-
-/* Class = "NSMenuItem"; title = "Sosumi"; ObjectID = "423"; */
-"423.title" = "Sosumi";
-
-/* Class = "NSMenuItem"; title = "Purr"; ObjectID = "424"; */
-"424.title" = "Purr";
-
-/* Class = "NSMenuItem"; title = "Pop"; ObjectID = "425"; */
-"425.title" = "Pop";
-
-/* Class = "NSMenuItem"; title = "Ping"; ObjectID = "426"; */
-"426.title" = "Ping";
-
-/* Class = "NSMenuItem"; title = "Morse"; ObjectID = "427"; */
-"427.title" = "Morse";
-
-/* Class = "NSMenuItem"; title = "Hero"; ObjectID = "428"; */
-"428.title" = "Hero";
-
-/* Class = "NSMenuItem"; title = "Glass"; ObjectID = "429"; */
-"429.title" = "Glass";
-
-/* Class = "NSMenuItem"; title = "Funk"; ObjectID = "430"; */
-"430.title" = "Funk";
-
-/* Class = "NSMenuItem"; title = "Frog"; ObjectID = "431"; */
-"431.title" = "Frog";
-
-/* Class = "NSMenuItem"; title = "기본 압축해제음"; ObjectID = "432"; */
+/* Class = "NSMenuItem"; title = "Default extraction"; ObjectID = "432"; */
 "432.title" = "기본 압축해제음";
 
-/* Class = "NSTextFieldCell"; title = "압축해제 완료 후 소리 재생:"; ObjectID = "433"; */
+/* Class = "NSTextFieldCell"; title = "Play a sound after an extraction:"; ObjectID = "433"; */
 "433.title" = "압축해제 완료 후 소리 재생:";
 
-/* Class = "NSTextFieldCell"; title = "압축 완료 후 소리 재생:"; ObjectID = "436"; */
+/* Class = "NSTextFieldCell"; title = "Play a sound after a compression:"; ObjectID = "436"; */
 "436.title" = "압축 완료 후 소리 재생:";
 
-/* Class = "NSMenuItem"; title = "기본 압축해제음"; ObjectID = "439"; */
+/* Class = "NSMenuItem"; title = "Default extraction"; ObjectID = "439"; */
 "439.title" = "기본 압축해제음";
 
-/* Class = "NSMenuItem"; title = "Frog"; ObjectID = "440"; */
-"440.title" = "Frog";
-
-/* Class = "NSMenuItem"; title = "Funk"; ObjectID = "441"; */
-"441.title" = "Funk";
-
-/* Class = "NSMenuItem"; title = "Glass"; ObjectID = "442"; */
-"442.title" = "Glass";
-
-/* Class = "NSMenuItem"; title = "Hero"; ObjectID = "443"; */
-"443.title" = "Hero";
-
-/* Class = "NSMenuItem"; title = "Morse"; ObjectID = "444"; */
-"444.title" = "Morse";
-
-/* Class = "NSMenuItem"; title = "Ping"; ObjectID = "445"; */
-"445.title" = "Ping";
-
-/* Class = "NSMenuItem"; title = "Pop"; ObjectID = "446"; */
-"446.title" = "Pop";
-
-/* Class = "NSMenuItem"; title = "Purr"; ObjectID = "447"; */
-"447.title" = "Purr";
-
-/* Class = "NSMenuItem"; title = "Sosumi"; ObjectID = "448"; */
-"448.title" = "Sosumi";
-
-/* Class = "NSMenuItem"; title = "Submarine"; ObjectID = "449"; */
-"449.title" = "Submarine";
-
-/* Class = "NSMenuItem"; title = "Blow"; ObjectID = "450"; */
-"450.title" = "Blow";
-
-/* Class = "NSMenuItem"; title = "Bottle"; ObjectID = "451"; */
-"451.title" = "Bottle";
-
-/* Class = "NSMenuItem"; title = "기본 압축음"; ObjectID = "452"; */
+/* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "452"; */
 "452.title" = "기본 압축음";
 
-/* Class = "NSMenuItem"; title = "없음"; ObjectID = "453"; */
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "453"; */
 "453.title" = "없음";
 
-/* Class = "NSMenuItem"; title = "Tink"; ObjectID = "454"; */
-"454.title" = "Tink";
-
-/* Class = "NSMenuItem"; title = "Basso"; ObjectID = "455"; */
-"455.title" = "Basso";
-
-/* Class = "NSButtonCell"; title = "Enable context menu services"; ObjectID = "CRY-lE-Luz"; */
-"CRY-lE-Luz.title" = "Enable context menu services";
-
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
-"SOL-6U-5P9.title" = "Enable Notification Center integration";
+"SOL-6U-5P9.title" = "알림 센터 사용";
 
 /* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "b5e-bj-Pgz"; */
-"b5e-bj-Pgz.title" = "Use unified toolbar (resets customizations)";
+"b5e-bj-Pgz.title" = "통일된 도구 막대 사용 (사용자화 설정 초기화됨)";
 
-/* Class = "NSButtonCell"; title = "Use AES-256 when encrypting Zip files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
-"hp7-jO-HeV.title" = "Use AES-256 when encrypting Zip files (less compatible)";
+/* Class = "NSButtonCell"; title = "Use AES-256 when encrypting ZIP files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
+"hp7-jO-HeV.title" = "ZIP 파일 암호화 시, AES-256 사용 (낮은 호환성)";

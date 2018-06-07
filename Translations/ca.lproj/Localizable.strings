@@ -1,7 +1,7 @@
 "_BASE_USED_" = "ca";
-// Use the _ADVANCED_EXTRA_WIDTH_ to fit the method description properly
+/* Use the _ADVANCED_EXTRA_WIDTH_ (if needed) to fit the method description properly */
 "_ADVANCED_EXTRA_WIDTH_" = "5.0";
-//"_PREFERENCES_EXTRA_WIDTH_" = "0.0";
+/* "_PREFERENCES_EXTRA_WIDTH_" = "0.0"; */
 "OK" = "D'acord";
 "Yes" = "Sí";
 "No" = "No";
@@ -24,7 +24,6 @@
 "Compression fail" = "Compressió fallida";
 "File \"%@\" cannot be created" = "No es pot crear l'arxiu «%@»";
 "Operation not implemented" = "Operació no implementada";
-"This operation is not implemented yet so Keka is in beta process." = "Aquesta operació encara no s'ha implementat a la versió beta del Keka.";
 "Performing operation..." = "Operació en curs...";
 "Waiting..." = "S'està esperant...";
 "Extracting \"%@\"" = "Extracció de: «%@»";
@@ -52,10 +51,10 @@
 "Choose a folder to extract this file" = "Trieu la carpeta on extreure l'arxiu";
 "Extraction of \"%@\" failed" = "Ha fallat l'extracció de: «%@»";
 "Keka - %i on queue" = "Keka - %i a la cua";
-"Keka can't create this ISO image" = "El Keka no pot crear aquesta imatge ISO";
-"You can only create an ISO image with a single folder. Try to put all your files in a folder and drop it to Keka to create the ISO image." = "Només podeu crear una imatge ISO amb una única carpeta. Afegiu tot el contingut a una carpeta i arrossegueu-la al Keka per crear una imatge ISO.";
-"Keka can't create this xz tarball" = "El Keka no pot crear el tarball xz";
-"This operation is not supported on OS X 10.8.\nPlease update your system or manually create a Tar and then xz it." = "Aquesta operació no està suportada a l'OS X 10.8.\nActualitzeu el sistema o creeu manualment l'arxiu Tar i després comprimiu-lo a xz.";
+"Keka can't create this %@ image" = "El Keka no pot crear aquesta imatge %@";
+"You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "Només podeu crear una imatge %@ amb una única carpeta. Afegiu tot el contingut a una carpeta i arrossegueu-la al Keka per crear una imatge %@.";
+"Keka can't create this @% tarball" = "El Keka no pot crear el tarball @%";
+"This operation is not supported on %@." = "Aquesta operació no està suportada a %@.";
 "Compress \"%@\" in %@ to..." = "S'està comprimint «%@» com a %@ a...";
 "Compress in %@ to..." = "S'està comprimint %@ a...";
 "Save as:" = "Anomena i desa:";
@@ -125,3 +124,10 @@
 "Write error. No permission? No space left?" = "Error d'escriptura. Sense permisos? Sense espai disponible?";
 "Can't open the file, maybe it's not accessible" = "No es pot obrir l'arxiu. Potser no està accessible";
 "No files matching the mask" = "No s'han trobat fitxers amb el filtre utilitzat";
+"Give access" = "Donar accés";
+"Quit" = "Sortir";
+"More information" = "Més informació";
+"Keka needs file access" = "El Keka necessita accés als fitxers";
+"In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "Per tal de integrarse amb el teu Mac, el Keka necessita accés local al disc.";
+"\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\nFes clic a \"Donar accés al Keka\", el disc ja està seleccionat.";
+"Give access to Keka" = "Donar accés al Keka";
