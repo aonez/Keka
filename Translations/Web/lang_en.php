@@ -38,7 +38,7 @@ $content_beta_up = "Get the latest version";
 // Legacy
 $content_plataform_legacy =  "For $version_replace";
 $content_legacy_title = "Legacy versions of Keka";
-$content_legacy_text = 'Over the years your Mac will become older and will not support<br />the newest Keka, but relax <i class="fa fa-coffee" aria-hidden="true"></i>, the old versions will are here.';
+$content_legacy_text = 'Over the years your Mac will become older and will not support<br />the newest Keka, but relax <i class="fa fa-coffee" aria-hidden="true"></i>, the old versions will be here.';
 
 // Info
 $content_info_title1 = "So simple, so strong";
@@ -47,8 +47,8 @@ $content_info_title3 = "Still too big...";
 $content_info_text1 = "You do not even need to open Keka to compress a file, keep it in your dock and use it from there.<br />Just drag and drop your files and folders to the Dock icon or the Keka window to create a slimmer version of them.";
 $content_info_text2 = "Share safely just setting a password and creating highly encrypted files.<br />Using AES-256 encryption specification for your 7z files and<br />Zip 2.0 legacy encryption specification for your Zip files.";
 $content_info_text3 = "If the files are really huge and they do not fit your mail or server, just split them into pieces.<br />Don't worry, they will still expand to produce your original file :)";
-$content_info_compression = "Keka can create files of these types:";
-$content_info_extraction = "And extract all of these types:";
+$content_info_compression = "Keka can create files in these formats:";
+$content_info_extraction = "And extract all of these formats:";
 
 // Main content of the page
 $content_context_menu = "Context menu";
