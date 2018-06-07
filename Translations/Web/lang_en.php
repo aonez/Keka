@@ -51,7 +51,7 @@ $content_info_compression = "Keka can create files using this formats:";
 $content_info_extraction = "And extract all this formats:";
 
 // Main content of the page
-$content_context_menu = "Context menu 1.3 (10.6+)";
+$content_context_menu = "Context menu";
 
 // Changelog info
 $content_changelog_title = "Take a look at the Keka evolution";
