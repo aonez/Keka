@@ -1,344 +1,11 @@
 
-/* Class = "NSMenuItem"; title = "Umieść wszystko na wierzchu"; ObjectID = "5"; */
-"5.title" = "Umieść wszystko na wierzchu";
-
-/* Class = "NSMenuItem"; title = "Okno"; ObjectID = "19"; */
-"19.title" = "Okno";
-
-/* Class = "NSMenuItem"; title = "Minimalizuj okno"; ObjectID = "23"; */
-"23.title" = "Minimalizuj okno";
-
-/* Class = "NSMenu"; title = "Okno"; ObjectID = "24"; */
-"24.title" = "Okno";
-
-/* Class = "NSMenu"; title = "Menu główne"; ObjectID = "29"; */
-"29.title" = "Menu główne";
-
-/* Class = "NSMenuItem"; title = "Keka"; ObjectID = "56"; */
-"56.title" = "Keka";
-
-/* Class = "NSMenu"; title = "Keka"; ObjectID = "57"; */
-"57.title" = "Keka";
-
-/* Class = "NSMenuItem"; title = "Keka - informacje"; ObjectID = "58"; */
-"58.title" = "Keka - informacje";
-
-/* Class = "NSMenuItem"; title = "Otwórz…"; ObjectID = "72"; */
-"72.title" = "Otwórz…";
-
-/* Class = "NSMenuItem"; title = "Zamknij"; ObjectID = "73"; */
-"73.title" = "Zamknij";
-
-/* Class = "NSMenuItem"; title = "Zapisz"; ObjectID = "75"; */
-"75.title" = "Zapisz";
-
-/* Class = "NSMenuItem"; title = "Ustawienia strony..."; ObjectID = "77"; */
-"77.title" = "Ustawienia strony...";
-
-/* Class = "NSMenuItem"; title = "Drukuj…"; ObjectID = "78"; */
-"78.title" = "Drukuj…";
-
-/* Class = "NSMenuItem"; title = "Zapisz jako..."; ObjectID = "80"; */
-"80.title" = "Zapisz jako...";
-
-/* Class = "NSMenu"; title = "Plik"; ObjectID = "81"; */
-"81.title" = "Plik";
-
-/* Class = "NSMenuItem"; title = "Nowy"; ObjectID = "82"; */
-"82.title" = "Nowy";
-
-/* Class = "NSMenuItem"; title = "Plik"; ObjectID = "83"; */
-"83.title" = "Plik";
-
-/* Class = "NSMenuItem"; title = "Pomoc"; ObjectID = "103"; */
-"103.title" = "Pomoc";
-
-/* Class = "NSMenu"; title = "Pomoc"; ObjectID = "106"; */
-"106.title" = "Pomoc";
-
-/* Class = "NSMenuItem"; title = "Keka - pomoc programu"; ObjectID = "111"; */
-"111.title" = "Keka - pomoc programu";
-
-/* Class = "NSMenuItem"; title = "Przywróć zapisane"; ObjectID = "112"; */
-"112.title" = "Przywróć zapisane";
-
-/* Class = "NSMenuItem"; title = "Otwórz ponownie"; ObjectID = "124"; */
-"124.title" = "Otwórz ponownie";
-
-/* Class = "NSMenu"; title = "Otwórz ponownie"; ObjectID = "125"; */
-"125.title" = "Otwórz ponownie";
-
-/* Class = "NSMenuItem"; title = "Wyczyść menu"; ObjectID = "126"; */
-"126.title" = "Wyczyść menu";
-
-/* Class = "NSMenuItem"; title = "Preferencje…"; ObjectID = "129"; */
-"129.title" = "Preferencje…";
-
-/* Class = "NSMenu"; title = "Usługi"; ObjectID = "130"; */
-"130.title" = "Usługi";
-
-/* Class = "NSMenuItem"; title = "Usługi"; ObjectID = "131"; */
-"131.title" = "Usługi";
-
-/* Class = "NSMenuItem"; title = "Ukryj Keka"; ObjectID = "134"; */
-"134.title" = "Ukryj Keka";
-
-/* Class = "NSMenuItem"; title = "Zamknij"; ObjectID = "136"; */
-"136.title" = "Zamknij";
-
-/* Class = "NSMenuItem"; title = "Ukryj pozostałe"; ObjectID = "145"; */
-"145.title" = "Ukryj pozostałe";
-
-/* Class = "NSMenuItem"; title = "Pokaż wszystkie"; ObjectID = "150"; */
-"150.title" = "Pokaż wszystkie";
-
-/* Class = "NSMenuItem"; title = "Zakończ dyktowanie"; ObjectID = "195"; */
-"195.title" = "Zakończ dyktowanie";
-
-/* Class = "NSMenuItem"; title = "Rozpocznij dyktowanie"; ObjectID = "196"; */
-"196.title" = "Rozpocznij dyktowanie";
-
-/* Class = "NSMenuItem"; title = "Kopiuj"; ObjectID = "197"; */
-"197.title" = "Kopiuj";
-
-/* Class = "NSMenuItem"; title = "Zaznacz wszystkie"; ObjectID = "198"; */
-"198.title" = "Zaznacz wszystkie";
-
-/* Class = "NSMenuItem"; title = "Wytnij"; ObjectID = "199"; */
-"199.title" = "Wytnij";
-
-/* Class = "NSMenu"; title = "Pisownia i gramatyka"; ObjectID = "200"; */
-"200.title" = "Pisownia i gramatyka";
-
-/* Class = "NSMenuItem"; title = "Sprawdź pisownię"; ObjectID = "201"; */
-"201.title" = "Sprawdź pisownię";
-
-/* Class = "NSMenuItem"; title = "Usuń"; ObjectID = "202"; */
-"202.title" = "Usuń";
-
-/* Class = "NSMenuItem"; title = "Wklej"; ObjectID = "203"; */
-"203.title" = "Wklej";
-
-/* Class = "NSMenuItem"; title = "Pokaż pisownię…"; ObjectID = "204"; */
-"204.title" = "Pokaż pisownię…";
-
-/* Class = "NSMenu"; title = "Edycja"; ObjectID = "205"; */
-"205.title" = "Edycja";
-
-/* Class = "NSMenuItem"; title = "Cofnij"; ObjectID = "207"; */
-"207.title" = "Cofnij";
-
-/* Class = "NSMenuItem"; title = "Znajdź następny"; ObjectID = "208"; */
-"208.title" = "Znajdź następny";
-
-/* Class = "NSMenuItem"; title = "Szukaj…"; ObjectID = "209"; */
-"209.title" = "Szukaj…";
-
-/* Class = "NSMenuItem"; title = "Przejdź do zaznaczenia"; ObjectID = "210"; */
-"210.title" = "Przejdź do zaznaczenia";
-
-/* Class = "NSMenuItem"; title = "Dyktowanie"; ObjectID = "211"; */
-"211.title" = "Dyktowanie";
-
-/* Class = "NSMenu"; title = "Mowa"; ObjectID = "212"; */
-"212.title" = "Mowa";
-
-/* Class = "NSMenuItem"; title = "Znajdź poprzedni"; ObjectID = "213"; */
-"213.title" = "Znajdź poprzedni";
-
-/* Class = "NSMenuItem"; title = "Przywróć"; ObjectID = "215"; */
-"215.title" = "Przywróć";
-
-/* Class = "NSMenuItem"; title = "Pisownia i gramatyka"; ObjectID = "216"; */
-"216.title" = "Pisownia i gramatyka";
-
-/* Class = "NSMenuItem"; title = "Edycja"; ObjectID = "217"; */
-"217.title" = "Edycja";
-
-/* Class = "NSMenuItem"; title = "Szukaj"; ObjectID = "218"; */
-"218.title" = "Szukaj";
-
-/* Class = "NSMenuItem"; title = "Sprawdź pisownię podczas wprowadzania"; ObjectID = "219"; */
-"219.title" = "Sprawdź pisownię podczas wprowadzania";
-
-/* Class = "NSMenu"; title = "Szukaj"; ObjectID = "220"; */
-"220.title" = "Szukaj";
-
-/* Class = "NSMenuItem"; title = "Zaznacz wyszukane"; ObjectID = "221"; */
-"221.title" = "Zaznacz wyszukane";
-
-/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "239"; */
-"239.title" = "Zoom";
-
-/* Class = "NSMenuItem"; title = "Widok"; ObjectID = "295"; */
-"295.title" = "Widok";
-
-/* Class = "NSMenu"; title = "Widok"; ObjectID = "296"; */
-"296.title" = "Widok";
-
-/* Class = "NSMenuItem"; title = "Pokaż pasek narzędzi"; ObjectID = "297"; */
-"297.title" = "Pokaż pasek narzędzi";
-
-/* Class = "NSMenuItem"; title = "Dostosuj pasek narzędzi…"; ObjectID = "298"; */
-"298.title" = "Dostosuj pasek narzędzi…";
-
-/* Class = "NSMenuItem"; title = "Sprawdź gramatykę podczas wprowadzania"; ObjectID = "346"; */
-"346.title" = "Sprawdź gramatykę podczas wprowadzania";
-
-/* Class = "NSMenuItem"; title = "Zastępowanie"; ObjectID = "348"; */
-"348.title" = "Zastępowanie";
-
-/* Class = "NSMenu"; title = "Zastępowanie"; ObjectID = "349"; */
-"349.title" = "Zastępowanie";
-
-/* Class = "NSMenuItem"; title = "Inteligentne kopiowanie/wklejanie"; ObjectID = "350"; */
-"350.title" = "Inteligentne kopiowanie/wklejanie";
-
-/* Class = "NSMenuItem"; title = "Inteligentne cytaty"; ObjectID = "351"; */
-"351.title" = "Inteligentne cytaty";
-
-/* Class = "NSMenuItem"; title = "Inteligentne łącza"; ObjectID = "354"; */
-"354.title" = "Inteligentne łącza";
-
-/* Class = "NSWindow"; title = "Keka"; ObjectID = "371"; */
-"371.title" = "Keka";
-
-/* Class = "NSMenuItem"; title = "Format"; ObjectID = "375"; */
-"375.title" = "Format";
-
-/* Class = "NSMenu"; title = "Format"; ObjectID = "376"; */
-"376.title" = "Format";
-
-/* Class = "NSMenuItem"; title = "Czcionka"; ObjectID = "377"; */
-"377.title" = "Czcionka";
-
-/* Class = "NSMenuItem"; title = "Tekst"; ObjectID = "378"; */
-"378.title" = "Tekst";
-
-/* Class = "NSMenu"; title = "Tekst"; ObjectID = "379"; */
-"379.title" = "Tekst";
-
-/* Class = "NSMenuItem"; title = "Do lewej"; ObjectID = "380"; */
-"380.title" = "Do lewej";
-
-/* Class = "NSMenuItem"; title = "Wyśrodkuj"; ObjectID = "381"; */
-"381.title" = "Wyśrodkuj";
-
-/* Class = "NSMenuItem"; title = "Wyjustuj"; ObjectID = "382"; */
-"382.title" = "Wyjustuj";
-
-/* Class = "NSMenuItem"; title = "Do prawej"; ObjectID = "383"; */
-"383.title" = "Do prawej";
-
-/* Class = "NSMenuItem"; title = "Pokaż linijkę"; ObjectID = "385"; */
-"385.title" = "Pokaż linijkę";
-
-/* Class = "NSMenuItem"; title = "Skopiuj linijkę"; ObjectID = "386"; */
-"386.title" = "Skopiuj linijkę";
-
-/* Class = "NSMenuItem"; title = "Wklej linijkę"; ObjectID = "387"; */
-"387.title" = "Wklej linijkę";
-
-/* Class = "NSMenu"; title = "Czcionka"; ObjectID = "388"; */
-"388.title" = "Czcionka";
-
-/* Class = "NSMenuItem"; title = "Pokaż czcionki"; ObjectID = "389"; */
-"389.title" = "Pokaż czcionki";
-
-/* Class = "NSMenuItem"; title = "Pogrubienie"; ObjectID = "390"; */
-"390.title" = "Pogrubienie";
-
-/* Class = "NSMenuItem"; title = "Kursywa"; ObjectID = "391"; */
-"391.title" = "Kursywa";
-
-/* Class = "NSMenuItem"; title = "Podkreślenie"; ObjectID = "392"; */
-"392.title" = "Podkreślenie";
-
-/* Class = "NSMenuItem"; title = "Powiększenie"; ObjectID = "394"; */
-"394.title" = "Powiększenie";
-
-/* Class = "NSMenuItem"; title = "Pomniejszenie"; ObjectID = "395"; */
-"395.title" = "Pomniejszenie";
-
-/* Class = "NSMenuItem"; title = "Odstępy"; ObjectID = "397"; */
-"397.title" = "Odstępy";
-
-/* Class = "NSMenuItem"; title = "Ligatury"; ObjectID = "398"; */
-"398.title" = "Ligatury";
-
-/* Class = "NSMenuItem"; title = "Linia tekstu"; ObjectID = "399"; */
-"399.title" = "Linia tekstu";
-
-/* Class = "NSMenuItem"; title = "Pokaż kolory"; ObjectID = "401"; */
-"401.title" = "Pokaż kolory";
-
-/* Class = "NSMenuItem"; title = "Skopiuj styl"; ObjectID = "403"; */
-"403.title" = "Skopiuj styl";
-
-/* Class = "NSMenuItem"; title = "Wklej styl"; ObjectID = "404"; */
-"404.title" = "Wklej styl";
-
-/* Class = "NSMenu"; title = "Linia tekstu"; ObjectID = "405"; */
-"405.title" = "Linia tekstu";
-
-/* Class = "NSMenuItem"; title = "Użyj domyślnych"; ObjectID = "406"; */
-"406.title" = "Użyj domyślnych";
-
-/* Class = "NSMenuItem"; title = "Indeks górny"; ObjectID = "407"; */
-"407.title" = "Indeks górny";
-
-/* Class = "NSMenuItem"; title = "Indeks dolny"; ObjectID = "408"; */
-"408.title" = "Indeks dolny";
-
-/* Class = "NSMenuItem"; title = "Powiększ"; ObjectID = "409"; */
-"409.title" = "Powiększ";
-
-/* Class = "NSMenuItem"; title = "Zmniejsz"; ObjectID = "410"; */
-"410.title" = "Zmniejsz";
-
-/* Class = "NSMenu"; title = "Ligatury"; ObjectID = "411"; */
-"411.title" = "Ligatury";
-
-/* Class = "NSMenuItem"; title = "Użyj domyślnych"; ObjectID = "412"; */
-"412.title" = "Użyj domyślnych";
-
-/* Class = "NSMenuItem"; title = "Wyłącz"; ObjectID = "413"; */
-"413.title" = "Wyłącz";
-
-/* Class = "NSMenuItem"; title = "Włącz wszystkie"; ObjectID = "414"; */
-"414.title" = "Włącz wszystkie";
-
-/* Class = "NSMenu"; title = "Odstępy"; ObjectID = "415"; */
-"415.title" = "Odstępy";
-
-/* Class = "NSMenuItem"; title = "Użyj domyślnych"; ObjectID = "416"; */
-"416.title" = "Użyj domyślnych";
-
-/* Class = "NSMenuItem"; title = "Wyłącz"; ObjectID = "417"; */
-"417.title" = "Wyłącz";
-
-/* Class = "NSMenuItem"; title = "Zmniejsz odstępy"; ObjectID = "418"; */
-"418.title" = "Zmniejsz odstępy";
-
-/* Class = "NSMenuItem"; title = "Zwiększ odstępy"; ObjectID = "419"; */
-"419.title" = "Zwiększ odstępy";
-
-/* Class = "NSMenuItem"; title = "Sprawdź aktualizacje"; ObjectID = "609"; */
-"609.title" = "Sprawdź aktualizacje";
-
-/* Class = "NSMenuItem"; title = "Otwórz okno główne"; ObjectID = "914"; */
-"914.title" = "Otwórz okno główne";
-
-/* Class = "NSMenu"; title = "Menu w dock'u"; ObjectID = "942"; */
-"942.title" = "Menu w dock'u";
-
-/* Class = "NSMenuItem"; title = "Tryb automatyczny"; ObjectID = "943"; */
+/* Class = "NSMenuItem"; title = "Perform automatic action"; ObjectID = "943"; */
 "943.title" = "Tryb automatyczny";
 
-/* Class = "NSMenuItem"; title = "Archiwizuj"; ObjectID = "944"; */
+/* Class = "NSMenuItem"; title = "Always compress"; ObjectID = "944"; */
 "944.title" = "Archiwizuj";
 
-/* Class = "NSMenuItem"; title = "Wypakuj"; ObjectID = "945"; */
+/* Class = "NSMenuItem"; title = "Always extract"; ObjectID = "945"; */
 "945.title" = "Wypakuj";
 
 /* Class = "NSMenuItem"; title = "Format"; ObjectID = "947"; */
@@ -347,121 +14,52 @@
 /* Class = "NSMenu"; title = "Format"; ObjectID = "948"; */
 "948.title" = "Format";
 
-/* Class = "NSMenuItem"; title = "7z"; ObjectID = "952"; */
-"952.title" = "7z";
-
-/* Class = "NSMenuItem"; title = "zip"; ObjectID = "953"; */
-"953.title" = "zip";
-
-/* Class = "NSMenuItem"; title = "tar"; ObjectID = "954"; */
-"954.title" = "tar";
-
-/* Class = "NSMenuItem"; title = "gzip"; ObjectID = "955"; */
-"955.title" = "gzip";
-
-/* Class = "NSMenuItem"; title = "iso"; ObjectID = "956"; */
-"956.title" = "iso";
-
-/* Class = "NSMenuItem"; title = "Metoda archiwizacji"; ObjectID = "957"; */
+/* Class = "NSMenuItem"; title = "Method"; ObjectID = "957"; */
 "957.title" = "Metoda archiwizacji";
 
-/* Class = "NSMenu"; title = "Metoda archiwizacji"; ObjectID = "958"; */
+/* Class = "NSMenu"; title = "Method"; ObjectID = "958"; */
 "958.title" = "Metoda archiwizacji";
 
-/* Class = "NSMenuItem"; title = "Brak kompresji"; ObjectID = "960"; */
+/* Class = "NSMenuItem"; title = "No compression"; ObjectID = "960"; */
 "960.title" = "Brak kompresji";
 
-/* Class = "NSMenuItem"; title = "Bardzo niski stopień kompresji"; ObjectID = "961"; */
+/* Class = "NSMenuItem"; title = "Fastest, less compression"; ObjectID = "961"; */
 "961.title" = "Bardzo niski stopień kompresji";
 
-/* Class = "NSMenuItem"; title = "Niski stopień kompresji"; ObjectID = "962"; */
+/* Class = "NSMenuItem"; title = "Fast, less compression"; ObjectID = "962"; */
 "962.title" = "Niski stopień kompresji";
 
-/* Class = "NSMenuItem"; title = "Tryb normalny"; ObjectID = "963"; */
-"963.title" = "Tryb normalny";
+/* Class = "NSMenuItem"; title = "Normal"; ObjectID = "963"; */
+"963.title" = "Średni stopień kompresji";
 
-/* Class = "NSMenuItem"; title = "Wysoki stopień kompresji"; ObjectID = "964"; */
+/* Class = "NSMenuItem"; title = "Slow, more compression"; ObjectID = "964"; */
 "964.title" = "Wysoki stopień kompresji";
 
-/* Class = "NSMenuItem"; title = "Najwyższy stopień kompresji"; ObjectID = "965"; */
+/* Class = "NSMenuItem"; title = "Slowest, more compression"; ObjectID = "965"; */
 "965.title" = "Najwyższy stopień kompresji";
 
-/* Class = "NSToolbarItem"; label = "7z"; ObjectID = "1800"; */
-"1800.label" = "7z";
-
-/* Class = "NSToolbarItem"; paletteLabel = "7z"; ObjectID = "1800"; */
-"1800.paletteLabel" = "7z";
-
-/* Class = "NSToolbarItem"; label = "zip"; ObjectID = "1801"; */
-"1801.label" = "zip";
-
-/* Class = "NSToolbarItem"; paletteLabel = "zip"; ObjectID = "1801"; */
-"1801.paletteLabel" = "zip";
-
-/* Class = "NSToolbarItem"; label = "tar"; ObjectID = "1802"; */
-"1802.label" = "tar";
-
-/* Class = "NSToolbarItem"; paletteLabel = "tar"; ObjectID = "1802"; */
-"1802.paletteLabel" = "tar";
-
-/* Class = "NSToolbarItem"; label = "gzip"; ObjectID = "1803"; */
-"1803.label" = "gzip";
-
-/* Class = "NSToolbarItem"; paletteLabel = "gzip"; ObjectID = "1803"; */
-"1803.paletteLabel" = "gzip";
-
-/* Class = "NSToolbarItem"; label = "bzip2"; ObjectID = "1804"; */
-"1804.label" = "bzip2";
-
-/* Class = "NSToolbarItem"; paletteLabel = "bzip2"; ObjectID = "1804"; */
-"1804.paletteLabel" = "bzip2";
-
-/* Class = "NSToolbarItem"; label = "dmg"; ObjectID = "1805"; */
-"1805.label" = "dmg";
-
-/* Class = "NSToolbarItem"; paletteLabel = "dmg"; ObjectID = "1805"; */
-"1805.paletteLabel" = "dmg";
-
-/* Class = "NSToolbarItem"; label = "iso"; ObjectID = "1806"; */
-"1806.label" = "iso";
-
-/* Class = "NSToolbarItem"; paletteLabel = "iso"; ObjectID = "1806"; */
-"1806.paletteLabel" = "iso";
-
-/* Class = "NSButtonCell"; title = "Utwórz archiwum ciągłe"; ObjectID = "1880"; */
-"UYy-aQ-V1a.title" = "Utwórz archiwum ciągłe";
-
-/* Class = "NSButtonCell"; title = "Szyfrowanie nazw plików"; ObjectID = "1881"; */
-"L2I-Q8-zqc.title" = "Szyfrowanie nazw plików";
-
-/* Class = "NSMenuItem"; title = "dmg"; ObjectID = "2156"; */
-"2156.title" = "dmg";
-
-/* Class = "NSMenuItem"; title = "bzip2"; ObjectID = "2158"; */
-"2158.title" = "bzip2";
-
-/* Class = "NSTextFieldCell"; title = "Utwórz archiwum DMG - tylko do odczytu. Wprowadź własną nazwę dla pliku DMG lub użyj domyślnej."; ObjectID = "2189"; */
+/* Class = "NSTextFieldCell"; title = "You can create a DMG volume that will be read-only and compressed.\n\nSet a volume name to this DMG or use the default name based on the files you compress."; ObjectID = "2189"; */
 "2189.title" = "Utwórz archiwum DMG - tylko do odczytu. Wprowadź własną nazwę dla pliku DMG lub użyj domyślnej.";
 
-/* Class = "NSButtonCell"; title = "Osobne archiwum dla każdego pliku"; ObjectID = "2221"; */
+/* Class = "NSButtonCell"; title = "Archive as single files"; ObjectID = "2221"; */
 "2221.title" = "Osobne archiwum dla każdego pliku";
 
-/* Class = "NSButtonCell"; title = "Usuń pliki po zarchiwizowaniu"; ObjectID = "2222"; */
+/* Class = "NSButtonCell"; title = "Delete file(s) after compression"; ObjectID = "2222"; */
 "2222.title" = "Usuń pliki po zarchiwizowaniu";
 
-/* Class = "NSButtonCell"; title = "Wyklucz ukryte pliki systemowe"; ObjectID = "2244"; */
+/* Class = "NSButtonCell"; title = "Exclude Mac resource forks"; ObjectID = "2244"; */
 "2244.title" = "Wyklucz ukryte pliki systemowe";
 
-/* Class = "NSTextFieldCell"; title = "Hasło:"; ObjectID = "2262"; */
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "2262"; */
 "2262.title" = "Hasło:";
 
-/* Class = "NSTextFieldCell"; title = "Podziel plik:"; ObjectID = "2270"; */
+/* Class = "NSTextFieldCell"; title = "Split:"; ObjectID = "2270"; */
 "2270.title" = "Podziel plik:";
 
-/* Class = "NSComboBoxCell"; placeholderString = "np. 5 MB"; ObjectID = "2271"; */
+/* Class = "NSComboBoxCell"; placeholderString = "Example: 5 MB"; ObjectID = "2271"; */
 "2271.placeholderString" = "np. 5 MB";
 
-/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[0] = "1.4 MB Floppy"; ObjectID = "2271"; */
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[0] = "1.4 MB Floppy disk"; ObjectID = "2271"; */
 "2271.ibShadowedObjectValues[0]" = "1.4 MB Floppy";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[1] = "650 MB CD"; ObjectID = "2271"; */
@@ -473,41 +71,38 @@
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[3] = "4.7 GB DVD"; ObjectID = "2271"; */
 "2271.ibShadowedObjectValues[3]" = "4.7 GB DVD";
 
-/* Class = "NSTextFieldCell"; title = "Nazwa:"; ObjectID = "2343"; */
+/* Class = "NSTextFieldCell"; title = "Volume name:"; ObjectID = "2343"; */
 "2343.title" = "Nazwa:";
 
-/* Class = "NSTextFieldCell"; placeholderString = "nazwa_archiwum"; ObjectID = "2354"; */
+/* Class = "NSTextFieldCell"; placeholderString = "custom name"; ObjectID = "2354"; */
 "2354.placeholderString" = "nazwa_archiwum";
 
-/* Class = "NSTextFieldCell"; title = "Utwórz archiwum ISO - tylko do odczytu. Wprowadź własną nazwę dla pliku ISO lub użyj domyślnej."; ObjectID = "2363"; */
+/* Class = "NSTextFieldCell"; title = "You can create a ISO volume that will be read-only and compressed. ISO volumes can be only created from a folder.\n\nSet a volume name to this ISO or use the default name based on the files you compress."; ObjectID = "2363"; */
 "2363.title" = "Utwórz archiwum ISO - tylko do odczytu. Wprowadź własną nazwę dla pliku ISO lub użyj domyślnej.";
 
-/* Class = "NSTextFieldCell"; title = "Bez kompresji"; ObjectID = "2390"; */
+/* Class = "NSTextFieldCell"; title = "Store"; ObjectID = "2390"; */
 "2390.title" = "Bez kompresji";
 
-/* Class = "NSTextFieldCell"; title = "Szybko"; ObjectID = "2392"; */
+/* Class = "NSTextFieldCell"; title = "Fast"; ObjectID = "2392"; */
 "2392.title" = "Szybko";
 
-/* Class = "NSTextFieldCell"; title = "Wolno"; ObjectID = "2394"; */
+/* Class = "NSTextFieldCell"; title = "Slow"; ObjectID = "2394"; */
 "2394.title" = "Wolno";
 
-/* Class = "NSTextFieldCell"; title = "Domyślnie"; ObjectID = "2398"; */
+/* Class = "NSTextFieldCell"; title = "Normal"; ObjectID = "2398"; */
 "2398.title" = "Domyślnie";
 
-/* Class = "NSTextFieldCell"; title = "Metoda kompresji: Wybrana"; ObjectID = "2402"; */
+/* Class = "NSTextFieldCell"; title = "Method: Selected"; ObjectID = "2402"; */
 "2402.title" = "Metoda kompresji: Wybrana";
 
-/* Class = "NSToolbarItem"; label = "ear"; ObjectID = "2408"; */
-"2408.label" = "ear";
-
-/* Class = "NSToolbarItem"; paletteLabel = "rar"; ObjectID = "2408"; */
-"2408.paletteLabel" = "rar";
-
-/* Class = "NSTextFieldCell"; title = "Pracujemy nad tym..."; ObjectID = "2415"; */
-"2415.title" = "Pracujemy nad tym...";
-
-/* Class = "NSTextFieldCell"; title = "Powtórz:"; ObjectID = "2426"; */
+/* Class = "NSTextFieldCell"; title = "Repeat:"; ObjectID = "2426"; */
 "2426.title" = "Powtórz:";
 
-/* Class = "NSButtonCell"; title = "Użyj szyfrowania AES-256."; ObjectID = "Lw7-h9-3Qh"; */
+/* Class = "NSButtonCell"; title = "Encrypt filenames"; ObjectID = "L2I-Q8-zqc"; */
+"L2I-Q8-zqc.title" = "Szyfrowanie nazw plików";
+
+/* Class = "NSButtonCell"; title = "Use AES-256 encryption"; ObjectID = "Lw7-h9-3Qh"; */
 "Lw7-h9-3Qh.title" = "Użyj szyfrowania AES-256.";
+
+/* Class = "NSButtonCell"; title = "Solid archive"; ObjectID = "UYy-aQ-V1a"; */
+"UYy-aQ-V1a.title" = "Utwórz archiwum ciągłe";
