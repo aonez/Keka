@@ -1,0 +1,12 @@
+Changes in version 1.9:
+
+Compression time of option '-0' has been reduced by 3%.
+
+Compression time of options '-1' to '-9' has been reduced by 1%.
+
+Decompression time has been reduced by 3%.
+
+In test mode, minilzip now continues checking the rest of the files if
+any input file is a terminal.
+
+The license of the library has been changed to "2-clause BSD".
