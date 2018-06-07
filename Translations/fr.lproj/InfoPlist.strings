@@ -1,14 +1,3 @@
-
-/* Usually leave this one in English */
-"NSHumanReadableCopyright" = "Copyright © 2009-2021 aONe";
-
-/* Access request descriptions */
-"NSDesktopFolderUsageDescription" = "Keka nécessite l'accès au Bureau pour travailler avec ses fichiers.";
-"NSDocumentsFolderUsageDescription" = "Keka nécessite l'accès aux Documents pour travailler avec ses fichiers.";
-"NSDownloadsFolderUsageDescription" = "Keka nécessite l'accès aux Téléchargements pour travailler avec ses fichiers.";
-"NSNetworkVolumesUsageDescription" = "Keka nécessite l'accès aux volumes réseau pour travailler avec ses fichiers.";
-"NSRemovableVolumesUsageDescription" = "Keka nécessite l'accès aux volumes amovibles pour travailler avec ses fichiers.";
-
 /* File types */
 "7Z Archive" = "Archive 7Z";
 "LZMA Archive" = "Archive LZMA";
@@ -17,16 +6,11 @@
 "LZIP Archive" = "Archive LZIP";
 "LZIP Tarball Archive" = "Archive LZIP compressée au format TAR";
 "ZIP Archive" = "Archive ZIP";
-"ZIPX Archive" = "Archive ZIPX";
 "XZ Archive" = "Archive XZ";
 "XZ Tarball Archive" = "Archive XZ compressée au format TAR";
-"Brotli Archive" = "Archive Brotli";
-"Brotli Tarball Archive" = "Archive Brotli compressée au format TAR";
-"Zstandard Archive" = "Archive Zstandard";
-"Zstandard Tarball Archive" = "Archive Zstandard compressée au format TAR";
 "RAR Archive" = "Archive RAR";
-"RAR Legacy Archive Volume" = "Ancien Volume Archive RAR";
-"Generic Archive Volume" = "Volume Archive générique";
+"RAR Legacy Archive Volume" = "RAR Legacy Archive Volume";
+"Generic Archive Volume" = "Generic Archive Volume";
 "BZIP2 Archive" = "Archive BZIP2";
 "BZIP2 Tarball Archive" = "Archive BZIP2 compressée au format TAR";
 "BZIP Archive" = "Archive BZIP";
@@ -34,30 +18,18 @@
 "GZIP Archive" = "Archive GZIP";
 "GZIP Tarball Archive" = "Archive GZIP compressée au format TAR";
 "TAR Archive" = "Archive TAR";
-"LRZIP Archive" = "Archive LRZIP";
-"LRZIP Tarball Archive" = "Archive LRZIP compressée au format TAR";
 "CPIO Archive" = "Archive CPIO";
 "CPGZ Archive" = "Archive CPGZ";
 "PAX Archive" = "Archive PAX";
 "DMG Disk Image" = "Image disque DMG";
 "ISO Disk Image" = "Image disque ISO";
 "LHA Archive" = "Archive LHA";
-"Windows EXE File" = "Fichier EXE Windows";
-"Windows Cabinet File" = "Fichier CABinet Windows";
-"Windows Installer Package" = "Paquet d'installation Windows";
+"Windows EXE File" = "Windows EXE File";
+"Window Cabinet File" = "Window Cabinet File";
 "WIM Disk Image" = "Image disque WIM";
 "Comic Book RAR Archive" = "Archive Comic Book RAR";
 "Comic Book ZIP Archive" = "Archive Comic Book ZIP";
-"iOS App" = "App iOS";
 "JAR Archive" = "Archive JAR";
-"WAR Archive" = "Archive WAR";
-"Android Application Package" = "Paquet Application Android";
-"Cross-Platform Installer Module (XPI)" = "Module Cross-Platform Installer (XPI)";
+"Android Application Package" = "Android Application Package";
 "APPX Archive" = "Archive APPX";
-"Safari extension" = "Extension Safari";
-"ACE Archive" = "Archive ACE";
-"XIP Secure Archive" = "Archive sécurisée XIP";
-"Apple Archive" = "Apple Archive";
-"WordPress All-in-One Backup" = "WordPress All-in-One Backup";
-"InstallShield 3 Archive" = "InstallShield 3 Archive";
-"Keka Extraction Package" = "Paquet d'extraction Keka";
+"Keka WorkFlow" = "Processus de Keka";

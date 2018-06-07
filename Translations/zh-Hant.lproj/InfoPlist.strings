@@ -1,63 +1,35 @@
-
-/* Usually leave this one in English */
-"NSHumanReadableCopyright" = "Copyright © 2009-2021 aONe";
-
-/* Access request descriptions */
-"NSDesktopFolderUsageDescription" = "Keka 需要「桌面」的取用權限，方能處理此處的檔案。";
-"NSDocumentsFolderUsageDescription" = "Keka 需要「文件」的取用權限，方能處理此處的檔案。";
-"NSDownloadsFolderUsageDescription" = "Keka 需要「下載」的取用權限，方能處理此處的檔案。";
-"NSNetworkVolumesUsageDescription" = "Keka 需要網路卷宗的取用權限，方能處理此處的檔案。";
-"NSRemovableVolumesUsageDescription" = "Keka 需要可移除式卷宗的取用權限，方能處理此處的檔案。";
-
 /* File types */
 "7Z Archive" = "7Z 封存檔";
 "LZMA Archive" = "LZMA 封存檔";
 "LZOP Archive" = "LZOP 封存檔";
-"LZOP Tarball Archive" = "LZOP 壓縮的 Tarball 封存檔";
+"LZOP Tarball Archive" = "LZOP 壓縮的 TAR 封存檔";
 "LZIP Archive" = "LZIP 封存檔";
-"LZIP Tarball Archive" = "LZIP 壓縮的 Tarball 封存檔";
+"LZIP Tarball Archive" = "LZIP 壓縮的 TAR 封存檔";
 "ZIP Archive" = "ZIP 封存檔";
-"ZIPX Archive" = "ZIPX 封存檔";
 "XZ Archive" = "XZ 封存檔";
-"XZ Tarball Archive" = "XZ 壓縮的 Tarball 封存檔";
-"Brotli Archive" = "Brotli 封存檔";
-"Brotli Tarball Archive" = "Brotli Tarball 封存檔";
-"Zstandard Archive" = "Zstandard 封存檔";
-"Zstandard Tarball Archive" = "Zstandard Tarball 封存檔";
+"XZ Tarball Archive" = "XZ 壓縮的 TAR 封存檔";
 "RAR Archive" = "RAR 封存檔";
-"RAR Legacy Archive Volume" = "RAR 舊型封存卷宗";
-"Generic Archive Volume" = "通用封存卷宗";
+"RAR Legacy Archive Volume" = "RAR Legacy Archive Volume";
+"Generic Archive Volume" = "Generic Archive Volume";
 "BZIP2 Archive" = "BZIP2 封存檔";
-"BZIP2 Tarball Archive" = "BZIP2 壓縮的 Tarball 封存檔";
+"BZIP2 Tarball Archive" = "BZIP2 壓縮的 TAR 封存檔";
 "BZIP Archive" = "BZIP 封存檔";
-"BZIP Tarball Archive" = "BZIP 壓縮的 Tarball 封存檔";
+"BZIP Tarball Archive" = "BZIP 壓縮的 TAR 封存檔";
 "GZIP Archive" = "GZIP 封存檔";
-"GZIP Tarball Archive" = "GZIP 壓縮的 Tarball 封存檔";
+"GZIP Tarball Archive" = "GZIP 壓縮的 TAR 封存檔";
 "TAR Archive" = "TAR 封存檔";
-"LRZIP Archive" = "LRZIP 封存檔";
-"LRZIP Tarball Archive" = "LRZIP 壓縮的 Tarball 封存檔";
 "CPIO Archive" = "CPIO 封存檔";
 "CPGZ Archive" = "CPGZ 封存檔";
 "PAX Archive" = "PAX 封存檔";
 "DMG Disk Image" = "DMG 磁碟映像檔";
 "ISO Disk Image" = "ISO 磁碟映像檔";
 "LHA Archive" = "LHA 封存檔";
-"Windows EXE File" = "Windows EXE 檔案";
-"Windows Cabinet File" = "Windows Cabinet 檔案";
-"Windows Installer Package" = "Windows Installer 套件";
+"Windows EXE File" = "Windows EXE File";
+"Window Cabinet File" = "Window Cabinet File";
 "WIM Disk Image" = "WIM 磁碟映像檔";
 "Comic Book RAR Archive" = "Comic Book RAR 封存檔";
 "Comic Book ZIP Archive" = "Comic Book ZIP 封存檔";
-"iOS App" = "iOS 應用程式";
 "JAR Archive" = "JAR 封存檔";
-"WAR Archive" = "WAR 封存檔";
-"Android Application Package" = "Android 應用程式套件";
-"Cross-Platform Installer Module (XPI)" = "跨平台安裝程式模組 (XPI)";
+"Android Application Package" = "Android Application Package";
 "APPX Archive" = "APPX 封存檔";
-"Safari extension" = "Safari 延伸功能";
-"ACE Archive" = "ACE 封存檔";
-"XIP Secure Archive" = "XIP 安全封存檔";
-"Apple Archive" = "Apple 封存檔";
-"WordPress All-in-One Backup" = "WordPress All-in-One 備份檔";
-"InstallShield 3 Archive" = "InstallShield 3 封存檔";
-"Keka Extraction Package" = "Keka 解壓縮套件";
+"Keka WorkFlow" = "Keka 工作流程";

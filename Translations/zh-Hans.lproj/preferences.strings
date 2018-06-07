@@ -59,7 +59,7 @@
 /* Class = "NSButtonCell"; title = "Show file in Finder after compression"; ObjectID = "264"; */
 "264.title" = "压缩完成后在访达中显示";
 
-/* Class = "NSButtonCell"; title = "Exclude Mac OS X resource forks (eg: .DS_Store)"; ObjectID = "265"; */
+/* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "265"; */
 "265.title" = "排除 Mac 资源文件（例如：.DS_Store）";
 
 /* Class = "NSBox"; title = "Name and location"; ObjectID = "270"; */
@@ -151,9 +151,6 @@
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "453"; */
 "453.title" = "无";
-
-/* Class = "NSButtonCell"; title = "Enable context menu Services"; ObjectID = "CRY-lE-Luz"; */
-"CRY-lE-Luz.title" = "启用上下文菜单服务";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "启用通知中心集成";

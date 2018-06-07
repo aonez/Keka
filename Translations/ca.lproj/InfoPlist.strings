@@ -1,14 +1,3 @@
-
-/* Usually leave this one in English */
-"NSHumanReadableCopyright" = "Copyright © 2009-2021 aONe";
-
-/* Access request descriptions */
-"NSDesktopFolderUsageDescription" = "El Keka requereix accés a l'Escriptori per treballar amb els seus fitxers.";
-"NSDocumentsFolderUsageDescription" = "El Keka requereix accés a Documents per treballar amb els seus fitxers.";
-"NSDownloadsFolderUsageDescription" = "El Keka requereix accés a Descàrregues per treballar amb els seus fitxers.";
-"NSNetworkVolumesUsageDescription" = "El Keka requereix accés als volums en xarxa per treballar amb els seus fitxers.";
-"NSRemovableVolumesUsageDescription" = "El Keka requereix accés als volums extraïbles per treballar amb els seus fitxers.";
-
 /* File types */
 "7Z Archive" = "Arxiu 7Z";
 "LZMA Archive" = "Arxiu LZMA";
@@ -17,13 +6,8 @@
 "LZIP Archive" = "Arxiu LZIP";
 "LZIP Tarball Archive" = "Arxiu TAR comprimit amb LZIP";
 "ZIP Archive" = "Arxiu ZIP";
-"ZIPX Archive" = "Arxiu ZIPX";
 "XZ Archive" = "Arxiu XZ";
 "XZ Tarball Archive" = "Arxiu TAR comprimit amb XZ";
-"Brotli Archive" = "Arxiu Brotli";
-"Brotli Tarball Archive" = "Arxiu TAR comprimit amb Brotli";
-"Zstandard Archive" = "Arxiu Zstandard";
-"Zstandard Tarball Archive" = "Arxiu TAR comprimit amb Zstandard";
 "RAR Archive" = "Arxiu RAR";
 "RAR Legacy Archive Volume" = "Arxiu de volum RAR";
 "Generic Archive Volume" = "Arxiu de volum genèric";
@@ -34,8 +18,6 @@
 "GZIP Archive" = "Arxiu GZIP";
 "GZIP Tarball Archive" = "Arxiu TAR comprimit amb GZIP";
 "TAR Archive" = "Arxiu TAR";
-"LRZIP Archive" = "Arxiu LRZIP";
-"LRZIP Tarball Archive" = "Arxiu TAR comprimit amb LRZIP";
 "CPIO Archive" = "Arxiu CPIO";
 "CPGZ Archive" = "Arxiu CPGZ";
 "PAX Archive" = "Arxiu PAX";
@@ -43,21 +25,11 @@
 "ISO Disk Image" = "Imatge de disc ISO";
 "LHA Archive" = "Arxiu LHA";
 "Windows EXE File" = "Arxiu executable de Windows";
-"Windows Cabinet File" = "Arxiu comprimit de Windows";
-"Windows Installer Package" = "Paquet d'instal·lació de Windows";
+"Window Cabinet File" = "Arxiu comprimit de Window";
 "WIM Disk Image" = "Imatge de disc WIM";
 "Comic Book RAR Archive" = "Arxiu de còmic comprimit amd RAR";
 "Comic Book ZIP Archive" = "Arxiu de còmic comprimit amd ZIP";
-"iOS App" = "App de l'iOS";
 "JAR Archive" = "Arxiu JAR";
-"WAR Archive" = "Arxiu WAR";
 "Android Application Package" = "Aplicació empaquetada d'Android";
-"Cross-Platform Installer Module (XPI)" = "Mòdul d'Instal·lació Multiplataforma (XPI)";
 "APPX Archive" = "Arxiu APPX";
-"Safari extension" = "Extensió de Safari";
-"ACE Archive" = "Arxiu ACE";
-"XIP Secure Archive" = "Arxiu segur XIP";
-"Apple Archive" = "Apple Archive";
-"WordPress All-in-One Backup" = "WordPress All-in-One Backup";
-"InstallShield 3 Archive" = "InstallShield 3 Archive";
-"Keka Extraction Package" = "Paquet d'extracció del Keka";
+"Keka WorkFlow" = "Flux de treball de Keka";

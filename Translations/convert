@@ -1,5 +1,14 @@
 #!/bin/bash
 
+GREEN='\033[0;32m'
+ORANGE='\033[0;33m'
+RED='\033[0;31m'
+YELLOW='\033[1;31m'
+WHITE='\033[1;37m'
+NC='\033[0m' # No Color
+
+cd "${0%/*}"
+
 xcode=0
 onlyBase=0
 
@@ -14,89 +23,102 @@ do
 	fi
 done
 
-if [ $xcode -eq 0 ]; then
-	GREEN='\033[0;32m'
-	ORANGE='\033[0;33m'
-	RED='\033[0;31m'
-	YELLOW='\033[1;31m'
-	WHITE='\033[1;37m'
-	NC='\033[0m' # No Color
+if [ $xcode -eq 1 ]; then
+	echo "Runing on Xcode..."
+	GREEN=''
+	ORANGE=''
+	RED=''
+	YELLOW=''
+	WHITE=''
+	NC=''
 fi
 
 someError=0
 someNoUTF8=0
 
-function checkLanguageFolders {
-	f="${1}"
+for f in *.*; do
+	
 	if [ ! -d ${f} ]; then
 		continue
 	fi
+	
 	if [ $onlyBase -eq 1 ] && [[ ${f} != "Base.strings" ]]; then
 		continue
 	fi
+	
+	echo "Checking language ${f}..."
+	
 	for t in ${f}/*.strings; do
-		convertStringsFile "${f}" "${t}" &
-	done
-	wait
-}
-
-function convertStringsFile {
-	f="${1}"
-	t="${2}"
-	md5="$(md5 "${t}" | cut -d'=' -f 2)"
-	md5="${md5## }"
-	md5file=${f}/.${t#${f}/}.conversion.md5
-	if [ ! -f "${md5file}" ]; then
-		echo $md5 > "${md5file}"
-	else
-		md5old="$(cat "${md5file}")"
-		if [[ $md5 == $md5old ]]; then
-			unset md5old
-			continue
-		else
+		
+		md5="$(md5 "${t}" | cut -d'=' -f 2)"
+		md5="${md5## }"
+		md5file=${f}/.${t#${f}/}.conversion.md5
+		if [ ! -f "${md5file}" ]; then
 			echo $md5 > "${md5file}"
-		fi
-	fi
-	n=${t#$f/} # file name
-	text="${f}/${n}"
-	enc="$( file -I ${t} )"
-	charset="$( echo ${enc} | cut -d'=' -f2 )"
-	noUTF8=0	
-	if [[ ${charset} != "utf-8" ]]; then
-		noUTF8=1
-		text="${text} > ${ORANGE}${charset}${NC}"
-		convFrom=""
-		if [[ "$charset" != "binary" ]]; then
-			convFrom="-f ${charset}"
-		fi
-		conv="$( { iconv $convFrom -t utf-8 < ${t} > ${t}.tmp; } 2>&1 )"
-		echo $md5 > "${md5file}"
-		if [ $? -eq 0 ]; then
-			mv -f ${t}.tmp ${t}
-			text="${text} > ${GREEN}UTF-8${NC}"
 		else
-			someNoUTF8=1
-			rm "${md5file}"
-			text="${text} > ${RED}${charset} !!!${NC} > ${ORANGE}${conv}${NC}"
+			md5old="$(cat "${md5file}")"
+			if [[ $md5 == $md5old ]]; then
+				unset md5old
+				continue
+			else
+				echo $md5 > "${md5file}"
+			fi
 		fi
-		echo -e "${text}"
-	else
-		continue
-	fi
-	error=0
-	if [[ ${enc} = *"regexec error"* ]]; then
-		error=1
-		someError=1
-		rm "${md5file}"
-		encErr="$( echo ${enc#*"ERROR: "} | cut -d';' -f1 )"
-		echo -e "${text} > ${RED}Error: ${ORANGE}${encErr}${NC}"
-	fi
-}
 
-for fff in *.*; do
-	checkLanguageFolders "${fff}" &
+		n=${t#$f/} # file name
+		echo -e -n "${n}"
+		
+		if [ $xcode -eq 1 ]; then
+			enc="$( file -i ${t} )"
+		else
+			enc="$( file -I ${t} )"
+		fi
+		
+		charset="$( echo ${enc} | cut -d'=' -f2 )"
+		noUTF8=0	
+			
+		if [[ ${charset} != "utf-8" ]]; then
+			noUTF8=1
+			echo -e -n " > ${ORANGE}${charset}${NC}"
+		else
+			echo -e -n " > ${GREEN}${charset}${NC}"
+		fi
+
+		if [[ ${charset} != "utf-8" ]]; then
+			convFrom=""
+			if [ $charset != "binary" ]; then
+				convFrom="-f ${charset}"
+			fi
+			conv="$( { iconv $convFrom -t utf-8 < ${t} > ${t}.tmp; } 2>&1 )"
+			echo $md5 > "${md5file}"
+
+		    if [ $? -eq 0 ]; then
+				mv -f ${t}.tmp ${t}
+				echo -e -n " > ${GREEN}UTF-8${NC}"
+			else
+				someNoUTF8=1
+				rm "${md5file}"
+				echo -e -n " > ${RED}${charset} !!!${NC} > ${ORANGE}${conv}${NC}"
+			fi
+		fi
+		
+		error=0
+		if [[ ${enc} = *"regexec error"* ]]; then
+			error=1
+			someError=1
+			rm "${md5file}"
+			encErr="$( echo ${enc#*"ERROR: "} | cut -d';' -f1 )"
+			echo -e -n " > ${RED}Error: ${ORANGE}${encErr}${NC}"
+		fi
+		
+		echo
+		
+	done
+	echo
 done
-wait
+
+echo "someNoUTF8 = $someNoUTF8"
+echo "someError = $someError"
 
 if [ $someNoUTF8 -eq 1 ] && [ $someError -eq 1 ]; then
 	echo -e "${RED}There are some files not encoded in UTF-8 and with errors${NC}"
@@ -108,5 +130,7 @@ elif [ $someError -eq 1 ]; then
 	echo -e "${RED}There are some files with some errors${NC}"
 	exit 1
 fi
+
+echo
 
 exit

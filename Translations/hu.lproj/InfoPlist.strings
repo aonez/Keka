@@ -1,14 +1,3 @@
-
-/* Usually leave this one in English */
-"NSHumanReadableCopyright" = "Copyright © 2009-2021 aONe";
-
-/* Access request descriptions */
-"NSDesktopFolderUsageDescription" = "A Keka-nak hozzá kell férnie az asztal mappához, hogy a fájlokkal dolgozhasson.";
-"NSDocumentsFolderUsageDescription" = "A Keka-nak hozzá kell férnie a dokumentumok mappához, hogy a fájlokkal dolgozhasson.";
-"NSDownloadsFolderUsageDescription" = "A Keka-nak hozzá kell férnie a letöltések mappához, hogy a fájlokkal dolgozhasson.";
-"NSNetworkVolumesUsageDescription" = "A Keka-nak hozzá kell férnie a hálózati kötetekhez, hogy a fájlokkal dolgozhasson.";
-"NSRemovableVolumesUsageDescription" = "A Keka-nak hozzá kell férnie az eltávolítható kötetekhez, hogy a fájlokkal dolgozhasson.";
-
 /* File types */
 "7Z Archive" = "7Z archívum";
 "LZMA Archive" = "LZMA archívum";
@@ -17,16 +6,11 @@
 "LZIP Archive" = "LZIP archívum";
 "LZIP Tarball Archive" = "LZIP tömörített TAR archívum";
 "ZIP Archive" = "ZIP archívum";
-"ZIPX Archive" = "ZIPX archívum";
 "XZ Archive" = "XZ archívum";
 "XZ Tarball Archive" = "XZ tömörített TAR archívum";
-"Brotli Archive" = "Brotli archívum";
-"Brotli Tarball Archive" = "Brotli Tarball archívum";
-"Zstandard Archive" = "Zstandard archívum";
-"Zstandard Tarball Archive" = "Zstandard Tarball archívum";
 "RAR Archive" = "RAR archívum";
-"RAR Legacy Archive Volume" = "RAR örökölt kötet archívum";
-"Generic Archive Volume" = "Általános kötet archívum";
+"RAR Legacy Archive Volume" = "RAR Legacy Archive Volume";
+"Generic Archive Volume" = "Generic Archive Volume";
 "BZIP2 Archive" = "BZIP2 archívum";
 "BZIP2 Tarball Archive" = "BZIP2 tömörített TAR archívum";
 "BZIP Archive" = "BZIP archívum";
@@ -34,30 +18,18 @@
 "GZIP Archive" = "GZIP archívum";
 "GZIP Tarball Archive" = "GZIP tömörített TAR archívum";
 "TAR Archive" = "TAR archívum";
-"LRZIP Archive" = "LRZIP archívum";
-"LRZIP Tarball Archive" = "LRZIP tömörített TAR archívum";
 "CPIO Archive" = "CPIO archívum";
 "CPGZ Archive" = "CPGZ archívum";
 "PAX Archive" = "PAX archívum";
 "DMG Disk Image" = "DMG lemezkép";
 "ISO Disk Image" = "ISO lemezkép";
 "LHA Archive" = "LHA archívum";
-"Windows EXE File" = "Windows EXE fájl";
-"Windows Cabinet File" = "Windows Cabinet fájl";
-"Windows Installer Package" = "Windows Telepítő Csomag";
+"Windows EXE File" = "Windows EXE File";
+"Window Cabinet File" = "Window Cabinet File";
 "WIM Disk Image" = "WIM lemezkép";
-"Comic Book RAR Archive" = "Képregény RAR archívum";
-"Comic Book ZIP Archive" = "Képregény ZIP archívum";
-"iOS App" = "iOS-alkalmazás";
+"Comic Book RAR Archive" = "Comic Book RAR archívum";
+"Comic Book ZIP Archive" = "Comic Book ZIP archívum";
 "JAR Archive" = "JAR archívum";
-"WAR Archive" = "WAR archívum";
-"Android Application Package" = "Android Alkalmazás Csomag";
-"Cross-Platform Installer Module (XPI)" = "Keresztplatformos Telepítő Csomag (XPI)";
+"Android Application Package" = "Android Application Package";
 "APPX Archive" = "APPX archívum";
-"Safari extension" = "Safari bővítmény";
-"ACE Archive" = "ACE archívum";
-"XIP Secure Archive" = "XIP biztonságos archívum";
-"Apple Archive" = "Apple Archive";
-"WordPress All-in-One Backup" = "WordPress All-in-One Backup";
-"InstallShield 3 Archive" = "InstallShield 3 Archive";
-"Keka Extraction Package" = "Keka Kicsomagoló Csomag";
+"Keka WorkFlow" = "Keka munkafolyamat";

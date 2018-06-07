@@ -1,18 +1,60 @@
-﻿
-/* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "2221"; */
+
+/* Class = "NSMenuItem"; title = "Perform automatic action"; ObjectID = "943"; */
+"943.title" = "Автовыбор нужного действия";
+
+/* Class = "NSMenuItem"; title = "Always compress"; ObjectID = "944"; */
+"944.title" = "Всегда сжимать";
+
+/* Class = "NSMenuItem"; title = "Always extract"; ObjectID = "945"; */
+"945.title" = "Всегда распаковывать";
+
+/* Class = "NSMenuItem"; title = "Format"; ObjectID = "947"; */
+"947.title" = "Формат";
+
+/* Class = "NSMenu"; title = "Format"; ObjectID = "948"; */
+"948.title" = "Формат";
+
+/* Class = "NSMenuItem"; title = "Method"; ObjectID = "957"; */
+"957.title" = "Метод";
+
+/* Class = "NSMenu"; title = "Method"; ObjectID = "958"; */
+"958.title" = "Метод";
+
+/* Class = "NSMenuItem"; title = "No compression"; ObjectID = "960"; */
+"960.title" = "Без сжатия";
+
+/* Class = "NSMenuItem"; title = "Fastest, less compression"; ObjectID = "961"; */
+"961.title" = "Самый быстрый (меньше сжатие)";
+
+/* Class = "NSMenuItem"; title = "Fast, less compression"; ObjectID = "962"; */
+"962.title" = "Быстрый (меньше сжатие)";
+
+/* Class = "NSMenuItem"; title = "Normal"; ObjectID = "963"; */
+"963.title" = "Обычный";
+
+/* Class = "NSMenuItem"; title = "Slow, more compression"; ObjectID = "964"; */
+"964.title" = "Медленный (больше сжатие)";
+
+/* Class = "NSMenuItem"; title = "Slowest, more compression"; ObjectID = "965"; */
+"965.title" = "Самый медленный (больше сжатие)";
+
+/* Class = "NSTextFieldCell"; title = "You can create a DMG volume that will be read-only and compressed.\n\nSet a volume name to this DMG or use the default name based on the files you compress."; ObjectID = "2189"; */
+"2189.title" = "Вы можете создать DMG-образ диска со сжатием, доступный только для чтения.\n\nУкажите имя для этого DMG-образа, либо используйте имя по умолчанию на основе сжимаемых файлов.";
+
+/* Class = "NSButtonCell"; title = "Archive as single files"; ObjectID = "2221"; */
 "2221.title" = "Пофайловое сжатие";
 
 /* Class = "NSButtonCell"; title = "Delete file(s) after compression"; ObjectID = "2222"; */
 "2222.title" = "Удалить файл(ы) после сжатия";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks"; ObjectID = "2244"; */
-"2244.title" = "Исключить ветви ресурсов Mac";
+"2244.title" = "Исключить вилки ресурсов Mac";
 
 /* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "2262"; */
 "2262.title" = "Пароль:";
 
 /* Class = "NSTextFieldCell"; title = "Split:"; ObjectID = "2270"; */
-"2270.title" = "Разбить на тома:";
+"2270.title" = "Разбивка на тома:";
 
 /* Class = "NSComboBoxCell"; placeholderString = "Example: 5 MB"; ObjectID = "2271"; */
 "2271.placeholderString" = "Пример: 5 MB";
@@ -29,29 +71,8 @@
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[3] = "4.7 GB DVD"; ObjectID = "2271"; */
 "2271.ibShadowedObjectValues[3]" = "4.7 GB DVD";
 
-/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[4] = "8.5 GB DVD (DL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[4]" = "8.5 GB DVD (DL)";
-
-/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[5] = "7.8 GB Mini Blu-ray (SL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[5]" = "7.8 GB Mini Blu-ray (SL)";
-
-/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[6] = "15.6 GB Mini Blu-ray (DL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[6]" = "15.6 GB Mini Blu-ray (DL)";
-
-/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[7] = "25 GB Blu-ray (SL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[7]" = "25 GB Blu-ray (SL)";
-
-/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[8] = "50 GB Blu-ray (DL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[8]" = "50 GB Blu-ray (DL)";
-
-/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[9] = "100 GB Blu-ray XL (TL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[9]" = "100 GB Blu-ray XL (TL)";
-
-/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[10] = "128 GB Blu-ray XL (QL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[10]" = "128 GB Blu-ray XL (QL)";
-
 /* Class = "NSTextFieldCell"; title = "Volume name:"; ObjectID = "2343"; */
-"2343.title" = "Имя образа:";
+"2343.title" = "Имя образа диска:";
 
 /* Class = "NSTextFieldCell"; placeholderString = "custom name"; ObjectID = "2354"; */
 "2354.placeholderString" = "укажите имя";
@@ -71,6 +92,9 @@
 /* Class = "NSTextFieldCell"; title = "Normal"; ObjectID = "2398"; */
 "2398.title" = "Обычный";
 
+/* Class = "NSTextFieldCell"; title = "Method: Selected"; ObjectID = "2402"; */
+"2402.title" = "Метод: выбранный";
+
 /* Class = "NSTextFieldCell"; title = "Repeat:"; ObjectID = "2426"; */
 "2426.title" = "Ещё раз:";
 
@@ -82,6 +106,3 @@
 
 /* Class = "NSButtonCell"; title = "Solid archive"; ObjectID = "UYy-aQ-V1a"; */
 "UYy-aQ-V1a.title" = "Непрерывный архив";
-
-/* Class = "NSButtonCell"; title = "Use BZIP2 compression"; ObjectID = "qhy-NU-Cts"; */
-"qhy-NU-Cts.title" = "Использовать сжатие BZIP2";

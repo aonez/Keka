@@ -1,14 +1,3 @@
-
-/* Usually leave this one in English */
-"NSHumanReadableCopyright" = "Copyright © 2009-2021 aONe";
-
-/* Access request descriptions */
-"NSDesktopFolderUsageDescription" = "Keka 需要桌面访问权限才能使用其文件。";
-"NSDocumentsFolderUsageDescription" = "Keka 需要文档访问权限才能使用其文件。";
-"NSDownloadsFolderUsageDescription" = "Keka 需要下载访问权限才能使用其文件。";
-"NSNetworkVolumesUsageDescription" = "Keka 需要访问网络卷访问权限才能使用其文件。";
-"NSRemovableVolumesUsageDescription" = "Keka 需要可移动卷访问权限才能使用其文件。";
-
 /* File types */
 "7Z Archive" = "7Z 归档";
 "LZMA Archive" = "LZMA 归档";
@@ -17,16 +6,11 @@
 "LZIP Archive" = "LZIP 归档";
 "LZIP Tarball Archive" = "LZIP 压缩 TAR 归档";
 "ZIP Archive" = "ZIP 归档";
-"ZIPX Archive" = "ZIPX 归档";
 "XZ Archive" = "XZ 归档";
 "XZ Tarball Archive" = "XZ 压缩 TAR 归档";
-"Brotli Archive" = "Brotli 归档";
-"Brotli Tarball Archive" = "Brotli 压缩 TAR 归档";
-"Zstandard Archive" = "Zstd 归档";
-"Zstandard Tarball Archive" = "Zstd 压缩 TAR 归档";
 "RAR Archive" = "RAR 归档";
-"RAR Legacy Archive Volume" = "RAR 传统归档卷";
-"Generic Archive Volume" = "通用归档卷";
+"RAR Legacy Archive Volume" = "RAR Legacy Archive Volume";
+"Generic Archive Volume" = "Generic Archive Volume";
 "BZIP2 Archive" = "BZIP2 归档";
 "BZIP2 Tarball Archive" = "BZIP2 压缩 TAR 归档";
 "BZIP Archive" = "BZIP 归档";
@@ -34,30 +18,18 @@
 "GZIP Archive" = "GZIP 归档";
 "GZIP Tarball Archive" = "GZIP 压缩 TAR 归档";
 "TAR Archive" = "TAR 归档";
-"LRZIP Archive" = "LRZIP 归档";
-"LRZIP Tarball Archive" = "LRZIP 压缩 TAR 归档";
 "CPIO Archive" = "CPIO 归档";
 "CPGZ Archive" = "CPGZ 归档";
 "PAX Archive" = "PAX 归档";
 "DMG Disk Image" = "DMG 磁盘映像";
 "ISO Disk Image" = "ISO 磁盘映像";
 "LHA Archive" = "LHA 归档";
-"Windows EXE File" = "Windows 可执行文件";
-"Windows Cabinet File" = "Windows Cab 文件";
-"Windows Installer Package" = "Windows 安装程序包";
+"Windows EXE File" = "Windows EXE File";
+"Window Cabinet File" = "Window Cabinet File";
 "WIM Disk Image" = "WIM 磁盘映像";
-"Comic Book RAR Archive" = "漫画书 RAR（CBR）归档";
-"Comic Book ZIP Archive" = "漫画书 ZIP（CBZ）归档";
-"iOS App" = "iOS 应用";
+"Comic Book RAR Archive" = "Comic Book RAR 归档";
+"Comic Book ZIP Archive" = "Comic Book ZIP 归档";
 "JAR Archive" = "JAR 归档";
-"WAR Archive" = "WAR 归档";
-"Android Application Package" = "Android 应用程序";
-"Cross-Platform Installer Module (XPI)" = "跨平台安装模块（XPI）";
+"Android Application Package" = "Android Application Package";
 "APPX Archive" = "APPX 归档";
-"Safari extension" = "Safari 扩展";
-"ACE Archive" = "ACE 归档";
-"XIP Secure Archive" = "XIP 安全归档";
-"Apple Archive" = "Apple 归档";
-"WordPress All-in-One Backup" = "WordPress 一站式备份";
-"InstallShield 3 Archive" = "InstallShield 3 归档";
-"Keka Extraction Package" = "Keka 提取包";
+"Keka WorkFlow" = "Keka 工作流程";
