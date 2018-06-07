@@ -1,0 +1,453 @@
+.ig
+Copyright (C) 2011, 2012, 2013, 2014 Mikolaj Izdebski
+Copyright (C) 2008, 2009, 2010 Laszlo Ersek
+Copyright (C) 1996 Julian Seward
+
+This manual page is part of lbzip2, version 2.5. lbzip2 is free software: you
+can redistribute it and/or modify it under the terms of the GNU General Public
+License as published by the Free Software Foundation, either version 3 of the
+License, or (at your option) any later version.
+
+lbzip2 is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with
+lbzip2. If not, see <http://www.gnu.org/licenses/>.
+..
+.TH LBZIP2 1 "26 March 2014" "lbzip2-2.5" "User commands"
+
+.SH NAME
+lbzip2 \- parallel bzip2 utility
+
+.SH SYNOPSIS
+.BR lbzip2 "|" bzip2 " [" \-n
+.IR WTHRS ]
+.RB [ \-k "|" \-c "|" \-t "] [" \-d "] [" \-1 " .. " \-9 "] [" \-f "] [" \-s ]
+.RB [ \-u "] [" \-v "] [" \-S "] ["
+.IR "FILE ... " ]
+
+.BR lbunzip2 "|" bunzip2 " [" \-n
+.IR WTHRS ]
+.RB [ \-k "|" \-c "|" \-t "] [" \-z "] [" \-f "] [" \-s "] [" \-u "] [" \-v ]
+.RB [ \-S "] ["
+.IR "FILE ... " ]
+
+.BR lbzcat "|" bzcat " [" \-n
+.IR WTHRS ]
+.RB [ \-z "] [" \-f "] [" \-s "] [" \-u "] [" \-v ]
+.RB [ \-S "] ["
+.IR "FILE ... " ]
+
+.BR lbzip2 "|" bzip2 "|" lbunzip2 "|" bunzip2 "|" lbzcat "|" bzcat " " \-h
+
+
+.SH DESCRIPTION
+
+Compress or decompress
+.I FILE
+operands or standard input to regular files or standard output using the
+Burrows-Wheeler block-sorting text compression algorithm. The
+.B lbzip2
+utility employs multiple threads and an input-bound splitter even when
+decompressing
+.B .bz2
+files created by standard bzip2.
+
+Compression is generally considerably better than that achieved by more
+conventional LZ77/LZ78-based compressors, and competitive with all but the best
+of the PPM family of statistical compressors.
+
+Compression is always performed, even if the compressed file is slightly larger
+than the original. The worst case expansion is for files of zero length, which
+expand to fourteen bytes. Random data (including the output of most file
+compressors) is coded with asymptotic expansion of around 0.5%.
+
+The command-line options are deliberately very similar to those of
+.BR bzip2 " and " gzip ,
+but they are not identical.
+
+
+.SH INVOCATION
+
+The default mode of operation is compression. If the utility is invoked as
+.BR lbunzip2 " or " bunzip2 ,
+the mode is switched to decompression. Calling the utility as
+.BR lbzcat " or " bzcat
+selects decompression, with the decompressed byte-stream written to standard
+output.
+
+
+.SH OPTIONS
+
+.TP
+.BI "\-n " WTHRS
+Set the number of (de)compressor threads to
+.IR "WTHRS" .
+If this option is not specified,
+.B lbzip2
+tries to query the system for the number of online processors (if both the
+compilation environment and the execution environment support that), or exits
+with an error (if it's unable to determine the number of processors online).
+
+.TP
+.BR \-k ", " \-\-keep
+Don't remove
+.I FILE
+operands after successful (de)compression. Open regular input files with more
+than one link.
+
+.TP
+.BR \-c ", " \-\-stdout
+Write output to standard output, even when
+.I FILE
+operands are present. Implies
+.BR \-k " and excludes " \-t .
+
+.TP
+.BR \-t ", " \-\-test
+Test decompression; discard output instead of writing it to files or standard
+output. Implies
+.BR \-k " and excludes " \-c .
+Roughly equivalent to passing
+.B \-c
+and redirecting standard output to the bit bucket.
+
+.TP
+.BR \-d ", " \-\-decompress
+Force decompression over the mode of operation selected by the invocation name.
+
+.TP
+.BR \-z ", " \-\-compress
+Force compression over the mode of operation selected by the invocation name.
+
+.TP
+.BR \-1 " .. " \-9
+Set the compression block size to 100K .. 900K, in 100K increments.
+Ignored during decompression. See also the BLOCK SIZE section below.
+
+.TP
+.B \-\-fast
+Alias for
+.BR \-1 .
+
+.TP
+.B \-\-best
+Alias for
+.BR \-9 .
+This is the default.
+
+.TP
+.BR \-f ", " \-\-force
+Open non-regular input files. Open input files with more than one link,
+breaking links when
+.B \-k
+isn't specified in addition. Try to remove each output file before opening it.
+By default
+.B lbzip2
+will not overwrite existing files; if you want this to happen, you should
+specify
+.BR \-f .
+If
+.B \-c
+and
+.B \-d
+are also given don't reject files not in bzip2 format, just copy them without
+change; without
+.B \-f lbzip2
+would stop after reaching a file that is not in bzip2 format.
+
+.TP
+.BR \-s ", " \-\-small
+Reduce memory usage at cost of performance.
+
+.TP
+.BR \-u ", " \-\-sequential
+Perform splitting input blocks sequentially. This may improve compression ratio
+and decrease CPU usage, but will degrade scalability.
+
+.TP
+.BR \-v ", " \-\-verbose
+Be more verbose. Print more detailed information about (de)compression progress
+to standard error: before processing each file, print a message stating the
+names of input and output files; during (de)compression, print a rough
+percentage of completeness and estimated time of arrival (only if standard
+error is connected to a terminal); after processing each file print a message
+showing compression ratio, space savings, total compression time (wall time)
+and average (de)compression speed (bytes of plain data processed per second).
+
+.TP
+.B \-S
+Print condition variable statistics to standard error for each completed
+(de)compression operation. Useful in profiling.
+
+.TP
+.BR \-q ", " \-\-quiet ", " \-\-repetitive\-fast ", " \
+    \-\-repetitive\-best ", " \-\-exponential
+Accepted for compatibility with
+.BR bzip2 ,
+otherwise ignored.
+
+.TP
+.BR \-h ", " \-\-help
+Print help on command-line usage on standard output and exit successfully.
+
+.TP
+.BR \-L ", " \-\-license ", " \-V ", " \-\-version
+Print license and version information on standard output and exit successfully.
+
+
+.SH ENVIRONMENT
+
+.TP
+.IR LBZIP2 ", " BZIP2 ", " BZIP
+Before parsing the command line, lbzip2 inserts the contents of these
+variables, in the order specified, between the invocation name and the rest of
+the command line. Tokens are separated by spaces and tabs, which cannot be
+escaped.
+
+
+.SH OPERANDS
+.TP
+.I FILE
+Specify files to compress or decompress.
+
+.IR FILE s
+with
+.BR .bz2 ", " .tbz ", " .tbz2 " and " .tz2
+name suffixes will be skipped when compressing. When decompressing,
+.B .bz2
+suffixes will be removed in output filenames;
+.BR .tbz ", " .tbz2 " and " .tz2
+suffixes will be replaced by
+.BR .tar ;
+other filenames will be suffixed with
+.BR .out ". If an " INT " or " TERM " signal is delivered to " lbzip2 ,
+then it removes the regular output file currently open before exiting.
+
+If no FILE is given, lbzip2 works as a filter, processing standard input to
+standard output. In this case,
+.B lbzip2
+will decline to write compressed output to a terminal (or read compressed input
+from a terminal), as this would be entirely incomprehensible and therefore
+pointless.
+
+
+.SH "EXIT STATUS"
+.TP
+.B 0
+if
+.B lbzip2
+finishes successfully. This presumes that whenever it tries,
+.B lbzip2
+never fails to write to standard error.
+
+.TP
+.B 1
+if
+.B lbzip2
+encounters a fatal error.
+
+.TP
+.B 4
+if
+.B lbzip2
+issues warnings without encountering a fatal error. This presumes that whenever
+it tries,
+.B lbzip2
+never fails to write to standard error.
+
+.TP
+.BR SIGPIPE ", " SIGXFSZ
+.RB "if " lbzip2 " intends to exit with status " 1 " due to any fatal error,"
+.RB "but any such signal with inherited " SIG_DFL " action was generated for"
+.BR lbzip2 " previously, then " lbzip2 " terminates by way of one of said"
+signals, after cleaning up any interrupted output file.
+
+.TP
+.B SIGABRT
+if a runtime assertion fails (i.e.
+.B lbzip2
+detects a bug in itself). Hopefully whoever compiled your binary wasn't bold
+enough to
+.BR "#define NDEBUG" .
+
+.TP
+.BR SIGINT ", " SIGTERM
+.B lbzip2
+catches these signals so that it can remove an interrupted output file. In such
+cases,
+.B lbzip2
+exits by re-raising (one of) the received signal(s).
+
+
+.SH "BLOCK SIZE"
+
+.B lbzip2
+compresses large files in blocks. It can operate at various block sizes,
+ranging from 100k to 900k in 100k steps, and it allocates only as much memory
+as it needs to. The block size affects both the compression ratio achieved,
+and the amount of memory needed both for compression and decompression.
+Compression and decompression speed is virtually unaffected by block size,
+provided that the file being processed is large enough to be split among all
+worker threads.
+
+The flags
+.BR \-1 " through " \-9
+specify the block size to be 100,000 bytes through 900,000 bytes (the default)
+respectively. At decompression-time, the block size used for compression is
+read from the compressed file -- the flags
+.BR \-1 " to " \-9
+are irrelevant to and so ignored during decompression.
+
+Larger block sizes give rapidly diminishing marginal returns; most of the
+compression comes from the first two or three hundred k of block size, a fact
+worth bearing in mind when using
+.B lbzip2
+on small machines. It is also important to appreciate that the decompression
+memory requirement is set at compression-time by the choice of block size. In
+general you should try and use the largest block size memory constraints allow.
+
+Another significant point applies to small files. By design, only one of
+.BR lbzip2 's
+worker threads can work on a single block. This means that if the number of
+blocks in the compressed file is less than the number of processors online,
+then some of worker threads will remain idle for the entire time. Compressing
+small files with smaller block sizes can therefore significantly increase both
+compression and decompression speed. The speed difference is more noticeable
+as the number of CPU cores grows.
+
+
+.SH "ERROR HANDLING"
+
+Dealing with error conditions is the least satisfactory aspect of
+.BR lbzip2 .
+The policy is to try and leave the filesystem in a consistent state, then quit,
+even if it means not processing some of the files mentioned in the command
+line.
+
+`A consistent state' means that a file exists either in its compressed or
+uncompressed form, but not both. This boils down to the rule `delete the output
+file if an error condition occurs, leaving the input intact'. Input files are
+only deleted when we can be pretty sure the output file has been written and
+closed successfully.
+
+
+
+.SH "RESOURCE ALLOCATION"
+
+.B lbzip2
+needs various kinds of system resources to operate. Those include memory,
+threads, mutexes and condition variables. The policy is to simply give up if a
+resource allocation failure occurs.
+
+Resource consumption grows linearly with number of worker threads. If
+.B lbzip2
+fails because of lack of some resources, decreasing number of worker threads
+may help. It would be possible for
+.B lbzip2
+to try to reduce number of worker threads (and hence the resource consumption),
+or to move on to subsequent files in the hope that some might need less
+resources, but the complications for doing this seem more trouble than they are
+worth.
+
+
+.SH "DAMAGED FILES"
+
+.B lbzip2
+attempts to compress data by performing several non-trivial transformations on
+it. Every compression of a file implies an assumption that the compressed file
+can be decompressed to reproduce the original. Great efforts in design, coding
+and testing have been made to ensure that this program works correctly.
+However, the complexity of the algorithms, and, in particular, the presence of
+various special cases in the code which occur with very low but non-zero
+probability make it very difficult to rule out the possibility of bugs
+remaining in the program. That is not to say this program is inherently
+unreliable. Indeed, I very much hope the opposite is true --
+.B lbzip2
+has been carefully constructed and extensively tested.
+
+As a self-check for your protection,
+.B lbzip2
+uses 32-bit CRCs to make sure that the decompressed version of a file is
+identical to the original. This guards against corruption of the compressed
+data, and against undiscovered bugs in
+.B lbzip2
+(hopefully unlikely). The chances of data corruption going undetected is
+microscopic, about one chance in four billion for each file processed. Be
+aware, though, that the check occurs upon decompression, so it can only tell
+you that that something is wrong.
+
+CRCs can only detect corrupted files, they can't help you recover the original,
+uncompressed data. However, because of the block nature of the compression
+algorithm, it may be possible to recover some parts of the damaged file, even
+if some blocks are destroyed.
+
+
+.SH BUGS
+Separate input files don't share worker threads; at most one input file is
+worked on at any moment.
+
+
+.SH AUTHORS
+.B lbzip2
+was originally written by Laszlo Ersek <lacos@caesar.elte.hu>,
+http://lacos.hu/. Versions 2.0 and later were written by Mikolaj Izdebski.
+
+
+.SH COPYRIGHT
+
+Copyright (C) 2011, 2012, 2013 Mikolaj Izdebski
+.br
+Copyright (C) 2008, 2009, 2010 Laszlo Ersek
+.br
+Copyright (C) 1996 Julian Seward
+
+This manual page is part of lbzip2, version 2.5. lbzip2 is free software: you
+can redistribute it and/or modify it under the terms of the GNU General Public
+License as published by the Free Software Foundation, either version 3 of the
+License, or (at your option) any later version.
+
+lbzip2 is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with
+lbzip2. If not, see <http://www.gnu.org/licenses/>.
+
+
+.SH THANKS
+Adam Maulis at ELTE IIG; Julian Seward; Paul Sladen; Michael Thomas from
+Caltech HEP; Bryan Stillwell; Zsolt Bartos-Elekes; Imre Csatlos; Gabor
+Kovesdan; Paul Wise; Paolo Bonzini; Department of Electrical and Information
+Engineering at the University of Oulu; Yuta Mori.
+
+
+.SH "SEE ALSO"
+.TP
+.BR lbzip2 " home page"
+http://lbzip2.org/
+
+.TP
+.BR bzip2 (1)
+http://www.bzip.org/
+
+.TP
+.BR pbzip2 (1)
+http://compression.ca/pbzip2/
+
+.TP
+.BR bzip2smp (1)
+http://bzip2smp.sourceforge.net/
+
+.TP
+.BR smpbzip2 (1)
+http://home.student.utwente.nl/n.werensteijn/smpbzip2/
+
+.TP
+.BR dbzip2 (1)
+http://www.mediawiki.org/wiki/Dbzip2
+
+.TP
+.BR p7zip (1)
+http://p7zip.sourceforge.net/
