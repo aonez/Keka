@@ -9,8 +9,8 @@
 "XZ Archive" = "XZ 归档";
 "XZ Tarball Archive" = "XZ 压缩 TAR 归档";
 "RAR Archive" = "RAR 归档";
-"RAR Legacy Archive Volume" = "RAR Legacy Archive Volume";
-"Generic Archive Volume" = "Generic Archive Volume";
+"RAR Legacy Archive Volume" = "RAR 传统归档卷";
+"Generic Archive Volume" = "通用归档卷";
 "BZIP2 Archive" = "BZIP2 归档";
 "BZIP2 Tarball Archive" = "BZIP2 压缩 TAR 归档";
 "BZIP Archive" = "BZIP 归档";
@@ -24,12 +24,12 @@
 "DMG Disk Image" = "DMG 磁盘映像";
 "ISO Disk Image" = "ISO 磁盘映像";
 "LHA Archive" = "LHA 归档";
-"Windows EXE File" = "Windows EXE File";
-"Window Cabinet File" = "Window Cabinet File";
+"Windows EXE File" = "Windows 可执行文件";
+"Window Cabinet File" = "Window Cab 文件";
 "WIM Disk Image" = "WIM 磁盘映像";
 "Comic Book RAR Archive" = "Comic Book RAR 归档";
 "Comic Book ZIP Archive" = "Comic Book ZIP 归档";
 "JAR Archive" = "JAR 归档";
-"Android Application Package" = "Android Application Package";
+"Android Application Package" = "Android 应用程序";
 "APPX Archive" = "APPX 归档";
 "Keka WorkFlow" = "Keka 工作流程";
