@@ -9,7 +9,7 @@ Follow us on Twitter at [@kekaosx](https://twitter.com/kekaosx).
 
 Go to the Keka website at https://www.keka.io to get the latest version.
 
-Also you can check the history of releases in the [Releases](https://github.com/aonez/Keka/releases).
+Also you can check the history of releases in the [Releases](https://github.com/aonez/Keka/releases) section.
 
 ### Legacy versions
 
