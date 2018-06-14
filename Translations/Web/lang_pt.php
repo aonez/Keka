@@ -25,7 +25,7 @@ $content_download_legacy = "Legado";
 $content_donation_button = "Doar";
 $content_donation_title = 'Se você curte o Keka, demonstre seu <i class="fa fa-heart" aria-hidden="true"></i>;<br />obtenha-o na App Store ou faça uma doação pelo PayPal!';
 $content_donation_mas = "Ao comprar o Keka na App Store, você apoia o seu desenvolvimento.<br />O app é igual ao oferecido no site, só que as atualizações são feitas pela App Store.";
-$content_donation_paypal = "Se você não gosta da App Store ou quer apenas explorar o Keka<br />, mas ao mesmo tempo, curte o projeto e deseja demonstrar seu apoio, use o PayPal para fazer uma doação.";
+$content_donation_paypal = "Se você não gosta da App Store ou quer apenas explorar o Keka,<br />mas ao mesmo tempo, curte o projeto e deseja demonstrar seu apoio, use o PayPal para fazer uma doação.";
 
 // Beta
 $content_plataform_beta = "Beta";
@@ -38,7 +38,7 @@ $content_beta_up = "Obtenha a versão mais recente";
 // Legacy
 $content_plataform_legacy =  "Para $version_replace";
 $content_legacy_title = "Versões legadas do Keka";
-$content_legacy_text = 'Com o passar dos anos, seu Mac fica mais velho e pode não ser compatível<br />com a versão mais recente do Keka, mas tudo bem <i class="fa fa-coffee" aria-hidden="true"></i>, as versões mais antigas estarão por aqui.';
+$content_legacy_text = 'Com o passar dos anos, seu Mac fica mais velho e pode não ser compatível<br />com a versão mais recente do Keka. Mas tudo bem <i class="fa fa-coffee" aria-hidden="true"></i>, as versões mais antigas estarão por aqui.';
 
 // Info
 $content_info_title1 = "Tão simples, tão poderoso";
@@ -64,6 +64,6 @@ $content_404_start = "Visite a <a href=\"https://www.keka.io/pt\">página princi
 $content_404_more = "Talvez você queira ↓";
 
 // Bottom info
-$content_bottom_copying = 'aone. Todos os direitos reservados. Tradução: <a href="https://brlingo.com">BR Lingo</a>.';
+$content_bottom_copying = 'Todos os direitos reservados. Tradução: <a href="https://brlingo.com">BR Lingo</a>.';
 
 ?>
