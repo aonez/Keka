@@ -64,6 +64,6 @@ $content_404_start = "Visite a <a href=\"https://www.keka.io/pt\">página princi
 $content_404_more = "Talvez você queira ↓";
 
 // Bottom info
-$content_bottom_copying = 'aone e <a href="https://brlingo.com">BR Lingo</a>. Todos os direitos reservados.';
+$content_bottom_copying = 'aone. Todos os direitos reservados. Tradução: <a href="https://brlingo.com">BR Lingo</a>.';
 
 ?>
