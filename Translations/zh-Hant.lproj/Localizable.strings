@@ -101,8 +101,8 @@
 "650 MB CD" = "650 MB CD";
 "700 MB CD" = "700 MB CD";
 "4.7 GB DVD" = "4.7 GB DVD";
-"Drop here to extract" = "拖曳到此以壓縮";
-"Drop here to compress" = "拖曳到此以解壓縮";
+"Drop here to extract" = "拖曳到此以解壓縮";
+"Drop here to compress" = "拖曳到此以壓縮";
 "Binary \"%@\" is not accessible" = "\"%@\" 無法存取";
 "The first part \"%@\" can't be found" = "找不到 \"%@\" 的第一部分";
 "unknown" = "未知";
