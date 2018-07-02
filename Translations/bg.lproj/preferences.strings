@@ -1,0 +1,162 @@
+﻿
+/* Class = "NSBox"; title = "Format"; ObjectID = "153"; */
+"153.title" = "Формат";
+
+/* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
+"159.title" = "Формат по подразбиране:";
+
+/* Class = "NSTextFieldCell"; title = "Default method:"; ObjectID = "160"; */
+"160.title" = "Метод по подразбиране:";
+
+/* Class = "NSTextFieldCell"; title = "Those are only applied when Keka is not open"; ObjectID = "161"; */
+"161.title" = "Тези са приложени, когато Keka не е отворена";
+
+/* Class = "NSMenuItem"; title = "No compression"; ObjectID = "164"; */
+"164.title" = "Без компресиране";
+
+/* Class = "NSMenuItem"; title = "Fast, less compression"; ObjectID = "165"; */
+"165.title" = "Бързо, по-малко компресиране";
+
+/* Class = "NSMenuItem"; title = "Normal"; ObjectID = "166"; */
+"166.title" = "Нормално";
+
+/* Class = "NSMenuItem"; title = "Fastest, less compression"; ObjectID = "167"; */
+"167.title" = "Най-бързо, по-малко компресиране";
+
+/* Class = "NSMenuItem"; title = "Slowest, more compression"; ObjectID = "168"; */
+"168.title" = "Най-бавно, повече компресиране";
+
+/* Class = "NSMenuItem"; title = "Slow, more compression"; ObjectID = "169"; */
+"169.title" = "Бавно, повече компресиране";
+
+/* Class = "NSButtonCell"; title = "Set Keka as default compressor/uncompressor"; ObjectID = "184"; */
+"184.title" = "Направи Keka архиватор/разархиватор по подразбиране";
+
+/* Class = "NSButtonCell"; title = "Close Keka when no windows are open"; ObjectID = "187"; */
+"187.title" = "Затвори Keka когато не са отворени прозорци";
+
+/* Class = "NSBox"; title = "Actions"; ObjectID = "191"; */
+"191.title" = "Действия";
+
+/* Class = "NSTextFieldCell"; title = "Automatic action: Keka will decide whether to compress or uncompress based on file format and extension"; ObjectID = "194"; */
+"194.title" = "Автоматично действие: Keka ще избере дали да компресира или декомпресира от формата и добавките";
+
+/* Class = "NSMenuItem"; title = "Always extract"; ObjectID = "197"; */
+"197.title" = "Винаги разархивирай";
+
+/* Class = "NSMenuItem"; title = "Always compress"; ObjectID = "198"; */
+"198.title" = "Винаги компресирай";
+
+/* Class = "NSMenuItem"; title = "Perform automatic action"; ObjectID = "199"; */
+"199.title" = "Изпълни автоматично действие";
+
+/* Class = "NSButtonCell"; title = "Move original file(s) to Trash after compression"; ObjectID = "262"; */
+"262.title" = "Премести оригиналния/те файл(ове) в Кошчето след компресиране";
+
+/* Class = "NSButtonCell"; title = "Archive as single files"; ObjectID = "263"; */
+"263.title" = "Архивирай като единични файлове";
+
+/* Class = "NSButtonCell"; title = "Show file in Finder after compression"; ObjectID = "264"; */
+"264.title" = "Покажи файла във Finder след компресирането";
+
+/* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "265"; */
+"265.title" = "Изключи Mac ресурсите (като: .DS_Store)";
+
+/* Class = "NSBox"; title = "Name and location"; ObjectID = "270"; */
+"270.title" = "Име и място";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "276"; */
+"276.placeholderString" = "Това е вашето потребителско име";
+
+/* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "279"; */
+"279.title" = "Питай всеки път";
+
+/* Class = "NSMenuItem"; title = "Next to original file"; ObjectID = "280"; */
+"280.title" = "До оригиналното име";
+
+/* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "281"; */
+"281.title" = "Потребителска папка...";
+
+/* Class = "NSTextFieldCell"; title = "Save to location:"; ObjectID = "282"; */
+"282.title" = "Запази на място:";
+
+/* Class = "NSTextFieldCell"; title = "Name of new files:"; ObjectID = "283"; */
+"283.title" = "Име на новите файлове:";
+
+/* Class = "NSMenuItem"; title = "Same as original file"; ObjectID = "286"; */
+"286.title" = "Същото като оригиналния файл";
+
+/* Class = "NSMenuItem"; title = "Custom name..."; ObjectID = "287"; */
+"287.title" = "Потребителско име...";
+
+/* Class = "NSToolbarItem"; label = "Compression"; ObjectID = "333"; */
+"333.label" = "Компресиране";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Compression"; ObjectID = "333"; */
+"333.paletteLabel" = "Компресиране";
+
+/* Class = "NSToolbarItem"; label = "General"; ObjectID = "334"; */
+"334.label" = "Основни";
+
+/* Class = "NSToolbarItem"; paletteLabel = "General"; ObjectID = "334"; */
+"334.paletteLabel" = "Основни";
+
+/* Class = "NSToolbarItem"; label = "Extraction"; ObjectID = "338"; */
+"338.label" = "Разархивиране";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Extraction"; ObjectID = "338"; */
+"338.paletteLabel" = "Разархивиране";
+
+/* Class = "NSBox"; title = "Location"; ObjectID = "352"; */
+"352.title" = "Място";
+
+/* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "357"; */
+"357.title" = "Питай всеки път";
+
+/* Class = "NSMenuItem"; title = "Next to original file"; ObjectID = "358"; */
+"358.title" = "До оригиналния файл";
+
+/* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "359"; */
+"359.title" = "Потребителска папка...";
+
+/* Class = "NSTextFieldCell"; title = "Extract to location:"; ObjectID = "360"; */
+"360.title" = "Разархивирай в място:";
+
+/* Class = "NSButtonCell"; title = "Show content in Finder after extraction"; ObjectID = "361"; */
+"361.title" = "Покажи съдържанието във Finder след разархивиране";
+
+/* Class = "NSButtonCell"; title = "Move compressed file(s) to Trash after extraction"; ObjectID = "362"; */
+"362.title" = "Премести компресираните файл(ове) в Кошчето след разархивирането";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "418"; */
+"418.title" = "Няма";
+
+/* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "419"; */
+"419.title" = "Компресиране по подразбиране";
+
+/* Class = "NSMenuItem"; title = "Default extraction"; ObjectID = "432"; */
+"432.title" = "Разархивиране по подразбиране";
+
+/* Class = "NSTextFieldCell"; title = "Play a sound after an extraction:"; ObjectID = "433"; */
+"433.title" = "Изпълни звук след разархивирането:";
+
+/* Class = "NSTextFieldCell"; title = "Play a sound after a compression:"; ObjectID = "436"; */
+"436.title" = "Изпълни звук след компресирането:";
+
+/* Class = "NSMenuItem"; title = "Default extraction"; ObjectID = "439"; */
+"439.title" = "Разархивиране по подразбиране";
+
+/* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "452"; */
+"452.title" = "Компресиране по подразбиране";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "453"; */
+"453.title" = "Няма";
+
+/* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
+"SOL-6U-5P9.title" = "Включи Notification Center интеграция";
+
+/* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "b5e-bj-Pgz"; */
+"b5e-bj-Pgz.title" = "Използвай обединена лента с инструменти (нулира потребителските настройки)";
+
+/* Class = "NSButtonCell"; title = "Use AES-256 when encrypting ZIP files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
+"hp7-jO-HeV.title" = "Използвай AES-256 когато криптираш ZIP файлове (по-малко съвместимо)";
