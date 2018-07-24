@@ -92,9 +92,6 @@
 /* Class = "NSTextFieldCell"; title = "Normal"; ObjectID = "2398"; */
 "2398.title" = "正常";
 
-/* Class = "NSTextFieldCell"; title = "Method: Selected"; ObjectID = "2402"; */
-"2402.title" = "压缩方式: 已选择";
-
 /* Class = "NSTextFieldCell"; title = "Repeat:"; ObjectID = "2426"; */
 "2426.title" = "重复：";
 
