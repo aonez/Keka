@@ -92,9 +92,6 @@
 /* Class = "NSTextFieldCell"; title = "Normal"; ObjectID = "2398"; */
 "2398.title" = "Normal";
 
-/* Class = "NSTextFieldCell"; title = "Method: Selected"; ObjectID = "2402"; */
-"2402.title" = "Méthode : Sélectionnée";
-
 /* Class = "NSTextFieldCell"; title = "Repeat:"; ObjectID = "2426"; */
 "2426.title" = "Répéter :";
 
