@@ -152,11 +152,41 @@
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "453"; */
 "453.title" = "なし";
 
+/* Class = "NSTextFieldCell"; title = "You can also customize the access below:"; ObjectID = "5B7-Sc-wp0"; */
+"5B7-Sc-wp0.title" = "You can also customize the access below:";
+
+/* Class = "NSToolbarItem"; label = "File Access"; ObjectID = "5eC-d6-04X"; */
+"5eC-d6-04X.label" = "File Access";
+
+/* Class = "NSToolbarItem"; paletteLabel = "File Access"; ObjectID = "5eC-d6-04X"; */
+"5eC-d6-04X.paletteLabel" = "File Access";
+
+/* Class = "NSButtonCell"; title = "Enable home folder access"; ObjectID = "DL5-wY-cqc"; */
+"DL5-wY-cqc.title" = "Enable home folder access";
+
+/* Class = "NSTextFieldCell"; title = "Here you can choose the folders you want to give access to Keka. Note that Keka can't be used where it has no access. If needed, Keka will ask for specific folder access."; ObjectID = "GDf-ZS-dTs"; */
+"GDf-ZS-dTs.title" = "Here you can choose the folders you want to give access to Keka. Note that Keka can't be used where it has no access. If needed, Keka will ask for specific folder access.";
+
+/* Class = "NSButtonCell"; title = "Enable full Mac access (Recommended)"; ObjectID = "IHj-ac-103"; */
+"IHj-ac-103.title" = "Enable full Mac access (Recommended)";
+
+/* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, sush as an USB or Thunderbolt:"; ObjectID = "JxT-Nq-8Z5"; */
+"JxT-Nq-8Z5.title" = "Enable external volumes support so Keka can be used with your external disks, sush as an USB or Thunderbolt:";
+
+/* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder:"; ObjectID = "PD2-iW-BGK"; */
+"PD2-iW-BGK.title" = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder:";
+
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "Enable Notification Center integration";
+
+/* Class = "NSTextFieldCell"; title = "Enable full Mac access so Keka can be used on all your Mac:"; ObjectID = "ZOx-vr-5o7"; */
+"ZOx-vr-5o7.title" = "Enable full Mac access so Keka can be used on all your Mac:";
 
 /* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "b5e-bj-Pgz"; */
 "b5e-bj-Pgz.title" = "Use unified toolbar (resets customizations)";
 
 /* Class = "NSButtonCell"; title = "Use AES-256 when encrypting ZIP files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
 "hp7-jO-HeV.title" = "Use AES-256 when encrypting ZIP files (less compatible)";
+
+/* Class = "NSButtonCell"; title = "Enable external volumes access"; ObjectID = "sgV-AD-k4Q"; */
+"sgV-AD-k4Q.title" = "Enable external volumes access";
