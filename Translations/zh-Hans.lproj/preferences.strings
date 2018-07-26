@@ -153,34 +153,34 @@
 "453.title" = "无";
 
 /* Class = "NSTextFieldCell"; title = "You can also customize the access below:"; ObjectID = "5B7-Sc-wp0"; */
-"5B7-Sc-wp0.title" = "You can also customize the access below:";
+"5B7-Sc-wp0.title" = "您还可以在下面自定义访问权限：";
 
 /* Class = "NSToolbarItem"; label = "File Access"; ObjectID = "5eC-d6-04X"; */
-"5eC-d6-04X.label" = "File Access";
+"5eC-d6-04X.label" = "文件访问权限";
 
 /* Class = "NSToolbarItem"; paletteLabel = "File Access"; ObjectID = "5eC-d6-04X"; */
-"5eC-d6-04X.paletteLabel" = "File Access";
+"5eC-d6-04X.paletteLabel" = "文件访问权限";
 
 /* Class = "NSButtonCell"; title = "Enable home folder access"; ObjectID = "DL5-wY-cqc"; */
-"DL5-wY-cqc.title" = "Enable home folder access";
+"DL5-wY-cqc.title" = "启用主文件夹访问权限";
 
 /* Class = "NSTextFieldCell"; title = "Here you can choose the folders you want to give access to Keka. Note that Keka can't be used where it has no access. If needed, Keka will ask for specific folder access."; ObjectID = "GDf-ZS-dTs"; */
-"GDf-ZS-dTs.title" = "Here you can choose the folders you want to give access to Keka. Note that Keka can't be used where it has no access. If needed, Keka will ask for specific folder access.";
+"GDf-ZS-dTs.title" = "在这里，您可以选择要授予 Keka 访问权限的文件夹。请注意，Keka 无法在无法访问的地方使用。如果需要，Keka 将要求特定的文件夹访问权限。";
 
 /* Class = "NSButtonCell"; title = "Enable full Mac access (Recommended)"; ObjectID = "IHj-ac-103"; */
-"IHj-ac-103.title" = "Enable full Mac access (Recommended)";
+"IHj-ac-103.title" = "启用完整访问权限（推荐）";
 
 /* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, sush as an USB or Thunderbolt:"; ObjectID = "JxT-Nq-8Z5"; */
-"JxT-Nq-8Z5.title" = "Enable external volumes support so Keka can be used with your external disks, sush as an USB or Thunderbolt:";
+"JxT-Nq-8Z5.title" = "启用外部卷访问，以便 Keka 可以与外部磁盘一起使用，例如 USB 或 Thunderbolt ：";
 
 /* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder:"; ObjectID = "PD2-iW-BGK"; */
-"PD2-iW-BGK.title" = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder:";
+"PD2-iW-BGK.title" = "启用主文件夹访问，以便 Keka 可用于所有用户文件，例如桌面或下载文件夹：";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "启用通知中心集成";
 
 /* Class = "NSTextFieldCell"; title = "Enable full Mac access so Keka can be used on all your Mac:"; ObjectID = "ZOx-vr-5o7"; */
-"ZOx-vr-5o7.title" = "Enable full Mac access so Keka can be used on all your Mac:";
+"ZOx-vr-5o7.title" = "启用完整的访问权限，以便可以在整个系统上使用 Keka：";
 
 /* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "b5e-bj-Pgz"; */
 "b5e-bj-Pgz.title" = "使用一体式工具栏（会重置自定工具栏设置）";
@@ -189,4 +189,4 @@
 "hp7-jO-HeV.title" = "加密 Zip 文件时使用 AES-256（兼容性较差）";
 
 /* Class = "NSButtonCell"; title = "Enable external volumes access"; ObjectID = "sgV-AD-k4Q"; */
-"sgV-AD-k4Q.title" = "Enable external volumes access";
+"sgV-AD-k4Q.title" = "启用外部卷访问权限";
