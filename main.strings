@@ -1,0 +1,105 @@
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "0I7-Eo-098"; */
+"0I7-Eo-098.title" = "Pencere";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "0Tk-5P-8i2"; */
+"0Tk-5P-8i2.title" = "Servisler";
+
+/* Class = "NSMenuItem"; title = "Quit Keka"; ObjectID = "Boj-Hb-G0X"; */
+"Boj-Hb-G0X.title" = "Keka'dan çık";
+
+/* Class = "NSMenuItem"; title = "Open main window"; ObjectID = "CvM-a0-FOh"; */
+"CvM-a0-FOh.title" = "Ana pencereyi aç";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "FOL-81-NRF"; */
+"FOL-81-NRF.title" = "Tercihler…";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "HpM-0q-Enu"; */
+"HpM-0q-Enu.title" = "Hepsini Göster";
+
+/* Class = "NSMenuItem"; title = "Check for updates"; ObjectID = "K4O-VW-7FA"; */
+"K4O-VW-7FA.title" = "Güncellemeleri denetle";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "KcM-nz-gqf"; */
+"KcM-nz-gqf.title" = "Yakınlaştırma";
+
+/* Class = "NSMenuItem"; title = "Print…"; ObjectID = "M2y-gZ-kEG"; */
+"M2y-gZ-kEG.title" = "Yazdır…";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "PwP-KI-Flr"; */
+"PwP-KI-Flr.title" = "Görünüm";
+
+/* Class = "NSMenuItem"; title = "Save"; ObjectID = "Qst-Ya-feO"; */
+"Qst-Ya-feO.title" = "Kaydet";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "Ro6-g5-CxU"; */
+"Ro6-g5-CxU.title" = "Kes";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "S12-mL-KLt"; */
+"S12-mL-KLt.title" = "Kapat";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "S6s-Is-TM3"; */
+"S6s-Is-TM3.title" = "Yardım";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "TTb-AR-olf"; */
+"TTb-AR-olf.title" = "Dosya";
+
+/* Class = "NSMenuItem"; title = "Keka Help"; ObjectID = "Uuy-RK-W5n"; */
+"Uuy-RK-W5n.title" = "Keka Yardım";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "W9M-Wy-dHU"; */
+"W9M-Wy-dHU.title" = "Yapıştır";
+
+/* Class = "NSMenuItem"; title = "Show Toolbar"; ObjectID = "YHt-wh-fCp"; */
+"YHt-wh-fCp.title" = "Araç Çubuğunu Göster";
+
+/* Class = "NSMenuItem"; title = "New"; ObjectID = "bFm-YE-6u3"; */
+"bFm-YE-6u3.title" = "Yeni";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "bMs-9b-T4a"; */
+"bMs-9b-T4a.title" = "Sil";
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "f7N-ob-xwH"; */
+"f7N-ob-xwH.title" = "Görünüm";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "gy4-dO-Qdu"; */
+"gy4-dO-Qdu.title" = "Düzenle";
+
+/* Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "jtN-lL-fdx"; */
+"jtN-lL-fdx.title" = "En günceli aç";
+
+/* Class = "NSMenuItem"; title = "About Keka"; ObjectID = "maF-B5-Hb6"; */
+"maF-B5-Hb6.title" = "Keka Hakkında";
+
+/* Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "nlc-UW-DRW"; */
+"nlc-UW-DRW.title" = "Kaydedilmiş olana Dön";
+
+/* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "nvz-UK-KlM"; */
+"nvz-UK-KlM.title" = "Farklı Kaydet…";
+
+/* Class = "NSMenuItem"; title = "Customize Toolbar…"; ObjectID = "p3U-PZ-hC3"; */
+"p3U-PZ-hC3.title" = "Araç Çubuğunu Özelleştir…";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "rHb-df-xAE"; */
+"rHb-df-xAE.title" = "Tümünü Öne Getir";
+
+/* Class = "NSMenuItem"; title = "Open…"; ObjectID = "sUB-o8-so9"; */
+"sUB-o8-so9.title" = "Aç…";
+
+/* Class = "NSMenuItem"; title = "Hide Keka"; ObjectID = "smC-MI-dLE"; */
+"smC-MI-dLE.title" = "Keka'yı sakla";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "sx5-sf-JmW"; */
+"sx5-sf-JmW.title" = "Diğerlerini sakla";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "tDe-Bb-f8d"; */
+"tDe-Bb-f8d.title" = "Küçült";
+
+/* Class = "NSMenuItem"; title = "Page Setup..."; ObjectID = "tjx-uw-4ov"; */
+"tjx-uw-4ov.title" = "Sayfa Ayarı...";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "v5b-pg-pYC"; */
+"v5b-pg-pYC.title" = "Kopyala";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "wbR-ho-uar"; */
+"wbR-ho-uar.title" = "Tümünü Seç";
