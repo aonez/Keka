@@ -153,34 +153,34 @@
 "453.title" = "Nenhum";
 
 /* Class = "NSTextFieldCell"; title = "You can also customize the access below:"; ObjectID = "5B7-Sc-wp0"; */
-"5B7-Sc-wp0.title" = "You can also customize the access below:";
+"5B7-Sc-wp0.title" = "Você também pode personalizar o acesso abaixo:";
 
 /* Class = "NSToolbarItem"; label = "File Access"; ObjectID = "5eC-d6-04X"; */
-"5eC-d6-04X.label" = "File Access";
+"5eC-d6-04X.label" = "Acesso a Arquivos";
 
 /* Class = "NSToolbarItem"; paletteLabel = "File Access"; ObjectID = "5eC-d6-04X"; */
-"5eC-d6-04X.paletteLabel" = "File Access";
+"5eC-d6-04X.paletteLabel" = "Acesso a Arquivos";
 
 /* Class = "NSButtonCell"; title = "Enable home folder access"; ObjectID = "DL5-wY-cqc"; */
-"DL5-wY-cqc.title" = "Enable home folder access";
+"DL5-wY-cqc.title" = "Ativar Acesso à Pasta Pessoal";
 
 /* Class = "NSTextFieldCell"; title = "Here you can choose the folders you want to give access to Keka. Note that Keka can't be used where it has no access. If needed, Keka will ask for specific folder access."; ObjectID = "GDf-ZS-dTs"; */
-"GDf-ZS-dTs.title" = "Here you can choose the folders you want to give access to Keka. Note that Keka can't be used where it has no access. If needed, Keka will ask for specific folder access.";
+"GDf-ZS-dTs.title" = "Escolha as pastas às quais o Keka tem acesso. Note que o Keka não pode ser usado onde ele não tem acesso. Se necessário, o acesso será solicitado a pastas específicas.";
 
 /* Class = "NSButtonCell"; title = "Enable full Mac access (Recommended)"; ObjectID = "IHj-ac-103"; */
-"IHj-ac-103.title" = "Enable full Mac access (Recommended)";
+"IHj-ac-103.title" = "Ativar Acesso Total ao Mac (Recomendado)";
 
-/* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, sush as an USB or Thunderbolt:"; ObjectID = "JxT-Nq-8Z5"; */
-"JxT-Nq-8Z5.title" = "Enable external volumes support so Keka can be used with your external disks, sush as an USB or Thunderbolt:";
+/* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive:"; ObjectID = "JxT-Nq-8Z5"; */
+"JxT-Nq-8Z5.title" = "Ative o acesso a volumes externos para usar o Keka em discos externos, como discos USB ou Thunderbolt:";
 
 /* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder:"; ObjectID = "PD2-iW-BGK"; */
-"PD2-iW-BGK.title" = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder:";
+"PD2-iW-BGK.title" = "Ative o acesso à pasta pessoal para usar o Keka em todos os seus arquivos de usuário, como arquivos nas pastas Mesa e Transferências:";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "Ativar integração com a Central de Notificações";
 
 /* Class = "NSTextFieldCell"; title = "Enable full Mac access so Keka can be used on all your Mac:"; ObjectID = "ZOx-vr-5o7"; */
-"ZOx-vr-5o7.title" = "Enable full Mac access so Keka can be used on all your Mac:";
+"ZOx-vr-5o7.title" = "Ative o acesso total ao Mac para usar o Keka em qualquer local do Mac:";
 
 /* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "b5e-bj-Pgz"; */
 "b5e-bj-Pgz.title" = "Usar barra de ferramentas unificada (redefine personalizações)";
@@ -189,4 +189,4 @@
 "hp7-jO-HeV.title" = "Usar criptografia AES-256 em ZIPs (menos compatível)";
 
 /* Class = "NSButtonCell"; title = "Enable external volumes access"; ObjectID = "sgV-AD-k4Q"; */
-"sgV-AD-k4Q.title" = "Enable external volumes access";
+"sgV-AD-k4Q.title" = "Ativar Acesso a Volumes Externos";
