@@ -1,0 +1,105 @@
+
+/* Class = "NSMenuItem"; title = "Perform automatic action"; ObjectID = "943"; */
+"943.title" = "Otomatik işlemi gerçekleştir";
+
+/* Class = "NSMenuItem"; title = "Always compress"; ObjectID = "944"; */
+"944.title" = "Her zaman sıkıştır";
+
+/* Class = "NSMenuItem"; title = "Always extract"; ObjectID = "945"; */
+"945.title" = "Her zaman çıkart";
+
+/* Class = "NSMenuItem"; title = "Format"; ObjectID = "947"; */
+"947.title" = "Biçim";
+
+/* Class = "NSMenu"; title = "Format"; ObjectID = "948"; */
+"948.title" = "Biçim";
+
+/* Class = "NSMenuItem"; title = "Method"; ObjectID = "957"; */
+"957.title" = "Yöntem";
+
+/* Class = "NSMenu"; title = "Method"; ObjectID = "958"; */
+"958.title" = "Yöntem";
+
+/* Class = "NSMenuItem"; title = "No compression"; ObjectID = "960"; */
+"960.title" = "Sıkıştırma yok";
+
+/* Class = "NSMenuItem"; title = "Fastest, less compression"; ObjectID = "961"; */
+"961.title" = "En hızlı, en az sıkıştırma";
+
+/* Class = "NSMenuItem"; title = "Fast, less compression"; ObjectID = "962"; */
+"962.title" = "Hızlı, daha az sıkıştırma";
+
+/* Class = "NSMenuItem"; title = "Normal"; ObjectID = "963"; */
+"963.title" = "Normal";
+
+/* Class = "NSMenuItem"; title = "Slow, more compression"; ObjectID = "964"; */
+"964.title" = "Yavaş, daha fazla sıkıştırma";
+
+/* Class = "NSMenuItem"; title = "Slowest, more compression"; ObjectID = "965"; */
+"965.title" = "En yavaş, en fazla sıkıştırma";
+
+/* Class = "NSTextFieldCell"; title = "You can create a DMG volume that will be read-only and compressed.\n\nSet a volume name to this DMG or use the default name based on the files you compress."; ObjectID = "2189"; */
+"2189.title" = "Salt okunur ve sıkıştırılmış bir DMG birimi oluşturabilirsiniz.\n\nBu DMG'ye bir birim adı ayarlayın veya sıkıştırdığınız dosyalara göre varsayılan adı kullanın.";
+
+/* Class = "NSButtonCell"; title = "Archive as single files"; ObjectID = "2221"; */
+"2221.title" = "Tek bir dosya olarak arşivle";
+
+/* Class = "NSButtonCell"; title = "Delete file(s) after compression"; ObjectID = "2222"; */
+"2222.title" = "Sıkıştırmadan sonra dosyaları sil";
+
+/* Class = "NSButtonCell"; title = "Exclude Mac resource forks"; ObjectID = "2244"; */
+"2244.title" = "Mac kaynak ayrılmalarını hariç tut";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "2262"; */
+"2262.title" = "Parola:";
+
+/* Class = "NSTextFieldCell"; title = "Split:"; ObjectID = "2270"; */
+"2270.title" = "Bölünmüş:";
+
+/* Class = "NSComboBoxCell"; placeholderString = "Example: 5 MB"; ObjectID = "2271"; */
+"2271.placeholderString" = "Örnek: 5 MB";
+
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[0] = "1.4 MB Floppy disk"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[0]" = "1.4 MB Floppy disk";
+
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[1] = "650 MB CD"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[1]" = "650 MB CD";
+
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[2] = "700 MB CD"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[2]" = "700 MB CD";
+
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[3] = "4.7 GB DVD"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[3]" = "4.7 GB DVD";
+
+/* Class = "NSTextFieldCell"; title = "Volume name:"; ObjectID = "2343"; */
+"2343.title" = "Birim adı:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "custom name"; ObjectID = "2354"; */
+"2354.placeholderString" = "özel ad";
+
+/* Class = "NSTextFieldCell"; title = "You can create a ISO volume that will be read-only and compressed. ISO volumes can be only created from a folder.\n\nSet a volume name to this ISO or use the default name based on the files you compress."; ObjectID = "2363"; */
+"2363.title" = "Salt okunur ve sıkıştırılmış bir ISO birimi oluşturabilirsiniz. ISO birimleri yalnızca bir klasörden oluşturulabilir.\n\nBu ISO'ya bir birim adı koyun veya sıkıştırdığınız dosyalara göre varsayılan adı kullanın.";
+
+/* Class = "NSTextFieldCell"; title = "Store"; ObjectID = "2390"; */
+"2390.title" = "Depo";
+
+/* Class = "NSTextFieldCell"; title = "Fast"; ObjectID = "2392"; */
+"2392.title" = "Hızlı";
+
+/* Class = "NSTextFieldCell"; title = "Slow"; ObjectID = "2394"; */
+"2394.title" = "Yavaş";
+
+/* Class = "NSTextFieldCell"; title = "Normal"; ObjectID = "2398"; */
+"2398.title" = "Normal";
+
+/* Class = "NSTextFieldCell"; title = "Repeat:"; ObjectID = "2426"; */
+"2426.title" = "Tekrarla:";
+
+/* Class = "NSButtonCell"; title = "Encrypt filenames"; ObjectID = "L2I-Q8-zqc"; */
+"L2I-Q8-zqc.title" = "Dosya adlarını şifrele";
+
+/* Class = "NSButtonCell"; title = "Use AES-256 encryption"; ObjectID = "Lw7-h9-3Qh"; */
+"Lw7-h9-3Qh.title" = "AES-256 şifrelemesi kullan";
+
+/* Class = "NSButtonCell"; title = "Solid archive"; ObjectID = "UYy-aQ-V1a"; */
+"UYy-aQ-V1a.title" = "Katı arşiv";
