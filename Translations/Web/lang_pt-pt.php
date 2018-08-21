@@ -3,6 +3,7 @@
 //
 //
 // Language: Portuguese
+// Translated by BR Lingo (contact@brlingo.com)
 // Translated by Rogério Moreira (r@rgllm.com)
 //
 //
@@ -64,6 +65,6 @@ $content_404_start = "Visite a <a href=\"https://www.keka.io/pt\">página princi
 $content_404_more = "Talvez queira ↓";
 
 // Bottom info
-$content_bottom_copying = 'Todos os direitos reservados. Tradução: <a href="https://rgllm.com">Rogério Moreira</a>.';
+$content_bottom_copying = 'Todos os direitos reservados. Tradução: <a href="https://rgllm.com">Rogério Moreira</a> & <a href="https://brlingo.com">BR Lingo</a>.';
 
 ?>
