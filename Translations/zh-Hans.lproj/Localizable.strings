@@ -125,11 +125,11 @@
 "Can't open the file, maybe it's not accessible" = "无法打开文件，可能它无法访问";
 "No files matching the mask" = "没有匹配掩码的文件";
 "Give access" = "授予访问权限";
-"Just folder access" = "Just folder access";
+"Just folder access" = "仅文件夹访问权限";
 "Quit" = "退出";
 "More information" = "更多信息";
 "Keka needs file access" = "Keka 需要文件访问权限";
-"Give home access" = "Give home access";
+"Give home access" = "授予主文件夹访问权限";
 "Customize" = "Customize";
 "In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "为了与您的文件无缝协作，Keka 需要 Mac 本地磁盘的访问权限。";
 "\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\n只需点击\"给 Keka 授予访问权限\"，您的磁盘应该已经被选中。";
