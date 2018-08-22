@@ -9,8 +9,8 @@
 "XZ Archive" = "XZ-Archiv";
 "XZ Tarball Archive" = "XZ-komprimiertes TAR-Archiv";
 "RAR Archive" = "RAR-Archiv";
-"RAR Legacy Archive Volume" = "RAR Legacy Archive Volume";
-"Generic Archive Volume" = "Generic Archive Volume";
+"RAR Legacy Archive Volume" = "RAR Legacy Archiv-Volume";
+"Generic Archive Volume" = "Allgemeines Archiv-Volume";
 "BZIP2 Archive" = "BZIP2-Archiv";
 "BZIP2 Tarball Archive" = "BZIP2-komprimiertes TAR-Archiv";
 "BZIP Archive" = "BZIP-Archiv";
@@ -24,8 +24,8 @@
 "DMG Disk Image" = "DMG-Image";
 "ISO Disk Image" = "ISO-Image";
 "LHA Archive" = "LHA-Archiv";
-"Windows EXE File" = "Windows EXE File";
-"Window Cabinet File" = "Window Cabinet File";
+"Windows EXE File" = "Windows EXE-Datei";
+"Window Cabinet File" = "Window Cabinet-Datei";
 "WIM Disk Image" = "WIM-Image";
 "Comic Book RAR Archive" = "Comic Book RAR-Archiv";
 "Comic Book ZIP Archive" = "Comic Book ZIP-Archiv";
@@ -33,4 +33,4 @@
 "WAR Archive" = "WAR-Archiv";
 "Android Application Package" = "Android Application Package";
 "APPX Archive" = "APPX-Archiv";
-"Keka WorkFlow" = "Keka-Arbeitsablaufs";
+"Keka WorkFlow" = "Keka-Arbeitsablauf";
