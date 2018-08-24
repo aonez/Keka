@@ -99,7 +99,7 @@
 "L2I-Q8-zqc.title" = "Dateinamen verschlüsseln";
 
 /* Class = "NSButtonCell"; title = "Use AES-256 encryption"; ObjectID = "Lw7-h9-3Qh"; */
-"Lw7-h9-3Qh.title" = "Use AES-256 encryption";
+"Lw7-h9-3Qh.title" = "AES-256-Verschlüsselung verwenden";
 
 /* Class = "NSButtonCell"; title = "Solid archive"; ObjectID = "UYy-aQ-V1a"; */
 "UYy-aQ-V1a.title" = "Solides Archiv";
