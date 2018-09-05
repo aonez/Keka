@@ -32,5 +32,6 @@
 "JAR Archive" = "Archive JAR";
 "WAR Archive" = "Archive WAR";
 "Android Application Package" = "Android Application Package";
+"Cross-Platform Installer Module (XPI)" = "Cross-Platform Installer Module (XPI)";
 "APPX Archive" = "Archive APPX";
 "Keka WorkFlow" = "Processus de Keka";
