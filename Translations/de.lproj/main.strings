@@ -24,10 +24,10 @@
 "KcM-nz-gqf.title" = "Zoomen";
 
 /* Class = "NSMenuItem"; title = "Print…"; ObjectID = "M2y-gZ-kEG"; */
-"M2y-gZ-kEG.title" = "Print…";
+"M2y-gZ-kEG.title" = "Drucken…";
 
 /* Class = "NSMenu"; title = "View"; ObjectID = "PwP-KI-Flr"; */
-"PwP-KI-Flr.title" = "View";
+"PwP-KI-Flr.title" = "Darstellung";
 
 /* Class = "NSMenuItem"; title = "Save"; ObjectID = "Qst-Ya-feO"; */
 "Qst-Ya-feO.title" = "Sichern";
@@ -51,7 +51,7 @@
 "W9M-Wy-dHU.title" = "Einfügen";
 
 /* Class = "NSMenuItem"; title = "Show Toolbar"; ObjectID = "YHt-wh-fCp"; */
-"YHt-wh-fCp.title" = "Show Toolbar";
+"YHt-wh-fCp.title" = "Symbolleiste anzeigen";
 
 /* Class = "NSMenuItem"; title = "New"; ObjectID = "bFm-YE-6u3"; */
 "bFm-YE-6u3.title" = "Neu";
@@ -60,7 +60,7 @@
 "bMs-9b-T4a.title" = "Löschen";
 
 /* Class = "NSMenuItem"; title = "View"; ObjectID = "f7N-ob-xwH"; */
-"f7N-ob-xwH.title" = "View";
+"f7N-ob-xwH.title" = "Darstellung";
 
 /* Class = "NSMenu"; title = "Edit"; ObjectID = "gy4-dO-Qdu"; */
 "gy4-dO-Qdu.title" = "Bearbeiten";
@@ -72,13 +72,13 @@
 "maF-B5-Hb6.title" = "Über Keka";
 
 /* Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "nlc-UW-DRW"; */
-"nlc-UW-DRW.title" = "Revert to Saved";
+"nlc-UW-DRW.title" = "Zurücksetzen auf";
 
 /* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "nvz-UK-KlM"; */
 "nvz-UK-KlM.title" = "Sichern unter…";
 
 /* Class = "NSMenuItem"; title = "Customize Toolbar…"; ObjectID = "p3U-PZ-hC3"; */
-"p3U-PZ-hC3.title" = "Customize Toolbar…";
+"p3U-PZ-hC3.title" = "Symbolleiste anpassen…";
 
 /* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "rHb-df-xAE"; */
 "rHb-df-xAE.title" = "Alle nach vorne bringen";
