@@ -129,9 +129,9 @@
 "Quit" = "Quit";
 "More information" = "추가 정보";
 "Keka needs file access" = "Keka는 권한이 필요합니다.";
-"Give home access" = "Give home access";
-"Customize" = "Customize";
-"In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "Keka가 자연스럽게 작동하기 위해서는 Mac 디스크에 대하 권한이 필요합니다.";
+"Give home access" = "홈 폴더 접근 권한 부여하기";
+"Customize" = "사용자화";
+"In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "Keka가 자연스럽게 작동하기 위해서는 Mac 디스크에 대한 권한이 필요합니다.";
 "\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\nMac 디스크는 이미 선택되어 있으므로, 단순히 \"Give access to Keka\" 버튼을 클릭하세요.";
 "Give access to Keka" = "Keka에게 권한 허용";
 "Full Mac access (Recommended)" = "Mac 전체 접근 권한 (권장)";
