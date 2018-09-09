@@ -27,7 +27,7 @@
 "M2y-gZ-kEG.title" = "Drucken…";
 
 /* Class = "NSMenu"; title = "View"; ObjectID = "PwP-KI-Flr"; */
-"PwP-KI-Flr.title" = "Darstellung";
+"PwP-KI-Flr.title" = "Anzeigen";
 
 /* Class = "NSMenuItem"; title = "Save"; ObjectID = "Qst-Ya-feO"; */
 "Qst-Ya-feO.title" = "Sichern";
@@ -60,7 +60,7 @@
 "bMs-9b-T4a.title" = "Löschen";
 
 /* Class = "NSMenuItem"; title = "View"; ObjectID = "f7N-ob-xwH"; */
-"f7N-ob-xwH.title" = "Darstellung";
+"f7N-ob-xwH.title" = "Anzeigen";
 
 /* Class = "NSMenu"; title = "Edit"; ObjectID = "gy4-dO-Qdu"; */
 "gy4-dO-Qdu.title" = "Bearbeiten";
@@ -72,7 +72,7 @@
 "maF-B5-Hb6.title" = "Über Keka";
 
 /* Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "nlc-UW-DRW"; */
-"nlc-UW-DRW.title" = "Zurücksetzen auf";
+"nlc-UW-DRW.title" = "Rückgängig zum Gespeicherten";
 
 /* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "nvz-UK-KlM"; */
 "nvz-UK-KlM.title" = "Sichern unter…";
@@ -96,7 +96,7 @@
 "tDe-Bb-f8d.title" = "Im Dock ablegen";
 
 /* Class = "NSMenuItem"; title = "Page Setup..."; ObjectID = "tjx-uw-4ov"; */
-"tjx-uw-4ov.title" = "Papierformat...";
+"tjx-uw-4ov.title" = "Seite einrichten…";
 
 /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "v5b-pg-pYC"; */
 "v5b-pg-pYC.title" = "Kopieren";
