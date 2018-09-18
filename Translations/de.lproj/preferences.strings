@@ -111,7 +111,7 @@
 "352.title" = "Ort";
 
 /* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "357"; */
-"357.title" = "jedes Mal fragen";
+"357.title" = "Jedes Mal fragen";
 
 /* Class = "NSMenuItem"; title = "Next to original file"; ObjectID = "358"; */
 "358.title" = "Neben Originaldatei";
@@ -153,40 +153,40 @@
 "453.title" = "Ohne";
 
 /* Class = "NSTextFieldCell"; title = "You can also customize the access below:"; ObjectID = "5B7-Sc-wp0"; */
-"5B7-Sc-wp0.title" = "You can also customize the access below:";
+"5B7-Sc-wp0.title" = "Sie können auch den folgenden Zugriff anpassen:";
 
 /* Class = "NSToolbarItem"; label = "File Access"; ObjectID = "5eC-d6-04X"; */
-"5eC-d6-04X.label" = "File Access";
+"5eC-d6-04X.label" = "Dateizugriff";
 
 /* Class = "NSToolbarItem"; paletteLabel = "File Access"; ObjectID = "5eC-d6-04X"; */
-"5eC-d6-04X.paletteLabel" = "File Access";
+"5eC-d6-04X.paletteLabel" = "Dateizugriff";
 
 /* Class = "NSButtonCell"; title = "Enable home folder access"; ObjectID = "DL5-wY-cqc"; */
-"DL5-wY-cqc.title" = "Enable home folder access";
+"DL5-wY-cqc.title" = "Benutzerordner den Zugriff aktivieren";
 
 /* Class = "NSTextFieldCell"; title = "Here you can choose the folders you want to give access to Keka. Note that Keka can't be used where it has no access. If needed, Keka will ask for specific folder access."; ObjectID = "GDf-ZS-dTs"; */
-"GDf-ZS-dTs.title" = "Here you can choose the folders you want to give access to Keka. Note that Keka can't be used where it has no access. If needed, Keka will ask for specific folder access.";
+"GDf-ZS-dTs.title" = "Hier können Sie die Ordner auswählen, die Sie Keka zugänglich machen möchten. Beachten Sie, dass Keka nicht verwendet werden kann, wenn es keinen Zugriff hat. Bei Bedarf fragt Keka nach einem bestimmten Ordnerzugriff.";
 
 /* Class = "NSButtonCell"; title = "Enable full Mac access (Recommended)"; ObjectID = "IHj-ac-103"; */
-"IHj-ac-103.title" = "Enable full Mac access (Recommended)";
+"IHj-ac-103.title" = "Vollständigen Mac-Zugriff aktivieren (Empfohlen)";
 
 /* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive:"; ObjectID = "JxT-Nq-8Z5"; */
-"JxT-Nq-8Z5.title" = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive:";
+"JxT-Nq-8Z5.title" = "Aktivieren Sie den Zugriff auf externe Volumes, damit Keka mit Ihren externen Festplatten, wie z.B. einem USB- oder Thunderboltlaufwerk, verwendet werden kann:";
 
 /* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder:"; ObjectID = "PD2-iW-BGK"; */
-"PD2-iW-BGK.title" = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder:";
+"PD2-iW-BGK.title" = "Aktivieren Sie den Benutzer-Zugriff, damit Keka für alle Ihre Benutzerdateien verwendet werden kann, z.B. in Ihrem Desktop- oder Download-Ordner:";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
-"SOL-6U-5P9.title" = "Enable Notification Center integration";
+"SOL-6U-5P9.title" = "Mitteilungszentrale-Integration aktivieren";
 
 /* Class = "NSTextFieldCell"; title = "Enable full Mac access so Keka can be used on all your Mac:"; ObjectID = "ZOx-vr-5o7"; */
-"ZOx-vr-5o7.title" = "Enable full Mac access so Keka can be used on all your Mac:";
+"ZOx-vr-5o7.title" = "Aktivieren Sie den vollständigen Mac-Zugriff, damit Keka auf Ihrem gesamten Mac verwendet werden kann:";
 
 /* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "b5e-bj-Pgz"; */
-"b5e-bj-Pgz.title" = "Use unified toolbar (resets customizations)";
+"b5e-bj-Pgz.title" = "Einheitliche Symbolleiste verwenden (setzt Anpassungen zurück)";
 
 /* Class = "NSButtonCell"; title = "Use AES-256 when encrypting ZIP files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
-"hp7-jO-HeV.title" = "Use AES-256 when encrypting ZIP files (less compatible)";
+"hp7-jO-HeV.title" = "Verwenden Sie AES-256, wenn Sie ZIP-Dateien verschlüsseln (weniger kompatibel).";
 
 /* Class = "NSButtonCell"; title = "Enable external volumes access"; ObjectID = "sgV-AD-k4Q"; */
-"sgV-AD-k4Q.title" = "Enable external volumes access";
+"sgV-AD-k4Q.title" = "Externe Volumes den Zugriff aktivieren";
