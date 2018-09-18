@@ -29,8 +29,10 @@
 "WIM Disk Image" = "Image disque WIM";
 "Comic Book RAR Archive" = "Archive Comic Book RAR";
 "Comic Book ZIP Archive" = "Archive Comic Book ZIP";
+"iOS App" = "App iOS";
 "JAR Archive" = "Archive JAR";
 "WAR Archive" = "Archive WAR";
 "Android Application Package" = "Android Application Package";
+"Cross-Platform Installer Module (XPI)" = "Cross-Platform Installer Module (XPI)";
 "APPX Archive" = "Archive APPX";
 "Keka WorkFlow" = "Processus de Keka";
