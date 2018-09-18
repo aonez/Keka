@@ -43,7 +43,7 @@ $content_legacy_text = '多年后你的 Mac 设备将变得陈旧，或许不会
 // Info
 $content_info_title1 = "简单而强大";
 $content_info_title2 = "隐私非常重要";
-$content_info_title3 = "文件太大了……";
+$content_info_title3 = "文件太大了...";
 $content_info_text1 = "你甚至无需打开 Keka 来压缩文件，只需将其保存到 Dock 中，<br />然后将文件和文件夹拖放到 Dock 上的 Keka 图标或 Keka 窗口即可更便捷的创建压缩文件。";
 $content_info_text2 = "如需更安全的分享文件，你只需通过设置密码来创建一个高度加密的压缩文件即可。<br />为你的 7z 文件和 Zip 2.0 文件使用 AES-256 加密规范，为 Zip 文件使用传统加密规范。";
 $content_info_text3 = "如果文件非常大并且它们不适合发邮件或网络传输，请将它们分卷压缩。<br />不用担心，它们依然可以解压恢复至原来的文件 :)";
@@ -51,7 +51,7 @@ $content_info_compression = "Keka 可以创建以下格式的文件：";
 $content_info_extraction = "并支持解压这些格式：";
 
 // Main content of the page
-$content_context_menu = "服务菜单（右键服务）";
+$content_context_menu = "服务菜单（右键服务";
 
 // Changelog info
 $content_changelog_title = "看看 Keka 的变化";
