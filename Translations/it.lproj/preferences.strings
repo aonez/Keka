@@ -153,7 +153,7 @@
 "453.title" = "Nessuno";
 
 /* Class = "NSTextFieldCell"; title = "You can also customize the access below:"; ObjectID = "5B7-Sc-wp0"; */
-"5B7-Sc-wp0.title" = "È possibile personalizzare l'accesso utilizzando questo elenco:”;
+"5B7-Sc-wp0.title" = "È possibile personalizzare l'accesso utilizzando questo elenco:";
 
 /* Class = "NSToolbarItem"; label = "File Access"; ObjectID = "5eC-d6-04X"; */
 "5eC-d6-04X.label" = "Accesso ai file";
@@ -162,7 +162,7 @@
 "5eC-d6-04X.paletteLabel" = "Accesso ai file";
 
 /* Class = "NSButtonCell"; title = "Enable home folder access"; ObjectID = "DL5-wY-cqc"; */
-"DL5-wY-cqc.title" = "Abilita l'accesso alla cartella Inizio”;
+"DL5-wY-cqc.title" = "Abilita l'accesso alla cartella Inizio";
 
 /* Class = "NSTextFieldCell"; title = "Here you can choose the folders you want to give access to Keka. Note that Keka can't be used where it has no access. If needed, Keka will ask for specific folder access."; ObjectID = "GDf-ZS-dTs"; */
 "GDf-ZS-dTs.title" = "Qui puoi scegliere le cartelle a cui vuoi consentire l'accesso a Keka. Tieni presente che Keka non funzionerà dove non ha l'accesso. Se necessario, Keka chiederà l'accesso alla cartella specifica.";
