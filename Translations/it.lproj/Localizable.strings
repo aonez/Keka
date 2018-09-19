@@ -135,7 +135,7 @@
 "\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\nFai semplicemente clic su \"Consenti l'accesso a Keka\", il tuo disco dovrebbe già essere selezionato.";
 "Give access to Keka" = "Consenti l'accesso a Keka";
 "Full Mac access (Recommended)" = "Accesso completo al Mac (Consigliato)";
-"Home folder access" = "Accesso alla cartella Inizio”;
+"Home folder access" = "Accesso alla cartella Inizio";
 "External volumes access" = "Accesso ai volumi esterni";
 "External disk: %@" = "Disco esterno: %@";
 "An extension is required" = "È richiesta un'estensione";
