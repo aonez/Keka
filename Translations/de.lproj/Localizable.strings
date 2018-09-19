@@ -131,7 +131,7 @@
 "Keka needs file access" = "Keka benötigt Dateizugriff";
 "Give home access" = "Benutzer den Zugriff erlauben";
 "Customize" = "Anpassen";
-"In order to work seamlessly with your files, Keka needs local access to the Mac disk." = ""Um nahtlos mit Ihren Dateien arbeiten zu können, benötigt Keka lokalen Zugriff auf die Mac-Festplatte."";
+"In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "Um nahtlos mit Ihren Dateien arbeiten zu können, benötigt Keka lokalen Zugriff auf die Mac-Festplatte.";
 "\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\nKlicken Sie einfach auf \"Keka den Zugriff erlauben\", deine Festplatte sollte bereits ausgewählt sein.";
 "Give access to Keka" = "Keka den Zugriff erlauben";
 "Full Mac access (Recommended)" = "Voller Mac-Zugriff (Empfohlen)";
