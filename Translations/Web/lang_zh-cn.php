@@ -36,7 +36,7 @@ $content_beta_up = "获取最新版本";
 	
 
 // Legacy
-$content_plataform_legacy =  "适合 $version_replace";
+$content_plataform_legacy =  "适用于 $version_replace";
 $content_legacy_title = "Keka 历史版本";
 $content_legacy_text = '多年后你的 Mac 设备将变得陈旧，或许不会支持<br />最新版的 Keka，但是别担心<i class="fa fa-coffee" aria-hidden="true"></i>，所有历史版本 Keka 都在这儿。';
 
