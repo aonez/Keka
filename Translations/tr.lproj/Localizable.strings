@@ -143,7 +143,7 @@
 "Cannot set Keka as default" = "Keka varsayılan olarak ayarlanamaz";
 "The intermediate application failed to launch. There is more information in the Console.app." = "Ara uygulama başlatılamadı. Console.app içinde daha fazla bilgi var.";
 "The intermediate application returned an undefined code." = "Ara uygulama tanımlanmamış bir kod döndürdü.";
-"Keka is now set as the default application for it's known formats." = "Keka artık bilinen formatları için varsayılan uygulama olarak ayarlandı.";
+"Keka is now set as the default application for its known formats." = "Keka artık bilinen formatları için varsayılan uygulama olarak ayarlandı.";
 "Keka set as default" = "Keka varsayılan olarak ayarlandı";
 "There where some errors while registering the formats. There is more information in the Console.app." = "Biçimleri kaydederken bazı hatalar var. Console.app içinde daha fazla bilgi var.";
 "The intermediate application can't get access to Keka." = "Ara uygulama Keka'ya erişemez.";
