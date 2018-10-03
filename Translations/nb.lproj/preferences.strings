@@ -165,7 +165,7 @@
 "DL5-wY-cqc.title" = "Aktiver tilgang til hjemmemappe";
 
 /* Class = "NSTextFieldCell"; title = "Here you can choose the folders you want to give access to Keka. Note that Keka can't be used where it has no access. If needed, Keka will ask for specific folder access."; ObjectID = "GDf-ZS-dTs"; */
-"GDf-ZS-dTs.title" = "Her kan du velge mappene ti vil gi Keka tilgan til. Merk at Keka ikke kan brukes i mapper det ikke har tilgang til. Om nødvendig vil Keka be om tilgang til den spesifikke mappen.";
+"GDf-ZS-dTs.title" = "Her kan du velge mappene du vil gi Keka tilgang til. Merk at Keka ikke kan brukes i mapper det ikke har tilgang til. Om nødvendig vil Keka be om tilgang til den spesifikke mappen.";
 
 /* Class = "NSButtonCell"; title = "Enable full Mac access (Recommended)"; ObjectID = "IHj-ac-103"; */
 "IHj-ac-103.title" = "Aktiver full tilgang til Mac (Anbefalt)";
