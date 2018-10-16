@@ -143,7 +143,7 @@
 "Cannot set Keka as default" = "无法将 Keka 设置为默认应用程序";
 "The intermediate application failed to launch. There is more information in the Console.app." = "中间应用程序无法启动。请在控制台中查看详情。";
 "The intermediate application returned an undefined code." = "中间应用程序返回了一个未定义的代码。";
-"Keka is now set as the default application for it's known formats." = "Keka 已被设置为已知格式的默认应用程序。";
+"Keka is now set as the default application for its known formats." = "Keka 已被设置为已知格式的默认应用程序。";
 "Keka set as default" = "Keka 设置为默认应用程序";
 "There where some errors while registering the formats. There is more information in the Console.app." = "注册格式时出现错误。请在控制台中查看详情。";
 "The intermediate application can't get access to Keka." = "中间应用程序无法访问 Keka。";
