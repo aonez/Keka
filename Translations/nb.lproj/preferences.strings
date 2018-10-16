@@ -1,192 +1,192 @@
 ﻿
 /* Class = "NSBox"; title = "Format"; ObjectID = "153"; */
-"153.title" = "Formato";
+"153.title" = "Format";
 
 /* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
-"159.title" = "Formato di default:";
+"159.title" = "Standardformat:";
 
 /* Class = "NSTextFieldCell"; title = "Default method:"; ObjectID = "160"; */
-"160.title" = "Metodo di default:";
+"160.title" = "Standardmetode:";
 
 /* Class = "NSTextFieldCell"; title = "Those are only applied when Keka is not open"; ObjectID = "161"; */
-"161.title" = "Quelle che sono applicate solo quando Keka non è aperto";
+"161.title" = "Dette gjelder bare når Keka ikke er åpen";
 
 /* Class = "NSMenuItem"; title = "No compression"; ObjectID = "164"; */
-"164.title" = "Nessuna compressione";
+"164.title" = "Ingen komprimering";
 
 /* Class = "NSMenuItem"; title = "Fast, less compression"; ObjectID = "165"; */
-"165.title" = "Veloce, minore compressione";
+"165.title" = "Rask, mindre komprimering";
 
 /* Class = "NSMenuItem"; title = "Normal"; ObjectID = "166"; */
-"166.title" = "Normale";
+"166.title" = "Normal";
 
 /* Class = "NSMenuItem"; title = "Fastest, less compression"; ObjectID = "167"; */
-"167.title" = "Velocissimo, minore compressione";
+"167.title" = "Raskest, mindre komprimering";
 
 /* Class = "NSMenuItem"; title = "Slowest, more compression"; ObjectID = "168"; */
-"168.title" = "Lentissimo, maggiore compressione";
+"168.title" = "Tregest, mer komprimering";
 
 /* Class = "NSMenuItem"; title = "Slow, more compression"; ObjectID = "169"; */
-"169.title" = "Lento, maggiore compressione";
+"169.title" = "Treg, mer komprimering";
 
 /* Class = "NSButtonCell"; title = "Set Keka as default compressor/uncompressor"; ObjectID = "184"; */
-"184.title" = "Imposta Keka come compr./decompr. di default";
+"184.title" = "Sett Keka som standard program for komprimering/dekomprimering";
 
 /* Class = "NSButtonCell"; title = "Close Keka when no windows are open"; ObjectID = "187"; */
-"187.title" = "Chiudi Keka quando nessuna finestra è visibile";
+"187.title" = "Lukk Keka når ingen vinduer er åpne";
 
 /* Class = "NSBox"; title = "Actions"; ObjectID = "191"; */
-"191.title" = "Azioni";
+"191.title" = "Handlinger";
 
 /* Class = "NSTextFieldCell"; title = "Automatic action: Keka will decide whether to compress or uncompress based on file format and extension"; ObjectID = "194"; */
-"194.title" = "Azione automatica: a seconda dell'estensione del file Keka deciderà se comprimere o decomprimere.";
+"194.title" = "Automatisk handling: Keka vil velge mellom komprimering og dekomprimering basert på filformat og filendelse";
 
 /* Class = "NSMenuItem"; title = "Always extract"; ObjectID = "197"; */
-"197.title" = "Estrai sempre";
+"197.title" = "Alltid pakk ut";
 
 /* Class = "NSMenuItem"; title = "Always compress"; ObjectID = "198"; */
-"198.title" = "Comprimi sempre";
+"198.title" = "Alltid komprimer";
 
 /* Class = "NSMenuItem"; title = "Perform automatic action"; ObjectID = "199"; */
-"199.title" = "Esegui azione automatica";
+"199.title" = "Utfør automatisk handling";
 
 /* Class = "NSButtonCell"; title = "Move original file(s) to Trash after compression"; ObjectID = "262"; */
-"262.title" = "Sposta nel cestino i file originali dopo la compressione";
+"262.title" = "Flytt originalfilen(e) til Papirkurv etter komprimering";
 
 /* Class = "NSButtonCell"; title = "Archive as single files"; ObjectID = "263"; */
-"263.title" = "Archivia come singoli file";
+"263.title" = "Arkiver som enkeltfiler";
 
 /* Class = "NSButtonCell"; title = "Show file in Finder after compression"; ObjectID = "264"; */
-"264.title" = "Mostra i file nel Finder dopo la compressione";
+"264.title" = "Vis fil i Finder etter komprimering";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "265"; */
-"265.title" = "Escludi resource fork Mac (es.: .DS_Store)";
+"265.title" = "Ekskluder Mac-ressursfiler (f.eks.: .DS_Store)";
 
 /* Class = "NSBox"; title = "Name and location"; ObjectID = "270"; */
-"270.title" = "Nome e posizione";
+"270.title" = "Navn og plassering";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "276"; */
-"276.placeholderString" = "Metti qui il tuo nome personalizzato";
+"276.placeholderString" = "Ditt egendefinerte navn her";
 
 /* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "279"; */
-"279.title" = "Chiedi ogni volta";
+"279.title" = "Spør hver gang";
 
 /* Class = "NSMenuItem"; title = "Next to original file"; ObjectID = "280"; */
-"280.title" = "Accanto al file originale";
+"280.title" = "Ved siden av originalfilen";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "281"; */
-"281.title" = "Cartella personalizzata...";
+"281.title" = "Egendefinert mappe...";
 
 /* Class = "NSTextFieldCell"; title = "Save to location:"; ObjectID = "282"; */
-"282.title" = "Registra nella posizione:";
+"282.title" = "Arkiver til plassering:";
 
 /* Class = "NSTextFieldCell"; title = "Name of new files:"; ObjectID = "283"; */
-"283.title" = "Nome dei nuovi file:";
+"283.title" = "Navn på nye filer:";
 
 /* Class = "NSMenuItem"; title = "Same as original file"; ObjectID = "286"; */
-"286.title" = "Uguale al file originale";
+"286.title" = "Samme som originalfilen";
 
 /* Class = "NSMenuItem"; title = "Custom name..."; ObjectID = "287"; */
-"287.title" = "Nome personalizzato...";
+"287.title" = "Egendefinert navn...";
 
 /* Class = "NSToolbarItem"; label = "Compression"; ObjectID = "333"; */
-"333.label" = "Compressione";
+"333.label" = "Komprimering";
 
 /* Class = "NSToolbarItem"; paletteLabel = "Compression"; ObjectID = "333"; */
-"333.paletteLabel" = "Compressione";
+"333.paletteLabel" = "Komprimering";
 
 /* Class = "NSToolbarItem"; label = "General"; ObjectID = "334"; */
-"334.label" = "Generale";
+"334.label" = "Generelt";
 
 /* Class = "NSToolbarItem"; paletteLabel = "General"; ObjectID = "334"; */
-"334.paletteLabel" = "Generale";
+"334.paletteLabel" = "Generelt";
 
 /* Class = "NSToolbarItem"; label = "Extraction"; ObjectID = "338"; */
-"338.label" = "Estrazione";
+"338.label" = "Utpakking";
 
 /* Class = "NSToolbarItem"; paletteLabel = "Extraction"; ObjectID = "338"; */
-"338.paletteLabel" = "Estrazione";
+"338.paletteLabel" = "Utpakking";
 
 /* Class = "NSBox"; title = "Location"; ObjectID = "352"; */
-"352.title" = "Posizione";
+"352.title" = "Plassering";
 
 /* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "357"; */
-"357.title" = "Chiedi ogni volta";
+"357.title" = "Spør hver gang";
 
 /* Class = "NSMenuItem"; title = "Next to original file"; ObjectID = "358"; */
-"358.title" = "Accanto al file originale";
+"358.title" = "Ved siden av originalfilen";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "359"; */
-"359.title" = "Cartella personalizzata...";
+"359.title" = "Egendefinert mappe...";
 
 /* Class = "NSTextFieldCell"; title = "Extract to location:"; ObjectID = "360"; */
-"360.title" = "Estrai nella posizione:";
+"360.title" = "Pakk ut til plassering:";
 
 /* Class = "NSButtonCell"; title = "Show content in Finder after extraction"; ObjectID = "361"; */
-"361.title" = "Mostra il contenuto nel Finder dopo l'estrazione";
+"361.title" = "Vis innhold i Finder etter utpakking";
 
 /* Class = "NSButtonCell"; title = "Move compressed file(s) to Trash after extraction"; ObjectID = "362"; */
-"362.title" = "Sposta nel cestino i file compressi dopo l'estrazione";
+"362.title" = "Flytt komprimert(e) fil(er) til Papirkurv etter utpakking";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "418"; */
-"418.title" = "Nessuno";
+"418.title" = "Ingen";
 
 /* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "419"; */
-"419.title" = "Compressione di default";
+"419.title" = "Standard for komprimering";
 
 /* Class = "NSMenuItem"; title = "Default extraction"; ObjectID = "432"; */
-"432.title" = "Estrazione di default";
+"432.title" = "Standard for utpakking";
 
 /* Class = "NSTextFieldCell"; title = "Play a sound after an extraction:"; ObjectID = "433"; */
-"433.title" = "Riproduci un suono dopo l'estrazione:";
+"433.title" = "Spill av en lyd etter utpakking:";
 
 /* Class = "NSTextFieldCell"; title = "Play a sound after a compression:"; ObjectID = "436"; */
-"436.title" = "Riproduci un suono dopo la compressione:";
+"436.title" = "Spill av en lyd etter komprimering:";
 
 /* Class = "NSMenuItem"; title = "Default extraction"; ObjectID = "439"; */
-"439.title" = "Estrazione di default";
+"439.title" = "Standard for komprimering";
 
 /* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "452"; */
-"452.title" = "Compressione di default";
+"452.title" = "Standard for utpakking";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "453"; */
-"453.title" = "Nessuno";
+"453.title" = "Ingen";
 
 /* Class = "NSTextFieldCell"; title = "You can also customize the access below:"; ObjectID = "5B7-Sc-wp0"; */
-"5B7-Sc-wp0.title" = "È possibile personalizzare l'accesso utilizzando questo elenco:";
+"5B7-Sc-wp0.title" = "Du kan også tilpasse tilgang under:";
 
 /* Class = "NSToolbarItem"; label = "File Access"; ObjectID = "5eC-d6-04X"; */
-"5eC-d6-04X.label" = "Accesso ai file";
+"5eC-d6-04X.label" = "Filtilgang";
 
 /* Class = "NSToolbarItem"; paletteLabel = "File Access"; ObjectID = "5eC-d6-04X"; */
-"5eC-d6-04X.paletteLabel" = "Accesso ai file";
+"5eC-d6-04X.paletteLabel" = "Filtilgang";
 
 /* Class = "NSButtonCell"; title = "Enable home folder access"; ObjectID = "DL5-wY-cqc"; */
-"DL5-wY-cqc.title" = "Abilita l'accesso alla cartella Inizio";
+"DL5-wY-cqc.title" = "Aktiver tilgang til hjemmemappe";
 
 /* Class = "NSTextFieldCell"; title = "Here you can choose the folders you want to give access to Keka. Note that Keka can't be used where it has no access. If needed, Keka will ask for specific folder access."; ObjectID = "GDf-ZS-dTs"; */
-"GDf-ZS-dTs.title" = "Qui puoi scegliere le cartelle a cui vuoi consentire l'accesso a Keka. Tieni presente che Keka non funzionerà dove non ha l'accesso. Se necessario, Keka chiederà l'accesso alla cartella specifica.";
+"GDf-ZS-dTs.title" = "Her kan du velge mappene du vil gi Keka tilgang til. Merk at Keka ikke kan brukes i mapper det ikke har tilgang til. Om nødvendig vil Keka be om tilgang til den spesifikke mappen.";
 
 /* Class = "NSButtonCell"; title = "Enable full Mac access (Recommended)"; ObjectID = "IHj-ac-103"; */
-"IHj-ac-103.title" = "Abilita l'accesso completo al Mac (Consigliato)";
+"IHj-ac-103.title" = "Aktiver full tilgang til Mac (Anbefalt)";
 
 /* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive:"; ObjectID = "JxT-Nq-8Z5"; */
-"JxT-Nq-8Z5.title" = "Abilita l'accesso ai volumi esterni in modo da poter utilizzare Keka con dischi esterni, come USB o Thunderbolt:";
+"JxT-Nq-8Z5.title" = "Aktiver tilgang til eksterne volumer, så Keka kan brukes med dine eksterne disker, som en USB- eller Thunderbolt-disk:";
 
 /* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder:"; ObjectID = "PD2-iW-BGK"; */
-"PD2-iW-BGK.title" = "Abilita l'accesso personale in modo da poter utilizzare Keka su tutti i tuoi file utente, come quelli che sono sulla Scrivania o nella cartella Download:";
+"PD2-iW-BGK.title" = "Aktiver tilgang til hjemmemappen, så Keka kan brukes på alle filer tilhørene brukeren din, som for eksempel på skrivebordet og i Nedlastinger:";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
-"SOL-6U-5P9.title" = "Attiva integrazione Centro Notifiche";
+"SOL-6U-5P9.title" = "Aktiver støtte for Varslingssenter";
 
 /* Class = "NSTextFieldCell"; title = "Enable full Mac access so Keka can be used on all your Mac:"; ObjectID = "ZOx-vr-5o7"; */
-"ZOx-vr-5o7.title" = "Abilita l'accesso completo al Mac per poter utilizzare Keka ovunque:";
+"ZOx-vr-5o7.title" = "Enable full Mac access so Keka can be used on all your Mac:";
 
 /* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "b5e-bj-Pgz"; */
-"b5e-bj-Pgz.title" = "Utilizza la barra strumenti unificata (ripristina personalizzazioni)";
+"b5e-bj-Pgz.title" = "Bruk enhetlig verktøylinje (tilbakestiller tilpasninger)";
 
 /* Class = "NSButtonCell"; title = "Use AES-256 when encrypting ZIP files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
-"hp7-jO-HeV.title" = "Utilizza AES-256 durante la codifica dei file ZIP (meno compatibile)";
+"hp7-jO-HeV.title" = "Bruk AES-256 for kryptering av ZIP-filer (mindre kompatibelt)";
 
 /* Class = "NSButtonCell"; title = "Enable external volumes access"; ObjectID = "sgV-AD-k4Q"; */
-"sgV-AD-k4Q.title" = "Abilita l'accesso ai volumi esterni";
+"sgV-AD-k4Q.title" = "Aktiver tilgang til eksterne volumer";
