@@ -12,22 +12,22 @@
 "161.title" = "Ces réglages sont utilisés lorsque Keka n'est pas déjà lancé.";
 
 /* Class = "NSMenuItem"; title = "No compression"; ObjectID = "164"; */
-"164.title" = "Non comprimé";
+"164.title" = "Non compressé";
 
 /* Class = "NSMenuItem"; title = "Fast, less compression"; ObjectID = "165"; */
-"165.title" = "Rapide, moins comprimé";
+"165.title" = "Rapide, moins compressé";
 
 /* Class = "NSMenuItem"; title = "Normal"; ObjectID = "166"; */
 "166.title" = "Normal";
 
 /* Class = "NSMenuItem"; title = "Fastest, less compression"; ObjectID = "167"; */
-"167.title" = "Très rapide, moins comprimé";
+"167.title" = "Très rapide, moins compressé";
 
 /* Class = "NSMenuItem"; title = "Slowest, more compression"; ObjectID = "168"; */
-"168.title" = "Très lent, mieux comprimé";
+"168.title" = "Très lent, mieux compressé";
 
 /* Class = "NSMenuItem"; title = "Slow, more compression"; ObjectID = "169"; */
-"169.title" = "Lent, mieux comprimé";
+"169.title" = "Lent, mieux compressé";
 
 /* Class = "NSButtonCell"; title = "Set Keka as default compressor/uncompressor"; ObjectID = "184"; */
 "184.title" = "Définir Keka comme compresseur/décompresseur par défaut";
@@ -39,19 +39,19 @@
 "191.title" = "Actions";
 
 /* Class = "NSTextFieldCell"; title = "Automatic action: Keka will decide whether to compress or uncompress based on file format and extension"; ObjectID = "194"; */
-"194.title" = "Choisir l'action automatiquement : Keka choisira de comprimer ou décomprimer selon l'extension des fichiers.";
+"194.title" = "Choisir l'action automatiquement : Keka choisira de compresser ou décompresser selon l'extension des fichiers.";
 
 /* Class = "NSMenuItem"; title = "Always extract"; ObjectID = "197"; */
 "197.title" = "Toujours extraire";
 
 /* Class = "NSMenuItem"; title = "Always compress"; ObjectID = "198"; */
-"198.title" = "Toujours comprimer";
+"198.title" = "Toujours compresser";
 
 /* Class = "NSMenuItem"; title = "Perform automatic action"; ObjectID = "199"; */
 "199.title" = "Choisir l'action automatiquement";
 
 /* Class = "NSButtonCell"; title = "Move original file(s) to Trash after compression"; ObjectID = "262"; */
-"262.title" = "Mettre les fichiers à la corbeille une fois comprimés";
+"262.title" = "Mettre les fichiers à la corbeille une fois compressés";
 
 /* Class = "NSButtonCell"; title = "Archive as single files"; ObjectID = "263"; */
 "263.title" = "Archiver les fichiers séparément";
@@ -66,13 +66,13 @@
 "270.title" = "Nom et emplacement";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "276"; */
-"276.placeholderString" = "Here your custom name";
+"276.placeholderString" = "Entrez ici votre nom personnalisé";
 
 /* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "279"; */
 "279.title" = "Toujours demander";
 
 /* Class = "NSMenuItem"; title = "Next to original file"; ObjectID = "280"; */
-"280.title" = "A côté du fichier d'origine";
+"280.title" = "À côté du fichier d'origine";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "281"; */
 "281.title" = "Dossier personnalisé...";
@@ -114,7 +114,7 @@
 "357.title" = "Toujours demander";
 
 /* Class = "NSMenuItem"; title = "Next to original file"; ObjectID = "358"; */
-"358.title" = "A côté du fichier d'origine";
+"358.title" = "À côté du fichier d'origine";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "359"; */
 "359.title" = "Dossier personnalisé...";
@@ -153,40 +153,40 @@
 "453.title" = "Aucun";
 
 /* Class = "NSTextFieldCell"; title = "You can also customize the access below:"; ObjectID = "5B7-Sc-wp0"; */
-"5B7-Sc-wp0.title" = "You can also customize the access below:";
+"5B7-Sc-wp0.title" = "Vous pouvez aussi personnaliser l'accès ci-dessous :";
 
 /* Class = "NSToolbarItem"; label = "File Access"; ObjectID = "5eC-d6-04X"; */
-"5eC-d6-04X.label" = "File Access";
+"5eC-d6-04X.label" = "Accès Fichiers";
 
 /* Class = "NSToolbarItem"; paletteLabel = "File Access"; ObjectID = "5eC-d6-04X"; */
-"5eC-d6-04X.paletteLabel" = "File Access";
+"5eC-d6-04X.paletteLabel" = "Accès Fichiers";
 
 /* Class = "NSButtonCell"; title = "Enable home folder access"; ObjectID = "DL5-wY-cqc"; */
-"DL5-wY-cqc.title" = "Enable home folder access";
+"DL5-wY-cqc.title" = "Autoriser l'accès au dossier Départ";
 
 /* Class = "NSTextFieldCell"; title = "Here you can choose the folders you want to give access to Keka. Note that Keka can't be used where it has no access. If needed, Keka will ask for specific folder access."; ObjectID = "GDf-ZS-dTs"; */
-"GDf-ZS-dTs.title" = "Here you can choose the folders you want to give access to Keka. Note that Keka can't be used where it has no access. If needed, Keka will ask for specific folder access.";
+"GDf-ZS-dTs.title" = "Vous pouvez choisir ici les dossiers auxquels vous souhaitez que Keka ait accès. Notez que Keka ne peut pas être utilisé là où il n'a aucun accès. Si besoin, Keka demandera l'accès à des dossiers spécifiques.";
 
 /* Class = "NSButtonCell"; title = "Enable full Mac access (Recommended)"; ObjectID = "IHj-ac-103"; */
-"IHj-ac-103.title" = "Enable full Mac access (Recommended)";
+"IHj-ac-103.title" = "Autoriser l'accès à l'ensemble du Mac (Recommandé)";
 
 /* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive:"; ObjectID = "JxT-Nq-8Z5"; */
-"JxT-Nq-8Z5.title" = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive:";
+"JxT-Nq-8Z5.title" = " Autoriser l'accès à des volumes externes pour que Keka puisse être utilisé avec vos disques externes, tels qu'un disque USB ou Thunderbolt :";
 
 /* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder:"; ObjectID = "PD2-iW-BGK"; */
-"PD2-iW-BGK.title" = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder:";
+"PD2-iW-BGK.title" = "Autoriser l'accès au dossier Départ pour que Keka puisse être utilisé avec tous vos fichiers utilisateur, tels que ceux de votre Bureau ou de votre dossier Téléchargements :";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
-"SOL-6U-5P9.title" = "Enable Notification Center integration";
+"SOL-6U-5P9.title" = "Autoriser l'intégration au Centre de notifications";
 
 /* Class = "NSTextFieldCell"; title = "Enable full Mac access so Keka can be used on all your Mac:"; ObjectID = "ZOx-vr-5o7"; */
-"ZOx-vr-5o7.title" = "Enable full Mac access so Keka can be used on all your Mac:";
+"ZOx-vr-5o7.title" = "Autoriser l'accès à l'ensemble du Mac pour que Keka puisse être utilisé sur tout votre Mac :";
 
 /* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "b5e-bj-Pgz"; */
-"b5e-bj-Pgz.title" = "Use unified toolbar (resets customizations)";
+"b5e-bj-Pgz.title" = "Utiliser la barre d'outils unifiée (réinitialise les personalisations)";
 
 /* Class = "NSButtonCell"; title = "Use AES-256 when encrypting ZIP files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
-"hp7-jO-HeV.title" = "Use AES-256 when encrypting ZIP files (less compatible)";
+"hp7-jO-HeV.title" = "Utiliser AES-256 lors du chiffrement des fichiers ZIP (moins compatible)";
 
 /* Class = "NSButtonCell"; title = "Enable external volumes access"; ObjectID = "sgV-AD-k4Q"; */
-"sgV-AD-k4Q.title" = "Enable external volumes access";
+"sgV-AD-k4Q.title" = "Autoriser l'accès aux volumes externes";

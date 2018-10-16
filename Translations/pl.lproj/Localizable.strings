@@ -143,7 +143,7 @@
 "Cannot set Keka as default" = "Nie można ustawić Keka jako programu domyślnego";
 "The intermediate application failed to launch. There is more information in the Console.app." = "Nie można uruchomić aplikacji pośredniej. Więcej informacji znajdziesz w pliku Console.app.";
 "The intermediate application returned an undefined code." = "Aplikacja pośrednia zwróciła niezdefiniowany kod.";
-"Keka is now set as the default application for it's known formats." = "Keka jest teraz ustawiony jako domyślna aplikacja dla znanych formatów.";
+"Keka is now set as the default application for its known formats." = "Keka jest teraz ustawiony jako domyślna aplikacja dla znanych formatów.";
 "Keka set as default" = "Ustaw Keka jako program domyślny";
 "There where some errors while registering the formats. There is more information in the Console.app." = "Wystąpiły błędy podczas rejestracji formatów. Więcej informacji znajdziesz w pliku Console.app.";
 "The intermediate application can't get access to Keka." = "Aplikacja pośrednia nie mogła uzyskać dostępu do Keka.";
