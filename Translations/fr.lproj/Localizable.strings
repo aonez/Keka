@@ -49,6 +49,8 @@
 "Creating \"%@\"" = "Création de \"%@\"";
 "Prepearing extraction..." = "Préparation de l'extraction...";
 "Choose a folder to extract this file" = "Choisissez un dossier où extraire ce fichier";
+"Choose where do you want to extract \"%@\"" = "Choose where do you want to extract \"%@\"";
+"Select all the volumes from \"%@\" or the folder that contains them" = "Select all the volumes from \"%@\" or the folder that contains them";
 "Extraction of \"%@\" failed" = "L'extraction de \"%@\" a échoué";
 "Keka - %i on queue" = "Keka - %i en file d'attente";
 "Keka can't create this %@ image" = "Keka ne peut créer l'image %@";
