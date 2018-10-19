@@ -49,6 +49,8 @@
 "Creating \"%@\"" = "Создание \"%@\"";
 "Prepearing extraction..." = "Подготовка распаковки…";
 "Choose a folder to extract this file" = "Укажите папку для распаковки файла";
+"Choose where do you want to extract \"%@\"" = "Choose where do you want to extract \"%@\"";
+"Select all the volumes from \"%@\" or the folder that contains them" = "Select all the volumes from \"%@\" or the folder that contains them";
 "Extraction of \"%@\" failed" = "Не удалось распаковать \"%@\"";
 "Keka - %i on queue" = "Keka - %i в очереди";
 "Keka can't create this %@ image" = "Keka не удалось создать %@-образ";
