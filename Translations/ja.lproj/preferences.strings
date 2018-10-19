@@ -29,7 +29,7 @@
 /* Class = "NSMenuItem"; title = "Slow, more compression"; ObjectID = "169"; */
 "169.title" = "遅い、圧縮率は高い";
 
-/* Class = "NSButtonCell"; title = "Set Keka as default compressor/uncompressor"; ObjectID = "184"; */
+/* Class = "NSButtonCell"; title = "Set Keka as default uncompressor"; ObjectID = "184"; */
 "184.title" = "Keka を圧縮・解凍ツールのデフォルトに設定する";
 
 /* Class = "NSButtonCell"; title = "Close Keka when no windows are open"; ObjectID = "187"; */

@@ -29,8 +29,8 @@
 /* Class = "NSMenuItem"; title = "Slow, more compression"; ObjectID = "169"; */
 "169.title" = "Lento, maggiore compressione";
 
-/* Class = "NSButtonCell"; title = "Set Keka as default compressor/uncompressor"; ObjectID = "184"; */
-"184.title" = "Imposta Keka come compr./decompr. di default";
+/* Class = "NSButtonCell"; title = "Set Keka as the default uncompressor"; ObjectID = "184"; */
+"184.title" = "Imposta Keka come decompressore di default";
 
 /* Class = "NSButtonCell"; title = "Close Keka when no windows are open"; ObjectID = "187"; */
 "187.title" = "Chiudi Keka quando nessuna finestra è visibile";
