@@ -147,6 +147,6 @@
 "The intermediate application returned an undefined code." = "Приложение-посредник вернуло неопределённый код.";
 "Keka is now set as the default application for its known formats." = "Keka установлена в качестве приложения по умолчанию для известных ей форматов.";
 "Keka set as default" = "Keka установлена по умолчанию";
-"There where some errors while registering the formats. There is more information in the Console.app." = "При регистрации форматов произошли некоторые ошибки. Больше информации — в приложении Консоль.";
+"There were some errors while registering the formats. There is more information in the Console.app." = "При регистрации форматов произошли некоторые ошибки. Больше информации — в приложении Консоль.";
 "The intermediate application can't get access to Keka." = "Приложение посредник не смогло получить доступ к Keka.";
 "The intermediate application can't find Keka." = "Приложение-посредник не может найти Keka.";
