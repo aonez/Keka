@@ -9,7 +9,7 @@
 "XZ Archive" = "Архив XZ";
 "XZ Tarball Archive" = "Сжатый TAR-архив XZ";
 "RAR Archive" = "Архив RAR";
-"RAR Legacy Archive Volume" = "RAR Legacy Archive Volume";
+"RAR Legacy Archive Volume" = "Архив RAR старого формата";
 "Generic Archive Volume" = "Generic Archive Volume";
 "BZIP2 Archive" = "Архив BZIP2";
 "BZIP2 Tarball Archive" = "Сжатый TAR-архив BZIP2";
@@ -24,8 +24,8 @@
 "DMG Disk Image" = "Образ диска DMG";
 "ISO Disk Image" = "Образ диска ISO";
 "LHA Archive" = "Архив LHA";
-"Windows EXE File" = "Windows EXE File";
-"Window Cabinet File" = "Window Cabinet File";
+"Windows EXE File" = "Файл Windows EXE";
+"Window Cabinet File" = "Файл Window Cabinet";
 "WIM Disk Image" = "Образ диска WIM";
 "Comic Book RAR Archive" = "Архив Comic Book RAR";
 "Comic Book ZIP Archive" = "Архив Comic Book ZIP";
