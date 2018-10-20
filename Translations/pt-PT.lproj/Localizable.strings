@@ -147,6 +147,6 @@
 "The intermediate application returned an undefined code." = "O aplicativo intermediário retornou um código indefinido.";
 "Keka is now set as the default application for its known formats." = "Agora o Keka está definido como aplicação padrão dos formatos conhecidos.";
 "Keka set as default" = "Keka definido como padrão";
-"There where some errors while registering the formats. There is more information in the Console.app." = "Houve alguns erros ao registar os formatos. Mais informações estão disponíveis na aplicação Console.";
+"There were some errors while registering the formats. There is more information in the Console.app." = "Houve alguns erros ao registar os formatos. Mais informações estão disponíveis na aplicação Console.";
 "The intermediate application can't get access to Keka." = "A aplicação intermediária não pode obter acesso ao Keka.";
 "The intermediate application can't find Keka." = "A aplicação intermediária não encontrou o Keka.";
