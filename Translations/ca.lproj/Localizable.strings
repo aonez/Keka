@@ -147,6 +147,6 @@
 "The intermediate application returned an undefined code." = "L'extensió ha retornat un codi desconegut.";
 "Keka is now set as the default application for its known formats." = "El Keka s'ha establert com a l'aplicació per defecte pels formats que reconeix.";
 "Keka set as default" = "El Keka s'ha establert com a aplicació per defecte";
-"There where some errors while registering the formats. There is more information in the Console.app." = "Han ocorregut errors al registrar els formats. Trobaràs més informació a la Consola.app.";
+"There were some errors while registering the formats. There is more information in the Console.app." = "Han ocorregut errors al registrar els formats. Trobaràs més informació a la Consola.app.";
 "The intermediate application can't get access to Keka." = "L'extensió no pot accedir al Keka.";
 "The intermediate application can't find Keka." = "L'extensió no pot torbar el Keka.";
