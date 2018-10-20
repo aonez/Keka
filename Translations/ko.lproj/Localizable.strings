@@ -147,6 +147,6 @@
 "The intermediate application returned an undefined code." = "매개 프로그램이 정의되지 않은 코드를 반환했습니다.";
 "Keka is now set as the default application for its known formats." = "이제 Keka는 알려진 포맷에 대하여 기본 프로그램으로 설정되었습니다.";
 "Keka set as default" = "기본 프로그램으로 Keka가 설정됨";
-"There where some errors while registering the formats. There is more information in the Console.app." = "포맷을 등록하던 도중 오류가 발생했습니다. 더 많은 정보는 Console.app에 있습니다.";
+"There were some errors while registering the formats. There is more information in the Console.app." = "포맷을 등록하던 도중 오류가 발생했습니다. 더 많은 정보는 Console.app에 있습니다.";
 "The intermediate application can't get access to Keka." = "매개 프로그램이 Keka에 접근할 수 없습니다.";
 "The intermediate application can't find Keka." = "매개 프로그램이 Keka를 찾을 수 없습니다.";
