@@ -147,6 +147,6 @@
 "The intermediate application returned an undefined code." = "Mellomleddsprogrammet returnere en udefinert kode.";
 "Keka is now set as the default application for its known formats." = "Keka er nå satt som standardprogram for alle formatene det kjenner.";
 "Keka set as default" = "Keka satt som standard";
-"There where some errors while registering the formats. There is more information in the Console.app." = "Det oppstod feil under registrering av noen av formatene. Mer informasjon finnes i Konsoll.app.";
+"There were some errors while registering the formats. There is more information in the Console.app." = "Det oppstod feil under registrering av noen av formatene. Mer informasjon finnes i Konsoll.app.";
 "The intermediate application can't get access to Keka." = "Mellomleddsprogrammet har ikke tilgang til Keka.";
 "The intermediate application can't find Keka." = "Mellomleddsprogrammet finner ikke Keka.";
