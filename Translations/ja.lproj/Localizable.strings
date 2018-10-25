@@ -49,6 +49,8 @@
 "Creating \"%@\"" = "\"%@\"を作成中";
 "Prepearing extraction..." = "解凍の準備をしています…";
 "Choose a folder to extract this file" = "解凍先のフォルダを選んでください";
+"Choose where do you want to extract \"%@\"" = "Choose where do you want to extract \"%@\"";
+"Select all the volumes from \"%@\" or the folder that contains them" = "Select all the volumes from \"%@\" or the folder that contains them";
 "Extraction of \"%@\" failed" = "\"%@\" を解凍はできませんでした。";
 "Keka - %i on queue" = "Keka - 残りの項目: %i個";
 "Keka can't create this %@ image" = "%@ イメージを作成できません。";
@@ -145,6 +147,6 @@
 "The intermediate application returned an undefined code." = "The intermediate application returned an undefined code.";
 "Keka is now set as the default application for its known formats." = "Keka is now set as the default application for its known formats.";
 "Keka set as default" = "Keka set as default";
-"There where some errors while registering the formats. There is more information in the Console.app." = "There where some errors while registering the formats. There is more information in the Console.app.";
+"There were some errors while registering the formats. There is more information in the Console.app." = "There were some errors while registering the formats. There is more information in the Console.app.";
 "The intermediate application can't get access to Keka." = "The intermediate application can't get access to Keka.";
 "The intermediate application can't find Keka." = "The intermediate application can't find Keka.";

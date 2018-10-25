@@ -49,6 +49,8 @@
 "Creating \"%@\"" = "Création de \"%@\"";
 "Prepearing extraction..." = "Préparation de l'extraction...";
 "Choose a folder to extract this file" = "Choisissez un dossier où extraire ce fichier";
+"Choose where do you want to extract \"%@\"" = "Choose where do you want to extract \"%@\"";
+"Select all the volumes from \"%@\" or the folder that contains them" = "Select all the volumes from \"%@\" or the folder that contains them";
 "Extraction of \"%@\" failed" = "L'extraction de \"%@\" a échoué";
 "Keka - %i on queue" = "Keka - %i en file d'attente";
 "Keka can't create this %@ image" = "Keka ne peut créer l'image %@";
@@ -145,6 +147,6 @@
 "The intermediate application returned an undefined code." = "L'application intermédiaire a renvoyé un code indéfini.";
 "Keka is now set as the default application for its known formats." = "Keka est maintenant défini comme application par défaut pour ses propres formats.";
 "Keka set as default" = "Keka défini par défaut";
-"There where some errors while registering the formats. There is more information in the Console.app." = "Il y a eu des erreurs pendant la définition des formats. Il y a des informations complémentaires dans Console.app.";
+"There were some errors while registering the formats. There is more information in the Console.app." = "Il y a eu des erreurs pendant la définition des formats. Il y a des informations complémentaires dans Console.app.";
 "The intermediate application can't get access to Keka." = "L'application intermédiairene peut pas accéder à Keka.";
 "The intermediate application can't find Keka." = "L'application intermédiaire ne trouve pas Keka.";

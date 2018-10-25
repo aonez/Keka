@@ -49,6 +49,8 @@
 "Creating \"%@\"" = "Oppretter \"%@\"";
 "Prepearing extraction..." = "Forbereder utpakking…";
 "Choose a folder to extract this file" = "Velg en mappe å pakke ut denne filen til";
+"Choose where do you want to extract \"%@\"" = "Choose where do you want to extract \"%@\"";
+"Select all the volumes from \"%@\" or the folder that contains them" = "Select all the volumes from \"%@\" or the folder that contains them";
 "Extraction of \"%@\" failed" = "Utpakking av \"%@\" feilet";
 "Keka - %i on queue" = "Keka - %i i kø";
 "Keka can't create this %@ image" = "Keka kan ikke opprette dette %@-bildet";
@@ -145,6 +147,6 @@
 "The intermediate application returned an undefined code." = "Mellomleddsprogrammet returnere en udefinert kode.";
 "Keka is now set as the default application for its known formats." = "Keka er nå satt som standardprogram for alle formatene det kjenner.";
 "Keka set as default" = "Keka satt som standard";
-"There where some errors while registering the formats. There is more information in the Console.app." = "Det oppstod feil under registrering av noen av formatene. Mer informasjon finnes i Konsoll.app.";
+"There were some errors while registering the formats. There is more information in the Console.app." = "Det oppstod feil under registrering av noen av formatene. Mer informasjon finnes i Konsoll.app.";
 "The intermediate application can't get access to Keka." = "Mellomleddsprogrammet har ikke tilgang til Keka.";
 "The intermediate application can't find Keka." = "Mellomleddsprogrammet finner ikke Keka.";
