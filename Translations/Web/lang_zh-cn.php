@@ -6,6 +6,7 @@
 // Translated by Max Sky (admin@maxsky.cc)
 //
 //
+$content_bottom_copying = "Https://Www.MaxSky.cC";
 
 // General
 $content_download = "下载";
