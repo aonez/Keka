@@ -29,7 +29,7 @@
 /* Class = "NSMenuItem"; title = "Slow, more compression"; ObjectID = "169"; */
 "169.title" = "Медленный (больше сжатие)";
 
-/* Class = "NSButtonCell"; title = "Set Keka as default compressor/uncompressor"; ObjectID = "184"; */
+/* Class = "NSButtonCell"; title = "Set Keka as the default uncompressor"; ObjectID = "184"; */
 "184.title" = "Установить Keka в качестве системного архиватора";
 
 /* Class = "NSButtonCell"; title = "Close Keka when no windows are open"; ObjectID = "187"; */
@@ -153,34 +153,34 @@
 "453.title" = "без звука";
 
 /* Class = "NSTextFieldCell"; title = "You can also customize the access below:"; ObjectID = "5B7-Sc-wp0"; */
-"5B7-Sc-wp0.title" = "You can also customize the access below:";
+"5B7-Sc-wp0.title" = "Вы также можете настроить права доступа ниже:";
 
 /* Class = "NSToolbarItem"; label = "File Access"; ObjectID = "5eC-d6-04X"; */
-"5eC-d6-04X.label" = "File Access";
+"5eC-d6-04X.label" = "Доступ к файлам";
 
 /* Class = "NSToolbarItem"; paletteLabel = "File Access"; ObjectID = "5eC-d6-04X"; */
-"5eC-d6-04X.paletteLabel" = "File Access";
+"5eC-d6-04X.paletteLabel" = "Доступ к файлам";
 
 /* Class = "NSButtonCell"; title = "Enable home folder access"; ObjectID = "DL5-wY-cqc"; */
-"DL5-wY-cqc.title" = "Enable home folder access";
+"DL5-wY-cqc.title" = "Дать доступ к доашней папке";
 
 /* Class = "NSTextFieldCell"; title = "Here you can choose the folders you want to give access to Keka. Note that Keka can't be used where it has no access. If needed, Keka will ask for specific folder access."; ObjectID = "GDf-ZS-dTs"; */
-"GDf-ZS-dTs.title" = "Here you can choose the folders you want to give access to Keka. Note that Keka can't be used where it has no access. If needed, Keka will ask for specific folder access.";
+"GDf-ZS-dTs.title" = "Здесь вы можете выбрать папки, доступ к которым будет иметь Keka. Имейте в виду, что Keka не может работать там, где у неё нет доступа. Если потребуется, Keka спросит о доступе к определённой папке.";
 
 /* Class = "NSButtonCell"; title = "Enable full Mac access (Recommended)"; ObjectID = "IHj-ac-103"; */
-"IHj-ac-103.title" = "Enable full Mac access (Recommended)";
+"IHj-ac-103.title" = "Дать доступ ко всему Mac (Рекомендуется)";
 
 /* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive:"; ObjectID = "JxT-Nq-8Z5"; */
-"JxT-Nq-8Z5.title" = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive:";
+"JxT-Nq-8Z5.title" = "Дать доступ к внешним хранилищам, чтобы Keka могла работать с внешними дисками, например USB- или Thunderbolt-накопителями:";
 
 /* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder:"; ObjectID = "PD2-iW-BGK"; */
-"PD2-iW-BGK.title" = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder:";
+"PD2-iW-BGK.title" = "Дать доступ к домашней папке, чтобы Keka могла работать со всеми вашими файлами, например на Рабочем столе или в папке Загрузки:";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "Включить интеграцию с Центром Уведомлений";
 
 /* Class = "NSTextFieldCell"; title = "Enable full Mac access so Keka can be used on all your Mac:"; ObjectID = "ZOx-vr-5o7"; */
-"ZOx-vr-5o7.title" = "Enable full Mac access so Keka can be used on all your Mac:";
+"ZOx-vr-5o7.title" = "Дать доступ ко всему Mac, чтобы Keka могла работать с любыми файлами на этом Mac:";
 
 /* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "b5e-bj-Pgz"; */
 "b5e-bj-Pgz.title" = "Унифицированная панель инструментов (сброс настроек)";
@@ -189,4 +189,4 @@
 "hp7-jO-HeV.title" = "Использовать алгоритм AES-256 для шифрования ZIP-файлов (меньшая совместимость)";
 
 /* Class = "NSButtonCell"; title = "Enable external volumes access"; ObjectID = "sgV-AD-k4Q"; */
-"sgV-AD-k4Q.title" = "Enable external volumes access";
+"sgV-AD-k4Q.title" = "Дать доступ к внешним хранилищам";
