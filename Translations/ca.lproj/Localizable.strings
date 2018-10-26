@@ -49,8 +49,8 @@
 "Creating \"%@\"" = "Creació de: «%@»";
 "Prepearing extraction..." = "S'està preparant l'extracció…";
 "Choose a folder to extract this file" = "Trieu la carpeta on extreure l'arxiu";
-"Choose where do you want to extract \"%@\"" = "Choose where do you want to extract \"%@\"";
-"Select all the volumes from \"%@\" or the folder that contains them" = "Select all the volumes from \"%@\" or the folder that contains them";
+"Choose where do you want to extract \"%@\"" = "Trieu la carpeta on extreure l'arxiu \"%@\"";
+"Select all the volumes from \"%@\" or the folder that contains them" = "Trieu tots els volums de \"%@\" o la carpeta que els conté";
 "Extraction of \"%@\" failed" = "Ha fallat l'extracció de: «%@»";
 "Keka - %i on queue" = "Keka - %i a la cua";
 "Keka can't create this %@ image" = "El Keka no pot crear aquesta imatge %@";
