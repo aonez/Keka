@@ -49,8 +49,8 @@
 "Creating \"%@\"" = "Creando \"%@\"";
 "Prepearing extraction..." = "Preparando la descompresión...";
 "Choose a folder to extract this file" = "Selecciona una carpeta para descomprimir este archivo";
-"Choose where do you want to extract \"%@\"" = "Choose where do you want to extract \"%@\"";
-"Select all the volumes from \"%@\" or the folder that contains them" = "Select all the volumes from \"%@\" or the folder that contains them";
+"Choose where do you want to extract \"%@\"" = "Selecciona una carpeta donde descomprimir el archivo \"%@\"";
+"Select all the volumes from \"%@\" or the folder that contains them" = "Selecciona todos los volúmenes de \"%@\" o la carpeta que los contiene";
 "Extraction of \"%@\" failed" = "La descompresión de \"%@\" ha fallado";
 "Keka - %i on queue" = "Keka - %i en espera";
 "Keka can't create this %@ image" = "Keka no puede crear esta imagen %@";
