@@ -51,6 +51,7 @@
 "Choose a folder to extract this file" = "Válassz célmappát";
 "Choose where do you want to extract \"%@\"" = "Choose where do you want to extract \"%@\"";
 "Select all the volumes from \"%@\" or the folder that contains them" = "Select all the volumes from \"%@\" or the folder that contains them";
+"Select the folder that contains \"%@\"" = "Select the folder that contains \"%@\"";
 "Extraction of \"%@\" failed" = "\"%@\" kibontása sikertelen";
 "Keka - %i on queue" = "Keka - %i sorban áll";
 "Keka can't create this %@ image" = "A Keka nem tudja elkészíteni ezt az %@ fájlt";
