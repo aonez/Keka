@@ -51,6 +51,7 @@
 "Choose a folder to extract this file" = "Wählen Sie einen Ordener um die Datei zu entpacken";
 "Choose where do you want to extract \"%@\"" = "Choose where do you want to extract \"%@\"";
 "Select all the volumes from \"%@\" or the folder that contains them" = "Select all the volumes from \"%@\" or the folder that contains them";
+"Select the folder that contains \"%@\"" = "Select the folder that contains \"%@\"";
 "Extraction of \"%@\" failed" = "Entpacken von \"%@\" Fehlgeschlagen";
 "Keka - %i on queue" = "Keka - %i in Warteschlange";
 "Keka can't create this %@ image" = "Keka kann dieses %@-Abbild nicht erstellen";

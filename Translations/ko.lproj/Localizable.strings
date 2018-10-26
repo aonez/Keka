@@ -51,6 +51,7 @@
 "Choose a folder to extract this file" = "이 파일을 압축 풀 폴더를 정해주세요.";
 "Choose where do you want to extract \"%@\"" = "Choose where do you want to extract \"%@\"";
 "Select all the volumes from \"%@\" or the folder that contains them" = "Select all the volumes from \"%@\" or the folder that contains them";
+"Select the folder that contains \"%@\"" = "Select the folder that contains \"%@\"";
 "Extraction of \"%@\" failed" = "\"%@\" 압축 해제 실패";
 "Keka - %i on queue" = "Keka - %i on queue";
 "Keka can't create this %@ image" = "Keka가 이 %@ 볼륨을 만들 수 없습니다";
