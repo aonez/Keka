@@ -64,6 +64,6 @@ $content_404_start = "你可以访问 <a href=\"https://www.keka.io\">首页</a>
 $content_404_more = "或许你想这样？";
 
 // Bottom info
-$content_bottom_copying = '版权所有.';
+$content_bottom_copying = '版权所有. <a href="https://www.maxsky.cc">Max Sky</a>'';
 
 ?>
