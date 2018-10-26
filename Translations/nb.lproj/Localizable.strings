@@ -51,6 +51,7 @@
 "Choose a folder to extract this file" = "Velg en mappe å pakke ut denne filen til";
 "Choose where do you want to extract \"%@\"" = "Choose where do you want to extract \"%@\"";
 "Select all the volumes from \"%@\" or the folder that contains them" = "Select all the volumes from \"%@\" or the folder that contains them";
+"Select the folder that contains \"%@\"" = "Select the folder that contains \"%@\"";
 "Extraction of \"%@\" failed" = "Utpakking av \"%@\" feilet";
 "Keka - %i on queue" = "Keka - %i i kø";
 "Keka can't create this %@ image" = "Keka kan ikke opprette dette %@-bildet";
