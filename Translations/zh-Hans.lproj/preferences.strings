@@ -30,7 +30,7 @@
 "169.title" = "较慢，较高压缩率";
 
 /* Class = "NSButtonCell"; title = "Set Keka as the default uncompressor"; ObjectID = "184"; */
-"184.title" = "把 Keka 设置为默认压缩工具 ";
+"184.title" = "把 Keka 设置为默认解压缩工具 ";
 
 /* Class = "NSButtonCell"; title = "Close Keka when no windows are open"; ObjectID = "187"; */
 "187.title" = "没有可见窗口时退出 Keka";
