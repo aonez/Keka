@@ -51,6 +51,7 @@
 "Choose a folder to extract this file" = "Kies een map om dit bestand uit te pakken";
 "Choose where do you want to extract \"%@\"" = "Choose where do you want to extract \"%@\"";
 "Select all the volumes from \"%@\" or the folder that contains them" = "Select all the volumes from \"%@\" or the folder that contains them";
+"Select the folder that contains \"%@\"" = "Select the folder that contains \"%@\"";
 "Extraction of \"%@\" failed" = "Uitpakken van \"%@\" mislukt";
 "Keka - %i on queue" = "Keka - %i in de wachtrij";
 "Keka can't create this %@ image" = "Keka kan dit %@-bestand niet aanmaken";
