@@ -51,6 +51,7 @@
 "Choose a folder to extract this file" = "Scegli una cartella per estrarre questo file";
 "Choose where do you want to extract \"%@\"" = "Scegli dove vuoi estrarre \"%@\"";
 "Select all the volumes from \"%@\" or the folder that contains them" = "Seleziona tutti i volumi da \"%@\" o la cartella che li contiene";
+"Select the folder that contains \"%@\"" = "Seleziona la cartella che contiene \"%@\"";
 "Extraction of \"%@\" failed" = "Estrazione di \"%@\" non riuscita";
 "Keka - %i on queue" = "Keka - %i in coda";
 "Keka can't create this %@ image" = "Keka non può creare questa immagine %@";
