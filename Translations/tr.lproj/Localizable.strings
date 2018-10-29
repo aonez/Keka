@@ -51,6 +51,7 @@
 "Choose a folder to extract this file" = "Bu dosyayı çıkarmak için bir klasör seçin";
 "Choose where do you want to extract \"%@\"" = "Choose where do you want to extract \"%@\"";
 "Select all the volumes from \"%@\" or the folder that contains them" = "Select all the volumes from \"%@\" or the folder that contains them";
+"Select the folder that contains \"%@\"" = "Select the folder that contains \"%@\"";
 "Extraction of \"%@\" failed" = "\"%@\" çıkarımı başarısız oldu";
 "Keka - %i on queue" = "Keka - %i kuyrukta";
 "Keka can't create this %@ image" = "Keka bu %@ imajını oluşturamıyor";

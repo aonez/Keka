@@ -51,6 +51,7 @@
 "Choose a folder to extract this file" = "解凍先のフォルダを選んでください";
 "Choose where do you want to extract \"%@\"" = "Choose where do you want to extract \"%@\"";
 "Select all the volumes from \"%@\" or the folder that contains them" = "Select all the volumes from \"%@\" or the folder that contains them";
+"Select the folder that contains \"%@\"" = "Select the folder that contains \"%@\"";
 "Extraction of \"%@\" failed" = "\"%@\" を解凍はできませんでした。";
 "Keka - %i on queue" = "Keka - 残りの項目: %i個";
 "Keka can't create this %@ image" = "%@ イメージを作成できません。";
