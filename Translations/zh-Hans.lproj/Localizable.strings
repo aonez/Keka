@@ -51,6 +51,7 @@
 "Choose a folder to extract this file" = "选择一个文件夹来解压这个文件";
 "Choose where do you want to extract \"%@\"" = "你希望解压 \"%@\" 到";
 "Select all the volumes from \"%@\" or the folder that contains them" = "从 \"%@\" 或包含它们的文件夹中选择所有卷";
+"Select the folder that contains \"%@\"" = "Select the folder that contains \"%@\"";
 "Extraction of \"%@\" failed" = "解压“%@”失败";
 "Keka - %i on queue" = "Keka - %i 排队中";
 "Keka can't create this %@ image" = "Keka 不能创建这个 %@ 映像";
