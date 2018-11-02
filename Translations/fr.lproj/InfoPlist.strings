@@ -24,13 +24,15 @@
 "DMG Disk Image" = "Image disque DMG";
 "ISO Disk Image" = "Image disque ISO";
 "LHA Archive" = "Archive LHA";
-"Windows EXE File" = "Windows EXE File";
-"Window Cabinet File" = "Window Cabinet File";
+"Windows EXE File" = "Fichier EXE Windows";
+"Window Cabinet File" = "Fichier CABinet Windows";
 "WIM Disk Image" = "Image disque WIM";
 "Comic Book RAR Archive" = "Archive Comic Book RAR";
 "Comic Book ZIP Archive" = "Archive Comic Book ZIP";
+"iOS App" = "App iOS";
 "JAR Archive" = "Archive JAR";
 "WAR Archive" = "Archive WAR";
 "Android Application Package" = "Android Application Package";
+"Cross-Platform Installer Module (XPI)" = "Module Cross-Platform Installer (XPI)";
 "APPX Archive" = "Archive APPX";
 "Keka WorkFlow" = "Processus de Keka";
