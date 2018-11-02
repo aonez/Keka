@@ -49,6 +49,9 @@
 "Creating \"%@\"" = "\"%@\" 생성 중";
 "Prepearing extraction..." = "압축 해제 준비중...";
 "Choose a folder to extract this file" = "이 파일을 압축 풀 폴더를 정해주세요.";
+"Choose where do you want to extract \"%@\"" = "Choose where do you want to extract \"%@\"";
+"Select all the volumes from \"%@\" or the folder that contains them" = "Select all the volumes from \"%@\" or the folder that contains them";
+"Select the folder that contains \"%@\"" = "Select the folder that contains \"%@\"";
 "Extraction of \"%@\" failed" = "\"%@\" 압축 해제 실패";
 "Keka - %i on queue" = "Keka - %i on queue";
 "Keka can't create this %@ image" = "Keka가 이 %@ 볼륨을 만들 수 없습니다";
@@ -129,9 +132,9 @@
 "Quit" = "Quit";
 "More information" = "추가 정보";
 "Keka needs file access" = "Keka는 권한이 필요합니다.";
-"Give home access" = "Give home access";
-"Customize" = "Customize";
-"In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "Keka가 자연스럽게 작동하기 위해서는 Mac 디스크에 대하 권한이 필요합니다.";
+"Give home access" = "홈 폴더 접근 권한 부여하기";
+"Customize" = "사용자화";
+"In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "Keka가 자연스럽게 작동하기 위해서는 Mac 디스크에 대한 권한이 필요합니다.";
 "\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\nMac 디스크는 이미 선택되어 있으므로, 단순히 \"Give access to Keka\" 버튼을 클릭하세요.";
 "Give access to Keka" = "Keka에게 권한 허용";
 "Full Mac access (Recommended)" = "Mac 전체 접근 권한 (권장)";
@@ -143,8 +146,8 @@
 "Cannot set Keka as default" = "Keka를 기본 프로그램으로 설정할 수 없습니다.";
 "The intermediate application failed to launch. There is more information in the Console.app." = "매개 프로그램을 시작하지 못했습니다. 더 많은 정보는 Console.app에 있습니다.";
 "The intermediate application returned an undefined code." = "매개 프로그램이 정의되지 않은 코드를 반환했습니다.";
-"Keka is now set as the default application for it's known formats." = "이제 Keka는 알려진 포맷에 대하여 기본 프로그램으로 설정되었습니다.";
+"Keka is now set as the default application for its known formats." = "이제 Keka는 알려진 포맷에 대하여 기본 프로그램으로 설정되었습니다.";
 "Keka set as default" = "기본 프로그램으로 Keka가 설정됨";
-"There where some errors while registering the formats. There is more information in the Console.app." = "포맷을 등록하던 도중 오류가 발생했습니다. 더 많은 정보는 Console.app에 있습니다.";
+"There were some errors while registering the formats. There is more information in the Console.app." = "포맷을 등록하던 도중 오류가 발생했습니다. 더 많은 정보는 Console.app에 있습니다.";
 "The intermediate application can't get access to Keka." = "매개 프로그램이 Keka에 접근할 수 없습니다.";
 "The intermediate application can't find Keka." = "매개 프로그램이 Keka를 찾을 수 없습니다.";

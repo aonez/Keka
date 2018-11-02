@@ -49,6 +49,9 @@
 "Creating \"%@\"" = "Tworzenie pliku \"%@\"";
 "Prepearing extraction..." = "Przygotowanie do wypakowywania";
 "Choose a folder to extract this file" = "Wybierz folder docelowy";
+"Choose where do you want to extract \"%@\"" = "Choose where do you want to extract \"%@\"";
+"Select all the volumes from \"%@\" or the folder that contains them" = "Select all the volumes from \"%@\" or the folder that contains them";
+"Select the folder that contains \"%@\"" = "Select the folder that contains \"%@\"";
 "Extraction of \"%@\" failed" = "Wypakowywanie \"%@\" zakończone niepowodzeniem";
 "Keka - %i on queue" = "Keka - %i jest w kolejce";
 "Keka can't create this %@ image" = "Tworzenie archiwum %@ zakończone niepowodzeniem";
@@ -143,8 +146,8 @@
 "Cannot set Keka as default" = "Nie można ustawić Keka jako programu domyślnego";
 "The intermediate application failed to launch. There is more information in the Console.app." = "Nie można uruchomić aplikacji pośredniej. Więcej informacji znajdziesz w pliku Console.app.";
 "The intermediate application returned an undefined code." = "Aplikacja pośrednia zwróciła niezdefiniowany kod.";
-"Keka is now set as the default application for it's known formats." = "Keka jest teraz ustawiony jako domyślna aplikacja dla znanych formatów.";
+"Keka is now set as the default application for its known formats." = "Keka jest teraz ustawiony jako domyślna aplikacja dla znanych formatów.";
 "Keka set as default" = "Ustaw Keka jako program domyślny";
-"There where some errors while registering the formats. There is more information in the Console.app." = "Wystąpiły błędy podczas rejestracji formatów. Więcej informacji znajdziesz w pliku Console.app.";
+"There were some errors while registering the formats. There is more information in the Console.app." = "Wystąpiły błędy podczas rejestracji formatów. Więcej informacji znajdziesz w pliku Console.app.";
 "The intermediate application can't get access to Keka." = "Aplikacja pośrednia nie mogła uzyskać dostępu do Keka.";
 "The intermediate application can't find Keka." = "Aplikacja pośrednia nie mogła znaleźć Keka.";
