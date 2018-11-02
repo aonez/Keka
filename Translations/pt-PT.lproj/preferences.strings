@@ -1,4 +1,4 @@
-
+﻿
 /* Class = "NSBox"; title = "Format"; ObjectID = "153"; */
 "153.title" = "Formato";
 
@@ -29,7 +29,7 @@
 /* Class = "NSMenuItem"; title = "Slow, more compression"; ObjectID = "169"; */
 "169.title" = "Lento, mais compressão";
 
-/* Class = "NSButtonCell"; title = "Set Keka as default compressor/uncompressor"; ObjectID = "184"; */
+/* Class = "NSButtonCell"; title = "Set Keka as the default uncompressor"; ObjectID = "184"; */
 "184.title" = "Definir como Ferramenta Padrão de Arquivos Comprimidos";
 
 /* Class = "NSButtonCell"; title = "Close Keka when no windows are open"; ObjectID = "187"; */
