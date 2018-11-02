@@ -49,6 +49,9 @@
 "Creating \"%@\"" = "Aanmaken van \"%@\"";
 "Prepearing extraction..." = "Voorbereiden van uitpakken…";
 "Choose a folder to extract this file" = "Kies een map om dit bestand uit te pakken";
+"Choose where do you want to extract \"%@\"" = "Choose where do you want to extract \"%@\"";
+"Select all the volumes from \"%@\" or the folder that contains them" = "Select all the volumes from \"%@\" or the folder that contains them";
+"Select the folder that contains \"%@\"" = "Select the folder that contains \"%@\"";
 "Extraction of \"%@\" failed" = "Uitpakken van \"%@\" mislukt";
 "Keka - %i on queue" = "Keka - %i in de wachtrij";
 "Keka can't create this %@ image" = "Keka kan dit %@-bestand niet aanmaken";
@@ -143,8 +146,8 @@
 "Cannot set Keka as default" = "Cannot set Keka as default";
 "The intermediate application failed to launch. There is more information in the Console.app." = "The intermediate application failed to launch. There is more information in the Console.app.";
 "The intermediate application returned an undefined code." = "The intermediate application returned an undefined code.";
-"Keka is now set as the default application for it's known formats." = "Keka is now set as the default application for it's known formats.";
+"Keka is now set as the default application for its known formats." = "Keka is now set as the default application for its known formats.";
 "Keka set as default" = "Keka set as default";
-"There where some errors while registering the formats. There is more information in the Console.app." = "There where some errors while registering the formats. There is more information in the Console.app.";
+"There were some errors while registering the formats. There is more information in the Console.app." = "There were some errors while registering the formats. There is more information in the Console.app.";
 "The intermediate application can't get access to Keka." = "The intermediate application can't get access to Keka.";
 "The intermediate application can't find Keka." = "The intermediate application can't find Keka.";

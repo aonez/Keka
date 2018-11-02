@@ -49,6 +49,9 @@
 "Creating \"%@\"" = "\"%@\" oluşturuluyor";
 "Prepearing extraction..." = "Çıkarma hazırlanıyor…";
 "Choose a folder to extract this file" = "Bu dosyayı çıkarmak için bir klasör seçin";
+"Choose where do you want to extract \"%@\"" = "Choose where do you want to extract \"%@\"";
+"Select all the volumes from \"%@\" or the folder that contains them" = "Select all the volumes from \"%@\" or the folder that contains them";
+"Select the folder that contains \"%@\"" = "Select the folder that contains \"%@\"";
 "Extraction of \"%@\" failed" = "\"%@\" çıkarımı başarısız oldu";
 "Keka - %i on queue" = "Keka - %i kuyrukta";
 "Keka can't create this %@ image" = "Keka bu %@ imajını oluşturamıyor";
@@ -143,8 +146,8 @@
 "Cannot set Keka as default" = "Keka varsayılan olarak ayarlanamaz";
 "The intermediate application failed to launch. There is more information in the Console.app." = "Ara uygulama başlatılamadı. Console.app içinde daha fazla bilgi var.";
 "The intermediate application returned an undefined code." = "Ara uygulama tanımlanmamış bir kod döndürdü.";
-"Keka is now set as the default application for it's known formats." = "Keka artık bilinen formatları için varsayılan uygulama olarak ayarlandı.";
+"Keka is now set as the default application for its known formats." = "Keka artık bilinen formatları için varsayılan uygulama olarak ayarlandı.";
 "Keka set as default" = "Keka varsayılan olarak ayarlandı";
-"There where some errors while registering the formats. There is more information in the Console.app." = "Biçimleri kaydederken bazı hatalar var. Console.app içinde daha fazla bilgi var.";
+"There were some errors while registering the formats. There is more information in the Console.app." = "Biçimleri kaydederken bazı hatalar var. Console.app içinde daha fazla bilgi var.";
 "The intermediate application can't get access to Keka." = "Ara uygulama Keka'ya erişemez.";
 "The intermediate application can't find Keka." = "Ara uygulama Keka'yı bulamıyor.";
