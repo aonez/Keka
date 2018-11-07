@@ -162,7 +162,7 @@
 "5eC-d6-04X.paletteLabel" = "Доступ к файлам";
 
 /* Class = "NSButtonCell"; title = "Enable home folder access"; ObjectID = "DL5-wY-cqc"; */
-"DL5-wY-cqc.title" = "Дать доступ к доашней папке";
+"DL5-wY-cqc.title" = "Дать доступ к домашней папке";
 
 /* Class = "NSTextFieldCell"; title = "Here you can choose the folders you want to give access to Keka. Note that Keka can't be used where it has no access. If needed, Keka will ask for specific folder access."; ObjectID = "GDf-ZS-dTs"; */
 "GDf-ZS-dTs.title" = "Здесь вы можете выбрать папки, доступ к которым будет иметь Keka. Имейте в виду, что Keka не может работать там, где у неё нет доступа. Если потребуется, Keka спросит о доступе к определённой папке.";
