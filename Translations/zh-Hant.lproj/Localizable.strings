@@ -15,6 +15,7 @@
 "The current operations will be canceled. If you choose to wait and quit Keka will exit when all work is done." = "將目前操作取消。如果你選擇等待並關閉，Keka 將在所有的工作完成後關閉應用程式。";
 "Password needed" = "需要密碼";
 "File \"%@\" needs a password to be extracted" = "解壓縮 \"%@\" 時需要密碼";
+"File \"%@\" needs a special encoding to be extracted" = "File \"%@\" needs a special encoding to be extracted";
 "Extraction of \"%@\" done" = "解壓縮 \"%@\" 完成";
 "Extraction of \"%@\" failed." = "解壓縮 \"%@\" 失敗。";
 "Extraction of %i files done" = "解壓縮 %i 檔案完成";
@@ -32,6 +33,7 @@
 "Creating %@ file..." = "正在建立 %@ 檔案...";
 "Creating file \"%@\"" = "正在建立檔案 \"%@\"";
 "Creating file \"%@...\"" = "正在建立檔案 \"%@...\"";
+"Select the encoding for \"%@\"" = "Select the encoding for \"%@\"";
 "Time elapsed: %d:%@%d:%@%d hours%@" = "已用時間: %d:%@%d:%@%d 小時%@";
 "Time elapsed: %d:%@%d minutes%@" = "已用時間: %d:%@%d 分鐘%@";
 "Time elapsed: %d seconds%@" = "已用時間: %d 秒%@";
