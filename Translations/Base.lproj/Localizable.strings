@@ -15,6 +15,7 @@
 "The current operations will be canceled. If you choose to wait and quit Keka will exit when all work is done." = "The current operations will be canceled. If you choose to wait and quit Keka will exit when all work is done.";
 "Password needed" = "Password needed";
 "File \"%@\" needs a password to be extracted" = "File \"%@\" needs a password to be extracted";
+"File \"%@\" needs a special encoding to be extracted" = "File \"%@\" needs a special encoding to be extracted";
 "Extraction of \"%@\" done" = "Extraction of \"%@\" done";
 "Extraction of \"%@\" failed." = "Extraction of \"%@\" failed.";
 "Extraction of %i files done" = "Extraction of %i files done";
@@ -32,6 +33,7 @@
 "Creating %@ file..." = "Creating %@ file...";
 "Creating file \"%@\"" = "Creating file \"%@\"";
 "Creating file \"%@...\"" = "Creating file \"%@...\"";
+"Select the encoding for \"%@\"" = "Select the encoding for \"%@\"";
 "Time elapsed: %d:%@%d:%@%d hours%@" = "Time elapsed: %d:%@%d:%@%d hours%@";
 "Time elapsed: %d:%@%d minutes%@" = "Time elapsed: %d:%@%d minutes%@";
 "Time elapsed: %d seconds%@" = "Time elapsed: %d seconds%@";
