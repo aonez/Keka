@@ -6,6 +6,7 @@
 "LZIP Archive" = "Archive LZIP";
 "LZIP Tarball Archive" = "Archive LZIP compressée au format TAR";
 "ZIP Archive" = "Archive ZIP";
+"ZIPX Archive" = "Archive ZIPX";
 "XZ Archive" = "Archive XZ";
 "XZ Tarball Archive" = "Archive XZ compressée au format TAR";
 "RAR Archive" = "Archive RAR";
