@@ -15,6 +15,7 @@
 "The current operations will be canceled. If you choose to wait and quit Keka will exit when all work is done." = "Mevcut işlemler iptal edilecektir. Eğer beklemeyi ve çıkmayı seçerseniz, tüm işler bittiğinde Keka çıkacaktır.";
 "Password needed" = "Parola gerekmektedir";
 "File \"%@\" needs a password to be extracted" = "\"%@\" Dosyasını çıkartmak için bir parola gereklidir";
+"File \"%@\" needs a special encoding to be extracted" = "File \"%@\" needs a special encoding to be extracted";
 "Extraction of \"%@\" done" = "Çıkarma işlemi \"%@\" tamamlandı";
 "Extraction of \"%@\" failed." = "Çıkarma işlemi \"%@\" başarısız";
 "Extraction of %i files done" = "%i dosyası çıkarıldı";
@@ -32,6 +33,7 @@
 "Creating %@ file..." = "%@ dosyası oluşturuluyor...";
 "Creating file \"%@\"" = "Dosya oluşturuluyor \"%@\"";
 "Creating file \"%@...\"" = "Dosya oluşturuluyor \"%@...\"";
+"Select the encoding for \"%@\"" = "Select the encoding for \"%@\"";
 "Time elapsed: %d:%@%d:%@%d hours%@" = "Geçen süre: %d:%@%d:%@%d saat%@";
 "Time elapsed: %d:%@%d minutes%@" = "Geçen süre: %d:%@%d dakika%@";
 "Time elapsed: %d seconds%@" = "Geçen süre: %d saniye%@";
