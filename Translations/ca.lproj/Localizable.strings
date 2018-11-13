@@ -15,6 +15,7 @@
 "The current operations will be canceled. If you choose to wait and quit Keka will exit when all work is done." = "Es cancel·laran les operacions actuals. Si trieu esperar i sortir, el Keka es tancarà en finalitzar les tasques pendents.";
 "Password needed" = "Contrasenya necessària";
 "File \"%@\" needs a password to be extracted" = "Introduïu la contrasenya per extreure el contingut de l'arxiu  «%@».";
+"File \"%@\" needs a special encoding to be extracted" = "File \"%@\" needs a special encoding to be extracted";
 "Extraction of \"%@\" done" = "S'ha extret el contingut de l'arxiu «%@» correctament";
 "Extraction of \"%@\" failed." = "Ha fallat l'extracció del fitxer «%@».";
 "Extraction of %i files done" = "S'han extret %i fitxers correctament";
@@ -32,6 +33,7 @@
 "Creating %@ file..." = "S'està creant «%@»...";
 "Creating file \"%@\"" = "Creació de: «%@»";
 "Creating file \"%@...\"" = "S'està creant «%@»...";
+"Select the encoding for \"%@\"" = "Select the encoding for \"%@\"";
 "Time elapsed: %d:%@%d:%@%d hours%@" = "Temps transcorregut: %d:%@%d:%@%d hores%@";
 "Time elapsed: %d:%@%d minutes%@" = "Temps transcorregut: %d:%@%d minuts%@";
 "Time elapsed: %d seconds%@" = "Temps transcorregut: %d segons%@";

@@ -15,6 +15,7 @@
 "The current operations will be canceled. If you choose to wait and quit Keka will exit when all work is done." = "Текущите операции ще бъдат отказани. Ако избереш на чакаш и да излезеш, Keka ще се затвори когато всичката работа е свършена.";
 "Password needed" = "Нужна е парола";
 "File \"%@\" needs a password to be extracted" = "Файл \"%@\" иска парола, за да бъде разархивиран";
+"File \"%@\" needs a special encoding to be extracted" = "File \"%@\" needs a special encoding to be extracted";
 "Extraction of \"%@\" done" = "Разархивирането на \"%@\" е готово";
 "Extraction of \"%@\" failed." = "Разархивирането на \"%@\" се провали.";
 "Extraction of %i files done" = "Разархивирането на %i файлове е готово";
@@ -32,6 +33,7 @@
 "Creating %@ file..." = "Създаване на %@ файл...";
 "Creating file \"%@\"" = "Създаване на файл \"%@\"";
 "Creating file \"%@...\"" = "Създаване на файл \"%@...\"";
+"Select the encoding for \"%@\"" = "Select the encoding for \"%@\"";
 "Time elapsed: %d:%@%d:%@%d hours%@" = "Изминало време: %d:%@%d:%@%d часове%@";
 "Time elapsed: %d:%@%d minutes%@" = "Изминало време: %d:%@%d минути%@";
 "Time elapsed: %d seconds%@" = "Изминало време: %d секунди%@";

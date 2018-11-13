@@ -15,6 +15,7 @@
 "The current operations will be canceled. If you choose to wait and quit Keka will exit when all work is done." = "Die laufenden Aktionen werden abgebrochen. Wenn Sie warten, wird Keka beendet, sobald alle Arbeit getan ist.";
 "Password needed" = "Kennwort benötigt";
 "File \"%@\" needs a password to be extracted" = "Datei \"%@\" benötigt ein Kennwort zum Entpacken";
+"File \"%@\" needs a special encoding to be extracted" = "File \"%@\" needs a special encoding to be extracted";
 "Extraction of \"%@\" done" = "Entpacken abgeschlossen";
 "Extraction of \"%@\" failed." = "Entpacken von \"%@\" fehlgeschlagen.";
 "Extraction of %i files done" = "Entpacken von %i Dateien abgeschlossen";
@@ -32,6 +33,7 @@
 "Creating %@ file..." = "Erstelle %@ Datei...";
 "Creating file \"%@\"" = "Erstelle Datei \"%@\"";
 "Creating file \"%@...\"" = "Erstelle Datei \"%@...\"";
+"Select the encoding for \"%@\"" = "Select the encoding for \"%@\"";
 "Time elapsed: %d:%@%d:%@%d hours%@" = "Verstrichene Zeit: %d:%@%d:%@%d Stunden%@";
 "Time elapsed: %d:%@%d minutes%@" = "Verstrichene Zeit: %d:%@%d Minuten%@";
 "Time elapsed: %d seconds%@" = "Verstrichene Zeit: %d Sekunden%@";

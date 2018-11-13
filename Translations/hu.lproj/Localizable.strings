@@ -15,6 +15,7 @@
 "The current operations will be canceled. If you choose to wait and quit Keka will exit when all work is done." = "A futó folyamatok meglesznek szakítva. Ha a várakozást választod, az összes folyamat befejezése után zárul be a Keka.";
 "Password needed" = "Jelszó szükséges";
 "File \"%@\" needs a password to be extracted" = "A \"%@\" fájl kibontásához jelszóra van szükség";
+"File \"%@\" needs a special encoding to be extracted" = "File \"%@\" needs a special encoding to be extracted";
 "Extraction of \"%@\" done" = "\"%@\" kibontása kész.";
 "Extraction of \"%@\" failed." = "\"%@\" kibontása sikertelen.";
 "Extraction of %i files done" = "Extraction of %i files done";
@@ -32,6 +33,7 @@
 "Creating %@ file..." = "%@ fájl létrehozása...";
 "Creating file \"%@\"" = "\"%@\" létrehozása";
 "Creating file \"%@...\"" = "\"%@...\" létrehozása";
+"Select the encoding for \"%@\"" = "Select the encoding for \"%@\"";
 "Time elapsed: %d:%@%d:%@%d hours%@" = "Eltelt idő: %d:%@%d:%@%d óra%@";
 "Time elapsed: %d:%@%d minutes%@" = "Eltelt idő: %d:%@%d perc%@";
 "Time elapsed: %d seconds%@" = "Eltelt idő: %d másodperc%@";

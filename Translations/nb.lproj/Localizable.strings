@@ -15,6 +15,7 @@
 "The current operations will be canceled. If you choose to wait and quit Keka will exit when all work is done." = "Gjeldende operasjoner vil bli avbrutt. Hvis du velger å vente og avslutte, vil Keka lukkes når arbeidet er ferdig.";
 "Password needed" = "Passord trengs";
 "File \"%@\" needs a password to be extracted" = "Filen \"%@\" trenger et passord for å pakkes ut";
+"File \"%@\" needs a special encoding to be extracted" = "File \"%@\" needs a special encoding to be extracted";
 "Extraction of \"%@\" done" = "Utpakking av \"%@\" ferdig";
 "Extraction of \"%@\" failed." = "Utpakking av \"%@\" feilet.";
 "Extraction of %i files done" = "Utpakking av %i filer ferdig";
@@ -32,6 +33,7 @@
 "Creating %@ file..." = "Oppretter %@ fil...";
 "Creating file \"%@\"" = "Oppretter filen \"%@\"";
 "Creating file \"%@...\"" = "Oppretter filen \"%@...\"";
+"Select the encoding for \"%@\"" = "Select the encoding for \"%@\"";
 "Time elapsed: %d:%@%d:%@%d hours%@" = "Tid siden start: %d:%@%d:%@%d timer%@";
 "Time elapsed: %d:%@%d minutes%@" = "Tid siden start: %d:%@%d minutter%@";
 "Time elapsed: %d seconds%@" = "Tid siden start: %d sekunder%@";
