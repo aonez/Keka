@@ -117,7 +117,7 @@
 "358.title" = "Neben Originaldatei";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "359"; */
-"359.title" = "Eigener Ordner …";
+"359.title" = "Eigener Ordner...";
 
 /* Class = "NSTextFieldCell"; title = "Extract to location:"; ObjectID = "360"; */
 "360.title" = "Entpacken nach:";
