@@ -1,4 +1,4 @@
-﻿
+
 /* Class = "NSBox"; title = "Format"; ObjectID = "153"; */
 "153.title" = "Format";
 
@@ -9,37 +9,37 @@
 "160.title" = "Standardmethode:";
 
 /* Class = "NSTextFieldCell"; title = "Those are only applied when Keka is not open"; ObjectID = "161"; */
-"161.title" = "Diese werden nur angewendet wenn Keka nicht geöffnet ist";
+"161.title" = "Diese Einstellungen gelten nur, wenn Dateien auf das nicht geöffnete Keka geschoben werden.";
 
 /* Class = "NSMenuItem"; title = "No compression"; ObjectID = "164"; */
 "164.title" = "Keine Komprimierung";
 
 /* Class = "NSMenuItem"; title = "Fast, less compression"; ObjectID = "165"; */
-"165.title" = "Schnell, geringe Komprimierung";
+"165.title" = "Schnellere, aber schlechtere Komprimierung";
 
 /* Class = "NSMenuItem"; title = "Normal"; ObjectID = "166"; */
 "166.title" = "Normal";
 
 /* Class = "NSMenuItem"; title = "Fastest, less compression"; ObjectID = "167"; */
-"167.title" = "Schnellste, geringste Komprimierung";
+"167.title" = "Schnellste, aber schlechteste Komprimierung";
 
 /* Class = "NSMenuItem"; title = "Slowest, more compression"; ObjectID = "168"; */
-"168.title" = "Langsamste, meiste Komprimierung";
+"168.title" = "Langsamste, aber beste Komprimierung";
 
 /* Class = "NSMenuItem"; title = "Slow, more compression"; ObjectID = "169"; */
-"169.title" = "Langsam, mehr Komprimierung";
+"169.title" = "Langsamere, aber bessere Komprimierung";
 
 /* Class = "NSButtonCell"; title = "Set Keka as the default uncompressor"; ObjectID = "184"; */
 "184.title" = "Keka als Standard-Entpacker festlegen";
 
 /* Class = "NSButtonCell"; title = "Close Keka when no windows are open"; ObjectID = "187"; */
-"187.title" = "Keka schliessen wenn kein Fenster sichtbar ist";
+"187.title" = "Keka beim Schließen des letzten Fensters beenden";
 
 /* Class = "NSBox"; title = "Actions"; ObjectID = "191"; */
 "191.title" = "Aktionen";
 
 /* Class = "NSTextFieldCell"; title = "Automatic action: Keka will decide whether to compress or uncompress based on file format and extension"; ObjectID = "194"; */
-"194.title" = "Automatische Aktion: Abhängig von der Suffix wird Keka entscheiden ob komprimiert oder entpackt wird.";
+"194.title" = "Aktion automatisch auswählen: Anhand des Datei-Suffixes entscheidet Keka, ob komprimiert oder entpackt wird.";
 
 /* Class = "NSMenuItem"; title = "Always extract"; ObjectID = "197"; */
 "197.title" = "Immer entpacken";
@@ -48,19 +48,19 @@
 "198.title" = "Immer komprimieren";
 
 /* Class = "NSMenuItem"; title = "Perform automatic action"; ObjectID = "199"; */
-"199.title" = "Automatische Aktion ausführen";
+"199.title" = "Aktion automatisch auswählen";
 
 /* Class = "NSButtonCell"; title = "Move original file(s) to Trash after compression"; ObjectID = "262"; */
 "262.title" = "Original(e) nach Komprimierung in Papierkorb legen";
 
 /* Class = "NSButtonCell"; title = "Archive as single files"; ObjectID = "263"; */
-"263.title" = "Als einzelnen Dateien archivieren";
+"263.title" = "Als einzelne Dateien archivieren";
 
 /* Class = "NSButtonCell"; title = "Show file in Finder after compression"; ObjectID = "264"; */
 "264.title" = "Datei nach Komprimierung im Finder anzeigen";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "265"; */
-"265.title" = "Mac Ressourcen ausschließen (ohne: .DS_Store)";
+"265.title" = "Mac Ressourcen ausschließen (z.B.: .DS_Store)";
 
 /* Class = "NSBox"; title = "Name and location"; ObjectID = "270"; */
 "270.title" = "Name und Ort";
@@ -129,7 +129,7 @@
 "362.title" = "Komprimierte Datei(en) nach Entpacken in Papierkorb legen";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "418"; */
-"418.title" = "Ohne";
+"418.title" = "Keinen";
 
 /* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "419"; */
 "419.title" = "Standard-Komprimierung";
@@ -150,10 +150,10 @@
 "452.title" = "Standard-Komprimierung";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "453"; */
-"453.title" = "Ohne";
+"453.title" = "Keinen";
 
 /* Class = "NSTextFieldCell"; title = "You can also customize the access below:"; ObjectID = "5B7-Sc-wp0"; */
-"5B7-Sc-wp0.title" = "Sie können auch den folgenden Zugriff anpassen:";
+"5B7-Sc-wp0.title" = "Sie können auch den Zugriff auf einzelne Ordner erlauben:";
 
 /* Class = "NSToolbarItem"; label = "File Access"; ObjectID = "5eC-d6-04X"; */
 "5eC-d6-04X.label" = "Dateizugriff";
@@ -162,31 +162,31 @@
 "5eC-d6-04X.paletteLabel" = "Dateizugriff";
 
 /* Class = "NSButtonCell"; title = "Enable home folder access"; ObjectID = "DL5-wY-cqc"; */
-"DL5-wY-cqc.title" = "Benutzerordner den Zugriff aktivieren";
+"DL5-wY-cqc.title" = "Zugriff auf Benutzerordner erlauben";
 
 /* Class = "NSTextFieldCell"; title = "Here you can choose the folders you want to give access to Keka. Note that Keka can't be used where it has no access. If needed, Keka will ask for specific folder access."; ObjectID = "GDf-ZS-dTs"; */
-"GDf-ZS-dTs.title" = "Hier können Sie die Ordner auswählen, die Sie Keka zugänglich machen möchten. Beachten Sie, dass Keka nicht verwendet werden kann, wenn es keinen Zugriff hat. Bei Bedarf fragt Keka nach einem bestimmten Ordnerzugriff.";
+"GDf-ZS-dTs.title" = "Hier können Sie die Ordner bestimmen, auf die Keka zugreifen darf. Keka kann in Ordnern, auf die es keinen Zugriff hat, nicht arbeiten und fragt bei Bedarf nach Erlaubnis zum Zugriff.";
 
 /* Class = "NSButtonCell"; title = "Enable full Mac access (Recommended)"; ObjectID = "IHj-ac-103"; */
-"IHj-ac-103.title" = "Vollständigen Mac-Zugriff aktivieren (Empfohlen)";
+"IHj-ac-103.title" = "Zugriff auf den ganzen Mac erlauben (empfohlen)";
 
 /* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive:"; ObjectID = "JxT-Nq-8Z5"; */
-"JxT-Nq-8Z5.title" = "Aktivieren Sie den Zugriff auf externe Volumes, damit Keka mit Ihren externen Festplatten, wie z.B. einem USB- oder Thunderboltlaufwerk, verwendet werden kann:";
+"JxT-Nq-8Z5.title" = "Erlauben Sie den Zugriff auf externe Volumes, falls Keka auf Ihren externen Speichermedien, wie z.B. USB- oder Thunderboltlaufwerken, arbeiten können soll:";
 
 /* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder:"; ObjectID = "PD2-iW-BGK"; */
-"PD2-iW-BGK.title" = "Aktivieren Sie den Benutzer-Zugriff, damit Keka für alle Ihre Benutzerdateien verwendet werden kann, z.B. in Ihrem Desktop- oder Download-Ordner:";
+"PD2-iW-BGK.title" = "Erlauben Sie den Zugriff auf Ihren Benutzerordner, falls Keka in jedem Ihrer persönlichen Ordner, wie z.B. im Schreibtisch- oder im Downloads-Ordner, arbeiten können soll:";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
-"SOL-6U-5P9.title" = "Mitteilungszentrale-Integration aktivieren";
+"SOL-6U-5P9.title" = "Mitteilungszentrale verwenden";
 
 /* Class = "NSTextFieldCell"; title = "Enable full Mac access so Keka can be used on all your Mac:"; ObjectID = "ZOx-vr-5o7"; */
-"ZOx-vr-5o7.title" = "Aktivieren Sie den vollständigen Mac-Zugriff, damit Keka auf Ihrem gesamten Mac verwendet werden kann:";
+"ZOx-vr-5o7.title" = "Erlauben Sie den Zugriff auf Ihren gesamten Mac, falls Keka in jedem Ordner Ihres Macs arbeiten können soll:";
 
 /* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "b5e-bj-Pgz"; */
 "b5e-bj-Pgz.title" = "Einheitliche Symbolleiste verwenden (setzt Anpassungen zurück)";
 
 /* Class = "NSButtonCell"; title = "Use AES-256 when encrypting ZIP files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
-"hp7-jO-HeV.title" = "Verwenden Sie AES-256, wenn Sie ZIP-Dateien verschlüsseln (weniger kompatibel).";
+"hp7-jO-HeV.title" = "ZIP-Dateien mit AES-256 verschlüsseln (weniger kompatibel)";
 
 /* Class = "NSButtonCell"; title = "Enable external volumes access"; ObjectID = "sgV-AD-k4Q"; */
-"sgV-AD-k4Q.title" = "Externe Volumes den Zugriff aktivieren";
+"sgV-AD-k4Q.title" = "Zugriff auf externe Volumes aktivieren";

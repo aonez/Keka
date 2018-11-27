@@ -1,6 +1,6 @@
 
 /* Class = "NSMenuItem"; title = "Perform automatic action"; ObjectID = "943"; */
-"943.title" = "Automatische Aktion ausführen";
+"943.title" = "Aktion automatisch auswählen";
 
 /* Class = "NSMenuItem"; title = "Always compress"; ObjectID = "944"; */
 "944.title" = "Immer komprimieren";
@@ -24,22 +24,22 @@
 "960.title" = "Keine Komprimierung";
 
 /* Class = "NSMenuItem"; title = "Fastest, less compression"; ObjectID = "961"; */
-"961.title" = "Schnellste, geringste Komprimierung";
+"961.title" = "Schnellste, aber schlechteste Komprimierung";
 
 /* Class = "NSMenuItem"; title = "Fast, less compression"; ObjectID = "962"; */
-"962.title" = "Schnell, geringe Komprimierung";
+"962.title" = "Schnellere, aber schlechtere Komprimierung";
 
 /* Class = "NSMenuItem"; title = "Normal"; ObjectID = "963"; */
 "963.title" = "Normal";
 
 /* Class = "NSMenuItem"; title = "Slow, more compression"; ObjectID = "964"; */
-"964.title" = "Langsam, höhere Komprimierung";
+"964.title" = "Langsamere, aber bessere Komprimierung";
 
 /* Class = "NSMenuItem"; title = "Slowest, more compression"; ObjectID = "965"; */
-"965.title" = "Langsamste, meiste Komprimierung";
+"965.title" = "Langsamste, aber beste Komprimierung";
 
 /* Class = "NSTextFieldCell"; title = "You can create a DMG volume that will be read-only and compressed.\n\nSet a volume name to this DMG or use the default name based on the files you compress."; ObjectID = "2189"; */
-"2189.title" = "Sie können ein DMG-Image erstellen das nur lesbar und komprimiert ist.\n\nLegen Sie einen Namen für das Image fest oder nutzen den Standard-Namen basierend auf den zu komprimierenden Dateien.";
+"2189.title" = "Sie erstellen ein DMG-Image, welches komprimiert und nur lesbar ist.\n\nFalls Sie keinen Volume-Namen für das Image vorgeben, erzeugt Keka anhand der zu komprimierenden Dateien automatisch den Volume-Namen.";
 
 /* Class = "NSButtonCell"; title = "Archive as single files"; ObjectID = "2221"; */
 "2221.title" = "Als einzelne Dateien archivieren";
@@ -60,7 +60,7 @@
 "2271.placeholderString" = "Beispiel: 5 MB";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[0] = "1.4 MB Floppy disk"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[0]" = "1.4 MB Diskette";
+"2271.ibShadowedObjectValues[0]" = "1,4 MB Diskette";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[1] = "650 MB CD"; ObjectID = "2271"; */
 "2271.ibShadowedObjectValues[1]" = "650 MB CD";
@@ -69,13 +69,13 @@
 "2271.ibShadowedObjectValues[2]" = "700 MB CD";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[3] = "4.7 GB DVD"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[3]" = "4.7 GB DVD";
+"2271.ibShadowedObjectValues[3]" = "4,7 GB DVD";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[4] = "7.8 GB Mini Blu-ray (SL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[4]" = "7.8 GB Mini Blu-ray (SL)";
+"2271.ibShadowedObjectValues[4]" = "7,8 GB Mini Blu-ray (SL)";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[5] = "15.6 GB Mini Blu-ray (DL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[5]" = "15.6 GB Mini Blu-ray (DL)";
+"2271.ibShadowedObjectValues[5]" = "15,6 GB Mini Blu-ray (DL)";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[6] = "25 GB Blu-ray (SL)"; ObjectID = "2271"; */
 "2271.ibShadowedObjectValues[6]" = "25 GB Blu-ray (SL)";
@@ -90,13 +90,13 @@
 "2271.ibShadowedObjectValues[9]" = "128 GB Blu-ray XL (QL)";
 
 /* Class = "NSTextFieldCell"; title = "Volume name:"; ObjectID = "2343"; */
-"2343.title" = "Volumename:";
+"2343.title" = "Volume-Name:";
 
 /* Class = "NSTextFieldCell"; placeholderString = "custom name"; ObjectID = "2354"; */
 "2354.placeholderString" = "Benutzerdefinierter Name";
 
 /* Class = "NSTextFieldCell"; title = "You can create a ISO volume that will be read-only and compressed. ISO volumes can be only created from a folder.\n\nSet a volume name to this ISO or use the default name based on the files you compress."; ObjectID = "2363"; */
-"2363.title" = "Sie können ein ISO-Image erstellen das nur lesbar und komprimiert ist. ISO-Images können nur aus Ordnern erstellt werden.\n\nLegen Sie einen Namen für das Image fest oder nutzen den Standard-Namen basierend auf den zu komprimierenden Dateien.";
+"2363.title" = "Sie erstellen ein ISO-Image, welches komprimiert und nur lesbar ist. Beachten Sie, dass ISO-Images nur aus Ordnern erstellt werden können.\n\nFalls Sie keinen Volume-Namen für das Image vorgeben, erzeugt Keka anhand der zu komprimierenden Dateien automatisch den Volume-Namen.";
 
 /* Class = "NSTextFieldCell"; title = "Store"; ObjectID = "2390"; */
 "2390.title" = "Speichern";
