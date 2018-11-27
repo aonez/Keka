@@ -1,6 +1,4 @@
 
-
-
 /* Class = "NSMenu"; title = "Window"; ObjectID = "0I7-Eo-098"; */
 "0I7-Eo-098.title" = "Fenster";
 
@@ -98,7 +96,7 @@
 "tDe-Bb-f8d.title" = "Im Dock ablegen";
 
 /* Class = "NSMenuItem"; title = "Page Setup..."; ObjectID = "tjx-uw-4ov"; */
-"tjx-uw-4ov.title" = "Papierformat…";
+"tjx-uw-4ov.title" = "Papierformat...";
 
 /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "v5b-pg-pYC"; */
 "v5b-pg-pYC.title" = "Kopieren";
