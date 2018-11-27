@@ -1,4 +1,6 @@
 
+
+
 /* Class = "NSMenu"; title = "Window"; ObjectID = "0I7-Eo-098"; */
 "0I7-Eo-098.title" = "Fenster";
 
@@ -72,7 +74,7 @@
 "maF-B5-Hb6.title" = "Über Keka";
 
 /* Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "nlc-UW-DRW"; */
-"nlc-UW-DRW.title" = "Zurücksetzen auf";
+"nlc-UW-DRW.title" = "Zurücksetzen auf zuletzt gesicherte Version";
 
 /* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "nvz-UK-KlM"; */
 "nvz-UK-KlM.title" = "Sichern unter…";
@@ -96,7 +98,7 @@
 "tDe-Bb-f8d.title" = "Im Dock ablegen";
 
 /* Class = "NSMenuItem"; title = "Page Setup..."; ObjectID = "tjx-uw-4ov"; */
-"tjx-uw-4ov.title" = "Papierformat...";
+"tjx-uw-4ov.title" = "Papierformat…";
 
 /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "v5b-pg-pYC"; */
 "v5b-pg-pYC.title" = "Kopieren";
