@@ -132,13 +132,13 @@
 "418.title" = "Keinen";
 
 /* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "419"; */
-"419.title" = "Standard-Komprimierung";
+"419.title" = "Standard-Ton für Komprimierung";
 
 /* Class = "NSMenuItem"; title = "Default extraction"; ObjectID = "432"; */
-"432.title" = "Standard-Entpacken";
+"432.title" = "Standard-Ton für Entpacken";
 
 /* Class = "NSTextFieldCell"; title = "Play a sound after an extraction:"; ObjectID = "433"; */
-"433.title" = "Nach Entpacken Ton abspielen";
+"433.title" = "Nach Entpacken Ton abspielen:";
 
 /* Class = "NSTextFieldCell"; title = "Play a sound after a compression:"; ObjectID = "436"; */
 "436.title" = "Nach Komprimierung Ton abpielen:";
@@ -190,4 +190,3 @@
 
 /* Class = "NSButtonCell"; title = "Enable external volumes access"; ObjectID = "sgV-AD-k4Q"; */
 "sgV-AD-k4Q.title" = "Zugriff auf externe Volumes erlauben...";
-0
