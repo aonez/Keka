@@ -82,11 +82,11 @@
 " - Remaining: Less than one second" = " - Verbleibend: Weniger als eine Sekunde";
 "Can't show progress time..." = "Zeitfortschritt kann nicht angezeigt werden...";
 "Password for \"%@\"" = "Kennwort für \"%@\"";
-"Method:" = "Methode:";
+"Method:" = "";
 "No compression" = "Keine Komprimierung";
 "Fastest, less compression" = "Schnellste, aber schlechteste Komprimierung";
 "Fast, less compression" = "Schnellere, aber schlechtere Komprimierung";
-"Normal" = "Normal";
+"Normal" = "Normale Komprimierung";
 "Slow, more compression" = "Langsamere, aber bessere Komprimierung";
 "Slowest, more compression" = "Langsamste, aber beste Komprimierung";
 "Compression" = "Komprimierung";
