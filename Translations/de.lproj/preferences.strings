@@ -9,7 +9,7 @@
 "160.title" = "Standardmethode:";
 
 /* Class = "NSTextFieldCell"; title = "Those are only applied when Keka is not open"; ObjectID = "161"; */
-"161.title" = "Diese Einstellungen gelten nur, wenn Dateien auf das nicht geöffnete Keka geschoben werden.";
+"161.title" = "Diese Einstellungen gelten nur für auf das nicht geöffnete Keka geschobene Dateien.";
 
 /* Class = "NSMenuItem"; title = "No compression"; ObjectID = "164"; */
 "164.title" = "Keine Komprimierung";
@@ -18,7 +18,7 @@
 "165.title" = "Schnellere, aber schlechtere Komprimierung";
 
 /* Class = "NSMenuItem"; title = "Normal"; ObjectID = "166"; */
-"166.title" = "Normal";
+"166.title" = "Normale Komprimierung";
 
 /* Class = "NSMenuItem"; title = "Fastest, less compression"; ObjectID = "167"; */
 "167.title" = "Schnellste, aber schlechteste Komprimierung";
@@ -190,3 +190,4 @@
 
 /* Class = "NSButtonCell"; title = "Enable external volumes access"; ObjectID = "sgV-AD-k4Q"; */
 "sgV-AD-k4Q.title" = "Zugriff auf externe Volumes erlauben...";
+0
