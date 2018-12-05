@@ -3,6 +3,7 @@
 //
 //
 // Language: Turkish
+$content_language_locale = "tr";
 // Translated by Baris Kayadelen (baris@kayadelen.com)
 //
 //

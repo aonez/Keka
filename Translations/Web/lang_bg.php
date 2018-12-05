@@ -4,6 +4,7 @@
 //
 // Language: English
 // Translated by aone (aone@keka.io)
+$content_language_locale = "bg";
 //
 //
 
