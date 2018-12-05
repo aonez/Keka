@@ -2,9 +2,9 @@
 
 //
 //
-// Language: English
-// Translated by aone (aone@keka.io)
+// Language: Bulgarian
 $content_language_locale = "bg";
+// Translated by Deyan Marinov (https://github.com/deyanm)
 //
 //
 
