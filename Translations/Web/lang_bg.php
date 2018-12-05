@@ -24,7 +24,7 @@ $content_download_legacy = "Стари версии";
 
 // Like
 $content_donation_button = "Направи дарение";
-$content_donation_title = 'Ако харесваш Keka, просто й дай малко <i class="fa fa-heart" aria-hidden="true"></i>,<br />свали от App Store или дари с PayPal!';
+$content_donation_title = 'Ако харесваш Keka, просто й дай малко <i class="fa fa-heart" aria-hidden="true"></i>, <br />свали от App Store или дари с PayPal!';
 $content_donation_mas = "Ако купиш Keka от App Store, ще поддържаш разработката,<br />приложението е същото, като това от този уебсайт, само подновявано от App Store.";
 $content_donation_paypal = "Ако не харесваш MAS (Mac App Store) или искаш да си поиграеш с Keka<br />и също така харесваш проекта и искаш да дадеш малко любов, можеш да дариш с PayPal.";
 
