@@ -3,6 +3,7 @@
 "_ADVANCED_EXTRA_WIDTH_" = "0.0";
 /* "_PREFERENCES_EXTRA_WIDTH_" = "0.0"; */
 "OK" = "OK";
+"Done" = "Fine";
 "Yes" = "Sì";
 "No" = "No";
 "Don't show again" = "Non mostrare più";
@@ -14,6 +15,7 @@
 "The current operations will be canceled. If you choose to wait and quit Keka will exit when all work is done." = "L'operazione attuale verrà annullata. Se scegli di attendere e uscire, Keka uscirà quando tutto il lavoro è stato fatto.";
 "Password needed" = "Password necessaria";
 "File \"%@\" needs a password to be extracted" = "Il file \"%@\" richiede una password per essere estratto";
+"File \"%@\" needs a special encoding to be extracted" = "Il file \"%@\" richiede una codifica speciale per essere estratto";
 "Extraction of \"%@\" done" = "Estrazione di \"%@\" effettuata";
 "Extraction of \"%@\" failed." = "Estrazione di \"%@\" non riuscita.";
 "Extraction of %i files done" = "Estrazione di %i file effettuata";
@@ -31,6 +33,7 @@
 "Creating %@ file..." = "Creazione %@ file...";
 "Creating file \"%@\"" = "Creazione file \"%@\"";
 "Creating file \"%@...\"" = "Creazione file \"%@...\"";
+"Select the encoding for \"%@\"" = "Seleziona la codifica per \"%@\"";
 "Time elapsed: %d:%@%d:%@%d hours%@" = "Tempo trascorso: %d:%@%d:%@%d ore%@";
 "Time elapsed: %d:%@%d minutes%@" = "Tempo trascorso: %d:%@%d minuti%@";
 "Time elapsed: %d seconds%@" = "Tempo trascorso: %d secondi%@";
@@ -71,7 +74,7 @@
 " - Remaining: About 1 minute" = " - Rimanente: Circa 1 minuto";
 " - Remaining: About %d minutes" = " - Rimanente: Circa %d minuti";
 " - Remaining: About 1 hour" = " - Rimanente: Circa 1 ora";
-" - Remaining: About %d hours" = " - Rimanente: About %d hours";
+" - Remaining: About %d hours" = " - Rimanente: Circa %d ore";
 " - Remaining: About 1 day" = " - Rimanente: Circa 1 giorno";
 " - Remaining: About %d days" = " - Rimanente: Circa %d giorni";
 " - Remaining: About 1 year" = " - Rimanente: Circa 1 anno";

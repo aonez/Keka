@@ -24,7 +24,6 @@ do
 done
 
 if [ $xcode -eq 1 ]; then
-	echo "Runing on Xcode..."
 	GREEN=''
 	ORANGE=''
 	RED=''
@@ -46,7 +45,9 @@ for f in *.*; do
 		continue
 	fi
 	
-	echo "Checking language ${f}..."
+	if [ $xcode -eq 0 ]; then
+		echo "Checking language ${f}..."
+	fi
 	
 	for t in ${f}/*.strings; do
 		
@@ -111,14 +112,8 @@ for f in *.*; do
 			echo -e -n " > ${RED}Error: ${ORANGE}${encErr}${NC}"
 		fi
 		
-		echo
-		
 	done
-	echo
 done
-
-echo "someNoUTF8 = $someNoUTF8"
-echo "someError = $someError"
 
 if [ $someNoUTF8 -eq 1 ] && [ $someError -eq 1 ]; then
 	echo -e "${RED}There are some files not encoded in UTF-8 and with errors${NC}"
@@ -130,7 +125,5 @@ elif [ $someError -eq 1 ]; then
 	echo -e "${RED}There are some files with some errors${NC}"
 	exit 1
 fi
-
-echo
 
 exit
