@@ -3,6 +3,7 @@
 //
 //
 // Language: English
+$content_language_locale = "en";
 // Translated by aone (aone@keka.io)
 //
 //
