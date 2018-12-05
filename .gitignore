@@ -23,3 +23,4 @@ xcuserdata/
 *.xcscmblueprint
 .fseventsd/
 .DS_Store
+Translations/*.lproj/.*.conversion.md5

@@ -72,7 +72,7 @@
 "maF-B5-Hb6.title" = "Über Keka";
 
 /* Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "nlc-UW-DRW"; */
-"nlc-UW-DRW.title" = "Zurücksetzen auf";
+"nlc-UW-DRW.title" = "Zurücksetzen auf zuletzt gesicherte Version";
 
 /* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "nvz-UK-KlM"; */
 "nvz-UK-KlM.title" = "Sichern unter…";
