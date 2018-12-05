@@ -3,6 +3,7 @@
 //
 //
 // Language: Polish
+$content_language_locale = "pl";
 // Translated by lboratynski
 //
 //

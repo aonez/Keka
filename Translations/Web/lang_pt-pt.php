@@ -3,6 +3,7 @@
 //
 //
 // Language: Portuguese
+$content_language_locale = "pt-pt";
 // Translated by BR Lingo (contact@brlingo.com)
 // Translated by Rogério Moreira (r@rgllm.com)
 //

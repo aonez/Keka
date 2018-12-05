@@ -3,6 +3,7 @@
 //
 //
 // Language: Italian
+$content_language_locale = "it";
 // Translated by VinBoiSoft (vinboisoft@yahoo.it)
 //
 //
