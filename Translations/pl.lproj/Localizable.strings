@@ -3,6 +3,7 @@
 "_ADVANCED_EXTRA_WIDTH_" = "90.0";
 /* "_PREFERENCES_EXTRA_WIDTH_" = "0.0"; */
 "OK" = "OK";
+"Done" = "OK";
 "Yes" = "Tak";
 "No" = "Nie";
 "Don't show again" = "Nie pytaj ponownie";
@@ -14,6 +15,7 @@
 "The current operations will be canceled. If you choose to wait and quit Keka will exit when all work is done." = "Bieżące zadanie zostanie anulowane. Aplikacja zostanie wyłączona po zakończeniu procesu.";
 "Password needed" = "Wprowadź hasło";
 "File \"%@\" needs a password to be extracted" = "\"%@\" - wymaga hasła";
+"File \"%@\" needs a special encoding to be extracted" = "File \"%@\" needs a special encoding to be extracted";
 "Extraction of \"%@\" done" = "\"%@\" - został wypakowany";
 "Extraction of \"%@\" failed." = "\"%@\" - wystąpił błąd podczas wypakowywania.";
 "Extraction of %i files done" = "%i pliki zostały wypakowane";
@@ -31,6 +33,7 @@
 "Creating %@ file..." = "Tworzenie pliku %@...";
 "Creating file \"%@\"" = "Tworzenie pliku \"%@\"";
 "Creating file \"%@...\"" = "Tworzenie pliku \"%@...\"";
+"Select the encoding for \"%@\"" = "Select the encoding for \"%@\"";
 "Time elapsed: %d:%@%d:%@%d hours%@" = "Upłynęło: %d:%@%d:%@%d godzin%@";
 "Time elapsed: %d:%@%d minutes%@" = "Upłynęło: %d:%@%d minut%@";
 "Time elapsed: %d seconds%@" = "Upłynęło: %d sekund%@";
