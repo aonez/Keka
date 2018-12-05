@@ -3,6 +3,7 @@
 //
 //
 // Language: Russian
+$content_language_locale = "ru";
 // Translated by NickKaramoff (nick@karamoff.ru)
 //
 //
