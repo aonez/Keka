@@ -31,7 +31,7 @@ If you'll like to chat and you think the [Issues](https://github.com/aonez/Keka/
 Also head to [Releases](https://github.com/aonez/Keka/releases) if you need a concrete version not found on the [Keka website](https://www.keka.io).
 
 ### So, where is the source code
-Sadly, the source code of Keka 1.0 and newer will be not public due some legal issues (this is [one of the reasons](https://trac.keka.io/ticket/14)). Legal support is needed, if you can help the project with law force, please get in contact with @aonez or at info @ keka.io. Any help is welcome.
+Sadly, the source code of Keka 1.0 and newer will be not public due some issues in the past (this is [one of the reasons](https://trac.keka.io/ticket/14)).
 
 ### Legacy info
 Keka started in [SourceForge](http://sourceforge.net/projects/keka). It will be rarely updated and issues in the [Tickets](https://sourceforge.net/p/keka/_list/tickets) may be replied, but [Issues](https://github.com/aonez/Keka/issues) here is the main cannal.
