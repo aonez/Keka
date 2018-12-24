@@ -3,6 +3,7 @@
 //
 //
 // Language: Chinese
+$content_language_locale = "zh-cn";
 // Translated by Max Sky (admin@maxsky.cc)
 //
 //
