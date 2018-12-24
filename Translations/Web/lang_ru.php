@@ -3,6 +3,7 @@
 //
 //
 // Language: Russian
+$content_language_locale = "ru";
 // Translated by NickKaramoff (nick@karamoff.ru)
 //
 //
@@ -64,6 +65,6 @@ $content_404_start = "Вы можете перейти на <a href=\"https://ww
 $content_404_more = "или, может, вы ищете это?";
 
 // Bottom info
-$content_bottom_copying = 'Все права защищены. Перевёл <a href="https://karamoff.ru">Никита Карамов</a>.';
+$content_bottom_copying = 'Все права защищены. Перевёл <a href="https://karamoff.ru">Никита Карамов</a>';
 
 ?>
