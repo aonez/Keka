@@ -33,6 +33,7 @@
 "Creating %@ file..." = "%@ fájl létrehozása...";
 "Creating file \"%@\"" = "\"%@\" létrehozása";
 "Creating file \"%@...\"" = "\"%@...\" létrehozása";
+"Volume name:" = "Képfájl neve:";
 "Select the encoding for \"%@\"" = "Select the encoding for \"%@\"";
 "Time elapsed: %d:%@%d:%@%d hours%@" = "Eltelt idő: %d:%@%d:%@%d óra%@";
 "Time elapsed: %d:%@%d minutes%@" = "Eltelt idő: %d:%@%d perc%@";

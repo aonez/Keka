@@ -33,6 +33,7 @@
 "Creating %@ file..." = "Aanmaken van %@ bestand...";
 "Creating file \"%@\"" = "Aanmaken van bestand \"%@\"";
 "Creating file \"%@...\"" = "Aanmaken van bestand \"%@...\"";
+"Volume name:" = "Archiefnaam:";
 "Select the encoding for \"%@\"" = "Select the encoding for \"%@\"";
 "Time elapsed: %d:%@%d:%@%d hours%@" = "Verstreken tijd: %d:%@%d:%@%d uren%@";
 "Time elapsed: %d:%@%d minutes%@" = "Verstreken tijd: %d:%@%d minuten%@";
