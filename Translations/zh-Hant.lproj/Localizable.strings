@@ -33,6 +33,7 @@
 "Creating %@ file..." = "正在建立 %@ 檔案...";
 "Creating file \"%@\"" = "正在建立檔案 \"%@\"";
 "Creating file \"%@...\"" = "正在建立檔案 \"%@...\"";
+"Volume name:" = "映像名稱:";
 "Select the encoding for \"%@\"" = "Select the encoding for \"%@\"";
 "Time elapsed: %d:%@%d:%@%d hours%@" = "已用時間: %d:%@%d:%@%d 小時%@";
 "Time elapsed: %d:%@%d minutes%@" = "已用時間: %d:%@%d 分鐘%@";

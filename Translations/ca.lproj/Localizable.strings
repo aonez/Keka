@@ -33,6 +33,7 @@
 "Creating %@ file..." = "S'està creant «%@»...";
 "Creating file \"%@\"" = "Creació de: «%@»";
 "Creating file \"%@...\"" = "S'està creant «%@»...";
+"Volume name:" = "Nom de l'arxiu:";
 "Select the encoding for \"%@\"" = "Select the encoding for \"%@\"";
 "Time elapsed: %d:%@%d:%@%d hours%@" = "Temps transcorregut: %d:%@%d:%@%d hores%@";
 "Time elapsed: %d:%@%d minutes%@" = "Temps transcorregut: %d:%@%d minuts%@";
