@@ -33,6 +33,7 @@
 "Creating %@ file..." = "Creando el archivo %@...";
 "Creating file \"%@\"" = "Creando el archivo \"%@\"";
 "Creating file \"%@...\"" = "Creando el archivo \"%@...\"";
+"Volume name:" = "Nombre del archivo:";
 "Select the encoding for \"%@\"" = "Select the encoding for \"%@\"";
 "Time elapsed: %d:%@%d:%@%d hours%@" = "Transcurrido: %d:%@%d:%@%d horas%@";
 "Time elapsed: %d:%@%d minutes%@" = "Transcurrido: %d:%@%d minutos%@";
