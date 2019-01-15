@@ -24,19 +24,19 @@
 "960.title" = "Χωρίς συμπίεση";
 
 /* Class = "NSMenuItem"; title = "Fastest, less compression"; ObjectID = "961"; */
-"961.title" = "Ταχύτατη, ελάχιστη συμπίεση";
+"961.title" = "Ταχύτατη, λιγότερη συμπίεση";
 
 /* Class = "NSMenuItem"; title = "Fast, less compression"; ObjectID = "962"; */
-"962.title" = "Γρήγορη, ελάχιστη συμπίεση";
+"962.title" = "Γρήγορη, λιγότερη συμπίεση";
 
 /* Class = "NSMenuItem"; title = "Normal"; ObjectID = "963"; */
 "963.title" = "Κανονική";
 
 /* Class = "NSMenuItem"; title = "Slow, more compression"; ObjectID = "964"; */
-"964.title" = "Αργή, περισσότερη συμπίεση";
+"964.title" = "Αργή, πολύ συμπίεση";
 
 /* Class = "NSMenuItem"; title = "Slowest, more compression"; ObjectID = "965"; */
-"965.title" = "Βραδύτατη, περισσότερη συμπίεση";
+"965.title" = "Βραδύτατη, πολύ συμπίεση";
 
 /* Class = "NSTextFieldCell"; title = "You can create a DMG volume that will be read-only and compressed.\n\nSet a volume name to this DMG or use the default name based on the files you compress."; ObjectID = "2189"; */
 "2189.title" = "Δημιουργία τόμου τύπου DMG, με ιδιότητες συμπίεσης και μόνο ανάγνωσης.\n\nΟνομάστε το αρχείο DMG ή δώστε το εξ΄ορισμού αντίστοιχο όνομα των αρχείων πρός συμπίεση.";
@@ -69,7 +69,7 @@
 "2271.ibShadowedObjectValues[2]" = "700 MB CD";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[3] = "4.7 GB DVD"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[3]" = "4.7 GB (4480 ΜΒ) DVD";
+"2271.ibShadowedObjectValues[3]" = "4.7 GB DVD";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[4] = "7.8 GB Mini Blu-ray (SL)"; ObjectID = "2271"; */
 "2271.ibShadowedObjectValues[4]" = "7.8 GB Mini Blu-ray (SL)";
@@ -96,7 +96,7 @@
 "2354.placeholderString" = "Επιθυμητό όνομα";
 
 /* Class = "NSTextFieldCell"; title = "You can create a ISO volume that will be read-only and compressed. ISO volumes can be only created from a folder.\n\nSet a volume name to this ISO or use the default name based on the files you compress."; ObjectID = "2363"; */
-"2363.title" = "Δημιουργία τόμου συμπίεσης τύπου ISO, με ιδιότητες μόνο ανάγνωσης.\n\nΜπορεί να δημιουργηθεί μόνο από φάκελο/ Ευρετήριο !\n\nΟνομάστε το αρχείο DMG ή χρησιμοποιήστε ένα προεπιλεγμένο όνομα από τα φάκελο που συμπιέζετε.";
+"2363.title" = "Δημιουργία τόμου τύπου ISO, με ιδιότητες μόνο ανάγνωσης, συμπιεσμένου.\n\nΜπορεί να δημιουργηθεί μόνο από ένα φάκελο!\n\nΟνομάστε το αρχείο DMG ή χρησιμοποιήστε ένα προεπιλεγμένο όνομα από τα φάκελο που συμπιέζετε.";
 
 /* Class = "NSTextFieldCell"; title = "Store"; ObjectID = "2390"; */
 "2390.title" = "Αποθήκευση";
