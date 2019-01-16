@@ -33,6 +33,7 @@
 "Creating %@ file..." = "%@ dosyası oluşturuluyor...";
 "Creating file \"%@\"" = "Dosya oluşturuluyor \"%@\"";
 "Creating file \"%@...\"" = "Dosya oluşturuluyor \"%@...\"";
+"Volume name:" = "Birim adı:";
 "Select the encoding for \"%@\"" = "Select the encoding for \"%@\"";
 "Time elapsed: %d:%@%d:%@%d hours%@" = "Geçen süre: %d:%@%d:%@%d saat%@";
 "Time elapsed: %d:%@%d minutes%@" = "Geçen süre: %d:%@%d dakika%@";
