@@ -1,0 +1,42 @@
+// Usually leave this one in English
+"NSHumanReadableCopyright" = "Πνευματικά δικαιώματα © 2009-2019 aONe";
+
+/* File types */
+"7Z Archive" = "7Z αρχείο";
+"LZMA Archive" = "LZMA αρχείο";
+"LZOP Archive" = "LZOP αρχείο";
+"LZOP Tarball Archive" = "LZOP Tarball αρχείο";
+"LZIP Archive" = "LZIP αρχείο";
+"LZIP Tarball Archive" = "LZIP Tarball αρχείο";
+"ZIP Archive" = "ZIP αρχείο";
+"ZIPX Archive" = "ZIPX αρχείο";
+"XZ Archive" = "XZ αρχείο";
+"XZ Tarball Archive" = "XZ Tarball αρχείο";
+"RAR Archive" = "RAR αρχείο";
+"RAR Legacy Archive Volume" = "RAR Legacy Τόμος Αρχείου";
+"Generic Archive Volume" = "Τόμος Γενικού Αρχείου";
+"BZIP2 Archive" = "BZIP2 αρχείο";
+"BZIP2 Tarball Archive" = "BZIP2 Tarball αρχείο";
+"BZIP Archive" = "BZIP αρχείο";
+"BZIP Tarball Archive" = "BZIP Tarball αρχείο";
+"GZIP Archive" = "GZIP αρχείο";
+"GZIP Tarball Archive" = "GZIP Tarball αρχείο";
+"TAR Archive" = "TAR αρχείο";
+"CPIO Archive" = "CPIO αρχείο";
+"CPGZ Archive" = "CPGZ αρχείο";
+"PAX Archive" = "PAX αρχείο";
+"DMG Disk Image" = "DMG Τόμος δίσκου";
+"ISO Disk Image" = "ISO Τόμος δίσκου";
+"LHA Archive" = "LHA αρχείο";
+"Windows EXE File" = "Windows EXE αρχείο";
+"Window Cabinet File" = "Window Cabinet αρχείο";
+"WIM Disk Image" = "WIM Disk Image";
+"Comic Book RAR Archive" = "Comic Book RAR αρχείο";
+"Comic Book ZIP Archive" = "Comic Book ZIP αρχείο";
+"iOS App" = "iOS App";
+"JAR Archive" = "JAR αρχείο";
+"WAR Archive" = "WAR αρχείο";
+"Android Application Package" = "Πακέτο εφαρμογής Android";
+"Cross-Platform Installer Module (XPI)" = "Μονάδα εγκαταστάτη Cross-Platform (XPI)";
+"APPX Archive" = "APPX αρχείο";
+"Keka WorkFlow" = "Keka WorkFlow";
