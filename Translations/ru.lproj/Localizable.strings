@@ -33,6 +33,7 @@
 "Creating %@ file..." = "Создание %@ файла...";
 "Creating file \"%@\"" = "Создание файла \"%@\"";
 "Creating file \"%@...\"" = "Создание файла \"%@...\"";
+"Volume name:" = "Имя образа диска:";
 "Select the encoding for \"%@\"" = "Select the encoding for \"%@\"";
 "Time elapsed: %d:%@%d:%@%d hours%@" = "Прошло %d:%@%d:%@%d часов%@";
 "Time elapsed: %d:%@%d minutes%@" = "Прошло %d:%@%d минут%@";

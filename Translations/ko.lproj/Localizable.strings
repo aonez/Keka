@@ -33,6 +33,7 @@
 "Creating %@ file..." = "Creating %@ file...";
 "Creating file \"%@\"" = "Creating file \"%@\"";
 "Creating file \"%@...\"" = "Creating file \"%@...\"";
+"Volume name:" = "볼륨 이름:";
 "Select the encoding for \"%@\"" = "Select the encoding for \"%@\"";
 "Time elapsed: %d:%@%d:%@%d hours%@" = "시간 지남: %d:%@%d:%@%d hours%@";
 "Time elapsed: %d:%@%d minutes%@" = "시간 지남: %d:%@%d minutes%@";

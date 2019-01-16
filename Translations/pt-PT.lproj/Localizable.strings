@@ -33,6 +33,7 @@
 "Creating %@ file..." = "A criar arquivo comprimido %@…";
 "Creating file \"%@\"" = "A criar arquivo comprimido “%@”";
 "Creating file \"%@...\"" = "A criar arquivo comprimido “%@”…";
+"Volume name:" = "Nome do volume:";
 "Select the encoding for \"%@\"" = "Select the encoding for \"%@\"";
 "Time elapsed: %d:%@%d:%@%d hours%@" = "Tempo decorrido: %d:%@%d:%@%d horas%@";
 "Time elapsed: %d:%@%d minutes%@" = "Tempo decorrido: %d:%@%d minutos%@";
