@@ -42,7 +42,7 @@
 "2189.title" = "你可以创建一个只读且被压缩的 DMG 卷。\n\n为此 DMG 命名，否则默认使用原文件名称。";
 
 /* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "2221"; */
-"2221.title" = "每个文件单独打包";
+"2221.title" = "分别压缩每个文件";
 
 /* Class = "NSButtonCell"; title = "Delete file(s) after compression"; ObjectID = "2222"; */
 "2222.title" = "压缩完成后删除原文件";
