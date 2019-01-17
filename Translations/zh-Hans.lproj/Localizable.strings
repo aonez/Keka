@@ -33,7 +33,7 @@
 "Creating %@ file..." = "正在创建 %@ 文件…";
 "Creating file \"%@\"" = "正在创建文件“%@”";
 "Creating file \"%@...\"" = "正在创建文件“%@…”";
-"Volume name:" = "卷名:";
+"Volume name:" = "卷名：";
 "Select the encoding for \"%@\"" = "为“%@”选择编码";
 "Time elapsed: %d:%@%d:%@%d hours%@" = "已用时间：%d:%@%d:%@%d 时%@";
 "Time elapsed: %d:%@%d minutes%@" = "已用时间：%d:%@%d 分%@";
