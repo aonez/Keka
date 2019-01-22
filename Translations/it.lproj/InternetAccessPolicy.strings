@@ -1,0 +1,16 @@
+/*
+
+This file is for Little Snitch's IAP: https://help.obdev.at/resources/documentation/littlesnitch/#/ra-iap
+Currently Little Snitch is only translated in English and German, so will not use any other localizations.
+
+If you're translating other than English or German, you can dismiss this file or translate it in case they
+add some more languages in the future.
+
+*/
+
+// Top-level, general application description:
+"ApplicationDescription" = "Keka è un compressore di file per macOS.";
+
+// Software update connection:
+"SoftwareUpdatePurpose" = "Keka verifica la presenza di nuove versioni connettendosi a u(pdate).keka.io.";
+"SoftwareUpdateDenyConsequences" = "Se blocchi questa connessione, non riceverai alcuna notifica sulle nuove versioni di Keka.";

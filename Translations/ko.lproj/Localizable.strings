@@ -3,6 +3,7 @@
 "_ADVANCED_EXTRA_WIDTH_" = "0.0";
 /* "_PREFERENCES_EXTRA_WIDTH_" = "0.0"; */
 "OK" = "확인";
+"Done" = "OK";
 "Yes" = "예";
 "No" = "아니오";
 "Don't show again" = "다시 보지 않기";
@@ -14,6 +15,7 @@
 "The current operations will be canceled. If you choose to wait and quit Keka will exit when all work is done." = "진행중인 작업들이 취소됩니다. 기다리고 취소하시면 Keka는 모든 작업들이 끝난 뒤 종료합니다.";
 "Password needed" = "암호가 필요합니다";
 "File \"%@\" needs a password to be extracted" = "\"%@\" 파일은 압축을 풀기 위해 암호가 필요합니다";
+"File \"%@\" needs a special encoding to be extracted" = "File \"%@\" needs a special encoding to be extracted";
 "Extraction of \"%@\" done" = "\"%@\" 파일 압축 해제 완료";
 "Extraction of \"%@\" failed." = "\"%@\" 파일 압축 해제 실패";
 "Extraction of %i files done" = "파일 %i개 압축 해제 완료";
@@ -31,6 +33,8 @@
 "Creating %@ file..." = "Creating %@ file...";
 "Creating file \"%@\"" = "Creating file \"%@\"";
 "Creating file \"%@...\"" = "Creating file \"%@...\"";
+"Volume name:" = "볼륨 이름:";
+"Select the encoding for \"%@\"" = "Select the encoding for \"%@\"";
 "Time elapsed: %d:%@%d:%@%d hours%@" = "시간 지남: %d:%@%d:%@%d hours%@";
 "Time elapsed: %d:%@%d minutes%@" = "시간 지남: %d:%@%d minutes%@";
 "Time elapsed: %d seconds%@" = "시간 지남: %d seconds%@";
