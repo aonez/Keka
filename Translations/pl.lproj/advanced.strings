@@ -41,7 +41,7 @@
 /* Class = "NSTextFieldCell"; title = "You can create a DMG volume that will be read-only and compressed.\n\nSet a volume name to this DMG or use the default name based on the files you compress."; ObjectID = "2189"; */
 "2189.title" = "Utwórz archiwum DMG - tylko do odczytu. Wprowadź własną nazwę dla pliku DMG lub użyj domyślnej.";
 
-/* Class = "NSButtonCell"; title = "Archive as single files"; ObjectID = "2221"; */
+/* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "2221"; */
 "2221.title" = "Osobne archiwum dla każdego pliku";
 
 /* Class = "NSButtonCell"; title = "Delete file(s) after compression"; ObjectID = "2222"; */

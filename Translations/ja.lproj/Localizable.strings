@@ -3,6 +3,7 @@
 "_ADVANCED_EXTRA_WIDTH_" = "0.0";
 /* "_PREFERENCES_EXTRA_WIDTH_" = "0.0"; */
 "OK" = "OK";
+"Done" = "OK";
 "Yes" = "はい";
 "No" = "いいえ";
 "Don't show again" = "今後表示しない";
@@ -14,6 +15,7 @@
 "The current operations will be canceled. If you choose to wait and quit Keka will exit when all work is done." = "実行中の動作は中止されます。「待機」を選ぶと操作が完了する時に Keka は終了します。";
 "Password needed" = "パスワードは必要";
 "File \"%@\" needs a password to be extracted" = "\"%@\" を解凍できるようにパスワードを使用する必要があります。";
+"File \"%@\" needs a special encoding to be extracted" = "File \"%@\" needs a special encoding to be extracted";
 "Extraction of \"%@\" done" = "\"%@\" は解凍されました。";
 "Extraction of \"%@\" failed." = "\"%@\" は解凍できませんでした。";
 "Extraction of %i files done" = "Extraction of %i files done";
@@ -31,6 +33,8 @@
 "Creating %@ file..." = "%@ ファイルを作成中...";
 "Creating file \"%@\"" = "\"%@\" を作成中";
 "Creating file \"%@...\"" = "\"%@...\" を作成中";
+"Volume name:" = "ボリューム名:";
+"Select the encoding for \"%@\"" = "Select the encoding for \"%@\"";
 "Time elapsed: %d:%@%d:%@%d hours%@" = "経過時間:  %d時間%@%d分%@%d秒%@";
 "Time elapsed: %d:%@%d minutes%@" = "経過時間:  %d分%@%d秒%@";
 "Time elapsed: %d seconds%@" = "経過時間:  %d秒%@";
