@@ -1,3 +1,6 @@
+// Usually leave this one in English
+"NSHumanReadableCopyright" = "Copyright © 2009-2019 aONe";
+
 /* File types */
 "7Z Archive" = "Archivo 7Z";
 "LZMA Archive" = "Archivo LZMA";
@@ -6,6 +9,7 @@
 "LZIP Archive" = "Archivo LZIP";
 "LZIP Tarball Archive" = "Archivo TAR comprimido con LZIP";
 "ZIP Archive" = "Archivo ZIP";
+"ZIPX Archive" = "Archivo ZIPX";
 "XZ Archive" = "Archivo XZ";
 "XZ Tarball Archive" = "Archivo TAR comprimido con XZ";
 "RAR Archive" = "Archivo RAR";

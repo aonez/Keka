@@ -1,0 +1,192 @@
+﻿
+/* Class = "NSBox"; title = "Format"; ObjectID = "153"; */
+"153.title" = "Τύπος αρχείου";
+
+/* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
+"159.title" = "Προεπιλεγμένος τύπος:";
+
+/* Class = "NSTextFieldCell"; title = "Default method:"; ObjectID = "160"; */
+"160.title" = "Προεπιλεγμένη μέθοδος:";
+
+/* Class = "NSTextFieldCell"; title = "Those are only applied when Keka is not open"; ObjectID = "161"; */
+"161.title" = "Εφαρμοζόνται μόνο μετά την έξοδο του προγράμματος";
+
+/* Class = "NSMenuItem"; title = "No compression"; ObjectID = "164"; */
+"164.title" = "Χωρίς συμπίεση";
+
+/* Class = "NSMenuItem"; title = "Fast, less compression"; ObjectID = "165"; */
+"165.title" = "Γρήγορη, λιγότερη συμπίεση";
+
+/* Class = "NSMenuItem"; title = "Normal"; ObjectID = "166"; */
+"166.title" = "Κανονική";
+
+/* Class = "NSMenuItem"; title = "Fastest, less compression"; ObjectID = "167"; */
+"167.title" = "Ταχύτατη, λιγότερη συμπίεση";
+
+/* Class = "NSMenuItem"; title = "Slowest, more compression"; ObjectID = "168"; */
+"168.title" = "Βραδύτατη, πολύ συμπίεση";
+
+/* Class = "NSMenuItem"; title = "Slow, more compression"; ObjectID = "169"; */
+"169.title" = "Αργή, πολύ συμπίεση";
+
+/* Class = "NSButtonCell"; title = "Set Keka as the default uncompressor"; ObjectID = "184"; */
+"184.title" = "Επιλογή του Keka ως εξ'ορισμού εφαρμογή αποσυμπίεσης";
+
+/* Class = "NSButtonCell"; title = "Close Keka when no windows are open"; ObjectID = "187"; */
+"187.title" = "Κλείσε το Keka όταν δεν υπάρχουν άλλα ανοικτά παράθυρα";
+
+/* Class = "NSBox"; title = "Actions"; ObjectID = "191"; */
+"191.title" = "Ενέργειες";
+
+/* Class = "NSTextFieldCell"; title = "Automatic action: Keka will decide whether to compress or uncompress based on file format and extension"; ObjectID = "194"; */
+"194.title" = "Αυτόματη ενέργεια: Το Keka θα αποφασίσει εάν θα συμπιέσει ή αποσυμπιέσει βάση τύπου αρχείου και προέκτασης";
+
+/* Class = "NSMenuItem"; title = "Always extract"; ObjectID = "197"; */
+"197.title" = "Πάντα εξαγωγή";
+
+/* Class = "NSMenuItem"; title = "Always compress"; ObjectID = "198"; */
+"198.title" = "Πάντα συμπίεση";
+
+/* Class = "NSMenuItem"; title = "Perform automatic action"; ObjectID = "199"; */
+"199.title" = "Επιλογή αυτόματης ενέργειας";
+
+/* Class = "NSButtonCell"; title = "Move original file(s) to Trash after compression"; ObjectID = "262"; */
+"262.title" = "Μετακίνησε τα πρωτότυπα αρχεία στον Κάδο ανακύκλωσης αφότου συμπιεστούν";
+
+/* Class = "NSButtonCell"; title = "Archive as single files"; ObjectID = "263"; */
+"263.title" = "Αρχειοθέτησε ώς μεμονωμένα (ξεχωριστά) αρχεία";
+
+/* Class = "NSButtonCell"; title = "Show file in Finder after compression"; ObjectID = "264"; */
+"264.title" = "Εμφάνιση τοποθεσίας αρχείου(-ων), μετά τη συμπίεση";
+
+/* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "265"; */
+"265.title" = "Χωρίς τα Mac OS X resource forks (π.χ: .DS_Store) αρχεία";
+
+/* Class = "NSBox"; title = "Name and location"; ObjectID = "270"; */
+"270.title" = "Ονομα και τοποθεσία";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "276"; */
+"276.placeholderString" = "Επιθυμητό όνομα αρχείου";
+
+/* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "279"; */
+"279.title" = "Ερώτηση κάθε φορά";
+
+/* Class = "NSMenuItem"; title = "Next to original file"; ObjectID = "280"; */
+"280.title" = "Εντός τοποθεσίας πρωτότυπου αρχείου";
+
+/* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "281"; */
+"281.title" = "Επιθυμητός φάκελος...";
+
+/* Class = "NSTextFieldCell"; title = "Save to location:"; ObjectID = "282"; */
+"282.title" = "Τοποθεσία αποθήκευσης:";
+
+/* Class = "NSTextFieldCell"; title = "Name of new files:"; ObjectID = "283"; */
+"283.title" = "Ονομασία των νέων αρχείων:";
+
+/* Class = "NSMenuItem"; title = "Same as original file"; ObjectID = "286"; */
+"286.title" = "Αντίστοιχη ονομασία με το πρωτότυπο αρχείο -α";
+
+/* Class = "NSMenuItem"; title = "Custom name..."; ObjectID = "287"; */
+"287.title" = "Ονομάστε το όπως επιθυμείτε...";
+
+/* Class = "NSToolbarItem"; label = "Compression"; ObjectID = "333"; */
+"333.label" = "Συμπίεση";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Compression"; ObjectID = "333"; */
+"333.paletteLabel" = "Συμπίεση";
+
+/* Class = "NSToolbarItem"; label = "General"; ObjectID = "334"; */
+"334.label" = "Γενικές Ρυθμίσεις";
+
+/* Class = "NSToolbarItem"; paletteLabel = "General"; ObjectID = "334"; */
+"334.paletteLabel" = "Γενικές Ρυθμίσεις";
+
+/* Class = "NSToolbarItem"; label = "Extraction"; ObjectID = "338"; */
+"338.label" = "Εξαγωγή";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Extraction"; ObjectID = "338"; */
+"338.paletteLabel" = "Εξαγωγή";
+
+/* Class = "NSBox"; title = "Location"; ObjectID = "352"; */
+"352.title" = "Τοποθεσία";
+
+/* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "357"; */
+"357.title" = "Ερώτηση κάθε φορά";
+
+/* Class = "NSMenuItem"; title = "Next to original file"; ObjectID = "358"; */
+"358.title" = "Εντός τοποθεσίας πρωτότυπου αρχείου";
+
+/* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "359"; */
+"359.title" = "Επιθυμητός φάκελος...";
+
+/* Class = "NSTextFieldCell"; title = "Extract to location:"; ObjectID = "360"; */
+"360.title" = "Τοποθεσία εξαγωγής:";
+
+/* Class = "NSButtonCell"; title = "Show content in Finder after extraction"; ObjectID = "361"; */
+"361.title" = "Εμφάνιση τοποθεσίας αρχείου(-ων), μετά τη συμπίεση";
+
+/* Class = "NSButtonCell"; title = "Move compressed file(s) to Trash after extraction"; ObjectID = "362"; */
+"362.title" = "Μετακίνησε τα συμπιεσμένα αρχεία στον Κάδο ανακύκλωσης αφότου εξαχθούν";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "418"; */
+"418.title" = "Καμία";
+
+/* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "419"; */
+"419.title" = "Προεπιλεγμένη συμπίεση";
+
+/* Class = "NSMenuItem"; title = "Default extraction"; ObjectID = "432"; */
+"432.title" = "Προεπιλεγμένη εξαγωγή";
+
+/* Class = "NSTextFieldCell"; title = "Play a sound after an extraction:"; ObjectID = "433"; */
+"433.title" = "Ηχητική ειδοποίηση μετά από την εξαγωγή:";
+
+/* Class = "NSTextFieldCell"; title = "Play a sound after a compression:"; ObjectID = "436"; */
+"436.title" = "Ηχητική ειδοποίηση μετά από τη συμπίεση:";
+
+/* Class = "NSMenuItem"; title = "Default extraction"; ObjectID = "439"; */
+"439.title" = "Προεπιλεγμένη εξαγωγή";
+
+/* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "452"; */
+"452.title" = "Προεπιλεγμένη συμπίεση";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "453"; */
+"453.title" = "Καμία";
+
+/* Class = "NSTextFieldCell"; title = "You can also customize the access below:"; ObjectID = "5B7-Sc-wp0"; */
+"5B7-Sc-wp0.title" = "Μπορείτε να παραμετροποιήσετε την προσπέλαση αρχείων παρακάτω:";
+
+/* Class = "NSToolbarItem"; label = "File Access"; ObjectID = "5eC-d6-04X"; */
+"5eC-d6-04X.label" = "Πρόσβαση Αρχείου";
+
+/* Class = "NSToolbarItem"; paletteLabel = "File Access"; ObjectID = "5eC-d6-04X"; */
+"5eC-d6-04X.paletteLabel" = "Πρόσβαση Αρχείου";
+
+/* Class = "NSButtonCell"; title = "Enable home folder access"; ObjectID = "DL5-wY-cqc"; */
+"DL5-wY-cqc.title" = "Επέτρεψε την πρόσβαση στο Home φάκελο";
+
+/* Class = "NSTextFieldCell"; title = "Here you can choose the folders you want to give access to Keka. Note that Keka can't be used where it has no access. If needed, Keka will ask for specific folder access."; ObjectID = "GDf-ZS-dTs"; */
+"GDf-ZS-dTs.title" = "Εδώ μπορείτε να επιλέξετε τους φακέλους που θέλετε να δώσετε δικαίωμα πρόσβασης στο Keka. Σημείωση: Το Keka δε θα λειτουργήσει όπου δεν έχει δικαίωμα πρόσβασης. Εαν χρειαστεί, το Keka θα ζητήσει δικαίωμα πρόσβασης στο φάκελο.";
+
+/* Class = "NSButtonCell"; title = "Enable full Mac access (Recommended)"; ObjectID = "IHj-ac-103"; */
+"IHj-ac-103.title" = "Παραχώρησε την πλήρη πρόσβαση στο Mac (Συνιστάται)";
+
+/* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive:"; ObjectID = "JxT-Nq-8Z5"; */
+"JxT-Nq-8Z5.title" = "Επέτρεψε την πρόσβαση σε τόμους εξωτερικών συσκευών ώστε το Keka να μπορεί να λειτουργήσει με τους εξωτερικές μονάδες δίσκων, όπως USB ή Thunderbolt δίσκοι";
+
+/* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder:"; ObjectID = "PD2-iW-BGK"; */
+"PD2-iW-BGK.title" = "Επέτρεψε την πρόσβαση στο home φάκελο ώστε το Keka να μπορεί να συνεργαστεί με όλα τα αρχεία χρήστη, όπως στην επιφάνεια εργασίας ή στο φάκελο Λήψεων";
+
+/* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
+"SOL-6U-5P9.title" = "Ενεργοποίηση ενσωμάτωσης του Κέντρου Ειδοποιήσεων";
+
+/* Class = "NSTextFieldCell"; title = "Enable full Mac access so Keka can be used on all your Mac:"; ObjectID = "ZOx-vr-5o7"; */
+"ZOx-vr-5o7.title" = "Παραχώρησε την πλήρη πρόσβαση στο Mac ώστε το Keka να μπορεί να συνεργαστεί με όλα τα αρχεία του Mac:";
+
+/* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "b5e-bj-Pgz"; */
+"b5e-bj-Pgz.title" = "Χρήση ενοποιημένης εργαλειοθήκης (επαναφορά αρχικών προσαρμογών)";
+
+/* Class = "NSButtonCell"; title = "Use AES-256 when encrypting ZIP files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
+"hp7-jO-HeV.title" = "Χρήση αλγορίθμου AES-256 όταν αποκρυπτογραφούνται αρχεία ZIP (λιγότερο συμβατή)";
+
+/* Class = "NSButtonCell"; title = "Enable external volumes access"; ObjectID = "sgV-AD-k4Q"; */
+"sgV-AD-k4Q.title" = "Επέτρεψε την πρόσβαση στους τόμους των εξωτερικών συσκευών";
