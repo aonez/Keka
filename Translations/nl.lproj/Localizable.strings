@@ -3,6 +3,7 @@
 "_ADVANCED_EXTRA_WIDTH_" = "0.0";
 /* "_PREFERENCES_EXTRA_WIDTH_" = "0.0"; */
 "OK" = "OK";
+"Done" = "OK";
 "Yes" = "Ja";
 "No" = "Nee";
 "Don't show again" = "Toon niet opnieuw";
@@ -14,6 +15,7 @@
 "The current operations will be canceled. If you choose to wait and quit Keka will exit when all work is done." = "De huidige actie zal worden geannuleerd. Indien u kiest om te wachten zal Keka zichzelf afsluiten wanneer de operatie voltooid is.";
 "Password needed" = "Wachtwoord nodig";
 "File \"%@\" needs a password to be extracted" = "Bestand \"%@\" heeft een wachtwoord nodig om uitgepakt te worden.";
+"File \"%@\" needs a special encoding to be extracted" = "File \"%@\" needs a special encoding to be extracted";
 "Extraction of \"%@\" done" = "Uitpakken van \"%@\" voltooid";
 "Extraction of \"%@\" failed." = "Uitpakken van \"%@\" mislukt.";
 "Extraction of %i files done" = "Extraction of %i files done";
@@ -31,6 +33,8 @@
 "Creating %@ file..." = "Aanmaken van %@ bestand...";
 "Creating file \"%@\"" = "Aanmaken van bestand \"%@\"";
 "Creating file \"%@...\"" = "Aanmaken van bestand \"%@...\"";
+"Volume name:" = "Archiefnaam:";
+"Select the encoding for \"%@\"" = "Select the encoding for \"%@\"";
 "Time elapsed: %d:%@%d:%@%d hours%@" = "Verstreken tijd: %d:%@%d:%@%d uren%@";
 "Time elapsed: %d:%@%d minutes%@" = "Verstreken tijd: %d:%@%d minuten%@";
 "Time elapsed: %d seconds%@" = "Verstreken tijd: %d seconden%@";
