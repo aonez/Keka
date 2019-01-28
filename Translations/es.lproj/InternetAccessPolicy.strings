@@ -1,11 +1,11 @@
 /*
-
-This file is for Little Snitch's IAP: https://help.obdev.at/resources/documentation/littlesnitch/#/ra-iap
-Currently Little Snitch is only translated in English and German, so will not use any other localizations.
-
-If you're translating other than English or German, you can dismiss this file or translate it in case they
-add some more languages in the future.
-
+//
+// This file is for Little Snitch's IAP: https://help.obdev.at/resources/documentation/littlesnitch/#/ra-iap
+// Currently Little Snitch is only translated in English and German, so will not use any other localizations.
+//
+// If you're translating other than English or German, you can dismiss this file or translate it in case they
+// add some more languages in the future.
+//
 */
 
 // Top-level, general application description:
