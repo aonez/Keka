@@ -60,7 +60,7 @@
 "264.title" = "Показать архив в Finder после сжатия";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "265"; */
-"265.title" = "Исключить вилки ресурсов Mac (напр., .DS_Store)";
+"265.title" = "Исключить ветви ресурсов Mac (напр., .DS_Store)";
 
 /* Class = "NSBox"; title = "Name and location"; ObjectID = "270"; */
 "270.title" = "Местонахождение и имена файлов";
