@@ -15,7 +15,7 @@ Also you can check the history of releases in the [Releases](https://github.com/
 
 You will find the updated list of legacy versions in the Keka website at https://www.keka.io/#legacy
 
-## What more to do here
+## What more to do here?
 
 - [Issues](https://github.com/aonez/Keka/issues) - look for open ones, [create](https://github.com/aonez/Keka/issues/new) a new one.
 - [Wiki](https://github.com/aonez/Keka/wiki) - learn and share Keka knowledge.
@@ -30,7 +30,7 @@ If you'll like to chat and you think the [Issues](https://github.com/aonez/Keka/
 
 Also head to [Releases](https://github.com/aonez/Keka/releases) if you need a concrete version not found on the [Keka website](https://www.keka.io).
 
-### So, where is the source code
+### So, where is the source code?
 Sadly, the source code of Keka 1.0 and newer will be not public due some issues in the past (this is [one of the reasons](http://trac.keka.io/ticket/14)).
 
 ### Legacy info
