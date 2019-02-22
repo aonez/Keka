@@ -51,7 +51,7 @@
 "199.title" = "Perform automatic action";
 
 /* Class = "NSButtonCell"; title = "Move original file(s) to Trash after compression"; ObjectID = "262"; */
-"262.title" = "Move original file(s) to the bin after compression";
+"262.title" = "Move original file(s) to the Bin after compression";
 
 /* Class = "NSButtonCell"; title = "Archive as single files"; ObjectID = "263"; */
 "263.title" = "Archive as single files";
@@ -126,7 +126,7 @@
 "361.title" = "Show content in Finder after extraction";
 
 /* Class = "NSButtonCell"; title = "Move compressed file(s) to Trash after extraction"; ObjectID = "362"; */
-"362.title" = "Move compressed file(s) to the bin after extraction";
+"362.title" = "Move compressed file(s) to the Bin after extraction";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "418"; */
 "418.title" = "None";
