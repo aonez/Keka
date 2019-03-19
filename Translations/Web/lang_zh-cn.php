@@ -2,7 +2,7 @@
 // Keka lang - version 0.3 - Started on 12/05/18 - by Max Sky
 //
 //
-// Language: Chinese
+// Language: Simplified Chinese
 $content_language_locale = "zh-cn";
 // Translated by Max Sky (admin@maxsky.cc)
 //
@@ -25,8 +25,8 @@ $content_download_legacy = "历史版本";
 // Like
 $content_donation_button = "捐赠";
 $content_donation_title = '如果您喜欢 Keka，可以给予一些 <i class="fa fa-heart" aria-hidden="true"></i>，<br />您也可以从 App Store 购买 Keka 或通过 PayPal 发起捐赠！';
-$content_donation_mas = "如果您从 App Store 购买了 Keka，这会支持我们的开发工作，<br />该应用程序在 App Store 中的版本与本网站中下载的版本是相同的。";
-$content_donation_paypal = "如果您不喜欢 MAS 或只是尝试使用 Keka，<br />而且喜欢这个项目并希望给予一些支持，您都可以使用 PayPal 发起捐赠。";
+$content_donation_mas = "如果您从 App Store 购买 Keka，这会支持我们的开发工作，<br />该应用程序在 App Store 中的版本与本网站中下载的版本是相同的。";
+$content_donation_paypal = "如果您不喜欢 MAS 或只是尝试使用 Keka，<br />而且喜欢这个项目并希望给予一些支持，您可以使用 PayPal 发起捐赠。";
 
 // Beta
 $content_plataform_beta = "测试版";
