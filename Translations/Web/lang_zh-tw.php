@@ -64,6 +64,6 @@ $content_404_start = "您可以訪問 <a href=\"https://www.keka.io\">首頁</a>
 $content_404_more = "或許您想這樣？";
 
 // Bottom info
-$content_bottom_copying = '版權所有. 由 <a href="https://github.com/johan456789">Tsung-Han Yu</a> 翻译.';
+$content_bottom_copying = '版權所有. 由 <a href="https://github.com/johan456789">Tsung-Han Yu</a> 翻譯.';
 
 ?>
