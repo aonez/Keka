@@ -53,8 +53,8 @@
 /* Class = "NSButtonCell"; title = "Move original file(s) to Trash after compression"; ObjectID = "262"; */
 "262.title" = "Move original file(s) to Trash after compression";
 
-/* Class = "NSButtonCell"; title = "Archive as single files"; ObjectID = "263"; */
-"263.title" = "Archive as single files";
+/* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "263"; */
+"263.title" = "Archive items separately";
 
 /* Class = "NSButtonCell"; title = "Show file in Finder after compression"; ObjectID = "264"; */
 "264.title" = "Show file in Finder after compression";
