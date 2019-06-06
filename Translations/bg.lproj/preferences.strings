@@ -53,7 +53,7 @@
 /* Class = "NSButtonCell"; title = "Move original file(s) to Trash after compression"; ObjectID = "262"; */
 "262.title" = "Премести оригиналния/те файл(ове) в Кошчето след компресиране";
 
-/* Class = "NSButtonCell"; title = "Archive as single files"; ObjectID = "263"; */
+/* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "263"; */
 "263.title" = "Архивирай като единични файлове";
 
 /* Class = "NSButtonCell"; title = "Show file in Finder after compression"; ObjectID = "264"; */
