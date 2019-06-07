@@ -54,7 +54,7 @@
 "262.title" = "Sposta nel cestino i file originali dopo la compressione";
 
 /* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "263"; */
-"263.title" = "Archivia come singoli file";
+"263.title" = "Archivia elementi separatamente";
 
 /* Class = "NSButtonCell"; title = "Show file in Finder after compression"; ObjectID = "264"; */
 "264.title" = "Mostra i file nel Finder dopo la compressione";
