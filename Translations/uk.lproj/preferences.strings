@@ -138,7 +138,7 @@
 "432.title" = "Розпаковування за замовчуванням";
 
 /* Class = "NSTextFieldCell"; title = "Play a sound after an extraction:"; ObjectID = "433"; */
-"433.title" = "Відтворення звуку після вилучення:";
+"433.title" = "Відтворення звуку після розпакування:";
 
 /* Class = "NSTextFieldCell"; title = "Play a sound after a compression:"; ObjectID = "436"; */
 "436.title" = "Відтворення звуку після стиснення:";
