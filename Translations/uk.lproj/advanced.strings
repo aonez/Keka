@@ -1,66 +1,66 @@
 
 /* Class = "NSMenuItem"; title = "Perform automatic action"; ObjectID = "943"; */
-"943.title" = "Perform automatic action";
+"943.title" = "Виконати автоматичну дію";
 
 /* Class = "NSMenuItem"; title = "Always compress"; ObjectID = "944"; */
-"944.title" = "Always compress";
+"944.title" = "Завжди стискати";
 
 /* Class = "NSMenuItem"; title = "Always extract"; ObjectID = "945"; */
-"945.title" = "Always extract";
+"945.title" = "Завжди розпаковувати";
 
 /* Class = "NSMenuItem"; title = "Format"; ObjectID = "947"; */
-"947.title" = "Format";
+"947.title" = "Формат";
 
 /* Class = "NSMenu"; title = "Format"; ObjectID = "948"; */
-"948.title" = "Format";
+"948.title" = "Формат";
 
 /* Class = "NSMenuItem"; title = "Method"; ObjectID = "957"; */
-"957.title" = "Method";
+"957.title" = "Метод";
 
 /* Class = "NSMenu"; title = "Method"; ObjectID = "958"; */
-"958.title" = "Method";
+"958.title" = "Метод";
 
 /* Class = "NSMenuItem"; title = "No compression"; ObjectID = "960"; */
-"960.title" = "No compression";
+"960.title" = "Без стиснення";
 
 /* Class = "NSMenuItem"; title = "Fastest, less compression"; ObjectID = "961"; */
-"961.title" = "Fastest, less compression";
+"961.title" = "Найшвидше, менше стиснення";
 
 /* Class = "NSMenuItem"; title = "Fast, less compression"; ObjectID = "962"; */
-"962.title" = "Fast, less compression";
+"962.title" = "Швидко, менше стиснення";
 
 /* Class = "NSMenuItem"; title = "Normal"; ObjectID = "963"; */
-"963.title" = "Normal";
+"963.title" = "Звичайнe";
 
 /* Class = "NSMenuItem"; title = "Slow, more compression"; ObjectID = "964"; */
-"964.title" = "Slow, more compression";
+"964.title" = "Повільно, більше стиснення";
 
 /* Class = "NSMenuItem"; title = "Slowest, more compression"; ObjectID = "965"; */
-"965.title" = "Slowest, more compression";
+"965.title" = "Найповільніше, більше стиснення";
 
 /* Class = "NSTextFieldCell"; title = "You can create a DMG volume that will be read-only and compressed.\n\nSet a volume name to this DMG or use the default name based on the files you compress."; ObjectID = "2189"; */
-"2189.title" = "You can create a DMG volume that will be read-only and compressed.\n\nSet a volume name to this DMG or use the default name based on the files you compress.";
+"2189.title" = "Ви можете створити стиснутий DMG контейнер, який буде доступний для читання.\n\nВстановіть ім'я контейнера для цього DMG або використовуйте ім'я за замовчуванням на основі стиснених файлів.";
 
 /* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "2221"; */
-"2221.title" = "Archive items separately";
+"2221.title" = "Архівувати окремо";
 
 /* Class = "NSButtonCell"; title = "Delete file(s) after compression"; ObjectID = "2222"; */
-"2222.title" = "Delete file(s) after compression";
+"2222.title" = "Видаліть файл(и) після стиснення";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks"; ObjectID = "2244"; */
-"2244.title" = "Exclude Mac resource forks";
+"2244.title" = "Виключити ресурси Mac";
 
 /* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "2262"; */
-"2262.title" = "Password:";
+"2262.title" = "Пароль:";
 
 /* Class = "NSTextFieldCell"; title = "Split:"; ObjectID = "2270"; */
-"2270.title" = "Split:";
+"2270.title" = "Розбивати:";
 
 /* Class = "NSComboBoxCell"; placeholderString = "Example: 5 MB"; ObjectID = "2271"; */
-"2271.placeholderString" = "Example: 5 MB";
+"2271.placeholderString" = "Наприклад: 5 MB";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[0] = "1.4 MB Floppy disk"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[0]" = "1.4 MB Floppy disk";
+"2271.ibShadowedObjectValues[0]" = "1.4 MB Дискета";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[1] = "650 MB CD"; ObjectID = "2271"; */
 "2271.ibShadowedObjectValues[1]" = "650 MB CD";
@@ -90,34 +90,34 @@
 "2271.ibShadowedObjectValues[9]" = "128 GB Blu-ray XL (QL)";
 
 /* Class = "NSTextFieldCell"; title = "Volume name:"; ObjectID = "2343"; */
-"2343.title" = "Volume name:";
+"2343.title" = "Назва контейнера:";
 
 /* Class = "NSTextFieldCell"; placeholderString = "custom name"; ObjectID = "2354"; */
-"2354.placeholderString" = "custom name";
+"2354.placeholderString" = "власна назва";
 
 /* Class = "NSTextFieldCell"; title = "You can create a ISO volume that will be read-only and compressed. ISO volumes can be only created from a folder.\n\nSet a volume name to this ISO or use the default name based on the files you compress."; ObjectID = "2363"; */
-"2363.title" = "You can create a ISO volume that will be read-only and compressed. ISO volumes can be only created from a folder.\n\nSet a volume name to this ISO or use the default name based on the files you compress.";
+"2363.title" = "Ви можете створити стиснутий ISO контейнер, який буде доступний для читання. Контейнер ISO можна створювати тільки з папки.\n\nВстановіть ім'я контейнера для цього ISO або використовуйте ім'я за замовчуванням на основі стиснених файлів.";
 
 /* Class = "NSTextFieldCell"; title = "Store"; ObjectID = "2390"; */
-"2390.title" = "Store";
+"2390.title" = "Зберігання";
 
 /* Class = "NSTextFieldCell"; title = "Fast"; ObjectID = "2392"; */
-"2392.title" = "Fast";
+"2392.title" = "Швидко";
 
 /* Class = "NSTextFieldCell"; title = "Slow"; ObjectID = "2394"; */
-"2394.title" = "Slow";
+"2394.title" = "Повільно";
 
 /* Class = "NSTextFieldCell"; title = "Normal"; ObjectID = "2398"; */
-"2398.title" = "Normal";
+"2398.title" = "Звичайно";
 
 /* Class = "NSTextFieldCell"; title = "Repeat:"; ObjectID = "2426"; */
-"2426.title" = "Repeat:";
+"2426.title" = "Ще раз:";
 
 /* Class = "NSButtonCell"; title = "Encrypt filenames"; ObjectID = "L2I-Q8-zqc"; */
-"L2I-Q8-zqc.title" = "Encrypt filenames";
+"L2I-Q8-zqc.title" = "Шифрувати імена файлів";
 
 /* Class = "NSButtonCell"; title = "Use AES-256 encryption"; ObjectID = "Lw7-h9-3Qh"; */
-"Lw7-h9-3Qh.title" = "Use AES-256 encryption";
+"Lw7-h9-3Qh.title" = "Використовувати шифрування AES-256";
 
 /* Class = "NSButtonCell"; title = "Solid archive"; ObjectID = "UYy-aQ-V1a"; */
-"UYy-aQ-V1a.title" = "Solid archive";
+"UYy-aQ-V1a.title" = "Безперервний архів";
