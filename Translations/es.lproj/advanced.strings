@@ -96,7 +96,7 @@
 "2354.placeholderString" = "personalizado";
 
 /* Class = "NSTextFieldCell"; title = "You can create a ISO volume that will be read-only and compressed. ISO volumes can be only created from a folder.\n\nSet a volume name to this ISO or use the default name based on the files you compress."; ObjectID = "2363"; */
-"2363.title" = "Puedes crear una imagen ISO comprimido que será de sólo lectura. Las imágenes ISO sólo se pueden crear a partir de una carpeta.\n\nPuedes ponerle un nombre personalizado o dejar que el nombre se ponga automáticamente en función de los archivos que comprimas.";
+"2363.title" = "Puedes crear una imagen ISO comprimida que será de sólo lectura. Las imágenes ISO sólo se pueden crear a partir de una carpeta.\n\nPuedes ponerle un nombre personalizado o dejar que el nombre se ponga automáticamente en función de los archivos que comprimas.";
 
 /* Class = "NSTextFieldCell"; title = "Store"; ObjectID = "2390"; */
 "2390.title" = "Store";
