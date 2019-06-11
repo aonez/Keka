@@ -30,7 +30,7 @@
 "169.title" = "Повільно, більше стиснення";
 
 /* Class = "NSButtonCell"; title = "Set Keka as the default uncompressor"; ObjectID = "184"; */
-"184.title" = "Встановити Keka як декомпресор за умовчанням ;
+"184.title" = "Встановити Keka як декомпресор за умовчанням";
 
 /* Class = "NSButtonCell"; title = "Close Keka when no windows are open"; ObjectID = "187"; */
 "187.title" = "Закрити Keka, коли немає відкритих вікон";
