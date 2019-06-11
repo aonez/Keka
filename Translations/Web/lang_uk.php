@@ -39,7 +39,7 @@ $content_beta_up = "Завантажити нову версію";
 // Legacy
 $content_plataform_legacy =  "Для $version_replace";
 $content_legacy_title = "Більш ранні версії Keka";
-$content_legacy_text = 'Рано чи пізно ваш Mac застаріє і не буде підтримувати <br /> нові версії Keka, але не хвилюйтеся <i class="fa fa-coffee" aria-hidden="true"> </ i>, старі версії будуть тут.';
+$content_legacy_text = 'Рано чи пізно ваш Mac застаріє і не буде підтримувати <br /> нові версії Keka, але не хвилюйтеся <i class="fa fa-coffee" aria-hidden="true"></i>, старі версії будуть тут.';
 
 // Info
 $content_info_title1 = "Проста і потужна";
@@ -65,6 +65,6 @@ $content_404_start = "Вы можете перейти на <a href=\"https://ww
 $content_404_more = "або, може, ви шукаєте це?";
 
 // Bottom info
-$content_bottom_copying = 'Всі права захищені. Переклав <a href="mailto: fluder@icloudc.com">Олександр Глущенко</a>';
+$content_bottom_copying = 'Всі права захищені. Переклав <a href="https://fsnot.es">Олександр Глущенко</a>';
 
 ?>
