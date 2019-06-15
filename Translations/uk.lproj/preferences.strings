@@ -1,192 +1,192 @@
-﻿
+
 /* Class = "NSBox"; title = "Format"; ObjectID = "153"; */
-"153.title" = "格式";
+"153.title" = "Формат";
 
 /* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
-"159.title" = "預設壓縮格式:";
+"159.title" = "Формат за умовчанням:";
 
 /* Class = "NSTextFieldCell"; title = "Default method:"; ObjectID = "160"; */
-"160.title" = "預設壓縮格式:";
+"160.title" = "Метод за умовчанням:";
 
 /* Class = "NSTextFieldCell"; title = "Those are only applied when Keka is not open"; ObjectID = "161"; */
-"161.title" = "將於 Keka 重新啟動後套用設定";
+"161.title" = "Застосовується лише тоді, коли Кека не відкрита";
 
 /* Class = "NSMenuItem"; title = "No compression"; ObjectID = "164"; */
-"164.title" = "不壓縮";
+"164.title" = "Без стиснення";
 
 /* Class = "NSMenuItem"; title = "Fast, less compression"; ObjectID = "165"; */
-"165.title" = "快速、較低壓縮率";
+"165.title" = "Швидко, менше стиснення";
 
 /* Class = "NSMenuItem"; title = "Normal"; ObjectID = "166"; */
-"166.title" = "正常";
+"166.title" = "Звичайнe";
 
 /* Class = "NSMenuItem"; title = "Fastest, less compression"; ObjectID = "167"; */
-"167.title" = "非常快、低壓縮率";
+"167.title" = "Найшвидше, менше стиснення";
 
 /* Class = "NSMenuItem"; title = "Slowest, more compression"; ObjectID = "168"; */
-"168.title" = "非常慢、高壓縮率";
+"168.title" = "Найповільніше, більше стиснення";
 
 /* Class = "NSMenuItem"; title = "Slow, more compression"; ObjectID = "169"; */
-"169.title" = "慢速、較高壓縮率";
+"169.title" = "Повільно, більше стиснення";
 
 /* Class = "NSButtonCell"; title = "Set Keka as the default uncompressor"; ObjectID = "184"; */
-"184.title" = "設為預設的 壓縮/解壓縮 工具";
+"184.title" = "Встановити Keka як декомпресор за умовчанням";
 
 /* Class = "NSButtonCell"; title = "Close Keka when no windows are open"; ObjectID = "187"; */
-"187.title" = "當所有視窗關閉時，也關閉 Keka";
+"187.title" = "Закрити Keka, коли немає відкритих вікон";
 
 /* Class = "NSBox"; title = "Actions"; ObjectID = "191"; */
-"191.title" = "操作";
+"191.title" = "Дії";
 
 /* Class = "NSTextFieldCell"; title = "Automatic action: Keka will decide whether to compress or uncompress based on file format and extension"; ObjectID = "194"; */
-"194.title" = "自動判斷操作: Keka 檔案副檔名決定壓縮或解壓縮。";
+"194.title" = "Автоматична дія: Keka вирішить, чи слід стискати або розпаковувати файли на основі формату файлу та розширення";
 
 /* Class = "NSMenuItem"; title = "Always extract"; ObjectID = "197"; */
-"197.title" = "總是解壓縮";
+"197.title" = "Завжди розпаковувати";
 
 /* Class = "NSMenuItem"; title = "Always compress"; ObjectID = "198"; */
-"198.title" = "總是壓縮";
+"198.title" = "Завжди стискати";
 
 /* Class = "NSMenuItem"; title = "Perform automatic action"; ObjectID = "199"; */
-"199.title" = "自動判斷操作";
+"199.title" = "Виконати автоматичну дію";
 
 /* Class = "NSButtonCell"; title = "Move original file(s) to Trash after compression"; ObjectID = "262"; */
-"262.title" = "壓縮完成後刪除原始檔案";
+"262.title" = "Перемістіть оригінальні файли в Кошик після стиснення";
 
 /* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "263"; */
-"263.title" = "壓縮單一檔案";
+"263.title" = "Архівувати окремо";
 
 /* Class = "NSButtonCell"; title = "Show file in Finder after compression"; ObjectID = "264"; */
-"264.title" = "壓縮完成後在 Finder 中顯示";
+"264.title" = "Показати файл у Finder після стиснення";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "265"; */
-"265.title" = "排除 Mac 系統檔案 (例如: .DS_Store)";
+"265.title" = "Виключити ресурси Mac (наприклад: .DS_Store)";
 
 /* Class = "NSBox"; title = "Name and location"; ObjectID = "270"; */
-"270.title" = "名稱和位置";
+"270.title" = "Назва та розташування";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "276"; */
-"276.placeholderString" = "自訂名稱";
+"276.placeholderString" = "Тут ваша власна назва";
 
 /* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "279"; */
-"279.title" = "每次都詢問";
+"279.title" = "Запитувати кожен раз";
 
 /* Class = "NSMenuItem"; title = "Next to original file"; ObjectID = "280"; */
-"280.title" = "與原始檔案相同檔案夾";
+"280.title" = "Поруч із оригінальним файлом";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "281"; */
-"281.title" = "自訂檔案夾...";
+"281.title" = "Власна папка ...";
 
 /* Class = "NSTextFieldCell"; title = "Save to location:"; ObjectID = "282"; */
-"282.title" = "儲存位置:";
+"282.title" = "Зберегти в місці:";
 
 /* Class = "NSTextFieldCell"; title = "Name of new files:"; ObjectID = "283"; */
-"283.title" = "新檔案命名:";
+"283.title" = "Ім'я нових файлів:";
 
 /* Class = "NSMenuItem"; title = "Same as original file"; ObjectID = "286"; */
-"286.title" = "與原始檔案相同";
+"286.title" = "Така ж, як в оригінальному файлі";
 
 /* Class = "NSMenuItem"; title = "Custom name..."; ObjectID = "287"; */
-"287.title" = "自訂...";
+"287.title" = "Власна назва";
 
 /* Class = "NSToolbarItem"; label = "Compression"; ObjectID = "333"; */
-"333.label" = "壓縮";
+"333.label" = "Стиснення";
 
 /* Class = "NSToolbarItem"; paletteLabel = "Compression"; ObjectID = "333"; */
-"333.paletteLabel" = "壓縮";
+"333.paletteLabel" = "Стиснення";
 
 /* Class = "NSToolbarItem"; label = "General"; ObjectID = "334"; */
-"334.label" = "通用";
+"334.label" = "Загальні";
 
 /* Class = "NSToolbarItem"; paletteLabel = "General"; ObjectID = "334"; */
-"334.paletteLabel" = "通用";
+"334.paletteLabel" = "Головні";
 
 /* Class = "NSToolbarItem"; label = "Extraction"; ObjectID = "338"; */
-"338.label" = "解壓縮";
+"338.label" = "Розпаковування";
 
 /* Class = "NSToolbarItem"; paletteLabel = "Extraction"; ObjectID = "338"; */
-"338.paletteLabel" = "解壓縮";
+"338.paletteLabel" = "Розпаковування";
 
 /* Class = "NSBox"; title = "Location"; ObjectID = "352"; */
-"352.title" = "位置";
+"352.title" = "Розташування";
 
 /* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "357"; */
-"357.title" = "每次都詢問";
+"357.title" = "Запитувати кожен раз";
 
 /* Class = "NSMenuItem"; title = "Next to original file"; ObjectID = "358"; */
-"358.title" = "與原始檔案相同檔案夾";
+"358.title" = "Поруч із оригінальним файлом";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "359"; */
-"359.title" = "自訂檔案夾...";
+"359.title" = "Власна папка ...";
 
 /* Class = "NSTextFieldCell"; title = "Extract to location:"; ObjectID = "360"; */
-"360.title" = "解壓縮位置:";
+"360.title" = "Розпакувати до місця:";
 
 /* Class = "NSButtonCell"; title = "Show content in Finder after extraction"; ObjectID = "361"; */
-"361.title" = "解壓縮完成後在 Finder 中顯示";
+"361.title" = "Показати вміст у Finder після розпаковування";
 
 /* Class = "NSButtonCell"; title = "Move compressed file(s) to Trash after extraction"; ObjectID = "362"; */
-"362.title" = "壓縮完成後刪除原始檔案";
+"362.title" = "Перемістити стислі файли до Кошика після розпаковування";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "418"; */
-"418.title" = "無";
+"418.title" = "Немає";
 
 /* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "419"; */
-"419.title" = "預設壓縮";
+"419.title" = "Стандартне стиснення";
 
 /* Class = "NSMenuItem"; title = "Default extraction"; ObjectID = "432"; */
-"432.title" = "預設解壓縮";
+"432.title" = "Розпаковування за замовчуванням";
 
 /* Class = "NSTextFieldCell"; title = "Play a sound after an extraction:"; ObjectID = "433"; */
-"433.title" = "解壓縮完成播放通知音效:";
+"433.title" = "Відтворення звуку після розпакування:";
 
 /* Class = "NSTextFieldCell"; title = "Play a sound after a compression:"; ObjectID = "436"; */
-"436.title" = "壓縮完成播放通知音效:";
+"436.title" = "Відтворення звуку після стиснення:";
 
 /* Class = "NSMenuItem"; title = "Default extraction"; ObjectID = "439"; */
-"439.title" = "預設解壓縮";
+"439.title" = "Розпаковування за замовчуванням";
 
 /* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "452"; */
-"452.title" = "預設壓縮";
+"452.title" = "Стандартне стиснення";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "453"; */
-"453.title" = "無";
+"453.title" = "Немає";
 
 /* Class = "NSTextFieldCell"; title = "You can also customize the access below:"; ObjectID = "5B7-Sc-wp0"; */
-"5B7-Sc-wp0.title" = "您可以在以下選項中自訂取用權限：";
+"5B7-Sc-wp0.title" = "Також можна налаштувати доступ нижче:";
 
 /* Class = "NSToolbarItem"; label = "File Access"; ObjectID = "5eC-d6-04X"; */
-"5eC-d6-04X.label" = "檔案取用";
+"5eC-d6-04X.label" = "Доступ до файлів";
 
 /* Class = "NSToolbarItem"; paletteLabel = "File Access"; ObjectID = "5eC-d6-04X"; */
-"5eC-d6-04X.paletteLabel" = "檔案取用";
+"5eC-d6-04X.paletteLabel" = "Доступ до файлів";
 
 /* Class = "NSButtonCell"; title = "Enable home folder access"; ObjectID = "DL5-wY-cqc"; */
-"DL5-wY-cqc.title" = "啟用首頁檔案夾的取用權限";
+"DL5-wY-cqc.title" = "Увімкнути доступ до домашньої папки";
 
 /* Class = "NSTextFieldCell"; title = "Here you can choose the folders you want to give access to Keka. Note that Keka can't be used where it has no access. If needed, Keka will ask for specific folder access."; ObjectID = "GDf-ZS-dTs"; */
-"GDf-ZS-dTs.title" = "Here you can choose the folders you want to give access to Keka. Note that Keka can't be used where it has no access. If needed, Keka will ask for specific folder access.";
+"GDf-ZS-dTs.title" = "Тут ви можете вибрати папки, яким ви хочете надати доступ до Keka. Кека не може використовуватися там, де програма немає доступу. Якщо потрібно, Keka попросить спеціальний доступ до папки.";
 
 /* Class = "NSButtonCell"; title = "Enable full Mac access (Recommended)"; ObjectID = "IHj-ac-103"; */
-"IHj-ac-103.title" = "啟用完整 Mac 取用權限 (建議)";
+"IHj-ac-103.title" = "Увімкнути повний доступ до Mac (рекомендовано)";
 
 /* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive:"; ObjectID = "JxT-Nq-8Z5"; */
-"JxT-Nq-8Z5.title" = "啟用外接卷宗取用權限後，Keka 即可取用使用USB或Thunderbolt的外接硬碟：";
+"JxT-Nq-8Z5.title" = "Увімкніть доступ до зовнішніх томів, тоді Keka може використовуватися з зовнішніми дисками, наприклад, USB-накопичувачем або пристроєм Thunderbolt:";
 
 /* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder:"; ObjectID = "PD2-iW-BGK"; */
-"PD2-iW-BGK.title" = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder:";
+"PD2-iW-BGK.title" = "Увімкніть домашній доступ, тоді Кека може використовуватися на всіх ваших файлах користувача, наприклад у вашій папці Робочий стіл або Завантаження:";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
-"SOL-6U-5P9.title" = "啟用通知中心集合";
+"SOL-6U-5P9.title" = "Увімкнути інтеграцію із Центром Повідомлень";
 
 /* Class = "NSTextFieldCell"; title = "Enable full Mac access so Keka can be used on all your Mac:"; ObjectID = "ZOx-vr-5o7"; */
-"ZOx-vr-5o7.title" = "Enable full Mac access so Keka can be used on all your Mac:";
+"ZOx-vr-5o7.title" = "Увімкніть повний доступ до Mac, тоді Кека можна використовувати на всіх Mac-комп'ютерах:";
 
 /* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "b5e-bj-Pgz"; */
-"b5e-bj-Pgz.title" = "使用統一工具列 (重設個人設定)";
+"b5e-bj-Pgz.title" = "Використовувати уніфіковану панель інструментів (скидаються налаштування)";
 
 /* Class = "NSButtonCell"; title = "Use AES-256 when encrypting ZIP files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
-"hp7-jO-HeV.title" = "Use AES-256 when encrypting ZIP files (less compatible)";
+"hp7-jO-HeV.title" = "Використовувати AES-256 під час шифрування файлів ZIP (менш сумісні)";
 
 /* Class = "NSButtonCell"; title = "Enable external volumes access"; ObjectID = "sgV-AD-k4Q"; */
-"sgV-AD-k4Q.title" = "啟用外接卷宗取用";
+"sgV-AD-k4Q.title" = "Увімкнути доступ до зовнішніх томів";

@@ -9,8 +9,8 @@
 */
 
 // Top-level, general application description:
-"ApplicationDescription" = "To Keka είναι πρόγραμμα αρχειοθέτησης για το λειτουργικό σύστημα macOS.";
+"ApplicationDescription" = "Keka це архіватор файлів для macOS.";
 
 // Software update connection:
-"SoftwareUpdatePurpose" = "Το Keka ελέγχει για νέες εκδόσεις, συνδέεται στο  u(pdate).keka.io.";
-"SoftwareUpdateDenyConsequences" = "Εάν ακυρώσετε τη σύνδεση αυτή, δε θα ενημερωθείτε για νέες εκδόσεις του Keka.";
+"SoftwareUpdatePurpose" = "Keka перевіряє нові версії підключенням до u(pdate).keka.io.";
+"SoftwareUpdateDenyConsequences" = "Якщо ви заперечуєте це з'єднання, ви не будете повідомлені про нові версії Keka.";
