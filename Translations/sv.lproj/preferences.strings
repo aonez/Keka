@@ -53,7 +53,7 @@
 /* Class = "NSButtonCell"; title = "Move original file(s) to Trash after compression"; ObjectID = "262"; */
 "262.title" = "Flytta originalfil(er) till papperskorg efter komprimering";
 
-/* Class = "NSButtonCell"; title = "Archive as single files"; ObjectID = "263"; */
+/* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "263"; */
 "263.title" = "Arkivera som enstaka filer";
 
 /* Class = "NSButtonCell"; title = "Show file in Finder after compression"; ObjectID = "264"; */
