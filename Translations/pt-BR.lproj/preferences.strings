@@ -54,7 +54,7 @@
 "262.title" = "Mover arquivo original para o Lixo após comprimir";
 
 /* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "263"; */
-"263.title" = "Comprimir em arquivos separados";
+"263.title" = "Comprimir itens separadamente";
 
 /* Class = "NSButtonCell"; title = "Show file in Finder after compression"; ObjectID = "264"; */
 "264.title" = "Mostrar no Finder após comprimir";
