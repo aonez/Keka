@@ -1,0 +1,43 @@
+// Usually leave this one in English
+"NSHumanReadableCopyright" = "Copyright © 2009-2019 aONe";
+
+/* File types */
+"7Z Archive" = "7Z Архів";
+"LZMA Archive" = "LZMA Архів";
+"LZOP Archive" = "LZOP Архів";
+"LZOP Tarball Archive" = "LZOP Tarball Архів";
+"LZIP Archive" = "LZIP Архів";
+"LZIP Tarball Archive" = "LZIP Tarball Архів";
+"ZIP Archive" = "ZIP Архів";
+"ZIPX Archive" = "ZIPX Архів";
+"XZ Archive" = "XZ Архів";
+"XZ Tarball Archive" = "XZ Tarball Архів";
+"RAR Archive" = "RAR Архів";
+"RAR Legacy Archive Volume" = "RAR Архів Старого Формату";
+"Generic Archive Volume" = "Том Архіву";
+"BZIP2 Archive" = "BZIP2 Архів";
+"BZIP2 Tarball Archive" = "BZIP2 Tarball Архів";
+"BZIP Archive" = "BZIP Архів";
+"BZIP Tarball Archive" = "BZIP Tarball Архів";
+"GZIP Archive" = "GZIP Архів";
+"GZIP Tarball Archive" = "GZIP Tarball Архів";
+"TAR Archive" = "TAR Архів";
+"CPIO Archive" = "CPIO Архів";
+"CPGZ Archive" = "CPGZ Архів";
+"PAX Archive" = "PAX Архів";
+"DMG Disk Image" = "DMG Образ Диску";
+"ISO Disk Image" = "ISO Образ Диску";
+"LHA Archive" = "LHA Архів";
+"Windows EXE File" = "Файл Windows EXE";
+"Window Cabinet File" = "Файл Window Cabinet";
+"WIM Disk Image" = "WIM Образ Диску";
+"Comic Book RAR Archive" = "Comic Book RAR Архів";
+"Comic Book ZIP Archive" = "Comic Book ZIP Архів";
+"iOS App" = "iOS Програма";
+"JAR Archive" = "JAR Архів";
+"WAR Archive" = "WAR Архів";
+"Android Application Package" = "Android Application Package";
+"Cross-Platform Installer Module (XPI)" = "Cross-Platform Installer Module (XPI)";
+"APPX Archive" = "APPX Архів";
+"Safari extension" = "Safari extension";
+"Keka WorkFlow" = "Keka ВоркФлоу";
