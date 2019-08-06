@@ -29,7 +29,7 @@
 "ISO Disk Image" = "ISO-skivavbild";
 "LHA Archive" = "LHA-arkiv";
 "Windows EXE File" = "Windows EXE-fil";
-"Window Cabinet File" = "Window Cabinet-Fit";
+"Windows Cabinet File" = "Windows Cabinet-Fit";
 "WIM Disk Image" = "WIM-skivavbild";
 "Comic Book RAR Archive" = "Comic Book RAR-arkiv";
 "Comic Book ZIP Archive" = "Comic Book ZIP-arkiv";
@@ -39,4 +39,5 @@
 "Android Application Package" = "Android-programpaket";
 "Cross-Platform Installer Module (XPI)" = "Cross-Platform Installer Module (XPI)";
 "APPX Archive" = "APPX-arkiv";
+"Safari extension" = "Safari extension";
 "Keka WorkFlow" = "Keka-arbetsflöde";
