@@ -29,7 +29,7 @@
 "ISO Disk Image" = "ISO Disk İmajı";
 "LHA Archive" = "LHA Arşivi";
 "Windows EXE File" = "Windows EXE Dosyası";
-"Window Cabinet File" = "Pencere Dolabı Dosyası";
+"Windows Cabinet File" = "Windows Dolabı Dosyası";
 "WIM Disk Image" = "WIM Disk İmajı";
 "Comic Book RAR Archive" = "Çizgi Roman RAR Arşivi";
 "Comic Book ZIP Archive" = "Çizgi Roman ZIP Arşivi";
@@ -39,4 +39,5 @@
 "Android Application Package" = "Android Uygulama Paketi";
 "Cross-Platform Installer Module (XPI)" = "Cross-Platform Installer Module (XPI)";
 "APPX Archive" = "APPX Arşivi";
+"Safari extension" = "Safari extension";
 "Keka WorkFlow" = "Keka İş Akışı";

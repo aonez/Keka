@@ -29,7 +29,7 @@
 "ISO Disk Image" = "ISO lemezkép";
 "LHA Archive" = "LHA archívum";
 "Windows EXE File" = "Windows EXE File";
-"Window Cabinet File" = "Window Cabinet File";
+"Windows Cabinet File" = "Windows Cabinet File";
 "WIM Disk Image" = "WIM lemezkép";
 "Comic Book RAR Archive" = "Comic Book RAR archívum";
 "Comic Book ZIP Archive" = "Comic Book ZIP archívum";
@@ -39,4 +39,5 @@
 "Android Application Package" = "Android Application Package";
 "Cross-Platform Installer Module (XPI)" = "Cross-Platform Installer Module (XPI)";
 "APPX Archive" = "APPX archívum";
+"Safari extension" = "Safari extension";
 "Keka WorkFlow" = "Keka munkafolyamat";
