@@ -42,7 +42,7 @@
 "2189.title" = "Você pode criar um volume DMG somente leitura e comprimido.\n\nEscolha um nome para o DMG ou use o nome padrão baseado nos arquivos que serão comprimidos.";
 
 /* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "2221"; */
-"2221.title" = "Comprimir em arquivos separados";
+"2221.title" = "Comprimir itens separadamente";
 
 /* Class = "NSButtonCell"; title = "Delete file(s) after compression"; ObjectID = "2222"; */
 "2222.title" = "Apagar original após comprimir";

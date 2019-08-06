@@ -29,7 +29,7 @@
 "ISO Disk Image" = "ISO 磁盘映像";
 "LHA Archive" = "LHA 归档";
 "Windows EXE File" = "Windows 可执行文件";
-"Window Cabinet File" = "Window Cab 文件";
+"Windows Cabinet File" = "Windows Cab 文件";
 "WIM Disk Image" = "WIM 磁盘映像";
 "Comic Book RAR Archive" = "漫画书 RAR（CBR）归档";
 "Comic Book ZIP Archive" = "漫画书 ZIP（CBZ）归档";
@@ -39,4 +39,5 @@
 "Android Application Package" = "Android 应用程序";
 "Cross-Platform Installer Module (XPI)" = "跨平台安装模块（XPI）";
 "APPX Archive" = "APPX 归档";
+"Safari extension" = "Safari extension";
 "Keka WorkFlow" = "Keka 工作流";
