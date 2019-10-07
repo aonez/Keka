@@ -7,6 +7,11 @@ $content_language_locale = "tr";
 // Translated by Baris Kayadelen (baris@kayadelen.com)
 //
 //
+// Set $show_content_bottom_translator as true if you want to appear in the bottom of the page
+$show_content_bottom_translator = false;
+$content_bottom_translator = 'Translated by <a href="https://yoursite.or.email.or.whatever">Yourself</a>.';
+//
+//
 
 // General
 $content_download = "İndir";

@@ -7,6 +7,11 @@ $content_language_locale = "bg";
 // Translated by Deyan Marinov (https://github.com/deyanm)
 //
 //
+// Set $show_content_bottom_translator as true if you want to appear in the bottom of the page
+$show_content_bottom_translator = true;
+$content_bottom_translator = 'Превод на български: <a href="https://github.com/deyanm">Деян Маринов</a>.';
+//
+//
 
 // General
 $content_download = "Свали";
@@ -65,6 +70,6 @@ $content_404_start = "Можете да отидете на <a href=\"https://ww
 $content_404_more = "или искаш това?";
 
 // Bottom info
-$content_bottom_copying = 'Всички права запазени. Превод на български: <a href="https://github.com/deyanm">Деян Маринов</a>';
+$content_bottom_copying = 'Всички права запазени.';
 
 ?>

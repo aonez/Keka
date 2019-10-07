@@ -7,6 +7,11 @@ $content_language_locale = "nb";
 // Translated by 16patsle
 //
 //
+// Set $show_content_bottom_translator as true if you want to appear in the bottom of the page
+$show_content_bottom_translator = true;
+$content_bottom_translator = 'Oversatt av <a href="https://github.com/16patsle">Patrick Sletvold</a>.';
+//
+//
 
 // General
 $content_download = "Last ned";
@@ -65,6 +70,6 @@ $content_404_start = "Du kan gå til <a href=\"https://www.keka.io\">forsiden</a
 $content_404_more = "eller kanskje du vil dette?";
 
 // Bottom info
-$content_bottom_copying = 'Alle rettigheter forbeholdt. Oversatt av <a href="https://github.com/16patsle">Patrick Sletvold</a>';
+$content_bottom_copying = 'Alle rettigheter forbeholdt.';
 
 ?>
