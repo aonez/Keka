@@ -7,6 +7,11 @@ $content_language_locale = "zh-cn";
 // Translated by Max Sky (admin@maxsky.cc)
 //
 //
+// Set $show_content_bottom_translator as true if you want to appear in the bottom of the page
+$show_content_bottom_translator = true;
+$content_bottom_translator = '由 <a href="https://www.maxsky.cc">Max Sky</a> 翻译.';
+//
+//
 
 // General
 $content_download = "下载";
@@ -65,6 +70,6 @@ $content_404_start = "您可以访问 <a href=\"https://www.keka.io\">首页</a>
 $content_404_more = "或许您想这样？";
 
 // Bottom info
-$content_bottom_copying = '版权所有. 由 <a href="https://www.maxsky.cc">Max Sky</a> 翻译.';
+$content_bottom_copying = '版权所有.';
 
 ?>

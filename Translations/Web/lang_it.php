@@ -7,6 +7,11 @@ $content_language_locale = "it";
 // Translated by VinBoiSoft (vinboisoft@yahoo.it)
 //
 //
+// Set $show_content_bottom_translator as true if you want to appear in the bottom of the page
+$show_content_bottom_translator = true;
+$content_bottom_translator = 'Tradotto da <a href="http://vinboisoft.altervista.org/">VinBoiSoft</a>.';
+//
+//
 
 // General
 $content_download = "Scarica";
@@ -65,6 +70,6 @@ $content_404_start = "Puoi andare alla <a href=\"https://www.keka.io/it\">pagina
 $content_404_more = "o forse stavi cercando questo?";
 
 // Bottom info
-$content_bottom_copying = 'Tutti i diritti riservati. Tradotto da <a href="http://vinboisoft.altervista.org/">VinBoiSoft</a>.';
+$content_bottom_copying = 'Tutti i diritti riservati.';
 
 ?>

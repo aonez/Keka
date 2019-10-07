@@ -7,6 +7,11 @@ $content_language_locale = "uk";
 // Translated by fluder (fluder@icloud.com)
 //
 //
+// Set $show_content_bottom_translator as true if you want to appear in the bottom of the page
+$show_content_bottom_translator = true;
+$content_bottom_translator = 'Переклав <a href="https://fsnot.es">Олександр Глущенко</a>.';
+//
+//
 
 // General
 $content_download = "Завантажити";
@@ -65,6 +70,6 @@ $content_404_start = "Вы можете перейти на <a href=\"https://ww
 $content_404_more = "або, може, ви шукаєте це?";
 
 // Bottom info
-$content_bottom_copying = 'Всі права захищені. Переклав <a href="https://fsnot.es">Олександр Глущенко</a>';
+$content_bottom_copying = 'Всі права захищені.';
 
 ?>
