@@ -7,6 +7,11 @@ $content_language_locale = "en";
 // Translated by aone (aone@keka.io)
 //
 //
+// Set $show_content_bottom_translator as true if you want to appear in the bottom of the page
+$show_content_bottom_translator = false;
+$content_bottom_translator = 'Translated by <a href="https://yoursite.or.email.or.whatever">Yourself</a>.';
+//
+//
 
 // General
 $content_download = "Download";
