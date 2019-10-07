@@ -7,6 +7,11 @@ $content_language_locale = "pt-br";
 // Translated by BR Lingo (contact@brlingo.com)
 //
 //
+// Set $show_content_bottom_translator as true if you want to appear in the bottom of the page
+$show_content_bottom_translator = true;
+$content_bottom_translator = 'Tradução: <a href="https://brlingo.com">BR Lingo</a>.';
+//
+//
 
 // General
 $content_download = "Baixar";
@@ -65,6 +70,6 @@ $content_404_start = "Visite a <a href=\"https://www.keka.io/pt\">página princi
 $content_404_more = "Talvez você queira ↓";
 
 // Bottom info
-$content_bottom_copying = 'Todos os direitos reservados. Tradução: <a href="https://brlingo.com">BR Lingo</a>.';
+$content_bottom_copying = 'Todos os direitos reservados.';
 
 ?>

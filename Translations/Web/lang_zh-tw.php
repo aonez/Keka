@@ -6,6 +6,11 @@ $content_language_locale = "zh-tw";
 // Translated by Tsung-Han Yu
 //
 //
+// Set $show_content_bottom_translator as true if you want to appear in the bottom of the page
+$show_content_bottom_translator = true;
+$content_bottom_translator = '由 <a href="https://github.com/johan456789">Tsung-Han Yu</a> 翻譯.';
+//
+//
 
 // General
 $content_download = "下載";
@@ -64,6 +69,6 @@ $content_404_start = "您可以訪問 <a href=\"https://www.keka.io\">首頁</a>
 $content_404_more = "或許您想這樣？";
 
 // Bottom info
-$content_bottom_copying = '版權所有. 由 <a href="https://github.com/johan456789">Tsung-Han Yu</a> 翻譯.';
+$content_bottom_copying = '版權所有.';
 
 ?>
