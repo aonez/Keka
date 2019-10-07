@@ -1,0 +1,43 @@
+// Usually leave this one in English
+"NSHumanReadableCopyright" = "Copyright © 2009-2019 aONe";
+
+/* File types */
+"7Z Archive" = "7Z Archive";
+"LZMA Archive" = "LZMA Archive";
+"LZOP Archive" = "LZOP Archive";
+"LZOP Tarball Archive" = "LZOP Tarball Archive";
+"LZIP Archive" = "LZIP Archive";
+"LZIP Tarball Archive" = "LZIP Tarball Archive";
+"ZIP Archive" = "ZIP Archive";
+"ZIPX Archive" = "ZIPX Archive";
+"XZ Archive" = "XZ Archive";
+"XZ Tarball Archive" = "XZ Tarball Archive";
+"RAR Archive" = "RAR Archive";
+"RAR Legacy Archive Volume" = "RAR Legacy Archive Volume";
+"Generic Archive Volume" = "Generic Archive Volume";
+"BZIP2 Archive" = "BZIP2 Archive";
+"BZIP2 Tarball Archive" = "BZIP2 Tarball Archive";
+"BZIP Archive" = "BZIP Archive";
+"BZIP Tarball Archive" = "BZIP Tarball Archive";
+"GZIP Archive" = "GZIP Archive";
+"GZIP Tarball Archive" = "GZIP Tarball Archive";
+"TAR Archive" = "TAR Archive";
+"CPIO Archive" = "CPIO Archive";
+"CPGZ Archive" = "CPGZ Archive";
+"PAX Archive" = "PAX Archive";
+"DMG Disk Image" = "DMG Disk Image";
+"ISO Disk Image" = "ISO Disk Image";
+"LHA Archive" = "LHA Archive";
+"Windows EXE File" = "Windows EXE File";
+"Windows Cabinet File" = "Windows Cabinet File";
+"WIM Disk Image" = "WIM Disk Image";
+"Comic Book RAR Archive" = "Comic Book RAR Archive";
+"Comic Book ZIP Archive" = "Comic Book ZIP Archive";
+"iOS App" = "iOS App";
+"JAR Archive" = "JAR Archive";
+"WAR Archive" = "WAR Archive";
+"Android Application Package" = "Android Application Package";
+"Cross-Platform Installer Module (XPI)" = "Cross-Platform Installer Module (XPI)";
+"APPX Archive" = "APPX Archive";
+"Safari extension" = "Tiện ích mở rộng Safari";
+"Keka WorkFlow" = "Keka WorkFlow";
