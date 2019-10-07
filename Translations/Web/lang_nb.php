@@ -3,11 +3,12 @@
 //
 //
 // Language: Norwegian Bokmål
+$content_language_locale = "nb";
 // Translated by 16patsle
 //
 //
-// General
 
+// General
 $content_download = "Last ned";
 $content_issues = "Feil";
 $content_help = "Hjelp";
