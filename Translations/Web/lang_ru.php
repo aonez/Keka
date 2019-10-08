@@ -7,6 +7,11 @@ $content_language_locale = "ru";
 // Translated by NickKaramoff (nick@karamoff.ru)
 //
 //
+// Set $show_content_bottom_translator as true if you want to appear in the bottom of the page
+$show_content_bottom_translator = true;
+$content_bottom_translator = 'Перевёл <a href="https://karamoff.ru">Никита Карамов</a>.';
+//
+//
 
 // General
 $content_download = "Скачать";
@@ -65,6 +70,6 @@ $content_404_start = "Вы можете перейти на <a href=\"https://ww
 $content_404_more = "или, может, вы ищете это?";
 
 // Bottom info
-$content_bottom_copying = 'Все права защищены. Перевёл <a href="https://karamoff.ru">Никита Карамов</a>';
+$content_bottom_copying = 'Все права защищены.';
 
 ?>
