@@ -8,6 +8,11 @@ $content_language_locale = "pt-pt";
 // Translated by Rogério Moreira (r@rgllm.com)
 //
 //
+// Set $show_content_bottom_translator as true if you want to appear in the bottom of the page
+$show_content_bottom_translator = true;
+$content_bottom_translator = 'Tradução: <a href="https://rgllm.com">Rogério Moreira</a> & <a href="https://brlingo.com">BR Lingo</a>.';
+//
+//
 
 // General
 $content_download = "Descarregar";
@@ -66,6 +71,6 @@ $content_404_start = "Visite a <a href=\"https://www.keka.io/pt\">página princi
 $content_404_more = "Talvez queira ↓";
 
 // Bottom info
-$content_bottom_copying = 'Todos os direitos reservados. Tradução: <a href="https://rgllm.com">Rogério Moreira</a> & <a href="https://brlingo.com">BR Lingo</a>.';
+$content_bottom_copying = 'Todos os direitos reservados.';
 
 ?>
