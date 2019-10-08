@@ -174,7 +174,7 @@
 "JxT-Nq-8Z5.title" = "Ative o acesso a volumes externos para usar o Keka em discos externos, como discos USB ou Thunderbolt:";
 
 /* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder:"; ObjectID = "PD2-iW-BGK"; */
-"PD2-iW-BGK.title" = "Ative o acesso à pasta pessoal para usar o Keka em todos os seus arquivos de usuário, como arquivos nas pastas Mesa e Transferências:";
+"PD2-iW-BGK.title" = "Ative o acesso à pasta pessoal para usar o Keka em todos os seus arquivos de usuário, como arquivos nas pastas Mesa e Downloads:";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "Ativar integração com a Central de Notificações";
