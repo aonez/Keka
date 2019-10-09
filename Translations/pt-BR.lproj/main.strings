@@ -21,7 +21,7 @@
 "K4O-VW-7FA.title" = "Buscar Atualizações";
 
 /* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "KcM-nz-gqf"; */
-"KcM-nz-gqf.title" = "Ampliar/Reduzir";
+"KcM-nz-gqf.title" = "Zoom";
 
 /* Class = "NSMenuItem"; title = "Print…"; ObjectID = "M2y-gZ-kEG"; */
 "M2y-gZ-kEG.title" = "Imprimir…";
