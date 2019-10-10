@@ -1,7 +1,8 @@
 "_BASE_USED_" = "ja";
 /* Use the _ADVANCED_EXTRA_WIDTH_ (if needed) to fit the method description properly */
 "_ADVANCED_EXTRA_WIDTH_" = "0.0";
-/* "_PREFERENCES_EXTRA_WIDTH_" = "0.0"; */
+/* Use the _PREFERENCES_EXTRA_WIDTH_ (if needed) to fit the action to perform description properly */
+"_PREFERENCES_EXTRA_WIDTH_" = "0.0";
 "OK" = "OK";
 "Done" = "OK";
 "Yes" = "はい";
