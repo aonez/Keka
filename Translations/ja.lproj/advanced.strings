@@ -117,7 +117,7 @@
 "L2I-Q8-zqc.title" = "ファイル名を暗号化する";
 
 /* Class = "NSButtonCell"; title = "Use AES-256 encryption"; ObjectID = "Lw7-h9-3Qh"; */
-"Lw7-h9-3Qh.title" = "Use AES-256 encryption";
+"Lw7-h9-3Qh.title" = "AES-256暗号化を使用する";
 
 /* Class = "NSButtonCell"; title = "Solid archive"; ObjectID = "UYy-aQ-V1a"; */
 "UYy-aQ-V1a.title" = "ソリッド圧縮";
