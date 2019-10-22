@@ -12,5 +12,5 @@
 "ApplicationDescription" = "Keka is a file archiver for macOS.";
 
 // Software update connection:
-"SoftwareUpdatePurpose" = "Keka checks for new versions connecting to u(pdate).keka.io.";
-"SoftwareUpdateDenyConsequences" = "If you deny this connection, you will not be notified about new versions of Keka.";
+"SoftwareUpdatePurpose" = "Keka checks for new versions connecting to u(pdate).keka.io. Kekaは新しいバージョンを確認するために u(pdate).keka.io に接続します。";
+"SoftwareUpdateDenyConsequences" = "もしこの接続を拒否する場合、Kekaの新しいバージョンについての通知がされません。";
