@@ -9,7 +9,7 @@ $content_language_locale = "ja";
 //
 // Set $show_content_bottom_translator as true if you want to appear in the bottom of the page
 $show_content_bottom_translator = true;
-$content_bottom_translator = '翻訳: <a href="https://github.com/munex-com">munex-com</a>';
+$content_bottom_translator = '翻訳: <a href="https://github.com/munex-com">munex-com</a>.';
 //
 //
 
