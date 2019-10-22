@@ -44,7 +44,7 @@ $content_beta_up = "最新版を取得する";
 // Legacy
 $content_plataform_legacy =  "$version_replace 向け";
 $content_legacy_title = "Kekaの過去のバージョン";
-$content_legacy_text = '年が経つにつれてあなたのMacは古くなり、Kekaの最新版をサポートしなくなります。<br />でも安心してください<i class="fa fa-coffee" aria-hidden="true">、古いバージョンはここにあります。</i>, ';
+$content_legacy_text = '年が経つにつれてあなたのMacは古くなり、Kekaの最新版をサポートしなくなります。<br />でも安心してください<i class="fa fa-coffee" aria-hidden="true"></i>、古いバージョンはここにあります。';
 
 // Info
 $content_info_title1 = "とてもシンプルで、とても強力";
