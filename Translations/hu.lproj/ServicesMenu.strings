@@ -1,4 +1,4 @@
-﻿/* Services */
-"Keka/Send to Keka" = "Keka/Send to Keka";
-"Keka/Extract using Keka" = "Keka/Extract using Keka";
-"Keka/Compress using Keka" = "Keka/Compress using Keka";
+﻿/* Szolgáltatások */
+"Keka/Send to Keka" = "Keka/Küldés a Keka-ba";
+"Keka/Extract using Keka" = "Keka/Kicsomagolás Keka-val";
+"Keka/Compress using Keka" = "Keka/Tömörítés Keka-val";

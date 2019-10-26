@@ -1,7 +1,7 @@
 // Usually leave this one in English
 "NSHumanReadableCopyright" = "Copyright © 2009-2019 aONe";
 
-/* File types */
+/* Fájltípusok */
 "7Z Archive" = "7Z archívum";
 "LZMA Archive" = "LZMA archívum";
 "LZOP Archive" = "LZOP archívum";
@@ -13,8 +13,8 @@
 "XZ Archive" = "XZ archívum";
 "XZ Tarball Archive" = "XZ tömörített TAR archívum";
 "RAR Archive" = "RAR archívum";
-"RAR Legacy Archive Volume" = "RAR Legacy Archive Volume";
-"Generic Archive Volume" = "Generic Archive Volume";
+"RAR Legacy Archive Volume" = "RAR örökölt kötet archívum";
+"Generic Archive Volume" = "Általános kötet archívum";
 "BZIP2 Archive" = "BZIP2 archívum";
 "BZIP2 Tarball Archive" = "BZIP2 tömörített TAR archívum";
 "BZIP Archive" = "BZIP archívum";
@@ -28,16 +28,16 @@
 "DMG Disk Image" = "DMG lemezkép";
 "ISO Disk Image" = "ISO lemezkép";
 "LHA Archive" = "LHA archívum";
-"Windows EXE File" = "Windows EXE File";
-"Windows Cabinet File" = "Windows Cabinet File";
+"Windows EXE File" = "Windows EXE fájl";
+"Windows Cabinet File" = "Windows Cabinet fájl";
 "WIM Disk Image" = "WIM lemezkép";
-"Comic Book RAR Archive" = "Comic Book RAR archívum";
-"Comic Book ZIP Archive" = "Comic Book ZIP archívum";
+"Comic Book RAR Archive" = "Képregény RAR archívum";
+"Comic Book ZIP Archive" = "Képregény ZIP archívum";
 "iOS App" = "iOS-alkalmazás";
 "JAR Archive" = "JAR archívum";
 "WAR Archive" = "WAR archívum";
 "Android Application Package" = "Android Application Package";
 "Cross-Platform Installer Module (XPI)" = "Cross-Platform Installer Module (XPI)";
 "APPX Archive" = "APPX archívum";
-"Safari extension" = "Safari extension";
+"Safari extension" = "Safari bővítmény";
 "Keka WorkFlow" = "Keka munkafolyamat";
