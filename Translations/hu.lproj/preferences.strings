@@ -153,40 +153,40 @@
 "453.title" = "Nincs";
 
 /* Class = "NSTextFieldCell"; title = "You can also customize the access below:"; ObjectID = "5B7-Sc-wp0"; */
-"5B7-Sc-wp0.title" = "You can also customize the access below:";
+"5B7-Sc-wp0.title" = "A hozzáférés alul testreszabható:";
 
 /* Class = "NSToolbarItem"; label = "File Access"; ObjectID = "5eC-d6-04X"; */
-"5eC-d6-04X.label" = "File Access";
+"5eC-d6-04X.label" = "Hozzáférés a fájlhoz";
 
 /* Class = "NSToolbarItem"; paletteLabel = "File Access"; ObjectID = "5eC-d6-04X"; */
-"5eC-d6-04X.paletteLabel" = "File Access";
+"5eC-d6-04X.paletteLabel" = "Hozzáférés a fájlhoz";
 
 /* Class = "NSButtonCell"; title = "Enable home folder access"; ObjectID = "DL5-wY-cqc"; */
-"DL5-wY-cqc.title" = "Enable home folder access";
+"DL5-wY-cqc.title" = "A kezdőkönyvtárhoz való hozzáférés engedélyezése";
 
 /* Class = "NSTextFieldCell"; title = "Here you can choose the folders you want to give access to Keka. Note that Keka can't be used where it has no access. If needed, Keka will ask for specific folder access."; ObjectID = "GDf-ZS-dTs"; */
-"GDf-ZS-dTs.title" = "Here you can choose the folders you want to give access to Keka. Note that Keka can't be used where it has no access. If needed, Keka will ask for specific folder access.";
+"GDf-ZS-dTs.title" = "Itt kiválaszthatod a mappákat, amikhez hozzáférési engedélyt adsz a Keka-nak. A Keka-t nem használhatod ott, ahol nincs engedélyezve. Ha szükséges, akkor a Keka engedélyt fog kérni bizonyos mappákhoz való hozzáféréshez.";
 
 /* Class = "NSButtonCell"; title = "Enable full Mac access (Recommended)"; ObjectID = "IHj-ac-103"; */
-"IHj-ac-103.title" = "Enable full Mac access (Recommended)";
+"IHj-ac-103.title" = "Teljes hozzáférés a Mac-hez (Javasolt)";
 
 /* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive:"; ObjectID = "JxT-Nq-8Z5"; */
-"JxT-Nq-8Z5.title" = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive:";
+"JxT-Nq-8Z5.title" = "Engedélyezze a külső kötetekez való hozzáférést, hogy ezekkel az eszözökkel, mintpélddául USB, vagy Thunderbolt tároló esetén használhassa a Keka-t:";
 
 /* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder:"; ObjectID = "PD2-iW-BGK"; */
-"PD2-iW-BGK.title" = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder:";
+"PD2-iW-BGK.title" = "Engedélyezze a kezdőkönyvtárhoz való hozzáférést, hogy a Keka-t az összes itt található fájlal használhassa, mintpéldául, amik az asztalon és a letöltések mappában találhatóak:";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
-"SOL-6U-5P9.title" = "Enable Notification Center integration";
+"SOL-6U-5P9.title" = "A értesítési közpönt integráció engedélyezése";
 
 /* Class = "NSTextFieldCell"; title = "Enable full Mac access so Keka can be used on all your Mac:"; ObjectID = "ZOx-vr-5o7"; */
-"ZOx-vr-5o7.title" = "Enable full Mac access so Keka can be used on all your Mac:";
+"ZOx-vr-5o7.title" = "Engedélyezd az egyész Mac-hez való hozzáférést, hogy a Keka az egész Mac-en használható lehessen:";
 
 /* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "b5e-bj-Pgz"; */
-"b5e-bj-Pgz.title" = "Use unified toolbar (resets customizations)";
+"b5e-bj-Pgz.title" = "Egyesített eszköztár használata (visszaállítja a testreszabásokat)";
 
 /* Class = "NSButtonCell"; title = "Use AES-256 when encrypting ZIP files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
-"hp7-jO-HeV.title" = "Use AES-256 when encrypting ZIP files (less compatible)";
+"hp7-jO-HeV.title" = "Használjon AES-256 kódolást, amikor ZIP fájlokat tömörít (kevésbé kompatibilis)";
 
 /* Class = "NSButtonCell"; title = "Enable external volumes access"; ObjectID = "sgV-AD-k4Q"; */
-"sgV-AD-k4Q.title" = "Enable external volumes access";
+"sgV-AD-k4Q.title" = "Külső kötetetkez való hozzáférés engedélyezése";

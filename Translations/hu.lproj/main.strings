@@ -24,10 +24,10 @@
 "KcM-nz-gqf.title" = "Nagyítás";
 
 /* Class = "NSMenuItem"; title = "Print…"; ObjectID = "M2y-gZ-kEG"; */
-"M2y-gZ-kEG.title" = "Print…";
+"M2y-gZ-kEG.title" = "Nyomtatás…";
 
 /* Class = "NSMenu"; title = "View"; ObjectID = "PwP-KI-Flr"; */
-"PwP-KI-Flr.title" = "View";
+"PwP-KI-Flr.title" = "Nézet";
 
 /* Class = "NSMenuItem"; title = "Save"; ObjectID = "Qst-Ya-feO"; */
 "Qst-Ya-feO.title" = "Mentés";
@@ -60,7 +60,7 @@
 "bMs-9b-T4a.title" = "Törlés";
 
 /* Class = "NSMenuItem"; title = "View"; ObjectID = "f7N-ob-xwH"; */
-"f7N-ob-xwH.title" = "View";
+"f7N-ob-xwH.title" = "Nézet";
 
 /* Class = "NSMenu"; title = "Edit"; ObjectID = "gy4-dO-Qdu"; */
 "gy4-dO-Qdu.title" = "Szerkesztés";
