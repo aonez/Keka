@@ -1,75 +1,75 @@
 
 /* Class = "NSMenuItem"; title = "Perform automatic action"; ObjectID = "943"; */
-"943.title" = "自動";
+"943.title" = "Thực hiện tác vụ tự động";
 
 /* Class = "NSMenuItem"; title = "Always compress"; ObjectID = "944"; */
-"944.title" = "常に圧縮する";
+"944.title" = "Luôn luôn nén";
 
 /* Class = "NSMenuItem"; title = "Always extract"; ObjectID = "945"; */
-"945.title" = "常に解凍する";
+"945.title" = "Luôn luôn giải nén";
 
 /* Class = "NSMenuItem"; title = "Format"; ObjectID = "947"; */
-"947.title" = "圧縮形式";
+"947.title" = "Định dạng";
 
 /* Class = "NSMenu"; title = "Format"; ObjectID = "948"; */
-"948.title" = "圧縮形式";
+"948.title" = "Định dạng";
 
 /* Class = "NSMenuItem"; title = "Method"; ObjectID = "957"; */
-"957.title" = "圧縮法";
+"957.title" = "Mức độ nén";
 
 /* Class = "NSMenu"; title = "Method"; ObjectID = "958"; */
-"958.title" = "圧縮法";
+"958.title" = "Mức độ nén";
 
 /* Class = "NSMenuItem"; title = "No compression"; ObjectID = "960"; */
-"960.title" = "圧縮しない";
+"960.title" = "Không nén";
 
 /* Class = "NSMenuItem"; title = "Fastest, less compression"; ObjectID = "961"; */
-"961.title" = "最も早い、圧縮率は最も低い";
+"961.title" = "Nhanh nhất, nén ít";
 
 /* Class = "NSMenuItem"; title = "Fast, less compression"; ObjectID = "962"; */
-"962.title" = "早い、圧縮率は低い";
+"962.title" = "Nhanh, nén ít";
 
 /* Class = "NSMenuItem"; title = "Normal"; ObjectID = "963"; */
-"963.title" = "通常";
+"963.title" = "Bình thường";
 
 /* Class = "NSMenuItem"; title = "Slow, more compression"; ObjectID = "964"; */
-"964.title" = "遅い、圧縮率は高い";
+"964.title" = "Chậm, nén nhiều";
 
 /* Class = "NSMenuItem"; title = "Slowest, more compression"; ObjectID = "965"; */
-"965.title" = "最も遅い、圧縮率は最も高い";
+"965.title" = "Chậm nhất, nén nhiều";
 
 /* Class = "NSTextFieldCell"; title = "You can create a DMG volume that will be read-only and compressed.\n\nSet a volume name to this DMG or use the default name based on the files you compress."; ObjectID = "2189"; */
-"2189.title" = "圧縮された読み取り専用の dmg ディスクイメージを作成することができます。\n\n圧縮するファイルの名前を自動に使用するもしくは dmg のボリューム名を設定することができます。";
+"2189.title" = "Bạn có thể tạo một tập DMG mà nó chỉ-đọc và được nén.\n\n Đặt tên cho tập tin DMG này hoặc sử dụng tên mặc định dựa vào các tập tin mà bạn nén.";
 
 /* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "2221"; */
-"2221.title" = "個別の圧縮ファイルを作成する";
+"2221.title" = "Lưu trữ phần tử riêng biệt";
 
 /* Class = "NSButtonCell"; title = "Delete file(s) after compression"; ObjectID = "2222"; */
-"2222.title" = "圧縮後にオリジナルファイルをゴミ箱に入れる";
+"2222.title" = "Xoá tập tin sau khi nén";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks"; ObjectID = "2244"; */
-"2244.title" = "Mac のリソースフォークを含めない";
+"2244.title" = "Lượt bỏ các tập tin quản lý của Mac";
 
 /* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "2262"; */
-"2262.title" = "パスワード:";
+"2262.title" = "Mật khẩu:";
 
 /* Class = "NSTextFieldCell"; title = "Split:"; ObjectID = "2270"; */
-"2270.title" = "分割:";
+"2270.title" = "Chia nhỏ:";
 
 /* Class = "NSComboBoxCell"; placeholderString = "Example: 5 MB"; ObjectID = "2271"; */
-"2271.placeholderString" = "例: 5 MB";
+"2271.placeholderString" = "Ví dụ: 5 MB";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[0] = "1.4 MB Floppy disk"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[0]" = "1.4MBのFD";
+"2271.ibShadowedObjectValues[0]" = "Đĩa mềm 1.4 MB";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[1] = "650 MB CD"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[1]" = "650MBのCD";
+"2271.ibShadowedObjectValues[1]" = "650 MB CD";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[2] = "700 MB CD"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[2]" = "700MBのCD";
+"2271.ibShadowedObjectValues[2]" = "700 MB CD";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[3] = "4.7 GB DVD"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[3]" = "4.7GBのDVD";
+"2271.ibShadowedObjectValues[3]" = "4.7 GB DVD";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[4] = "7.8 GB Mini Blu-ray (SL)"; ObjectID = "2271"; */
 "2271.ibShadowedObjectValues[4]" = "7.8 GB Mini Blu-ray (SL)";
@@ -90,34 +90,34 @@
 "2271.ibShadowedObjectValues[9]" = "128 GB Blu-ray XL (QL)";
 
 /* Class = "NSTextFieldCell"; title = "Volume name:"; ObjectID = "2343"; */
-"2343.title" = "ボリューム名:";
+"2343.title" = "Tên tập tin:";
 
 /* Class = "NSTextFieldCell"; placeholderString = "custom name"; ObjectID = "2354"; */
-"2354.placeholderString" = "指定するファイル名";
+"2354.placeholderString" = "tên tuỳ chỉnh";
 
 /* Class = "NSTextFieldCell"; title = "You can create a ISO volume that will be read-only and compressed. ISO volumes can be only created from a folder.\n\nSet a volume name to this ISO or use the default name based on the files you compress."; ObjectID = "2363"; */
-"2363.title" = "圧縮された読み取り専用の iso ディスクイメージを作成することができます。フォルダのみから iso ボリュームが作成できます。\n \n圧縮するファイルのフォルダ名を自動に使用するもしくは dmg のボリューム名を設定することができます。";
+"2363.title" = "Bạn có thể tạo một đĩa ISO mà nó chỉ-đọc và được nén. Đĩa ISO chỉ có thể tạo được từ một thư mục.\n\nĐặt tên đĩa ISO này hoặc sử dụng tên mặc định dựa trên các tập tin bạn đang nén.";
 
 /* Class = "NSTextFieldCell"; title = "Store"; ObjectID = "2390"; */
-"2390.title" = "まとめる";
+"2390.title" = "Lưu trữ";
 
 /* Class = "NSTextFieldCell"; title = "Fast"; ObjectID = "2392"; */
-"2392.title" = "早い";
+"2392.title" = "Nhanh";
 
 /* Class = "NSTextFieldCell"; title = "Slow"; ObjectID = "2394"; */
-"2394.title" = "遅い";
+"2394.title" = "Chậm";
 
 /* Class = "NSTextFieldCell"; title = "Normal"; ObjectID = "2398"; */
-"2398.title" = "通常";
+"2398.title" = "Bình thường";
 
 /* Class = "NSTextFieldCell"; title = "Repeat:"; ObjectID = "2426"; */
-"2426.title" = "確認:";
+"2426.title" = "Lặp lại:";
 
 /* Class = "NSButtonCell"; title = "Encrypt filenames"; ObjectID = "L2I-Q8-zqc"; */
-"L2I-Q8-zqc.title" = "ファイル名を暗号化する";
+"L2I-Q8-zqc.title" = "Mã hoá tên tập tin";
 
 /* Class = "NSButtonCell"; title = "Use AES-256 encryption"; ObjectID = "Lw7-h9-3Qh"; */
-"Lw7-h9-3Qh.title" = "AES-256暗号化を使用する";
+"Lw7-h9-3Qh.title" = "Dùng mã hoá AES-256";
 
 /* Class = "NSButtonCell"; title = "Solid archive"; ObjectID = "UYy-aQ-V1a"; */
-"UYy-aQ-V1a.title" = "ソリッド圧縮";
+"UYy-aQ-V1a.title" = "Lưu trữ dạng rắn";

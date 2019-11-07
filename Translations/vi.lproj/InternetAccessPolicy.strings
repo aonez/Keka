@@ -9,8 +9,8 @@
 */
 
 // Top-level, general application description:
-"ApplicationDescription" = "Keka, macOS için bir dosya arşivleyicisidir.";
+"ApplicationDescription" = "Keka là phần mềm xử lý tập tin nén cho macOS.";
 
 // Software update connection:
-"SoftwareUpdatePurpose" = "Keka, u(pdate).keka.io.’a bağlanarak yeni sürümleri kontrol ediyor.";
-"SoftwareUpdateDenyConsequences" = "Bu bağlantıyı reddederseniz, Keka'nın yeni sürümleri size bildirilmez.";
+"SoftwareUpdatePurpose" = "Keka đang kiểm tra phiên bản mới từ trang u(pdate).keka.io.";
+"SoftwareUpdateDenyConsequences" = "Nếu bạn từ chối kết nối này, bạn sẽ không nhận được thông báo khi có phiên bản mới của Keka.";

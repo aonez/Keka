@@ -1,7 +1,8 @@
 "_BASE_USED_" = "tr";
 /* Use the _ADVANCED_EXTRA_WIDTH_ (if needed) to fit the method description properly */
 "_ADVANCED_EXTRA_WIDTH_" = "0.0";
-/* "_PREFERENCES_EXTRA_WIDTH_" = "0.0"; */
+/* Use the _PREFERENCES_EXTRA_WIDTH_ (if needed) to fit the action to perform description properly */
+"_PREFERENCES_EXTRA_WIDTH_" = "0.0";
 "OK" = "Tamam";
 "Done" = "Tamam";
 "Yes" = "Evet";
@@ -34,7 +35,7 @@
 "Creating file \"%@\"" = "Dosya oluşturuluyor \"%@\"";
 "Creating file \"%@...\"" = "Dosya oluşturuluyor \"%@...\"";
 "Volume name:" = "Birim adı:";
-"Select the encoding for \"%@\"" = "Select the encoding for \"%@\"";
+"Select the encoding for \"%@\"" = "\"%@\" için kodlamayı seçin.";
 "Time elapsed: %d:%@%d:%@%d hours%@" = "Geçen süre: %d:%@%d:%@%d saat%@";
 "Time elapsed: %d:%@%d minutes%@" = "Geçen süre: %d:%@%d dakika%@";
 "Time elapsed: %d seconds%@" = "Geçen süre: %d saniye%@";
@@ -53,9 +54,9 @@
 "Creating \"%@\"" = "\"%@\" oluşturuluyor";
 "Prepearing extraction..." = "Çıkarma hazırlanıyor…";
 "Choose a folder to extract this file" = "Bu dosyayı çıkarmak için bir klasör seçin";
-"Choose where do you want to extract \"%@\"" = "Choose where do you want to extract \"%@\"";
-"Select all the volumes from \"%@\" or the folder that contains them" = "Select all the volumes from \"%@\" or the folder that contains them";
-"Select the folder that contains \"%@\"" = "Select the folder that contains \"%@\"";
+"Choose where do you want to extract \"%@\"" = "Nereye çıkarmak istediğinizi seçin \"%@\"";
+"Select all the volumes from \"%@\" or the folder that contains them" = "Tüm birimleri \"%@\" veya onları içeren klasörden seçin";
+"Select the folder that contains \"%@\"" = "\"%@\" içeren klasörü seçin";
 "Extraction of \"%@\" failed" = "\"%@\" çıkarımı başarısız oldu";
 "Keka - %i on queue" = "Keka - %i kuyrukta";
 "Keka can't create this %@ image" = "Keka bu %@ imajını oluşturamıyor";

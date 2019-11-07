@@ -7,6 +7,11 @@ $content_language_locale = "pt-br";
 // Translated by BR Lingo (contact@brlingo.com)
 //
 //
+// Set $show_content_bottom_translator as true if you want to appear in the bottom of the page
+$show_content_bottom_translator = true;
+$content_bottom_translator = 'Tradução: <a href="https://brlingo.com">BR Lingo</a>.';
+//
+//
 
 // General
 $content_download = "Baixar";
@@ -24,8 +29,8 @@ $content_download_legacy = "Legado";
 
 // Like
 $content_donation_button = "Doar";
-$content_donation_title = 'Se você curte o Keka, demonstre seu <i class="fa fa-heart" aria-hidden="true"></i>; <br />obtenha-o na App Store ou faça uma doação pelo PayPal!';
-$content_donation_mas = "Ao comprar o Keka na App Store, você apoia o seu desenvolvimento.<br />O app é igual ao oferecido no site, só que as atualizações são feitas pela App Store.";
+$content_donation_title = 'Se você curte o Keka, demonstre seu <i class="fa fa-heart" aria-hidden="true"></i>… <br />obtenha-o na App Store ou faça uma doação pelo PayPal!';
+$content_donation_mas = "Ao comprar o Keka na App Store, você apoia o desenvolvimento.<br />O app é igual ao oferecido no site, só que as atualizações são feitas pela App Store.";
 $content_donation_paypal = "Se você não gosta da App Store ou quer apenas explorar o Keka,<br />mas ao mesmo tempo, curte o projeto e deseja demonstrar seu apoio, use o PayPal para fazer uma doação.";
 
 // Beta
@@ -65,6 +70,6 @@ $content_404_start = "Visite a <a href=\"https://www.keka.io/pt\">página princi
 $content_404_more = "Talvez você queira ↓";
 
 // Bottom info
-$content_bottom_copying = 'Todos os direitos reservados. Tradução: <a href="https://brlingo.com">BR Lingo</a>.';
+$content_bottom_copying = 'Todos os direitos reservados.';
 
 ?>

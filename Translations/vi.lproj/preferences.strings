@@ -1,192 +1,192 @@
 ﻿
 /* Class = "NSBox"; title = "Format"; ObjectID = "153"; */
-"153.title" = "Formátum";
+"153.title" = "Định dạng";
 
 /* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
-"159.title" = "Alapértelmezett formátum:";
+"159.title" = "Định dạng mặc định:";
 
 /* Class = "NSTextFieldCell"; title = "Default method:"; ObjectID = "160"; */
-"160.title" = "Alapértelmezett tömörítés mértéke:";
+"160.title" = "Mức độ nén mặc định:";
 
 /* Class = "NSTextFieldCell"; title = "Those are only applied when Keka is not open"; ObjectID = "161"; */
-"161.title" = "Csak akkor érvényes, ha a Keka nincs nyitva.";
+"161.title" = "Tuỳ chọn này chỉ áp dụng khi Keka chưa được mở";
 
 /* Class = "NSMenuItem"; title = "No compression"; ObjectID = "164"; */
-"164.title" = "Nincs tömörítés";
+"164.title" = "Không nén";
 
 /* Class = "NSMenuItem"; title = "Fast, less compression"; ObjectID = "165"; */
-"165.title" = "Kevés tömörítés";
+"165.title" = "Nhanh, nén ít";
 
 /* Class = "NSMenuItem"; title = "Normal"; ObjectID = "166"; */
-"166.title" = "Közepes";
+"166.title" = "Bình thường";
 
 /* Class = "NSMenuItem"; title = "Fastest, less compression"; ObjectID = "167"; */
-"167.title" = "Gyors, legkevesebb tömörítés";
+"167.title" = "Nhanh nhất, nén ít";
 
 /* Class = "NSMenuItem"; title = "Slowest, more compression"; ObjectID = "168"; */
-"168.title" = "Lassú, legjobb tömörítés";
+"168.title" = "Chậm nhất, nén nhiều";
 
 /* Class = "NSMenuItem"; title = "Slow, more compression"; ObjectID = "169"; */
-"169.title" = "Jobb tömörítés";
+"169.title" = "Chậm, nén nhiều";
 
 /* Class = "NSButtonCell"; title = "Set Keka as the default uncompressor"; ObjectID = "184"; */
-"184.title" = "A Keka legyen az alapértelmezett kibontó";
+"184.title" = "Đặt Keka làm trình giải nén mặc định";
 
 /* Class = "NSButtonCell"; title = "Close Keka when no windows are open"; ObjectID = "187"; */
-"187.title" = "A Keka bezárása, ha nincs nyitott ablaka";
+"187.title" = "Đóng Keka khi không có cửa sổ nào đang mở";
 
 /* Class = "NSBox"; title = "Actions"; ObjectID = "191"; */
-"191.title" = "Műveletek";
+"191.title" = "Thao tác";
 
 /* Class = "NSTextFieldCell"; title = "Automatic action: Keka will decide whether to compress or uncompress based on file format and extension"; ObjectID = "194"; */
-"194.title" = "Automatikus művelet: A kiterjesztéstől függően, a Keka tömöríti vagy kibontja a fájlokat.";
+"194.title" = "Thao tác tự động: Keka sẽ quyết định khi nào thì nén hoặc giải nén dựa vào định dạng tập tin và phần mở rộng";
 
 /* Class = "NSMenuItem"; title = "Always extract"; ObjectID = "197"; */
-"197.title" = "Mindig kibont";
+"197.title" = "Luôn luôn giải nén";
 
 /* Class = "NSMenuItem"; title = "Always compress"; ObjectID = "198"; */
-"198.title" = "Mindig tömörít";
+"198.title" = "Luôn luôn nén";
 
 /* Class = "NSMenuItem"; title = "Perform automatic action"; ObjectID = "199"; */
-"199.title" = "Automatikus művelet";
+"199.title" = "Thực hiện thao tác tự động";
 
 /* Class = "NSButtonCell"; title = "Move original file(s) to Trash after compression"; ObjectID = "262"; */
-"262.title" = "Fájlok törlése a művelet végén";
+"262.title" = "Di chuyển tập tin gốc vào Thùng rác sau khi hoàn tất việc nén";
 
 /* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "263"; */
-"263.title" = "Archiválás fájlonként";
+"263.title" = "Lưu trữ phần tử riêng biệt";
 
 /* Class = "NSButtonCell"; title = "Show file in Finder after compression"; ObjectID = "264"; */
-"264.title" = "A tömörített fájlok megjelenítése a művelet végén";
+"264.title" = "Hiện tập tin trong Finder sau khi nén xong";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "265"; */
-"265.title" = "A fájlrendszer metaadatfájlok kizárása (pl.: .DS_Store)";
+"265.title" = "Lượt bỏ tập tin quản lý của Mac (VD: .DS_Store)";
 
 /* Class = "NSBox"; title = "Name and location"; ObjectID = "270"; */
-"270.title" = "Név és célmappa";
+"270.title" = "Tên và vị trí";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "276"; */
-"276.placeholderString" = "Fájlnév";
+"276.placeholderString" = "Thêm tên tuỳ chỉnh tại đây";
 
 /* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "279"; */
-"279.title" = "Rákérdezés";
+"279.title" = "Hỏi mỗi lượt thực hiện";
 
 /* Class = "NSMenuItem"; title = "Next to original file"; ObjectID = "280"; */
-"280.title" = "Forrás mappája";
+"280.title" = "Bên cạnh tập tin gốc";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "281"; */
-"281.title" = "Egyéni...";
+"281.title" = "Thư mục tuỳ chỉnh...";
 
 /* Class = "NSTextFieldCell"; title = "Save to location:"; ObjectID = "282"; */
-"282.title" = "Mentés helye:";
+"282.title" = "Vị trí lưu trữ:";
 
 /* Class = "NSTextFieldCell"; title = "Name of new files:"; ObjectID = "283"; */
-"283.title" = "Az új arhívum neve:";
+"283.title" = "Tên cho các tập tin mới:";
 
 /* Class = "NSMenuItem"; title = "Same as original file"; ObjectID = "286"; */
-"286.title" = "A forrás neve";
+"286.title" = "Giống như tập tin gốc";
 
 /* Class = "NSMenuItem"; title = "Custom name..."; ObjectID = "287"; */
-"287.title" = "Egyéni...";
+"287.title" = "Tên tuỳ chỉnh...";
 
 /* Class = "NSToolbarItem"; label = "Compression"; ObjectID = "333"; */
-"333.label" = "Tömörítés";
+"333.label" = "Nén";
 
 /* Class = "NSToolbarItem"; paletteLabel = "Compression"; ObjectID = "333"; */
-"333.paletteLabel" = "Tömörítés";
+"333.paletteLabel" = "Nén";
 
 /* Class = "NSToolbarItem"; label = "General"; ObjectID = "334"; */
-"334.label" = "Általános";
+"334.label" = "Chung";
 
 /* Class = "NSToolbarItem"; paletteLabel = "General"; ObjectID = "334"; */
-"334.paletteLabel" = "Általános";
+"334.paletteLabel" = "Chung";
 
 /* Class = "NSToolbarItem"; label = "Extraction"; ObjectID = "338"; */
-"338.label" = "Kibontás";
+"338.label" = "Giải nén";
 
 /* Class = "NSToolbarItem"; paletteLabel = "Extraction"; ObjectID = "338"; */
-"338.paletteLabel" = "Kibontás";
+"338.paletteLabel" = "Giải nén";
 
 /* Class = "NSBox"; title = "Location"; ObjectID = "352"; */
-"352.title" = "Hely";
+"352.title" = "Vị trí";
 
 /* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "357"; */
-"357.title" = "Rákérdezés";
+"357.title" = "Hỏi mỗi lượt thực hiện";
 
 /* Class = "NSMenuItem"; title = "Next to original file"; ObjectID = "358"; */
-"358.title" = "A forrás mappája";
+"358.title" = "Bên cạnh tập tin gốc";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "359"; */
-"359.title" = "Egyéb...";
+"359.title" = "Thư mục tuỳ chỉnh...";
 
 /* Class = "NSTextFieldCell"; title = "Extract to location:"; ObjectID = "360"; */
-"360.title" = "Kibontás helye:";
+"360.title" = "Giải nén đến vị trí:";
 
 /* Class = "NSButtonCell"; title = "Show content in Finder after extraction"; ObjectID = "361"; */
-"361.title" = "A kibontott fájlok megjelenítése a művelet végén";
+"361.title" = "Hiện nội dung trong Finder sau khi giải nén xong";
 
 /* Class = "NSButtonCell"; title = "Move compressed file(s) to Trash after extraction"; ObjectID = "362"; */
-"362.title" = "A tömörített fájlok áthelyezése kibontás után a Lomtárba";
+"362.title" = "Di chuyển tập tin nén vào Thùng rác sau khi giải nén xong";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "418"; */
-"418.title" = "Nincs";
+"418.title" = "Không có";
 
 /* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "419"; */
-"419.title" = "Alapértelmezett tömörítés";
+"419.title" = "Nén mặc định";
 
 /* Class = "NSMenuItem"; title = "Default extraction"; ObjectID = "432"; */
-"432.title" = "Alapértelmezett kibontás";
+"432.title" = "Giải nén mặc định";
 
 /* Class = "NSTextFieldCell"; title = "Play a sound after an extraction:"; ObjectID = "433"; */
-"433.title" = "Figyelmeztető hang a kibontás végén:";
+"433.title" = "Phát âm báo sau khi giải nén xong:";
 
 /* Class = "NSTextFieldCell"; title = "Play a sound after a compression:"; ObjectID = "436"; */
-"436.title" = "Figyelmeztető hang a tömörítés végén:";
+"436.title" = "Phát âm báo sau khi nén xong:";
 
 /* Class = "NSMenuItem"; title = "Default extraction"; ObjectID = "439"; */
-"439.title" = "Alapértelmezett kibontás";
+"439.title" = "Giải nén mặc định";
 
 /* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "452"; */
-"452.title" = "Alapértelmezett tömörítés";
+"452.title" = "Nén mặc định";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "453"; */
-"453.title" = "Nincs";
+"453.title" = "Không có";
 
 /* Class = "NSTextFieldCell"; title = "You can also customize the access below:"; ObjectID = "5B7-Sc-wp0"; */
-"5B7-Sc-wp0.title" = "A hozzáférés alul testreszabható:";
+"5B7-Sc-wp0.title" = "Bạn có thể tuỳ chỉnh quyền truy cập bên dưới:";
 
 /* Class = "NSToolbarItem"; label = "File Access"; ObjectID = "5eC-d6-04X"; */
-"5eC-d6-04X.label" = "Hozzáférés a fájlhoz";
+"5eC-d6-04X.label" = "Quyền truy cập tập tin";
 
 /* Class = "NSToolbarItem"; paletteLabel = "File Access"; ObjectID = "5eC-d6-04X"; */
-"5eC-d6-04X.paletteLabel" = "Hozzáférés a fájlhoz";
+"5eC-d6-04X.paletteLabel" = "Quyền truy cập tập tin";
 
 /* Class = "NSButtonCell"; title = "Enable home folder access"; ObjectID = "DL5-wY-cqc"; */
-"DL5-wY-cqc.title" = "A kezdőkönyvtárhoz való hozzáférés engedélyezése";
+"DL5-wY-cqc.title" = "Bật truy cập thư mục home";
 
 /* Class = "NSTextFieldCell"; title = "Here you can choose the folders you want to give access to Keka. Note that Keka can't be used where it has no access. If needed, Keka will ask for specific folder access."; ObjectID = "GDf-ZS-dTs"; */
-"GDf-ZS-dTs.title" = "Itt kiválaszthatod a mappákat, amikhez hozzáférési engedélyt adsz a Keka-nak. A Keka-t nem használhatod ott, ahol nincs engedélyezve. Ha szükséges, akkor a Keka engedélyt fog kérni bizonyos mappákhoz való hozzáféréshez.";
+"GDf-ZS-dTs.title" = "Tại đây bạn có thể chọn thư mục mà bạn muốn cấp quyền truy cập cho Keka. Hãy lưu ý rằng Keka không chạy được tại các thư mục mà nó không có quyền truy cập. Nếu cần thiết, Keka sẽ hỏi quyền truy cập cho các thư mục cụ thể.";
 
 /* Class = "NSButtonCell"; title = "Enable full Mac access (Recommended)"; ObjectID = "IHj-ac-103"; */
-"IHj-ac-103.title" = "Teljes hozzáférés a Mac-hez (Javasolt)";
+"IHj-ac-103.title" = "Bật quyền truy cập Mac đầy đủ (Khuyên dùng)";
 
 /* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive:"; ObjectID = "JxT-Nq-8Z5"; */
-"JxT-Nq-8Z5.title" = "Engedélyezze a külső kötetekez való hozzáférést, hogy ezekkel az eszözökkel, mintpélddául USB, vagy Thunderbolt tároló esetén használhassa a Keka-t:";
+"JxT-Nq-8Z5.title" = "Bật quyền truy cập ổ đĩa rời để Keka có thể chạy được trên ổ đĩa rời của bạn như trên USB hay ổ Thunderbolt:";
 
 /* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder:"; ObjectID = "PD2-iW-BGK"; */
-"PD2-iW-BGK.title" = "Engedélyezze a kezdőkönyvtárhoz való hozzáférést, hogy a Keka-t az összes itt található fájlal használhassa, mintpéldául, amik az asztalon és a letöltések mappában találhatóak:";
+"PD2-iW-BGK.title" = "Bật quyền truy cập vào home để Keka có thể chạy với tất cả tập tin của bạn như thư mục Bàn làm việc và thư mục Tải xuống:";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
-"SOL-6U-5P9.title" = "A értesítési közpönt integráció engedélyezése";
+"SOL-6U-5P9.title" = "Bật tích hợp vào Trung tâm thông báo";
 
 /* Class = "NSTextFieldCell"; title = "Enable full Mac access so Keka can be used on all your Mac:"; ObjectID = "ZOx-vr-5o7"; */
-"ZOx-vr-5o7.title" = "Engedélyezd az egyész Mac-hez való hozzáférést, hogy a Keka az egész Mac-en használható lehessen:";
+"ZOx-vr-5o7.title" = "Bật quyền truy cập đầy đủ trên Mac để Keka có thể chạy được mọi nơi trên Mac của bạn:";
 
 /* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "b5e-bj-Pgz"; */
-"b5e-bj-Pgz.title" = "Egyesített eszköztár használata (visszaállítja a testreszabásokat)";
+"b5e-bj-Pgz.title" = "Sủ dụng thanh công cụ gốc (đặt lại tuỳ chỉnh)";
 
 /* Class = "NSButtonCell"; title = "Use AES-256 when encrypting ZIP files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
-"hp7-jO-HeV.title" = "Használjon AES-256 kódolást, amikor ZIP fájlokat tömörít (kevésbé kompatibilis)";
+"hp7-jO-HeV.title" = "Sử dụng AES-256 khi mã hoá tập tin ZIP (kém tương thích hơn)";
 
 /* Class = "NSButtonCell"; title = "Enable external volumes access"; ObjectID = "sgV-AD-k4Q"; */
-"sgV-AD-k4Q.title" = "Külső kötetetkez való hozzáférés engedélyezése";
+"sgV-AD-k4Q.title" = "Bật quyền truy cập ổ đĩa rời";
