@@ -30,7 +30,7 @@
 "169.title" = "较慢，较高压缩率";
 
 /* Class = "NSButtonCell"; title = "Set Keka as the default uncompressor"; ObjectID = "184"; */
-"184.title" = "把 Keka 设置为默认解压缩工具 ";
+"184.title" = "把 Keka 设置为默认解压缩工具";
 
 /* Class = "NSButtonCell"; title = "Close Keka when no windows are open"; ObjectID = "187"; */
 "187.title" = "没有可见窗口时退出 Keka";
@@ -54,7 +54,7 @@
 "262.title" = "压缩完成后删除原文件";
 
 /* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "263"; */
-"263.title" = "每个文件单独打包";
+"263.title" = "分别压缩每个文件";
 
 /* Class = "NSButtonCell"; title = "Show file in Finder after compression"; ObjectID = "264"; */
 "264.title" = "压缩完成后在访达中显示";
@@ -171,7 +171,7 @@
 "IHj-ac-103.title" = "启用完整访问权限（推荐）";
 
 /* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive:"; ObjectID = "JxT-Nq-8Z5"; */
-"JxT-Nq-8Z5.title" = "启用外部卷访问，以便 Keka 可以与外部磁盘一起使用，例如 USB 或 Thunderbolt ：";
+"JxT-Nq-8Z5.title" = "启用外部卷访问，以便 Keka 可以与外部磁盘一起使用，例如 USB 或 Thunderbolt：";
 
 /* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder:"; ObjectID = "PD2-iW-BGK"; */
 "PD2-iW-BGK.title" = "启用主文件夹访问，以便 Keka 可用于所有用户文件，例如桌面或下载文件夹：";
