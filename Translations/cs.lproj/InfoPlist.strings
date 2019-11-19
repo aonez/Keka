@@ -1,0 +1,43 @@
+// Usually leave this one in English
+"NSHumanReadableCopyright" = "Copyright © 2009-2019 aONe";
+
+/* File types */
+"7Z Archive" = "Archiv 7Z";
+"LZMA Archive" = "Archiv LZMA";
+"LZOP Archive" = "Archiv LZOP";
+"LZOP Tarball Archive" = "LZOP Tarball";
+"LZIP Archive" = "Archiv LZIP";
+"LZIP Tarball Archive" = "LZIP Tarball";
+"ZIP Archive" = "Archiv ZIP";
+"ZIPX Archive" = "Archiv ZIPX";
+"XZ Archive" = "Archiv XZ";
+"XZ Tarball Archive" = "XZ Tarball";
+"RAR Archive" = "Archiv AR";
+"RAR Legacy Archive Volume" = "Zpětně kompatibilní archivní svazek RAR";
+"Generic Archive Volume" = "Obecný archivní svazek";
+"BZIP2 Archive" = "Archiv BZIP2";
+"BZIP2 Tarball Archive" = "BZIP2 Tarball";
+"BZIP Archive" = "Archiv BZIP";
+"BZIP Tarball Archive" = "BZIP Tarball";
+"GZIP Archive" = "Archiv GZIP";
+"GZIP Tarball Archive" = "GZIP Tarball";
+"TAR Archive" = "Archiv TAR";
+"CPIO Archive" = "Archiv CPIO";
+"CPGZ Archive" = "Archiv CPGZ";
+"PAX Archive" = "Archiv PAX";
+"DMG Disk Image" = "Obraz disku DMG";
+"ISO Disk Image" = "Obraz disku ISO";
+"LHA Archive" = "Archiv LHA";
+"Windows EXE File" = "Soubor Windows EXE";
+"Windows Cabinet File" = "Soubor Windows CAB";
+"WIM Disk Image" = "Obraz disku WIM";
+"Comic Book RAR Archive" = "Archiv Comic Book RAR";
+"Comic Book ZIP Archive" = "Archiv Comic Book ZIP";
+"iOS App" = "iOS aplikace";
+"JAR Archive" = "Archiv JAR";
+"WAR Archive" = "Archiv WAR";
+"Android Application Package" = "Balíček aplikací pro Android";
+"Cross-Platform Installer Module (XPI)" = "Multiplatformní instalační modul (XPI)";
+"APPX Archive" = "Archiv APPX";
+"Safari extension" = "Rozšíření Safari";
+"Keka WorkFlow" = "Keka WorkFlow";
