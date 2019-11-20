@@ -120,7 +120,7 @@
 "L2I-Q8-zqc.title" = "파일이름 암호화";
 
 /* Class = "NSButtonCell"; title = "Use AES-256 encryption"; ObjectID = "Lw7-h9-3Qh"; */
-"Lw7-h9-3Qh.title" = "Use AES-256 encryption";
+"Lw7-h9-3Qh.title" = "AES-256 암호화 사용";
 
 /* Class = "NSButtonCell"; title = "Solid archive"; ObjectID = "UYy-aQ-V1a"; */
 "UYy-aQ-V1a.title" = "솔리드 압축 (단일 데이터 블록으로 압축)";
