@@ -1,6 +1,6 @@
 "_BASE_USED_" = "en";
 /* Use the _ADVANCED_EXTRA_WIDTH_ (if needed) to fit the method description properly */
-"_ADVANCED_EXTRA_WIDTH_" = "0.0";
+"_ADVANCED_EXTRA_WIDTH_" = "75.0";
 /* Use the _PREFERENCES_EXTRA_WIDTH_ (if needed) to fit the action to perform description properly */
 "_PREFERENCES_EXTRA_WIDTH_" = "0.0";
 "OK" = "OK";
@@ -109,8 +109,8 @@
 "650 MB CD" = "650 MB CD";
 "700 MB CD" = "700 MB CD";
 "4.7 GB DVD" = "4.7 GB DVD";
-"Drop here to extract" = "Sem přetáhněte pro rozbalení";
-"Drop here to compress" = "Sem přetáhněte pro zkomprimování";
+"Drop here to extract" = "Přetáhněte sem pro rozbalení";
+"Drop here to compress" = "Přetáhněte sem pro zkomprimování";
 "Binary \"%@\" is not accessible" = "K binárnímu souboru \"%@\" nelze získat přístup";
 "The first part \"%@\" can't be found" = "První část \"%@\" nelze najít";
 "unknown" = "neznámé";
@@ -140,8 +140,8 @@
 "Give home access" = "Udělit přístup k domovské složce";
 "Customize" = "Přizpůsobit";
 "In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "Abyste mohli Keka bezproblémově používat, je třeba jí udělit přístup k disku tohoto Macu.";
-"\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\nVáš disk by už měl být vybraný. Teď prostě klikněte na tlačítko \"Udělit přístup pro Keka\"";
-"Give access to Keka" = "Udělit přístup pro Keka";
+"\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\nVáš disk by už měl být vybraný. Teď prostě klikněte na tlačítko \"Udělit přístup\"";
+"Give access to Keka" = "Udělit přístup";
 "Full Mac access (Recommended)" = "Plný přístup k disku (doporučeno)";
 "Home folder access" = "Přístup k domovské složce";
 "External volumes access" = "Přístup k externím svazkům";

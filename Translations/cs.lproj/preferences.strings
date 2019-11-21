@@ -9,7 +9,7 @@
 "160.title" = "Nastavení komprese:";
 
 /* Class = "NSTextFieldCell"; title = "Those are only applied when Keka is not open"; ObjectID = "161"; */
-"161.title" = "Tato nastavení se uplatní pouze v případě, že Keka není otevřená";
+"161.title" = "Tato nastavení se projeví po opětovném otevření Keka";
 
 /* Class = "NSMenuItem"; title = "No compression"; ObjectID = "164"; */
 "164.title" = "Žádná komprese";
@@ -33,7 +33,7 @@
 "184.title" = "Nastavit jako výchozí archivační aplikaci";
 
 /* Class = "NSButtonCell"; title = "Close Keka when no windows are open"; ObjectID = "187"; */
-"187.title" = "Po zavření posledního okna ukončit aplikace";
+"187.title" = "Po zavření posledního okna ukončit aplikaci";
 
 /* Class = "NSBox"; title = "Actions"; ObjectID = "191"; */
 "191.title" = "Chování aplikace";
@@ -72,7 +72,7 @@
 "279.title" = "Pokaždé se zeptat";
 
 /* Class = "NSMenuItem"; title = "Next to original file"; ObjectID = "280"; */
-"280.title" = "Ve stejné složce, jako výchozí soubory";
+"280.title" = "Stejná, jako výchozí soubory";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "281"; */
 "281.title" = "Vybrat složku...";
@@ -114,7 +114,7 @@
 "357.title" = "Pokaždé se zeptat";
 
 /* Class = "NSMenuItem"; title = "Next to original file"; ObjectID = "358"; */
-"358.title" = "Stejná, jako výchozí soubory";
+"358.title" = "Stejné, jako výchozí soubory";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "359"; */
 "359.title" = "Vlastní cesta...";
@@ -171,10 +171,10 @@
 "IHj-ac-103.title" = "Udělit plný přístup k disku (doporučeno)";
 
 /* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive:"; ObjectID = "JxT-Nq-8Z5"; */
-"JxT-Nq-8Z5.title" = "Pokud chcete Keka používat s externími disky připojenými přes rozhraní USB nebo Thunderbolt, udělte přístup k externm diskům:";
+"JxT-Nq-8Z5.title" = "Pokud chcete Keka používat s externími disky připojenými přes rozhraní USB nebo Thunderbolt, udělte přístup k externím diskům:";
 
 /* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder:"; ObjectID = "PD2-iW-BGK"; */
-"PD2-iW-BGK.title" = "Pokud chcete, aby Keka měla přístup k vašim souborům, kam patří například složky Plocha a Stahování, udělte přístup k domovské složce:";
+"PD2-iW-BGK.title" = "Pokud chcete, aby Keka měla přístup k vašim souborům, (například složky Plocha a Stahování), udělte přístup k domovské složce:";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "Udělit přístup k Oznamovacímu centru";
@@ -189,4 +189,4 @@
 "hp7-jO-HeV.title" = "Při šifrování archivů ZIP použít AES-256 (méně kompatibilní)";
 
 /* Class = "NSButtonCell"; title = "Enable external volumes access"; ObjectID = "sgV-AD-k4Q"; */
-"sgV-AD-k4Q.title" = "Udělit přístup k externm diskům";
+"sgV-AD-k4Q.title" = "Udělit přístup k externím diskům";
