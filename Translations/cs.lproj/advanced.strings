@@ -39,7 +39,7 @@
 "965.title" = "Nejpomalejší komprese, nejmenší archiv";
 
 /* Class = "NSTextFieldCell"; title = "You can create a DMG volume that will be read-only and compressed.\n\nSet a volume name to this DMG or use the default name based on the files you compress."; ObjectID = "2189"; */
-"2189.title" = "Můžete vytvořit DMG svazek, který bude komprimovaný a pouze ke čtení.\n\nPojmenujte tento svazek, nebo použijte jméno založené na typu komprimovaných souborů.";
+"2189.title" = "Zde můžete vytvořit DMG svazek, který bude komprimovaný a pouze ke čtení.\n\Tento svazek pojmenujte, nebo použijte výchozí název.";
 
 /* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "2221"; */
 "2221.title" = "Položky archivovat samostatně";
@@ -57,7 +57,7 @@
 "2270.title" = "Velikost rozdělených částí:";
 
 /* Class = "NSComboBoxCell"; placeholderString = "Example: 5 MB"; ObjectID = "2271"; */
-"2271.placeholderString" = "Například 5 MB";
+"2271.placeholderString" = "např. 5 MB";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[0] = "1.4 MB Floppy disk"; ObjectID = "2271"; */
 "2271.ibShadowedObjectValues[0]" = "1.4MB disketa";
@@ -99,7 +99,7 @@
 "2354.placeholderString" = "Vlastní název";
 
 /* Class = "NSTextFieldCell"; title = "You can create a ISO volume that will be read-only and compressed. ISO volumes can be only created from a folder.\n\nSet a volume name to this ISO or use the default name based on the files you compress."; ObjectID = "2363"; */
-"2363.title" = "Můžete vytvořit ISO svazek, který bude komprimovaný a pouze ke čtení. ISO svazky mohou být vytvořeny pouze ze složek.\n\nPojmenujte tento svazek, nebo použijte jméno založené na typu komprimovaných souborů.";
+"2363.title" = "Zde můžete vytvořit ISO svazek, který bude komprimovaný a pouze ke čtení. ISO svazky mohou být vytvořeny pouze ze složek.\n\nTento svazek pojmenujte, nebo použijte výchozí název.";
 
 /* Class = "NSTextFieldCell"; title = "Store"; ObjectID = "2390"; */
 "2390.title" = "Nekomprimovat";
@@ -120,7 +120,7 @@
 "L2I-Q8-zqc.title" = "Šifrovat názvy souborů";
 
 /* Class = "NSButtonCell"; title = "Use AES-256 encryption"; ObjectID = "Lw7-h9-3Qh"; */
-"Lw7-h9-3Qh.title" = "Použít AES-256 šifrování";
+"Lw7-h9-3Qh.title" = "Použít šifrování AES-256";
 
 /* Class = "NSButtonCell"; title = "Solid archive"; ObjectID = "UYy-aQ-V1a"; */
 "UYy-aQ-V1a.title" = "Ucelený archiv";

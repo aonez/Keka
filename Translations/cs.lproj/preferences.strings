@@ -72,7 +72,7 @@
 "279.title" = "Pokaždé se zeptat";
 
 /* Class = "NSMenuItem"; title = "Next to original file"; ObjectID = "280"; */
-"280.title" = "Stejná, jako výchozí soubory";
+"280.title" = "Stejné, jako výchozí soubory";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "281"; */
 "281.title" = "Vybrat složku...";
@@ -174,7 +174,7 @@
 "JxT-Nq-8Z5.title" = "Pokud chcete Keka používat s externími disky připojenými přes rozhraní USB nebo Thunderbolt, udělte přístup k externím diskům:";
 
 /* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder:"; ObjectID = "PD2-iW-BGK"; */
-"PD2-iW-BGK.title" = "Pokud chcete, aby Keka měla přístup k vašim souborům, (například složky Plocha a Stahování), udělte přístup k domovské složce:";
+"PD2-iW-BGK.title" = "Pokud chcete, aby Keka měla přístup k vašim souborům (například složky Plocha a Stahování), udělte přístup k domovské složce:";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "Udělit přístup k Oznamovacímu centru";
