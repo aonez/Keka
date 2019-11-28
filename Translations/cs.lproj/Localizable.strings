@@ -60,7 +60,7 @@
 "Extraction of \"%@\" failed" = "Rozbalování \"%@\" selhalo";
 "Keka - %i on queue" = "Keka - %i je ve frontě";
 "Keka can't create this %@ image" = "Keka nemůže vytvořit tento %@ obraz";
-"You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "Obrazy %@ lze vytvořit pouze v jedné složce. Zkustě soubory umístit do jedné složky, kterou pak přetáhněte do Keka.";
+"You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "Obrazy %@ lze vytvořit pouze z jedné složky. Zkustě soubory umístit do jedné složky, kterou pak přetáhněte do Keka.";
 "Keka can't create this @% tarball" = "Keka nemůže vytvořit tento @% tarball";
 "This operation is not supported on %@." = "%@ tuto operaci nepodporuje";
 "Compress \"%@\" in %@ to..." = "Zkomprimovat \"%@\" v %@ do...";
