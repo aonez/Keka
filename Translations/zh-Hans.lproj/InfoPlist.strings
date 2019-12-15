@@ -12,6 +12,10 @@
 "ZIPX Archive" = "ZIPX 归档";
 "XZ Archive" = "XZ 归档";
 "XZ Tarball Archive" = "XZ 压缩 TAR 归档";
+"Brotli Archive" = "Brotli算法归档";
+"Brotli Tarball Archive" = "Brotli算法 TAR 归档";
+"Zstandard Archive" = "Zstd算法 归档";
+"Zstandard Tarball Archive" = "Zstd算法 TAR 归档";
 "RAR Archive" = "RAR 归档";
 "RAR Legacy Archive Volume" = "RAR 传统归档卷";
 "Generic Archive Volume" = "通用归档卷";
@@ -30,6 +34,7 @@
 "LHA Archive" = "LHA 归档";
 "Windows EXE File" = "Windows 可执行文件";
 "Windows Cabinet File" = "Windows Cab 文件";
+"Windows Installer Package" = "Windows安装程序包";
 "WIM Disk Image" = "WIM 磁盘映像";
 "Comic Book RAR Archive" = "漫画书 RAR（CBR）归档";
 "Comic Book ZIP Archive" = "漫画书 ZIP（CBZ）归档";
