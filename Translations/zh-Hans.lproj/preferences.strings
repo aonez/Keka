@@ -161,17 +161,32 @@
 /* Class = "NSToolbarItem"; paletteLabel = "File Access"; ObjectID = "5eC-d6-04X"; */
 "5eC-d6-04X.paletteLabel" = "文件访问权限";
 
+/* Class = "NSTextFieldCell"; title = "Extractions use less power so even using multiple thread you can easily set this limit to two or three. Note that the target disk may suffer."; ObjectID = "DAr-Td-s5W"; */
+"DAr-Td-s5W.title" = "提取使用较少的功率,因此即使使用多线程,也可以轻松地将此限制设置为2或3.请注意,目标磁盘可能会受到影响.";
+
 /* Class = "NSButtonCell"; title = "Enable home folder access"; ObjectID = "DL5-wY-cqc"; */
 "DL5-wY-cqc.title" = "启用主文件夹访问权限";
 
 /* Class = "NSTextFieldCell"; title = "Here you can choose the folders you want to give access to Keka. Note that Keka can't be used where it has no access. If needed, Keka will ask for specific folder access."; ObjectID = "GDf-ZS-dTs"; */
 "GDf-ZS-dTs.title" = "在这里，您可以选择要授予 Keka 访问权限的文件夹。请注意，Keka 无法在无法访问的地方使用。如果需要，Keka 将要求特定的文件夹访问权限。";
 
+/* Class = "NSTextFieldCell"; title = "It is recommended to only do one compression at a time if using multiple threads."; ObjectID = "Hkf-wB-gUj"; */
+"Hkf-wB-gUj.title" = "建议只使用一个线程一次进行一次压缩.";
+
 /* Class = "NSButtonCell"; title = "Enable full Mac access (Recommended)"; ObjectID = "IHj-ac-103"; */
 "IHj-ac-103.title" = "启用完整访问权限（推荐）";
 
 /* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive:"; ObjectID = "JxT-Nq-8Z5"; */
 "JxT-Nq-8Z5.title" = "启用外部卷访问，以便 Keka 可以与外部磁盘一起使用，例如 USB 或 Thunderbolt：";
+
+/* Class = "NSTextFieldCell"; title = "Queue compression operations:"; ObjectID = "K5h-j5-bss"; */
+"K5h-j5-bss.title" = "队列压缩操作:";
+
+/* Class = "NSButtonCell"; title = "Inherit quarantine from downloaded files"; ObjectID = "KDR-ag-bll"; */
+"KDR-ag-bll.title" = "从下载的文件夹继承隔离";
+
+/* Class = "NSTextFieldCell"; title = "Limit number of threads per operation:"; ObjectID = "ND5-DN-C1H"; */
+"ND5-DN-C1H.title" = "限制每个操作线程数:";
 
 /* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder:"; ObjectID = "PD2-iW-BGK"; */
 "PD2-iW-BGK.title" = "启用主文件夹访问，以便 Keka 可用于所有用户文件，例如桌面或下载文件夹：";
@@ -188,5 +203,23 @@
 /* Class = "NSButtonCell"; title = "Use AES-256 when encrypting ZIP files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
 "hp7-jO-HeV.title" = "加密 Zip 文件时使用 AES-256（兼容性较差）";
 
+/* Class = "NSButtonCell"; title = "Maximum simultaneous operations:"; ObjectID = "o8J-bR-bs6"; */
+"o8J-bR-bs6.title" = "运行最大运算值:";
+
+/* Class = "NSTextFieldCell"; title = "Queue operations:"; ObjectID = "otI-Pt-BTh"; */
+"otI-Pt-BTh.title" = "队列操作:";
+
 /* Class = "NSButtonCell"; title = "Enable external volumes access"; ObjectID = "sgV-AD-k4Q"; */
 "sgV-AD-k4Q.title" = "启用外部卷访问权限";
+
+/* Class = "NSButtonCell"; title = "Maximum simultaneous compressions:"; ObjectID = "sjA-7B-5U6"; */
+"sjA-7B-5U6.title" = "运行最大压缩值:";
+
+/* Class = "NSTextFieldCell"; title = "Most operations use multiple threads. That means faster operations but also more power consumption and heat. "; ObjectID = "xyb-eH-aiy"; */
+"xyb-eH-aiy.title" = "大多数操作使用多线程.这意味着处理速度更快,但也会占用很多性能资源. ";
+
+/* Class = "NSButtonCell"; title = "Maximum simultaneous extractions:"; ObjectID = "yGo-Gm-0zq"; */
+"yGo-Gm-0zq.title" = "运行最大解压值:";
+
+/* Class = "NSTextFieldCell"; title = "Queing usually results in faster operations and a more responsive behaviour."; ObjectID = "zPq-ei-qUb"; */
+"zPq-ei-qUb.title" = "通常会导致更快的队列操作和更灵敏的行为.";
