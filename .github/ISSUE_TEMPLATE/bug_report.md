@@ -1,7 +1,7 @@
 ---
 name: Bug report
-about: Create a report to help improve Keka.
-title: "[BUG] "
+about: Create a report to help us improve
+title: "[BUG]"
 labels: bug
 assignees: aonez
 
