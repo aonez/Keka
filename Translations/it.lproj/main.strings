@@ -57,7 +57,7 @@
 "YHt-wh-fCp.title" = "Mostra la barra strumenti";
 
 /* Class = "NSMenuItem"; title = "Save debug information"; ObjectID = "Ypl-PY-w8C"; */
-"Ypl-PY-w8C.title" = "Save debug information";
+"Ypl-PY-w8C.title" = "Salva le informazioni di debug";
 
 /* Class = "NSMenuItem"; title = "New"; ObjectID = "bFm-YE-6u3"; */
 "bFm-YE-6u3.title" = "Nuovo";
@@ -69,7 +69,7 @@
 "f7N-ob-xwH.title" = "Vista";
 
 /* Class = "NSMenuItem"; title = "Enable debug information"; ObjectID = "gKs-Qd-p8b"; */
-"gKs-Qd-p8b.title" = "Enable debug information";
+"gKs-Qd-p8b.title" = "Abilita le informazioni di debug";
 
 /* Class = "NSMenu"; title = "Edit"; ObjectID = "gy4-dO-Qdu"; */
 "gy4-dO-Qdu.title" = "Modifica";
@@ -102,7 +102,7 @@
 "sx5-sf-JmW.title" = "Nascondi altri";
 
 /* Class = "NSMenuItem"; title = "Create a debug session"; ObjectID = "tCo-bt-0bK"; */
-"tCo-bt-0bK.title" = "Create a debug session";
+"tCo-bt-0bK.title" = "Crea una sessione di debug";
 
 /* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "tDe-Bb-f8d"; */
 "tDe-Bb-f8d.title" = "Contrai";
@@ -111,7 +111,7 @@
 "tjx-uw-4ov.title" = "Formato di stampa...";
 
 /* Class = "NSMenuItem"; title = "Open logs folder"; ObjectID = "uOJ-yW-pHB"; */
-"uOJ-yW-pHB.title" = "Open logs folder";
+"uOJ-yW-pHB.title" = "Apri cartella dei log";
 
 /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "v5b-pg-pYC"; */
 "v5b-pg-pYC.title" = "Copia";
