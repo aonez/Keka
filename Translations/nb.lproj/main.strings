@@ -26,6 +26,9 @@
 /* Class = "NSMenuItem"; title = "Print…"; ObjectID = "M2y-gZ-kEG"; */
 "M2y-gZ-kEG.title" = "Skriv ut…";
 
+/* Class = "NSMenuItem"; title = "Debug"; ObjectID = "O8k-jp-HZh"; */
+"O8k-jp-HZh.title" = "Debug";
+
 /* Class = "NSMenu"; title = "View"; ObjectID = "PwP-KI-Flr"; */
 "PwP-KI-Flr.title" = "Vis";
 
@@ -53,6 +56,9 @@
 /* Class = "NSMenuItem"; title = "Show Toolbar"; ObjectID = "YHt-wh-fCp"; */
 "YHt-wh-fCp.title" = "Vis verktøylinje";
 
+/* Class = "NSMenuItem"; title = "Save debug information"; ObjectID = "Ypl-PY-w8C"; */
+"Ypl-PY-w8C.title" = "Save debug information";
+
 /* Class = "NSMenuItem"; title = "New"; ObjectID = "bFm-YE-6u3"; */
 "bFm-YE-6u3.title" = "Ny";
 
@@ -61,6 +67,9 @@
 
 /* Class = "NSMenuItem"; title = "View"; ObjectID = "f7N-ob-xwH"; */
 "f7N-ob-xwH.title" = "Vis";
+
+/* Class = "NSMenuItem"; title = "Enable debug information"; ObjectID = "gKs-Qd-p8b"; */
+"gKs-Qd-p8b.title" = "Enable debug information";
 
 /* Class = "NSMenu"; title = "Edit"; ObjectID = "gy4-dO-Qdu"; */
 "gy4-dO-Qdu.title" = "Rediger";
@@ -92,11 +101,17 @@
 /* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "sx5-sf-JmW"; */
 "sx5-sf-JmW.title" = "Skjul andre";
 
+/* Class = "NSMenuItem"; title = "Create a debug session"; ObjectID = "tCo-bt-0bK"; */
+"tCo-bt-0bK.title" = "Create a debug session";
+
 /* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "tDe-Bb-f8d"; */
 "tDe-Bb-f8d.title" = "Minimer";
 
 /* Class = "NSMenuItem"; title = "Page Setup..."; ObjectID = "tjx-uw-4ov"; */
 "tjx-uw-4ov.title" = "Sideoppsett...";
+
+/* Class = "NSMenuItem"; title = "Open logs folder"; ObjectID = "uOJ-yW-pHB"; */
+"uOJ-yW-pHB.title" = "Open logs folder";
 
 /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "v5b-pg-pYC"; */
 "v5b-pg-pYC.title" = "Kopier";

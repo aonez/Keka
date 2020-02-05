@@ -1,0 +1,192 @@
+﻿
+/* Class = "NSBox"; title = "Format"; ObjectID = "153"; */
+"153.title" = "Formát";
+
+/* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
+"159.title" = "Výchozí formát:";
+
+/* Class = "NSTextFieldCell"; title = "Default method:"; ObjectID = "160"; */
+"160.title" = "Nastavení komprese:";
+
+/* Class = "NSTextFieldCell"; title = "Those are only applied when Keka is not open"; ObjectID = "161"; */
+"161.title" = "Tato nastavení se projeví po opětovném otevření Keka";
+
+/* Class = "NSMenuItem"; title = "No compression"; ObjectID = "164"; */
+"164.title" = "Žádná komprese";
+
+/* Class = "NSMenuItem"; title = "Fast, less compression"; ObjectID = "165"; */
+"165.title" = "Rychlá komprese, větší archiv";
+
+/* Class = "NSMenuItem"; title = "Normal"; ObjectID = "166"; */
+"166.title" = "Výchozí";
+
+/* Class = "NSMenuItem"; title = "Fastest, less compression"; ObjectID = "167"; */
+"167.title" = "Nejrychlejší komprese, největší archiv";
+
+/* Class = "NSMenuItem"; title = "Slowest, more compression"; ObjectID = "168"; */
+"168.title" = "Nejpomalejší komprese, nejmenší archiv";
+
+/* Class = "NSMenuItem"; title = "Slow, more compression"; ObjectID = "169"; */
+"169.title" = "Pomalá komprese, menší archiv";
+
+/* Class = "NSButtonCell"; title = "Set Keka as the default uncompressor"; ObjectID = "184"; */
+"184.title" = "Nastavit jako výchozí archivační aplikaci";
+
+/* Class = "NSButtonCell"; title = "Close Keka when no windows are open"; ObjectID = "187"; */
+"187.title" = "Po zavření posledního okna ukončit aplikaci";
+
+/* Class = "NSBox"; title = "Actions"; ObjectID = "191"; */
+"191.title" = "Chování aplikace";
+
+/* Class = "NSTextFieldCell"; title = "Automatic action: Keka will decide whether to compress or uncompress based on file format and extension"; ObjectID = "194"; */
+"194.title" = "Vybrat automaticky: Postup při otevírání bude vybrán automaticky podle formátu souboru";
+
+/* Class = "NSMenuItem"; title = "Always extract"; ObjectID = "197"; */
+"197.title" = "Vždy rozbalit";
+
+/* Class = "NSMenuItem"; title = "Always compress"; ObjectID = "198"; */
+"198.title" = "Vždy zkomprimovat";
+
+/* Class = "NSMenuItem"; title = "Perform automatic action"; ObjectID = "199"; */
+"199.title" = "Vybrat automaticky";
+
+/* Class = "NSButtonCell"; title = "Move original file(s) to Trash after compression"; ObjectID = "262"; */
+"262.title" = "Po kompresi přesunout výchozí soubory do koše";
+
+/* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "263"; */
+"263.title" = "Zabalit soubory samostatně";
+
+/* Class = "NSButtonCell"; title = "Show file in Finder after compression"; ObjectID = "264"; */
+"264.title" = "Po kompresi ukázat archiv ve Finderu";
+
+/* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "265"; */
+"265.title" = "Přeskočit prostředkové části (např. .DS_Store)";
+
+/* Class = "NSBox"; title = "Name and location"; ObjectID = "270"; */
+"270.title" = "Název a umístění"; 
+
+/* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "276"; */
+"276.placeholderString" = "Vlastní název";
+
+/* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "279"; */
+"279.title" = "Pokaždé se zeptat";
+
+/* Class = "NSMenuItem"; title = "Next to original file"; ObjectID = "280"; */
+"280.title" = "Stejné, jako výchozí soubory";
+
+/* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "281"; */
+"281.title" = "Vybrat složku...";
+
+/* Class = "NSTextFieldCell"; title = "Save to location:"; ObjectID = "282"; */
+"282.title" = "Uložit do složky:";
+
+/* Class = "NSTextFieldCell"; title = "Name of new files:"; ObjectID = "283"; */
+"283.title" = "Název vytvořených souborů:"; 
+
+/* Class = "NSMenuItem"; title = "Same as original file"; ObjectID = "286"; */
+"286.title" = "Stejný, jako výchozí soubory";
+
+/* Class = "NSMenuItem"; title = "Custom name..."; ObjectID = "287"; */
+"287.title" = "Vlastní název...";
+
+/* Class = "NSToolbarItem"; label = "Compression"; ObjectID = "333"; */
+"333.label" = "Komprese";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Compression"; ObjectID = "333"; */
+"333.paletteLabel" = "Komprese";
+
+/* Class = "NSToolbarItem"; label = "General"; ObjectID = "334"; */
+"334.label" = "Obecné";
+
+/* Class = "NSToolbarItem"; paletteLabel = "General"; ObjectID = "334"; */
+"334.paletteLabel" = "Obecné";
+
+/* Class = "NSToolbarItem"; label = "Extraction"; ObjectID = "338"; */
+"338.label" = "Rozbalování";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Extraction"; ObjectID = "338"; */
+"338.paletteLabel" = "Rozbalování";
+
+/* Class = "NSBox"; title = "Location"; ObjectID = "352"; */
+"352.title" = "Cesta";
+
+/* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "357"; */
+"357.title" = "Pokaždé se zeptat";
+
+/* Class = "NSMenuItem"; title = "Next to original file"; ObjectID = "358"; */
+"358.title" = "Stejné, jako výchozí soubory";
+
+/* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "359"; */
+"359.title" = "Vlastní cesta...";
+
+/* Class = "NSTextFieldCell"; title = "Extract to location:"; ObjectID = "360"; */
+"360.title" = "Rozbalit do složky:";
+
+/* Class = "NSButtonCell"; title = "Show content in Finder after extraction"; ObjectID = "361"; */
+"361.title" = "Po rozbalení ukázat soubory ve Finderu";
+
+/* Class = "NSButtonCell"; title = "Move compressed file(s) to Trash after extraction"; ObjectID = "362"; */
+"362.title" = "Po rozbalení přesunout výchozí soubory do koše";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "418"; */
+"418.title" = "Žádný";
+
+/* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "419"; */
+"419.title" = "Výchozí pro kompresi";
+
+/* Class = "NSMenuItem"; title = "Default extraction"; ObjectID = "432"; */
+"432.title" = "Výchozí pro rozbalení";
+
+/* Class = "NSTextFieldCell"; title = "Play a sound after an extraction:"; ObjectID = "433"; */
+"433.title" = "Po rozbalení přehrát zvuk:";
+
+/* Class = "NSTextFieldCell"; title = "Play a sound after a compression:"; ObjectID = "436"; */
+"436.title" = "Po kompresi přehrát zvuk:";
+
+/* Class = "NSMenuItem"; title = "Default extraction"; ObjectID = "439"; */
+"439.title" = "Výchozí pro rozbalení";
+
+/* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "452"; */
+"452.title" = "Výchozí pro kompresi";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "453"; */
+"453.title" = "Žádný";
+
+/* Class = "NSTextFieldCell"; title = "You can also customize the access below:"; ObjectID = "5B7-Sc-wp0"; */
+"5B7-Sc-wp0.title" = "Další složky, ke kterým má Keka přístup:"; 
+
+/* Class = "NSToolbarItem"; label = "File Access"; ObjectID = "5eC-d6-04X"; */
+"5eC-d6-04X.label" = "Přístup k souborům";
+
+/* Class = "NSToolbarItem"; paletteLabel = "File Access"; ObjectID = "5eC-d6-04X"; */
+"5eC-d6-04X.paletteLabel" = "Přístup k souborům";
+
+/* Class = "NSButtonCell"; title = "Enable home folder access"; ObjectID = "DL5-wY-cqc"; */
+"DL5-wY-cqc.title" = "Udělit přístup k domovské složce";
+
+/* Class = "NSTextFieldCell"; title = "Here you can choose the folders you want to give access to Keka. Note that Keka can't be used where it has no access. If needed, Keka will ask for specific folder access."; ObjectID = "GDf-ZS-dTs"; */
+"GDf-ZS-dTs.title" = "Zvolte složky, ke kterým chcete, aby Keka měla přístup. Ve složkách, ke kterým jste přístup neudělili, nebude Keka fungovat; Keka si v těchto případech přístup vyžádá.";
+
+/* Class = "NSButtonCell"; title = "Enable full Mac access (Recommended)"; ObjectID = "IHj-ac-103"; */
+"IHj-ac-103.title" = "Udělit plný přístup k disku (doporučeno)";
+
+/* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive:"; ObjectID = "JxT-Nq-8Z5"; */
+"JxT-Nq-8Z5.title" = "Pokud chcete Keka používat s externími disky připojenými přes rozhraní USB nebo Thunderbolt, udělte přístup k externím diskům:";
+
+/* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder:"; ObjectID = "PD2-iW-BGK"; */
+"PD2-iW-BGK.title" = "Pokud chcete, aby Keka měla přístup k vašim souborům (například složky Plocha a Stahování), udělte přístup k domovské složce:";
+
+/* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
+"SOL-6U-5P9.title" = "Udělit přístup k Oznamovacímu centru";
+
+/* Class = "NSTextFieldCell"; title = "Enable full Mac access so Keka can be used on all your Mac:"; ObjectID = "ZOx-vr-5o7"; */
+"ZOx-vr-5o7.title" = "Udělit přístup k celému disku:";
+
+/* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "b5e-bj-Pgz"; */
+"b5e-bj-Pgz.title" = "Použít sjednocený panel nástrojů (zresetuje vaše úpravy)";
+
+/* Class = "NSButtonCell"; title = "Use AES-256 when encrypting ZIP files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
+"hp7-jO-HeV.title" = "Při šifrování archivů ZIP použít AES-256 (méně kompatibilní)";
+
+/* Class = "NSButtonCell"; title = "Enable external volumes access"; ObjectID = "sgV-AD-k4Q"; */
+"sgV-AD-k4Q.title" = "Udělit přístup k externím diskům";
