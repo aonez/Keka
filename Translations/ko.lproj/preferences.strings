@@ -12,7 +12,7 @@
 "161.title" = "이 설정들은 Keka가 열려있지 않을 때 적용됩니다";
 
 /* Class = "NSMenuItem"; title = "No compression"; ObjectID = "164"; */
-"164.title" = "압축 안하기";
+"164.title" = "압축 안 함";
 
 /* Class = "NSMenuItem"; title = "Fast, less compression"; ObjectID = "165"; */
 "165.title" = "빠르게, 낮은 압축률";
@@ -30,22 +30,22 @@
 "169.title" = "천천히, 높은 압축률";
 
 /* Class = "NSButtonCell"; title = "Set Keka as the default uncompressor"; ObjectID = "184"; */
-"184.title" = "Keka를 기본 압축/압축해제 프로그램으로 설정하기";
+"184.title" = "Keka를 기본 압축 해제 프로그램으로 설정하기";
 
 /* Class = "NSButtonCell"; title = "Close Keka when no windows are open"; ObjectID = "187"; */
-"187.title" = "아무런 창이 보이지 않을 때 Keka 종료하기";
+"187.title" = "Keka의 모든 윈도우가 닫히면 Keka 자동 종료하기";
 
 /* Class = "NSBox"; title = "Actions"; ObjectID = "191"; */
-"191.title" = "Keka의 행동";
+"191.title" = "동작";
 
 /* Class = "NSTextFieldCell"; title = "Automatic action: Keka will decide whether to compress or uncompress based on file format and extension"; ObjectID = "194"; */
-"194.title" = "자동: Keka가 파일을 압축할지, 압축풀지를 파일 확장자에 따라서 결정";
+"194.title" = "자동: 압축하기를 할지 압축 풀기를 할지 파일 포맷과 확장자에 따라 결정합니다";
 
 /* Class = "NSMenuItem"; title = "Always extract"; ObjectID = "197"; */
 "197.title" = "항상 압축 풀기";
 
 /* Class = "NSMenuItem"; title = "Always compress"; ObjectID = "198"; */
-"198.title" = "항상 압축";
+"198.title" = "항상 압축하기";
 
 /* Class = "NSMenuItem"; title = "Perform automatic action"; ObjectID = "199"; */
 "199.title" = "자동";
@@ -60,13 +60,13 @@
 "264.title" = "압축 완료 후 Finder에서 파일 보기";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "265"; */
-"265.title" = "Mac 전용 파일 포함 안하기 (예: .DS_Store)";
+"265.title" = "Mac 전용 파일 포함 안 함 (예: .DS_Store)";
 
 /* Class = "NSBox"; title = "Name and location"; ObjectID = "270"; */
 "270.title" = "이름 및 위치";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "276"; */
-"276.placeholderString" = "Here your custom name";
+"276.placeholderString" = "여기에 원하는 특정 이름을 입력하세요";
 
 /* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "279"; */
 "279.title" = "항상 묻기";
@@ -123,31 +123,31 @@
 "360.title" = "다음 위치로 압축 해제:";
 
 /* Class = "NSButtonCell"; title = "Show content in Finder after extraction"; ObjectID = "361"; */
-"361.title" = "압축해제 완료 후 내용물을 Finder에서 보기";
+"361.title" = "압축 해제 완료 후 내용물을 Finder에서 보기";
 
 /* Class = "NSButtonCell"; title = "Move compressed file(s) to Trash after extraction"; ObjectID = "362"; */
-"362.title" = "압축해제 완료 후 원본 파일 휴지통으로 이동";
+"362.title" = "압축 해제 완료 후 원본 파일 휴지통으로 이동";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "418"; */
 "418.title" = "없음";
 
 /* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "419"; */
-"419.title" = "기본 압축음";
+"419.title" = "기본 압축 소리";
 
 /* Class = "NSMenuItem"; title = "Default extraction"; ObjectID = "432"; */
-"432.title" = "기본 압축해제음";
+"432.title" = "기본 압축 해제 소리";
 
 /* Class = "NSTextFieldCell"; title = "Play a sound after an extraction:"; ObjectID = "433"; */
-"433.title" = "압축해제 완료 후 소리 재생:";
+"433.title" = "압축 해제 완료 후 소리 재생:";
 
 /* Class = "NSTextFieldCell"; title = "Play a sound after a compression:"; ObjectID = "436"; */
 "436.title" = "압축 완료 후 소리 재생:";
 
 /* Class = "NSMenuItem"; title = "Default extraction"; ObjectID = "439"; */
-"439.title" = "기본 압축해제음";
+"439.title" = "기본 압축 해제 소리";
 
 /* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "452"; */
-"452.title" = "기본 압축음";
+"452.title" = "기본 압축 소리";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "453"; */
 "453.title" = "없음";
