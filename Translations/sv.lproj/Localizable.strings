@@ -156,3 +156,6 @@
 "There were some errors while registering the formats. There is more information in the Console.app." = "Det inträffade några fel vid registrering av filformat. Det finns mer information i Console.app.";
 "The intermediate application can't get access to Keka." = "Det mellanliggande programmet kunde inte få åtkomst till Keka.";
 "The intermediate application can't find Keka." = "Det mellanliggande programmet kunde inte hitta Keka.";
+"Continue without encryption" = "Continue without encryption";
+"The password does not match" = "The password does not match";
+"The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption." = "The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption.";
