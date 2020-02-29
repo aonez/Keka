@@ -27,7 +27,7 @@
 "M2y-gZ-kEG.title" = "打印…";
 
 /* Class = "NSMenuItem"; title = "Debug"; ObjectID = "O8k-jp-HZh"; */
-"O8k-jp-HZh.title" = "Debug";
+"O8k-jp-HZh.title" = "调试";
 
 /* Class = "NSMenu"; title = "View"; ObjectID = "PwP-KI-Flr"; */
 "PwP-KI-Flr.title" = "显示";
@@ -57,7 +57,7 @@
 "YHt-wh-fCp.title" = "显示工具栏";
 
 /* Class = "NSMenuItem"; title = "Save debug information"; ObjectID = "Ypl-PY-w8C"; */
-"Ypl-PY-w8C.title" = "Save debug information";
+"Ypl-PY-w8C.title" = "保存调试信息";
 
 /* Class = "NSMenuItem"; title = "New"; ObjectID = "bFm-YE-6u3"; */
 "bFm-YE-6u3.title" = "新建";
@@ -69,7 +69,7 @@
 "f7N-ob-xwH.title" = "显示";
 
 /* Class = "NSMenuItem"; title = "Enable debug information"; ObjectID = "gKs-Qd-p8b"; */
-"gKs-Qd-p8b.title" = "Enable debug information";
+"gKs-Qd-p8b.title" = "开启调试信息";
 
 /* Class = "NSMenu"; title = "Edit"; ObjectID = "gy4-dO-Qdu"; */
 "gy4-dO-Qdu.title" = "编辑";
@@ -102,7 +102,7 @@
 "sx5-sf-JmW.title" = "隐藏其他";
 
 /* Class = "NSMenuItem"; title = "Create a debug session"; ObjectID = "tCo-bt-0bK"; */
-"tCo-bt-0bK.title" = "Create a debug session";
+"tCo-bt-0bK.title" = "创建调试会话";
 
 /* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "tDe-Bb-f8d"; */
 "tDe-Bb-f8d.title" = "最小化";
@@ -111,7 +111,7 @@
 "tjx-uw-4ov.title" = "页面设置…";
 
 /* Class = "NSMenuItem"; title = "Open logs folder"; ObjectID = "uOJ-yW-pHB"; */
-"uOJ-yW-pHB.title" = "Open logs folder";
+"uOJ-yW-pHB.title" = "打开日志文件夹";
 
 /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "v5b-pg-pYC"; */
 "v5b-pg-pYC.title" = "拷贝";
