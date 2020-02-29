@@ -156,3 +156,6 @@
 "There were some errors while registering the formats. There is more information in the Console.app." = "Han ocorregut errors al registrar els formats. Trobaràs més informació a la Consola.app.";
 "The intermediate application can't get access to Keka." = "L'extensió no pot accedir al Keka.";
 "The intermediate application can't find Keka." = "L'extensió no pot torbar el Keka.";
+"Continue without encryption" = "Continuar sense encriptar";
+"The password does not match" = "La contrasenya no coincideix";
+"The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption." = "La contrasenya no coincideix i no es pot encriptar el fitxer. Pots cancel·lar l'operació o continuar sense encriptació.";

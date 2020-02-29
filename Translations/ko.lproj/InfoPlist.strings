@@ -14,7 +14,7 @@
 "XZ Tarball Archive" = "XZ 압축 TAR 아카이브";
 "RAR Archive" = "RAR 아카이브";
 "RAR Legacy Archive Volume" = "RAR Legacy 아카이브 볼륨";
-"Generic Archive Volume" = "일반적인 아카이브 볼륨";
+"Generic Archive Volume" = "범용 아카이브 볼륨";
 "BZIP2 Archive" = "BZIP2 아카이브";
 "BZIP2 Tarball Archive" = "BZIP2 압축 TAR 아카이브";
 "BZIP Archive" = "BZIP 아카이브";
@@ -39,5 +39,5 @@
 "Android Application Package" = "안드로이드 Application Package";
 "Cross-Platform Installer Module (XPI)" = "Cross-Platform Installer Module (XPI)";
 "APPX Archive" = "APPX 아카이브";
-"Safari extension" = "Safari extension";
+"Safari extension" = "Safari 확장 프로그램";
 "Keka WorkFlow" = "Keka 작업흐름";

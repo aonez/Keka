@@ -3,10 +3,10 @@
 "943.title" = "자동";
 
 /* Class = "NSMenuItem"; title = "Always compress"; ObjectID = "944"; */
-"944.title" = "항상 압축";
+"944.title" = "항상 압축하기";
 
 /* Class = "NSMenuItem"; title = "Always extract"; ObjectID = "945"; */
-"945.title" = "항상 압축 해제";
+"945.title" = "항상 압축 풀기";
 
 /* Class = "NSMenuItem"; title = "Format"; ObjectID = "947"; */
 "947.title" = "압축 형식";
@@ -21,7 +21,7 @@
 "958.title" = "압축 방법";
 
 /* Class = "NSMenuItem"; title = "No compression"; ObjectID = "960"; */
-"960.title" = "압축 안하기";
+"960.title" = "압축 안 함";
 
 /* Class = "NSMenuItem"; title = "Fastest, less compression"; ObjectID = "961"; */
 "961.title" = "가장 빠르게, 낮은 압축률";
@@ -39,16 +39,16 @@
 "965.title" = "가장 천천히, 높은 압축률";
 
 /* Class = "NSTextFieldCell"; title = "You can create a DMG volume that will be read-only and compressed.\n\nSet a volume name to this DMG or use the default name based on the files you compress."; ObjectID = "2189"; */
-"2189.title" = "압축된 읽기 전용 DMG 볼륨을 만들 수 있습니다.\n\n볼륨 이름을 직접 지정하거나, 압축하는 파일에 따른 이름을 사용할 수 있습니다.";
+"2189.title" = "압축된 읽기 전용 DMG 볼륨을 만들 수 있습니다.\n\n볼륨 이름을 지정하지 않으면 압축하는 파일에 따른 기본 이름이 사용됩니다.";
 
 /* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "2221"; */
-"2221.title" = "단일 파일로 압축";
+"2221.title" = "따로따로 압축하기";
 
 /* Class = "NSButtonCell"; title = "Delete file(s) after compression"; ObjectID = "2222"; */
 "2222.title" = "압축 완료 후 파일 삭제";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks"; ObjectID = "2244"; */
-"2244.title" = "Mac 전용 파일 포함 안하기 (예: .DS_Store)";
+"2244.title" = "Mac 리소스 포크 (예: .DS_Store) 포함 안 함";
 
 /* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "2262"; */
 "2262.title" = "암호:";
@@ -96,10 +96,10 @@
 "2343.title" = "볼륨 이름:";
 
 /* Class = "NSTextFieldCell"; placeholderString = "custom name"; ObjectID = "2354"; */
-"2354.placeholderString" = "특정 이름 입력";
+"2354.placeholderString" = "사용자 지정 이름";
 
 /* Class = "NSTextFieldCell"; title = "You can create a ISO volume that will be read-only and compressed. ISO volumes can be only created from a folder.\n\nSet a volume name to this ISO or use the default name based on the files you compress."; ObjectID = "2363"; */
-"2363.title" = "압축된 읽기 전용 ISO 볼륨을 만들 수 있습니다. 폴더를 ISO 볼륨으로 만들 수도 있습니다.\n\n볼륨 이름을 직접 지정하거나, 압축하는 파일에 따른 이름을 사용할 수 있습니다.";
+"2363.title" = "압축된 읽기 전용 ISO 볼륨을 만들 수 있습니다. 단일 폴더를 ISO 볼륨으로 만들 수 있습니다.\n\n볼륨 이름을 지정하지 않으면 압축하는 파일에 따른 기본 이름이 사용됩니다.";
 
 /* Class = "NSTextFieldCell"; title = "Store"; ObjectID = "2390"; */
 "2390.title" = "저장";
@@ -117,10 +117,10 @@
 "2426.title" = "암호 다시 입력:";
 
 /* Class = "NSButtonCell"; title = "Encrypt filenames"; ObjectID = "L2I-Q8-zqc"; */
-"L2I-Q8-zqc.title" = "파일이름 암호화";
+"L2I-Q8-zqc.title" = "파일 이름 암호화";
 
 /* Class = "NSButtonCell"; title = "Use AES-256 encryption"; ObjectID = "Lw7-h9-3Qh"; */
 "Lw7-h9-3Qh.title" = "AES-256 암호화 사용";
 
 /* Class = "NSButtonCell"; title = "Solid archive"; ObjectID = "UYy-aQ-V1a"; */
-"UYy-aQ-V1a.title" = "솔리드 압축 (단일 데이터 블록으로 압축)";
+"UYy-aQ-V1a.title" = "솔리드 압축";

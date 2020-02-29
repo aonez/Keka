@@ -156,3 +156,6 @@
 "There were some errors while registering the formats. There is more information in the Console.app." = "Xuất hiện lỗi trong lúc đăng ký định dạng. Thông tin chi tiết trình bày trong Console.app.";
 "The intermediate application can't get access to Keka." = "Ứng dụng trung gian không thể truy cập đến Keka.";
 "The intermediate application can't find Keka." = "Ứng dụng trung gian không tìm thấy Keka.";
+"Continue without encryption" = "Continue without encryption";
+"The password does not match" = "The password does not match";
+"The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption." = "The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption.";
