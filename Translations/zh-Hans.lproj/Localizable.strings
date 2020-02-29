@@ -156,6 +156,6 @@
 "There were some errors while registering the formats. There is more information in the Console.app." = "注册格式时出现错误。请在控制台中查看详情。";
 "The intermediate application can't get access to Keka." = "中间应用程序无法访问 Keka。";
 "The intermediate application can't find Keka." = "中间应用程序无法找到 Keka。";
-"Continue without encryption" = "Continue without encryption";
-"The password does not match" = "The password does not match";
-"The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption." = "The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption.";
+"Continue without encryption" = "不加密并继续";
+"The password does not match" = "密码不匹配";
+"The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption." = "密码设置不正确文件无法加密。您可以取消并重新设置密码或者在不加密的情况下继续";
