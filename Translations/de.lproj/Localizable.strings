@@ -156,6 +156,6 @@
 "There were some errors while registering the formats. There is more information in the Console.app." = "Es traten bei der Registrierung der Formate einige Fehler auf. Weitere Informationen finden Sie in der Applikation \"Konsole\".";
 "The intermediate application can't get access to Keka." = "Die Zwischenanwendung erhält keinen Zugriff auf Keka.";
 "The intermediate application can't find Keka." = "Die Zwischenanwendung findet Keka nicht.";
-"Continue without encryption" = "Continue without encryption";
-"The password does not match" = "The password does not match";
-"The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption." = "The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption.";
+"Continue without encryption" = "Ohne Verschlüsslung fortfahren";
+"The password does not match" = "Die Passwörter stimmen nicht überein";
+"The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption." = "Das Passwort wurde nicht korrekt gesetzt, daher konnte die Datei nicht verschlüsselt werden. Sie können den Vorgang abbrechen, um das Passwort erneut zu setzen oder ohne Verschlüsslung fortfahren.";
