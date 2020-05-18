@@ -13,10 +13,10 @@
 "Want to make Keka your default compressor?" = "¿Quieres que Keka sea tu compresor por defecto?";
 "This means that all the compatible files will be extracted with Keka by now. You can set this later in the Keka Preferences." = "Esto significa que todos los archivos compatibles serán descomprimidos con Keka. Puedes hacer que Keka sea tu compresor por defecto en cualquier otro momento desde las Preferencias.";
 "Really want to close Keka?" = "¿Seguro que quieres salir de Keka?";
-"The current operations will be canceled. If you choose to wait and quit Keka will exit when all work is done." = "Las operaciones que se están ejecutando se cancelarán. Si elige esperar y salir, Keka saldrá cuando todo el trabajo esté terminado.";
+"The current operations will be canceled. If you choose to wait and quit Keka will exit when all work is done." = "Las operaciones que se están ejecutando se cancelarán. Si elige esperar y salir, Keka saldrá cuando todo el trabajo haya terminado.";
 "Password needed" = "Se necesita una contraseña";
 "File \"%@\" needs a password to be extracted" = "El archivo \"%@\" necesita una contraseña para ser descomprimido";
-"File \"%@\" needs a special encoding to be extracted" = "El archivo \"%@\" necesita una codificación especial para extraerse";
+"File \"%@\" needs a special encoding to be extracted" = "El archivo \"%@\" necesita una codificación especial para ser extraído";
 "Extraction of \"%@\" done" = "El archivo \"%@\" se ha descomprimido";
 "Extraction of \"%@\" failed." = "La descompresión del archivo \"%@\" ha fallado.";
 "Extraction of %i files done" = "%i archivos extraídos correctamente";
