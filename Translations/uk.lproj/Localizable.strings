@@ -20,10 +20,10 @@
 "Extraction of \"%@\" done" = "Розпакування \"%@\" завершено";
 "Extraction of \"%@\" failed." = "Розпакування \"%@\" не вдалося.";
 "Extraction of %i files done" = "Розпаковано %i файлів завершено";
-"Extraction complete" = "Розапкування завершено";
-"Extraction fail" = "Не вдалося розапкувати";
+"Extraction complete" = "Розпакування завершено";
+"Extraction fail" = "Не вдалося розпакувати";
 "Compression complete" = "Стиснення завершено";
-"File \"%@\" created" = "Файо \"%@\" створено";
+"File \"%@\" created" = "Файл \"%@\" створено";
 "Compression fail" = "Не вдалося стиснути";
 "File \"%@\" cannot be created" = "Файл \"%@\" неможливо створити";
 "Operation not implemented" = "Операція не реалізована";
@@ -72,7 +72,7 @@
 "Extract" = "Розпакувати";
 " - Remaining: Calculating..." = " - Залишилося: розрахування ...";
 " - Remaining: About one second" = " - Залишилося: близько однієї секунди";
-" - Remaining: About %d seconds" = " - Залишилося: близько %d секунди";
+" - Remaining: About %d seconds" = " - Залишилося: близько %d секунд";
 " - Remaining: About 1 minute" = " - Залишилося: близько 1 хвилини";
 " - Remaining: About %d minutes" = " - Залишилося: близько %d хвилин";
 " - Remaining: About 1 hour" = " - Залишилося: близько 1 години";
