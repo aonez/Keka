@@ -18,8 +18,8 @@
 "File \"%@\" needs a password to be extracted" = "Introduïu la contrasenya per extreure el contingut de l'arxiu  «%@».";
 "File \"%@\" needs a special encoding to be extracted" = "File \"%@\" needs a special encoding to be extracted";
 "Extraction of \"%@\" done" = "S'ha extret el contingut de l'arxiu «%@» correctament";
-"Extraction of \"%@\" failed." = "Ha fallat l'extracció del fitxer «%@».";
-"Extraction of %i files done" = "S'han extret %i fitxers correctament";
+"Extraction of \"%@\" failed." = "Ha fallat l'extracció de l'arxiu «%@».";
+"Extraction of %i files done" = "S'han extret %i arxius correctament";
 "Extraction complete" = "Extracció finalitzada";
 "Extraction fail" = "Ha fallat l'extracció";
 "Compression complete" = "Compressió completada";
@@ -101,7 +101,7 @@
 "Ask each time" = "Demana-ho sempre";
 "Next to original file" = "Al costat de l'original";
 "Custom folder..." = "Carpeta personalitzada...";
-"Same as original file" = "El mateix que el fitxer original";
+"Same as original file" = "El mateix que l'arxiu original";
 "Custom name..." = "Nom personalitzat...";
 "Archive" = "Arxiu comprimit";
 "Set as default folder" = "Defineix com a carpeta per defecte";
@@ -135,7 +135,7 @@
 "This archive is locked" = "L'arxiu està blocat";
 "Write error. No permission? No space left?" = "Error d'escriptura. Sense permisos? Sense espai disponible?";
 "Can't open the file, maybe it's not accessible" = "No es pot obrir l'arxiu. Potser no està accessible";
-"No files matching the mask" = "No s'han trobat fitxers amb el filtre utilitzat";
+"No files matching the mask" = "No s'han trobat arxius amb el filtre utilitzat";
 "Give access" = "Donar accés";
 "Just folder access" = "Només accés a la carpeta";
 "Quit" = "Sortir";
@@ -164,11 +164,11 @@
 "Delete" = "Eliminar";
 "Continue without encryption" = "Continuar sense xifrar";
 "The password does not match" = "La contrasenya no coincideix";
-"The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption." = "La contrasenya no coincideix i no es pot xifrar el fitxer. Pots cancel·lar l'operació o continuar sense xifrar.";
+"The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption." = "La contrasenya no coincideix i no es pot xifrar l'arxiu. Pots cancel·lar l'operació o continuar sense xifrar.";
 "Use legacy encription" = "Fer servir xifrat bàsic";
 "Using AES-256 encryption in ZIP" = "Fent servir xifrat AES-256 en ZIP";
-"Note that most modern operating systems such as macOS or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities." = "La majoria dels sistemes operatius actuals com macOS o Windows no suporten fitxers ZIP xifrats fent servir AES-256 per defecte.\n\nPots obrir aquests fitxers sense problemes amb la major part dels aplicatius de compressió de tercers.";
-"Cannot create the file" = "Cannot create the file";
-"Keka has no file access to the source file/s\nGive it access when asked or manually in the Preferences" = "Keka has no file access to the source file/s\nGive it access when asked or manually in the Preferences";
-"Give access to the source/s folder" = "Give access to the source/s folder";
-"Give access to the compressed file" = "Give access to the compressed file";
+"Note that most modern operating systems such as macOS or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities." = "La majoria dels sistemes operatius actuals com macOS o Windows no suporten arxius ZIP xifrats fent servir AES-256 per defecte.\n\nPots obrir aquests arxius sense problemes amb la major part dels aplicatius de compressió de tercers.";
+"Cannot create the file" = "No s'ha pogut crear l'arxiu";
+"Keka has no file access to the source file/s\nGive it access when asked or manually in the Preferences" = "El Keka no té accés a l'arxiu. Pots donar-li quan es demani o manualment a les Preferencies";
+"Give access to the source/s folder" = "Dona accés a la/les carpeta/es";
+"Give access to the compressed file" = "Dona accés a l'arxiu comprimit";

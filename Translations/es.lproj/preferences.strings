@@ -132,7 +132,7 @@
 "453.title" = "Ninguno";
 
 /* Class = "NSButtonCell"; title = "Show icon in primary item"; ObjectID = "47Y-rt-2fG"; */
-"47Y-rt-2fG.title" = "Show icon in primary item";
+"47Y-rt-2fG.title" = "Mostrar un icono en el primer elemento";
 
 /* Class = "NSToolbarItem"; label = "Performance"; ObjectID = "4Uu-Uh-Sxc"; */
 "4Uu-Uh-Sxc.label" = "Rendimiento";
@@ -156,7 +156,7 @@
 "67Z-kB-INb.title" = "Escritorio";
 
 /* Class = "NSButtonCell"; title = "Nest actions in a submenu"; ObjectID = "6bh-6N-5PP"; */
-"6bh-6N-5PP.title" = "Nest actions in a submenu";
+"6bh-6N-5PP.title" = "Organizar las acciones en un submenú";
 
 /* Class = "NSTextFieldCell"; title = "You can use this placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
 "8JN-Ub-qkc.title" = "You can use this placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n\nThe replacements will be empty in some cases.";
@@ -231,7 +231,7 @@
 "ZOx-vr-5o7.title" = "Habilita el acceso completo a tu Mac para poder utilizar Keka en cualquier lugar:";
 
 /* Class = "NSButtonCell"; title = "Use \"Open with Keka\" as the primary item action"; ObjectID = "a5e-FP-sDv"; */
-"a5e-FP-sDv.title" = "Use \"Open with Keka\" as the primary item action";
+"a5e-FP-sDv.title" = "Utilizar \"Abrir con Keka\" como la acción primaria";
 
 /* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "b5e-bj-Pgz"; */
 "b5e-bj-Pgz.title" = "Utilizar la barra de herramientas unificada (reinicia la personalización)";
@@ -255,10 +255,10 @@
 "fhN-DK-edu.title" = "Queue extraction operations:";
 
 /* Class = "NSToolbarItem"; label = "Finder Extension"; ObjectID = "gAn-CW-VVK"; */
-"gAn-CW-VVK.label" = "Finder Extension";
+"gAn-CW-VVK.label" = "Extensión del Finder";
 
 /* Class = "NSToolbarItem"; paletteLabel = "Finder Extension"; ObjectID = "gAn-CW-VVK"; */
-"gAn-CW-VVK.paletteLabel" = "Finder Extension";
+"gAn-CW-VVK.paletteLabel" = "Extensión del Finder";
 
 /* Class = "NSTextFieldCell"; title = "Compressing a single file:"; ObjectID = "hLS-Ut-4fh"; */
 "hLS-Ut-4fh.title" = "Compressing a single file:";
@@ -279,10 +279,10 @@
 "pXT-7y-9af.title" = "Extraer siempre en una carpeta intermedia";
 
 /* Class = "NSButtonCell"; title = "Show Keka actions in Finder's contextual menu"; ObjectID = "rP2-XR-ZQt"; */
-"rP2-XR-ZQt.title" = "Show Keka actions in Finder's contextual menu";
+"rP2-XR-ZQt.title" = "Mostrar acciones del Keka en el menú contextual del Finder";
 
 /* Class = "NSButtonCell"; title = "Show icons in actions"; ObjectID = "s9u-2a-b8X"; */
-"s9u-2a-b8X.title" = "Show icons in actions";
+"s9u-2a-b8X.title" = "Mostrar iconos en las acciones";
 
 /* Class = "NSButtonCell"; title = "Enable external volumes access"; ObjectID = "sgV-AD-k4Q"; */
 "sgV-AD-k4Q.title" = "Habilitar el acceso a volúmenes externos";
@@ -294,7 +294,7 @@
 "tEH-O0-NxO.title" = "Nunca, cuando sea posible";
 
 /* Class = "NSTextFieldCell"; title = "The Finder Extension needs to be enabled in the  System Preferences, Extensions configuration."; ObjectID = "wgz-2S-eXI"; */
-"wgz-2S-eXI.title" = "The Finder Extension needs to be enabled in the  System Preferences, Extensions configuration.";
+"wgz-2S-eXI.title" = "La extensión del Finder se tiene que activar en las Preferencias del Sistema de , configuración de extensiones.";
 
 /* Class = "NSTextFieldCell"; title = "Most operations use multiple threads. That means faster operations but also more power consumption and heat. "; ObjectID = "xyb-eH-aiy"; */
 "xyb-eH-aiy.title" = "Most operations use multiple threads. That means faster operations but also more power consumption and heat. ";
@@ -303,7 +303,7 @@
 "yGo-Gm-0zq.title" = "Maximum simultaneous extractions:";
 
 /* Class = "NSButtonCell"; title = "Only show if Keka has file access"; ObjectID = "zPT-vj-EVo"; */
-"zPT-vj-EVo.title" = "Only show if Keka has file access";
+"zPT-vj-EVo.title" = "Mostrar sólo si Keka tiene acceso a los ficheros";
 
 /* Class = "NSTextFieldCell"; title = "Queing usually results in faster operations and a more responsive behaviour."; ObjectID = "zPq-ei-qUb"; */
 "zPq-ei-qUb.title" = "Queing usually results in faster operations and a more responsive behaviour.";
