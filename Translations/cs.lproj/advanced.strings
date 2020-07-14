@@ -1,46 +1,4 @@
-
-/* Class = "NSMenuItem"; title = "Perform automatic action"; ObjectID = "943"; */
-"943.title" = "Vybrat automaticky"; 
-
-/* Class = "NSMenuItem"; title = "Always compress"; ObjectID = "944"; */
-"944.title" = "Vždy zkomprimovat";
-
-/* Class = "NSMenuItem"; title = "Always extract"; ObjectID = "945"; */
-"945.title" = "Vždy rozbalit";
-
-/* Class = "NSMenuItem"; title = "Format"; ObjectID = "947"; */
-"947.title" = "Formát";
-
-/* Class = "NSMenu"; title = "Format"; ObjectID = "948"; */
-"948.title" = "Formát";
-
-/* Class = "NSMenuItem"; title = "Method"; ObjectID = "957"; */
-"957.title" = "Způsob komprese";
-
-/* Class = "NSMenu"; title = "Method"; ObjectID = "958"; */
-"958.title" = "Způsob komprese";
-
-/* Class = "NSMenuItem"; title = "No compression"; ObjectID = "960"; */
-"960.title" = "Žádná komprese";
-
-/* Class = "NSMenuItem"; title = "Fastest, less compression"; ObjectID = "961"; */
-"961.title" = "Nejrychlejší komprese, největší archiv";
-
-/* Class = "NSMenuItem"; title = "Fast, less compression"; ObjectID = "962"; */
-"962.title" = "Rychlá komprese, větší archiv";
-
-/* Class = "NSMenuItem"; title = "Normal"; ObjectID = "963"; */
-"963.title" = "Výchozí";
-
-/* Class = "NSMenuItem"; title = "Slow, more compression"; ObjectID = "964"; */
-"964.title" = "Pomalá komprese, menší archiv";
-
-/* Class = "NSMenuItem"; title = "Slowest, more compression"; ObjectID = "965"; */
-"965.title" = "Nejpomalejší komprese, nejmenší archiv";
-
-/* Class = "NSTextFieldCell"; title = "You can create a DMG volume that will be read-only and compressed.\n\nSet a volume name to this DMG or use the default name based on the files you compress."; ObjectID = "2189"; */
-"2189.title" = "Zde můžete vytvořit DMG svazek, který bude komprimovaný a pouze ke čtení.\n\Tento svazek pojmenujte, nebo použijte výchozí název.";
-
+﻿
 /* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "2221"; */
 "2221.title" = "Položky archivovat samostatně";
 
@@ -124,3 +82,6 @@
 
 /* Class = "NSButtonCell"; title = "Solid archive"; ObjectID = "UYy-aQ-V1a"; */
 "UYy-aQ-V1a.title" = "Ucelený archiv";
+
+/* Class = "NSButtonCell"; title = "Use BZIP2 compression"; ObjectID = "qhy-NU-Cts"; */
+"qhy-NU-Cts.title" = "Use BZIP2 compression";

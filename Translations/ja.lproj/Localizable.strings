@@ -26,6 +26,7 @@
 "File \"%@\" created" = "ファイル \"%@\" は作成されました";
 "Compression fail" = "圧縮できませんでした";
 "File \"%@\" cannot be created" = "ファイル \"%@\" は作成できません。";
+"\n(using fallback folder)" = "\n(using fallback folder)";
 "Operation not implemented" = "機能が実装されていません。";
 "Performing operation..." = "操作中...";
 "Waiting..." = "待機中...";
@@ -84,6 +85,8 @@
 " - Remaining: Less than one second" = "  -  残り時間: 1秒未満";
 "Can't show progress time..." = "進行時間が表示できません…";
 "Password for \"%@\"" = "\"%@\"用のパスワードを入力してください";
+"Format" = "圧縮形式";
+"Method" = "圧縮法";
 "Method:" = "圧縮法:";
 "No compression" = "圧縮しない";
 "Fastest, less compression" = "最も早い、圧縮率は最も低い";
@@ -100,7 +103,7 @@
 "Custom folder..." = "フォルダ名を指定...";
 "Same as original file" = "オリジナルファイルと同じ";
 "Custom name..." = "ファイル名を指定...";
-"Compressed file" = "圧縮ファイル";
+"Archive" = "アーカイブ";
 "Set as default folder" = "フォルダのデフォルトとして設定";
 "Perform automatic action" = "自動";
 "Always compress" = "常に圧縮する";
@@ -113,6 +116,7 @@
 "Drop here to compress" = "ここにドラッグすると圧縮します";
 "Binary \"%@\" is not accessible" = "Binary \"%@\" is not accessible";
 "The first part \"%@\" can't be found" = "\"%@\" の最初の部分が見つかりません。";
+"Unable to extract a folder" = "Unable to extract a folder";
 "unknown" = "不明";
 "Unknown error" = "不明なエラーが起きました";
 "Error code %d using \"%@\"\n%@" = "エラーコード %d\n\"%@\"を使用中に%@";
@@ -156,6 +160,15 @@
 "There were some errors while registering the formats. There is more information in the Console.app." = "There were some errors while registering the formats. There is more information in the Console.app.";
 "The intermediate application can't get access to Keka." = "The intermediate application can't get access to Keka.";
 "The intermediate application can't find Keka." = "The intermediate application can't find Keka.";
+"Show in Finder" = "Show in Finder";
+"Delete" = "Delete";
 "Continue without encryption" = "Continue without encryption";
 "The password does not match" = "The password does not match";
 "The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption." = "The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption.";
+"Use legacy encription" = "Use legacy encription";
+"Using AES-256 encryption in ZIP" = "Using AES-256 encryption in ZIP";
+"Note that most modern operating systems such as macOS or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities." = "Note that most modern operating systems such as macOS or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities.";
+"Cannot create the file" = "Cannot create the file";
+"Keka has no file access to the source file/s\nGive it access when asked or manually in the Preferences" = "Keka has no file access to the source file/s\nGive it access when asked or manually in the Preferences";
+"Give access to the source/s folder" = "Give access to the source/s folder";
+"Give access to the compressed file" = "Give access to the compressed file";

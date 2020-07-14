@@ -1,0 +1,15 @@
+"_PROJECTTITLE_" = "Проект Keka";
+"_PROGRAMMER_" = "Програмиране, дизайн &amp; поддръжка";
+"_ARTWORK_" = "Графичен дизайн";
+"_TRANSLATIONS_" = "Преводи";
+"_TRANSLATIONSOLD_" = "Преводи (от 0.1 до 0.1.4.3)";
+"_TESTERS_" = "Случайни тестери";
+"_DONATIONS_" = "Дарения (повечето сортирани по дата)";
+"_OPENSOURCE_" = "Keka използва отворен код";
+"_FREEWARE_" = "Keka използва безплатни библиотеки";
+"_ONEMORETHING_" = "Още нещо";
+"_THANKS_" = "Благодаря, че използвате Keka!";
+"_SOURCE_" = "Изходният код на Keka 1.0 не може да бъде пуснат публично, заради някои законови норми. За проекта е нужна юридическа поддръжка. Ако можете да помогнете за това, моля свържете се на info@keka.io или чрез контактната страница на официалния сайт на Keka. Всякаква помощ е добре дошла.";
+"_WARRANTY_" = "THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.";
+"_THANKSTOALL_" = "Thanks to all the donators and all who bought Keka from the App Store.<br />Thanks for all the feedback and the occasional contributions.<br />Thanks to Igor Pavlov for such a piece of great and open source application, and 'myspace' for porting it to POSIX.<br /><br />You all keep the Keka project alive and make it evolve.";
+"_APPEARDONATION_" = "If you donated and want to appear here, just <a href=\"mailto:info@keka.io?subject=Keka donation credits\">let me know</a> :)";

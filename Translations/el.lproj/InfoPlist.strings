@@ -12,6 +12,10 @@
 "ZIPX Archive" = "ZIPX αρχείο";
 "XZ Archive" = "XZ αρχείο";
 "XZ Tarball Archive" = "XZ Tarball αρχείο";
+"Brotli Archive" = "Brotli Archive";
+"Brotli Tarball Archive" = "Brotli Tarball Archive";
+"Zstandard Archive" = "Zstandard Archive";
+"Zstandard Tarball Archive" = "Zstandard Tarball Archive";
 "RAR Archive" = "RAR αρχείο";
 "RAR Legacy Archive Volume" = "RAR Legacy Τόμος Αρχείου";
 "Generic Archive Volume" = "Τόμος Γενικού Αρχείου";
@@ -22,6 +26,8 @@
 "GZIP Archive" = "GZIP αρχείο";
 "GZIP Tarball Archive" = "GZIP Tarball αρχείο";
 "TAR Archive" = "TAR αρχείο";
+"LRZIP Archive" = "LRZIP αρχείο";
+"LRZIP Tarball Archive" = "LRZIP Tarball αρχείο";
 "CPIO Archive" = "CPIO αρχείο";
 "CPGZ Archive" = "CPGZ αρχείο";
 "PAX Archive" = "PAX αρχείο";
@@ -30,6 +36,7 @@
 "LHA Archive" = "LHA αρχείο";
 "Windows EXE File" = "Windows EXE αρχείο";
 "Windows Cabinet File" = "Windows Cabinet αρχείο";
+"Windows Installer Package" = "Windows Installer Package";
 "WIM Disk Image" = "WIM Τόμος δίσκου";
 "Comic Book RAR Archive" = "Comic Book RAR αρχείο";
 "Comic Book ZIP Archive" = "Comic Book ZIP αρχείο";
@@ -40,4 +47,5 @@
 "Cross-Platform Installer Module (XPI)" = "Μονάδα εγκαταστάτη Cross-Platform (XPI)";
 "APPX Archive" = "APPX αρχείο";
 "Safari extension" = "Safari extension";
-"Keka WorkFlow" = "Keka WorkFlow";
+"ACE Archive" = "ACE Archive";
+"Keka Extraction Package" = "Keka Extraction Package";

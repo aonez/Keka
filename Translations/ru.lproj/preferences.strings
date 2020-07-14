@@ -1,15 +1,9 @@
 ﻿
-/* Class = "NSBox"; title = "Format"; ObjectID = "153"; */
-"153.title" = "Формат";
-
 /* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
 "159.title" = "Формат по умолчанию:";
 
 /* Class = "NSTextFieldCell"; title = "Default method:"; ObjectID = "160"; */
 "160.title" = "Метод по умолчанию:";
-
-/* Class = "NSTextFieldCell"; title = "Those are only applied when Keka is not open"; ObjectID = "161"; */
-"161.title" = "Для применения этих установок перезапустите программу";
 
 /* Class = "NSMenuItem"; title = "No compression"; ObjectID = "164"; */
 "164.title" = "Без сжатия";
@@ -35,12 +29,6 @@
 /* Class = "NSButtonCell"; title = "Close Keka when no windows are open"; ObjectID = "187"; */
 "187.title" = "Закрывать Keka при отсутствии видимых окон";
 
-/* Class = "NSBox"; title = "Actions"; ObjectID = "191"; */
-"191.title" = "Действия";
-
-/* Class = "NSTextFieldCell"; title = "Automatic action: Keka will decide whether to compress or uncompress based on file format and extension"; ObjectID = "194"; */
-"194.title" = "Автоматический выбор: Keka будет либо сжимать, либо распаковывать файл в зависимости от его расширения.";
-
 /* Class = "NSMenuItem"; title = "Always extract"; ObjectID = "197"; */
 "197.title" = "Всегда распаковывать";
 
@@ -61,12 +49,6 @@
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "265"; */
 "265.title" = "Исключить ветви ресурсов Mac (напр., .DS_Store)";
-
-/* Class = "NSBox"; title = "Name and location"; ObjectID = "270"; */
-"270.title" = "Местонахождение и имена файлов";
-
-/* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "276"; */
-"276.placeholderString" = "Укажите имя для новых файлов";
 
 /* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "279"; */
 "279.title" = "Спрашивать каждый раз";
@@ -106,9 +88,6 @@
 
 /* Class = "NSToolbarItem"; paletteLabel = "Extraction"; ObjectID = "338"; */
 "338.paletteLabel" = "Распаковка";
-
-/* Class = "NSBox"; title = "Location"; ObjectID = "352"; */
-"352.title" = "Местонахождение";
 
 /* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "357"; */
 "357.title" = "Спрашивать каждый раз";
@@ -152,6 +131,12 @@
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "453"; */
 "453.title" = "без звука";
 
+/* Class = "NSToolbarItem"; label = "Performance"; ObjectID = "4Uu-Uh-Sxc"; */
+"4Uu-Uh-Sxc.label" = "Performance";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Performance"; ObjectID = "4Uu-Uh-Sxc"; */
+"4Uu-Uh-Sxc.paletteLabel" = "Performance";
+
 /* Class = "NSTextFieldCell"; title = "You can also customize the access below:"; ObjectID = "5B7-Sc-wp0"; */
 "5B7-Sc-wp0.title" = "Вы также можете настроить права доступа ниже:";
 
@@ -161,11 +146,44 @@
 /* Class = "NSToolbarItem"; paletteLabel = "File Access"; ObjectID = "5eC-d6-04X"; */
 "5eC-d6-04X.paletteLabel" = "Доступ к файлам";
 
+/* Class = "NSButtonCell"; title = "Automatically check for updates"; ObjectID = "63y-ct-DNM"; */
+"63y-ct-DNM.title" = "Automatically check for updates";
+
+/* Class = "NSMenuItem"; title = "Desktop"; ObjectID = "67Z-kB-INb"; */
+"67Z-kB-INb.title" = "Desktop";
+
+/* Class = "NSTextFieldCell"; title = "You can use this placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
+"8JN-Ub-qkc.title" = "You can use this placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n\nThe replacements will be empty in some cases.";
+
+/* Class = "NSTextFieldCell"; title = "Fallback folder:"; ObjectID = "9dE-yV-N3K"; */
+"9dE-yV-N3K.title" = "Fallback folder:";
+
+/* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "CWc-wN-FhI"; */
+"CWc-wN-FhI.title" = "Custom folder...";
+
+/* Class = "NSTextFieldCell"; title = "Extractions use less power so even using multiple thread you can easily set this limit to two or three. Note that the target disk may suffer."; ObjectID = "DAr-Td-s5W"; */
+"DAr-Td-s5W.title" = "Extractions use less power so even using multiple thread you can easily set this limit to two or three. Note that the target disk may suffer.";
+
+/* Class = "NSButtonCell"; title = "Ask before quitting with opreations"; ObjectID = "DJT-wB-bCM"; */
+"DJT-wB-bCM.title" = "Ask before quitting with opreations";
+
 /* Class = "NSButtonCell"; title = "Enable home folder access"; ObjectID = "DL5-wY-cqc"; */
 "DL5-wY-cqc.title" = "Дать доступ к домашней папке";
 
-/* Class = "NSTextFieldCell"; title = "Here you can choose the folders you want to give access to Keka. Note that Keka can't be used where it has no access. If needed, Keka will ask for specific folder access."; ObjectID = "GDf-ZS-dTs"; */
-"GDf-ZS-dTs.title" = "Здесь вы можете выбрать папки, доступ к которым будет иметь Keka. Имейте в виду, что Keka не может работать там, где у неё нет доступа. Если потребуется, Keka спросит о доступе к определённой папке.";
+/* Class = "NSTextFieldCell"; title = "Default action:"; ObjectID = "EJQ-OL-pMF"; */
+"EJQ-OL-pMF.title" = "Default action:";
+
+/* Class = "NSMenuItem"; title = "Always"; ObjectID = "EOi-2B-eBv"; */
+"EOi-2B-eBv.title" = "Always";
+
+/* Class = "NSButtonCell"; title = "Use custom name when compressing multiple files"; ObjectID = "Ei5-Ya-HGI"; */
+"Ei5-Ya-HGI.title" = "Use custom name when compressing multiple files";
+
+/* Class = "NSTextFieldCell"; title = "It is recommended to only do one compression at a time if using multiple threads."; ObjectID = "Hkf-wB-gUj"; */
+"Hkf-wB-gUj.title" = "It is recommended to only do one compression at a time if using multiple threads.";
+
+/* Class = "NSTextFieldCell"; title = "Those are only applied when Keka is not open"; ObjectID = "Hx2-S1-j7m"; */
+"Hx2-S1-j7m.title" = "Для применения этих установок перезапустите программу.";
 
 /* Class = "NSButtonCell"; title = "Enable full Mac access (Recommended)"; ObjectID = "IHj-ac-103"; */
 "IHj-ac-103.title" = "Дать доступ ко всему Mac (Рекомендуется)";
@@ -173,11 +191,35 @@
 /* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive:"; ObjectID = "JxT-Nq-8Z5"; */
 "JxT-Nq-8Z5.title" = "Дать доступ к внешним хранилищам, чтобы Keka могла работать с внешними дисками, например USB- или Thunderbolt-накопителями:";
 
+/* Class = "NSTextFieldCell"; title = "Queue compression operations:"; ObjectID = "K5h-j5-bss"; */
+"K5h-j5-bss.title" = "Queue compression operations:";
+
+/* Class = "NSButtonCell"; title = "Inherit quarantine from downloaded files"; ObjectID = "KDR-ag-bll"; */
+"KDR-ag-bll.title" = "Inherit quarantine from downloaded files";
+
+/* Class = "NSTextFieldCell"; title = "Limit the number of threads per operation:"; ObjectID = "ND5-DN-C1H"; */
+"ND5-DN-C1H.title" = "Limit the number of threads per operation:";
+
 /* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder:"; ObjectID = "PD2-iW-BGK"; */
 "PD2-iW-BGK.title" = "Дать доступ к домашней папке, чтобы Keka могла работать со всеми вашими файлами, например на Рабочем столе или в папке Загрузки:";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "Включить интеграцию с Центром Уведомлений";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "TLc-Nk-Bps"; */
+"TLc-Nk-Bps.placeholderString" = "Here your custom name";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "WCN-jH-W9J"; */
+"WCN-jH-W9J.placeholderString" = "Укажите имя для новых файлов";
+
+/* Class = "NSButtonCell"; title = "Remove bad password header structure extractions"; ObjectID = "Wd0-yz-M1h"; */
+"Wd0-yz-M1h.title" = "Remove bad password header structure extractions";
+
+/* Class = "NSMenuItem"; title = "Automatic"; ObjectID = "XOB-JO-UQT"; */
+"XOB-JO-UQT.title" = "Automatic";
+
+/* Class = "NSButtonCell"; title = "Use BZIP2 compression in DMG files (better but slower)"; ObjectID = "Xoi-ui-e7P"; */
+"Xoi-ui-e7P.title" = "Use BZIP2 compression in DMG files (better but slower)";
 
 /* Class = "NSTextFieldCell"; title = "Enable full Mac access so Keka can be used on all your Mac:"; ObjectID = "ZOx-vr-5o7"; */
 "ZOx-vr-5o7.title" = "Дать доступ ко всему Mac, чтобы Keka могла работать с любыми файлами на этом Mac:";
@@ -185,8 +227,56 @@
 /* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "b5e-bj-Pgz"; */
 "b5e-bj-Pgz.title" = "Унифицированная панель инструментов (сброс настроек)";
 
+/* Class = "NSButtonCell"; title = "Use parent folder name when compressing multiple files"; ObjectID = "cDs-NB-2os"; */
+"cDs-NB-2os.title" = "Use parent folder name when compressing multiple files";
+
+/* Class = "NSTextFieldCell"; title = "The fallback folder will be used when Keka can't work in the selected folder."; ObjectID = "caX-B6-61f"; */
+"caX-B6-61f.title" = "The fallback folder will be used when Keka can't work in the selected folder.";
+
+/* Class = "NSButtonCell"; title = "Maximum threads per operation:"; ObjectID = "cb7-h4-ScP"; */
+"cb7-h4-ScP.title" = "Maximum threads per operation:";
+
+/* Class = "NSTextFieldCell"; title = "Compressing multiple files:"; ObjectID = "dhi-qv-weg"; */
+"dhi-qv-weg.title" = "Compressing multiple files:";
+
+/* Class = "NSButtonCell"; title = "Set folder's modification date to extraction date"; ObjectID = "eBj-1b-wBg"; */
+"eBj-1b-wBg.title" = "Set folder's modification date to extraction date";
+
+/* Class = "NSTextFieldCell"; title = "Queue extraction operations:"; ObjectID = "fhN-DK-edu"; */
+"fhN-DK-edu.title" = "Queue extraction operations:";
+
+/* Class = "NSTextFieldCell"; title = "Compressing a single file:"; ObjectID = "hLS-Ut-4fh"; */
+"hLS-Ut-4fh.title" = "Compressing a single file:";
+
 /* Class = "NSButtonCell"; title = "Use AES-256 when encrypting ZIP files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
 "hp7-jO-HeV.title" = "Использовать алгоритм AES-256 для шифрования ZIP-файлов (меньшая совместимость)";
 
+/* Class = "NSButtonCell"; title = "Maximum simultaneous operations:"; ObjectID = "o8J-bR-bs6"; */
+"o8J-bR-bs6.title" = "Maximum simultaneous operations:";
+
+/* Class = "NSTextFieldCell"; title = "Queue operations:"; ObjectID = "otI-Pt-BTh"; */
+"otI-Pt-BTh.title" = "Queue operations:";
+
+/* Class = "NSTextFieldCell"; title = "Keep source extension:"; ObjectID = "p5F-63-ubE"; */
+"p5F-63-ubE.title" = "Keep source extension:";
+
+/* Class = "NSButtonCell"; title = "Always extract in a subfolder"; ObjectID = "pXT-7y-9af"; */
+"pXT-7y-9af.title" = "Always extract in a subfolder";
+
 /* Class = "NSButtonCell"; title = "Enable external volumes access"; ObjectID = "sgV-AD-k4Q"; */
 "sgV-AD-k4Q.title" = "Дать доступ к внешним хранилищам";
+
+/* Class = "NSButtonCell"; title = "Maximum simultaneous compressions:"; ObjectID = "sjA-7B-5U6"; */
+"sjA-7B-5U6.title" = "Maximum simultaneous compressions:";
+
+/* Class = "NSMenuItem"; title = "Never, when possible"; ObjectID = "tEH-O0-NxO"; */
+"tEH-O0-NxO.title" = "Never, when possible";
+
+/* Class = "NSTextFieldCell"; title = "Most operations use multiple threads. That means faster operations but also more power consumption and heat. "; ObjectID = "xyb-eH-aiy"; */
+"xyb-eH-aiy.title" = "Most operations use multiple threads. That means faster operations but also more power consumption and heat. ";
+
+/* Class = "NSButtonCell"; title = "Maximum simultaneous extractions:"; ObjectID = "yGo-Gm-0zq"; */
+"yGo-Gm-0zq.title" = "Maximum simultaneous extractions:";
+
+/* Class = "NSTextFieldCell"; title = "Queing usually results in faster operations and a more responsive behaviour."; ObjectID = "zPq-ei-qUb"; */
+"zPq-ei-qUb.title" = "Queing usually results in faster operations and a more responsive behaviour.";
