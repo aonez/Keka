@@ -164,8 +164,8 @@
 /* Class = "NSTextFieldCell"; title = "Extractions use less power so even using multiple thread you can easily set this limit to two or three. Note that the target disk may suffer."; ObjectID = "DAr-Td-s5W"; */
 "DAr-Td-s5W.title" = "Extractions use less power so even using multiple thread you can easily set this limit to two or three. Note that the target disk may suffer.";
 
-/* Class = "NSButtonCell"; title = "Ask before quitting with opreations"; ObjectID = "DJT-wB-bCM"; */
-"DJT-wB-bCM.title" = "Ask before quitting with opreations";
+/* Class = "NSButtonCell"; title = "Ask before quitting with operations"; ObjectID = "DJT-wB-bCM"; */
+"DJT-wB-bCM.title" = "Ask before quitting with operations";
 
 /* Class = "NSButtonCell"; title = "Enable home folder access"; ObjectID = "DL5-wY-cqc"; */
 "DL5-wY-cqc.title" = "Ativar Acesso à Pasta Pessoal";
