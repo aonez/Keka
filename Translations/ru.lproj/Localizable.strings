@@ -16,7 +16,7 @@
 "The current operations will be canceled. If you choose to wait and quit Keka will exit when all work is done." = "Текущие операции будут отменены. Если вы выберете подождать и закрыть Keka, программа будет закрыта по завершении работы.";
 "Password needed" = "Введите пароль";
 "File \"%@\" needs a password to be extracted" = "Для распаковки файла \"%@\" требуется указать пароль";
-"File \"%@\" needs a special encoding to be extracted" = "File \"%@\" needs a special encoding to be extracted";
+"File \"%@\" needs a special encoding to be extracted" = "Файл \"%@\" требует специальной кодировки для распаковки";
 "Extraction of \"%@\" done" = "Распаковка файла \"%@\" завершена";
 "Extraction of \"%@\" failed." = "Не удалось распаковать файл \"%@\".";
 "Extraction of %i files done" = "Распаковка %i файлов завершена";
@@ -26,7 +26,7 @@
 "File \"%@\" created" = "Файл \"%@\" создан";
 "Compression fail" = "Не удалось сжать файл(ы)";
 "File \"%@\" cannot be created" = "Не удалось создать файл \"%@\" ";
-"\n(using fallback folder)" = "\n(using fallback folder)";
+"\n(using fallback folder)" = "\n(используя резервную папку)";
 "Operation not implemented" = "Операция не реализована";
 "Performing operation..." = "Выполнение операции...";
 "Waiting..." = "Ожидание...";
@@ -36,7 +36,7 @@
 "Creating file \"%@\"" = "Создание файла \"%@\"";
 "Creating file \"%@...\"" = "Создание файла \"%@...\"";
 "Volume name:" = "Имя образа диска:";
-"Select the encoding for \"%@\"" = "Select the encoding for \"%@\"";
+"Select the encoding for \"%@\"" = "Выберите кодировку для \"%@\"";
 "Time elapsed: %d:%@%d:%@%d hours%@" = "Прошло %d:%@%d:%@%d часов%@";
 "Time elapsed: %d:%@%d minutes%@" = "Прошло %d:%@%d минут%@";
 "Time elapsed: %d seconds%@" = "Прошло %d секунд%@";
@@ -57,7 +57,7 @@
 "Choose a folder to extract this file" = "Укажите папку для распаковки файла";
 "Choose where do you want to extract \"%@\"" = "Выберите, куда распаковать \"%@\"";
 "Select all the volumes from \"%@\" or the folder that contains them" = "Выберите все тома \"%@\" или содержащую их папку";
-"Select the folder that contains \"%@\"" = "Select the folder that contains \"%@\"";
+"Select the folder that contains \"%@\"" = "Выберите папку, которая содержит \"%@\"";
 "Extraction of \"%@\" failed" = "Не удалось распаковать \"%@\"";
 "Keka - %i on queue" = "Keka - %i в очереди";
 "Keka can't create this %@ image" = "Keka не удалось создать %@-образ";
@@ -116,7 +116,7 @@
 "Drop here to compress" = "Перетащите сюда для сжатия";
 "Binary \"%@\" is not accessible" = "Бинарник \"%@\" недоступен";
 "The first part \"%@\" can't be found" = "Первая часть \"%@\" не найдена";
-"Unable to extract a folder" = "Unable to extract a folder";
+"Unable to extract a folder" = "Невозможно извлечь папку";
 "unknown" = "неизвестно";
 "Unknown error" = "Неизвестная ошибка";
 "Error code %d using \"%@\"\n%@" = "Код ошибки %d при использовании \"%@\"\n%@";
@@ -160,14 +160,14 @@
 "There were some errors while registering the formats. There is more information in the Console.app." = "При регистрации форматов произошли некоторые ошибки. Больше информации — в приложении Консоль.";
 "The intermediate application can't get access to Keka." = "Приложение посредник не смогло получить доступ к Keka.";
 "The intermediate application can't find Keka." = "Приложение-посредник не может найти Keka.";
-"Show in Finder" = "Show in Finder";
-"Delete" = "Delete";
-"Continue without encryption" = "Continue without encryption";
-"The password does not match" = "The password does not match";
-"The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption." = "The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption.";
-"Use legacy encription" = "Use legacy encription";
-"Using AES-256 encryption in ZIP" = "Using AES-256 encryption in ZIP";
-"Note that most modern operating systems such as macOS or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities." = "Note that most modern operating systems such as macOS or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities.";
+"Show in Finder" = "Показать в Finder";
+"Delete" = "Удалить";
+"Continue without encryption" = "Продолжить без шифрования";
+"The password does not match" = "Пароль не совпадает";
+"The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption." = "Пароль не был установлен правильно, поэтому файл не может быть зашифрован. Вы можете отменить и установить пароль снова или продолжить процесс без шифрования.";
+"Use legacy encryption" = "Используйте устаревшее шифрование";
+"Using AES-256 encryption in ZIP" = "Использование AES-256 шифрования в ZIP";
+"Note that most modern operating systems such as macOS or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities." = "Обратите внимание, что большинство современных операционных систем, таких как macOS или Windows, по умолчанию не поддерживают зашифрованные ZIP-файлы AES-256.\n\nВы можете легко открыть эти файлы с помощью большинства сторонних утилит извлечения.";
 "Cannot create the file" = "Cannot create the file";
 "Keka has no file access to the source file/s\nGive it access when asked or manually in the Preferences" = "Keka has no file access to the source file/s\nGive it access when asked or manually in the Preferences";
 "Give access to the source/s folder" = "Give access to the source/s folder";

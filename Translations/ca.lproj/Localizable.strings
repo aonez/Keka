@@ -165,7 +165,7 @@
 "Continue without encryption" = "Continuar sense xifrar";
 "The password does not match" = "La contrasenya no coincideix";
 "The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption." = "La contrasenya no coincideix i no es pot xifrar l'arxiu. Pots cancel·lar l'operació o continuar sense xifrar.";
-"Use legacy encription" = "Fer servir xifrat bàsic";
+"Use legacy encryption" = "Fer servir xifrat bàsic";
 "Using AES-256 encryption in ZIP" = "Fent servir xifrat AES-256 en ZIP";
 "Note that most modern operating systems such as macOS or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities." = "La majoria dels sistemes operatius actuals com macOS o Windows no suporten arxius ZIP xifrats fent servir AES-256 per defecte.\n\nPots obrir aquests arxius sense problemes amb la major part dels aplicatius de compressió de tercers.";
 "Cannot create the file" = "No s'ha pogut crear l'arxiu";
