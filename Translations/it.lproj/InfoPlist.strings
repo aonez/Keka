@@ -12,10 +12,10 @@
 "ZIPX Archive" = "Archivio ZIPX";
 "XZ Archive" = "Archivio XZ";
 "XZ Tarball Archive" = "Archivio TAR compresso XZ";
-"Brotli Archive" = "Brotli Archive";
-"Brotli Tarball Archive" = "Brotli Tarball Archive";
-"Zstandard Archive" = "Zstandard Archive";
-"Zstandard Tarball Archive" = "Zstandard Tarball Archive";
+"Brotli Archive" = "Archivio Brotli";
+"Brotli Tarball Archive" = "Archivio Brotli Tarball";
+"Zstandard Archive" = "Archivio Zstandard";
+"Zstandard Tarball Archive" = "Archivio Zstandard Tarball";
 "RAR Archive" = "Archivio RAR";
 "RAR Legacy Archive Volume" = "Archivio volume RAR (Legacy)";
 "Generic Archive Volume" = "Archivio volume generico";
@@ -44,8 +44,8 @@
 "JAR Archive" = "Archivio JAR";
 "WAR Archive" = "Archivio WAR";
 "Android Application Package" = "File APK (Android)";
-"Cross-Platform Installer Module (XPI)" = "Cross-Platform Installer Module (XPI)";
+"Cross-Platform Installer Module (XPI)" = "Modulo di installazione multipiattaforma (XPI)";
 "APPX Archive" = "Archivio APPX";
 "Safari extension" = "Estensione di Safari";
-"ACE Archive" = "ACE Archive";
+"ACE Archive" = "Archivio ACE";
 "Keka Extraction Package" = "Keka Extraction Package";
