@@ -9,8 +9,8 @@
 */
 
 // Top-level, general application description:
-"ApplicationDescription" = "Keka is a file archiver for macOS.";
+"ApplicationDescription" = "Keka это файловый архиватор для macOS.";
 
 // Software update connection:
-"SoftwareUpdatePurpose" = "Keka checks for new versions connecting to u(pdate).keka.io.";
-"SoftwareUpdateDenyConsequences" = "If you deny this connection, you will not be notified about new versions of Keka.";
+"SoftwareUpdatePurpose" = "Keka подключается к u(pdate).keka.io для проверки наличия новых версий.";
+"SoftwareUpdateDenyConsequences" = "Если вы запретите это соединение, вы не будете проинформированы о новых версиях Keka.";
