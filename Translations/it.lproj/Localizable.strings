@@ -116,7 +116,7 @@
 "Drop here to compress" = "Rilascia qui per comprimere";
 "Binary \"%@\" is not accessible" = "Il binario \"%@\" non è accessibile";
 "The first part \"%@\" can't be found" = "La prima parte \"%@\" non può essere trovata";
-"Unable to extract a folder" = "Impossibile estrarre una cartella"";
+"Unable to extract a folder" = "Impossibile estrarre una cartella";
 "unknown" = "sconosciuto";
 "Unknown error" = "Errore sconosciuto";
 "Error code %d using \"%@\"\n%@" = "Codice errore %d utilizzando \"%@\"\n%@";
