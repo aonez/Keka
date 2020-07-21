@@ -26,6 +26,7 @@ $content_plataform = "$version_replace 또는 더 새로운 버전이 필요합�
 $content_download_text = "더 많이 저장하고, 안전하게 공유하세요";
 $content_download_love = "좋아요?";
 $content_download_legacy = "옛날 버전";
+$content_download_helper = "Helper";
 
 // Like
 $content_donation_button = "기부하기";
@@ -54,6 +55,10 @@ $content_info_text2 = "암호를 설정해서 고도로 암호화된 파일을 �
 $content_info_text3 = "만약 파일 크기가 너무 커서 이메일 첨부 또는 서버 업로드가 불가능하다면, 분할 압축을 해보세요.<br />압축 해제 시 다시 원본으로 돌아옵니다. :)";
 $content_info_compression = "Keka가 생성할 수 있는 파일 포맷은 다음과 같습니다:";
 $content_info_extraction = "Keka가 압축을 해제할 수 있는 파일 포맷은 다음과 같습니다:";
+
+// Default app
+$content_defaultapp_title = "Set Keka as the default extraction application";
+$content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">needs a helper <i class="far fa-question-circle"></i></a> to set itself as the default application.<br />Simply download and extract it, move it to the desktop and then open it.';
 
 // Main content of the page
 $content_context_menu = "Context 메뉴";

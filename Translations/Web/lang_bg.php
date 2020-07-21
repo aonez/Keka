@@ -26,6 +26,7 @@ $content_plataform = "Изисква $version_replace или по-нова";
 $content_download_text = "Съхрани повече, сподели поверително";
 $content_download_love = "Харесва ли ти?";
 $content_download_legacy = "Стари версии";
+$content_download_helper = "Helper";
 
 // Like
 $content_donation_button = "Направи дарение";
@@ -54,6 +55,10 @@ $content_info_text2 = "Споделяй сигурно само с парола 
 $content_info_text3 = "Ако файловете са наистина големи и не се събират на твоят имейл или сървъв, просто ги раздели на парчета.<br />Не се притеснявай, те все още могат да се обединят в един :)";
 $content_info_compression = "Keka може да създава файлове в следните формати:";
 $content_info_extraction = "И разархивирай всички тези формати:";
+
+// Default app
+$content_defaultapp_title = "Set Keka as the default extraction application";
+$content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">needs a helper <i class="far fa-question-circle"></i></a> to set itself as the default application.<br />Simply download and extract it, move it to the desktop and then open it.';
 
 // Main content of the page
 $content_context_menu = "Контекстово меню";

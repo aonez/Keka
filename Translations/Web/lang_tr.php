@@ -26,6 +26,7 @@ $content_plataform = "$version_replace veya daha yeni bir sürüm gerekiyor";
 $content_download_text = "Daha fazla saklama, gizlilikle paylaşma";
 $content_download_love = "Beğendin mi?";
 $content_download_legacy = "Eski sürüm";
+$content_download_helper = "Helper";
 
 // Like
 $content_donation_button = "Bağış yap";
@@ -54,6 +55,10 @@ $content_info_text2 = "Dosyaları sadece bir şifre belirleyerek ve yüksek dere
 $content_info_text3 = "Dosyalar çok büyükse, e-postanız veya sunucunuz kabul etmiyorsa, onları parçalara ayırın.<br />Endişelenmeyin, orijinal dosyanızı yeniden elde edeceksiniz. :)";
 $content_info_compression = "Keka bu formatlarda dosya oluşturabilir:";
 $content_info_extraction = "Ve tüm bu formatları genişletir:";
+
+// Default app
+$content_defaultapp_title = "Set Keka as the default extraction application";
+$content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">needs a helper <i class="far fa-question-circle"></i></a> to set itself as the default application.<br />Simply download and extract it, move it to the desktop and then open it.';
 
 // Main content of the page
 $content_context_menu = "İçerik menüsü";

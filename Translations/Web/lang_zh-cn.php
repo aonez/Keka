@@ -26,6 +26,7 @@ $content_plataform = "需要 $version_replace 或更高版本";
 $content_download_text = "便捷存储，共享安全";
 $content_download_love = "喜欢吗？";
 $content_download_legacy = "历史版本";
+$content_download_helper = "Helper";
 
 // Like
 $content_donation_button = "捐赠";
@@ -54,6 +55,10 @@ $content_info_text2 = "安全的共享文件只需通过设置密码来创建安
 $content_info_text3 = "如果文件实在太大并且它们不适用于邮件发送或网络传输，请将它们分卷压缩。<br />不用担心，它们依然可以解压出原来的文件 :)";
 $content_info_compression = "Keka 可以创建以下格式的压缩文件：";
 $content_info_extraction = "并支持解压这些格式：";
+
+// Default app
+$content_defaultapp_title = "Set Keka as the default extraction application";
+$content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">needs a helper <i class="far fa-question-circle"></i></a> to set itself as the default application.<br />Simply download and extract it, move it to the desktop and then open it.';
 
 // Main content of the page
 $content_context_menu = "服务菜单（右键服务";
