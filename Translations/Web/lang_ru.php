@@ -39,7 +39,6 @@ $content_beta_title = "Бета-версия Keka";
 $content_beta_text = "Вы можете протестировать новые возможности Keka перед релизом.<br />Если вы найдёте баг, следуйте в раздел ";
 $content_beta_unavailable = "На данный момент нет доступных бета-версий.";
 $content_beta_up = "Скачать новейшую версию";
-	
 
 // Legacy
 $content_plataform_legacy =  "Для $version_replace";

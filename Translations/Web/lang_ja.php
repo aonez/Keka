@@ -39,7 +39,6 @@ $content_beta_title = "Kekaのベータ版";
 $content_beta_text = "リリースされる前に、最新機能を評価することができます。<br />もしバグを見つけたり、何か報告したいことがある場合は、";
 $content_beta_unavailable = "現在ご利用できるベータ版はありません。";
 $content_beta_up = "最新版を取得する";
-	
 
 // Legacy
 $content_plataform_legacy =  "$version_replace 向け";

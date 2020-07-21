@@ -40,7 +40,6 @@ $content_beta_text = "Keka&apos;nın yakında çıkacak en yeni özelliklerini t
 $content_beta_unavailable = "Henüz beta mevcut değil.";
 $content_beta_up = "Son sürümü hemen edinin";
 
-
 // Legacy
 $content_plataform_legacy =  "$version_replace için";
 $content_legacy_title = "Keka&apos;nın eski sürümleri";

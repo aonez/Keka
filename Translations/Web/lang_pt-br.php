@@ -39,7 +39,6 @@ $content_beta_title = "Versão beta do Keka";
 $content_beta_text = "Teste os recursos mais recentes do Keka antes do lançamento oficial.<br />Caso encontre erros ou tenha algo a comunicar, clique em ";
 $content_beta_unavailable = "Não há versões beta disponíveis no momento.";
 $content_beta_up = "Obtenha a versão mais recente";
-	
 
 // Legacy
 $content_plataform_legacy =  "Para $version_replace";

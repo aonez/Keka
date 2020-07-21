@@ -31,7 +31,7 @@ $content_download_legacy = "Anteriores";
 // Like
 $content_donation_button = "Doar";
 $content_donation_title = 'Se gosta do Keka, demonstre o seu <i class="fa fa-heart" aria-hidden="true"></i>; <br />obtenha-o na App Store ou faça uma doação pelo PayPal!';
-$content_donation_mas = "Ao comprar o Keka na App Store, apoia o seu desenvolvimento.<br />O app é igual ao disponibilizado no site, só que as atualizações são feitas pela App Store.";
+$content_donation_mas = "Ao comprar o Keka na App Store, apoia o desenvolvimento.<br />O app é igual ao disponibilizado no site, só que as atualizações são feitas pela App Store.";
 $content_donation_paypal = "Se não gosta da App Store ou quer apenas explorar o Keka,<br />mas ao mesmo tempo, gosta do projeto e deseja demonstrar o seu apoio, use o PayPal para fazer uma doação.";
 
 // Beta
@@ -40,7 +40,6 @@ $content_beta_title = "Versão beta do Keka";
 $content_beta_text = "Teste os recursos mais recentes do Keka antes do lançamento oficial.<br />Caso encontre erros ou tenha algo a comunicar, clique em ";
 $content_beta_unavailable = "Não há versões beta disponíveis de momento.";
 $content_beta_up = "Obter a versão mais recente";
-	
 
 // Legacy
 $content_plataform_legacy =  "Para $version_replace";

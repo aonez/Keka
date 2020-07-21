@@ -40,7 +40,6 @@ $content_beta_text = "Можеш да изпробваш най-новите в�
 $content_beta_unavailable = "В момента няма налична beta версия.";
 $content_beta_up = "Свали последната версия";
 
-
 // Legacy
 $content_plataform_legacy =  "За $version_replace";
 $content_legacy_title = "Стари версии на Keka";

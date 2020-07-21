@@ -40,7 +40,6 @@ $content_beta_text = "Du kan teste de nyeste funksjonene til Keka før de blir l
 $content_beta_unavailable = "Det er ikke noen beta-versjon tilgjengelig for øyeblikket.";
 $content_beta_up = "Skaff nyeste versjon";
 
-
 // Legacy
 $content_plataform_legacy =  "For $version_replace";
 $content_legacy_title = "Foreldete versjoner av Keka";

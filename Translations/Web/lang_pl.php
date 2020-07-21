@@ -40,7 +40,6 @@ $content_beta_text = "Przetestuj najnowsze funkcje programu zanim zostaną wydan
 $content_beta_unavailable = "Aktualnie wersja Beta nie jest dostępna.";
 $content_beta_up = "Pobierz aktualną wersję";
 
-
 // Legacy
 $content_plataform_legacy =  "Wersja dla $version_replace";
 $content_legacy_title = "Starsza wersja programu Keka";

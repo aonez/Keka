@@ -38,7 +38,6 @@ $content_beta_title = "Keka 測試版";
 $content_beta_text = "您可以在正式版發佈之前測試 Keka 的最新功能。<br />如果您發現了錯誤或要報告某些事項，請轉到 ";
 $content_beta_unavailable = "目前沒有測試版。";
 $content_beta_up = "獲取最新版本";
-	
 
 // Legacy
 $content_plataform_legacy =  "適用於 $version_replace";
