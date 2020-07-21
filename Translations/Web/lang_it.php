@@ -26,7 +26,7 @@ $content_plataform = "Richiede $version_replace o superiore";
 $content_download_text = "Memorizza di più, condividi con la privacy";
 $content_download_love = "Ti piace?";
 $content_download_legacy = "Legacy";
-$content_download_helper = "Helper";
+$content_download_helper = "Assistente";
 
 // Like
 $content_donation_button = "Donazione";
@@ -57,8 +57,8 @@ $content_info_compression = "Keka può creare archivi in questi formati:";
 $content_info_extraction = "Ed estrarre tutti questi formati:";
 
 // Default app
-$content_defaultapp_title = "Set Keka as the default extraction application";
-$content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">needs a helper <i class="far fa-question-circle"></i></a> to set itself as the default application.<br />Simply download and extract it, move it to the desktop and then open it.';
+$content_defaultapp_title = "Imposta Keka come applicazione di estrazione di default";
+$content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">ha bisogno di un assistente <i class="far fa-question-circle"></i></a> per impostarsi come applicazione di default.<br />Basta scaricarlo ed estrarlo, spostarlo sulla scrivania e quindi aprirlo.';
 
 // Main content of the page
 $content_context_menu = "Menu contestuale";
