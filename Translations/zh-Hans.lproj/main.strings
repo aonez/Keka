@@ -9,7 +9,7 @@
 "52a-zm-Csr.title" = "打开日志文件夹";
 
 /* Class = "NSMenu"; title = "Debug"; ObjectID = "6lT-KW-uXA"; */
-"6lT-KW-uXA.title" = "Debug";
+"6lT-KW-uXA.title" = "调试";
 
 /* Class = "NSMenuItem"; title = "Create a debug session"; ObjectID = "B5q-0l-TAK"; */
 "B5q-0l-TAK.title" = "创建调试会话";
@@ -63,7 +63,7 @@
 "YHt-wh-fCp.title" = "显示工具栏";
 
 /* Class = "NSMenuItem"; title = "Debug"; ObjectID = "ZBc-IE-jQG"; */
-"ZBc-IE-jQG.title" = "Debug";
+"ZBc-IE-jQG.title" = "调试";
 
 /* Class = "NSMenuItem"; title = "New"; ObjectID = "bFm-YE-6u3"; */
 "bFm-YE-6u3.title" = "新建";
@@ -114,7 +114,7 @@
 "v5b-pg-pYC.title" = "拷贝";
 
 /* Class = "NSMenuItem"; title = "New Window"; ObjectID = "wLf-5U-sSh"; */
-"wLf-5U-sSh.title" = "New window";
+"wLf-5U-sSh.title" = "新窗口";
 
 /* Class = "NSMenuItem"; title = "Select All"; ObjectID = "wbR-ho-uar"; */
 "wbR-ho-uar.title" = "全选";

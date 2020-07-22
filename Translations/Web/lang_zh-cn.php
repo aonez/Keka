@@ -1,4 +1,4 @@
-<?php 
+<?php
 // Keka lang - version 0.31 - Started on 08/06/19 - by Max Sky
 //
 //
@@ -9,7 +9,7 @@ $content_language_locale = "zh-cn";
 //
 // Set $show_content_bottom_translator as true if you want to appear in the bottom of the page
 $show_content_bottom_translator = true;
-$content_bottom_translator = '由 <a href="https://www.maxsky.cc">Max Sky</a> 翻译.';
+$content_bottom_translator = '由 <a href="https://maxsky.cc">Max Sky</a> 翻译.';
 //
 //
 
@@ -57,8 +57,8 @@ $content_info_compression = "Keka 可以创建以下格式的压缩文件：";
 $content_info_extraction = "并支持解压这些格式：";
 
 // Default app
-$content_defaultapp_title = "Set Keka as the default extraction application";
-$content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">needs a helper <i class="far fa-question-circle"></i></a> to set itself as the default application.<br />Simply download and extract it, move it to the desktop and then open it.';
+$content_defaultapp_title = "设置 Keka 为默认解压应用程序";
+$content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">需使用一个小工具 <i class="far fa-question-circle"></i></a> 将其设置为默认应用程序。<br />下载该工具，解压后将其移至桌面并打开即可。';
 
 // Main content of the page
 $content_context_menu = "服务菜单（右键服务";
