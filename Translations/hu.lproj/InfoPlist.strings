@@ -12,6 +12,10 @@
 "ZIPX Archive" = "ZIPX archívum";
 "XZ Archive" = "XZ archívum";
 "XZ Tarball Archive" = "XZ tömörített TAR archívum";
+"Brotli Archive" = "Brotli Archive";
+"Brotli Tarball Archive" = "Brotli Tarball Archive";
+"Zstandard Archive" = "Zstandard Archive";
+"Zstandard Tarball Archive" = "Zstandard Tarball Archive";
 "RAR Archive" = "RAR archívum";
 "RAR Legacy Archive Volume" = "RAR örökölt kötet archívum";
 "Generic Archive Volume" = "Általános kötet archívum";
@@ -22,6 +26,8 @@
 "GZIP Archive" = "GZIP archívum";
 "GZIP Tarball Archive" = "GZIP tömörített TAR archívum";
 "TAR Archive" = "TAR archívum";
+"LRZIP Archive" = "LRZIP archívum";
+"LRZIP Tarball Archive" = "LRZIP tömörített TAR archívum";
 "CPIO Archive" = "CPIO archívum";
 "CPGZ Archive" = "CPGZ archívum";
 "PAX Archive" = "PAX archívum";
@@ -30,6 +36,7 @@
 "LHA Archive" = "LHA archívum";
 "Windows EXE File" = "Windows EXE fájl";
 "Windows Cabinet File" = "Windows Cabinet fájl";
+"Windows Installer Package" = "Windows Installer Package";
 "WIM Disk Image" = "WIM lemezkép";
 "Comic Book RAR Archive" = "Képregény RAR archívum";
 "Comic Book ZIP Archive" = "Képregény ZIP archívum";
@@ -40,4 +47,5 @@
 "Cross-Platform Installer Module (XPI)" = "Cross-Platform Installer Module (XPI)";
 "APPX Archive" = "APPX archívum";
 "Safari extension" = "Safari bővítmény";
-"Keka WorkFlow" = "Keka munkafolyamat";
+"ACE Archive" = "ACE Archive";
+"Keka Extraction Package" = "Keka Extraction Package";

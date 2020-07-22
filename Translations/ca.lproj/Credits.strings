@@ -1,0 +1,15 @@
+"_PROJECTTITLE_" = "El projecte Keka";
+"_PROGRAMMER_" = "Programador, dissenyador i mantenidor";
+"_ARTWORK_" = "Dissenyadors gràfics";
+"_TRANSLATIONS_" = "Traduccions";
+"_TRANSLATIONSOLD_" = "Traduccions (0.1 a 0.1.4.3)";
+"_TESTERS_" = "Verificadors ocassionals";
+"_DONATIONS_" = "Donacions (per data)";
+"_OPENSOURCE_" = "El Keka utilitza codi lliure";
+"_FREEWARE_" = "El Keka utilitza els binaris gratuïts";
+"_ONEMORETHING_" = "Una cosa més";
+"_THANKS_" = "Gràcies per utilitzar el Keka!";
+"_SOURCE_" = "El codi del Keka v1.0 no està disponible degut a uns problemes legals. Necessitem ajuda legal. Si podeu fer-nos un cop de mà amb temes legals, contacteu-nos a info@keka.io o també al web oficial del Keka. Qualsevol ajuda és benvinguda.";
+"_WARRANTY_" = "THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.";
+"_THANKSTOALL_" = "Gràcies a tothom qui ha fet una donació o ha adquirit el Keka mitjançant l'App Store.<br />Gràcies als que heu enviat comentaris i contribucions ocasionals.<br />Gràcies a Igor Pavlov per la seva gran aplicació de codi lliure, i a 'myspace' per fer-ho possible per a POSIX.<br /><br />Tots vosaltres feu que el projecte Keka continuï viu i evolucionant.";
+"_APPEARDONATION_" = "Si has fet una donació i vols aparèixer en aquesta llista <a href=\"mailto:info@keka.io?subject=Keka donation credits\">fes-nos-ho saber</a> :)";

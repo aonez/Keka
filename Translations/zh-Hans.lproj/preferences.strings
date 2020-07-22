@@ -1,15 +1,9 @@
 ﻿
-/* Class = "NSBox"; title = "Format"; ObjectID = "153"; */
-"153.title" = "格式";
-
 /* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
 "159.title" = "默认压缩格式：";
 
 /* Class = "NSTextFieldCell"; title = "Default method:"; ObjectID = "160"; */
 "160.title" = "默认压缩方式：";
-
-/* Class = "NSTextFieldCell"; title = "Those are only applied when Keka is not open"; ObjectID = "161"; */
-"161.title" = "这些设置只在 Keka 未打开时生效";
 
 /* Class = "NSMenuItem"; title = "No compression"; ObjectID = "164"; */
 "164.title" = "不压缩";
@@ -35,12 +29,6 @@
 /* Class = "NSButtonCell"; title = "Close Keka when no windows are open"; ObjectID = "187"; */
 "187.title" = "没有可见窗口时退出 Keka";
 
-/* Class = "NSBox"; title = "Actions"; ObjectID = "191"; */
-"191.title" = "操作";
-
-/* Class = "NSTextFieldCell"; title = "Automatic action: Keka will decide whether to compress or uncompress based on file format and extension"; ObjectID = "194"; */
-"194.title" = "自动操作：Keka 根据文件扩展名决定压缩还是解压";
-
 /* Class = "NSMenuItem"; title = "Always extract"; ObjectID = "197"; */
 "197.title" = "始终解压";
 
@@ -61,12 +49,6 @@
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "265"; */
 "265.title" = "排除 Mac 资源文件（例如：.DS_Store）";
-
-/* Class = "NSBox"; title = "Name and location"; ObjectID = "270"; */
-"270.title" = "名称和位置";
-
-/* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "276"; */
-"276.placeholderString" = "这里写下你的自定名称";
 
 /* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "279"; */
 "279.title" = "每次都询问";
@@ -106,9 +88,6 @@
 
 /* Class = "NSToolbarItem"; paletteLabel = "Extraction"; ObjectID = "338"; */
 "338.paletteLabel" = "解压";
-
-/* Class = "NSBox"; title = "Location"; ObjectID = "352"; */
-"352.title" = "位置";
 
 /* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "357"; */
 "357.title" = "每次都询问";
@@ -152,6 +131,15 @@
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "453"; */
 "453.title" = "无";
 
+/* Class = "NSButtonCell"; title = "Show icon in primary item"; ObjectID = "47Y-rt-2fG"; */
+"47Y-rt-2fG.title" = "Show icon in primary item";
+
+/* Class = "NSToolbarItem"; label = "Performance"; ObjectID = "4Uu-Uh-Sxc"; */
+"4Uu-Uh-Sxc.label" = "Performance";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Performance"; ObjectID = "4Uu-Uh-Sxc"; */
+"4Uu-Uh-Sxc.paletteLabel" = "Performance";
+
 /* Class = "NSTextFieldCell"; title = "You can also customize the access below:"; ObjectID = "5B7-Sc-wp0"; */
 "5B7-Sc-wp0.title" = "您还可以在下面自定义访问权限：";
 
@@ -161,11 +149,47 @@
 /* Class = "NSToolbarItem"; paletteLabel = "File Access"; ObjectID = "5eC-d6-04X"; */
 "5eC-d6-04X.paletteLabel" = "文件访问权限";
 
+/* Class = "NSButtonCell"; title = "Automatically check for updates"; ObjectID = "63y-ct-DNM"; */
+"63y-ct-DNM.title" = "Automatically check for updates";
+
+/* Class = "NSMenuItem"; title = "Desktop"; ObjectID = "67Z-kB-INb"; */
+"67Z-kB-INb.title" = "Desktop";
+
+/* Class = "NSButtonCell"; title = "Nest actions in a submenu"; ObjectID = "6bh-6N-5PP"; */
+"6bh-6N-5PP.title" = "Nest actions in a submenu";
+
+/* Class = "NSTextFieldCell"; title = "You can use this placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
+"8JN-Ub-qkc.title" = "You can use this placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n\nThe replacements will be empty in some cases.";
+
+/* Class = "NSTextFieldCell"; title = "Fallback folder:"; ObjectID = "9dE-yV-N3K"; */
+"9dE-yV-N3K.title" = "Fallback folder:";
+
+/* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "CWc-wN-FhI"; */
+"CWc-wN-FhI.title" = "Custom folder...";
+
+/* Class = "NSTextFieldCell"; title = "Extractions use less power so even using multiple thread you can easily set this limit to two or three. Note that the target disk may suffer."; ObjectID = "DAr-Td-s5W"; */
+"DAr-Td-s5W.title" = "解压缩使用的电力较少，所以即使使用多线程，你也可以将此限制设置为2或3。请注意，目标磁盘可能会受影响。";
+
+/* Class = "NSButtonCell"; title = "Ask before quitting with operations"; ObjectID = "DJT-wB-bCM"; */
+"DJT-wB-bCM.title" = "Ask before quitting with operations";
+
 /* Class = "NSButtonCell"; title = "Enable home folder access"; ObjectID = "DL5-wY-cqc"; */
 "DL5-wY-cqc.title" = "启用主文件夹访问权限";
 
-/* Class = "NSTextFieldCell"; title = "Here you can choose the folders you want to give access to Keka. Note that Keka can't be used where it has no access. If needed, Keka will ask for specific folder access."; ObjectID = "GDf-ZS-dTs"; */
-"GDf-ZS-dTs.title" = "在这里，您可以选择要授予 Keka 访问权限的文件夹。请注意，Keka 无法在无法访问的地方使用。如果需要，Keka 将要求特定的文件夹访问权限。";
+/* Class = "NSTextFieldCell"; title = "Default action:"; ObjectID = "EJQ-OL-pMF"; */
+"EJQ-OL-pMF.title" = "Default action:";
+
+/* Class = "NSMenuItem"; title = "Always"; ObjectID = "EOi-2B-eBv"; */
+"EOi-2B-eBv.title" = "Always";
+
+/* Class = "NSButtonCell"; title = "Use custom name when compressing multiple files"; ObjectID = "Ei5-Ya-HGI"; */
+"Ei5-Ya-HGI.title" = "Use custom name when compressing multiple files";
+
+/* Class = "NSTextFieldCell"; title = "It is recommended to only do one compression at a time if using multiple threads."; ObjectID = "Hkf-wB-gUj"; */
+"Hkf-wB-gUj.title" = "如果使用多线程，建议不同时执行多个压缩操作。";
+
+/* Class = "NSTextFieldCell"; title = "Those are only applied when Keka is not open"; ObjectID = "Hx2-S1-j7m"; */
+"Hx2-S1-j7m.title" = "这些设置只在 Keka 未打开时生效。";
 
 /* Class = "NSButtonCell"; title = "Enable full Mac access (Recommended)"; ObjectID = "IHj-ac-103"; */
 "IHj-ac-103.title" = "启用完整访问权限（推荐）";
@@ -173,20 +197,113 @@
 /* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive:"; ObjectID = "JxT-Nq-8Z5"; */
 "JxT-Nq-8Z5.title" = "启用外部卷访问，以便 Keka 可以与外部磁盘一起使用，例如 USB 或 Thunderbolt：";
 
+/* Class = "NSTextFieldCell"; title = "Queue compression operations:"; ObjectID = "K5h-j5-bss"; */
+"K5h-j5-bss.title" = "队列压缩操作：";
+
+/* Class = "NSButtonCell"; title = "Inherit quarantine from downloaded files"; ObjectID = "KDR-ag-bll"; */
+"KDR-ag-bll.title" = "从下载的文件继承隔离";
+
+/* Class = "NSTextFieldCell"; title = "Limit the number of threads per operation:"; ObjectID = "ND5-DN-C1H"; */
+"ND5-DN-C1H.title" = "限制每个操作的线程数：";
+
 /* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder:"; ObjectID = "PD2-iW-BGK"; */
 "PD2-iW-BGK.title" = "启用主文件夹访问，以便 Keka 可用于所有用户文件，例如桌面或下载文件夹：";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "启用通知中心集成";
 
+/* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "TLc-Nk-Bps"; */
+"TLc-Nk-Bps.placeholderString" = "Here your custom name";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "WCN-jH-W9J"; */
+"WCN-jH-W9J.placeholderString" = "这里写下你的自定名称";
+
+/* Class = "NSButtonCell"; title = "Remove bad password header structure extractions"; ObjectID = "Wd0-yz-M1h"; */
+"Wd0-yz-M1h.title" = "Remove bad password header structure extractions";
+
+/* Class = "NSMenuItem"; title = "Automatic"; ObjectID = "XOB-JO-UQT"; */
+"XOB-JO-UQT.title" = "Automatic";
+
+/* Class = "NSButtonCell"; title = "Use BZIP2 compression in DMG files (better but slower)"; ObjectID = "Xoi-ui-e7P"; */
+"Xoi-ui-e7P.title" = "Use BZIP2 compression in DMG files (better but slower)";
+
 /* Class = "NSTextFieldCell"; title = "Enable full Mac access so Keka can be used on all your Mac:"; ObjectID = "ZOx-vr-5o7"; */
 "ZOx-vr-5o7.title" = "启用完整的访问权限，以便可以在整个系统上使用 Keka：";
+
+/* Class = "NSButtonCell"; title = "Use \"Open with Keka\" as the primary item action"; ObjectID = "a5e-FP-sDv"; */
+"a5e-FP-sDv.title" = "Use \"Open with Keka\" as the primary item action";
 
 /* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "b5e-bj-Pgz"; */
 "b5e-bj-Pgz.title" = "使用一体式工具栏（会重置自定工具栏设置）";
 
+/* Class = "NSButtonCell"; title = "Use parent folder name when compressing multiple files"; ObjectID = "cDs-NB-2os"; */
+"cDs-NB-2os.title" = "Use parent folder name when compressing multiple files";
+
+/* Class = "NSTextFieldCell"; title = "The fallback folder will be used when Keka can't work in the selected folder."; ObjectID = "caX-B6-61f"; */
+"caX-B6-61f.title" = "The fallback folder will be used when Keka can't work in the selected folder.";
+
+/* Class = "NSButtonCell"; title = "Maximum threads per operation:"; ObjectID = "cb7-h4-ScP"; */
+"cb7-h4-ScP.title" = "Maximum threads per operation:";
+
+/* Class = "NSTextFieldCell"; title = "Compressing multiple files:"; ObjectID = "dhi-qv-weg"; */
+"dhi-qv-weg.title" = "Compressing multiple files:";
+
+/* Class = "NSButtonCell"; title = "Set folder's modification date to extraction date"; ObjectID = "eBj-1b-wBg"; */
+"eBj-1b-wBg.title" = "Set folder's modification date to extraction date";
+
+/* Class = "NSTextFieldCell"; title = "Queue extraction operations:"; ObjectID = "fhN-DK-edu"; */
+"fhN-DK-edu.title" = "Queue extraction operations:";
+
+/* Class = "NSToolbarItem"; label = "Finder Extension"; ObjectID = "gAn-CW-VVK"; */
+"gAn-CW-VVK.label" = "Finder Extension";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Finder Extension"; ObjectID = "gAn-CW-VVK"; */
+"gAn-CW-VVK.paletteLabel" = "Finder Extension";
+
+/* Class = "NSTextFieldCell"; title = "Compressing a single file:"; ObjectID = "hLS-Ut-4fh"; */
+"hLS-Ut-4fh.title" = "Compressing a single file:";
+
 /* Class = "NSButtonCell"; title = "Use AES-256 when encrypting ZIP files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
 "hp7-jO-HeV.title" = "加密 Zip 文件时使用 AES-256（兼容性较差）";
 
+/* Class = "NSButtonCell"; title = "Maximum simultaneous operations:"; ObjectID = "o8J-bR-bs6"; */
+"o8J-bR-bs6.title" = "最多同时进行的操作个数：";
+
+/* Class = "NSTextFieldCell"; title = "Queue operations:"; ObjectID = "otI-Pt-BTh"; */
+"otI-Pt-BTh.title" = "队列操作：";
+
+/* Class = "NSTextFieldCell"; title = "Keep source extension:"; ObjectID = "p5F-63-ubE"; */
+"p5F-63-ubE.title" = "Keep source extension:";
+
+/* Class = "NSButtonCell"; title = "Always extract in a subfolder"; ObjectID = "pXT-7y-9af"; */
+"pXT-7y-9af.title" = "Always extract in a subfolder";
+
+/* Class = "NSButtonCell"; title = "Show Keka actions in Finder's contextual menu"; ObjectID = "rP2-XR-ZQt"; */
+"rP2-XR-ZQt.title" = "Show Keka actions in Finder's contextual menu";
+
+/* Class = "NSButtonCell"; title = "Show icons in actions"; ObjectID = "s9u-2a-b8X"; */
+"s9u-2a-b8X.title" = "Show icons in actions";
+
 /* Class = "NSButtonCell"; title = "Enable external volumes access"; ObjectID = "sgV-AD-k4Q"; */
 "sgV-AD-k4Q.title" = "启用外部卷访问权限";
+
+/* Class = "NSButtonCell"; title = "Maximum simultaneous compressions:"; ObjectID = "sjA-7B-5U6"; */
+"sjA-7B-5U6.title" = "最多同时进行的压缩个数：";
+
+/* Class = "NSMenuItem"; title = "Never, when possible"; ObjectID = "tEH-O0-NxO"; */
+"tEH-O0-NxO.title" = "Never, when possible";
+
+/* Class = "NSTextFieldCell"; title = "The Finder Extension needs to be enabled in the  System Preferences, Extensions configuration."; ObjectID = "wgz-2S-eXI"; */
+"wgz-2S-eXI.title" = "The Finder Extension needs to be enabled in the  System Preferences, Extensions configuration.";
+
+/* Class = "NSTextFieldCell"; title = "Most operations use multiple threads. That means faster operations but also more power consumption and heat."; ObjectID = "xyb-eH-aiy"; */
+"xyb-eH-aiy.title" = "大多数操作使用多个线程。这会使处理速度变得更快，但也会造成更多电力消耗和发热。";
+
+/* Class = "NSButtonCell"; title = "Maximum simultaneous extractions:"; ObjectID = "yGo-Gm-0zq"; */
+"yGo-Gm-0zq.title" = "最多同时进行的解压缩个数：";
+
+/* Class = "NSButtonCell"; title = "Only show if Keka has file access"; ObjectID = "zPT-vj-EVo"; */
+"zPT-vj-EVo.title" = "Only show if Keka has file access";
+
+/* Class = "NSTextFieldCell"; title = "Queuing usually results in faster operations and a more responsive behaviour."; ObjectID = "zPq-ei-qUb"; */
+"zPq-ei-qUb.title" = "使用队列一般会使程序运行更快以及更灵敏。";

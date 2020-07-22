@@ -26,6 +26,7 @@
 "File \"%@\" created" = "文件“%@”已创建";
 "Compression fail" = "压缩失败";
 "File \"%@\" cannot be created" = "文件“%@”不能被创建";
+"\n(using fallback folder)" = "\n(using fallback folder)";
 "Operation not implemented" = "操作没有实现";
 "Performing operation..." = "正在执行操作…";
 "Waiting..." = "请稍候…";
@@ -84,6 +85,8 @@
 " - Remaining: Less than one second" = " - 剩余时间：不到 1 秒";
 "Can't show progress time..." = "无法显示进度时间…";
 "Password for \"%@\"" = "“%@”的密码";
+"Format" = "格式";
+"Method" = "压缩方式";
 "Method:" = "压缩方式:";
 "No compression" = "不压缩";
 "Fastest, less compression" = "非常快，低压缩率";
@@ -100,7 +103,7 @@
 "Custom folder..." = "自定文件夹…";
 "Same as original file" = "和原文件相同";
 "Custom name..." = "自定名称…";
-"Compressed file" = "压缩后的文件";
+"Archive" = "归档";
 "Set as default folder" = "设置为默认文件夹";
 "Perform automatic action" = "执行自动操作";
 "Always compress" = "始终压缩";
@@ -113,6 +116,7 @@
 "Drop here to compress" = "拖动到这里压缩";
 "Binary \"%@\" is not accessible" = "二进制文件“%@”不可访问";
 "The first part \"%@\" can't be found" = "无法找到“%@”的第一部分";
+"Unable to extract a folder" = "Unable to extract a folder";
 "unknown" = "未知";
 "Unknown error" = "未知错误";
 "Error code %d using \"%@\"\n%@" = "错误码 %d 使用“%@”\n%@";
@@ -156,6 +160,15 @@
 "There were some errors while registering the formats. There is more information in the Console.app." = "注册格式时出现错误。请在控制台中查看详情。";
 "The intermediate application can't get access to Keka." = "中间应用程序无法访问 Keka。";
 "The intermediate application can't find Keka." = "中间应用程序无法找到 Keka。";
+"Show in Finder" = "Show in Finder";
+"Delete" = "Delete";
 "Continue without encryption" = "不加密并继续";
 "The password does not match" = "密码不匹配";
 "The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption." = "密码设置不正确文件无法加密。您可以取消并重新设置密码或者在不加密的情况下继续";
+"Use legacy encryption" = "Use legacy encryption";
+"Using AES-256 encryption in ZIP" = "Using AES-256 encryption in ZIP";
+"Note that most modern operating systems such as macOS or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities." = "Note that most modern operating systems such as macOS or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities.";
+"Cannot create the file" = "Cannot create the file";
+"Keka has no file access to the source file/s\nGive it access when asked or manually in the Preferences" = "Keka has no file access to the source file/s\nGive it access when asked or manually in the Preferences";
+"Give access to the source/s folder" = "Give access to the source/s folder";
+"Give access to the compressed file" = "Give access to the compressed file";

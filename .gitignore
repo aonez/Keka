@@ -24,3 +24,4 @@ xcuserdata/
 .fseventsd/
 .DS_Store
 Translations/*.lproj/.*.conversion.md5
+Translations/*.lproj/Credits.html

@@ -12,6 +12,10 @@
 "ZIPX Archive" = "Archiv ZIPX";
 "XZ Archive" = "Archiv XZ";
 "XZ Tarball Archive" = "XZ Tarball";
+"Brotli Archive" = "Brotli Archive";
+"Brotli Tarball Archive" = "Brotli Tarball Archive";
+"Zstandard Archive" = "Zstandard Archive";
+"Zstandard Tarball Archive" = "Zstandard Tarball Archive";
 "RAR Archive" = "Archiv AR";
 "RAR Legacy Archive Volume" = "Zpětně kompatibilní archivní svazek RAR";
 "Generic Archive Volume" = "Obecný archivní svazek";
@@ -22,6 +26,8 @@
 "GZIP Archive" = "Archiv GZIP";
 "GZIP Tarball Archive" = "GZIP Tarball";
 "TAR Archive" = "Archiv TAR";
+"LRZIP Archive" = "Archiv LRZIP";
+"LRZIP Tarball Archive" = "LRZIP Tarball";
 "CPIO Archive" = "Archiv CPIO";
 "CPGZ Archive" = "Archiv CPGZ";
 "PAX Archive" = "Archiv PAX";
@@ -30,6 +36,7 @@
 "LHA Archive" = "Archiv LHA";
 "Windows EXE File" = "Soubor Windows EXE";
 "Windows Cabinet File" = "Soubor Windows CAB";
+"Windows Installer Package" = "Windows Installer Package";
 "WIM Disk Image" = "Obraz disku WIM";
 "Comic Book RAR Archive" = "Archiv Comic Book RAR";
 "Comic Book ZIP Archive" = "Archiv Comic Book ZIP";
@@ -40,4 +47,5 @@
 "Cross-Platform Installer Module (XPI)" = "Multiplatformní instalační modul (XPI)";
 "APPX Archive" = "Archiv APPX";
 "Safari extension" = "Rozšíření Safari";
-"Keka WorkFlow" = "Keka WorkFlow";
+"ACE Archive" = "ACE Archive";
+"Keka Extraction Package" = "Keka Extraction Package";

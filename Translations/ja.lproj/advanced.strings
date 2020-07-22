@@ -1,46 +1,4 @@
-
-/* Class = "NSMenuItem"; title = "Perform automatic action"; ObjectID = "943"; */
-"943.title" = "自動";
-
-/* Class = "NSMenuItem"; title = "Always compress"; ObjectID = "944"; */
-"944.title" = "常に圧縮する";
-
-/* Class = "NSMenuItem"; title = "Always extract"; ObjectID = "945"; */
-"945.title" = "常に解凍する";
-
-/* Class = "NSMenuItem"; title = "Format"; ObjectID = "947"; */
-"947.title" = "圧縮形式";
-
-/* Class = "NSMenu"; title = "Format"; ObjectID = "948"; */
-"948.title" = "圧縮形式";
-
-/* Class = "NSMenuItem"; title = "Method"; ObjectID = "957"; */
-"957.title" = "圧縮法";
-
-/* Class = "NSMenu"; title = "Method"; ObjectID = "958"; */
-"958.title" = "圧縮法";
-
-/* Class = "NSMenuItem"; title = "No compression"; ObjectID = "960"; */
-"960.title" = "圧縮しない";
-
-/* Class = "NSMenuItem"; title = "Fastest, less compression"; ObjectID = "961"; */
-"961.title" = "最も早い、圧縮率は最も低い";
-
-/* Class = "NSMenuItem"; title = "Fast, less compression"; ObjectID = "962"; */
-"962.title" = "早い、圧縮率は低い";
-
-/* Class = "NSMenuItem"; title = "Normal"; ObjectID = "963"; */
-"963.title" = "通常";
-
-/* Class = "NSMenuItem"; title = "Slow, more compression"; ObjectID = "964"; */
-"964.title" = "遅い、圧縮率は高い";
-
-/* Class = "NSMenuItem"; title = "Slowest, more compression"; ObjectID = "965"; */
-"965.title" = "最も遅い、圧縮率は最も高い";
-
-/* Class = "NSTextFieldCell"; title = "You can create a DMG volume that will be read-only and compressed.\n\nSet a volume name to this DMG or use the default name based on the files you compress."; ObjectID = "2189"; */
-"2189.title" = "圧縮された読み取り専用の dmg ディスクイメージを作成することができます。\n\n圧縮するファイルの名前を自動に使用するもしくは dmg のボリューム名を設定することができます。";
-
+﻿
 /* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "2221"; */
 "2221.title" = "個別の圧縮ファイルを作成する";
 
@@ -124,3 +82,6 @@
 
 /* Class = "NSButtonCell"; title = "Solid archive"; ObjectID = "UYy-aQ-V1a"; */
 "UYy-aQ-V1a.title" = "ソリッド圧縮";
+
+/* Class = "NSButtonCell"; title = "Use BZIP2 compression"; ObjectID = "qhy-NU-Cts"; */
+"qhy-NU-Cts.title" = "Use BZIP2 compression";

@@ -13,6 +13,7 @@ macOS version: [e.g. 10.14.6 (18G2022)]
 
 **Describe the bug**
 A clear and concise description of what the bug is.
+Attach a log file reproducing the issue: https://github.com/aonez/Keka/wiki/Report-an-issue
 
 **To Reproduce**
 Steps to reproduce the behavior:

@@ -1,0 +1,12 @@
+﻿
+/* Class = "NSButtonCell"; title = "Automatically save configuration changes"; ObjectID = "9ew-FN-7fK"; */
+"9ew-FN-7fK.title" = "Автоматически сохранять изменения конфигурации";
+
+/* Class = "NSButtonCell"; title = "Remove this configuration"; ObjectID = "OVd-YP-1Rw"; */
+"OVd-YP-1Rw.title" = "Удалить конфигурацию";
+
+/* Class = "NSButtonCell"; title = "Use as default window"; ObjectID = "TEo-Z0-eew"; */
+"TEo-Z0-eew.title" = "Использовать как окно по умолчанию";
+
+/* Class = "NSTextFieldCell"; title = "Window name:"; ObjectID = "z32-BZ-Pec"; */
+"z32-BZ-Pec.title" = "Имя окна:";

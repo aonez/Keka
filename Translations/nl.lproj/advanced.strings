@@ -1,46 +1,4 @@
-
-/* Class = "NSMenuItem"; title = "Perform automatic action"; ObjectID = "943"; */
-"943.title" = "Voer automatische actie uit";
-
-/* Class = "NSMenuItem"; title = "Always compress"; ObjectID = "944"; */
-"944.title" = "Altijd inpakken";
-
-/* Class = "NSMenuItem"; title = "Always extract"; ObjectID = "945"; */
-"945.title" = "Altijd uitpakken";
-
-/* Class = "NSMenuItem"; title = "Format"; ObjectID = "947"; */
-"947.title" = "Archiefformaat";
-
-/* Class = "NSMenu"; title = "Format"; ObjectID = "948"; */
-"948.title" = "Archiefformaat";
-
-/* Class = "NSMenuItem"; title = "Method"; ObjectID = "957"; */
-"957.title" = "Inpakmethode";
-
-/* Class = "NSMenu"; title = "Method"; ObjectID = "958"; */
-"958.title" = "Inpakmethode";
-
-/* Class = "NSMenuItem"; title = "No compression"; ObjectID = "960"; */
-"960.title" = "Opslaan";
-
-/* Class = "NSMenuItem"; title = "Fastest, less compression"; ObjectID = "961"; */
-"961.title" = "Snelste";
-
-/* Class = "NSMenuItem"; title = "Fast, less compression"; ObjectID = "962"; */
-"962.title" = "Snel";
-
-/* Class = "NSMenuItem"; title = "Normal"; ObjectID = "963"; */
-"963.title" = "Normaal";
-
-/* Class = "NSMenuItem"; title = "Slow, more compression"; ObjectID = "964"; */
-"964.title" = "Goed";
-
-/* Class = "NSMenuItem"; title = "Slowest, more compression"; ObjectID = "965"; */
-"965.title" = "Beste";
-
-/* Class = "NSTextFieldCell"; title = "You can create a DMG volume that will be read-only and compressed.\n\nSet a volume name to this DMG or use the default name based on the files you compress."; ObjectID = "2189"; */
-"2189.title" = "Een DMG-bestand dat je aanmaakt is alleen-lezen en gecomprimeerd.\n\nGeef een archiefnaam op voor dit DMG of gebruik een standaardnaam gebaseerd op de ingepakte bestanden.";
-
+﻿
 /* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "2221"; */
 "2221.title" = "Plaats elk bestand in een apart archief";
 
@@ -124,3 +82,6 @@
 
 /* Class = "NSButtonCell"; title = "Solid archive"; ObjectID = "UYy-aQ-V1a"; */
 "UYy-aQ-V1a.title" = "Compact archief maken";
+
+/* Class = "NSButtonCell"; title = "Use BZIP2 compression"; ObjectID = "qhy-NU-Cts"; */
+"qhy-NU-Cts.title" = "Use BZIP2 compression";

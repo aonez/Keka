@@ -26,6 +26,7 @@ $content_plataform = "Requiere $version_replace o superior";
 $content_download_text = "Almacena más, comparte con privacidad";
 $content_download_love = "Te gusta?";
 $content_download_legacy = "Antiguas";
+$content_download_helper = "Ayudante";
 
 // Like
 $content_donation_button = "Donar";
@@ -54,6 +55,10 @@ $content_info_text2 = "Con tan solo una contraseña podrás crear ficheros altam
 $content_info_text3 = "Si tus archivos son inmensamente enormes y no caben en tu correo o servidor, simplemente divídelos en trozos.<br />No te preocupes, volverán a juntarse de nuevo para convertirse en tu fichero original :)";
 $content_info_compression = "Con Keka puedes crear archivos utilizando estos formatos:";
 $content_info_extraction = "Y extraer todos estos formatos:";
+
+// Default app
+$content_defaultapp_title = "Establecer Keka como el descompresor predeterminado";
+$content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">necesita un ayudante <i class="far fa-question-circle"></i></a> para establecerse como la aplicación por defecto.<br />Simplemente descarga, extráe, mueve al escritorio y ejecuta el ayudante.';
 
 // Main content of the page
 $content_context_menu = "Menú contextual";
