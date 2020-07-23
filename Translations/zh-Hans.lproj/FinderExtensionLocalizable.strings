@@ -1,5 +1,5 @@
-"Open with Keka" = "Open with Keka";
-"Compress here" = "Compress here";
-"Extract here" = "Extract here";
-"Extract to \"%@\"" = "Extract to \"%@\"";
-"Compress with Keka" = "Compress with Keka";
+"Open with Keka" = "使用 Keka 打开";
+"Compress here" = "压缩当前位置";
+"Extract here" = "解压至当前位置";
+"Extract to \"%@\"" = "解压到 \"%@\"";
+"Compress with Keka" = "使用 Keka 压缩";
