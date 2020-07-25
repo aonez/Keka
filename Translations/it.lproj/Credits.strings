@@ -1,0 +1,15 @@
+"_PROJECTTITLE_" = "Il progetto Keka";
+"_PROGRAMMER_" = "Programmatore, disegnatore e gestore";
+"_ARTWORK_" = "Artwork designer";
+"_TRANSLATIONS_" = "Traduzioni";
+"_TRANSLATIONSOLD_" = "Traduzioni (dalla 0.1 alla 0.1.4.3)";
+"_TESTERS_" = "Tester occasionali";
+"_DONATIONS_" = "Donazioni (in ordine di data)";
+"_OPENSOURCE_" = "Keka utilizza il codice open source";
+"_FREEWARE_" = "Keka utilizza i binari freeware";
+"_ONEMORETHING_" = "Ancora una cosa";
+"_THANKS_" = "Grazie per aver utilizzato Keka!";
+"_SOURCE_" = "Il codice sorgente di Keka 1.0 non è pubblico a causa di alcuni aspetti legali. Il supporto legale è necessario, se potete aiutare il progetto in forza di legge, si prega di mettersi in contatto con info@keka.io o la pagina del progetto nel sito ufficiale Keka. Ogni aiuto è benvenuto.";
+"_WARRANTY_" = "QUESTO SOFTWARE È FORNITO DAL DETENTORE DEL COPYRIGHT E DAI CONTRIBUTORI \"COSÌ COM'È\" E QUALSIASI GARANZIA ESPRESSA O IMPLICITA, INCLUSIVA DI, MA NON LIMITATA A, GARANZIE IMPLICITE DI COMMERCIABILITÀ E IDONEITÀ AD UNO SCOPO PARTICOLARE, VIENE DISCONOSCIUTA. IN NESSUN CASO IL DETENTORE DEL COPYRIGHT O I CONTRIBUTORI SARANNO RITENUTI RESPONSABILI PER QUALSIASI DANNO DIRETTO, INDIRETTO, CONNESSO, PARTICOLARE, ESEMPLARE O CONSEGUENTE (INCLUSIVO DI, MA NON LIMITATO A, APPROVVIGIONAMENTO DI BENI O SERVIZI ALTERNATIVI; PERDITA DI UTILITÀ, DATI O PROFITTI; INTERRUZIONE DI AFFARI) COMUNQUE CAUSATI E SU QUALSIASI IPOTESI DI RESPONSABILITÀ, COME DA CONTRATTO, RESPONSABILITÀ OGGETTIVA, O TORTO (COMPRESA NEGLIGENZA O ALTRO) DERIVANTE IN QUALSIASI MODO DALL'UTILIZZO DI QUESTO SOFTWARE ANCHE SE AL CORRENTE DELLA POSSIBILITÀ DI TALE DANNO.";
+"_THANKSTOALL_" = "Grazie a tutti i donatori e a tutti coloro che hanno acquistato Keka da App Store.<br />Grazie per tutti i feedback ed i contributi occasionali.<br />Grazie a Igor Pavlov per una parte di applicazione grande e open source e 'myspace' per il porting a POSIX.<br /><br />Voi tutti che mantenete il progetto Keka vivo e lo fate evolvere.";
+"_APPEARDONATION_" = "Se hai fatto una donazione e vuoi apparire qui, <a href=\"mailto:info@keka.io?subject=Keka donation credits\">fammelo sapere</a> :)";

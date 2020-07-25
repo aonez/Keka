@@ -1,0 +1,15 @@
+"_PROJECTTITLE_" = "The Keka project";
+"_PROGRAMMER_" = "Programowanie i projekt aplikacji";
+"_ARTWORK_" = "Grafika";
+"_TRANSLATIONS_" = "Tłumaczenia";
+"_TRANSLATIONSOLD_" = "Tłumaczenia dla wersji 0.1 - 0.1.4.3";
+"_TESTERS_" = "Testerzy aplikacji";
+"_DONATIONS_" = "Mecenasi projektu";
+"_OPENSOURCE_" = "Wykorzystane źródła Open Source";
+"_FREEWARE_" = "Wykorzystane źródła Freeware";
+"_ONEMORETHING_" = "Podziękowania";
+"_THANKS_" = "Dziękujemy, że używasz Keka!";
+"_SOURCE_" = "Kod źródłowy projektu Keka 1.0 nie został udostępniony ze względu na kwestie prawne, jeżeli jesteś w stanie pomóc skontaktuj się z nami pod adresem info@keka.io lub poprzez oficjalną stronę projektu Keka. Każda forma wsparcia jest mile widziana.";
+"_WARRANTY_" = "THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.";
+"_THANKSTOALL_" = "Dziękujemy wszystkim użytkownikom za darowizny na rzecz projektu i zakup programu za pośrednictwem App Store.<br />Dziękujemy również za wszystkie opinie i wsparcie.<br />Specjalne podziękowania dla Igora Pavlov'a za znakomity projekt Open Source i umożliwienie portu na POSIX.<br /><br />To właśnie wy tworzycie projekt Keka i pozwalacie mu rozwijać skrzydła.";
+"_APPEARDONATION_" = "If you donated and want to appear here, just <a href=\"mailto:info@keka.io?subject=Keka donation credits\">let me know</a> :)";

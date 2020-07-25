@@ -26,6 +26,7 @@
 "File \"%@\" created" = "\"%@\" 파일이 생성되었습니다";
 "Compression fail" = "압축 실패";
 "File \"%@\" cannot be created" = "\"%@\" 파일을 생성할 수 없습니다";
+"\n(using fallback folder)" = "\n(using fallback folder)";
 "Operation not implemented" = "작업 구현되지 않음";
 "Performing operation..." = "작업 진행 중...";
 "Waiting..." = "기다리는 중...";
@@ -84,6 +85,8 @@
 " - Remaining: Less than one second" = " - 남은 시간: 1 초 미만";
 "Can't show progress time..." = "진행 시간을 표시할 수 없습니다...";
 "Password for \"%@\"" = "\"%@\" 파일 암호";
+"Format" = "압축 형식";
+"Method" = "압축 방법";
 "Method:" = "압축 방법:";
 "No compression" = "압축 안하기";
 "Fastest, less compression" = "가장 빠르게, 낮은 압축률";
@@ -100,7 +103,7 @@
 "Custom folder..." = "임의의 폴더...";
 "Same as original file" = "원본 파일과 똑같이";
 "Custom name..." = "임의의 이름...";
-"Compressed file" = "압축된 파일";
+"Archive" = "아카이브";
 "Set as default folder" = "기본 폴더로 설정";
 "Perform automatic action" = "자동";
 "Always compress" = "항상 압축";
@@ -113,6 +116,7 @@
 "Drop here to compress" = "압축을 하려면 여기에 끌어 놓으세요";
 "Binary \"%@\" is not accessible" = "바이너리 파일 \"%@\"에 접근할 수 없습니다.";
 "The first part \"%@\" can't be found" = "첫 번째 부분 \"%@\" 을(를) 찾을 수 없습니다.";
+"Unable to extract a folder" = "Unable to extract a folder";
 "unknown" = "알 수 없음";
 "Unknown error" = "알 수 없는 오류";
 "Error code %d using \"%@\"\n%@" = "Error code %d using \"%@\"\n%@";
@@ -156,6 +160,15 @@
 "There were some errors while registering the formats. There is more information in the Console.app." = "파일 형식을 등록하던 도중 오류가 발생했습니다. 더 많은 정보는 Console.app에 있습니다.";
 "The intermediate application can't get access to Keka." = "매개 프로그램이 Keka에 접근할 수 없습니다.";
 "The intermediate application can't find Keka." = "매개 프로그램이 Keka를 찾을 수 없습니다.";
+"Show in Finder" = "Show in Finder";
+"Delete" = "Delete";
 "Continue without encryption" = "Continue without encryption";
 "The password does not match" = "The password does not match";
 "The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption." = "The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption.";
+"Use legacy encryption" = "Use legacy encryption";
+"Using AES-256 encryption in ZIP" = "Using AES-256 encryption in ZIP";
+"Note that most modern operating systems such as macOS or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities." = "Note that most modern operating systems such as macOS or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities.";
+"Cannot create the file" = "Cannot create the file";
+"Keka has no file access to the source file/s\nGive it access when asked or manually in the Preferences" = "Keka has no file access to the source file/s\nGive it access when asked or manually in the Preferences";
+"Give access to the source/s folder" = "Give access to the source/s folder";
+"Give access to the compressed file" = "Give access to the compressed file";

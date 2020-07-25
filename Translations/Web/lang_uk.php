@@ -26,6 +26,7 @@ $content_plataform = "Потрібна $version_replace або новіше";
 $content_download_text = "Зберігайте більше, ділітесь безпечно";
 $content_download_love = "Сподобалося?";
 $content_download_legacy = "Більш ранні версії";
+$content_download_helper = "Helper";
 
 // Like
 $content_donation_button = "пожертвувати";
@@ -39,7 +40,6 @@ $content_beta_title = "Бета-версия Keka";
 $content_beta_text = "Ви можете протестувати нові можливості Keka перед релізом. <br /> Якщо ви знайдете баг, перейдіть в розділ";
 $content_beta_unavailable = "На даний момент немає доступних бета-версій.";
 $content_beta_up = "Завантажити нову версію";
-	
 
 // Legacy
 $content_plataform_legacy =  "Для $version_replace";
@@ -55,6 +55,10 @@ $content_info_text2 = "Передавайте дані більш безпечн
 $content_info_text3 = "Якщо ваші файли дійсно величезні, і не поміщаються в електронний лист або на сервер, поділіть їх на частини. <br /> Не хвилюйтеся, вони знову об'єднаються в вихідний файл :)";
 $content_info_compression = "Keka може створювати файли цих форматів:";
 $content_info_extraction = "І розпаковувати ці формати:";
+
+// Default app
+$content_defaultapp_title = "Set Keka as the default extraction application";
+$content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">needs a helper <i class="far fa-question-circle"></i></a> to set itself as the default application.<br />Simply download and extract it, move it to the desktop and then open it.';
 
 // Main content of the page
 $content_context_menu = "Контекстне меню";

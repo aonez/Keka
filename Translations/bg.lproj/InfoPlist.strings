@@ -12,6 +12,10 @@
 "ZIPX Archive" = "ZIPX Архив";
 "XZ Archive" = "XZ Архив";
 "XZ Tarball Archive" = "XZ Tarball Архив";
+"Brotli Archive" = "Brotli Archive";
+"Brotli Tarball Archive" = "Brotli Tarball Archive";
+"Zstandard Archive" = "Zstandard Archive";
+"Zstandard Tarball Archive" = "Zstandard Tarball Archive";
 "RAR Archive" = "RAR Архив";
 "RAR Legacy Archive Volume" = "RAR Legacy Archive Volume";
 "Generic Archive Volume" = "Generic Archive Volume";
@@ -22,6 +26,8 @@
 "GZIP Archive" = "GZIP Архив";
 "GZIP Tarball Archive" = "GZIP Tarball Архив";
 "TAR Archive" = "TAR Архив";
+"LRZIP Archive" = "LRZIP Архив";
+"LRZIP Tarball Archive" = "LRZIP Tarball Архив";
 "CPIO Archive" = "CPIO Архив";
 "CPGZ Archive" = "CPGZ Архив";
 "PAX Archive" = "PAX Архив";
@@ -30,6 +36,7 @@
 "LHA Archive" = "LHA Архив";
 "Windows EXE File" = "Windows EXE Файл";
 "Windows Cabinet File" = "Windows Cabinet Файл";
+"Windows Installer Package" = "Windows Installer Package";
 "WIM Disk Image" = "WIM Дисково изображение";
 "Comic Book RAR Archive" = "Comic Book RAR Архив";
 "Comic Book ZIP Archive" = "Comic Book ZIP Архив";
@@ -40,4 +47,5 @@
 "Cross-Platform Installer Module (XPI)" = "Cross-Platform Installer Module (XPI)";
 "APPX Archive" = "APPX Архив";
 "Safari extension" = "Safari extension";
-"Keka WorkFlow" = "Keka работен процес";
+"ACE Archive" = "ACE Archive";
+"Keka Extraction Package" = "Keka Extraction Package";

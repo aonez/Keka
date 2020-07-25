@@ -26,6 +26,7 @@ $content_plataform = "Yêu cầu $version_replace hoặc mới hơn";
 $content_download_text = "Lưu trữ nhiều hơn, chia sẻ riêng tư hơn";
 $content_download_love = "Bạn thích nó chứ?";
 $content_download_legacy = "Phiên bản cũ";
+$content_download_helper = "Helper";
 
 // Like
 $content_donation_button = "Quyên góp";
@@ -39,7 +40,6 @@ $content_beta_title = "Phiên bản Beta của Keka";
 $content_beta_text = "Bạn có thể chạy thử tính năng mới của Keka trước khi nó được phát hành chính thức.<br />Nếu bạn phát hiện lỗi hay muốn góp ý với chúng tôi, vui lòng truy cập vào ";
 $content_beta_unavailable = "Hiện tại không có phiên bản beta nào.";
 $content_beta_up = "Get the latest version";
-	
 
 // Legacy
 $content_plataform_legacy =  "Dành cho $version_replace";
@@ -55,6 +55,10 @@ $content_info_text2 = "Chia sẻ an toàn khi đặt mật khẩu và tạo các
 $content_info_text3 = "Nếu các tập tin quá lớn và không để nhét vừa email hay máy chủ, chỉ cần chia nhỏ chúng thành nhiều mảnh.<br />Đừng lo, chúng vẫn sẽ bảo lưu nguyên vẹn tập tin gốc của bạn :)";
 $content_info_compression = "Keka có thể tạo tập tin theo các định dạng sau:";
 $content_info_extraction = "Và giải nén tất cả các định dạng sau:";
+
+// Default app
+$content_defaultapp_title = "Set Keka as the default extraction application";
+$content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">needs a helper <i class="far fa-question-circle"></i></a> to set itself as the default application.<br />Simply download and extract it, move it to the desktop and then open it.';
 
 // Main content of the page
 $content_context_menu = "Danh mục";

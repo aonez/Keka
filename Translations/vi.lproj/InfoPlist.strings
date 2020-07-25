@@ -12,6 +12,10 @@
 "ZIPX Archive" = "ZIPX Archive";
 "XZ Archive" = "XZ Archive";
 "XZ Tarball Archive" = "XZ Tarball Archive";
+"Brotli Archive" = "Brotli Archive";
+"Brotli Tarball Archive" = "Brotli Tarball Archive";
+"Zstandard Archive" = "Zstandard Archive";
+"Zstandard Tarball Archive" = "Zstandard Tarball Archive";
 "RAR Archive" = "RAR Archive";
 "RAR Legacy Archive Volume" = "RAR Legacy Archive Volume";
 "Generic Archive Volume" = "Generic Archive Volume";
@@ -22,6 +26,8 @@
 "GZIP Archive" = "GZIP Archive";
 "GZIP Tarball Archive" = "GZIP Tarball Archive";
 "TAR Archive" = "TAR Archive";
+"LRZIP Archive" = "LRZIP Archive";
+"LRZIP Tarball Archive" = "LRZIP Tarball Archive";
 "CPIO Archive" = "CPIO Archive";
 "CPGZ Archive" = "CPGZ Archive";
 "PAX Archive" = "PAX Archive";
@@ -30,6 +36,7 @@
 "LHA Archive" = "LHA Archive";
 "Windows EXE File" = "Windows EXE File";
 "Windows Cabinet File" = "Windows Cabinet File";
+"Windows Installer Package" = "Windows Installer Package";
 "WIM Disk Image" = "WIM Disk Image";
 "Comic Book RAR Archive" = "Comic Book RAR Archive";
 "Comic Book ZIP Archive" = "Comic Book ZIP Archive";
@@ -40,4 +47,5 @@
 "Cross-Platform Installer Module (XPI)" = "Cross-Platform Installer Module (XPI)";
 "APPX Archive" = "APPX Archive";
 "Safari extension" = "Tiện ích mở rộng Safari";
-"Keka WorkFlow" = "Keka WorkFlow";
+"ACE Archive" = "ACE Archive";
+"Keka Extraction Package" = "Keka Extraction Package";

@@ -12,6 +12,10 @@
 "ZIPX Archive" = "ZIPX 封存檔";
 "XZ Archive" = "XZ 封存檔";
 "XZ Tarball Archive" = "XZ 壓縮的 TAR 封存檔";
+"Brotli Archive" = "Brotli Archive";
+"Brotli Tarball Archive" = "Brotli Tarball Archive";
+"Zstandard Archive" = "Zstandard Archive";
+"Zstandard Tarball Archive" = "Zstandard Tarball Archive";
 "RAR Archive" = "RAR 封存檔";
 "RAR Legacy Archive Volume" = "RAR Legacy Archive Volume";
 "Generic Archive Volume" = "Generic Archive Volume";
@@ -22,6 +26,8 @@
 "GZIP Archive" = "GZIP 封存檔";
 "GZIP Tarball Archive" = "GZIP 壓縮的 TAR 封存檔";
 "TAR Archive" = "TAR 封存檔";
+"LRZIP Archive" = "LRZIP 封存檔";
+"LRZIP Tarball Archive" = "LRZIP 壓縮的 TAR 封存檔";
 "CPIO Archive" = "CPIO 封存檔";
 "CPGZ Archive" = "CPGZ 封存檔";
 "PAX Archive" = "PAX 封存檔";
@@ -30,6 +36,7 @@
 "LHA Archive" = "LHA 封存檔";
 "Windows EXE File" = "Windows EXE File";
 "Windows Cabinet File" = "Windows Cabinet File";
+"Windows Installer Package" = "Windows Installer Package";
 "WIM Disk Image" = "WIM 磁碟映像檔";
 "Comic Book RAR Archive" = "Comic Book RAR 封存檔";
 "Comic Book ZIP Archive" = "Comic Book ZIP 封存檔";
@@ -40,4 +47,5 @@
 "Cross-Platform Installer Module (XPI)" = "Cross-Platform Installer Module (XPI)";
 "APPX Archive" = "APPX 封存檔";
 "Safari extension" = "Safari extension";
-"Keka WorkFlow" = "Keka 工作流程";
+"ACE Archive" = "ACE Archive";
+"Keka Extraction Package" = "Keka Extraction Package";

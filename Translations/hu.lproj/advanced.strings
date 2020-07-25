@@ -1,46 +1,4 @@
-
-/* Class = "NSMenuItem"; title = "Perform automatic action"; ObjectID = "943"; */
-"943.title" = "Automatikus művelet";
-
-/* Class = "NSMenuItem"; title = "Always compress"; ObjectID = "944"; */
-"944.title" = "Mindig tömörít";
-
-/* Class = "NSMenuItem"; title = "Always extract"; ObjectID = "945"; */
-"945.title" = "Mindig kibont";
-
-/* Class = "NSMenuItem"; title = "Format"; ObjectID = "947"; */
-"947.title" = "Formátum";
-
-/* Class = "NSMenu"; title = "Format"; ObjectID = "948"; */
-"948.title" = "Formátum";
-
-/* Class = "NSMenuItem"; title = "Method"; ObjectID = "957"; */
-"957.title" = "Tömörítés mértéke";
-
-/* Class = "NSMenu"; title = "Method"; ObjectID = "958"; */
-"958.title" = "Tömörítés mértéke";
-
-/* Class = "NSMenuItem"; title = "No compression"; ObjectID = "960"; */
-"960.title" = "Nincs tömörítés";
-
-/* Class = "NSMenuItem"; title = "Fastest, less compression"; ObjectID = "961"; */
-"961.title" = "Gyors, Legkevesebb tömörítés";
-
-/* Class = "NSMenuItem"; title = "Fast, less compression"; ObjectID = "962"; */
-"962.title" = "Kevés tömörítés";
-
-/* Class = "NSMenuItem"; title = "Normal"; ObjectID = "963"; */
-"963.title" = "Normál";
-
-/* Class = "NSMenuItem"; title = "Slow, more compression"; ObjectID = "964"; */
-"964.title" = "Jobb tömörítés";
-
-/* Class = "NSMenuItem"; title = "Slowest, more compression"; ObjectID = "965"; */
-"965.title" = "Lassú, legjobb tömörítés";
-
-/* Class = "NSTextFieldCell"; title = "You can create a DMG volume that will be read-only and compressed.\n\nSet a volume name to this DMG or use the default name based on the files you compress."; ObjectID = "2189"; */
-"2189.title" = "Itt létrehozhatsz egy tömörített, csak olvasható DMG lemezképet.\n\nÍrj be egy nevet a lemezkép számára, vagy használd az alapértelmezett értéket a tömörítendő fájlok alapján.";
-
+﻿
 /* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "2221"; */
 "2221.title" = "Arhiválás fájlonként";
 
@@ -124,3 +82,6 @@
 
 /* Class = "NSButtonCell"; title = "Solid archive"; ObjectID = "UYy-aQ-V1a"; */
 "UYy-aQ-V1a.title" = "Tömörítés egybefüggő blokként";
+
+/* Class = "NSButtonCell"; title = "Use BZIP2 compression"; ObjectID = "qhy-NU-Cts"; */
+"qhy-NU-Cts.title" = "Use BZIP2 compression";
