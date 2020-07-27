@@ -172,3 +172,6 @@
 "Keka has no file access to the source file/s\nGive it access when asked or manually in the Preferences" = "El Keka no té accés a l'arxiu. Pots donar-li quan es demani o manualment a les Preferencies";
 "Give access to the source/s folder" = "Dona accés a la/les carpeta/es";
 "Give access to the compressed file" = "Dona accés a l'arxiu comprimit";
+"The extension is enabled" = "L'extensió està habilitada";
+"The extension is disabled" = "L'extensió està deshabilitada";
+"The extension status can't be determined" = "No es pot determinar l'estat de l'extensió";
