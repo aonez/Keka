@@ -172,3 +172,6 @@
 "Keka has no file access to the source file/s\nGive it access when asked or manually in the Preferences" = "Keka non ha accesso al file sorgente\nConsentire l'accesso quando richiesto o manualmente nelle Preferenze";
 "Give access to the source/s folder" = "Consenti l'accesso alla cartella di origine";
 "Give access to the compressed file" = "Consenti l'accesso al file compresso";
+"The extension is enabled" = "The extension is enabled";
+"The extension is disabled" = "The extension is disabled";
+"The extension status can't be determined" = "The extension status can't be determined";
