@@ -3,7 +3,7 @@
 "9ew-FN-7fK.title" = "Automatically save configuration changes";
 
 /* Class = "NSButtonCell"; title = "Remove this configuration"; ObjectID = "OVd-YP-1Rw"; */
-"OVd-YP-1Rw.title" = "Remove this window";
+"OVd-YP-1Rw.title" = "Remove this configuration";
 
 /* Class = "NSButtonCell"; title = "Use as default window"; ObjectID = "TEo-Z0-eew"; */
 "TEo-Z0-eew.title" = "Use as default window";
