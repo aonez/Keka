@@ -156,7 +156,7 @@
 "67Z-kB-INb.title" = "Mesa";
 
 /* Class = "NSButtonCell"; title = "Nest actions in a submenu"; ObjectID = "6bh-6N-5PP"; */
-"6bh-6N-5PP.title" = "Reunir ações em submenu";
+"6bh-6N-5PP.title" = "Reunir ações em um submenu";
 
 /* Class = "NSTextFieldCell"; title = "You can use this placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
 "8JN-Ub-qkc.title" = "Você pode usar estes marcadores:\n\n%n será substituído pelo nome do arquivo\n%e será substituído pela extensão do arquivo\n%p será substituído pela pasta superior\n%c será substituído pelo número de arquivos\n%d será substituído pela data atual\n%t será substituído pela hora atual\n%s será substituído pelo nome compartilhado\n%i% será substituído pelo nome do primeiro item\n%ia% será substituído pelo primeiro nome da ordenação\n\nEm alguns casos, as substituições estarão vazias.";
@@ -168,7 +168,7 @@
 "CWc-wN-FhI.title" = "Pasta personalizada…";
 
 /* Class = "NSTextFieldCell"; title = "Extractions use less power so even using multiple thread you can easily set this limit to two or three. Note that the target disk may suffer."; ObjectID = "DAr-Td-s5W"; */
-"DAr-Td-s5W.title" = "Você pode definir tranquilamente este limite em dois ou três, já que,  mesmo ao usar threads múltiplos, extrações usam menos energia. Note que o disco de destino pode ser sobrecarregado.";
+"DAr-Td-s5W.title" = "Você pode definir este limite em dois ou três, já que, mesmo ao usar threads múltiplos, extrações usam menos energia. Note que o disco de destino pode ficar sobrecarregado.";
 
 /* Class = "NSButtonCell"; title = "Ask before quitting with operations"; ObjectID = "DJT-wB-bCM"; */
 "DJT-wB-bCM.title" = "Perguntar antes de encerrar com operações";
@@ -186,7 +186,7 @@
 "Ei5-Ya-HGI.title" = "Usar nome personalizado ao comprimir vários arquivos";
 
 /* Class = "NSTextFieldCell"; title = "It is recommended to only do one compression at a time if using multiple threads."; ObjectID = "Hkf-wB-gUj"; */
-"Hkf-wB-gUj.title" = "É recomendável fazer apenas uma operação de compressão por vez se você estiver usando threads múltiplos.";
+"Hkf-wB-gUj.title" = "Ao usar threads múltiplos, é recomendável fazer apenas uma operação de compressão por vez.";
 
 /* Class = "NSTextFieldCell"; title = "Those are only applied when Keka is not open"; ObjectID = "Hx2-S1-j7m"; */
 "Hx2-S1-j7m.title" = "Aplicáveis apenas quando o Keka não está aberto.";
@@ -204,7 +204,7 @@
 "KDR-ag-bll.title" = "Herdar quarentena de arquivos baixados";
 
 /* Class = "NSTextFieldCell"; title = "Limit the number of threads per operation:"; ObjectID = "ND5-DN-C1H"; */
-"ND5-DN-C1H.title" = "Limitar o número de threads por operação:";
+"ND5-DN-C1H.title" = "Limitar número de threads por operação:";
 
 /* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder:"; ObjectID = "PD2-iW-BGK"; */
 "PD2-iW-BGK.title" = "Ative o acesso à pasta pessoal para usar o Keka em todos os seus arquivos de usuário, como arquivos nas pastas Mesa e Downloads:";
@@ -261,7 +261,7 @@
 "gAn-CW-VVK.paletteLabel" = "Extensão do Finder";
 
 /* Class = "NSTextFieldCell"; title = "Compressing a single file:"; ObjectID = "hLS-Ut-4fh"; */
-"hLS-Ut-4fh.title" = "Compressão de arquivo individual:";
+"hLS-Ut-4fh.title" = "Compressão de um único arquivo:";
 
 /* Class = "NSButtonCell"; title = "Use AES-256 when encrypting ZIP files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
 "hp7-jO-HeV.title" = "Usar criptografia AES-256 em ZIPs (menos compatível)";
@@ -294,10 +294,10 @@
 "tEH-O0-NxO.title" = "Nunca, quando possível";
 
 /* Class = "NSTextFieldCell"; title = "The Finder Extension needs to be enabled in the  System Preferences, Extensions configuration."; ObjectID = "wgz-2S-eXI"; */
-"wgz-2S-eXI.title" = "A Extensão do Finder precisa ser ativada no painel Extensões das Preferências do Sistema.";
+"wgz-2S-eXI.title" = "A Extensão do Finder precisa ser ativada no painel Extensões das Preferências do Sistema.";
 
 /* Class = "NSTextFieldCell"; title = "Most operations use multiple threads. That means faster operations but also more power consumption and heat."; ObjectID = "xyb-eH-aiy"; */
-"xyb-eH-aiy.title" = "A maioria das operações usa threads múltiplos. Isso significa operações mais rápidas, mas também um maior consumo de energia e geração de calor.";
+"xyb-eH-aiy.title" = "A maioria das operações usa threads múltiplos. Isso resulta em operações mais rápidas, mas também em um maior consumo de energia e geração de calor.";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous extractions:"; ObjectID = "yGo-Gm-0zq"; */
 "yGo-Gm-0zq.title" = "Máximo de extrações simultâneas:";
