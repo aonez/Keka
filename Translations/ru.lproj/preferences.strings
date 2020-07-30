@@ -1,4 +1,4 @@
-﻿
+
 /* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
 "159.title" = "Формат по умолчанию:";
 
@@ -132,7 +132,7 @@
 "453.title" = "без звука";
 
 /* Class = "NSButtonCell"; title = "Show icon in primary item"; ObjectID = "47Y-rt-2fG"; */
-"47Y-rt-2fG.title" = "Show icon in primary item";
+"47Y-rt-2fG.title" = "Показывать иконку в начале пункта";
 
 /* Class = "NSToolbarItem"; label = "Performance"; ObjectID = "4Uu-Uh-Sxc"; */
 "4Uu-Uh-Sxc.label" = "Производительность";
@@ -156,7 +156,7 @@
 "67Z-kB-INb.title" = "Рабочий стол";
 
 /* Class = "NSButtonCell"; title = "Nest actions in a submenu"; ObjectID = "6bh-6N-5PP"; */
-"6bh-6N-5PP.title" = "Nest actions in a submenu";
+"6bh-6N-5PP.title" = "Область для действий в подменю";
 
 /* Class = "NSTextFieldCell"; title = "You can use this placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
 "8JN-Ub-qkc.title" = "Вы можете использовать эти примеры заполнения:\n\n%n будет заменено именем файла\n%e будет заменено расширением файла\n%p будет заменено родительской папкой\n%c будет заменено на число файлов\n%d будет заменено текущей датой\n%t будет заменено текущим временем\n%s будет заменено общим именем\n%i% будет заменено первым именем элемента\n%ia% будет заменено первым отсортированным именем\n\nЗамены в некоторых случаях будут пустыми.";
@@ -231,7 +231,7 @@
 "ZOx-vr-5o7.title" = "Дать доступ ко всему Mac, чтобы Keka могла работать с любыми файлами на этом Mac:";
 
 /* Class = "NSButtonCell"; title = "Use \"Open with Keka\" as the primary item action"; ObjectID = "a5e-FP-sDv"; */
-"a5e-FP-sDv.title" = "Use \"Open with Keka\" as the primary item action";
+"a5e-FP-sDv.title" = "Используйте \"Открыть с помощью Keka\" в качестве основного действия";
 
 /* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "b5e-bj-Pgz"; */
 "b5e-bj-Pgz.title" = "Унифицированная панель инструментов (сброс настроек)";
@@ -255,10 +255,10 @@
 "fhN-DK-edu.title" = "Очередь операций извлечения:";
 
 /* Class = "NSToolbarItem"; label = "Finder Extension"; ObjectID = "gAn-CW-VVK"; */
-"gAn-CW-VVK.label" = "Finder Extension";
+"gAn-CW-VVK.label" = "Расширение для Finder";
 
 /* Class = "NSToolbarItem"; paletteLabel = "Finder Extension"; ObjectID = "gAn-CW-VVK"; */
-"gAn-CW-VVK.paletteLabel" = "Finder Extension";
+"gAn-CW-VVK.paletteLabel" = "Расширение для Finder";
 
 /* Class = "NSTextFieldCell"; title = "Compressing a single file:"; ObjectID = "hLS-Ut-4fh"; */
 "hLS-Ut-4fh.title" = "Сжатие одного файла:";
@@ -279,10 +279,10 @@
 "pXT-7y-9af.title" = "Всегда распаковывать в промежуточную папку";
 
 /* Class = "NSButtonCell"; title = "Show Keka actions in Finder's contextual menu"; ObjectID = "rP2-XR-ZQt"; */
-"rP2-XR-ZQt.title" = "Show Keka actions in Finder's contextual menu";
+"rP2-XR-ZQt.title" = "Показывать действия Keka в контекстном меню Finder";
 
 /* Class = "NSButtonCell"; title = "Show icons in actions"; ObjectID = "s9u-2a-b8X"; */
-"s9u-2a-b8X.title" = "Show icons in actions";
+"s9u-2a-b8X.title" = "Показывать иконки в действиях";
 
 /* Class = "NSButtonCell"; title = "Enable external volumes access"; ObjectID = "sgV-AD-k4Q"; */
 "sgV-AD-k4Q.title" = "Дать доступ к внешним хранилищам";
@@ -294,7 +294,7 @@
 "tEH-O0-NxO.title" = "Никогда, когда это возможно";
 
 /* Class = "NSTextFieldCell"; title = "The Finder Extension needs to be enabled in the  System Preferences, Extensions configuration."; ObjectID = "wgz-2S-eXI"; */
-"wgz-2S-eXI.title" = "The Finder Extension needs to be enabled in the  System Preferences, Extensions configuration.";
+"wgz-2S-eXI.title" = "Расширение для Finder, должно быть активировано в Системных Настройках , настройки Расширений.";
 
 /* Class = "NSTextFieldCell"; title = "Most operations use multiple threads. That means faster operations but also more power consumption and heat."; ObjectID = "xyb-eH-aiy"; */
 "xyb-eH-aiy.title" = "Большое количество операций с использованием множества потоков, ведёт к увеличению скорости работы, а также к увеличению потребления энергии и выделению тепла.";
@@ -303,7 +303,7 @@
 "yGo-Gm-0zq.title" = "Максимум одновременно извлеченных:";
 
 /* Class = "NSButtonCell"; title = "Only show if Keka has file access"; ObjectID = "zPT-vj-EVo"; */
-"zPT-vj-EVo.title" = "Only show if Keka has file access";
+"zPT-vj-EVo.title" = "Показывать только если Keka, имеет доступ к файлу";
 
 /* Class = "NSTextFieldCell"; title = "Queuing usually results in faster operations and a more responsive behaviour."; ObjectID = "zPq-ei-qUb"; */
 "zPq-ei-qUb.title" = "Очередь обычно приводит к более быстрым операциям и более отзывчивому поведению.";
