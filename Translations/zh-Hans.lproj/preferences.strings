@@ -167,7 +167,7 @@
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "CWc-wN-FhI"; */
 "CWc-wN-FhI.title" = "自定义文件夹...";
 
-/* Class = "NSTextFieldCell"; title = "Extractions use less power so even using multiple thread you can easily set this limit to two or three. Note that the target disk may suffer."; ObjectID = "DAr-Td-s5W"; */
+/* Class = "NSTextFieldCell"; title = "Extractions use less power so even using multiple threads you can easily set this limit to two or three. Note that the target disk may suffer."; ObjectID = "DAr-Td-s5W"; */
 "DAr-Td-s5W.title" = "解压缩使用的电力较少，所以即使使用多线程，你也可以将此限制设置为2或3。请注意，目标磁盘可能会受影响。";
 
 /* Class = "NSButtonCell"; title = "Ask before quitting with operations"; ObjectID = "DJT-wB-bCM"; */
