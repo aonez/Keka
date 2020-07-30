@@ -170,7 +170,7 @@
 "Note that most modern operating systems such as macOS or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities." = "Note que a maioria dos sistemas operacionais, como o macOS ou Windows, não é compatível com a criptografia AES-256 nativamente.\n\nMas você pode abrir esses arquivos facilmente com a maioria dos utilitários de extração de terceiros.";
 "Cannot create the file" = "Não é possível criar o arquivo comprimido";
 "Keka has no file access to the source file/s\nGive it access when asked or manually in the Preferences" = "O Keka não possui acesso aos arquivos originais.\nConceda acesso quando solicitado ou manualmente nas Preferências.";
-"Give access to the source/s folder" = "Conceder Acesso à Pasta Original";
+"Give access to the source/s folder/s" = "Conceder Acesso à Pasta Original";
 "Give access to the compressed file" = "Conceder Acesso ao Arquivo Comprimido";
 "The extension is enabled" = "A extensão está ativada";
 "The extension is disabled" = "A extensão está desativada";
