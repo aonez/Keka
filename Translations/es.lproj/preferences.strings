@@ -167,7 +167,7 @@
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "CWc-wN-FhI"; */
 "CWc-wN-FhI.title" = "Carpeta personalizada...";
 
-/* Class = "NSTextFieldCell"; title = "Extractions use less power so even using multiple threads you can easily set this limit to two or three. Note that the target disk may suffer."; ObjectID = "DAr-Td-s5W"; */
+/* Class = "NSTextFieldCell"; title = "Extractions use less power so even using multiple thread you can easily set this limit to two or three. Note that the target disk may suffer."; ObjectID = "DAr-Td-s5W"; */
 "DAr-Td-s5W.title" = "Las extracciones requieren menos potencia con lo que se pueden realizar dos o tres simultáneamente sin problema. No obstante el disco de destino puede sufrir.";
 
 /* Class = "NSButtonCell"; title = "Ask before quitting with operations"; ObjectID = "DJT-wB-bCM"; */
