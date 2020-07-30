@@ -234,7 +234,7 @@
 "a5e-FP-sDv.title" = "Используйте \"Открыть с помощью Keka\" в качестве основного действия";
 
 /* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "b5e-bj-Pgz"; */
-"b5e-bj-Pgz.title" = "Унифицированная панель инструментов (сброс настроек)";
+"b5e-bj-Pgz.title" = "Использовать единую панель инструментов (сбрасывает настройки)";
 
 /* Class = "NSButtonCell"; title = "Use parent folder name when compressing multiple files"; ObjectID = "cDs-NB-2os"; */
 "cDs-NB-2os.title" = "Использовать имя родительской папки при сжатии нескольких файлов";
