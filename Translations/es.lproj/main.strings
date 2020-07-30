@@ -6,13 +6,13 @@
 "0Tk-5P-8i2.title" = "Servicios";
 
 /* Class = "NSMenuItem"; title = "Open logs folder"; ObjectID = "52a-zm-Csr"; */
-"52a-zm-Csr.title" = "Open logs folder";
+"52a-zm-Csr.title" = "Abrir la carpeta de registros";
 
 /* Class = "NSMenu"; title = "Debug"; ObjectID = "6lT-KW-uXA"; */
-"6lT-KW-uXA.title" = "Debug";
+"6lT-KW-uXA.title" = "Depurar";
 
 /* Class = "NSMenuItem"; title = "Create a debug session"; ObjectID = "B5q-0l-TAK"; */
-"B5q-0l-TAK.title" = "Create a debug session";
+"B5q-0l-TAK.title" = "Crear una sesión de depuración";
 
 /* Class = "NSMenuItem"; title = "Quit Keka"; ObjectID = "Boj-Hb-G0X"; */
 "Boj-Hb-G0X.title" = "Salir de Keka";
@@ -24,7 +24,7 @@
 "HpM-0q-Enu.title" = "Mostrar todos";
 
 /* Class = "NSMenuItem"; title = "Enable debug information"; ObjectID = "IkK-ST-X3F"; */
-"IkK-ST-X3F.title" = "Enable debug information";
+"IkK-ST-X3F.title" = "Habilitar la información de depuración";
 
 /* Class = "NSMenuItem"; title = "Check for updates"; ObjectID = "K4O-VW-7FA"; */
 "K4O-VW-7FA.title" = "Comprobar actualizaciones";
@@ -63,7 +63,7 @@
 "YHt-wh-fCp.title" = "Show Toolbar";
 
 /* Class = "NSMenuItem"; title = "Debug"; ObjectID = "ZBc-IE-jQG"; */
-"ZBc-IE-jQG.title" = "Debug";
+"ZBc-IE-jQG.title" = "Depurar";
 
 /* Class = "NSMenuItem"; title = "New"; ObjectID = "bFm-YE-6u3"; */
 "bFm-YE-6u3.title" = "Nuevo";
@@ -114,10 +114,10 @@
 "v5b-pg-pYC.title" = "Copiar";
 
 /* Class = "NSMenuItem"; title = "New Window"; ObjectID = "wLf-5U-sSh"; */
-"wLf-5U-sSh.title" = "New window";
+"wLf-5U-sSh.title" = "Ventana nueva";
 
 /* Class = "NSMenuItem"; title = "Select All"; ObjectID = "wbR-ho-uar"; */
 "wbR-ho-uar.title" = "Seleccionar todo";
 
 /* Class = "NSMenuItem"; title = "Save debug information"; ObjectID = "zWX-XS-wiR"; */
-"zWX-XS-wiR.title" = "Save debug information";
+"zWX-XS-wiR.title" = "Guardar la información de depuración";

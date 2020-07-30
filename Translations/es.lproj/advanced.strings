@@ -1,4 +1,4 @@
-﻿
+
 /* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "2221"; */
 "2221.title" = "Comprimir por separado";
 
@@ -60,7 +60,7 @@
 "2363.title" = "Puedes crear una imagen ISO comprimida que será de sólo lectura. Las imágenes ISO sólo se pueden crear a partir de una carpeta.\n\nPuedes ponerle un nombre personalizado o dejar que el nombre se ponga automáticamente en función de los archivos que comprimas.";
 
 /* Class = "NSTextFieldCell"; title = "Store"; ObjectID = "2390"; */
-"2390.title" = "Store";
+"2390.title" = "Almacenar";
 
 /* Class = "NSTextFieldCell"; title = "Fast"; ObjectID = "2392"; */
 "2392.title" = "Rápido";
@@ -84,4 +84,4 @@
 "UYy-aQ-V1a.title" = "Archivo sólido";
 
 /* Class = "NSButtonCell"; title = "Use BZIP2 compression"; ObjectID = "qhy-NU-Cts"; */
-"qhy-NU-Cts.title" = "Use BZIP2 compression";
+"qhy-NU-Cts.title" = "Comprimir utilizando BZIP2";
