@@ -39,7 +39,7 @@
 "PwP-KI-Flr.title" = "Vista";
 
 /* Class = "NSMenuItem"; title = "Save"; ObjectID = "Qst-Ya-feO"; */
-"Qst-Ya-feO.title" = "Registra";
+"Qst-Ya-feO.title" = "Salva";
 
 /* Class = "NSMenuItem"; title = "Cut"; ObjectID = "Ro6-g5-CxU"; */
 "Ro6-g5-CxU.title" = "Taglia";
@@ -78,16 +78,16 @@
 "gy4-dO-Qdu.title" = "Modifica";
 
 /* Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "jtN-lL-fdx"; */
-"jtN-lL-fdx.title" = "Apri recente";
+"jtN-lL-fdx.title" = "Apri recenti";
 
 /* Class = "NSMenuItem"; title = "About Keka"; ObjectID = "maF-B5-Hb6"; */
 "maF-B5-Hb6.title" = "Informazioni su Keka";
 
 /* Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "nlc-UW-DRW"; */
-"nlc-UW-DRW.title" = "Ripristina versione registrata";
+"nlc-UW-DRW.title" = "Ripristina versione salvata";
 
 /* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "nvz-UK-KlM"; */
-"nvz-UK-KlM.title" = "Registra col nome…";
+"nvz-UK-KlM.title" = "Salva col nome…";
 
 /* Class = "NSMenuItem"; title = "Customize Toolbar…"; ObjectID = "p3U-PZ-hC3"; */
 "p3U-PZ-hC3.title" = "Personalizza la barra strumenti…";
@@ -102,7 +102,7 @@
 "smC-MI-dLE.title" = "Nascondi Keka";
 
 /* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "sx5-sf-JmW"; */
-"sx5-sf-JmW.title" = "Nascondi altri";
+"sx5-sf-JmW.title" = "Nascondi altre";
 
 /* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "tDe-Bb-f8d"; */
 "tDe-Bb-f8d.title" = "Contrai";
