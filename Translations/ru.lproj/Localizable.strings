@@ -178,4 +178,4 @@
 "Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "Keka будет решать, сжимать или распаковывать файлы в зависимости от формата и расширения файла. Выберите рекомендованный вариант.";
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka будет сжимаеть все файлы, даже те, которые уже сжаты. Вы можете сжать уже сжатый файл в автоматическом режиме, поместив его в нижнюю часть, зоны сброса для файлов.";
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka будет попытается извлечь все файлы. Вы можете попытаться извлечь неизвестный файл в автоматическом режиме, поместив его в нижнюю часть, зоны сброса для файлов.";
-"Show the operation log" = "Show the operation log";
+"Show the operation log" = "Показать журнал операций";
