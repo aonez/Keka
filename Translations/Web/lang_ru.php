@@ -4,7 +4,7 @@
 //
 // Language: Russian
 $content_language_locale = "ru";
-// Translated by NickKaramoff (nick@karamoff.ru)
+// Translated by Nick Karamoff (nick@karamoff.ru)
 //
 //
 // Set $show_content_bottom_translator as true if you want to appear in the bottom of the page
@@ -22,7 +22,7 @@ $content_changelog = "Изменения";
 $content_title = "архиватор файлов для macOS";
 
 // Download
-$content_plataform = "Требуется $version_replace или новее";
+$content_platform = "Требуется $version_replace или новее";
 $content_download_text = "Храните больше, делитесь безопасно";
 $content_download_love = "Понравилось?";
 $content_download_legacy = "Старые версии";
@@ -35,14 +35,14 @@ $content_donation_mas = "Покупая Keka в App Store, вы поддержи
 $content_donation_paypal = "Если вам не нравится MAS или вы просто пробуете Keka,<br />но хотите поддержать проект, вы можете пожертвовать деньги через PayPal.";
 
 // Beta
-$content_plataform_beta = "Бета";
+$content_platform_beta = "Бета";
 $content_beta_title = "Бета-версия Keka";
 $content_beta_text = "Вы можете протестировать новые возможности Keka перед релизом.<br />Если вы найдёте баг, следуйте в раздел ";
 $content_beta_unavailable = "На данный момент нет доступных бета-версий.";
 $content_beta_up = "Скачать новейшую версию";
 
 // Legacy
-$content_plataform_legacy =  "Для $version_replace";
+$content_platform_legacy =  "Для $version_replace";
 $content_legacy_title = "Старые версии Keka";
 $content_legacy_text = 'Рано или поздно ваш Mac устареет и не будет поддерживать<br />новые версии Keka, но не волнуйтесь <i class="fa fa-coffee" aria-hidden="true"></i>, старые версии будут здесь.';
 
