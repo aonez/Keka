@@ -53,7 +53,7 @@
 "Choose a name and folder to start the compression" = "設定名稱和檔案夾以開始壓縮";
 "Creation of \"%@\" failed" = "從 \"%@\" 建立失敗";
 "Creating \"%@\"" = "正在建立 \"%@\"";
-"Prepearing extraction..." = "準備解壓縮中…";
+"Preparing extraction..." = "準備解壓縮中…";
 "Choose a folder to extract this file" = "選擇檔案夾解壓縮此檔案";
 "Choose where do you want to extract \"%@\"" = "Choose where do you want to extract \"%@\"";
 "Select all the volumes from \"%@\" or the folder that contains them" = "Select all the volumes from \"%@\" or the folder that contains them";

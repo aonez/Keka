@@ -53,7 +53,7 @@
 "Choose a name and folder to start the compression" = "フォルダとファイル名を指定すると圧縮が開始されます。";
 "Creation of \"%@\" failed" = "\"%@\" を作成できませんでした。";
 "Creating \"%@\"" = "\"%@\"を作成中";
-"Prepearing extraction..." = "解凍の準備をしています…";
+"Preparing extraction..." = "解凍の準備をしています…";
 "Choose a folder to extract this file" = "解凍先のフォルダを選んでください";
 "Choose where do you want to extract \"%@\"" = "Choose where do you want to extract \"%@\"";
 "Select all the volumes from \"%@\" or the folder that contains them" = "Select all the volumes from \"%@\" or the folder that contains them";

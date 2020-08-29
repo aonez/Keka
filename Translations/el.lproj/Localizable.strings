@@ -53,7 +53,7 @@
 "Choose a name and folder to start the compression" = "Επιλέξτε όνομα και φάκελο αποθήκευσης για την έναρξη της συμπίεσης";
 "Creation of \"%@\" failed" = "Η δημιουργία του \"%@\" απέτυχε";
 "Creating \"%@\"" = "Δημιουργία του \"%@\"";
-"Prepearing extraction..." = "Προετοιμασία εξαγωγής...";
+"Preparing extraction..." = "Προετοιμασία εξαγωγής...";
 "Choose a folder to extract this file" = "Επιλέξτε φάκελο αποδέκτη του προς εξαγωγή αρχείου";
 "Choose where do you want to extract \"%@\"" = "Επιλέξτε την τοποθεσία εξαγωγής \"%@\"";
 "Select all the volumes from \"%@\" or the folder that contains them" = "Επιλέξτε όλους τους τόμους από το \"%@\" ή το φάκελο που τους περιέχει";
