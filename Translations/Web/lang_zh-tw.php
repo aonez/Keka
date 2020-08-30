@@ -21,7 +21,7 @@ $content_changelog = "更新日誌";
 $content_title = "macOS 壓縮軟體";
 
 // Download
-$content_plataform = "需要 $version_replace 或更高版本";
+$content_platform = "需要 $version_replace 或更高版本";
 $content_download_text = "儲存更多，保有隱私地分享";
 $content_download_love = "喜歡嗎？";
 $content_download_legacy = "歷史版本";
@@ -34,14 +34,14 @@ $content_donation_mas = "如果您從 App Store 購買 Keka，這會支持我們
 $content_donation_paypal = "如果您不喜歡 MAS 或只是試用一下 Keka，<br />但是很喜歡這個項目並希望給予一些支持，您可以使用 PayPal 贊助。";
 
 // Beta
-$content_plataform_beta = "測試版";
+$content_platform_beta = "測試版";
 $content_beta_title = "Keka 測試版";
 $content_beta_text = "您可以在正式版發佈之前測試 Keka 的最新功能。<br />如果您發現了錯誤或要報告某些事項，請轉到 ";
 $content_beta_unavailable = "目前沒有測試版。";
 $content_beta_up = "獲取最新版本";
 
 // Legacy
-$content_plataform_legacy =  "適用於 $version_replace";
+$content_platform_legacy =  "適用於 $version_replace";
 $content_legacy_title = "Keka 歷史版本";
 $content_legacy_text = '多年後您的 Mac 設備將變得老舊，或許不會支援<br />最新版的 Keka，別擔心<i class="fa fa-coffee" aria-hidden="true"></i>，所有 Keka 的歷史版本都在這裡。';
 

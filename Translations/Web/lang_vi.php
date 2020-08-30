@@ -22,7 +22,7 @@ $content_changelog = "Lịch sử cập nhật";
 $content_title = "trình nén và giải nén cho macOS";
 
 // Download
-$content_plataform = "Yêu cầu $version_replace hoặc mới hơn";
+$content_platform = "Yêu cầu $version_replace hoặc mới hơn";
 $content_download_text = "Lưu trữ nhiều hơn, chia sẻ riêng tư hơn";
 $content_download_love = "Bạn thích nó chứ?";
 $content_download_legacy = "Phiên bản cũ";
@@ -35,14 +35,14 @@ $content_donation_mas = "Nếu bạn mua Keka từ App Store, bạn sẽ đóng 
 $content_donation_paypal = "Nếu bạn không thích Cửa hàng App Store hoặc chỉ muốn dạo chơi với Keka<br />nhưng cũng yêu mến dự án này và muốn ủng hộ nó, bạn có thể gửi tiền ủng hộ thông qua Paypal.";
 
 // Beta
-$content_plataform_beta = "Beta";
+$content_platform_beta = "Beta";
 $content_beta_title = "Phiên bản Beta của Keka";
 $content_beta_text = "Bạn có thể chạy thử tính năng mới của Keka trước khi nó được phát hành chính thức.<br />Nếu bạn phát hiện lỗi hay muốn góp ý với chúng tôi, vui lòng truy cập vào ";
 $content_beta_unavailable = "Hiện tại không có phiên bản beta nào.";
 $content_beta_up = "Get the latest version";
 
 // Legacy
-$content_plataform_legacy =  "Dành cho $version_replace";
+$content_platform_legacy =  "Dành cho $version_replace";
 $content_legacy_title = "Phiên bản cũ của Keka";
 $content_legacy_text = 'Dần dần theo năm tháng, Mac của bạn sẽ già đi và sẽ không còn hỗ trợ<br />Keka mới nhất, nhưng đừng lo lắng <i class="fa fa-coffee" aria-hidden="true"></i>, những phiên bản cũ hơn vẫn sẽ được lưu tại đây.';
 
