@@ -74,6 +74,6 @@ $content_404_start = "<a href=\"https://www.keka.io\">시작 페이지</a>로 �
 $content_404_more = "혹시 이걸 찾으시나요?";
 
 // Bottom info
-$content_bottom_copying = 'All rights reserved';
+$content_bottom_copying = 'All rights reserved.';
 
 ?>
