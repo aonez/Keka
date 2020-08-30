@@ -53,7 +53,7 @@
 "Choose a name and folder to start the compression" = "Chọn một tên và thư mục để bắt đầu lệnh nén";
 "Creation of \"%@\" failed" = "Tạo ra \"%@\" thất bại";
 "Creating \"%@\"" = "Đang tạo \"%@\"";
-"Prepearing extraction..." = "Chuẩn bị giải nén…";
+"Preparing extraction..." = "Chuẩn bị giải nén…";
 "Choose a folder to extract this file" = "Chọn một thư mục để giải nén tập tin này";
 "Choose where do you want to extract \"%@\"" = "Chọn nơi bạn muốn giải nén \"%@\"";
 "Select all the volumes from \"%@\" or the folder that contains them" = "Chọn tất cả phân vùng từ \"%@\" hoặc thư mục mà nó chứa chúng";
