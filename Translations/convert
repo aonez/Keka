@@ -86,7 +86,7 @@ function convertStringsFile {
 		fi
 		conv="$( { iconv $convFrom -t utf-8 < ${t} > ${t}.tmp; } 2>&1 )"
 		echo $md5 > "${md5file}"
-	    if [ $? -eq 0 ]; then
+			if [ $? -eq 0 ]; then
 			mv -f ${t}.tmp ${t}
 			text="${text} > ${GREEN}UTF-8${NC}"
 		else
