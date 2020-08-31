@@ -53,7 +53,7 @@
 "Choose a name and folder to start the compression" = "Избери име и папка, за да започне компресирането";
 "Creation of \"%@\" failed" = "Създаването на \"%@\" се провали";
 "Creating \"%@\"" = "Създаване \"%@\"";
-"Prepearing extraction..." = "Подготвяне на разархивирането…";
+"Preparing extraction..." = "Подготвяне на разархивирането…";
 "Choose a folder to extract this file" = "Избери папка, за да се разархивира файла";
 "Choose where do you want to extract \"%@\"" = "Choose where do you want to extract \"%@\"";
 "Select all the volumes from \"%@\" or the folder that contains them" = "Select all the volumes from \"%@\" or the folder that contains them";

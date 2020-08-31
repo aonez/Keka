@@ -53,7 +53,7 @@
 "Choose a name and folder to start the compression" = "Escolha um nome e uma pasta para iniciar a compressão";
 "Creation of \"%@\" failed" = "A criação de “%@” falhou";
 "Creating \"%@\"" = "Criando “%@”";
-"Prepearing extraction..." = "A preparar extração…";
+"Preparing extraction..." = "A preparar extração…";
 "Choose a folder to extract this file" = "Escolha uma pasta para extrair este arquivo comprimido";
 "Choose where do you want to extract \"%@\"" = "Escolha onde deseja extrair “%@”";
 "Select all the volumes from \"%@\" or the folder that contains them" = "Selecione todos os volumes de “%@” ou a pasta que os contém";

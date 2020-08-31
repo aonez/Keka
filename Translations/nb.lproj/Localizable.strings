@@ -53,7 +53,7 @@
 "Choose a name and folder to start the compression" = "Velg et navn og et mappe for å starte komprimeringen";
 "Creation of \"%@\" failed" = "Opprettelse av \"%@\" feilet";
 "Creating \"%@\"" = "Oppretter \"%@\"";
-"Prepearing extraction..." = "Forbereder utpakking…";
+"Preparing extraction..." = "Forbereder utpakking…";
 "Choose a folder to extract this file" = "Velg en mappe å pakke ut denne filen til";
 "Choose where do you want to extract \"%@\"" = "Choose where do you want to extract \"%@\"";
 "Select all the volumes from \"%@\" or the folder that contains them" = "Select all the volumes from \"%@\" or the folder that contains them";
