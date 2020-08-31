@@ -22,7 +22,7 @@ $content_changelog = "Değişiklikler";
 $content_title = "macOS dosya arşivleyicisi";
 
 // Download
-$content_plataform = "$version_replace veya daha yeni bir sürüm gerekiyor";
+$content_platform = "$version_replace veya daha yeni bir sürüm gerekiyor";
 $content_download_text = "Daha fazla saklama, gizlilikle paylaşma";
 $content_download_love = "Beğendin mi?";
 $content_download_legacy = "Eski sürüm";
@@ -35,14 +35,14 @@ $content_donation_mas = "Uygulama mağazasından Keka satın alırsan, geliştir
 $content_donation_paypal = "Mac App Store&apos;ı (MAS) sevmiyorsan veya Keka ile çalışmak istiyor<br />ve aynı zamanda projeyi beğendiğin için desteğini vermek istiyorsan, PayPal kullanarak bir bağış gönderebilirsin.";
 
 // Beta
-$content_plataform_beta = "Beta";
+$content_platform_beta = "Beta";
 $content_beta_title = "Keka&apos;nın beta sürümü";
 $content_beta_text = "Keka&apos;nın yakında çıkacak en yeni özelliklerini test edin.<br />Bir hata bulursanız veya bildirmeniz gereken bir şey varsa buraya bildirin:";
 $content_beta_unavailable = "Henüz beta mevcut değil.";
 $content_beta_up = "Son sürümü hemen edinin";
 
 // Legacy
-$content_plataform_legacy =  "$version_replace için";
+$content_platform_legacy =  "$version_replace için";
 $content_legacy_title = "Keka&apos;nın eski sürümleri";
 $content_legacy_text = 'Yıllar geçtikçe Mac&apos;iniz eskiyecek ve en yeni Keka&apos;yı desteklemeyecek<br />, bu konuda rahat olunuz <i class="fa fa-coffee" aria-hidden="true"></i>, eski versiyonlar burada olacak.';
 

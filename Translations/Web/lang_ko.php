@@ -22,7 +22,7 @@ $content_changelog = "변경 기록";
 $content_title = "macOS 압축 프로그램";
 
 // Download
-$content_plataform = "$version_replace 또는 신규 버전이 필요합니다.";
+$content_platform = "$version_replace 또는 신규 버전이 필요합니다.";
 $content_download_text = "더 많이 압축하고, 더 안전하게 공유하세요";
 $content_download_love = "마음에 드신다면?";
 $content_download_legacy = "구 버전";
@@ -35,14 +35,14 @@ $content_donation_mas = "Keka를 App Store에서 구매하시면 Keka의 개발�
 $content_donation_paypal = "App Store를 통한 후원을 원치않으시다면, <br />아래의 후원 방법으로 개발자를 도와주실수 있습니다!";
 
 // Beta
-$content_plataform_beta = "베타 버전";
+$content_platform_beta = "베타 버전";
 $content_beta_title = "베타 버전 미리 경험하기";
 $content_beta_text = "출시 전 최신 기능들을 먼저 경험하실 수 있습니다.<br />버그를 찾았거나 제보할 것이 있으시다면,<br />이슈를 등록해주세요 ";
 $content_beta_unavailable = "현재 베타 버전이 존재하지 않습니다.";
 $content_beta_up = "최신 버전 받기";
 
 // Legacy
-$content_plataform_legacy =  "$version_replace 전용";
+$content_platform_legacy =  "$version_replace 전용";
 $content_legacy_title = "구 버전 다운로드";
 $content_legacy_text = '운영체제의 버전에 따라 Keka의 최신버전을 지원하지 못할 경우<br />아래의 구버전을 다운로드하셔서 계속 Keka를 이용하실 수 있습니다. <i class="fa fa-coffee" aria-hidden="true"></i>';
 

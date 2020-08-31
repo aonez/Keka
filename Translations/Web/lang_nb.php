@@ -22,7 +22,7 @@ $content_changelog = "Endringslogg";
 $content_title = "fil-arkivereren for macOS";
 
 // Download
-$content_plataform = "Krever $version_replace eller nyere";
+$content_platform = "Krever $version_replace eller nyere";
 $content_download_text = "Arkiver mer, del med personvern";
 $content_download_love = "Liker du det?";
 $content_download_legacy = "Foreldet";
@@ -35,14 +35,14 @@ $content_donation_mas = "Hvis du kjøper Keka på App Store, støtter du videre 
 $content_donation_paypal = "Hvis du ikke liker MAS eller bare vile prøve ut Keka,<br />men også liker prosjektet og ønsker å støtte det, kan du sende driks via PayPal.";
 
 // Beta
-$content_plataform_beta = "Beta";
+$content_platform_beta = "Beta";
 $content_beta_title = "Beta-versjonen av Keka";
 $content_beta_text = "Du kan teste de nyeste funksjonene til Keka før de blir lansert.<br />Hvis du oppdager en feil, eller ønsker å rapportere noe annet, gå til ";
 $content_beta_unavailable = "Det er ikke noen beta-versjon tilgjengelig for øyeblikket.";
 $content_beta_up = "Skaff nyeste versjon";
 
 // Legacy
-$content_plataform_legacy =  "For $version_replace";
+$content_platform_legacy =  "For $version_replace";
 $content_legacy_title = "Foreldete versjoner av Keka";
 $content_legacy_text = 'Med tiden vil din Mac bli eldre, og vil ikke støtte<br /> den nyeste versjonen av Keka, men slapp av <i class="fa fa-coffee" aria-hidden="true"></i>, de gamle versjonene vil være tilgjengelig her.';
 

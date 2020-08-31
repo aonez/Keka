@@ -22,7 +22,7 @@ $content_changelog = "変更履歴";
 $content_title = "macOSのファイルアーカイバ";
 
 // Download
-$content_plataform = "$version_replace 以降が必要です";
+$content_platform = "$version_replace 以降が必要です";
 $content_download_text = "もっと保存、安全に共有する";
 $content_download_love = "気に入りましたか?";
 $content_download_legacy = "過去のバージョン";
@@ -35,14 +35,14 @@ $content_donation_mas = "App StoreからKekaを購入することで、開発を
 $content_donation_paypal = "もしApp Storeが好みでなかったり、ただKekaを試しただけの場合でも<br />このプロジェクトが気に入って愛を与えたい場合は、PayPalを使ってチップを送ることができます。";
 
 // Beta
-$content_plataform_beta = "ベータ";
+$content_platform_beta = "ベータ";
 $content_beta_title = "Kekaのベータ版";
 $content_beta_text = "リリースされる前に、最新機能を評価することができます。<br />もしバグを見つけたり、何か報告したいことがある場合は、";
 $content_beta_unavailable = "現在ご利用できるベータ版はありません。";
 $content_beta_up = "最新版を取得する";
 
 // Legacy
-$content_plataform_legacy =  "$version_replace 向け";
+$content_platform_legacy =  "$version_replace 向け";
 $content_legacy_title = "Kekaの過去のバージョン";
 $content_legacy_text = '年が経つにつれてあなたのMacは古くなり、Kekaの最新版をサポートしなくなります。<br />でも安心してください<i class="fa fa-coffee" aria-hidden="true"></i>、古いバージョンはここにあります。';
 
