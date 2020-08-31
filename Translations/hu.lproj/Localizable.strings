@@ -53,7 +53,7 @@
 "Choose a name and folder to start the compression" = "Válaszd ki a fájlnevet és a célmappát a tömörítés elkezdéséhez";
 "Creation of \"%@\" failed" = "\"%@\" létrehozása sikertelen";
 "Creating \"%@\"" = "\"%@\" létrehozása";
-"Prepearing extraction..." = "A kicsomagolás előkészítése…";
+"Preparing extraction..." = "A kicsomagolás előkészítése…";
 "Choose a folder to extract this file" = "Válassz célmappát";
 "Choose where do you want to extract \"%@\"" = "Válassz célmappát a(z) \"%@\" kicsomagolásához";
 "Select all the volumes from \"%@\" or the folder that contains them" = "Válaszd ki az összes kötetet a(z) \"%@\"-ból/ből vagy a mappát, amely tartalmazza";

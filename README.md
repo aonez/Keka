@@ -34,7 +34,7 @@ Also head to [Releases](https://github.com/aonez/Keka/releases) if you need a co
 Sadly, the source code of Keka 1.0 and newer will be not public due some issues in the past (this is [one of the reasons](http://web.archive.org/web/20180615184129/http://trac.keka.io/ticket/14)).
 
 ### Legacy info
-Keka started in [SourceForge](http://sourceforge.net/projects/keka). It will be rarely updated and issues in the [Tickets](https://sourceforge.net/p/keka/_list/tickets) may be replied, but [Issues](https://github.com/aonez/Keka/issues) here is the main cannal.
+Keka started in [SourceForge](http://sourceforge.net/projects/keka). It will be rarely updated and issues in the [Tickets](https://sourceforge.net/p/keka/_list/tickets) may be replied, but [Issues](https://github.com/aonez/Keka/issues) here is the main channel.
 
 Later on, thanks to [NETWORKREDUX](https://networkredux.com) and [Trac](https://trac.edgewall.org), the project gained its own [ticketing system](https://trac.keka.io). Due to spam and speed issues, it will be used no more. No new users, no new tickets. Use [Issues](https://github.com/aonez/Keka/issues) instead.
 
