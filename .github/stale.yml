@@ -6,7 +6,7 @@ daysUntilClose: 7
 exemptLabels:
   - bug
   - enhancement
-  - "help wanted"
+  - help wanted
   - blessed
   - workaround
 # Label to use when marking an issue as stale
