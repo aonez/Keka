@@ -6,6 +6,6 @@ numLabels: 40
 excludeLabels:
   - "wont fix"
   - "help wanted"
-  - duplicated
+  - "duplicated"
   - "more info needed"
   - "works for me"
