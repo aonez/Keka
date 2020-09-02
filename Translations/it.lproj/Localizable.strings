@@ -179,3 +179,8 @@
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka comprimerà tutti i file, anche quelli già compressi. Puoi comprimere un file già compresso in modalità automatica rilasciandolo nella parte inferiore dell'area di rilascio.";
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka proverà ad estrarre tutti i file. Puoi provare a estrarre un file sconosciuto in modalità automatica rilasciandolo nella parte inferiore dell'area di rilascio.";
 "Show the operation log" = "Mostra il log delle operazioni";
+"Unable to process tips" = "Unable to process tips";
+"Already tipping a monthly %@" = "Already tipping a monthly %@";
+"Send a monthly %@ tip" = "Send a monthly %@ tip";
+"Send a %@ tip" = "Send a %@ tip";
+"Give Keka some love ♥" = "Give Keka some love ♥";

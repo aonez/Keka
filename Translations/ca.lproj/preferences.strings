@@ -203,6 +203,9 @@
 /* Class = "NSButtonCell"; title = "Inherit quarantine from downloaded files"; ObjectID = "KDR-ag-bll"; */
 "KDR-ag-bll.title" = "Conservar la quarantena dels arxius descarregats";
 
+/* Class = "NSTextFieldCell"; title = "If you like Keka and want to support it's development feel free to send a tip."; ObjectID = "N33-ZQ-W69"; */
+"N33-ZQ-W69.title" = "Si t'agrada el Keka i vols ajudar en el seu desenvolupament no dubtis en enviar una propina.";
+
 /* Class = "NSTextFieldCell"; title = "Limit the number of threads per operation:"; ObjectID = "ND5-DN-C1H"; */
 "ND5-DN-C1H.title" = "Limita el nombre de fils per operació:";
 
@@ -221,11 +224,20 @@
 /* Class = "NSButtonCell"; title = "Remove bad password header structure extractions"; ObjectID = "Wd0-yz-M1h"; */
 "Wd0-yz-M1h.title" = "Eliminar el contingut de les extraccións amb contrasenya incorrecta";
 
+/* Class = "NSToolbarItem"; label = "Love"; ObjectID = "XKE-wc-exs"; */
+"XKE-wc-exs.label" = "Suport";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Love"; ObjectID = "XKE-wc-exs"; */
+"XKE-wc-exs.paletteLabel" = "Suport";
+
 /* Class = "NSMenuItem"; title = "Automatic"; ObjectID = "XOB-JO-UQT"; */
 "XOB-JO-UQT.title" = "Automàticament";
 
 /* Class = "NSButtonCell"; title = "Use BZIP2 compression in DMG files (better but slower)"; ObjectID = "Xoi-ui-e7P"; */
 "Xoi-ui-e7P.title" = "Utilitza BZIP2 per a comprimir els archius DMG (millor però més lent)";
+
+/* Class = "NSButtonCell"; title = "Send a tip"; ObjectID = "ZEe-2d-eO3"; */
+"ZEe-2d-eO3.title" = "Enviar una propina";
 
 /* Class = "NSTextFieldCell"; title = "Enable full Mac access so Keka can be used on all your Mac:"; ObjectID = "ZOx-vr-5o7"; */
 "ZOx-vr-5o7.title" = "Habilita l'accés complet per tal que el Keka funcioni amb tots els fitxers del Mac:";
@@ -263,11 +275,17 @@
 /* Class = "NSTextFieldCell"; title = "Compressing a single file:"; ObjectID = "hLS-Ut-4fh"; */
 "hLS-Ut-4fh.title" = "Compressió d'un sol fitxer:";
 
+/* Class = "NSButtonCell"; title = "One-time"; ObjectID = "hnE-pv-a3Q"; */
+"hnE-pv-a3Q.title" = "Puntual";
+
 /* Class = "NSButtonCell"; title = "Use AES-256 when encrypting ZIP files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
 "hp7-jO-HeV.title" = "Utilitza AES-256 xifrant arxius ZIP (compatibilitat menor)";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous operations:"; ObjectID = "o8J-bR-bs6"; */
 "o8J-bR-bs6.title" = "Quantitat màxima d'operacions simultànies:";
+
+/* Class = "NSTextFieldCell"; title = "Quantity:"; ObjectID = "okd-MS-NEy"; */
+"okd-MS-NEy.title" = "Quantitat:";
 
 /* Class = "NSTextFieldCell"; title = "Queue operations:"; ObjectID = "otI-Pt-BTh"; */
 "otI-Pt-BTh.title" = "Cua d'operacions:";
@@ -292,6 +310,9 @@
 
 /* Class = "NSMenuItem"; title = "Never, when possible"; ObjectID = "tEH-O0-NxO"; */
 "tEH-O0-NxO.title" = "Mai, quan sigui possible";
+
+/* Class = "NSButtonCell"; title = "Monthly"; ObjectID = "vWQ-Yb-MSR"; */
+"vWQ-Yb-MSR.title" = "Mensual";
 
 /* Class = "NSTextFieldCell"; title = "The Finder Extension needs to be enabled in the  System Preferences, Extensions configuration."; ObjectID = "wgz-2S-eXI"; */
 "wgz-2S-eXI.title" = "L'extensió del Finder s'ha d'activar en les Preferències del Sistema d', configuració d'extensions.";
