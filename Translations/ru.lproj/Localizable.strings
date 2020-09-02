@@ -179,8 +179,8 @@
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka будет сжимаеть все файлы, даже те, которые уже сжаты. Вы можете сжать уже сжатый файл в автоматическом режиме, поместив его в нижнюю часть, зоны сброса для файлов.";
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka будет попытается извлечь все файлы. Вы можете попытаться извлечь неизвестный файл в автоматическом режиме, поместив его в нижнюю часть, зоны сброса для файлов.";
 "Show the operation log" = "Показать журнал операций";
-"Unable to process tips" = "Unable to process tips";
-"Already tipping a monthly %@" = "Already tipping a monthly %@";
-"Send a monthly %@ tip" = "Send a monthly %@ tip";
-"Send a %@ tip" = "Send a %@ tip";
-"Give Keka some love ♥" = "Give Keka some love ♥";
+"Unable to process tips" = "Невозможно произвести платежи";
+"Already tipping a monthly %@" = "Вы уже даёте денежные вознаграждения, ежемесячно %@";
+"Send a monthly %@ tip" = "Отправлять ежемесячно %@ денежного вознаграждения";
+"Send a %@ tip" = "Отправить %@ денежного вознаграждения";
+"Give Keka some love ♥" = "Дайте Keka немного своей любви ♥";
