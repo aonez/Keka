@@ -23,11 +23,11 @@ $content_changelog = "Histórico";
 $content_title = "O compressor de arquivos para macOS";
 
 // Download
-$content_plataform = "Requer $version_replace ou posterior";
+$content_platform = "Requer $version_replace ou posterior";
 $content_download_text = "Armazene mais, compartilhe com privacidade";
 $content_download_love = "Gosta?";
 $content_download_legacy = "Anteriores";
-$content_download_helper = "Helper";
+$content_download_helper = "Auxiliar";
 
 // Like
 $content_donation_button = "Doar";
@@ -36,14 +36,14 @@ $content_donation_mas = "Ao comprar o Keka na App Store, apoia o desenvolvimento
 $content_donation_paypal = "Se não gosta da App Store ou quer apenas explorar o Keka,<br />mas ao mesmo tempo, gosta do projeto e deseja demonstrar o seu apoio, use o PayPal para fazer uma doação.";
 
 // Beta
-$content_plataform_beta = "Beta";
+$content_platform_beta = "Beta";
 $content_beta_title = "Versão beta do Keka";
 $content_beta_text = "Teste os recursos mais recentes do Keka antes do lançamento oficial.<br />Caso encontre erros ou tenha algo a comunicar, clique em ";
 $content_beta_unavailable = "Não há versões beta disponíveis de momento.";
 $content_beta_up = "Obter a versão mais recente";
 
 // Legacy
-$content_plataform_legacy =  "Para $version_replace";
+$content_platform_legacy =  "Para $version_replace";
 $content_legacy_title = "Versões anteriores do Keka";
 $content_legacy_text = 'Com o passar dos anos, o seu Mac fica mais velho e pode não ser compatível<br />com a versão mais recente do Keka. Mas tudo bem <i class="fa fa-coffee" aria-hidden="true"></i>, as versões mais antigas estarão por aqui.';
 
@@ -58,8 +58,8 @@ $content_info_compression = "O Keka pode criar arquivos nestes formatos:";
 $content_info_extraction = "E extrair todos estes formatos:";
 
 // Default app
-$content_defaultapp_title = "Set Keka as the default extraction application";
-$content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">needs a helper <i class="far fa-question-circle"></i></a> to set itself as the default application.<br />Simply download and extract it, move it to the desktop and then open it.';
+$content_defaultapp_title = "Defina o Keka como o aplicativo de extração padrão";
+$content_defaultapp_text = 'O Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">precisa de um auxiliar <i class="far fa-question-circle"></i></a> para ser definido como o aplicativo padrão.<br />Baixe, extraia, mova para a mesa e abra este auxiliar.';
 
 // Main content of the page
 $content_context_menu = "Menu contextual";

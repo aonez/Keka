@@ -22,7 +22,7 @@ $content_changelog = "Evolución";
 $content_title = "el compresor de macOS";
 
 // Download
-$content_plataform = "Requiere $version_replace o superior";
+$content_platform = "Requiere $version_replace o superior";
 $content_download_text = "Almacena más, comparte con privacidad";
 $content_download_love = "Te gusta?";
 $content_download_legacy = "Antiguas";
@@ -35,14 +35,14 @@ $content_donation_mas = "Si compras Keka a través de la App Store, tendrás la 
 $content_donation_paypal = "Si no te gusta la Apple Store o simplemente quieres jugar con las entrañas de Keka<br />pero además te gusta el proyecto y quieres darle tu apoyo, puedes enviar una donación utilizando PayPal.";
 
 // Beta
-$content_plataform_beta = "Beta";
+$content_platform_beta = "Beta";
 $content_beta_title = "Versión beta de Keka";
 $content_beta_text = "Puedes probar las novedades de Keka antes de que lleguen a la versión estable.<br />Si encuentras algún problema o tienes algo que comentar, dirígete a ";
 $content_beta_unavailable = "No hay versiones beta disponibles.";
 $content_beta_up = "Descárgate la última versión";
 
 // Legacy
-$content_plataform_legacy =  "Para $version_replace";
+$content_platform_legacy =  "Para $version_replace";
 $content_legacy_title = "Versiones antiguas de Keka";
 $content_legacy_text = 'Con el paso de los años, tu Mac se va haciendo mayor y puede que haya dejado de soportar <br />la última versión de Keka, pero tranquilo <i class="fa fa-coffee" aria-hidden="true"></i>, éstas siempre estarán contigo.';
 

@@ -53,7 +53,7 @@
 "Choose a name and folder to start the compression" = "Scegli un nome e la cartella per avviare la compressione";
 "Creation of \"%@\" failed" = "Creazione di \"%@\" non riuscita";
 "Creating \"%@\"" = "Creazione \"%@\"";
-"Prepearing extraction..." = "Preparazione estrazione...";
+"Preparing extraction..." = "Preparazione estrazione...";
 "Choose a folder to extract this file" = "Scegli una cartella per estrarre questo file";
 "Choose where do you want to extract \"%@\"" = "Scegli dove vuoi estrarre \"%@\"";
 "Select all the volumes from \"%@\" or the folder that contains them" = "Seleziona tutti i volumi da \"%@\" o la cartella che li contiene";
@@ -170,5 +170,17 @@
 "Note that most modern operating systems such as macOS or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities." = "Nota che la maggior parte dei sistemi operativi moderni come macOS o Windows non supporta i ZIP crittografati AES-256 di default.\n\nPuoi aprire facilmente quei file con la maggior parte delle utility di estrazione di terze parti.";
 "Cannot create the file" = "Impossibile creare il file";
 "Keka has no file access to the source file/s\nGive it access when asked or manually in the Preferences" = "Keka non ha accesso al file sorgente\nConsentire l'accesso quando richiesto o manualmente nelle Preferenze";
-"Give access to the source/s folder" = "Consenti l'accesso alla cartella di origine";
+"Give access to the source/s folder/s" = "Consenti l'accesso alla/e cartella/e di origine";
 "Give access to the compressed file" = "Consenti l'accesso al file compresso";
+"The extension is enabled" = "L'estensione è abilitata";
+"The extension is disabled" = "L'estensione è disabilitata";
+"The extension status can't be determined" = "Impossibile determinare lo stato dell'estensione";
+"Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "Keka deciderà se comprimere o decomprimere in base al formato e all'estensione del file. Questa è l'opzione consigliata.";
+"Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka comprimerà tutti i file, anche quelli già compressi. Puoi comprimere un file già compresso in modalità automatica rilasciandolo nella parte inferiore dell'area di rilascio.";
+"Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka proverà ad estrarre tutti i file. Puoi provare a estrarre un file sconosciuto in modalità automatica rilasciandolo nella parte inferiore dell'area di rilascio.";
+"Show the operation log" = "Mostra il log delle operazioni";
+"Unable to process tips" = "Impossibile elaborare i pagamenti";
+"Already tipping a monthly %@" = "Stai già offrendo una ricompensa mensile di %@";
+"Send a monthly %@ tip" = "Invia una ricompensa mensile di %@";
+"Send a %@ tip" = "Invia una ricompensa di %@";
+"Give Keka some love ♥" = "Sostieni lo sviluppo di Keka ♥";

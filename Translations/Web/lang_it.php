@@ -22,11 +22,11 @@ $content_changelog = "Evoluzione";
 $content_title = "il compressore di macOS";
 
 // Download
-$content_plataform = "Richiede $version_replace o superiore";
+$content_platform = "Richiede $version_replace o superiore";
 $content_download_text = "Memorizza di più, condividi con la privacy";
 $content_download_love = "Ti piace?";
 $content_download_legacy = "Legacy";
-$content_download_helper = "Helper";
+$content_download_helper = "Assistente";
 
 // Like
 $content_donation_button = "Donazione";
@@ -35,14 +35,14 @@ $content_donation_mas = "Se acquisti Keka dall'App Store, sosterrai lo sviluppo,
 $content_donation_paypal = "Se non ti piace il Mac App Store o semplicemente vuoi divertirti con Keka<br />ma ti piace anche il progetto e vuoi dare il tuo supporto, puoi inviare una donazione utilizzando PayPal.";
 
 // Beta
-$content_plataform_beta = "Beta";
+$content_platform_beta = "Beta";
 $content_beta_title = "Versione beta di Keka";
 $content_beta_text = "Puoi testare le nuove funzionalità di Keka prima che vengano rilasciate.<br />Se trovi un bug o hai qualcosa da segnalare, vai su ";
 $content_beta_unavailable = "Non ci sono beta disponibili al momento.";
 $content_beta_up = "Ottieni l'ultima versione";
 
 // Legacy
-$content_plataform_legacy =  "Per $version_replace";
+$content_platform_legacy =  "Per $version_replace";
 $content_legacy_title = "Versioni precedenti di Keka";
 $content_legacy_text = 'Nel corso degli anni il tuo Mac diventerà più vecchio e non supporterà<br />l\'ultima versione di Keka, ma tranquillo <i class="fa fa-coffee" aria-hidden="true"></i>, le vecchie versioni saranno sempre disponibili qui.';
 
@@ -57,8 +57,8 @@ $content_info_compression = "Keka può creare archivi in questi formati:";
 $content_info_extraction = "Ed estrarre tutti questi formati:";
 
 // Default app
-$content_defaultapp_title = "Set Keka as the default extraction application";
-$content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">needs a helper <i class="far fa-question-circle"></i></a> to set itself as the default application.<br />Simply download and extract it, move it to the desktop and then open it.';
+$content_defaultapp_title = "Imposta Keka come applicazione di estrazione di default";
+$content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">ha bisogno di un assistente <i class="far fa-question-circle"></i></a> per impostarsi come applicazione di default.<br />Basta scaricarlo ed estrarlo, spostarlo sulla scrivania e quindi aprirlo.';
 
 // Main content of the page
 $content_context_menu = "Menu contestuale";

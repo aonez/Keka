@@ -22,7 +22,7 @@ $content_changelog = "Журнал змін";
 $content_title = "архіватор файлів для macOS";
 
 // Download
-$content_plataform = "Потрібна $version_replace або новіше";
+$content_platform = "Потрібна $version_replace або новіше";
 $content_download_text = "Зберігайте більше, ділітесь безпечно";
 $content_download_love = "Сподобалося?";
 $content_download_legacy = "Більш ранні версії";
@@ -35,14 +35,14 @@ $content_donation_mas = "Купуючи Keka в App Store, ви підтриму
 $content_donation_paypal = "Якщо вам не подобається MAS або ви просто пробуєте Keka, <br /> але хочете підтримати проект, ви можете пожертвувати гроші через PayPal.";
 
 // Beta
-$content_plataform_beta = "Бета";
+$content_platform_beta = "Бета";
 $content_beta_title = "Бета-версия Keka";
 $content_beta_text = "Ви можете протестувати нові можливості Keka перед релізом. <br /> Якщо ви знайдете баг, перейдіть в розділ";
 $content_beta_unavailable = "На даний момент немає доступних бета-версій.";
 $content_beta_up = "Завантажити нову версію";
 
 // Legacy
-$content_plataform_legacy =  "Для $version_replace";
+$content_platform_legacy =  "Для $version_replace";
 $content_legacy_title = "Більш ранні версії Keka";
 $content_legacy_text = 'Рано чи пізно ваш Mac застаріє і не буде підтримувати <br /> нові версії Keka, але не хвилюйтеся <i class="fa fa-coffee" aria-hidden="true"></i>, старі версії будуть тут.';
 

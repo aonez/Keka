@@ -53,7 +53,7 @@
 "Choose a name and folder to start the compression" = "设置一个文件名和文件夹来开始压缩";
 "Creation of \"%@\" failed" = "创建“%@”失败";
 "Creating \"%@\"" = "正在创建“%@”";
-"Prepearing extraction..." = "正在准备解压…";
+"Preparing extraction..." = "正在准备解压…";
 "Choose a folder to extract this file" = "选择一个文件夹来解压这个文件";
 "Choose where do you want to extract \"%@\"" = "你希望解压 \"%@\" 到";
 "Select all the volumes from \"%@\" or the folder that contains them" = "从 \"%@\" 或包含它们的文件夹中选择所有卷";
@@ -170,5 +170,17 @@
 "Note that most modern operating systems such as macOS or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities." = "注意，现有的大多数操作系统（例如 macOS 或 Windows）默认不支持 AES-256 加密的 ZIP 文件。\n\n你可以使用第三方解压工具轻松的打开这些文件。";
 "Cannot create the file" = "无法创建文件";
 "Keka has no file access to the source file/s\nGive it access when asked or manually in the Preferences" = "Keka 无权访问源文件/s\n请在询问时或在“偏好设置”中手动授予访问权限";
-"Give access to the source/s folder" = "授权访问源文件夹";
+"Give access to the source/s folder/s" = "授权访问源文件夹";
 "Give access to the compressed file" = "授权访问压缩文件";
+"The extension is enabled" = "The extension is enabled";
+"The extension is disabled" = "The extension is disabled";
+"The extension status can't be determined" = "The extension status can't be determined";
+"Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option.";
+"Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone.";
+"Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone.";
+"Show the operation log" = "Show the operation log";
+"Unable to process tips" = "Unable to process tips";
+"Already tipping a monthly %@" = "Already tipping a monthly %@";
+"Send a monthly %@ tip" = "Send a monthly %@ tip";
+"Send a %@ tip" = "Send a %@ tip";
+"Give Keka some love ♥" = "Give Keka some love ♥";

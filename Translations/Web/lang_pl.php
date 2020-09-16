@@ -22,7 +22,7 @@ $content_changelog = "Lista zmian";
 $content_title = "archiwizator plików dla macOS";
 
 // Download
-$content_plataform = "Wymaga $version_replace lub wersji nowszej";
+$content_platform = "Wymaga $version_replace lub wersji nowszej";
 $content_download_text = "Przechowuj więcej, udostępniaj bezpieczniej";
 $content_download_love = "Lubisz program Keka?";
 $content_download_legacy = "Starsza wersja";
@@ -35,14 +35,14 @@ $content_donation_mas = "Jeśli kupisz program Keka w App Store wsprzesz autora 
 $content_donation_paypal = "Jeśli przepadasz za zakupami w App Store <br />, możesz wesprzeć projekt również za pomocą PayPal.";
 
 // Beta
-$content_plataform_beta = "Beta";
+$content_platform_beta = "Beta";
 $content_beta_title = "Wersja beta programu Keka";
 $content_beta_text = "Przetestuj najnowsze funkcje programu zanim zostaną wydane. <br /> Jeśli znajdziesz błąd lub masz coś do przekazania autorowi: ";
 $content_beta_unavailable = "Aktualnie wersja Beta nie jest dostępna.";
 $content_beta_up = "Pobierz aktualną wersję";
 
 // Legacy
-$content_plataform_legacy =  "Wersja dla $version_replace";
+$content_platform_legacy =  "Wersja dla $version_replace";
 $content_legacy_title = "Starsza wersja programu Keka";
 $content_legacy_text = "Jeśli z biegiem lat twój Mac nie będzie obsługiwał <br /> najnowszej wersji programu - starsze wersje nadal będą dostępne tutaj.";
 

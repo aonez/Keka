@@ -53,7 +53,7 @@
 "Choose a name and folder to start the compression" = "Välj ett namn och mapp för att påbörja komprimering";
 "Creation of \"%@\" failed" = "Skapandet av \"%@\" misslyckades";
 "Creating \"%@\"" = "Skapar \"%@\"";
-"Prepearing extraction..." = "Förbereder extrahering…";
+"Preparing extraction..." = "Förbereder extrahering…";
 "Choose a folder to extract this file" = "Välj en mapp för att extrahera denna fil";
 "Choose where do you want to extract \"%@\"" = "Välj var du vill extrahera \"%@\"";
 "Select all the volumes from \"%@\" or the folder that contains them" = "Välj alla volymer från \"%@\" eller mappen som innehåller dem";
@@ -170,5 +170,17 @@
 "Note that most modern operating systems such as macOS or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities." = "Note that most modern operating systems such as macOS or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities.";
 "Cannot create the file" = "Cannot create the file";
 "Keka has no file access to the source file/s\nGive it access when asked or manually in the Preferences" = "Keka has no file access to the source file/s\nGive it access when asked or manually in the Preferences";
-"Give access to the source/s folder" = "Give access to the source/s folder";
+"Give access to the source/s folder/s" = "Give access to the source/s folder/s";
 "Give access to the compressed file" = "Give access to the compressed file";
+"The extension is enabled" = "The extension is enabled";
+"The extension is disabled" = "The extension is disabled";
+"The extension status can't be determined" = "The extension status can't be determined";
+"Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option.";
+"Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone.";
+"Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone.";
+"Show the operation log" = "Show the operation log";
+"Unable to process tips" = "Unable to process tips";
+"Already tipping a monthly %@" = "Already tipping a monthly %@";
+"Send a monthly %@ tip" = "Send a monthly %@ tip";
+"Send a %@ tip" = "Send a %@ tip";
+"Give Keka some love ♥" = "Give Keka some love ♥";

@@ -22,7 +22,7 @@ $content_changelog = "更新日志";
 $content_title = "macOS 压缩文件管理器";
 
 // Download
-$content_plataform = "需要 $version_replace 或更高版本";
+$content_platform = "需要 $version_replace 或更高版本";
 $content_download_text = "便捷存储，共享安全";
 $content_download_love = "喜欢吗？";
 $content_download_legacy = "历史版本";
@@ -35,14 +35,14 @@ $content_donation_mas = "如果您从 App Store 购买 Keka，这会支持我们
 $content_donation_paypal = "如果您不喜欢 MAS 或只是体验 Keka，<br />同时也喜欢这个项目并希望给予一些支持，您可以使用 PayPal 发起捐赠。";
 
 // Beta
-$content_plataform_beta = "测试版";
+$content_platform_beta = "测试版";
 $content_beta_title = "Keka 测试版";
 $content_beta_text = "您可以在正式版发布之前测试 Keka 的最新功能。<br />如果您发现了错误或要提交某些内容，请转到 ";
 $content_beta_unavailable = "目前没有测试版。";
 $content_beta_up = "获取最新版本";
 
 // Legacy
-$content_plataform_legacy =  "适用于 $version_replace";
+$content_platform_legacy =  "适用于 $version_replace";
 $content_legacy_title = "Keka 历史版本";
 $content_legacy_text = '多年后您的 Mac 设备将变得陈旧，或许不会支持<br />最新版本的 Keka，别担心<i class="fa fa-coffee" aria-hidden="true"></i>，所有 Keka 历史版本都在这儿。';
 
