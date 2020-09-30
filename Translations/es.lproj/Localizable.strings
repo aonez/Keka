@@ -184,3 +184,9 @@
 "Send a monthly %@ tip" = "Enviar una propina mensual de %@";
 "Send a %@ tip" = "Enviar una propina de %@";
 "Give Keka some love ♥" = "Apoya el desarrollo de Keka ♥";
+"All extractions will be expanded at this location." = "Todas las operaciones se extraerán en esta carpeta.";
+"All compressions will be stored at this location." = "Todas las operaciones se comprimirán en esta carpeta.";
+"You'll be asked where to extract each operation." = "Se preguntará dónde extraer cada operación.";
+"You'll be asked where to compress each operation." = "Se preguntará dónde comprimir cada operación.";
+"If Keka has File Access it will execute the operation near the source file/s, otherwise it will ask for a location. You can set Keka's File Access in the Preferences tab so this option works properly." = "Si Keka tiene Acceso a ficheros realizará la operación al lado del archivo original, en caso contrario preguntará dónde realizar la operación. Puedes dar Acceso a ficheros a Keka en las Preferencias para que esta opción funcione correctamente.";
+"Keka has no file access to the source folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka no tiene acceso a la carpeta principal y necesita preguntar dónde realizar la operación.\nPuedes dar acceso a esta y otras carpetas en el panel Acceso a Ficheros de las Preferencias de Keka.";
