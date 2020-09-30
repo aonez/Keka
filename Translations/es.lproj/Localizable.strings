@@ -180,7 +180,7 @@
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka intentará extraer todos los ficheros. Puedes intentar extraer ficheros desconocidos en el modo automático arrastrando y soltándolos en la parte inferior de la zona de arrastre.";
 "Show the operation log" = "Mostrar el registro de la operación";
 "Unable to process tips" = "No se pueden procesar las propinas";
-"Already tipping a monthly %@" = "Ya se está dando esta propina mensual de %@";
+"Already tipping a monthly %@" = "Ya se está dando la propina mensual de %@";
 "Send a monthly %@ tip" = "Enviar una propina mensual de %@";
 "Send a %@ tip" = "Enviar una propina de %@";
 "Give Keka some love ♥" = "Apoya el desarrollo de Keka ♥";

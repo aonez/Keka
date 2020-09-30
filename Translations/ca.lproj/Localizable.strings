@@ -180,7 +180,7 @@
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "El Keka intentarà extreure tots els fitxers. Pots intentar extreure fitxers desconeguts en el mode automàtic arrossegant i deixant anar a la part inferior de la zona d'arrossegament.";
 "Show the operation log" = "Mostrar el registre de l'operació";
 "Unable to process tips" = "No es poden processar les propines";
-"Already tipping a monthly %@" = "Ja s'està enviant aquesta propina mensual de %@";
+"Already tipping a monthly %@" = "Ja s'està enviant la propina mensual de %@";
 "Send a monthly %@ tip" = "Enviar una propina mensual de %@";
 "Send a %@ tip" = "Enviar una propina de %@";
 "Give Keka some love ♥" = "Suporta el desenvolupament del Keka ♥";
