@@ -41,6 +41,9 @@
 /* Class = "NSMenuItem"; title = "Save"; ObjectID = "Qst-Ya-feO"; */
 "Qst-Ya-feO.title" = "Guardar";
 
+/* Class = "NSMenuItem"; title = "Privacy Policy"; ObjectID = "Rkr-d9-A7d"; */
+"Rkr-d9-A7d.title" = "Política de privacidad";
+
 /* Class = "NSMenuItem"; title = "Cut"; ObjectID = "Ro6-g5-CxU"; */
 "Ro6-g5-CxU.title" = "Cortar";
 
@@ -79,6 +82,9 @@
 
 /* Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "jtN-lL-fdx"; */
 "jtN-lL-fdx.title" = "Abrir recientes";
+
+/* Class = "NSMenuItem"; title = "Terms Of Use"; ObjectID = "lmN-Tm-HmZ"; */
+"lmN-Tm-HmZ.title" = "Términos de uso";
 
 /* Class = "NSMenuItem"; title = "About Keka"; ObjectID = "maF-B5-Hb6"; */
 "maF-B5-Hb6.title" = "Acerca de Keka";
