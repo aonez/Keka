@@ -167,7 +167,7 @@
 "The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption." = "La contraseña no coincide y el archivo no se puede encriptar. Puedes cancelar e introducir de nuevo la contraseña o continuar sin encriptación.";
 "Use legacy encryption" = "Utilizar encriptado básico";
 "Using AES-256 encryption in ZIP" = "Utilizando encriptación AES-256 en ZIP";
-"Note that most modern operating systems such as macOS or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities." = "La mayoría de los sistemas operativos actuales como macOS o Windows no soportan archivos ZIP encriptados utilizando AES-256.\n\nPuedes abrir estos archivos sin problemas con la mayor parte de las aplicaciones de compresión de terceros.";
+"Note that most modern operating systems such as macOS (before macOS 11.0 Big Sur) or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities." = "La mayoría de los sistemas operativos actuales como macOS (antes de macOS 11.0 Big Sur) o Windows no soportan archivos ZIP encriptados utilizando AES-256.\n\nPuedes abrir estos archivos sin problemas con la mayor parte de las aplicaciones de compresión de terceros.";
 "Cannot create the file" = "No se ha podido crear el archivo";
 "Keka has no file access to the source file/s\nGive it access when asked or manually in the Preferences" = "Keka no tiene acceso al archivo.\nPuedes darle acceso cuando se pida o manualmente en las Preferencias";
 "Give access to the source/s folder/s" = "Dar acceso a la/s carpeta/s";

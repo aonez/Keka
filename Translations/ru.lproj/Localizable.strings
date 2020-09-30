@@ -167,7 +167,7 @@
 "The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption." = "Пароль не был установлен правильно, поэтому файл не может быть зашифрован. Вы можете отменить и установить пароль снова или продолжить процесс без шифрования.";
 "Use legacy encryption" = "Используйте устаревшее шифрование";
 "Using AES-256 encryption in ZIP" = "Использование AES-256 шифрования в ZIP";
-"Note that most modern operating systems such as macOS or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities." = "Обратите внимание, что большинство современных операционных систем, таких как macOS или Windows, по умолчанию не поддерживают зашифрованные ZIP-файлы AES-256.\n\nВы можете легко открыть эти файлы с помощью большинства сторонних утилит извлечения.";
+"Note that most modern operating systems such as macOS (before macOS 11.0 Big Sur) or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities." = "Обратите внимание, что большинство современных операционных систем, таких как macOS или Windows, по умолчанию не поддерживают зашифрованные ZIP-файлы AES-256.\n\nВы можете легко открыть эти файлы с помощью большинства сторонних утилит извлечения.";
 "Cannot create the file" = "Невозможно создать файл";
 "Keka has no file access to the source file/s\nGive it access when asked or manually in the Preferences" = "Кека не имеет доступа к исходному файлу или файлам\nВы можете предоставить доступ по запросу или вручную в Настройках.";
 "Give access to the source/s folder/s" = "Дать доступ к исходной папке или папкам";
