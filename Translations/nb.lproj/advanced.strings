@@ -1,6 +1,6 @@
 ﻿
 /* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "2221"; */
-"2221.title" = "Akriver som enkeltfiler";
+"2221.title" = "Arkiver som enkeltfiler";
 
 /* Class = "NSButtonCell"; title = "Delete file(s) after compression"; ObjectID = "2222"; */
 "2222.title" = "Slett fil(er) etter komprimering";
