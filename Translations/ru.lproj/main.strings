@@ -87,7 +87,7 @@
 "lmN-Tm-HmZ.title" = "Условия пользования";
 
 /* Class = "NSMenuItem"; title = "About Keka"; ObjectID = "maF-B5-Hb6"; */
-"maF-B5-Hb6.title" = "О программе Keka";
+"maF-B5-Hb6.title" = "О Keka";
 
 /* Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "nlc-UW-DRW"; */
 "nlc-UW-DRW.title" = "Вернуть к последней сохранённой версии";

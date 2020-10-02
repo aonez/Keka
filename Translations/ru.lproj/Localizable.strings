@@ -3,8 +3,8 @@
 "_ADVANCED_EXTRA_WIDTH_" = "50.0";
 /* Use the _PREFERENCES_EXTRA_WIDTH_ (if needed) to fit the action to perform description properly */
 "_PREFERENCES_EXTRA_WIDTH_" = "0.0";
-"OK" = "Да";
-"Done" = "Да";
+"OK" = "ОК";
+"Done" = "Готово";
 "Yes" = "Да";
 "No" = "Нет";
 "Don't show again" = "Больше не показывать";
