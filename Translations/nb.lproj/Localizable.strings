@@ -167,7 +167,7 @@
 "The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption." = "Passordet er ikke satt riktig, og filen kan ikke krypteres. Du kan avbryte og sette passordet igjen, eller du kan fortsette uten kryptering.";
 "Use legacy encryption" = "Bruk legacy-kryptering";
 "Using AES-256 encryption in ZIP" = "Bruker AES-256-kryptering i ZIP";
-"Note that most modern operating systems such as macOS (before macOS 11.0 Big Sur) or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities." = "Note that most modern operating systems such as macOS (before macOS 11.0 Big Sur) or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities.";
+"Note that most modern operating systems such as macOS (before macOS 11.0 Big Sur) or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities." = "Merk at de fleste moderne operativsystemer som macOS (før macOS 11.0 Big Sur) eller Windows ikke støtter AES-256-krypterte ZIP-filer som standard.\n\nDu kan derimot enkelt åpne disse med de fleste tredjeparts utpakkingsverktøy.";
 "Cannot create the file" = "Kunne ikke opprette filen";
 "Keka has no file access to the source file/s\nGive it access when asked or manually in the Preferences" = "Keka har ikke tilgang til kildefilen/s\nGi tilgang når spurt, eller manuelt i Systemvalg";
 "Give access to the source/s folder/s" = "Gi tilgang til kildemappen(e)";
