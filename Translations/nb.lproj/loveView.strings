@@ -1,6 +1,6 @@
 
 /* Class = "NSTextFieldCell"; title = "Privacy Policy"; ObjectID = "272-yr-FLe"; */
-"272-yr-FLe.title" = "Privacy Policy";
+"272-yr-FLe.title" = "Personvernretningslinjer";
 
 /* Class = "NSTextFieldCell"; title = "Quantity:"; ObjectID = "3fa-7X-tbT"; */
 "3fa-7X-tbT.title" = "Antall:";
@@ -9,13 +9,13 @@
 "8XN-ZG-0jV.title" = "Hvis du liker Keka og vil støtte utviklingen, må du gjerne sende driks.";
 
 /* Class = "NSTextFieldCell"; title = "and"; ObjectID = "OE7-1P-wlg"; */
-"OE7-1P-wlg.title" = "and";
+"OE7-1P-wlg.title" = "og";
 
 /* Class = "NSButtonCell"; title = "Send a tip"; ObjectID = "WjZ-gs-QMb"; */
 "WjZ-gs-QMb.title" = "Send driks";
 
 /* Class = "NSTextFieldCell"; title = "Terms of Use"; ObjectID = "Zyi-xe-LEG"; */
-"Zyi-xe-LEG.title" = "Terms of Use";
+"Zyi-xe-LEG.title" = "Vilkår for bruk";
 
 /* Class = "NSButtonCell"; title = "One-time"; ObjectID = "eDc-OH-PJc"; */
 "eDc-OH-PJc.title" = "Engangs";
