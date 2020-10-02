@@ -167,7 +167,7 @@
 "The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption." = "密码设置不正确文件无法加密。您可以取消并重新设置密码或者在不加密的情况下继续";
 "Use legacy encryption" = "使用旧版加密";
 "Using AES-256 encryption in ZIP" = "在 ZIP 中使用 AES-256 加密";
-"Note that most modern operating systems such as macOS or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities." = "注意，现有的大多数操作系统（例如 macOS 或 Windows）默认不支持 AES-256 加密的 ZIP 文件。\n\n你可以使用第三方解压工具轻松的打开这些文件。";
+"Note that most modern operating systems such as macOS (before macOS 11.0 Big Sur) or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities." = "注意，现有的大多数操作系统（例如 macOS 或 Windows）默认不支持 AES-256 加密的 ZIP 文件。\n\n你可以使用第三方解压工具轻松的打开这些文件。";
 "Cannot create the file" = "无法创建文件";
 "Keka has no file access to the source file/s\nGive it access when asked or manually in the Preferences" = "Keka 无权访问源文件/s\n请在询问时或在“偏好设置”中手动授予访问权限";
 "Give access to the source/s folder/s" = "授权访问源文件夹";
@@ -184,3 +184,11 @@
 "Send a monthly %@ tip" = "Send a monthly %@ tip";
 "Send a %@ tip" = "Send a %@ tip";
 "Give Keka some love ♥" = "Give Keka some love ♥";
+"All extractions will be expanded at this location." = "All extractions will be expanded at this location.";
+"All compressions will be stored at this location." = "All compressions will be stored at this location.";
+"You'll be asked where to extract each operation." = "You'll be asked where to extract each operation.";
+"You'll be asked where to compress each operation." = "You'll be asked where to compress each operation.";
+"If Keka has File Access it will execute the operation near the source file/s, otherwise it will ask for a location. You can set Keka's File Access in the Preferences tab so this option works properly." = "If Keka has File Access it will execute the operation near the source file/s, otherwise it will ask for a location. You can set Keka's File Access in the Preferences tab so this option works properly.";
+"Keka has no file access to the source folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka has no file access to the source folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane.";
+"The characters %@ are not compatible with the %@ format" = "The characters %@ are not compatible with the %@ format";
+"The character %@ is not compatible with the %@ format" = "The character %@ is not compatible with the %@ format";
