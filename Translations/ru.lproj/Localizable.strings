@@ -61,8 +61,8 @@
 "Extraction of \"%@\" failed" = "Не удалось распаковать \"%@\"";
 "Keka - %i on queue" = "Keka - %i в очереди";
 "Keka can't create this %@ image" = "Keka не удалось создать %@-образ";
-"You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "%@-образ не может быть создан из многих папок. Попробуйте поместить Ваши файлы в одну папку и перетащите её в окно программы Keka.";
-"Keka can't create this @% tarball" = "Keka не удалось создать @% tarball";
+"You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "%@-образ можно создать только из одной папки. Попробуйте поместить ваши файлы в одну папку и перетащить её в окно Keka.";
+"Keka can't create this @% tarball" = "Keka не удалось создать TAR-архив @%";
 "This operation is not supported on %@." = "Данная операция не поддерживается %@.";
 "Compress \"%@\" in %@ to..." = "Сжать \"%@\" в %@ в...";
 "Compress in %@ to..." = "Сжать в %@ в...";
