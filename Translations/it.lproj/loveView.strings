@@ -1,6 +1,6 @@
 
 /* Class = "NSTextFieldCell"; title = "Privacy Policy"; ObjectID = "272-yr-FLe"; */
-"272-yr-FLe.title" = "Privacy Policy";
+"272-yr-FLe.title" = "Politica sulla privacy";
 
 /* Class = "NSTextFieldCell"; title = "Quantity:"; ObjectID = "3fa-7X-tbT"; */
 "3fa-7X-tbT.title" = "Quantità:";
@@ -9,13 +9,13 @@
 "8XN-ZG-0jV.title" = "Se ti piace Keka e vuoi sostenere il suo sviluppo, sentiti libero di inviare una ricompensa.";
 
 /* Class = "NSTextFieldCell"; title = "and"; ObjectID = "OE7-1P-wlg"; */
-"OE7-1P-wlg.title" = "and";
+"OE7-1P-wlg.title" = "e";
 
 /* Class = "NSButtonCell"; title = "Send a tip"; ObjectID = "WjZ-gs-QMb"; */
 "WjZ-gs-QMb.title" = "Invia una ricompensa";
 
 /* Class = "NSTextFieldCell"; title = "Terms of Use"; ObjectID = "Zyi-xe-LEG"; */
-"Zyi-xe-LEG.title" = "Terms of Use";
+"Zyi-xe-LEG.title" = "Condizioni d'uso";
 
 /* Class = "NSButtonCell"; title = "One-time"; ObjectID = "eDc-OH-PJc"; */
 "eDc-OH-PJc.title" = "Una volta";
