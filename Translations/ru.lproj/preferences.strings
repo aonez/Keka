@@ -102,7 +102,7 @@
 "360.title" = "Распаковывать файлы:";
 
 /* Class = "NSButtonCell"; title = "Show content in Finder after extraction"; ObjectID = "361"; */
-"361.title" = "Показать содержимое в Finder после распаковки";
+"361.title" = "Показывать содержимое в Finder после распаковки";
 
 /* Class = "NSButtonCell"; title = "Move compressed file(s) to Trash after extraction"; ObjectID = "362"; */
 "362.title" = "Удалить архив(ы) в корзину после распаковки";
@@ -123,10 +123,10 @@
 "436.title" = "Звуковой эффект после сжатия:";
 
 /* Class = "NSMenuItem"; title = "Default extraction"; ObjectID = "439"; */
-"439.title" = "Распаковка";
+"439.title" = "Стандартный звук распаковки";
 
 /* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "452"; */
-"452.title" = "Сжатие";
+"452.title" = "Стандартный звук сжатия";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "453"; */
 "453.title" = "без звука";
@@ -159,13 +159,13 @@
 "6bh-6N-5PP.title" = "Область для действий в подменю";
 
 /* Class = "NSTextFieldCell"; title = "You can use this placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
-"8JN-Ub-qkc.title" = "Вы можете использовать эти примеры заполнения:\n\n%n будет заменено именем файла\n%e будет заменено расширением файла\n%p будет заменено родительской папкой\n%c будет заменено на число файлов\n%d будет заменено текущей датой\n%t будет заменено текущим временем\n%s будет заменено общим именем\n%i% будет заменено первым именем элемента\n%ia% будет заменено первым отсортированным именем\n\nЗамены в некоторых случаях будут пустыми.";
+"8JN-Ub-qkc.title" = "Вы можете использовать переменные-заполнители:\n\n%n будет заменено именем файла\n%e будет заменено расширением файла\n%p будет заменено родительской папкой\n%c будет заменено числом файлов\n%d будет заменено текущей датой\n%t будет заменено текущим временем\n%s будет заменено общим именем\n%i% будет заменено именем первого элемента\n%ia% будет заменено именем первого по порядку элемента\n\nЗамены в некоторых случаях будут пустыми.";
 
 /* Class = "NSTextFieldCell"; title = "Fallback folder:"; ObjectID = "9dE-yV-N3K"; */
 "9dE-yV-N3K.title" = "Резервная папка:";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "CWc-wN-FhI"; */
-"CWc-wN-FhI.title" = "Пользовательская папка...";
+"CWc-wN-FhI.title" = "Выбрать папку...";
 
 /* Class = "NSTextFieldCell"; title = "Extractions use less power so even using multiple thread you can easily set this limit to two or three. Note that the target disk may suffer."; ObjectID = "DAr-Td-s5W"; */
 "DAr-Td-s5W.title" = "Извлечения потребляют меньше энергии, поэтому даже используя многопоточность, вы можете безопасно установить значение 2 или 3. Обратите внимание, что целевой диск может испытывать повышенную нагрузку.";
@@ -246,7 +246,7 @@
 "cDs-NB-2os.title" = "Использовать имя родительской папки при сжатии нескольких файлов";
 
 /* Class = "NSTextFieldCell"; title = "The fallback folder will be used when Keka can't work in the selected folder."; ObjectID = "caX-B6-61f"; */
-"caX-B6-61f.title" = "Резервная папка будет использоваться, когда Keka не может работать в выбранной папке.";
+"caX-B6-61f.title" = "Резервная папка будет использоваться, если Keka не может работать в выбранной папке.";
 
 /* Class = "NSButtonCell"; title = "Maximum threads per operation:"; ObjectID = "cb7-h4-ScP"; */
 "cb7-h4-ScP.title" = "Максимальное количество потоков на операцию:";
@@ -282,7 +282,7 @@
 "p5F-63-ubE.title" = "Сохранение исходного расширения:";
 
 /* Class = "NSButtonCell"; title = "Always extract in a subfolder"; ObjectID = "pXT-7y-9af"; */
-"pXT-7y-9af.title" = "Всегда распаковывать в промежуточную папку";
+"pXT-7y-9af.title" = "Всегда распаковывать в подпапку";
 
 /* Class = "NSButtonCell"; title = "Show Keka actions in Finder's contextual menu"; ObjectID = "rP2-XR-ZQt"; */
 "rP2-XR-ZQt.title" = "Показывать действия Keka в контекстном меню Finder";
@@ -300,7 +300,7 @@
 "tEH-O0-NxO.title" = "Никогда, когда это возможно";
 
 /* Class = "NSTextFieldCell"; title = "The Finder Extension needs to be enabled in the  System Preferences, Extensions configuration."; ObjectID = "wgz-2S-eXI"; */
-"wgz-2S-eXI.title" = "Расширение для Finder, должно быть активировано в Системных Настройках , настройки Расширений.";
+"wgz-2S-eXI.title" = "Расширение для Finder должно быть активировано в Системных настройках, пункт \"Расширения\".";
 
 /* Class = "NSTextFieldCell"; title = "Most operations use multiple threads. That means faster operations but also more power consumption and heat."; ObjectID = "xyb-eH-aiy"; */
 "xyb-eH-aiy.title" = "Большое количество операций с использованием множества потоков, ведёт к увеличению скорости работы, а также к увеличению потребления энергии и выделению тепла.";

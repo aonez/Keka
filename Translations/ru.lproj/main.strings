@@ -90,7 +90,7 @@
 "maF-B5-Hb6.title" = "О программе Keka";
 
 /* Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "nlc-UW-DRW"; */
-"nlc-UW-DRW.title" = "Вернуть к сохраненному";
+"nlc-UW-DRW.title" = "Вернуть к последней сохранённой версии";
 
 /* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "nvz-UK-KlM"; */
 "nvz-UK-KlM.title" = "Сохранить как…";
