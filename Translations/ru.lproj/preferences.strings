@@ -219,7 +219,7 @@
 "WCN-jH-W9J.placeholderString" = "Укажите имя для нового файла";
 
 /* Class = "NSButtonCell"; title = "Remove bad password header structure extractions"; ObjectID = "Wd0-yz-M1h"; */
-"Wd0-yz-M1h.title" = "Удалить неверный пароль, при извлечении структуры заголовка";
+"Wd0-yz-M1h.title" = "Удалить неверный пароль при извлечении структуры заголовка";
 
 /* Class = "NSToolbarItem"; label = "Love"; ObjectID = "XKE-wc-exs"; */
 "XKE-wc-exs.label" = "Поддержать проект";
@@ -309,7 +309,7 @@
 "yGo-Gm-0zq.title" = "Максимум одновременно извлеченных:";
 
 /* Class = "NSButtonCell"; title = "Only show if Keka has file access"; ObjectID = "zPT-vj-EVo"; */
-"zPT-vj-EVo.title" = "Показывать только если Keka, имеет доступ к файлу";
+"zPT-vj-EVo.title" = "Показывать только если Keka имеет доступ к файлу";
 
 /* Class = "NSTextFieldCell"; title = "Queuing usually results in faster operations and a more responsive behaviour."; ObjectID = "zPq-ei-qUb"; */
 "zPq-ei-qUb.title" = "Очередь обычно приводит к более быстрым операциям и более отзывчивому поведению.";

@@ -53,7 +53,7 @@
 "Choose a name and folder to start the compression" = "Выберите имя файла и папку, чтобы начать сжатие";
 "Creation of \"%@\" failed" = "Не удалось создать \"%@\"";
 "Creating \"%@\"" = "Создание \"%@\"";
-"Preparing extraction..." = "Подготовка распаковки…";
+"Preparing extraction..." = "Подготовка распаковки...";
 "Choose a folder to extract this file" = "Укажите папку для распаковки файла";
 "Choose where do you want to extract \"%@\"" = "Выберите, куда распаковать \"%@\"";
 "Select all the volumes from \"%@\" or the folder that contains them" = "Выберите все тома \"%@\" или содержащую их папку";
@@ -68,7 +68,7 @@
 "Compress in %@ to..." = "Сжать в %@ в...";
 "Save as:" = "Сохранить как:";
 "Compress" = "Сжать";
-"Extract \"%@\" to..." = "Распаковать \"%@\" в…";
+"Extract \"%@\" to..." = "Распаковать \"%@\" в...";
 "Extract as:" = "Распаковать как:";
 "Extract" = "Распаковать";
 " - Remaining: Calculating..." = " - Расчёт оставшегося времени...";
@@ -83,7 +83,7 @@
 " - Remaining: About 1 year" = " - Осталось около года";
 " - Remaining: About %d years" = " - Осталось около %d лет";
 " - Remaining: Less than one second" = " - Осталось меньше секунды";
-"Can't show progress time..." = "Невозможно показать оставшееся время …";
+"Can't show progress time..." = "Невозможно показать оставшееся время...";
 "Password for \"%@\"" = "Пароль для \"%@\"";
 "Format" = "Формат";
 "Method" = "Метод";
@@ -96,12 +96,12 @@
 "Slowest, more compression" = "Самый медленный (больше сжатие)";
 "Compression" = "Сжатие";
 "Extraction" = "Распаковка";
-"Keka can't use the \"extlx.plist\" list, please get in contact with the developers.\n\nNow Keka will quit." = "Keka не может использовать список \"extlx.plist\", пожалуйста, обратитесь к разработчикам.\n\nKeka завершает работу.";
+"Keka can't use the \"extlx.plist\" list, please get in contact with the developers.\n\nNow Keka will quit." = "Keka не может использовать список \"extlx.plist\"; пожалуйста, обратитесь к разработчикам.\n\nKeka завершает работу.";
 "Keka is dying!" = "Keka умирает!";
 "Ask each time" = "Спрашивать каждый раз";
 "Next to original file" = "В папку с исходным файлом";
 "Custom folder..." = "Выбрать папку...";
-"Same as original file" = "Так же как исходный файл";
+"Same as original file" = "Так же, как исходный файл";
 "Custom name..." = "Указать имя...";
 "Archive" = "Архив";
 "Set as default folder" = "Установить как папку по умолчанию";
