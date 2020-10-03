@@ -18,7 +18,7 @@
 "2271.placeholderString" = "Eksempel: 5 MB";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[0] = "1.4 MB Floppy disk"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[0]" = "1.4 MB Floppy-disk";
+"2271.ibShadowedObjectValues[0]" = "1.4 MB floppydisk";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[1] = "650 MB CD"; ObjectID = "2271"; */
 "2271.ibShadowedObjectValues[1]" = "650 MB CD";

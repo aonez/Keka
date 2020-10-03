@@ -1,6 +1,6 @@
 "_PROJECTTITLE_" = "Keka-prosjektet";
 "_PROGRAMMER_" = "Programmerer, designer &amp; vedlikeholdsansvarlig";
-"_ARTWORK_" = "Grafikkdesigner";
+"_ARTWORK_" = "Grafisk designer";
 "_TRANSLATIONS_" = "Oversettelser";
 "_TRANSLATIONSOLD_" = "Oversettelser (fra 0.1 til 0.1.4.3)";
 "_TESTERS_" = "Sporadiske testere";
@@ -11,5 +11,5 @@
 "_THANKS_" = "Takk for at du bruker Keka!";
 "_SOURCE_" = "Kildekoden til Keka 1.0 vil ikke være offentlig tilgjengelig, av juridiske årsaker. Advokathjelp er ønsket, hvis du kan hjelpe prosjektet, vennligst kontakt oss på info@keka.io eller se Prosjekt-siden på Kekas nettside. All hjelp er velkommen.";
 "_WARRANTY_" = "THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.";
-"_THANKSTOALL_" = "Takk til alle donorer og alle som kjøpte Keka fra App Store.<br />Takk for all tilbakemeldingen og sporadiske bidrag.<br />Takk til Igor Pavlov for et så fantastisk stykke åpen kildekode-programvare, og til 'myspace' for å porte det til POSIX.<br /><br />Dere bidrar alle til å holde Keka-prosjektet i live og videreutvikle det.";
+"_THANKSTOALL_" = "Takk til alle donorer og alle som kjøpte Keka fra App Store.<br />Takk for all tilbakemeldingen og sporadiske bidrag.<br />Takk til Igor Pavlov for et så fantastisk stykke åpen kildekode-programvare, og til 'myspace' for å ha portet det til POSIX.<br /><br />Dere bidrar alle til å holde Keka-prosjektet i live og til å videreutvikle det.";
 "_APPEARDONATION_" = "Hvis du har donert og ønsker å nevnes her, trenger du bare <a href=\"mailto:info@keka.io?subject=Keka donation credits\">si ifra</a> :)";
