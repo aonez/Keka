@@ -12,7 +12,7 @@
 "2262.title" = "Пароль:";
 
 /* Class = "NSTextFieldCell"; title = "Split:"; ObjectID = "2270"; */
-"2270.title" = "Разбивка на тома:";
+"2270.title" = "Разбить на тома:";
 
 /* Class = "NSComboBoxCell"; placeholderString = "Example: 5 MB"; ObjectID = "2271"; */
 "2271.placeholderString" = "Пример: 5 MB";
@@ -51,7 +51,7 @@
 "2271.ibShadowedObjectValues[10]" = "128 GB Blu-ray XL (4 слоя)";
 
 /* Class = "NSTextFieldCell"; title = "Volume name:"; ObjectID = "2343"; */
-"2343.title" = "Имя образа диска:";
+"2343.title" = "Имя образа:";
 
 /* Class = "NSTextFieldCell"; placeholderString = "custom name"; ObjectID = "2354"; */
 "2354.placeholderString" = "укажите имя";
