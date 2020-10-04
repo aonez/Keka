@@ -128,7 +128,7 @@
 "Maybe you don't have permission to write or your disk is full" = "Возможно, у вас нет прав на запись, либо диск переполнен";
 "Can't open the file, maybe you don't have read permission" = "Невозможно открыть файл. Возможно, у вас нет прав на чтение";
 "Command line error, please contact with the developer" = "Ошибка командной строки. Пожалуйста, обратитесь к разработчику";
-"Not enough memory. Try to close some programs and repeat the operation" = "Недостаточно памяти. Попробуйте закрыть другие программы и повторите оперцию";
+"Not enough memory. Try to close some programs and repeat the operation" = "Недостаточно памяти. Попробуйте закрыть другие программы и повторите операцию";
 "Can't create the file, maybe you don't have permission or free space" = "Невозможно создать файл. Вероятно, у вас отсутствуют права на запись либо нет места на диске";
 "Canceled manually" = "Принудительно отменена";
 "Bad password, try again" = "Неверный пароль, попробуйте ещё раз";
