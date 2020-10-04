@@ -189,7 +189,7 @@
 "Hkf-wB-gUj.title" = "Рекомендуется делать только одно сжатие за раз, если используется несколько потоков.";
 
 /* Class = "NSTextFieldCell"; title = "Those are only applied when Keka is not open"; ObjectID = "Hx2-S1-j7m"; */
-"Hx2-S1-j7m.title" = "Для применения этих установок перезапустите программу.";
+"Hx2-S1-j7m.title" = "Эти настройки применимы только если приложение Keka закрыто";
 
 /* Class = "NSButtonCell"; title = "Enable full Mac access (Recommended)"; ObjectID = "IHj-ac-103"; */
 "IHj-ac-103.title" = "Дать доступ ко всему Mac (Рекомендуется)";
@@ -237,7 +237,7 @@
 "ZOx-vr-5o7.title" = "Дать доступ ко всему Mac, чтобы Keka могла работать с любыми файлами на этом Mac:";
 
 /* Class = "NSButtonCell"; title = "Use \"Open with Keka\" as the primary item action"; ObjectID = "a5e-FP-sDv"; */
-"a5e-FP-sDv.title" = "Используйте \"Открыть с помощью Keka\" в качестве основного действия";
+"a5e-FP-sDv.title" = "Использовать \"Открыть с помощью Keka\" в качестве основного действия";
 
 /* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "b5e-bj-Pgz"; */
 "b5e-bj-Pgz.title" = "Использовать единую панель инструментов (сбрасывает настройки)";
@@ -255,7 +255,7 @@
 "dhi-qv-weg.title" = "Сжатие нескольких файлов:";
 
 /* Class = "NSButtonCell"; title = "Set folder's modification date to extraction date"; ObjectID = "eBj-1b-wBg"; */
-"eBj-1b-wBg.title" = "Изменить дату модификаций папок, на дату извлечения";
+"eBj-1b-wBg.title" = "Изменить дату модификации папки на дату извлечения";
 
 /* Class = "NSTextFieldCell"; title = "Queue extraction operations:"; ObjectID = "fhN-DK-edu"; */
 "fhN-DK-edu.title" = "Очередь операций извлечения:";
@@ -279,7 +279,7 @@
 "otI-Pt-BTh.title" = "Операции с очередями:";
 
 /* Class = "NSTextFieldCell"; title = "Keep source extension:"; ObjectID = "p5F-63-ubE"; */
-"p5F-63-ubE.title" = "Сохранение исходного расширения:";
+"p5F-63-ubE.title" = "Сохранять исходное расширение:";
 
 /* Class = "NSButtonCell"; title = "Always extract in a subfolder"; ObjectID = "pXT-7y-9af"; */
 "pXT-7y-9af.title" = "Всегда распаковывать в подпапку";
@@ -294,7 +294,7 @@
 "sgV-AD-k4Q.title" = "Дать доступ к внешним хранилищам";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous compressions:"; ObjectID = "sjA-7B-5U6"; */
-"sjA-7B-5U6.title" = "Максимум одновременно сжатых:";
+"sjA-7B-5U6.title" = "Максимум одновременных сжатий:";
 
 /* Class = "NSMenuItem"; title = "Never, when possible"; ObjectID = "tEH-O0-NxO"; */
 "tEH-O0-NxO.title" = "Никогда, когда это возможно";
@@ -303,13 +303,13 @@
 "wgz-2S-eXI.title" = "Расширение для Finder должно быть активировано в Системных настройках, пункт \"Расширения\".";
 
 /* Class = "NSTextFieldCell"; title = "Most operations use multiple threads. That means faster operations but also more power consumption and heat."; ObjectID = "xyb-eH-aiy"; */
-"xyb-eH-aiy.title" = "Большое количество операций с использованием множества потоков, ведёт к увеличению скорости работы, а также к увеличению потребления энергии и выделению тепла.";
+"xyb-eH-aiy.title" = "Большинство операций используют несколько потоков. Это ведёт как к увеличению скорости работы, так и к увеличению энергопотребления и выделению тепла.";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous extractions:"; ObjectID = "yGo-Gm-0zq"; */
-"yGo-Gm-0zq.title" = "Максимум одновременно извлеченных:";
+"yGo-Gm-0zq.title" = "Максимум одновременных извлечений:";
 
 /* Class = "NSButtonCell"; title = "Only show if Keka has file access"; ObjectID = "zPT-vj-EVo"; */
 "zPT-vj-EVo.title" = "Показывать только если Keka имеет доступ к файлу";
 
 /* Class = "NSTextFieldCell"; title = "Queuing usually results in faster operations and a more responsive behaviour."; ObjectID = "zPq-ei-qUb"; */
-"zPq-ei-qUb.title" = "Очередь обычно приводит к более быстрым операциям и более отзывчивому поведению.";
+"zPq-ei-qUb.title" = "Помещение задач в очередь обычно приводит к более быстрым операциям и более отзывчивому поведению.";

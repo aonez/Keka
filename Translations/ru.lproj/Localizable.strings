@@ -130,7 +130,7 @@
 "Command line error, please contact with the developer" = "Ошибка командной строки. Пожалуйста, обратитесь к разработчику";
 "Not enough memory. Try to close some programs and repeat the operation" = "Недостаточно памяти. Попробуйте закрыть другие программы и повторите оперцию";
 "Can't create the file, maybe you don't have permission or free space" = "Невозможно создать файл. Вероятно, у Вас отсутствуют права на запись либо нет места на диске";
-"Canceled manually" = "Отменена принудительно";
+"Canceled manually" = "Принудительно отменена";
 "Bad password, try again" = "Неверный пароль, попробуйте ещё раз";
 "This archive is locked" = "Этот архив заблокирован";
 "Write error. No permission? No space left?" = "Ошибка записи. Нет прав на запись? Нет места на диске?";
@@ -165,9 +165,9 @@
 "Continue without encryption" = "Продолжить без шифрования";
 "The password does not match" = "Пароль не совпадает";
 "The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption." = "Пароль не был установлен правильно, поэтому файл не может быть зашифрован. Вы можете отменить и установить пароль снова или продолжить процесс без шифрования.";
-"Use legacy encryption" = "Используйте устаревшее шифрование";
-"Using AES-256 encryption in ZIP" = "Использование AES-256 шифрования в ZIP";
-"Note that most modern operating systems such as macOS (before macOS 11.0 Big Sur) or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities." = "Обратите внимание, что большинство современных операционных систем, таких как macOS или Windows, по умолчанию не поддерживают зашифрованные ZIP-файлы AES-256.\n\nВы можете легко открыть эти файлы с помощью большинства сторонних утилит извлечения.";
+"Use legacy encryption" = "Использовать устаревшее шифрование";
+"Using AES-256 encryption in ZIP" = "Используется AES-256 шифрование в ZIP";
+"Note that most modern operating systems such as macOS (before macOS 11.0 Big Sur) or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities." = "Обратите внимание, что большинство современных операционных систем, таких как macOS (до версии 11.0 Big Sur) или Windows, по умолчанию не поддерживают ZIP-файлы, зашифрованные с помощью AES-256.\n\nВы можете легко открыть эти файлы с помощью большинства сторонних утилит извлечения.";
 "Cannot create the file" = "Невозможно создать файл";
 "Keka has no file access to the source file/s\nGive it access when asked or manually in the Preferences" = "Keka не имеет доступа к исходному файлу/файлам\nВы можете предоставить доступ по запросу или вручную в Настройках.";
 "Give access to the source/s folder/s" = "Дать доступ к исходной папке/папкам";
