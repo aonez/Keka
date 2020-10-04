@@ -131,7 +131,7 @@
 "Not enough memory. Try to close some programs and repeat the operation" = "Недостаточно памяти. Попробуйте закрыть другие программы и повторите оперцию";
 "Can't create the file, maybe you don't have permission or free space" = "Невозможно создать файл. Вероятно, у Вас отсутствуют права на запись либо нет места на диске";
 "Canceled manually" = "Отменена принудительно";
-"Bad password, try again" = "Неверный пароль, попробуйте еще раз";
+"Bad password, try again" = "Неверный пароль, попробуйте ещё раз";
 "This archive is locked" = "Этот архив заблокирован";
 "Write error. No permission? No space left?" = "Ошибка записи. Нет прав на запись? Отсутствует место на диске?";
 "Can't open the file, maybe it's not accessible" = "Невозможно открыть файл. Вероятно, он недоступен";
