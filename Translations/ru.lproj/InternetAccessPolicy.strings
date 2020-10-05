@@ -9,7 +9,7 @@
 */
 
 // Top-level, general application description:
-"ApplicationDescription" = "Keka — это файловый архиватор для macOS.";
+"ApplicationDescription" = "Keka это файловый архиватор для macOS.";
 
 // Software update connection:
 "SoftwareUpdatePurpose" = "Keka подключается к u(pdate).keka.io для проверки наличия новых версий.";
