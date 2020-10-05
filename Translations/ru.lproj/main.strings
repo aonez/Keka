@@ -42,7 +42,7 @@
 "Qst-Ya-feO.title" = "Сохранить";
 
 /* Class = "NSMenuItem"; title = "Privacy Policy"; ObjectID = "Rkr-d9-A7d"; */
-"Rkr-d9-A7d.title" = "Privacy Policy";
+"Rkr-d9-A7d.title" = "Политика конфиденциальности";
 
 /* Class = "NSMenuItem"; title = "Cut"; ObjectID = "Ro6-g5-CxU"; */
 "Ro6-g5-CxU.title" = "Вырезать";
@@ -84,13 +84,13 @@
 "jtN-lL-fdx.title" = "Открыть недавнее";
 
 /* Class = "NSMenuItem"; title = "Terms Of Use"; ObjectID = "lmN-Tm-HmZ"; */
-"lmN-Tm-HmZ.title" = "Terms Of Use";
+"lmN-Tm-HmZ.title" = "Условия пользования";
 
 /* Class = "NSMenuItem"; title = "About Keka"; ObjectID = "maF-B5-Hb6"; */
-"maF-B5-Hb6.title" = "О программе Keka";
+"maF-B5-Hb6.title" = "О Keka";
 
 /* Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "nlc-UW-DRW"; */
-"nlc-UW-DRW.title" = "Вернуть к сохраненному";
+"nlc-UW-DRW.title" = "Вернуть к последней сохранённой версии";
 
 /* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "nvz-UK-KlM"; */
 "nvz-UK-KlM.title" = "Сохранить как…";
@@ -123,7 +123,7 @@
 "wLf-5U-sSh.title" = "Новое окно";
 
 /* Class = "NSMenuItem"; title = "Select All"; ObjectID = "wbR-ho-uar"; */
-"wbR-ho-uar.title" = "Выделить все";
+"wbR-ho-uar.title" = "Выделить всё";
 
 /* Class = "NSMenuItem"; title = "Save debug information"; ObjectID = "zWX-XS-wiR"; */
 "zWX-XS-wiR.title" = "Сохранить отладочную информацию";
