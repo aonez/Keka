@@ -60,6 +60,12 @@ $content_info_extraction = "Og pakke ut alle disse formatene:";
 $content_defaultapp_title = "Sett Keka som standardapp for utpakking";
 $content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">trenger et hjelpeprogram<i class="far fa-question-circle"></i></a> for å sette seg selv som standardapp.<br />Du trenger bare laste det ned og pakke det ut, flytte det til skriveborder og åpne det.';
 
+// Privacy Policy
+$content_privacypolicy_title = 'Personvernretningslinjer';
+
+// Terms of use
+$content_termsofuse_title = 'Vilkår for bruk';
+
 // Main content of the page
 $content_context_menu = "Kontekstmeny";
 

@@ -60,6 +60,12 @@ $content_info_extraction = "Keka가 압축을 해제할 수 있는 파일 포맷
 $content_defaultapp_title = "Keka를 기본 압축앱으로 설정해주세요";
 $content_defaultapp_text = '<a href="https://github.com/aonez/Keka/wiki/Default-application">도움말<i class="far fa-question-circle"></i></a>을 이용해서 간단하게 Keka를 설치하고, <br />데스크톱앱의 기본 압축앱으로 설정해보세요.';
 
+// Privacy Policy
+$content_privacypolicy_title = 'Privacy Policy';
+
+// Terms of use
+$content_termsofuse_title = 'Terms of Use';
+
 // Main content of the page
 $content_context_menu = "Context 메뉴";
 
