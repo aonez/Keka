@@ -61,13 +61,13 @@ $content_defaultapp_title = "设置 Keka 为默认解压应用程序";
 $content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">需使用一个小工具 <i class="far fa-question-circle"></i></a> 将其设置为默认应用程序。<br />下载该工具，解压后将其移至桌面并打开即可。';
 
 // Privacy Policy
-$content_privacypolicy_title = 'Privacy Policy';
+$content_privacypolicy_title = '隐私政策';
 
 // Terms of use
-$content_termsofuse_title = 'Terms of Use';
+$content_termsofuse_title = '使用条款';
 
 // Main content of the page
-$content_context_menu = "服务菜单（右键服务";
+$content_context_menu = "服务菜单（右键服务）";
 
 // Changelog info
 $content_changelog_title = "看看 Keka 的变化";
