@@ -1,6 +1,6 @@
 ﻿
 /* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "2221"; */
-"2221.title" = "Akriver som enkeltfiler";
+"2221.title" = "Arkiver som enkeltfiler";
 
 /* Class = "NSButtonCell"; title = "Delete file(s) after compression"; ObjectID = "2222"; */
 "2222.title" = "Slett fil(er) etter komprimering";
@@ -18,7 +18,7 @@
 "2271.placeholderString" = "Eksempel: 5 MB";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[0] = "1.4 MB Floppy disk"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[0]" = "1.4 MB Floppy-disk";
+"2271.ibShadowedObjectValues[0]" = "1.4 MB floppydisk";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[1] = "650 MB CD"; ObjectID = "2271"; */
 "2271.ibShadowedObjectValues[1]" = "650 MB CD";
@@ -84,4 +84,4 @@
 "UYy-aQ-V1a.title" = "Solid arkiv";
 
 /* Class = "NSButtonCell"; title = "Use BZIP2 compression"; ObjectID = "qhy-NU-Cts"; */
-"qhy-NU-Cts.title" = "Use BZIP2 compression";
+"qhy-NU-Cts.title" = "Bruk BZIP2-komprimering";

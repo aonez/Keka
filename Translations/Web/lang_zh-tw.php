@@ -56,8 +56,14 @@ $content_info_compression = "Keka 可以建立以下格式的壓縮檔案：";
 $content_info_extraction = "並支持解壓縮這些格式：";
 
 // Default app
-$content_defaultapp_title = "Set Keka as the default extraction application";
-$content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">needs a helper <i class="far fa-question-circle"></i></a> to set itself as the default application.<br />Simply download and extract it, move it to the desktop and then open it.';
+$content_defaultapp_title = "設置 Keka 為預設解壓縮應用程式";
+$content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">需使用一個小工具 <i class="far fa-question-circle"></i></a> 將其設置為預設應用程式。<br />下載該工具，解壓縮後將其移至桌面並打開即可。';
+
+// Privacy Policy
+$content_privacypolicy_title = '隱私權條款';
+
+// Terms of use
+$content_termsofuse_title = '服務條款';
 
 // Main content of the page
 $content_context_menu = "右鍵選單";

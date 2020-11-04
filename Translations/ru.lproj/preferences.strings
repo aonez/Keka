@@ -39,7 +39,7 @@
 "199.title" = "Автовыбор нужного действия";
 
 /* Class = "NSButtonCell"; title = "Move original file(s) to Trash after compression"; ObjectID = "262"; */
-"262.title" = "Удалить исходные файлы в корзину после сжатия";
+"262.title" = "Переместить исходные файлы в корзину после сжатия";
 
 /* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "263"; */
 "263.title" = "Пофайловое сжатие";
@@ -102,13 +102,13 @@
 "360.title" = "Распаковывать файлы:";
 
 /* Class = "NSButtonCell"; title = "Show content in Finder after extraction"; ObjectID = "361"; */
-"361.title" = "Показать содержимое в Finder после распаковки";
+"361.title" = "Показывать содержимое в Finder после распаковки";
 
 /* Class = "NSButtonCell"; title = "Move compressed file(s) to Trash after extraction"; ObjectID = "362"; */
-"362.title" = "Удалить архив(ы) в корзину после распаковки";
+"362.title" = "Перемещать архив(ы) в корзину после распаковки";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "418"; */
-"418.title" = "без звука";
+"418.title" = "Без звука";
 
 /* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "419"; */
 "419.title" = "Сжатие";
@@ -123,13 +123,13 @@
 "436.title" = "Звуковой эффект после сжатия:";
 
 /* Class = "NSMenuItem"; title = "Default extraction"; ObjectID = "439"; */
-"439.title" = "Распаковка";
+"439.title" = "Стандартный звук распаковки";
 
 /* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "452"; */
-"452.title" = "Сжатие";
+"452.title" = "Стандартный звук сжатия";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "453"; */
-"453.title" = "без звука";
+"453.title" = "Без звука";
 
 /* Class = "NSButtonCell"; title = "Show icon in primary item"; ObjectID = "47Y-rt-2fG"; */
 "47Y-rt-2fG.title" = "Показывать иконку в начале пункта";
@@ -159,13 +159,13 @@
 "6bh-6N-5PP.title" = "Область для действий в подменю";
 
 /* Class = "NSTextFieldCell"; title = "You can use this placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
-"8JN-Ub-qkc.title" = "Вы можете использовать эти примеры заполнения:\n\n%n будет заменено именем файла\n%e будет заменено расширением файла\n%p будет заменено родительской папкой\n%c будет заменено на число файлов\n%d будет заменено текущей датой\n%t будет заменено текущим временем\n%s будет заменено общим именем\n%i% будет заменено первым именем элемента\n%ia% будет заменено первым отсортированным именем\n\nЗамены в некоторых случаях будут пустыми.";
+"8JN-Ub-qkc.title" = "Вы можете использовать переменные-заполнители:\n\n%n будет заменено именем файла\n%e будет заменено расширением файла\n%p будет заменено родительской папкой\n%c будет заменено числом файлов\n%d будет заменено текущей датой\n%t будет заменено текущим временем\n%s будет заменено общим именем\n%i% будет заменено именем первого элемента\n%ia% будет заменено именем первого по порядку элемента\n\nЗамены в некоторых случаях будут пустыми.";
 
 /* Class = "NSTextFieldCell"; title = "Fallback folder:"; ObjectID = "9dE-yV-N3K"; */
 "9dE-yV-N3K.title" = "Резервная папка:";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "CWc-wN-FhI"; */
-"CWc-wN-FhI.title" = "Пользовательская папка...";
+"CWc-wN-FhI.title" = "Выбрать папку...";
 
 /* Class = "NSTextFieldCell"; title = "Extractions use less power so even using multiple thread you can easily set this limit to two or three. Note that the target disk may suffer."; ObjectID = "DAr-Td-s5W"; */
 "DAr-Td-s5W.title" = "Извлечения потребляют меньше энергии, поэтому даже используя многопоточность, вы можете безопасно установить значение 2 или 3. Обратите внимание, что целевой диск может испытывать повышенную нагрузку.";
@@ -189,7 +189,7 @@
 "Hkf-wB-gUj.title" = "Рекомендуется делать только одно сжатие за раз, если используется несколько потоков.";
 
 /* Class = "NSTextFieldCell"; title = "Those are only applied when Keka is not open"; ObjectID = "Hx2-S1-j7m"; */
-"Hx2-S1-j7m.title" = "Для применения этих установок перезапустите программу.";
+"Hx2-S1-j7m.title" = "Эти настройки применимы только если приложение Keka закрыто";
 
 /* Class = "NSButtonCell"; title = "Enable full Mac access (Recommended)"; ObjectID = "IHj-ac-103"; */
 "IHj-ac-103.title" = "Дать доступ ко всему Mac (Рекомендуется)";
@@ -202,9 +202,6 @@
 
 /* Class = "NSButtonCell"; title = "Inherit quarantine from downloaded files"; ObjectID = "KDR-ag-bll"; */
 "KDR-ag-bll.title" = "Унаследовать карантин от загруженных файлов";
-
-/* Class = "NSTextFieldCell"; title = "If you like Keka and want to support it's development feel free to send a tip."; ObjectID = "N33-ZQ-W69"; */
-"N33-ZQ-W69.title" = "Если вам нравится Keka и вы хотите поддержать ее разработку,то не стесняйтесь присылать денежные вознаграждения.";
 
 /* Class = "NSTextFieldCell"; title = "Limit the number of threads per operation:"; ObjectID = "ND5-DN-C1H"; */
 "ND5-DN-C1H.title" = "Ограничить количество потоков на операцию:";
@@ -222,13 +219,13 @@
 "WCN-jH-W9J.placeholderString" = "Укажите имя для нового файла";
 
 /* Class = "NSButtonCell"; title = "Remove bad password header structure extractions"; ObjectID = "Wd0-yz-M1h"; */
-"Wd0-yz-M1h.title" = "Удалить неверный пароль, при извлечении структуры заголовка";
+"Wd0-yz-M1h.title" = "Удалить неверный пароль при извлечении структуры заголовка";
 
 /* Class = "NSToolbarItem"; label = "Love"; ObjectID = "XKE-wc-exs"; */
-"XKE-wc-exs.label" = "Дайте немного любви";
+"XKE-wc-exs.label" = "Поддержать проект";
 
 /* Class = "NSToolbarItem"; paletteLabel = "Love"; ObjectID = "XKE-wc-exs"; */
-"XKE-wc-exs.paletteLabel" = "Дайте немного любви";
+"XKE-wc-exs.paletteLabel" = "Поддержать проект";
 
 /* Class = "NSMenuItem"; title = "Automatic"; ObjectID = "XOB-JO-UQT"; */
 "XOB-JO-UQT.title" = "Автоматическое";
@@ -236,14 +233,11 @@
 /* Class = "NSButtonCell"; title = "Use BZIP2 compression in DMG files (better but slower)"; ObjectID = "Xoi-ui-e7P"; */
 "Xoi-ui-e7P.title" = "Использовать BZIP2 сжатие в файлах DMG (лучше, но медленнее)";
 
-/* Class = "NSButtonCell"; title = "Send a tip"; ObjectID = "ZEe-2d-eO3"; */
-"ZEe-2d-eO3.title" = "Отправить денежное вознаграждение";
-
 /* Class = "NSTextFieldCell"; title = "Enable full Mac access so Keka can be used on all your Mac:"; ObjectID = "ZOx-vr-5o7"; */
 "ZOx-vr-5o7.title" = "Дать доступ ко всему Mac, чтобы Keka могла работать с любыми файлами на этом Mac:";
 
 /* Class = "NSButtonCell"; title = "Use \"Open with Keka\" as the primary item action"; ObjectID = "a5e-FP-sDv"; */
-"a5e-FP-sDv.title" = "Используйте \"Открыть с помощью Keka\" в качестве основного действия";
+"a5e-FP-sDv.title" = "Использовать \"Открыть с помощью Keka\" в качестве основного действия";
 
 /* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "b5e-bj-Pgz"; */
 "b5e-bj-Pgz.title" = "Использовать единую панель инструментов (сбрасывает настройки)";
@@ -252,7 +246,7 @@
 "cDs-NB-2os.title" = "Использовать имя родительской папки при сжатии нескольких файлов";
 
 /* Class = "NSTextFieldCell"; title = "The fallback folder will be used when Keka can't work in the selected folder."; ObjectID = "caX-B6-61f"; */
-"caX-B6-61f.title" = "Резервная папка будет использоваться, когда Keka не может работать в выбранной папке.";
+"caX-B6-61f.title" = "Резервная папка будет использоваться, если Keka не может работать в выбранной папке.";
 
 /* Class = "NSButtonCell"; title = "Maximum threads per operation:"; ObjectID = "cb7-h4-ScP"; */
 "cb7-h4-ScP.title" = "Максимальное количество потоков на операцию:";
@@ -261,7 +255,7 @@
 "dhi-qv-weg.title" = "Сжатие нескольких файлов:";
 
 /* Class = "NSButtonCell"; title = "Set folder's modification date to extraction date"; ObjectID = "eBj-1b-wBg"; */
-"eBj-1b-wBg.title" = "Изменить дату модификаций папок, на дату извлечения";
+"eBj-1b-wBg.title" = "Изменить дату модификации папки на дату извлечения";
 
 /* Class = "NSTextFieldCell"; title = "Queue extraction operations:"; ObjectID = "fhN-DK-edu"; */
 "fhN-DK-edu.title" = "Очередь операций извлечения:";
@@ -275,26 +269,20 @@
 /* Class = "NSTextFieldCell"; title = "Compressing a single file:"; ObjectID = "hLS-Ut-4fh"; */
 "hLS-Ut-4fh.title" = "Сжатие одного файла:";
 
-/* Class = "NSButtonCell"; title = "One-time"; ObjectID = "hnE-pv-a3Q"; */
-"hnE-pv-a3Q.title" = "Один раз";
-
 /* Class = "NSButtonCell"; title = "Use AES-256 when encrypting ZIP files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
 "hp7-jO-HeV.title" = "Использовать алгоритм AES-256 для шифрования ZIP-файлов (меньшая совместимость)";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous operations:"; ObjectID = "o8J-bR-bs6"; */
 "o8J-bR-bs6.title" = "Максимум одновременных операций:";
 
-/* Class = "NSTextFieldCell"; title = "Quantity:"; ObjectID = "okd-MS-NEy"; */
-"okd-MS-NEy.title" = "Количество:";
-
 /* Class = "NSTextFieldCell"; title = "Queue operations:"; ObjectID = "otI-Pt-BTh"; */
 "otI-Pt-BTh.title" = "Операции с очередями:";
 
 /* Class = "NSTextFieldCell"; title = "Keep source extension:"; ObjectID = "p5F-63-ubE"; */
-"p5F-63-ubE.title" = "Сохранение исходного расширения:";
+"p5F-63-ubE.title" = "Сохранять исходное расширение:";
 
 /* Class = "NSButtonCell"; title = "Always extract in a subfolder"; ObjectID = "pXT-7y-9af"; */
-"pXT-7y-9af.title" = "Всегда распаковывать в промежуточную папку";
+"pXT-7y-9af.title" = "Всегда распаковывать в подпапку";
 
 /* Class = "NSButtonCell"; title = "Show Keka actions in Finder's contextual menu"; ObjectID = "rP2-XR-ZQt"; */
 "rP2-XR-ZQt.title" = "Показывать действия Keka в контекстном меню Finder";
@@ -306,25 +294,22 @@
 "sgV-AD-k4Q.title" = "Дать доступ к внешним хранилищам";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous compressions:"; ObjectID = "sjA-7B-5U6"; */
-"sjA-7B-5U6.title" = "Максимум одновременно сжатых:";
+"sjA-7B-5U6.title" = "Максимум одновременных сжатий:";
 
 /* Class = "NSMenuItem"; title = "Never, when possible"; ObjectID = "tEH-O0-NxO"; */
 "tEH-O0-NxO.title" = "Никогда, когда это возможно";
 
-/* Class = "NSButtonCell"; title = "Monthly"; ObjectID = "vWQ-Yb-MSR"; */
-"vWQ-Yb-MSR.title" = "Ежемесячно";
-
 /* Class = "NSTextFieldCell"; title = "The Finder Extension needs to be enabled in the  System Preferences, Extensions configuration."; ObjectID = "wgz-2S-eXI"; */
-"wgz-2S-eXI.title" = "Расширение для Finder, должно быть активировано в Системных Настройках , настройки Расширений.";
+"wgz-2S-eXI.title" = "Расширение для Finder должно быть активировано в Системных настройках, пункт \"Расширения\".";
 
 /* Class = "NSTextFieldCell"; title = "Most operations use multiple threads. That means faster operations but also more power consumption and heat."; ObjectID = "xyb-eH-aiy"; */
-"xyb-eH-aiy.title" = "Большое количество операций с использованием множества потоков, ведёт к увеличению скорости работы, а также к увеличению потребления энергии и выделению тепла.";
+"xyb-eH-aiy.title" = "Большинство операций используют несколько потоков. Это ведёт как к увеличению скорости работы, так и к увеличению энергопотребления и выделению тепла.";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous extractions:"; ObjectID = "yGo-Gm-0zq"; */
-"yGo-Gm-0zq.title" = "Максимум одновременно извлеченных:";
+"yGo-Gm-0zq.title" = "Максимум одновременных извлечений:";
 
 /* Class = "NSButtonCell"; title = "Only show if Keka has file access"; ObjectID = "zPT-vj-EVo"; */
-"zPT-vj-EVo.title" = "Показывать только если Keka, имеет доступ к файлу";
+"zPT-vj-EVo.title" = "Показывать только если Keka имеет доступ к файлу";
 
 /* Class = "NSTextFieldCell"; title = "Queuing usually results in faster operations and a more responsive behaviour."; ObjectID = "zPq-ei-qUb"; */
-"zPq-ei-qUb.title" = "Очередь обычно приводит к более быстрым операциям и более отзывчивому поведению.";
+"zPq-ei-qUb.title" = "Помещение задач в очередь обычно приводит к более быстрым операциям и более отзывчивому поведению.";

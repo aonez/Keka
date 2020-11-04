@@ -61,6 +61,12 @@ $content_info_extraction = "E extrair todos estes formatos:";
 $content_defaultapp_title = "Defina o Keka como o aplicativo de extração padrão";
 $content_defaultapp_text = 'O Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">precisa de um auxiliar <i class="far fa-question-circle"></i></a> para ser definido como o aplicativo padrão.<br />Baixe, extraia, mova para a mesa e abra este auxiliar.';
 
+// Privacy Policy
+$content_privacypolicy_title = 'Privacy Policy';
+
+// Terms of use
+$content_termsofuse_title = 'Terms of Use';
+
 // Main content of the page
 $content_context_menu = "Menu contextual";
 

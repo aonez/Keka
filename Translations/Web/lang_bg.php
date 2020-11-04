@@ -60,6 +60,12 @@ $content_info_extraction = "И разархивирай всички тези ф
 $content_defaultapp_title = "Set Keka as the default extraction application";
 $content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">needs a helper <i class="far fa-question-circle"></i></a> to set itself as the default application.<br />Simply download and extract it, move it to the desktop and then open it.';
 
+// Privacy Policy
+$content_privacypolicy_title = 'Privacy Policy';
+
+// Terms of use
+$content_termsofuse_title = 'Terms of Use';
+
 // Main content of the page
 $content_context_menu = "Контекстово меню";
 

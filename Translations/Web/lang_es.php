@@ -60,6 +60,12 @@ $content_info_extraction = "Y extraer todos estos formatos:";
 $content_defaultapp_title = "Establecer Keka como el descompresor predeterminado";
 $content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">necesita un ayudante <i class="far fa-question-circle"></i></a> para establecerse como la aplicación por defecto.<br />Simplemente descarga, extráe, mueve al escritorio y ejecuta el ayudante.';
 
+// Privacy Policy
+$content_privacypolicy_title = 'Política de privacidad';
+
+// Terms of use
+$content_termsofuse_title = 'Términos de uso';
+
 // Main content of the page
 $content_context_menu = "Menú contextual";
 
