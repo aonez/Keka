@@ -2,11 +2,11 @@
 "NSHumanReadableCopyright" = "Copyright © 2009-2020 aONe";
 
 /* Access request descriptions */
-"NSDesktopFolderUsageDescription" = "Keka requires Desktop access to work with it's files.";
-"NSDocumentsFolderUsageDescription" = "Keka requires Documents access to work with it's files.";
-"NSDownloadsFolderUsageDescription" = "Keka requires Downloads access to work with it's files.";
-"NSNetworkVolumesUsageDescription" = "Keka requires network volumes access to work with it's files.";
-"NSRemovableVolumesUsageDescription" = "Keka requires removable volumes access to work with it's files.";
+"NSDesktopFolderUsageDescription" = "Keka richiede l'accesso alla Scrivania per lavorare con i suoi file.";
+"NSDocumentsFolderUsageDescription" = "Keka richiede l'accesso a Documenti per lavorare con i suoi file.";
+"NSDownloadsFolderUsageDescription" = "Keka richiede l'accesso a Download per lavorare con i suoi file.";
+"NSNetworkVolumesUsageDescription" = "Keka richiede l'accesso ai volumi di rete per lavorare con i loro file.";
+"NSRemovableVolumesUsageDescription" = "Keka richiede l'accesso ai volumi rimovibili per lavorare con i loro file.";
 
 /* File types */
 "7Z Archive" = "Archivio 7Z";
