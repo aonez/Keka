@@ -18,7 +18,7 @@
 "Boj-Hb-G0X.title" = "退出 Keka";
 
 /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "FOL-81-NRF"; */
-"FOL-81-NRF.title" = "偏好设置…";
+"FOL-81-NRF.title" = "首选项…";
 
 /* Class = "NSMenuItem"; title = "Show All"; ObjectID = "HpM-0q-Enu"; */
 "HpM-0q-Enu.title" = "全部显示";
@@ -42,7 +42,7 @@
 "Qst-Ya-feO.title" = "存储";
 
 /* Class = "NSMenuItem"; title = "Privacy Policy"; ObjectID = "Rkr-d9-A7d"; */
-"Rkr-d9-A7d.title" = "Privacy Policy";
+"Rkr-d9-A7d.title" = "隐私政策";
 
 /* Class = "NSMenuItem"; title = "Cut"; ObjectID = "Ro6-g5-CxU"; */
 "Ro6-g5-CxU.title" = "剪切";
@@ -84,7 +84,7 @@
 "jtN-lL-fdx.title" = "打开最近使用";
 
 /* Class = "NSMenuItem"; title = "Terms Of Use"; ObjectID = "lmN-Tm-HmZ"; */
-"lmN-Tm-HmZ.title" = "Terms Of Use";
+"lmN-Tm-HmZ.title" = "使用条款";
 
 /* Class = "NSMenuItem"; title = "About Keka"; ObjectID = "maF-B5-Hb6"; */
 "maF-B5-Hb6.title" = "关于 Keka";
