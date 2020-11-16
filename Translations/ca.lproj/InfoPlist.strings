@@ -1,6 +1,13 @@
 // Usually leave this one in English
 "NSHumanReadableCopyright" = "Copyright © 2009-2020 aONe";
 
+/* Access request descriptions */
+"NSDesktopFolderUsageDescription" = "El Keka requereix accés a l'Escriptori per treballar amb els seus fitxers.";
+"NSDocumentsFolderUsageDescription" = "El Keka requereix accés a Documents per treballar amb els seus fitxers.";
+"NSDownloadsFolderUsageDescription" = "El Keka requereix accés a Descàrregues per treballar amb els seus fitxers.";
+"NSNetworkVolumesUsageDescription" = "El Keka requereix accés als volums en xarxa per treballar amb els seus fitxers.";
+"NSRemovableVolumesUsageDescription" = "El Keka requereix accés als volums extraïbles per treballar amb els seus fitxers.";
+
 /* File types */
 "7Z Archive" = "Arxiu 7Z";
 "LZMA Archive" = "Arxiu LZMA";

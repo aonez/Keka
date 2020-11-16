@@ -1,6 +1,13 @@
 // Usually leave this one in English
 "NSHumanReadableCopyright" = "Copyright © 2009-2020 aONe";
 
+/* Access request descriptions */
+"NSDesktopFolderUsageDescription" = "Keka require acceso al Escritorio para trabajar con sus ficheros.";
+"NSDocumentsFolderUsageDescription" = "Keka require acceso a Documentos para trabajar con sus ficheros.";
+"NSDownloadsFolderUsageDescription" = "Keka require acceso a Descargas para trabajar con sus ficheros.";
+"NSNetworkVolumesUsageDescription" = "Keka require acceso a los volúmenes en red para trabajar con sus ficheros.";
+"NSRemovableVolumesUsageDescription" = "Keka require acceso a los volúmenes extraíbles para trabajar con sus ficheros.";
+
 /* File types */
 "7Z Archive" = "Archivo 7Z";
 "LZMA Archive" = "Archivo LZMA";
