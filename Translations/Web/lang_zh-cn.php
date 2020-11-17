@@ -26,13 +26,13 @@ $content_platform = "需要 $version_replace 或更高版本";
 $content_download_text = "便捷存储，共享安全";
 $content_download_love = "喜欢吗？";
 $content_download_legacy = "历史版本";
-$content_download_helper = "Helper";
+$content_download_helper = "小工具";
 
 // Like
 $content_donation_button = "捐赠";
 $content_donation_title = '如果您喜欢 Keka，只需给它一些 <i class="fa fa-heart" aria-hidden="true"></i>，<br />您也可以从 App Store 购买 Keka 或通过 PayPal 发起捐赠~';
 $content_donation_mas = "如果您从 App Store 购买 Keka，这会支持我们的开发工作，<br />App Store 中的版本与本网站中下载的版本是相同的。";
-$content_donation_paypal = "如果您不喜欢 MAS 或只是体验 Keka，<br />同时也喜欢这个项目并希望给予一些支持，您可以使用 PayPal 发起捐赠。";
+$content_donation_paypal = "如果您不喜欢 MAS 或只是想体验一下 Keka，<br />喜欢这个项目的同时并希望给予一些支持，您可以使用 PayPal 发起捐赠。";
 
 // Beta
 $content_platform_beta = "测试版";
@@ -44,14 +44,14 @@ $content_beta_up = "获取最新版本";
 // Legacy
 $content_platform_legacy =  "适用于 $version_replace";
 $content_legacy_title = "Keka 历史版本";
-$content_legacy_text = '多年后您的 Mac 设备将变得陈旧，或许不会支持<br />最新版本的 Keka，别担心<i class="fa fa-coffee" aria-hidden="true"></i>，所有 Keka 历史版本都在这儿。';
+$content_legacy_text = '多年后您的 Mac 设备将变得陈旧，或许不会支持<br />最新版本的 Keka，别担心<i class="fa fa-coffee" aria-hidden="true"></i>，所有 Keka 的历史版本都在这儿。';
 
 // Info
 $content_info_title1 = "便捷且强大";
 $content_info_title2 = "注重隐私安全";
-$content_info_title3 = "压缩结果仍然过大...";
+$content_info_title3 = "压缩结果过大...";
 $content_info_text1 = "您在使用时甚至无需打开 Keka，只需把 Keka 放到 Dock 中，<br />然后将文件和文件夹拖放到 Dock 上的 Keka 图标或窗口即可快速创建压缩文件。";
-$content_info_text2 = "安全的共享文件只需通过设置密码来创建安全加密的压缩文件即可。<br />为您的 7z 文件使用 AES-256 加密规范，为 Zip 文件使用 Zip 2.0 传统加密规范。";
+$content_info_text2 = "安全的共享文件只需通过设置密码来创建安全加密的压缩文件即可。<br />为您的 7z 文件使用 AES-256 加密，为 Zip 文件使用 Zip 2.0 传统加密。";
 $content_info_text3 = "如果文件实在太大并且它们不适用于邮件发送或网络传输，请将它们分卷压缩。<br />不用担心，它们依然可以解压出原来的文件 :)";
 $content_info_compression = "Keka 可以创建以下格式的压缩文件：";
 $content_info_extraction = "并支持解压这些格式：";

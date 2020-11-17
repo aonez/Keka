@@ -2,11 +2,11 @@
 "NSHumanReadableCopyright" = "Copyright © 2009-2020 aONe";
 
 /* Access request descriptions */
-"NSDesktopFolderUsageDescription" = "Keka requires Desktop access to work with it's files.";
-"NSDocumentsFolderUsageDescription" = "Keka requires Documents access to work with it's files.";
-"NSDownloadsFolderUsageDescription" = "Keka requires Downloads access to work with it's files.";
-"NSNetworkVolumesUsageDescription" = "Keka requires network volumes access to work with it's files.";
-"NSRemovableVolumesUsageDescription" = "Keka requires removable volumes access to work with it's files.";
+"NSDesktopFolderUsageDescription" = "Keka 需要桌面访问权限才能使用其文件。";
+"NSDocumentsFolderUsageDescription" = "Keka 需要文档访问权限才能使用其文件。";
+"NSDownloadsFolderUsageDescription" = "Keka 需要下载访问权限才能使用其文件。";
+"NSNetworkVolumesUsageDescription" = "Keka 需要访问网络卷访问权限才能使用其文件。";
+"NSRemovableVolumesUsageDescription" = "Keka 需要可移动卷访问权限才能使用其文件。";
 
 /* File types */
 "7Z Archive" = "7Z 归档";
@@ -55,5 +55,5 @@
 "APPX Archive" = "APPX 归档";
 "Safari extension" = "Safari 扩展";
 "ACE Archive" = "ACE 归档";
-"XIP Secure Archive" = "XIP Secure Archive";
+"XIP Secure Archive" = "XIP 安全归档";
 "Keka Extraction Package" = "Keka 压缩包";
