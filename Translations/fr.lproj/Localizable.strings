@@ -184,7 +184,7 @@
 "Send a monthly %@ tip" = "Envoyer un don mensuel de %@";
 "Send a %@ tip" = "Faire un don de %@";
 "Give Keka some love ♥" = "Donner de l'amour à Keka ♥";
-"All extractions will be expanded at this location." = "Toutes les extractions seront effectuées à cet emplacement.";
+"All extractions will be expanded at this location." = "Toutes les extractions seront décompressées à cet emplacement.";
 "All compressions will be stored at this location." = "Toutes les compressions seront stockées à cet emplacement.";
 "You'll be asked where to extract each operation." = "On vous demandera où extraire chaque opération.";
 "You'll be asked where to compress each operation." = "On vous demandera où compresser chaque opération.";
