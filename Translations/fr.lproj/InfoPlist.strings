@@ -2,11 +2,11 @@
 "NSHumanReadableCopyright" = "Copyright © 2009-2020 aONe";
 
 /* Access request descriptions */
-"NSDesktopFolderUsageDescription" = "Keka requires Desktop access to work with it's files.";
-"NSDocumentsFolderUsageDescription" = "Keka requires Documents access to work with it's files.";
-"NSDownloadsFolderUsageDescription" = "Keka requires Downloads access to work with it's files.";
-"NSNetworkVolumesUsageDescription" = "Keka requires network volumes access to work with it's files.";
-"NSRemovableVolumesUsageDescription" = "Keka requires removable volumes access to work with it's files.";
+"NSDesktopFolderUsageDescription" = "Keka nécessite l'accès au Bureau pour travailler avec ses fichiers.";
+"NSDocumentsFolderUsageDescription" = "Keka nécessite l'accès aux Documents pour travailler avec ses fichiers.";
+"NSDownloadsFolderUsageDescription" = "Keka nécessite l'accès aux Téléchargements pour travailler avec ses fichiers.";
+"NSNetworkVolumesUsageDescription" = "Keka nécessite l'accès aux volumes réseau pour travailler avec ses fichiers.";
+"NSRemovableVolumesUsageDescription" = "Keka nécessite l'accès aux volumes amovibles pour travailler avec ses fichiers.";
 
 /* File types */
 "7Z Archive" = "Archive 7Z";
@@ -19,13 +19,13 @@
 "ZIPX Archive" = "Archive ZIPX";
 "XZ Archive" = "Archive XZ";
 "XZ Tarball Archive" = "Archive XZ compressée au format TAR";
-"Brotli Archive" = "Brotli Archive";
-"Brotli Tarball Archive" = "Brotli Tarball Archive";
-"Zstandard Archive" = "Zstandard Archive";
-"Zstandard Tarball Archive" = "Zstandard Tarball Archive";
+"Brotli Archive" = "Archive Brotli";
+"Brotli Tarball Archive" = "Archive Brotli compressée au format TAR";
+"Zstandard Archive" = "Archive Zstandard";
+"Zstandard Tarball Archive" = "Archive Zstandard compressée au format TAR";
 "RAR Archive" = "Archive RAR";
-"RAR Legacy Archive Volume" = "RAR Legacy Archive Volume";
-"Generic Archive Volume" = "Generic Archive Volume";
+"RAR Legacy Archive Volume" = "Ancien Volume Archive RAR";
+"Generic Archive Volume" = "Volume Archive générique";
 "BZIP2 Archive" = "Archive BZIP2";
 "BZIP2 Tarball Archive" = "Archive BZIP2 compressée au format TAR";
 "BZIP Archive" = "Archive BZIP";
@@ -43,17 +43,17 @@
 "LHA Archive" = "Archive LHA";
 "Windows EXE File" = "Fichier EXE Windows";
 "Windows Cabinet File" = "Fichier CABinet Windows";
-"Windows Installer Package" = "Windows Installer Package";
+"Windows Installer Package" = "Paquet d'installation Windows";
 "WIM Disk Image" = "Image disque WIM";
 "Comic Book RAR Archive" = "Archive Comic Book RAR";
 "Comic Book ZIP Archive" = "Archive Comic Book ZIP";
 "iOS App" = "App iOS";
 "JAR Archive" = "Archive JAR";
 "WAR Archive" = "Archive WAR";
-"Android Application Package" = "Android Application Package";
+"Android Application Package" = "Paquet Application Android";
 "Cross-Platform Installer Module (XPI)" = "Module Cross-Platform Installer (XPI)";
 "APPX Archive" = "Archive APPX";
-"Safari extension" = "Safari extension";
-"ACE Archive" = "ACE Archive";
-"XIP Secure Archive" = "XIP Secure Archive";
-"Keka Extraction Package" = "Keka Extraction Package";
+"Safari extension" = "Extension Safari";
+"ACE Archive" = "Archive ACE";
+"XIP Secure Archive" = "Archive sécurisée XIP";
+"Keka Extraction Package" = "Paquet d'extraction Keka";
