@@ -252,7 +252,7 @@
 "cb7-h4-ScP.title" = "Nombre maximum de fils par opération:";
 
 /* Class = "NSButtonCell"; title = "Show in external volumes"; ObjectID = "d9P-v6-FAE"; */
-"d9P-v6-FAE.title" = "Show in external volumes";
+"d9P-v6-FAE.title" = "Afficher dans les volumes externes";
 
 /* Class = "NSTextFieldCell"; title = "Compressing multiple files:"; ObjectID = "dhi-qv-weg"; */
 "dhi-qv-weg.title" = "Compresser plusieurs fichiers:";
