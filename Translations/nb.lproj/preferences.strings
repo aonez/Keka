@@ -260,6 +260,9 @@
 /* Class = "NSButtonCell"; title = "Set folder's modification date to extraction date"; ObjectID = "eBj-1b-wBg"; */
 "eBj-1b-wBg.title" = "Set mappens endringsdato til utpakkingsdatoen";
 
+/* Class = "NSButtonCell"; title = "Always tarball non-archiving formats (like GZ or BZIP2) "; ObjectID = "faa-9Y-Axk"; */
+"faa-9Y-Axk.title" = "Always tarball non-archiving formats (like GZ or BZIP2) ";
+
 /* Class = "NSTextFieldCell"; title = "Queue extraction operations:"; ObjectID = "fhN-DK-edu"; */
 "fhN-DK-edu.title" = "Kø for utpakkingsoperasjoner:";
 
