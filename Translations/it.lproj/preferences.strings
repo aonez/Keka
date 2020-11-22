@@ -261,7 +261,7 @@
 "eBj-1b-wBg.title" = "Imposta la data di modifica della cartella alla data di estrazione";
 
 /* Class = "NSButtonCell"; title = "Always tarball non-archiving formats (like GZ or BZIP2) "; ObjectID = "faa-9Y-Axk"; */
-"faa-9Y-Axk.title" = "Always tarball non-archiving formats (like GZ or BZIP2) ";
+"faa-9Y-Axk.title" = "Crea sempre un tarball con i formati che non archiviano (come GZ o BZIP2) ";
 
 /* Class = "NSTextFieldCell"; title = "Queue extraction operations:"; ObjectID = "fhN-DK-edu"; */
 "fhN-DK-edu.title" = "Operazioni di estrazione in coda:";
