@@ -120,6 +120,7 @@
 "unknown" = "ismeretlen";
 "Unknown error" = "Ismeretlen hiba";
 "Error code %d using \"%@\"\n%@" = "Hibakód %d, a következőt használva: \"%@\"\n%@";
+"Keka was unable to create the extraction package" = "Keka was unable to create the extraction package";
 "No errors found" = "Nem található hiba";
 "Minor error, the operation may be done well" = "Kisebb hiba lépett fel, de a művelet még lehet, hogy jól végrehajtható";
 "Fatal error" = "Kritikus hiba";

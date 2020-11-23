@@ -120,6 +120,7 @@
 "unknown" = "không biết";
 "Unknown error" = "Lỗi không xác định";
 "Error code %d using \"%@\"\n%@" = "Mã lỗi %d sử dụng \"%@\"\n%@";
+"Keka was unable to create the extraction package" = "Keka was unable to create the extraction package";
 "No errors found" = "Không tìm thấy lỗi";
 "Minor error, the operation may be done well" = "Có lỗi nhỏ, thao tác có thể đã hoàn thành";
 "Fatal error" = "Lỗi nghiêm trọng";

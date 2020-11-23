@@ -120,6 +120,7 @@
 "unknown" = "bilinmeyen";
 "Unknown error" = "Bilinmeyen hata";
 "Error code %d using \"%@\"\n%@" = "Hata kodu %d \"%@\"\n%@ kullanıyor";
+"Keka was unable to create the extraction package" = "Keka was unable to create the extraction package";
 "No errors found" = "Hata bulunamadı";
 "Minor error, the operation may be done well" = "Küçük hata, işlem tamamlanmış olabilir";
 "Fatal error" = "Ölümcül hata";

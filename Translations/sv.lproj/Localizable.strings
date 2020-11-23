@@ -120,6 +120,7 @@
 "unknown" = "okänd";
 "Unknown error" = "Okänt fel";
 "Error code %d using \"%@\"\n%@" = "Felkod %d med \"%@\"\n%@";
+"Keka was unable to create the extraction package" = "Keka was unable to create the extraction package";
 "No errors found" = "Inga fel hittades";
 "Minor error, the operation may be done well" = "Mindre fel. Åtgärden kanske har genomförts";
 "Fatal error" = "Ödesdigert fel";

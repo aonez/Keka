@@ -120,6 +120,7 @@
 "unknown" = "sconosciuto";
 "Unknown error" = "Errore sconosciuto";
 "Error code %d using \"%@\"\n%@" = "Codice errore %d utilizzando \"%@\"\n%@";
+"Keka was unable to create the extraction package" = "Keka was unable to create the extraction package";
 "No errors found" = "Nessun errore trovato";
 "Minor error, the operation may be done well" = "Errore minore, l'operazione può essere fatta bene";
 "Fatal error" = "Errore fatale";

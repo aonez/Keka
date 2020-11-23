@@ -120,6 +120,7 @@
 "unknown" = "알 수 없음";
 "Unknown error" = "알 수 없는 오류";
 "Error code %d using \"%@\"\n%@" = "Error code %d using \"%@\"\n%@";
+"Keka was unable to create the extraction package" = "Keka was unable to create the extraction package";
 "No errors found" = "오류 없음";
 "Minor error, the operation may be done well" = "작은 오류가 발생했으나, 작업은 정상적으로 진행되었을 것입니다.";
 "Fatal error" = "치명적인 오류";

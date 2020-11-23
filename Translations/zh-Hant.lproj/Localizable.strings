@@ -120,6 +120,7 @@
 "unknown" = "未知";
 "Unknown error" = "未知的錯誤";
 "Error code %d using \"%@\"\n%@" = "錯誤碼 %d 使用 \"%@\"\n%@";
+"Keka was unable to create the extraction package" = "Keka was unable to create the extraction package";
 "No errors found" = "沒有發現錯誤";
 "Minor error, the operation may be done well" = "小意外，操作正常執行";
 "Fatal error" = "嚴重錯誤";

@@ -120,6 +120,7 @@
 "unknown" = "neznámé";
 "Unknown error" = "Neznámá chyba";
 "Error code %d using \"%@\"\n%@" = "Kód chyby: %d při použití \"%@\"\n%@";
+"Keka was unable to create the extraction package" = "Keka was unable to create the extraction package";
 "No errors found" = "Nenalezený žádné chyby";
 "Minor error, the operation may be done well" = "Došlo k menší chybě; je možné, že operace byla úspěšně dokončena";
 "Fatal error" = "Závažná chyba";

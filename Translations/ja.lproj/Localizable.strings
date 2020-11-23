@@ -120,6 +120,7 @@
 "unknown" = "不明";
 "Unknown error" = "不明なエラーが起きました";
 "Error code %d using \"%@\"\n%@" = "エラーコード %d\n\"%@\"を使用中に%@";
+"Keka was unable to create the extraction package" = "Keka was unable to create the extraction package";
 "No errors found" = "エラーは見つかりませんでした";
 "Minor error, the operation may be done well" = "小さな問題が見つかりましたが、操作は成功した可能性はあります。";
 "Fatal error" = "回復不可能なエラーが起きました";

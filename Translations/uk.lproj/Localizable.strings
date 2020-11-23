@@ -120,6 +120,7 @@
 "unknown" = "невідомо";
 "Unknown error" = "Невідома помилка";
 "Error code %d using \"%@\"\n%@" = "Код помилки %d використання \"%@\"\n%@";
+"Keka was unable to create the extraction package" = "Keka was unable to create the extraction package";
 "No errors found" = "Не знайдено жодних помилок";
 "Minor error, the operation may be done well" = "Незначна помилка, операція може бути завершена";
 "Fatal error" = "Фатальна помилка";
