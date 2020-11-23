@@ -1,4 +1,4 @@
-﻿
+
 /* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
 "159.title" = "Format par défaut :";
 
@@ -194,8 +194,8 @@
 /* Class = "NSButtonCell"; title = "Enable full Mac access (Recommended)"; ObjectID = "IHj-ac-103"; */
 "IHj-ac-103.title" = "Autoriser l'accès à l'ensemble du Mac (Recommandé)";
 
-/* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive:"; ObjectID = "JxT-Nq-8Z5"; */
-"JxT-Nq-8Z5.title" = " Autoriser l'accès à des volumes externes pour que Keka puisse être utilisé avec vos disques externes, tels qu'un disque USB ou Thunderbolt :";
+/* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive."; ObjectID = "JxT-Nq-8Z5"; */
+"JxT-Nq-8Z5.title" = " Autoriser l'accès à des volumes externes pour que Keka puisse être utilisé avec vos disques externes, tels qu'un disque USB ou Thunderbolt.";
 
 /* Class = "NSTextFieldCell"; title = "Queue compression operations:"; ObjectID = "K5h-j5-bss"; */
 "K5h-j5-bss.title" = "Opérations de compression en attente:";
@@ -206,8 +206,8 @@
 /* Class = "NSTextFieldCell"; title = "Limit the number of threads per operation:"; ObjectID = "ND5-DN-C1H"; */
 "ND5-DN-C1H.title" = "Limiter le nombre de fils par opération:";
 
-/* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder:"; ObjectID = "PD2-iW-BGK"; */
-"PD2-iW-BGK.title" = "Autoriser l'accès au dossier Départ pour que Keka puisse être utilisé avec tous vos fichiers utilisateur, tels que ceux de votre Bureau ou de votre dossier Téléchargements :";
+/* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder."; ObjectID = "PD2-iW-BGK"; */
+"PD2-iW-BGK.title" = "Autoriser l'accès au dossier Départ pour que Keka puisse être utilisé avec tous vos fichiers utilisateur, tels que ceux de votre Bureau ou de votre dossier Téléchargements.";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "Autoriser l'intégration au Centre de notifications";
@@ -233,8 +233,8 @@
 /* Class = "NSButtonCell"; title = "Use BZIP2 compression in DMG files (better but slower)"; ObjectID = "Xoi-ui-e7P"; */
 "Xoi-ui-e7P.title" = "Utiliser la compression BZIP2 dans les fichiers DMG (meilleure mais plus lente)";
 
-/* Class = "NSTextFieldCell"; title = "Enable full Mac access so Keka can be used on all your Mac:"; ObjectID = "ZOx-vr-5o7"; */
-"ZOx-vr-5o7.title" = "Autoriser l'accès à l'ensemble du Mac pour que Keka puisse être utilisé sur tout votre Mac :";
+/* Class = "NSTextFieldCell"; title = "Enable full Mac access so Keka can be used on all your Mac."; ObjectID = "ZOx-vr-5o7"; */
+"ZOx-vr-5o7.title" = "Autoriser l'accès à l'ensemble du Mac pour que Keka puisse être utilisé sur tout votre Mac.";
 
 /* Class = "NSButtonCell"; title = "Use \"Open with Keka\" as the primary item action"; ObjectID = "a5e-FP-sDv"; */
 "a5e-FP-sDv.title" = "Utiliser \"Ouvrir avec Keka\" comme action principale";
