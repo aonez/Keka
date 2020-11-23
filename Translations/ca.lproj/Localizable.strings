@@ -194,3 +194,28 @@
 "Keka has no file access to the source folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "El Keka no té accés a la carpeta principal i necessita preguntar on realitzar l'operació.\nPots donar accés a aquesta i altres carpetes en el panell d'Accés a Fitxers de la Configuració del Keka.";
 "The characters %@ are not compatible with the %@ format" = "Els caràcters %@ no són compatibles amb el format %@";
 "The character %@ is not compatible with the %@ format" = "El caràcter %@ no és compatible amb el format %@";
+
+/*
+MAS tips
+Note this will be used in Apple's servers
+Apple needs to have MAS translated in this language so this strings can be used
+The language used in MAS/AppleID will be used in Keka's tip strings and may not match Keka's localization
+*/
+"Monthly sip of coffee" = "Monthly sip of coffee";
+"Gift Keka a sip of coffee each month" = "Gift Keka a sip of coffee each month";
+"Monthly coffee" = "Monthly coffee";
+"Gift Keka a coffee each month" = "Gift Keka a coffee each month";
+"Monthly pair of coffees" = "Monthly pair of coffees";
+"Gift Keka a couple coffees each month" = "Gift Keka a couple coffees each month";
+"Monthly breakfast" = "Monthly breakfast";
+"Gift Keka a breakfast each month" = "Gift Keka a breakfast each month";
+"Tip a coffee" = "Tip a coffee";
+"Tip Keka a coffee so it can stay awake" = "Tip Keka a coffee so it can stay awake";
+"Tip a breakfast" = "Tip a breakfast";
+"Tip Keka a breakfast so it can start fresh" = "Tip Keka a breakfast so it can start fresh";
+"Tip a lunch" = "Tip a lunch";
+"Tip Keka a lunch and feed it" = "Tip Keka a lunch and feed it";
+"Tip a dinner" = "Tip a dinner";
+"Tip Keka a dinner so it keeps rolling" = "Tip Keka a dinner so it keeps rolling";
+"Tip a bunch of food" = "Tip a bunch of food";
+"Tip Keka a new bunch of food to keep rolling" = "Tip Keka a new bunch of food to keep rolling";
