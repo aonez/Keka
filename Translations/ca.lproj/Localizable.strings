@@ -201,21 +201,21 @@ Note this will be used in Apple's servers
 Apple needs to have MAS translated in this language so this strings can be used
 The language used in MAS/AppleID will be used in Keka's tip strings and may not match Keka's localization
 */
-"Monthly sip of coffee" = "Monthly sip of coffee";
-"Gift Keka a sip of coffee each month" = "Gift Keka a sip of coffee each month";
-"Monthly coffee" = "Monthly coffee";
-"Gift Keka a coffee each month" = "Gift Keka a coffee each month";
-"Monthly pair of coffees" = "Monthly pair of coffees";
-"Gift Keka a couple coffees each month" = "Gift Keka a couple coffees each month";
-"Monthly breakfast" = "Monthly breakfast";
-"Gift Keka a breakfast each month" = "Gift Keka a breakfast each month";
-"Tip a coffee" = "Tip a coffee";
-"Tip Keka a coffee so it can stay awake" = "Tip Keka a coffee so it can stay awake";
-"Tip a breakfast" = "Tip a breakfast";
-"Tip Keka a breakfast so it can start fresh" = "Tip Keka a breakfast so it can start fresh";
-"Tip a lunch" = "Tip a lunch";
-"Tip Keka a lunch and feed it" = "Tip Keka a lunch and feed it";
-"Tip a dinner" = "Tip a dinner";
-"Tip Keka a dinner so it keeps rolling" = "Tip Keka a dinner so it keeps rolling";
-"Tip a bunch of food" = "Tip a bunch of food";
-"Tip Keka a new bunch of food to keep rolling" = "Tip Keka a new bunch of food to keep rolling";
+"Monthly sip of coffee" = "Un glop de cafè al mes";
+"Gift Keka a sip of coffee each month" = "Regala al Keka un glop de cafè al mes";
+"Monthly coffee" = "Cafè mensual";
+"Gift Keka a coffee each month" = "Regala al Keka un cafè al mes";
+"Monthly pair of coffees" = "Un parell de cafès al mes";
+"Gift Keka a couple coffees each month" = "Regala al Keka un parell de cafès al mes";
+"Monthly breakfast" = "Esmorzar mensual";
+"Gift Keka a breakfast each month" = "Regala al Keka un esmorzar al mes";
+"Tip a coffee" = "Convida a un cafè";
+"Tip Keka a coffee so it can stay awake" = "Convida al Keka a un cafè perquè no s'adormi";
+"Tip a breakfast" = "Convida a un esmorzar";
+"Tip Keka a breakfast so it can start fresh" = "Convida al Keka a un esmorzar per començar bé";
+"Tip a lunch" = "Regala un menjar";
+"Tip Keka a lunch and feed it" = "Regala al Keka un menjar perquè s'alimenti";
+"Tip a dinner" = "Regala un sopar";
+"Tip Keka a dinner so it keeps rolling" = "Regala al Keka un sopar perquè surti rodant";
+"Tip a bunch of food" = "Regala un grapat de menjar";
+"Tip Keka a new bunch of food to keep rolling" = "Regala al Keka un gran grapat de menjar";
