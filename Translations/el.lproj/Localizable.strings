@@ -143,6 +143,7 @@
 "Keka needs file access" = "Το Keka χρειάζεται άδεια προσπέλασης αρχείων";
 "Give home access" = "Δώσε πρόσβαση στο home φάκελο";
 "Customize" = "Παραμετροποίηση";
+"Keka needs access to the source file/s." = "Keka needs access to the source file/s.";
 "In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "Για να συνεργαστεί άψογα με τα αρχεία σας, το Keka χρειάζεται άδεια τοπική πρόσβαση στο δίσκο του Mac.";
 "\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\nΚάνετε κλίκ στο \"Δώσε άδεια πρόσβασης στο Keka\", ο δίσκος σας πρέπει να είναι ήδη επιλεγμένος.";
 "Give access to Keka" = "Δώσε άδεια πρόσβασης στο Keka";

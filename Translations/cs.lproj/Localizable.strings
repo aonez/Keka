@@ -143,6 +143,7 @@
 "Keka needs file access" = "Keka potřebuje přístup k souborům";
 "Give home access" = "Udělit přístup k domovské složce";
 "Customize" = "Přizpůsobit";
+"Keka needs access to the source file/s." = "Keka needs access to the source file/s.";
 "In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "Abyste mohli Keku používat bez problémů, je třeba jí udělit přístup k disku tohoto Macu.";
 "\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\nVáš disk by už měl být vybraný. Teď stačí kliknout na tlačítko \"Udělit přístup\"";
 "Give access to Keka" = "Udělit přístup";

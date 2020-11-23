@@ -143,6 +143,7 @@
 "Keka needs file access" = "A Keka-nak szüksége van a fájlokhoz való hozzáféréshez";
 "Give home access" = "Engedélyezd a kezdőmappához való hozzáférést";
 "Customize" = "Testreszabás";
+"Keka needs access to the source file/s." = "Keka needs access to the source file/s.";
 "In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "Ahhoz, hogy a Keka zökkenőmentesen tudjon dolgozni a fájljaiddal helyi hozzáférésre van szüksége a Mac lemezhez.";
 "\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\nCsak kattints a következőre: \"Give access to Keka\", a lemezednek már kiválasztva kellene lennie.";
 "Give access to Keka" = "Engedélyezés a Keka-nak";

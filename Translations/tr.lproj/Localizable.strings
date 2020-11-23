@@ -143,6 +143,7 @@
 "Keka needs file access" = "Keka'nın dosyaya erişim izni gerekiyor";
 "Give home access" = "Eve erişim izni ver";
 "Customize" = "Özelleştir";
+"Keka needs access to the source file/s." = "Keka needs access to the source file/s.";
 "In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "Dosyalarınızla sorunsuz bir şekilde çalışabilmeniz için Keka'nın Mac diskinde yerel erişim iznine ihtiyacı vardır.";
 "\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\"Keka'ya erişim izni için\" Tıklamanız yeterlidir \n, diskiniz seçilmiş olmalıdır.";
 "Give access to Keka" = "Keka'ya erişim izni ver";

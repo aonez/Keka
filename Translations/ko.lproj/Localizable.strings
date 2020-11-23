@@ -143,6 +143,7 @@
 "Keka needs file access" = "Keka에게 파일 접근 권한이 필요합니다";
 "Give home access" = "홈 폴더 접근 권한 허용";
 "Customize" = "사용자화";
+"Keka needs access to the source file/s." = "Keka needs access to the source file/s.";
 "In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "Keka가 제대로 작동하기 위해서는 Keka에게 Mac 디스크에 대한 접근 권한이 필요합니다.";
 "\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\n디스크는 이미 선택되어 있으므로, \"Give access to Keka\" 버튼을 클릭하세요.";
 "Give access to Keka" = "Keka에게 권한 허용";

@@ -143,6 +143,7 @@
 "Keka needs file access" = "Keka ha bisogno dell'accesso ai file";
 "Give home access" = "Consenti accesso personale";
 "Customize" = "Personalizza";
+"Keka needs access to the source file/s." = "Keka needs access to the source file/s.";
 "In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "Per lavorare senza problemi con i tuoi file, Keka ha bisogno di un accesso locale al disco del Mac.";
 "\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\nFai semplicemente clic su \"Consenti l'accesso a Keka\", il tuo disco dovrebbe già essere selezionato.";
 "Give access to Keka" = "Consenti l'accesso a Keka";

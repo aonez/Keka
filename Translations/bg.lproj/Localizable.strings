@@ -143,6 +143,7 @@
 "Keka needs file access" = "Keka се нуждае от файлов достъп";
 "Give home access" = "Give home access";
 "Customize" = "Customize";
+"Keka needs access to the source file/s." = "Keka needs access to the source file/s.";
 "In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "За да работите безпроблемно с вашите файлове, Keka се нуждае от локален достъп до Mac диска.";
 "\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\nПросто натиснете на \"Give access to Keka\", вашите диск трябва да е избран предварително.";
 "Give access to Keka" = "Позволи достъп на Keka";

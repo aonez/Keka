@@ -2,5 +2,6 @@
 "Compress here" = "Hier komprimieren";
 "Compress at..." = "Compress at...";
 "Extract here" = "Hier entpacken";
+"Extract at..." = "Extract at...";
 "Extract to \"%@\"" = "Nach \"%@\" entpacken";
 "Compress with Keka" = "Mit Keka komprimieren";

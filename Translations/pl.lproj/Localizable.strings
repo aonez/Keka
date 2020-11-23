@@ -143,6 +143,7 @@
 "Keka needs file access" = "Keka potrzebuje dostępu do plików";
 "Give home access" = "Przyznaj dostęp";
 "Customize" = "Dostosuj";
+"Keka needs access to the source file/s." = "Keka needs access to the source file/s.";
 "In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "Aby pracować bezproblemowo z twoimi plikami, Keka potrzebuje dostępu do dysku lokalnego.";
 "\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\nKliknij przycisk \"Przyznaj dostęp\", dysk powinien zostać wybrany automatycznie.";
 "Give access to Keka" = "Przyznaj dostęp";

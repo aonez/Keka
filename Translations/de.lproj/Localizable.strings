@@ -143,6 +143,7 @@
 "Keka needs file access" = "Keka benötigt Dateizugriff";
 "Give home access" = "Benutzer den Zugriff erlauben";
 "Customize" = "Anpassen";
+"Keka needs access to the source file/s." = "Keka needs access to the source file/s.";
 "In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "Um störungsfrei mit Ihren Dateien arbeiten zu können, benötigt Keka lokalen Zugriff auf die Speichermedien des Mac.";
 "\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\nKlicken Sie einfach auf \"Keka den Zugriff erlauben\"; das Speichermedium sollte bereits ausgewählt sein.";
 "Give access to Keka" = "Keka den Zugriff erlauben";
