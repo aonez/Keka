@@ -222,10 +222,10 @@
 "Wd0-yz-M1h.title" = "Remover conteúdo de extrações com senha incorreta";
 
 /* Class = "NSToolbarItem"; label = "Love"; ObjectID = "XKE-wc-exs"; */
-"XKE-wc-exs.label" = "Love";
+"XKE-wc-exs.label" = "Apoio";
 
 /* Class = "NSToolbarItem"; paletteLabel = "Love"; ObjectID = "XKE-wc-exs"; */
-"XKE-wc-exs.paletteLabel" = "Love";
+"XKE-wc-exs.paletteLabel" = "Apoio";
 
 /* Class = "NSMenuItem"; title = "Automatic"; ObjectID = "XOB-JO-UQT"; */
 "XOB-JO-UQT.title" = "Automaticamente";
@@ -252,7 +252,7 @@
 "cb7-h4-ScP.title" = "Máximo de threads por operação:";
 
 /* Class = "NSButtonCell"; title = "Show in external volumes"; ObjectID = "d9P-v6-FAE"; */
-"d9P-v6-FAE.title" = "Show in external volumes";
+"d9P-v6-FAE.title" = "Mostrar em volumes externos";
 
 /* Class = "NSTextFieldCell"; title = "Compressing multiple files:"; ObjectID = "dhi-qv-weg"; */
 "dhi-qv-weg.title" = "Compressão de vários arquivos:";
@@ -261,7 +261,7 @@
 "eBj-1b-wBg.title" = "Definir data de modificação da pasta com data de extração";
 
 /* Class = "NSButtonCell"; title = "Always tarball non-archiving formats (like GZ or BZIP2) "; ObjectID = "faa-9Y-Axk"; */
-"faa-9Y-Axk.title" = "Always tarball non-archiving formats (like GZ or BZIP2) ";
+"faa-9Y-Axk.title" = "Sempre usar TAR em formatos sem arquivamento (como GZ ou BZIP2) ";
 
 /* Class = "NSTextFieldCell"; title = "Queue extraction operations:"; ObjectID = "fhN-DK-edu"; */
 "fhN-DK-edu.title" = "Operações de extração em fila:";
