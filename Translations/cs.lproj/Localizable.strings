@@ -120,7 +120,7 @@
 "unknown" = "neznámé";
 "Unknown error" = "Neznámá chyba";
 "Error code %d using \"%@\"\n%@" = "Kód chyby: %d při použití \"%@\"\n%@";
-"Keka was unable to create the extraction package" = "Keka was unable to create the extraction package";
+"Keka was unable to create the extraction package" = "Keka nemohla vytvořit extrakční balíček";
 "No errors found" = "Nenalezený žádné chyby";
 "Minor error, the operation may be done well" = "Došlo k menší chybě; je možné, že operace byla úspěšně dokončena";
 "Fatal error" = "Závažná chyba";
@@ -144,7 +144,7 @@
 "Keka needs file access" = "Keka potřebuje přístup k souborům";
 "Give home access" = "Udělit přístup k domovské složce";
 "Customize" = "Přizpůsobit";
-"Keka needs access to the source file/s." = "Keka needs access to the source file/s.";
+"Keka needs access to the source file/s." = "Keka potřebuje přístup k původním souborům.";
 "In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "Abyste mohli Keku používat bez problémů, je třeba jí udělit přístup k disku tohoto Macu.";
 "\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\nVáš disk by už měl být vybraný. Teď stačí kliknout na tlačítko \"Udělit přístup\"";
 "Give access to Keka" = "Udělit přístup";
@@ -202,21 +202,21 @@ Apple needs to have MAS translated in this language so this strings can be used
 The language used in MAS/AppleID will be used in Keka's tip strings and may not match Keka's localization
 Note that the short string is limited to 30 characters and the long string is limited to 45 characters.
 */
-"Monthly sip of coffee" = "Monthly sip of coffee";
-"Gift Keka a sip of coffee each month" = "Gift Keka a sip of coffee each month";
-"Monthly coffee" = "Monthly coffee";
-"Gift Keka a coffee each month" = "Gift Keka a coffee each month";
-"Monthly pair of coffees" = "Monthly pair of coffees";
-"Gift Keka a couple coffees each month" = "Gift Keka a couple coffees each month";
-"Monthly breakfast" = "Monthly breakfast";
-"Gift Keka a breakfast each month" = "Gift Keka a breakfast each month";
-"Tip a coffee" = "Tip a coffee";
-"Tip Keka a coffee so it can stay awake" = "Tip Keka a coffee so it can stay awake";
-"Tip a breakfast" = "Tip a breakfast";
-"Tip Keka a breakfast so it can start fresh" = "Tip Keka a breakfast so it can start fresh";
-"Tip a lunch" = "Tip a lunch";
-"Tip Keka a lunch and feed it" = "Tip Keka a lunch and feed it";
-"Tip a dinner" = "Tip a dinner";
-"Tip Keka a dinner so it keeps rolling" = "Tip Keka a dinner so it keeps rolling";
-"Tip a bunch of food" = "Tip a bunch of food";
-"Tip Keka a new bunch of food to keep rolling" = "Tip Keka a new bunch of food to keep rolling";
+"Monthly sip of coffee" = "Pár zrnek kávy";
+"Gift Keka a sip of coffee each month" = "Keka si pochutná na pár zrncích kávy";
+"Monthly coffee" = "Kafe na pár dní";
+"Gift Keka a coffee each month" = "Keka bude mít energii na pár dní";
+"Monthly pair of coffees" = "Kafe na celý měsíc";
+"Gift Keka a couple coffees each month" = "Keka bude mít energii na celý měsíc";
+"Monthly breakfast" = "Snídaně na měsíc";
+"Gift Keka a breakfast each month" = "Keka si pochutná na dobré snídani";
+"Tip a coffee" = "Jedno kafe";
+"Tip Keka a coffee so it can stay awake" = "Kupte Keka kávu, aby byla plná energie";
+"Tip a breakfast" = "Jedna snídaně";
+"Tip Keka a breakfast so it can start fresh" = "Kupte Keka snídani, aby se jí dobře vstávalo";
+"Tip a lunch" = "Jeden oběd";
+"Tip Keka a lunch and feed it" = "Kupte Keka oběd, aby byla zdravá";
+"Tip a dinner" = "Jedna večeře";
+"Tip Keka a dinner so it keeps rolling" = "Kupte Keka večeři, aby se jí dobře spalo";
+"Tip a bunch of food" = "Stůl plný jídla";
+"Tip Keka a new bunch of food to keep rolling" = "Pozor, aby neztloustla!";
