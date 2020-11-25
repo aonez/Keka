@@ -237,7 +237,7 @@
 "ZOx-vr-5o7.title" = "启用完整的访问权限，以便可以在整个系统上使用 Keka。";
 
 /* Class = "NSButtonCell"; title = "Use \"Open with Keka\" as the primary item action"; ObjectID = "a5e-FP-sDv"; */
-"a5e-FP-sDv.title" = "使用 \"在 Keka 中打开\" 作为主要项目操作";
+"a5e-FP-sDv.title" = "使用“在 Keka 中打开”作为主要操作项";
 
 /* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "b5e-bj-Pgz"; */
 "b5e-bj-Pgz.title" = "使用一体式工具栏（会重置自定工具栏设置）";
@@ -252,7 +252,7 @@
 "cb7-h4-ScP.title" = "每个操作最大线程数：";
 
 /* Class = "NSButtonCell"; title = "Show in external volumes"; ObjectID = "d9P-v6-FAE"; */
-"d9P-v6-FAE.title" = "Show in external volumes";
+"d9P-v6-FAE.title" = "在外部卷中显示";
 
 /* Class = "NSTextFieldCell"; title = "Compressing multiple files:"; ObjectID = "dhi-qv-weg"; */
 "dhi-qv-weg.title" = "压缩多文件：";
@@ -261,7 +261,7 @@
 "eBj-1b-wBg.title" = "将文件夹修改日期设置为解压日期";
 
 /* Class = "NSButtonCell"; title = "Always tarball non-archiving formats (like GZ or BZIP2) "; ObjectID = "faa-9Y-Axk"; */
-"faa-9Y-Axk.title" = "Always tarball non-archiving formats (like GZ or BZIP2) ";
+"faa-9Y-Axk.title" = "始终压缩非归档格式（例如 GZ 或 BZIP2）";
 
 /* Class = "NSTextFieldCell"; title = "Queue extraction operations:"; ObjectID = "fhN-DK-edu"; */
 "fhN-DK-edu.title" = "队列解压操作：";
