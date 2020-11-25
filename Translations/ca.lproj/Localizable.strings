@@ -120,6 +120,7 @@
 "unknown" = "desconegut";
 "Unknown error" = "Error desconegut";
 "Error code %d using \"%@\"\n%@" = "Codi d'error %d utilitzant «%@»\n%@";
+"Keka was unable to create the extraction package" = "El Keka no ha pogut crear el paquet d'extracció";
 "No errors found" = "No s'han trobat errors";
 "Minor error, the operation may be done well" = "Error menor, l'operació pot haver finalitzat correctament";
 "Fatal error" = "Error fatal";
@@ -143,6 +144,7 @@
 "Keka needs file access" = "El Keka necessita accés als fitxers";
 "Give home access" = "Donar accés personal";
 "Customize" = "Personalitzar";
+"Keka needs access to the source file/s." = "El Keka necessita accés al/s fitxer/s original/s.";
 "In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "Per tal de integrarse amb el teu Mac, el Keka necessita accés local al disc.";
 "\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\nFes clic a \"Donar accés al Keka\", el disc ja està seleccionat.";
 "Give access to Keka" = "Donar accés al Keka";
@@ -192,3 +194,29 @@
 "Keka has no file access to the source folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "El Keka no té accés a la carpeta principal i necessita preguntar on realitzar l'operació.\nPots donar accés a aquesta i altres carpetes en el panell d'Accés a Fitxers de la Configuració del Keka.";
 "The characters %@ are not compatible with the %@ format" = "Els caràcters %@ no són compatibles amb el format %@";
 "The character %@ is not compatible with the %@ format" = "El caràcter %@ no és compatible amb el format %@";
+
+/*
+MAS tips
+Note this will be used in Apple's servers
+Apple needs to have MAS translated in this language so this strings can be used
+The language used in MAS/AppleID will be used in Keka's tip strings and may not match Keka's localization
+Note that the short string is limited to 30 characters and the long string is limited to 45 characters.
+*/
+"Monthly sip of coffee" = "Un glop de cafè al mes";
+"Gift Keka a sip of coffee each month" = "Regala al Keka un glop de cafè al mes";
+"Monthly coffee" = "Cafè mensual";
+"Gift Keka a coffee each month" = "Regala al Keka un cafè al mes";
+"Monthly pair of coffees" = "Un parell de cafès al mes";
+"Gift Keka a couple coffees each month" = "Regala al Keka un parell de cafès al mes";
+"Monthly breakfast" = "Esmorzar mensual";
+"Gift Keka a breakfast each month" = "Regala al Keka un esmorzar al mes";
+"Tip a coffee" = "Convida a un cafè";
+"Tip Keka a coffee so it can stay awake" = "Convida al Keka a un cafè perquè no s'adormi";
+"Tip a breakfast" = "Convida a un esmorzar";
+"Tip Keka a breakfast so it can start fresh" = "Convida al Keka a un esmorzar per començar bé";
+"Tip a lunch" = "Regala un menjar";
+"Tip Keka a lunch and feed it" = "Regala al Keka un menjar perquè s'alimenti";
+"Tip a dinner" = "Regala un sopar";
+"Tip Keka a dinner so it keeps rolling" = "Regala al Keka un sopar perquè surti rodant";
+"Tip a bunch of food" = "Regala un grapat de menjar";
+"Tip Keka a new bunch of food to keep rolling" = "Regala al Keka un gran grapat de menjar";

@@ -30,7 +30,7 @@ $content_download_helper = "Auxiliar";
 
 // Like
 $content_donation_button = "Doar";
-$content_donation_title = 'Se você curte o Keka, demonstre seu <i class="fa fa-heart" aria-hidden="true"></i>… <br />obtenha-o na App Store ou faça uma doação pelo PayPal!';
+$content_donation_title = 'Se você curte o Keka, demonstre seu <i class="fa fa-heart" aria-hidden="true"></i>. <br />Obtenha-o na App Store ou faça uma doação pelo PayPal!';
 $content_donation_mas = "Ao comprar o Keka na App Store, você apoia o desenvolvimento.<br />O app é igual ao oferecido no site, só que as atualizações são feitas pela App Store.";
 $content_donation_paypal = "Se você não gosta da App Store ou quer apenas explorar o Keka,<br />mas ao mesmo tempo, curte o projeto e deseja demonstrar seu apoio, use o PayPal para fazer uma doação.";
 
@@ -61,10 +61,10 @@ $content_defaultapp_title = "Defina o Keka como o aplicativo de extração padr�
 $content_defaultapp_text = 'O Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">precisa de um auxiliar <i class="far fa-question-circle"></i></a> para ser definido como o aplicativo padrão.<br />Baixe, extraia, mova para a mesa e abra este auxiliar.';
 
 // Privacy Policy
-$content_privacypolicy_title = 'Privacy Policy';
+$content_privacypolicy_title = 'Política de Privacidade';
 
 // Terms of use
-$content_termsofuse_title = 'Terms of Use';
+$content_termsofuse_title = 'Termos de Uso';
 
 // Main content of the page
 $content_context_menu = "Menu contextual";

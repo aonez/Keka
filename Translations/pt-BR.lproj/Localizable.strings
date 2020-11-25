@@ -120,6 +120,7 @@
 "unknown" = "desconhecido";
 "Unknown error" = "Erro desconhecido";
 "Error code %d using \"%@\"\n%@" = "Código de erro %d usando “%@”\n%@";
+"Keka was unable to create the extraction package" = "O Keka não pôde criar o pacote de extração";
 "No errors found" = "Nenhum erro encontrado";
 "Minor error, the operation may be done well" = "Erro secundário, a operação pode ter sido concluída";
 "Fatal error" = "Erro fatal";
@@ -143,6 +144,7 @@
 "Keka needs file access" = "O Keka precisa de acesso aos arquivos";
 "Give home access" = "Acesso à Pasta Pessoal";
 "Customize" = "Personalizar";
+"Keka needs access to the source file/s." = "O Keka precisa de acesso aos arquivos originais.";
 "In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "Para funcionar de maneira integrada, o Keka precisa de acesso local ao disco do Mac.";
 "\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\nClique em “Conceder Acesso”. O disco já deve estar selecionado.";
 "Give access to Keka" = "Conceder Acesso";
@@ -175,20 +177,46 @@
 "The extension is enabled" = "A extensão está ativada";
 "The extension is disabled" = "A extensão está desativada";
 "The extension status can't be determined" = "Impossível determinar estado da extensão";
-"Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option.";
-"Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone.";
-"Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone.";
-"Show the operation log" = "Show the operation log";
-"Unable to process tips" = "Unable to process tips";
-"Already tipping a monthly %@" = "Already tipping a monthly %@";
-"Send a monthly %@ tip" = "Send a monthly %@ tip";
-"Send a %@ tip" = "Send a %@ tip";
-"Give Keka some love ♥" = "Give Keka some love ♥";
-"All extractions will be expanded at this location." = "All extractions will be expanded at this location.";
-"All compressions will be stored at this location." = "All compressions will be stored at this location.";
-"You'll be asked where to extract each operation." = "You'll be asked where to extract each operation.";
-"You'll be asked where to compress each operation." = "You'll be asked where to compress each operation.";
-"If Keka has File Access it will execute the operation near the source file/s, otherwise it will ask for a location. You can set Keka's File Access in the Preferences tab so this option works properly." = "If Keka has File Access it will execute the operation near the source file/s, otherwise it will ask for a location. You can set Keka's File Access in the Preferences tab so this option works properly.";
-"Keka has no file access to the source folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka has no file access to the source folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane.";
-"The characters %@ are not compatible with the %@ format" = "The characters %@ are not compatible with the %@ format";
-"The character %@ is not compatible with the %@ format" = "The character %@ is not compatible with the %@ format";
+"Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "O Keka decidirá entre comprimir ou extrair com base no formato e extensão do arquivo. Esta é a opção recomendada.";
+"Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "O Keka comprimirá todos os arquivos, até mesmo os já comprimidos. No modo automático, você pode soltar um arquivo já comprimido na parte inferior da área de operações para comprimi-lo.";
+"Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "O Keka tentará extrair todos os arquivos comprimidos. No modo automático, você pode soltar um arquivo comprimido desconhecido na parte inferior da área de operações para extraí-lo.";
+"Show the operation log" = "Mostrar registro da operação";
+"Unable to process tips" = "Não foi possível processar a gorjeta";
+"Already tipping a monthly %@" = "Você já está enviando uma gorjeta mensal de %@";
+"Send a monthly %@ tip" = "Enviar uma gorjeta mensal de %@";
+"Send a %@ tip" = "Enviar uma gorjeta de %@";
+"Give Keka some love ♥" = "Demonstre seu Apoio ao Keka ♥";
+"All extractions will be expanded at this location." = "Todas as operações de extração ocorrerão neste local.";
+"All compressions will be stored at this location." = "Todas as operações de compressão ocorrerão neste local.";
+"You'll be asked where to extract each operation." = "Cada operação de extração solicitará um local.";
+"You'll be asked where to compress each operation." = "Cada operação de compressão solicitará um local.";
+"If Keka has File Access it will execute the operation near the source file/s, otherwise it will ask for a location. You can set Keka's File Access in the Preferences tab so this option works properly." = "Se o Keka tiver acesso ao item, ele executará a operação junto ao original. Caso contrário, ele solicitará um local. Configure as preferências de Acesso a Arquivos do Keka para que esta opção funcione corretamente.";
+"Keka has no file access to the source folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "O Keka precisa solicitar onde a operação será realizada porque ele não tem acesso à pasta original.\nVocê pode adicionar o acesso a esta e outras pastas nas preferências de Acesso a Arquivos do Keka.";
+"The characters %@ are not compatible with the %@ format" = "Os caracteres %@ não são compatíveis com o formato %@";
+"The character %@ is not compatible with the %@ format" = "O caractere %@ não é compatível com o formato %@";
+
+/*
+MAS tips
+Note this will be used in Apple's servers
+Apple needs to have MAS translated in this language so this strings can be used
+The language used in MAS/AppleID will be used in Keka's tip strings and may not match Keka's localization
+Note that the short string is limited to 30 characters and the long string is limited to 45 characters.
+*/
+"Monthly sip of coffee" = "Um gole de café por mês";
+"Gift Keka a sip of coffee each month" = "Dê ao Keka um gole de café por mês";
+"Monthly coffee" = "Café mensal";
+"Gift Keka a coffee each month" = "Dê ao Keka um café por mês";
+"Monthly pair of coffees" = "Dois cafés por mês";
+"Gift Keka a couple coffees each month" = "Dê ao Keka dois cafés por mês";
+"Monthly breakfast" = "Café da manhã mensal";
+"Gift Keka a breakfast each month" = "Dê ao Keka um café da manhã por mês";
+"Tip a coffee" = "Um café de gorjeta";
+"Tip Keka a coffee so it can stay awake" = "Dê um café para o Keka não dormir";
+"Tip a breakfast" = "Um café da manhã de gorjeta";
+"Tip Keka a breakfast so it can start fresh" = "Dê um café da manhã para o Keka começar bem";
+"Tip a lunch" = "Um almoço de gorjeta";
+"Tip Keka a lunch and feed it" = "Dê um almoço para o Keka se alimentar";
+"Tip a dinner" = "Um jantar de gorjeta";
+"Tip Keka a dinner so it keeps rolling" = "Dê um jantar para o Keka continuar forte";
+"Tip a bunch of food" = "Muita comida de gorjeta";
+"Tip Keka a new bunch of food to keep rolling" = "Dê muita comida para o Keka ficar em forma";

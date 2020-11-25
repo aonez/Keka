@@ -120,6 +120,7 @@
 "unknown" = "sconosciuto";
 "Unknown error" = "Errore sconosciuto";
 "Error code %d using \"%@\"\n%@" = "Codice errore %d utilizzando \"%@\"\n%@";
+"Keka was unable to create the extraction package" = "Keka non ha potuto creare il pacchetto di estrazione";
 "No errors found" = "Nessun errore trovato";
 "Minor error, the operation may be done well" = "Errore minore, l'operazione può essere fatta bene";
 "Fatal error" = "Errore fatale";
@@ -143,6 +144,7 @@
 "Keka needs file access" = "Keka ha bisogno dell'accesso ai file";
 "Give home access" = "Consenti accesso personale";
 "Customize" = "Personalizza";
+"Keka needs access to the source file/s." = "Keka ha bisogno di accedere al/ai file di origine.";
 "In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "Per lavorare senza problemi con i tuoi file, Keka ha bisogno di un accesso locale al disco del Mac.";
 "\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\nFai semplicemente clic su \"Consenti l'accesso a Keka\", il tuo disco dovrebbe già essere selezionato.";
 "Give access to Keka" = "Consenti l'accesso a Keka";
@@ -192,3 +194,29 @@
 "Keka has no file access to the source folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka non ha accesso ai file della cartella di origine e ha bisogno di chiedere dove eseguire l'operazione.\nPuoi dare accesso a questa e ad altre cartelle nel pannello Accesso ai file delle Preferenze di Keka.";
 "The characters %@ are not compatible with the %@ format" = "I caratteri %@ non sono compatibili con il formato %@";
 "The character %@ is not compatible with the %@ format" = "Il carattere %@ non è compatibile con il formato %@";
+
+/*
+MAS tips
+Note this will be used in Apple's servers
+Apple needs to have MAS translated in this language so this strings can be used
+The language used in MAS/AppleID will be used in Keka's tip strings and may not match Keka's localization
+Note that the short string is limited to 30 characters and the long string is limited to 45 characters.
+*/
+"Monthly sip of coffee" = "Un sorso di caffè al mese";
+"Gift Keka a sip of coffee each month" = "Regala a Keka un sorso di caffè ogni mese";
+"Monthly coffee" = "Caffè mensile";
+"Gift Keka a coffee each month" = "Regala a Keka un caffè ogni mese";
+"Monthly pair of coffees" = "Un paio di caffè al mese";
+"Gift Keka a couple coffees each month" = "Regala a Keka un paio di caffè ogni mese";
+"Monthly breakfast" = "Colazione mensile";
+"Gift Keka a breakfast each month" = "Regala a Keka una colazione ogni mese";
+"Tip a coffee" = "Invita a bere un caffè";
+"Tip Keka a coffee so it can stay awake" = "Dai un caffè a Keka così non s'addormenta";
+"Tip a breakfast" = "Invita ad una colazione";
+"Tip Keka a breakfast so it can start fresh" = "Invita Keka a colazione per iniziare bene";
+"Tip a lunch" = "Regala un pranzo";
+"Tip Keka a lunch and feed it" = "Dai da mangiare a Keka per nutrirlo";
+"Tip a dinner" = "Regala una cena";
+"Tip Keka a dinner so it keeps rolling" = "Dai una cena a Keka così continua a rotolare";
+"Tip a bunch of food" = "Regala una manciata di cibo";
+"Tip Keka a new bunch of food to keep rolling" = "Dai a Keka una grossa manciata di cibo";
