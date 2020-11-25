@@ -174,8 +174,8 @@
 "Keka has no file access to the source file/s\nGive it access when asked or manually in the Preferences" = "Keka 无权访问源文件/s\n请在询问时或在首选项中手动授予访问权限";
 "Give access to the source/s folder/s" = "授权访问源文件夹";
 "Give access to the compressed file" = "授权访问压缩文件";
-"The extension is enabled" = "该扩展已启用";
-"The extension is disabled" = "该扩展已禁用";
+"The extension is enabled" = "扩展已启用";
+"The extension is disabled" = "扩展已禁用";
 "The extension status can't be determined" = "扩展状态未知";
 "Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "Keka 将根据文件格式和扩展名决定执行压缩还是解压。这是推荐的选项。";
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka 将压缩所有文件，即使是已压缩的文件。您可以在自动模式下将已压缩的文件拖放到放置区的底部来压缩它。";
