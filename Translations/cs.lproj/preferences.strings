@@ -261,7 +261,7 @@
 "eBj-1b-wBg.title" = "Nastavit datum změny složky na datum rozbalení";
 
 /* Class = "NSButtonCell"; title = "Always tarball non-archiving formats (like GZ or BZIP2) "; ObjectID = "faa-9Y-Axk"; */
-"faa-9Y-Axk.title" = "Always tarball non-archiving formats (like GZ or BZIP2) ";
+"faa-9Y-Axk.title" = "Při vytváření tarballu nepoužívat archivační formáty (GZ a BZIP2) ";
 
 /* Class = "NSTextFieldCell"; title = "Queue extraction operations:"; ObjectID = "fhN-DK-edu"; */
 "fhN-DK-edu.title" = "Řadit rozbalování do fronty:";
