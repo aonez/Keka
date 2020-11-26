@@ -120,6 +120,7 @@
 "unknown" = "未知";
 "Unknown error" = "未知错误";
 "Error code %d using \"%@\"\n%@" = "错误码 %d 使用“%@”\n%@";
+"Keka was unable to create the extraction package" = "Keka was unable to create the extraction package";
 "No errors found" = "没有发现错误";
 "Minor error, the operation may be done well" = "微小错误，操作可能已经完成";
 "Fatal error" = "严重错误";
@@ -143,6 +144,7 @@
 "Keka needs file access" = "Keka 需要文件访问权限";
 "Give home access" = "授予主文件夹访问权限";
 "Customize" = "自定义";
+"Keka needs access to the source file/s." = "Keka needs access to the source file/s.";
 "In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "为了与您的文件无缝协作，Keka 需要 Mac 本地磁盘的访问权限。";
 "\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\n只需点击\"给 Keka 授予访问权限\"，您的磁盘应该已经被选中。";
 "Give access to Keka" = "给 Keka 授予访问权限";
@@ -172,8 +174,8 @@
 "Keka has no file access to the source file/s\nGive it access when asked or manually in the Preferences" = "Keka 无权访问源文件/s\n请在询问时或在首选项中手动授予访问权限";
 "Give access to the source/s folder/s" = "授权访问源文件夹";
 "Give access to the compressed file" = "授权访问压缩文件";
-"The extension is enabled" = "该扩展已启用";
-"The extension is disabled" = "该扩展已禁用";
+"The extension is enabled" = "扩展已启用";
+"The extension is disabled" = "扩展已禁用";
 "The extension status can't be determined" = "扩展状态未知";
 "Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "Keka 将根据文件格式和扩展名决定执行压缩还是解压。这是推荐的选项。";
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka 将压缩所有文件，即使是已压缩的文件。您可以在自动模式下将已压缩的文件拖放到放置区的底部来压缩它。";
@@ -192,3 +194,29 @@
 "Keka has no file access to the source folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka 对源文件夹没有文件访问权限，因此需要询问指定位置。\n您可以在 Keka 的首选项的文件访问中添加对此文件夹和其他文件夹的访问权限。";
 "The characters %@ are not compatible with the %@ format" = "字符 %@ 与 %@ 格式不兼容";
 "The character %@ is not compatible with the %@ format" = "字符 %@ 与 %@ 格式不兼容";
+
+/*
+MAS tips
+Note this will be used in Apple's servers
+Apple needs to have MAS translated in this language so this strings can be used
+The language used in MAS/AppleID will be used in Keka's tip strings and may not match Keka's localization
+Note that the short string is limited to 30 characters and the long string is limited to 45 characters.
+*/
+"Monthly sip of coffee" = "Monthly sip of coffee";
+"Gift Keka a sip of coffee each month" = "Gift Keka a sip of coffee each month";
+"Monthly coffee" = "Monthly coffee";
+"Gift Keka a coffee each month" = "Gift Keka a coffee each month";
+"Monthly pair of coffees" = "Monthly pair of coffees";
+"Gift Keka a couple coffees each month" = "Gift Keka a couple coffees each month";
+"Monthly breakfast" = "Monthly breakfast";
+"Gift Keka a breakfast each month" = "Gift Keka a breakfast each month";
+"Tip a coffee" = "Tip a coffee";
+"Tip Keka a coffee so it can stay awake" = "Tip Keka a coffee so it can stay awake";
+"Tip a breakfast" = "Tip a breakfast";
+"Tip Keka a breakfast so it can start fresh" = "Tip Keka a breakfast so it can start fresh";
+"Tip a lunch" = "Tip a lunch";
+"Tip Keka a lunch and feed it" = "Tip Keka a lunch and feed it";
+"Tip a dinner" = "Tip a dinner";
+"Tip Keka a dinner so it keeps rolling" = "Tip Keka a dinner so it keeps rolling";
+"Tip a bunch of food" = "Tip a bunch of food";
+"Tip Keka a new bunch of food to keep rolling" = "Tip Keka a new bunch of food to keep rolling";

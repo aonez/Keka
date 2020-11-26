@@ -1,4 +1,4 @@
-﻿
+
 /* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
 "159.title" = "形式のデフォルト:";
 
@@ -194,8 +194,8 @@
 /* Class = "NSButtonCell"; title = "Enable full Mac access (Recommended)"; ObjectID = "IHj-ac-103"; */
 "IHj-ac-103.title" = "完全なMacアクセスを有効にする (推奨)";
 
-/* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive:"; ObjectID = "JxT-Nq-8Z5"; */
-"JxT-Nq-8Z5.title" = "外部ボリュームアクセスを有効にする。KekaをUSBやThunderboltドライブの様な外部ディスクで使用することができます:";
+/* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive."; ObjectID = "JxT-Nq-8Z5"; */
+"JxT-Nq-8Z5.title" = "外部ボリュームアクセスを有効にする。KekaをUSBやThunderboltドライブの様な外部ディスクで使用することができます.";
 
 /* Class = "NSTextFieldCell"; title = "Queue compression operations:"; ObjectID = "K5h-j5-bss"; */
 "K5h-j5-bss.title" = "Queue compression operations:";
@@ -206,8 +206,8 @@
 /* Class = "NSTextFieldCell"; title = "Limit the number of threads per operation:"; ObjectID = "ND5-DN-C1H"; */
 "ND5-DN-C1H.title" = "Limit the number of threads per operation:";
 
-/* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder:"; ObjectID = "PD2-iW-BGK"; */
-"PD2-iW-BGK.title" = "デスクトップまたはダウンロードフォルダーなど、すべてのユーザーファイルでKekaを使用できるように、ホームアクセスを有効にします。:";
+/* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder."; ObjectID = "PD2-iW-BGK"; */
+"PD2-iW-BGK.title" = "デスクトップまたはダウンロードフォルダーなど、すべてのユーザーファイルでKekaを使用できるように、ホームアクセスを有効にします。.";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "通知センターの統合を有効にする";
@@ -233,8 +233,8 @@
 /* Class = "NSButtonCell"; title = "Use BZIP2 compression in DMG files (better but slower)"; ObjectID = "Xoi-ui-e7P"; */
 "Xoi-ui-e7P.title" = "Use BZIP2 compression in DMG files (better but slower)";
 
-/* Class = "NSTextFieldCell"; title = "Enable full Mac access so Keka can be used on all your Mac:"; ObjectID = "ZOx-vr-5o7"; */
-"ZOx-vr-5o7.title" = "すべてのMacでKekaを使用できるように、完全なMacアクセスを有効にします:";
+/* Class = "NSTextFieldCell"; title = "Enable full Mac access so Keka can be used on all your Mac."; ObjectID = "ZOx-vr-5o7"; */
+"ZOx-vr-5o7.title" = "すべてのMacでKekaを使用できるように、完全なMacアクセスを有効にします.";
 
 /* Class = "NSButtonCell"; title = "Use \"Open with Keka\" as the primary item action"; ObjectID = "a5e-FP-sDv"; */
 "a5e-FP-sDv.title" = "Use \"Open with Keka\" as the primary item action";
@@ -259,6 +259,9 @@
 
 /* Class = "NSButtonCell"; title = "Set folder's modification date to extraction date"; ObjectID = "eBj-1b-wBg"; */
 "eBj-1b-wBg.title" = "Set folder's modification date to extraction date";
+
+/* Class = "NSButtonCell"; title = "Always tarball non-archiving formats (like GZ or BZIP2) "; ObjectID = "faa-9Y-Axk"; */
+"faa-9Y-Axk.title" = "Always tarball non-archiving formats (like GZ or BZIP2) ";
 
 /* Class = "NSTextFieldCell"; title = "Queue extraction operations:"; ObjectID = "fhN-DK-edu"; */
 "fhN-DK-edu.title" = "Queue extraction operations:";

@@ -43,7 +43,7 @@
 "LHA Archive" = "Archivio LHA";
 "Windows EXE File" = "File EXE (Windows)";
 "Windows Cabinet File" = "File CAB (Windows)";
-"Windows Installer Package" = "Windows Installer Package";
+"Windows Installer Package" = "Pacchetto di installazione di Windows";
 "WIM Disk Image" = "Immagine disco WIM";
 "Comic Book RAR Archive" = "Archivio RAR Comic Book";
 "Comic Book ZIP Archive" = "Archivio ZIP Comic Book";
@@ -56,4 +56,4 @@
 "Safari extension" = "Estensione di Safari";
 "ACE Archive" = "Archivio ACE";
 "XIP Secure Archive" = "Archivio sicuro XIP";
-"Keka Extraction Package" = "Keka Extraction Package";
+"Keka Extraction Package" = "Pacchetto di estrazione di Keka";

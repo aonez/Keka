@@ -2,11 +2,11 @@
 "NSHumanReadableCopyright" = "Copyright © 2009-2020 aONe";
 
 /* Access request descriptions */
-"NSDesktopFolderUsageDescription" = "Keka requires Desktop access to work with it's files.";
-"NSDocumentsFolderUsageDescription" = "Keka requires Documents access to work with it's files.";
-"NSDownloadsFolderUsageDescription" = "Keka requires Downloads access to work with it's files.";
-"NSNetworkVolumesUsageDescription" = "Keka requires network volumes access to work with it's files.";
-"NSRemovableVolumesUsageDescription" = "Keka requires removable volumes access to work with it's files.";
+"NSDesktopFolderUsageDescription" = "Keka potřebuje přístup ke složce Plocha pro práci s těmito soubory.";
+"NSDocumentsFolderUsageDescription" = "Keka potřebuje přístup ke složce Dokumenty pro práci s těmito soubory.";
+"NSDownloadsFolderUsageDescription" = "Keka potřebuje přístup ke složce Stahování pro práci s těmito soubory.";
+"NSNetworkVolumesUsageDescription" = "Keka potřebuje přístup k síťovým svazkům pro práci s těmito soubory.";
+"NSRemovableVolumesUsageDescription" = "Keka potřebuje přístup k výměnným svazkům pro práci s těmito soubory.";
 
 /* File types */
 "7Z Archive" = "Archiv 7Z";
@@ -43,7 +43,7 @@
 "LHA Archive" = "Archiv LHA";
 "Windows EXE File" = "Soubor Windows EXE";
 "Windows Cabinet File" = "Soubor Windows CAB";
-"Windows Installer Package" = "Windows Installer Package";
+"Windows Installer Package" = "Balíček Instalační služby systému Windows";
 "WIM Disk Image" = "Obraz disku WIM";
 "Comic Book RAR Archive" = "Archiv Comic Book RAR";
 "Comic Book ZIP Archive" = "Archiv Comic Book ZIP";
@@ -54,6 +54,6 @@
 "Cross-Platform Installer Module (XPI)" = "Multiplatformní instalační modul (XPI)";
 "APPX Archive" = "Archiv APPX";
 "Safari extension" = "Rozšíření Safari";
-"ACE Archive" = "ACE Archive";
-"XIP Secure Archive" = "XIP Secure Archive";
-"Keka Extraction Package" = "Keka Extraction Package";
+"ACE Archive" = "Archiv ACE";
+"XIP Secure Archive" = "Zabezpečený archiv XIP";
+"Keka Extraction Package" = "Extrakční balíček Keky";

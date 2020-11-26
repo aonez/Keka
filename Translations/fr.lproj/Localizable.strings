@@ -120,6 +120,7 @@
 "unknown" = "inconnu";
 "Unknown error" = "Erreur inconnue";
 "Error code %d using \"%@\"\n%@" = "Code erreur %d en utilisant \"%@\"\n%@";
+"Keka was unable to create the extraction package" = "Keka was unable to create the extraction package";
 "No errors found" = "Pas d'erreur trouvées";
 "Minor error, the operation may be done well" = "Erreur mineure, l'opération a peut-être réussi";
 "Fatal error" = "Erreur fatale";
@@ -143,6 +144,7 @@
 "Keka needs file access" = "Keka a besoin de l'accès au fichier";
 "Give home access" = "Donner l'accès au dossier Départ";
 "Customize" = "Personnaliser";
+"Keka needs access to the source file/s." = "Keka needs access to the source file/s.";
 "In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "Afin de travailler sans restriction avec vos fichiers, Keka a besoin de l'accès local au disque du Mac.";
 "\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\nCliquez sur \"Donner l'accès à Keka\", votre disque devrait déjà étre sélectionné.";
 "Give access to Keka" = "Donner l'accès à Keka";
@@ -192,3 +194,29 @@
 "Keka has no file access to the source folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka n'a pas d'accès aux fichiers dans le dossier source, il doit donc demander un emplacement.\nVous pouvez ajouter l'accès à ce dossier et à d'autres dans le volet d'accès aux fichiers des préférences de Keka.";
 "The characters %@ are not compatible with the %@ format" = "Les caractères %@ ne sont pas compatibles avec le format %@";
 "The character %@ is not compatible with the %@ format" = "Le caractère %@ n'est pas compatible avec le format %@";
+
+/*
+MAS tips
+Note this will be used in Apple's servers
+Apple needs to have MAS translated in this language so this strings can be used
+The language used in MAS/AppleID will be used in Keka's tip strings and may not match Keka's localization
+Note that the short string is limited to 30 characters and the long string is limited to 45 characters.
+*/
+"Monthly sip of coffee" = "Monthly sip of coffee";
+"Gift Keka a sip of coffee each month" = "Gift Keka a sip of coffee each month";
+"Monthly coffee" = "Monthly coffee";
+"Gift Keka a coffee each month" = "Gift Keka a coffee each month";
+"Monthly pair of coffees" = "Monthly pair of coffees";
+"Gift Keka a couple coffees each month" = "Gift Keka a couple coffees each month";
+"Monthly breakfast" = "Monthly breakfast";
+"Gift Keka a breakfast each month" = "Gift Keka a breakfast each month";
+"Tip a coffee" = "Tip a coffee";
+"Tip Keka a coffee so it can stay awake" = "Tip Keka a coffee so it can stay awake";
+"Tip a breakfast" = "Tip a breakfast";
+"Tip Keka a breakfast so it can start fresh" = "Tip Keka a breakfast so it can start fresh";
+"Tip a lunch" = "Tip a lunch";
+"Tip Keka a lunch and feed it" = "Tip Keka a lunch and feed it";
+"Tip a dinner" = "Tip a dinner";
+"Tip Keka a dinner so it keeps rolling" = "Tip Keka a dinner so it keeps rolling";
+"Tip a bunch of food" = "Tip a bunch of food";
+"Tip Keka a new bunch of food to keep rolling" = "Tip Keka a new bunch of food to keep rolling";

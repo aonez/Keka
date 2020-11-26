@@ -1,6 +1,7 @@
-"Open with Keka" = "Open with Keka";
-"Compress here" = "Compress here";
-"Compress at..." = "Compress at...";
-"Extract here" = "Extract here";
-"Extract to \"%@\"" = "Extract to \"%@\"";
-"Compress with Keka" = "Compress with Keka";
+"Open with Keka" = "Otevřít s Keka";
+"Compress here" = "Komprimovat zde";
+"Compress at..." = "Komprimovat ve složce...";
+"Extract here" = "Rozbalit zde";
+"Extract at..." = "Rozbalit ve složce...";
+"Extract to \"%@\"" = "Rozbalit do složky \"%@\"";
+"Compress with Keka" = "Komprimovat s Keka";
