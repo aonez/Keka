@@ -261,7 +261,7 @@
 "eBj-1b-wBg.title" = "Utiliser la date d'extraction comme date de modification du dossier";
 
 /* Class = "NSButtonCell"; title = "Always tarball non-archiving formats (like GZ or BZIP2) "; ObjectID = "faa-9Y-Axk"; */
-"faa-9Y-Axk.title" = "Always tarball non-archiving formats (like GZ or BZIP2) ";
+"faa-9Y-Axk.title" = "Toujours utiliser TAR pour les formats non archivables (tels que GZ ou BZIP2) ";
 
 /* Class = "NSTextFieldCell"; title = "Queue extraction operations:"; ObjectID = "fhN-DK-edu"; */
 "fhN-DK-edu.title" = "Mettre les opérations d'extraction en file d'attente:";
