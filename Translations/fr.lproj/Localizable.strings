@@ -209,7 +209,7 @@ Note that the short string is limited to 30 characters and the long string is li
 "Monthly pair of coffees" = "Paire de cafés mensuelle";
 "Gift Keka a couple coffees each month" = "Offrez à Keka une paire de cafés mensuelle";
 "Monthly breakfast" = "Petit-déjeuner mensuel";
-"Gift Keka a breakfast each month" = "Offrez à Keka un petit-déjeunder mensuel";
+"Gift Keka a breakfast each month" = "Offrez à Keka un petit-déjeuner mensuel";
 "Tip a coffee" = "Tip a coffee";
 "Tip Keka a coffee so it can stay awake" = "Donnez à Keka un café afin qu'il puisse rester éveillé";
 "Tip a breakfast" = "Donnez un petit-déjeuner";
@@ -217,6 +217,6 @@ Note that the short string is limited to 30 characters and the long string is li
 "Tip a lunch" = "Donnez un déjeuner";
 "Tip Keka a lunch and feed it" = "Donnez à Keka un déjeuner et nourrissez-le";
 "Tip a dinner" = "Donnez un dîner";
-"Tip Keka a dinner so it keeps rolling" = "Donnez à Keka un dîner pour qu'il continue de rouler";
+"Tip Keka a dinner so it keeps rolling" = "Donnez à Keka un dîner pour qu'il puisse avancer";
 "Tip a bunch of food" = "Donnez un tas de nourriture";
-"Tip Keka a new bunch of food to keep rolling" = "Donnez à Keka un nouveau tas de nourriture pour qu'il continue de rouler";
+"Tip Keka a new bunch of food to keep rolling" = "Donnez à Keka un tas de nourriture pour qu'il puisse avancer";
