@@ -1,4 +1,4 @@
-
+﻿
 /* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
 "159.title" = "默认压缩格式：";
 
@@ -71,24 +71,6 @@
 /* Class = "NSMenuItem"; title = "Custom name..."; ObjectID = "287"; */
 "287.title" = "自定名称…";
 
-/* Class = "NSToolbarItem"; label = "Compression"; ObjectID = "333"; */
-"333.label" = "压缩";
-
-/* Class = "NSToolbarItem"; paletteLabel = "Compression"; ObjectID = "333"; */
-"333.paletteLabel" = "压缩";
-
-/* Class = "NSToolbarItem"; label = "General"; ObjectID = "334"; */
-"334.label" = "通用";
-
-/* Class = "NSToolbarItem"; paletteLabel = "General"; ObjectID = "334"; */
-"334.paletteLabel" = "通用";
-
-/* Class = "NSToolbarItem"; label = "Extraction"; ObjectID = "338"; */
-"338.label" = "解压";
-
-/* Class = "NSToolbarItem"; paletteLabel = "Extraction"; ObjectID = "338"; */
-"338.paletteLabel" = "解压";
-
 /* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "357"; */
 "357.title" = "每次都询问";
 
@@ -134,20 +116,8 @@
 /* Class = "NSButtonCell"; title = "Show icon in primary item"; ObjectID = "47Y-rt-2fG"; */
 "47Y-rt-2fG.title" = "在主项目中显示图标";
 
-/* Class = "NSToolbarItem"; label = "Performance"; ObjectID = "4Uu-Uh-Sxc"; */
-"4Uu-Uh-Sxc.label" = "性能";
-
-/* Class = "NSToolbarItem"; paletteLabel = "Performance"; ObjectID = "4Uu-Uh-Sxc"; */
-"4Uu-Uh-Sxc.paletteLabel" = "性能";
-
 /* Class = "NSTextFieldCell"; title = "You can also customize the access below:"; ObjectID = "5B7-Sc-wp0"; */
 "5B7-Sc-wp0.title" = "您还可以在下面自定义访问权限：";
-
-/* Class = "NSToolbarItem"; label = "File Access"; ObjectID = "5eC-d6-04X"; */
-"5eC-d6-04X.label" = "文件访问权限";
-
-/* Class = "NSToolbarItem"; paletteLabel = "File Access"; ObjectID = "5eC-d6-04X"; */
-"5eC-d6-04X.paletteLabel" = "文件访问权限";
 
 /* Class = "NSButtonCell"; title = "Automatically check for updates"; ObjectID = "63y-ct-DNM"; */
 "63y-ct-DNM.title" = "自动检查更新";
@@ -221,12 +191,6 @@
 /* Class = "NSButtonCell"; title = "Remove bad password header structure extractions"; ObjectID = "Wd0-yz-M1h"; */
 "Wd0-yz-M1h.title" = "删除解压中错误的密码头结构";
 
-/* Class = "NSToolbarItem"; label = "Love"; ObjectID = "XKE-wc-exs"; */
-"XKE-wc-exs.label" = "Love";
-
-/* Class = "NSToolbarItem"; paletteLabel = "Love"; ObjectID = "XKE-wc-exs"; */
-"XKE-wc-exs.paletteLabel" = "Love";
-
 /* Class = "NSMenuItem"; title = "Automatic"; ObjectID = "XOB-JO-UQT"; */
 "XOB-JO-UQT.title" = "自动";
 
@@ -265,12 +229,6 @@
 
 /* Class = "NSTextFieldCell"; title = "Queue extraction operations:"; ObjectID = "fhN-DK-edu"; */
 "fhN-DK-edu.title" = "队列解压操作：";
-
-/* Class = "NSToolbarItem"; label = "Finder Extension"; ObjectID = "gAn-CW-VVK"; */
-"gAn-CW-VVK.label" = "Finder 扩展";
-
-/* Class = "NSToolbarItem"; paletteLabel = "Finder Extension"; ObjectID = "gAn-CW-VVK"; */
-"gAn-CW-VVK.paletteLabel" = "Finder 扩展";
 
 /* Class = "NSTextFieldCell"; title = "Compressing a single file:"; ObjectID = "hLS-Ut-4fh"; */
 "hLS-Ut-4fh.title" = "压缩单个文件：";

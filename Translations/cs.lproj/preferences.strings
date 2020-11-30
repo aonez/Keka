@@ -1,4 +1,4 @@
-
+﻿
 /* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
 "159.title" = "Výchozí formát:";
 
@@ -71,24 +71,6 @@
 /* Class = "NSMenuItem"; title = "Custom name..."; ObjectID = "287"; */
 "287.title" = "Vlastní název...";
 
-/* Class = "NSToolbarItem"; label = "Compression"; ObjectID = "333"; */
-"333.label" = "Komprese";
-
-/* Class = "NSToolbarItem"; paletteLabel = "Compression"; ObjectID = "333"; */
-"333.paletteLabel" = "Komprese";
-
-/* Class = "NSToolbarItem"; label = "General"; ObjectID = "334"; */
-"334.label" = "Obecné";
-
-/* Class = "NSToolbarItem"; paletteLabel = "General"; ObjectID = "334"; */
-"334.paletteLabel" = "Obecné";
-
-/* Class = "NSToolbarItem"; label = "Extraction"; ObjectID = "338"; */
-"338.label" = "Rozbalování";
-
-/* Class = "NSToolbarItem"; paletteLabel = "Extraction"; ObjectID = "338"; */
-"338.paletteLabel" = "Rozbalování";
-
 /* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "357"; */
 "357.title" = "Pokaždé se zeptat";
 
@@ -134,20 +116,8 @@
 /* Class = "NSButtonCell"; title = "Show icon in primary item"; ObjectID = "47Y-rt-2fG"; */
 "47Y-rt-2fG.title" = "V primární položce zobrazit ikonu";
 
-/* Class = "NSToolbarItem"; label = "Performance"; ObjectID = "4Uu-Uh-Sxc"; */
-"4Uu-Uh-Sxc.label" = "Výkon";
-
-/* Class = "NSToolbarItem"; paletteLabel = "Performance"; ObjectID = "4Uu-Uh-Sxc"; */
-"4Uu-Uh-Sxc.paletteLabel" = "Výkon";
-
 /* Class = "NSTextFieldCell"; title = "You can also customize the access below:"; ObjectID = "5B7-Sc-wp0"; */
 "5B7-Sc-wp0.title" = "Další složky, ke kterým má Keka přístup:"; 
-
-/* Class = "NSToolbarItem"; label = "File Access"; ObjectID = "5eC-d6-04X"; */
-"5eC-d6-04X.label" = "Přístup k souborům";
-
-/* Class = "NSToolbarItem"; paletteLabel = "File Access"; ObjectID = "5eC-d6-04X"; */
-"5eC-d6-04X.paletteLabel" = "Přístup k souborům";
 
 /* Class = "NSButtonCell"; title = "Automatically check for updates"; ObjectID = "63y-ct-DNM"; */
 "63y-ct-DNM.title" = "Automaticky vyhledávat aktualizace";
@@ -221,12 +191,6 @@
 /* Class = "NSButtonCell"; title = "Remove bad password header structure extractions"; ObjectID = "Wd0-yz-M1h"; */
 "Wd0-yz-M1h.title" = "Odstranit nefunkční struktury hlaviček hesel";
 
-/* Class = "NSToolbarItem"; label = "Love"; ObjectID = "XKE-wc-exs"; */
-"XKE-wc-exs.label" = "Přispět";
-
-/* Class = "NSToolbarItem"; paletteLabel = "Love"; ObjectID = "XKE-wc-exs"; */
-"XKE-wc-exs.paletteLabel" = "Přispět";
-
 /* Class = "NSMenuItem"; title = "Automatic"; ObjectID = "XOB-JO-UQT"; */
 "XOB-JO-UQT.title" = "Automatické";
 
@@ -265,12 +229,6 @@
 
 /* Class = "NSTextFieldCell"; title = "Queue extraction operations:"; ObjectID = "fhN-DK-edu"; */
 "fhN-DK-edu.title" = "Řadit rozbalování do fronty:";
-
-/* Class = "NSToolbarItem"; label = "Finder Extension"; ObjectID = "gAn-CW-VVK"; */
-"gAn-CW-VVK.label" = "Rozšíření Finderu";
-
-/* Class = "NSToolbarItem"; paletteLabel = "Finder Extension"; ObjectID = "gAn-CW-VVK"; */
-"gAn-CW-VVK.paletteLabel" = "Rozšíření Finderu";
 
 /* Class = "NSTextFieldCell"; title = "Compressing a single file:"; ObjectID = "hLS-Ut-4fh"; */
 "hLS-Ut-4fh.title" = "Komprimování jednoho souboru:";
