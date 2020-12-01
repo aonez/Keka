@@ -1,4 +1,4 @@
-
+﻿
 /* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
 "159.title" = "Format per defecte:";
 
@@ -71,24 +71,6 @@
 /* Class = "NSMenuItem"; title = "Custom name..."; ObjectID = "287"; */
 "287.title" = "Nom personalitzat...";
 
-/* Class = "NSToolbarItem"; label = "Compression"; ObjectID = "333"; */
-"333.label" = "Compressió";
-
-/* Class = "NSToolbarItem"; paletteLabel = "Compression"; ObjectID = "333"; */
-"333.paletteLabel" = "Compressió";
-
-/* Class = "NSToolbarItem"; label = "General"; ObjectID = "334"; */
-"334.label" = "General";
-
-/* Class = "NSToolbarItem"; paletteLabel = "General"; ObjectID = "334"; */
-"334.paletteLabel" = "General";
-
-/* Class = "NSToolbarItem"; label = "Extraction"; ObjectID = "338"; */
-"338.label" = "Extracció";
-
-/* Class = "NSToolbarItem"; paletteLabel = "Extraction"; ObjectID = "338"; */
-"338.paletteLabel" = "Extracció";
-
 /* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "357"; */
 "357.title" = "Demana-ho sempre";
 
@@ -134,20 +116,8 @@
 /* Class = "NSButtonCell"; title = "Show icon in primary item"; ObjectID = "47Y-rt-2fG"; */
 "47Y-rt-2fG.title" = "Mostrar una icona en el primer element";
 
-/* Class = "NSToolbarItem"; label = "Performance"; ObjectID = "4Uu-Uh-Sxc"; */
-"4Uu-Uh-Sxc.label" = "Rendiment";
-
-/* Class = "NSToolbarItem"; paletteLabel = "Performance"; ObjectID = "4Uu-Uh-Sxc"; */
-"4Uu-Uh-Sxc.paletteLabel" = "Rendiment";
-
 /* Class = "NSTextFieldCell"; title = "You can also customize the access below:"; ObjectID = "5B7-Sc-wp0"; */
 "5B7-Sc-wp0.title" = "Pots personalitzar l'accés fent servir la llista següent:";
-
-/* Class = "NSToolbarItem"; label = "File Access"; ObjectID = "5eC-d6-04X"; */
-"5eC-d6-04X.label" = "Accés a fitxers";
-
-/* Class = "NSToolbarItem"; paletteLabel = "File Access"; ObjectID = "5eC-d6-04X"; */
-"5eC-d6-04X.paletteLabel" = "Accés a fitxers";
 
 /* Class = "NSButtonCell"; title = "Automatically check for updates"; ObjectID = "63y-ct-DNM"; */
 "63y-ct-DNM.title" = "Comprova si hi ha actualitzacions automàticament";
@@ -221,12 +191,6 @@
 /* Class = "NSButtonCell"; title = "Remove bad password header structure extractions"; ObjectID = "Wd0-yz-M1h"; */
 "Wd0-yz-M1h.title" = "Eliminar el contingut de les extraccións amb contrasenya incorrecta";
 
-/* Class = "NSToolbarItem"; label = "Love"; ObjectID = "XKE-wc-exs"; */
-"XKE-wc-exs.label" = "Suport";
-
-/* Class = "NSToolbarItem"; paletteLabel = "Love"; ObjectID = "XKE-wc-exs"; */
-"XKE-wc-exs.paletteLabel" = "Suport";
-
 /* Class = "NSMenuItem"; title = "Automatic"; ObjectID = "XOB-JO-UQT"; */
 "XOB-JO-UQT.title" = "Automàticament";
 
@@ -265,12 +229,6 @@
 
 /* Class = "NSTextFieldCell"; title = "Queue extraction operations:"; ObjectID = "fhN-DK-edu"; */
 "fhN-DK-edu.title" = "Cua d'extracció:";
-
-/* Class = "NSToolbarItem"; label = "Finder Extension"; ObjectID = "gAn-CW-VVK"; */
-"gAn-CW-VVK.label" = "Extensió del Finder";
-
-/* Class = "NSToolbarItem"; paletteLabel = "Finder Extension"; ObjectID = "gAn-CW-VVK"; */
-"gAn-CW-VVK.paletteLabel" = "Extensió del Finder";
 
 /* Class = "NSTextFieldCell"; title = "Compressing a single file:"; ObjectID = "hLS-Ut-4fh"; */
 "hLS-Ut-4fh.title" = "Compressió d'un sol fitxer:";

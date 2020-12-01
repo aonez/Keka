@@ -3,6 +3,11 @@
 "_ADVANCED_EXTRA_WIDTH_" = "10.0";
 /* Use the _PREFERENCES_EXTRA_WIDTH_ (if needed) to fit the action to perform description properly */
 "_PREFERENCES_EXTRA_WIDTH_" = "0.0";
+"General" = "Général";
+"File Access" = "Accès Fichiers";
+"Performance" = "Performance";
+"Finder Extension" = "Extension Finder";
+"Love" = "Amour";
 "OK" = "OK";
 "Done" = "Terminé";
 "Yes" = "Oui";

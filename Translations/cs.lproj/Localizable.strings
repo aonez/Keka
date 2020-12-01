@@ -3,6 +3,11 @@
 "_ADVANCED_EXTRA_WIDTH_" = "75.0";
 /* Use the _PREFERENCES_EXTRA_WIDTH_ (if needed) to fit the action to perform description properly */
 "_PREFERENCES_EXTRA_WIDTH_" = "0.0";
+"General" = "Obecné";
+"File Access" = "Přístup k souborům";
+"Performance" = "Výkon";
+"Finder Extension" = "Rozšíření Finderu";
+"Love" = "Přispět";
 "OK" = "OK";
 "Done" = "Hotovo";
 "Yes" = "Ano";

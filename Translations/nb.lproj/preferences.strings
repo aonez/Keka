@@ -1,4 +1,4 @@
-
+﻿
 /* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
 "159.title" = "Standardformat:";
 
@@ -71,24 +71,6 @@
 /* Class = "NSMenuItem"; title = "Custom name..."; ObjectID = "287"; */
 "287.title" = "Egendefinert navn...";
 
-/* Class = "NSToolbarItem"; label = "Compression"; ObjectID = "333"; */
-"333.label" = "Komprimering";
-
-/* Class = "NSToolbarItem"; paletteLabel = "Compression"; ObjectID = "333"; */
-"333.paletteLabel" = "Komprimering";
-
-/* Class = "NSToolbarItem"; label = "General"; ObjectID = "334"; */
-"334.label" = "Generelt";
-
-/* Class = "NSToolbarItem"; paletteLabel = "General"; ObjectID = "334"; */
-"334.paletteLabel" = "Generelt";
-
-/* Class = "NSToolbarItem"; label = "Extraction"; ObjectID = "338"; */
-"338.label" = "Utpakking";
-
-/* Class = "NSToolbarItem"; paletteLabel = "Extraction"; ObjectID = "338"; */
-"338.paletteLabel" = "Utpakking";
-
 /* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "357"; */
 "357.title" = "Spør hver gang";
 
@@ -134,20 +116,8 @@
 /* Class = "NSButtonCell"; title = "Show icon in primary item"; ObjectID = "47Y-rt-2fG"; */
 "47Y-rt-2fG.title" = "Vis ikon i primært element";
 
-/* Class = "NSToolbarItem"; label = "Performance"; ObjectID = "4Uu-Uh-Sxc"; */
-"4Uu-Uh-Sxc.label" = "Ytelse";
-
-/* Class = "NSToolbarItem"; paletteLabel = "Performance"; ObjectID = "4Uu-Uh-Sxc"; */
-"4Uu-Uh-Sxc.paletteLabel" = "Ytelse";
-
 /* Class = "NSTextFieldCell"; title = "You can also customize the access below:"; ObjectID = "5B7-Sc-wp0"; */
 "5B7-Sc-wp0.title" = "Du kan også tilpasse tilgang under:";
-
-/* Class = "NSToolbarItem"; label = "File Access"; ObjectID = "5eC-d6-04X"; */
-"5eC-d6-04X.label" = "Filtilgang";
-
-/* Class = "NSToolbarItem"; paletteLabel = "File Access"; ObjectID = "5eC-d6-04X"; */
-"5eC-d6-04X.paletteLabel" = "Filtilgang";
 
 /* Class = "NSButtonCell"; title = "Automatically check for updates"; ObjectID = "63y-ct-DNM"; */
 "63y-ct-DNM.title" = "Sjekk etter oppdateringer automatisk";
@@ -221,12 +191,6 @@
 /* Class = "NSButtonCell"; title = "Remove bad password header structure extractions"; ObjectID = "Wd0-yz-M1h"; */
 "Wd0-yz-M1h.title" = "Fjern dårlige passordheaderstrukturer under utpakking";
 
-/* Class = "NSToolbarItem"; label = "Love"; ObjectID = "XKE-wc-exs"; */
-"XKE-wc-exs.label" = "Kjærlighet";
-
-/* Class = "NSToolbarItem"; paletteLabel = "Love"; ObjectID = "XKE-wc-exs"; */
-"XKE-wc-exs.paletteLabel" = "Kjærlighet";
-
 /* Class = "NSMenuItem"; title = "Automatic"; ObjectID = "XOB-JO-UQT"; */
 "XOB-JO-UQT.title" = "Automatisk";
 
@@ -265,12 +229,6 @@
 
 /* Class = "NSTextFieldCell"; title = "Queue extraction operations:"; ObjectID = "fhN-DK-edu"; */
 "fhN-DK-edu.title" = "Kø for utpakkingsoperasjoner:";
-
-/* Class = "NSToolbarItem"; label = "Finder Extension"; ObjectID = "gAn-CW-VVK"; */
-"gAn-CW-VVK.label" = "Finder-utvidelse";
-
-/* Class = "NSToolbarItem"; paletteLabel = "Finder Extension"; ObjectID = "gAn-CW-VVK"; */
-"gAn-CW-VVK.paletteLabel" = "Finder-utvidelse";
 
 /* Class = "NSTextFieldCell"; title = "Compressing a single file:"; ObjectID = "hLS-Ut-4fh"; */
 "hLS-Ut-4fh.title" = "Komprimerer én fil:";
