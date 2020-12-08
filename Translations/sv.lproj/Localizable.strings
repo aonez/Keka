@@ -156,6 +156,10 @@
 "Full Mac access (Recommended)" = "Fullständig Mac-åtkomst (Rekommenderas)";
 "Home folder access" = "Åtkomst till hemmapp";
 "External volumes access" = "Åtkomst till externa volymer";
+"Full Mac" = "Full Mac";
+"Home folder" = "Home folder";
+"External volumes" = "External volumes";
+"Show in context menu" = "Show in context menu";
 "External disk: %@" = "Extern disk: %@";
 "An extension is required" = "Ett tillägg krävs";
 "In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "Du behöver installera ett tillägg för att ställa in Leka som standardprogram. Klicka på \"Mer information\" och följ instruktionerna.\n\nKom ihåg att du alltid kan ställa in Keka som standardprogram för valfria format med \"Visa info\"-panelen i Finder.";

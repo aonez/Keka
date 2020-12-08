@@ -156,6 +156,10 @@
 "Full Mac access (Recommended)" = "Mac 전체 접근 권한 (권장)";
 "Home folder access" = "홈 폴더 접근 권한";
 "External volumes access" = "외장 볼륨 접근 권한";
+"Full Mac" = "Full Mac";
+"Home folder" = "Home folder";
+"External volumes" = "External volumes";
+"Show in context menu" = "Show in context menu";
 "External disk: %@" = "외장 디스크: %@";
 "An extension is required" = "확장 프로그램 필요";
 "In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "Keka를 기본 프로그램으로 설정하기 위해서는 확장 프로그램이 필요합니다. \"More information\"를 클릭하여 필요한 순서를 따르세요.\n\n혹은 Finder의 \"Get Info\" 패널을 통해서도 Keka를 해당 파일 형식의 기본 프로그램으로 설정할 수 있습니다.";

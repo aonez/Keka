@@ -156,6 +156,10 @@
 "Full Mac access (Recommended)" = "完全的访问权限（推荐）";
 "Home folder access" = "主文件夹访问权限";
 "External volumes access" = "外部卷访问权限";
+"Full Mac" = "Full Mac";
+"Home folder" = "Home folder";
+"External volumes" = "External volumes";
+"Show in context menu" = "Show in context menu";
 "External disk: %@" = "外部磁盘：%@";
 "An extension is required" = "需要扩展";
 "In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "要将 Keka 设置为默认应用程序，您需要安装扩展。点击“更多信息”根据所需步骤操作。\n\n请记住，任何时候您都可以通过 Finder 中的“显示简介”面板将 Keka 设置为任何压缩文件格式的默认应用程序。";

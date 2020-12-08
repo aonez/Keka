@@ -156,6 +156,10 @@
 "Full Mac access (Recommended)" = "Teljes hozzáférés a Mac-hez (Javasolt)";
 "Home folder access" = "Kezdőmappához való hozzáférés";
 "External volumes access" = "Külső kötethez való hozzáférés";
+"Full Mac" = "Full Mac";
+"Home folder" = "Home folder";
+"External volumes" = "External volumes";
+"Show in context menu" = "Show in context menu";
 "External disk: %@" = "Külső lemez: %@";
 "An extension is required" = "Egy bővítmény szükséges";
 "In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "Bővítményre van szükség ahhoz, hogy a Keka-t alapértelmezett programként beállíthasd. Az ehhez szükséges lépésekért kattints a \"More information\"-ra.\n\nNe feledd, hogy a Keka-t bármikor beállíthatod alapértelmezett programként bármilyen fájlformátumra a Finder-ben a \"Get Info\" panel segítségével.";
