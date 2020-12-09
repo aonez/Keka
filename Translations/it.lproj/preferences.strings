@@ -237,7 +237,7 @@
 "hp7-jO-HeV.title" = "Utilizza AES-256 durante la codifica dei file ZIP (meno compatibile)";
 
 /* Class = "NSTextFieldCell"; title = "You can customize where to show the contextual menu below:"; ObjectID = "izC-0G-lvl"; */
-"izC-0G-lvl.title" = "You can customize where to show the contextual menu below:";
+"izC-0G-lvl.title" = "Puoi personalizzare dove mostrare il menu contestuale utilizzando questo elenco:";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous operations:"; ObjectID = "o8J-bR-bs6"; */
 "o8J-bR-bs6.title" = "Operazioni simultanee massime:";
