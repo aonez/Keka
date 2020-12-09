@@ -156,6 +156,10 @@
 "Full Mac access (Recommended)" = "Πλήρη άδεια πρόσβασης στο Mac (Συνιστάται)";
 "Home folder access" = "Αδεια πρόσβασης στο Home φάκελο";
 "External volumes access" = "Πρόσβαση εξωτερικών τόμων";
+"Full Mac" = "Full Mac";
+"Home folder" = "Home folder";
+"External volumes" = "External volumes";
+"Show in context menu" = "Show in context menu";
 "External disk: %@" = "Εξωτερικός δίσκος: %@";
 "An extension is required" = "Απαιτείται ένα πρόσθετο";
 "In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "Για να ορίσετε ώς προεπιλεγμένη την εφαρμογή Keka, χρειάζεται να εγκαταστήσετε ένα πρόσθετο. Κάντε κλίκ στο \"Περισσότερες πληροφορίες\" και ακολουθήστε τις οδηγίες.\n\nΣας υπενθυμίζεται πως μπορείτε πάντοτε να ορίσετε το Keka ώς την προεπιλεγμένη / βασική (default) εφαρμογή για οποιοδήποτε τύπο αρχείου χρησιμοποιώντας την επιλογή της καρτέλας \"Get Info\" του Finder.";

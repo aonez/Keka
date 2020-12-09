@@ -156,6 +156,10 @@
 "Full Mac access (Recommended)" = "Plný přístup k disku (doporučujemes)";
 "Home folder access" = "Přístup k domovské složce";
 "External volumes access" = "Přístup k externím svazkům";
+"Full Mac" = "Full Mac";
+"Home folder" = "Home folder";
+"External volumes" = "External volumes";
+"Show in context menu" = "Show in context menu";
 "External disk: %@" = "Externí disk: %@";
 "An extension is required" = "Je třeba nainstalovat rozšíření";
 "In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "Abyste mohli nastavit Keku jako výchozí aplikaci, musíte napřed nainstalovat rozšíření. Klikněte na tlačítko \"Další informace\" a řiďte se pokyny na obrazovce.\n\nKeku můžete kdykoliv nastavit jako výchozí pro jakýkoliv formát skrze položku nabídky \"Informace\" ve Finderu";

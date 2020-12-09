@@ -156,6 +156,10 @@
 "Full Mac access (Recommended)" = "Tam Mac erişim izni ver (Önerilen)";
 "Home folder access" = "Ev klasörü erişim izni ver";
 "External volumes access" = "Harici birimlere erişim izni ver";
+"Full Mac" = "Full Mac";
+"Home folder" = "Home folder";
+"External volumes" = "External volumes";
+"Show in context menu" = "Show in context menu";
 "External disk: %@" = "Harici disk: %@";
 "An extension is required" = "Bir uzantı gerekli";
 "In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "Keka'yı varsayılan uygulama olarak ayarlamak için bir eklenti yüklemeniz gerekiyor. Gerekli adımları takip etmek için \"Daha fazla bilgi\" ye tıklayın.\n\nKeka'yi her zaman Finder'ın \"Bilgi Al\" panelini kullanarak herhangi bir format için varsayılan uygulama olarak ayarlayabileceğinizi unutmayın.";

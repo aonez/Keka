@@ -156,6 +156,10 @@
 "Full Mac access (Recommended)" = "Voller Mac-Zugriff (empfohlen)";
 "Home folder access" = "Zugriff auf den Benutzerordner";
 "External volumes access" = "Zugriff auf externe Speichermedien";
+"Full Mac" = "Full Mac";
+"Home folder" = "Home folder";
+"External volumes" = "External volumes";
+"Show in context menu" = "Show in context menu";
 "External disk: %@" = "Externes Speichermedium: %@";
 "An extension is required" = "Eine Erweiterung ist erforderlich";
 "In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "Um Keka als Standardanwendung festlegen zu können, muss eine Erweiterung installiert werden. Klicken Sie auf \"Weitere Informationen\", um die erforderlichen Schritte auszuführen. \n\nBeachten Sie, dass im Dialogfenster \"Informationen\" des Finder zu jeder Zeit Keka als Standardanwendung für ein Format festgelegt werden kann.";

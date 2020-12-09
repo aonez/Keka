@@ -173,6 +173,9 @@
 /* Class = "NSButtonCell"; title = "Inherit quarantine from downloaded files"; ObjectID = "KDR-ag-bll"; */
 "KDR-ag-bll.title" = "Eredita quarantine dai file scaricati";
 
+/* Class = "NSButtonCell"; title = "Show in external volumes"; ObjectID = "KOF-7X-bQo"; */
+"KOF-7X-bQo.title" = "Mostra in volumi esterni";
+
 /* Class = "NSTextFieldCell"; title = "Limit the number of threads per operation:"; ObjectID = "ND5-DN-C1H"; */
 "ND5-DN-C1H.title" = "Limita il numero di thread per operazione:";
 
@@ -215,9 +218,6 @@
 /* Class = "NSButtonCell"; title = "Maximum threads per operation:"; ObjectID = "cb7-h4-ScP"; */
 "cb7-h4-ScP.title" = "Numero massimo di thread per operazione:";
 
-/* Class = "NSButtonCell"; title = "Show in external volumes"; ObjectID = "d9P-v6-FAE"; */
-"d9P-v6-FAE.title" = "Mostra in volumi esterni";
-
 /* Class = "NSTextFieldCell"; title = "Compressing multiple files:"; ObjectID = "dhi-qv-weg"; */
 "dhi-qv-weg.title" = "Comprimere più file:";
 
@@ -235,6 +235,9 @@
 
 /* Class = "NSButtonCell"; title = "Use AES-256 when encrypting ZIP files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
 "hp7-jO-HeV.title" = "Utilizza AES-256 durante la codifica dei file ZIP (meno compatibile)";
+
+/* Class = "NSTextFieldCell"; title = "You can customize where to show the contextual menu below:"; ObjectID = "izC-0G-lvl"; */
+"izC-0G-lvl.title" = "Puoi personalizzare dove mostrare il menu contestuale utilizzando questo elenco:";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous operations:"; ObjectID = "o8J-bR-bs6"; */
 "o8J-bR-bs6.title" = "Operazioni simultanee massime:";
@@ -271,9 +274,6 @@
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous extractions:"; ObjectID = "yGo-Gm-0zq"; */
 "yGo-Gm-0zq.title" = "Estrazioni simultanee massime:";
-
-/* Class = "NSButtonCell"; title = "Only show if Keka has file access"; ObjectID = "zPT-vj-EVo"; */
-"zPT-vj-EVo.title" = "Mostra solo se Keka ha accesso ai file";
 
 /* Class = "NSTextFieldCell"; title = "Queuing usually results in faster operations and a more responsive behaviour."; ObjectID = "zPq-ei-qUb"; */
 "zPq-ei-qUb.title" = "L'accodamento di solito comporta operazioni più veloci e un comportamento più reattivo.";

@@ -156,6 +156,10 @@
 "Full Mac access (Recommended)" = "Повний доступ Mac (рекомендовано)";
 "Home folder access" = "Доступ до домашньої папки";
 "External volumes access" = "Доступ до зовнішніх томів";
+"Full Mac" = "Full Mac";
+"Home folder" = "Home folder";
+"External volumes" = "External volumes";
+"Show in context menu" = "Show in context menu";
 "External disk: %@" = "Зовнішній диск: %@";
 "An extension is required" = "Потрібно розширення";
 "In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "Щоб встановити програму Keka як програму за умовчанням, потрібно встановити розширення. Натисніть на \"Більше інформації\" щоб виконати необхідні кроки.\n\nПам'ятайте, що ви завжди можете встановити Keka як програму за замовчуванням для будь-якого формату за допомогою Finder, панель \"Отримати інформацію\".";
