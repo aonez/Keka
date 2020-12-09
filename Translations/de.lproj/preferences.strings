@@ -198,7 +198,7 @@
 "XOB-JO-UQT.title" = "Automatisch";
 
 /* Class = "NSButtonCell"; title = "Use BZIP2 compression in DMG files (better but slower)"; ObjectID = "Xoi-ui-e7P"; */
-"Xoi-ui-e7P.title" = "BZIP2-Komprimierung in DMG-Dateien verwenden (besser, aber langsamer";
+"Xoi-ui-e7P.title" = "BZIP2-Komprimierung in DMG-Dateien verwenden (besser, aber langsamer)";
 
 /* Class = "NSTextFieldCell"; title = "Enable full Mac access so Keka can be used on all your Mac."; ObjectID = "ZOx-vr-5o7"; */
 "ZOx-vr-5o7.title" = "Erlauben Sie den Zugriff auf Ihren gesamten Mac, falls Keka in jedem Ordner Ihres Macs arbeiten können soll.";
