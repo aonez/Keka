@@ -156,10 +156,10 @@
 "Full Mac access (Recommended)" = "Accès complet au Mac (Recommandé)";
 "Home folder access" = "Accès au dossier Départ";
 "External volumes access" = "Accès aux volumes externes";
-"Full Mac" = "Full Mac";
+"Full Mac" = "Tout le Mac";
 "Home folder" = "Dossier Départ";
 "External volumes" = "Volumes externes";
-"Show in context menu" = "Show in context menu";
+"Show in context menu" = "Afficher dans le menu contextuel";
 "External disk: %@" = "Disque externe: %@";
 "An extension is required" = "Une extension est nécessaire";
 "In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "Afin de définir Keka comme application par défaut, vous devez installer une extension. Cliquez sur \"Plus d'informations\" pour suivre les étapes nécessaires.\n\nSouvenez-vous que vous pouvez toujour définir Keka comme application par défaut pour n'importe quel format en utilisant la fenêtre du Finder \"Lire les informations\".";
