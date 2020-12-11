@@ -186,7 +186,7 @@
 "Give access to the compressed file" = "Udělit přístup ke komprimovanému souboru.";
 "The extension is enabled" = "Rozšíření je povoleno";
 "The extension is disabled" = "Rozšíření je zakázáno";
-"The extension status can't be determined" = "Nelze zjistit stav rozšíření";
+"Enable or disable the extension" = "Enable or disable the extension";
 "Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "Keka se rozhodne mezi komprimací a rozbalením podle formátu a přípony souboru. Doporučujeme.";
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka zkomprimuje všechny soubory, včetně už zkomprimovaných souborů. Soubory můžete znovu zkomprimovat přetažením do spodní částí Keky.";
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka se pokusí všechny soubory rozbalit. Soubory neznámeho typu můžete zkusit rozbalit přetažením do spodní části Keky.";
