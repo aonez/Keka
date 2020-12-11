@@ -142,7 +142,7 @@
 "Write error. No permission? No space left?" = "Errore di scrittura. Nessun permesso? Niente spazio libero?";
 "Can't open the file, maybe it's not accessible" = "Impossibile aprire il file, forse non è accessibile";
 "No files matching the mask" = "Nessun file corrispondente alla maschera";
-"There were some read errors" = "There were some read errors";
+"There were some read errors" = "Si sono verificati alcuni errori di lettura";
 "Give access" = "Consenti l'accesso";
 "Just folder access" = "Solo accesso alla cartella";
 "Quit" = "Esci";
