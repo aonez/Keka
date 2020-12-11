@@ -142,6 +142,7 @@
 "Write error. No permission? No space left?" = "寫入錯誤。您可能沒有權限，或是儲存空間不足。";
 "Can't open the file, maybe it's not accessible" = "無法打開檔案，可能無法存取";
 "No files matching the mask" = "沒有相符遮罩的檔案";
+"There were some read errors" = "There were some read errors";
 "Give access" = "Give access";
 "Just folder access" = "Just folder access";
 "Quit" = "Quit";

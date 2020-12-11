@@ -142,6 +142,7 @@
 "Write error. No permission? No space left?" = "Schrijffout. Onvoldoende rechten? Onvoldoende schrijfruimte over?";
 "Can't open the file, maybe it's not accessible" = "Kan het bestand niet openen, misschien is het niet toegankelijk";
 "No files matching the mask" = "Geen bestanden die voldoen aan de filter";
+"There were some read errors" = "There were some read errors";
 "Give access" = "Give access";
 "Just folder access" = "Just folder access";
 "Quit" = "Quit";

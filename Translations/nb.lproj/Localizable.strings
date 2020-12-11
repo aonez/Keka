@@ -142,6 +142,7 @@
 "Write error. No permission? No space left?" = "Feil under skriving. Ikke tillatelse? Ikke ledig diskplass?";
 "Can't open the file, maybe it's not accessible" = "Kan ikke åpne filen, den er kanskje ikke tilgjengelig";
 "No files matching the mask" = "Ingen filer matcher masken";
+"There were some read errors" = "There were some read errors";
 "Give access" = "Gi tilgang";
 "Just folder access" = "Bare mappetilgang";
 "Quit" = "Avslutt";

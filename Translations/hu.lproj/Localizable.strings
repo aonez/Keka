@@ -142,6 +142,7 @@
 "Write error. No permission? No space left?" = "Írási hiba. Nincs jogosultság? Nincs több hely?";
 "Can't open the file, maybe it's not accessible" = "A fájl nem nyitható meg, talán nem elérhető";
 "No files matching the mask" = "Nem található a feltételnek megfelelő fájl";
+"There were some read errors" = "There were some read errors";
 "Give access" = "Engedélyezd";
 "Just folder access" = "Csak a mappához való hozzáférés";
 "Quit" = "Kilépés";

@@ -142,6 +142,7 @@
 "Write error. No permission? No space left?" = "Σφάλμα εγγραφής. Μη εξουσιοδότηση? Γεμάτο αποθηκευτικό μέσο?";
 "Can't open the file, maybe it's not accessible" = "Το αρχείο δεν ανοίγει, πιθανά δεν είναι προσβάσιμο";
 "No files matching the mask" = "Δε βρέθηκαν αρχεία που ταιριάζουν με το φίλτρο σας";
+"There were some read errors" = "There were some read errors";
 "Give access" = "Δώσε πρόσβαση";
 "Just folder access" = "Μόνο πρόσβαση φακέλου";
 "Quit" = "Εξοδος";

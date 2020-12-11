@@ -142,6 +142,7 @@
 "Write error. No permission? No space left?" = "쓰기 오류. 권한이 없거나 디스크에 용량이 없습니다.";
 "Can't open the file, maybe it's not accessible" = "파일을 열 수 없거나 파일에 접속할 수 없습니다.";
 "No files matching the mask" = "마스크와 일치하는 파일들이 없습니다.";
+"There were some read errors" = "There were some read errors";
 "Give access" = "권한 허용";
 "Just folder access" = "폴더 접근 권한만 허용";
 "Quit" = "종료";

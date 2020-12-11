@@ -142,6 +142,7 @@
 "Write error. No permission? No space left?" = "Chyba při zápisu. Možná nemáte potřebná oprávnění, nebo je disk plný";
 "Can't open the file, maybe it's not accessible" = "Soubor nelze otevřít, možná není přístupný";
 "No files matching the mask" = "Žádné soubory se s maskou neshodují";
+"There were some read errors" = "There were some read errors";
 "Give access" = "Udělit přístup";
 "Just folder access" = "Jen přístup ke složce";
 "Quit" = "Ukončit";

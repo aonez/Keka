@@ -142,6 +142,7 @@
 "Write error. No permission? No space left?" = "Error de escritura. Quizá no tengas permisos de escritura o tu disco esté lleno";
 "Can't open the file, maybe it's not accessible" = "No se puede abrir el archivo, quizá esté inaccesible o no tengas permisos de lectura";
 "No files matching the mask" = "No coincide ninguna de los filtros";
+"There were some read errors" = "Han ocurrido errores de lectura";
 "Give access" = "Dar acceso";
 "Just folder access" = "Sólo acceso a la carpeta";
 "Quit" = "Salir";

@@ -142,6 +142,7 @@
 "Write error. No permission? No space left?" = "Ошибка записи. Нет прав на запись? Нет места на диске?";
 "Can't open the file, maybe it's not accessible" = "Невозможно открыть файл. Вероятно, он недоступен";
 "No files matching the mask" = "Нет файлов, отвечающих маске запроса";
+"There were some read errors" = "There were some read errors";
 "Give access" = "Дать доступ";
 "Just folder access" = "Только доступ к папке";
 "Quit" = "Выход";

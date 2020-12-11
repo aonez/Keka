@@ -142,6 +142,7 @@
 "Write error. No permission? No space left?" = "Грешка при записа. Няма разрешение? Няма свободно място?";
 "Can't open the file, maybe it's not accessible" = "Не може да се отвори файла, може би не е достъпен";
 "No files matching the mask" = "Няма файлове отговарящи на маската";
+"There were some read errors" = "There were some read errors";
 "Give access" = "Позволи достъп";
 "Just folder access" = "Just folder access";
 "Quit" = "Излез";

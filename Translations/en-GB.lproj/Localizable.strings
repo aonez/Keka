@@ -142,6 +142,7 @@
 "Write error. No permission? No space left?" = "Write error. No permission? No space left?";
 "Can't open the file, maybe it's not accessible" = "Can't open the file, maybe it's not accessible";
 "No files matching the mask" = "No files matching the mask";
+"There were some read errors" = "There were some read errors";
 "Give access" = "Give access";
 "Just folder access" = "Just folder access";
 "Quit" = "Quit";

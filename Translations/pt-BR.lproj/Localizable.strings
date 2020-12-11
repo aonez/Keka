@@ -142,6 +142,7 @@
 "Write error. No permission? No space left?" = "Erro de gravação. Sem permissão? Sem espaço livre?";
 "Can't open the file, maybe it's not accessible" = "Impossível abrir o arquivo, talvez ele esteja inacessível";
 "No files matching the mask" = "Nenhum arquivo corresponde aos filtros";
+"There were some read errors" = "There were some read errors";
 "Give access" = "Conceder Acesso";
 "Just folder access" = "Apenas Acesso à Pasta";
 "Quit" = "Encerrar";
