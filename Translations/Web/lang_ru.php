@@ -57,8 +57,8 @@ $content_info_compression = "Keka может создавать файлы эт�
 $content_info_extraction = "И распаковывать эти форматы:";
 
 // Default app
-$content_defaultapp_title = "Set Keka as the default extraction application";
-$content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">needs a helper <i class="far fa-question-circle"></i></a> to set itself as the default application.<br />Simply download and extract it, move it to the desktop and then open it.';
+$content_defaultapp_title = "Установить Keka в качестве приложения для извлечения по умолчанию";
+$content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">нужен помощник <i class="far fa-question-circle"></i></a>, чтобы установить себя в качестве приложения по умолчанию.<br />Просто скачайте и распакуйте его, переместите на рабочий стол и затем откройте.';
 
 // Privacy Policy
 $content_privacypolicy_title = 'Политика конфиденциальности';
