@@ -142,6 +142,7 @@
 "Write error. No permission? No space left?" = "Lỗi ghi dữ liệu. Không có quyền truy cập? Không còn chỗ trống?";
 "Can't open the file, maybe it's not accessible" = "Không thể mở tập tin, có thể tập tin không truy cập được";
 "No files matching the mask" = "Không có tập tin phù hợp với đánh dấu";
+"There were some read errors" = "There were some read errors";
 "Give access" = "Cho phép truy cập";
 "Just folder access" = "Chỉ truy cập thư mục";
 "Quit" = "Thoát";
@@ -185,7 +186,7 @@
 "Give access to the compressed file" = "Give access to the compressed file";
 "The extension is enabled" = "The extension is enabled";
 "The extension is disabled" = "The extension is disabled";
-"The extension status can't be determined" = "The extension status can't be determined";
+"Enable or disable the extension" = "Enable or disable the extension";
 "Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option.";
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone.";
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone.";

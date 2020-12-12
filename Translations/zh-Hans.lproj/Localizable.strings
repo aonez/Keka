@@ -142,6 +142,7 @@
 "Write error. No permission? No space left?" = "写入错误。没有权限？空间不足？";
 "Can't open the file, maybe it's not accessible" = "无法打开文件，可能它无法访问";
 "No files matching the mask" = "没有匹配掩码的文件";
+"There were some read errors" = "There were some read errors";
 "Give access" = "授予访问权限";
 "Just folder access" = "仅文件夹访问权限";
 "Quit" = "退出";
@@ -185,7 +186,7 @@
 "Give access to the compressed file" = "授权访问压缩文件";
 "The extension is enabled" = "扩展已启用";
 "The extension is disabled" = "扩展已禁用";
-"The extension status can't be determined" = "扩展状态未知";
+"Enable or disable the extension" = "Enable or disable the extension";
 "Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "Keka 将根据文件格式和扩展名决定执行压缩还是解压。这是推荐的选项。";
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka 将压缩所有文件，即使是已压缩的文件。您可以在自动模式下将已压缩的文件拖放到放置区的底部来压缩它。";
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka 将尝试解压所有文件。您可以尝试在自动模式下将文件拖放到放置区的底部来提取未知文件。";

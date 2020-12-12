@@ -142,6 +142,7 @@
 "Write error. No permission? No space left?" = "Erro de gravação. Sem permissão? Sem espaço livre?";
 "Can't open the file, maybe it's not accessible" = "Impossível abrir o arquivo, talvez ele esteja inacessível";
 "No files matching the mask" = "Nenhum arquivo corresponde aos filtros";
+"There were some read errors" = "There were some read errors";
 "Give access" = "Conceder Acesso";
 "Just folder access" = "Apenas Acesso à Pasta";
 "Quit" = "Encerrar";
@@ -185,7 +186,7 @@
 "Give access to the compressed file" = "Conceder Acesso ao Arquivo Comprimido";
 "The extension is enabled" = "A extensão está ativada";
 "The extension is disabled" = "A extensão está desativada";
-"The extension status can't be determined" = "Impossível determinar estado da extensão";
+"Enable or disable the extension" = "Enable or disable the extension";
 "Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "O Keka decidirá entre comprimir ou extrair com base no formato e extensão do arquivo. Esta é a opção recomendada.";
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "O Keka comprimirá todos os arquivos, até mesmo os já comprimidos. No modo automático, você pode soltar um arquivo já comprimido na parte inferior da área de operações para comprimi-lo.";
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "O Keka tentará extrair todos os arquivos comprimidos. No modo automático, você pode soltar um arquivo comprimido desconhecido na parte inferior da área de operações para extraí-lo.";

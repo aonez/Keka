@@ -142,6 +142,7 @@
 "Write error. No permission? No space left?" = "Помилка запису. Немає дозволу? Не залишилося місця?";
 "Can't open the file, maybe it's not accessible" = "Не вдається відкрити файл, можливо, він недоступний";
 "No files matching the mask" = "Немає файлів, що відповідають масці";
+"There were some read errors" = "There were some read errors";
 "Give access" = "Надати доступ";
 "Just folder access" = "Просто доступ до папки";
 "Quit" = "Вийти";
@@ -185,7 +186,7 @@
 "Give access to the compressed file" = "Give access to the compressed file";
 "The extension is enabled" = "The extension is enabled";
 "The extension is disabled" = "The extension is disabled";
-"The extension status can't be determined" = "The extension status can't be determined";
+"Enable or disable the extension" = "Enable or disable the extension";
 "Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option.";
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone.";
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone.";

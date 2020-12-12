@@ -142,6 +142,7 @@
 "Write error. No permission? No space left?" = "Ошибка записи. Нет прав на запись? Нет места на диске?";
 "Can't open the file, maybe it's not accessible" = "Невозможно открыть файл. Вероятно, он недоступен";
 "No files matching the mask" = "Нет файлов, отвечающих маске запроса";
+"There were some read errors" = "There were some read errors";
 "Give access" = "Дать доступ";
 "Just folder access" = "Только доступ к папке";
 "Quit" = "Выход";
@@ -185,7 +186,7 @@
 "Give access to the compressed file" = "Дать доступ к сжатому файлу";
 "The extension is enabled" = "Расширение включено";
 "The extension is disabled" = "Расширение отключено";
-"The extension status can't be determined" = "Невозможно определить статус расширения";
+"Enable or disable the extension" = "Enable or disable the extension";
 "Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "Keka сама определит, сжимать или распаковывать файлы, основываясь на формате и расширении файла. Это рекомендованный вариант.";
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka будет сжимать все файлы, даже те, которые уже сжаты. Вы можете сжать уже сжатый файл в автоматическом режиме, поместив его в нижнюю часть зоны для сброса файлов.";
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka попытается извлечь все файлы. Вы можете попытаться извлечь неизвестный файл в автоматическом режиме, поместив его в нижнюю часть зоны для сброса файлов.";
