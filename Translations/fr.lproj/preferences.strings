@@ -219,7 +219,7 @@
 "cb7-h4-ScP.title" = "Nombre maximum de fils par opération:";
 
 /* Class = "NSButtonCell"; title = "Checking the extension status"; ObjectID = "chn-AV-kXZ"; */
-"chn-AV-kXZ.title" = "Checking the extension status";
+"chn-AV-kXZ.title" = "Vérifier l'état de l'extension";
 
 /* Class = "NSTextFieldCell"; title = "Compressing multiple files:"; ObjectID = "dhi-qv-weg"; */
 "dhi-qv-weg.title" = "Compresser plusieurs fichiers:";
