@@ -228,7 +228,7 @@
 "eBj-1b-wBg.title" = "Изменить дату модификации папки на дату извлечения";
 
 /* Class = "NSButtonCell"; title = "Always tarball non-archiving formats (like GZ or BZIP2) "; ObjectID = "faa-9Y-Axk"; */
-"faa-9Y-Axk.title" = "Всегда создавать TAR[-файлы] для неархивирующих форматов (например, GZ или BZIP2) ";
+"faa-9Y-Axk.title" = "Всегда создавать TAR-файлы для неархивирующих форматов (например, GZ или BZIP2) ";
 
 /* Class = "NSTextFieldCell"; title = "Queue extraction operations:"; ObjectID = "fhN-DK-edu"; */
 "fhN-DK-edu.title" = "Очередь операций извлечения:";
