@@ -1,7 +1,7 @@
 "Open with Keka" = "Открыть с помощью Keka";
 "Compress here" = "Сжать здесь";
-"Compress at..." = "Compress at...";
+"Compress to..." = "Сжать в...";
 "Extract here" = "Извлечь сюда";
-"Extract at..." = "Извлечь в...";
+"Extract to..." = "Извлечь в...";
 "Extract to \"%@\"" = "Извлечь в \"%@\"";
 "Compress with Keka" = "Сжать с помощью Keka";
