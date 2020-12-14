@@ -201,7 +201,7 @@
 "You'll be asked where to extract each operation." = "每次询问解压操作。";
 "You'll be asked where to compress each operation." = "每次询问压缩操作。";
 "If Keka has File Access it will execute the operation near the source file/s, otherwise it will ask for a location. You can set Keka's File Access in the Preferences tab so this option works properly." = "如果 Keka 具有文件访问权限，它将在源文件所在目录执行操作，否则将询问指定位置。您可以在首选项中设置 Keka 的文件访问权限，以便该选项正常运行。";
-"Keka has no file access to the source folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka 对源文件夹没有文件访问权限，因此需要询问指定位置。\n您可以在 Keka 的首选项的文件访问中添加对此文件夹和其他文件夹的访问权限。";
+"Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka 对源文件夹没有文件访问权限，因此需要询问指定位置。\n您可以在 Keka 的首选项的文件访问中添加对此文件夹和其他文件夹的访问权限。";
 "The characters %@ are not compatible with the %@ format" = "字符 %@ 与 %@ 格式不兼容";
 "The character %@ is not compatible with the %@ format" = "字符 %@ 与 %@ 格式不兼容";
 

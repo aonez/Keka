@@ -201,7 +201,7 @@
 "You'll be asked where to extract each operation." = "Keka будет каждый раз спрашивать, куда сохранять извлечённые файлы.";
 "You'll be asked where to compress each operation." = "Keka будет каждый раз спрашивать, куда сохранять сжатые файлы.";
 "If Keka has File Access it will execute the operation near the source file/s, otherwise it will ask for a location. You can set Keka's File Access in the Preferences tab so this option works properly." = "Если Keka имеет право доступа к файлам, она выполнит операцию рядом с исходным файлом/файлами, в противном случае она запросит расположение. Вы можете настроить доступ в панели \"Доступ к файлам\" в настройках Keka, чтобы эта опция работала правильно.";
-"Keka has no file access to the source folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "У Keka нет доступа к файлам в исходной папке, поэтому ей нужно запросить расположение.\nВы можете добавить доступ к этой и другим папкам в панели \"Доступ к файлам\" в настройках Keka.";
+"Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "У Keka нет доступа к файлам в исходной папке, поэтому ей нужно запросить расположение.\nВы можете добавить доступ к этой и другим папкам в панели \"Доступ к файлам\" в настройках Keka.";
 "The characters %@ are not compatible with the %@ format" = "Символы %@ не совместимы с форматом %@";
 "The character %@ is not compatible with the %@ format" = "Символ %@ не совместим с форматом %@";
 
