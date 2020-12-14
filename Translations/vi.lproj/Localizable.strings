@@ -201,7 +201,7 @@
 "You'll be asked where to extract each operation." = "You'll be asked where to extract each operation.";
 "You'll be asked where to compress each operation." = "You'll be asked where to compress each operation.";
 "If Keka has File Access it will execute the operation near the source file/s, otherwise it will ask for a location. You can set Keka's File Access in the Preferences tab so this option works properly." = "If Keka has File Access it will execute the operation near the source file/s, otherwise it will ask for a location. You can set Keka's File Access in the Preferences tab so this option works properly.";
-"Keka has no file access to the source folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka has no file access to the source folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane.";
+"Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane.";
 "The characters %@ are not compatible with the %@ format" = "The characters %@ are not compatible with the %@ format";
 "The character %@ is not compatible with the %@ format" = "The character %@ is not compatible with the %@ format";
 

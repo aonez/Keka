@@ -201,7 +201,7 @@
 "You'll be asked where to extract each operation." = "Du blir spurt om hvor du ønsker å pakke ut hver operasjon.";
 "You'll be asked where to compress each operation." = "Du blir spurt om hvor du ønsker å komprimere hver operasjon.";
 "If Keka has File Access it will execute the operation near the source file/s, otherwise it will ask for a location. You can set Keka's File Access in the Preferences tab so this option works properly." = "Hvis Keka har filtilgang, vil operasjonen utføres i nærheten av kildefilen(e), ellers vil du bli spurt om plassering. Du kan sette Kekas filtilganger i Valg-panelet for å få dette til å fungere riktig.";
-"Keka has no file access to the source folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka har ikke filtilgang til kildemappen, derfor blir du spurt om plassering.\nDu kan legge til tilgang til denne og andre mapper i Filtilgang-panelet i Kekas Valg.";
+"Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka har ikke filtilgang til kildemappen, derfor blir du spurt om plassering.\nDu kan legge til tilgang til denne og andre mapper i Filtilgang-panelet i Kekas Valg.";
 "The characters %@ are not compatible with the %@ format" = "Tegnene %@ er ikke kompatible med formatet %@";
 "The character %@ is not compatible with the %@ format" = "Tegnet %@ er ikke kompatibelt med formatet %@";
 

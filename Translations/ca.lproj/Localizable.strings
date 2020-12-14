@@ -201,7 +201,7 @@
 "You'll be asked where to extract each operation." = "Es preguntarà on extreure cada operació.";
 "You'll be asked where to compress each operation." = "Es preguntarà on comprimir cada operació";
 "If Keka has File Access it will execute the operation near the source file/s, otherwise it will ask for a location. You can set Keka's File Access in the Preferences tab so this option works properly." = "Si el Keka té Accés a fitxers realitzarà l'operació al costat de l'original, en cas contrari preguntarà on realitzar l'operació. Pots donar Accés a fitxers al Keka en la Configuració per a que aquesta opció funcioni correctament.";
-"Keka has no file access to the source folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "El Keka no té accés a la carpeta principal i necessita preguntar on realitzar l'operació.\nPots donar accés a aquesta i altres carpetes en el panell d'Accés a Fitxers de la Configuració del Keka.";
+"Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "El Keka no té accés a la carpeta de destí i necessita preguntar on realitzar l'operació.\nPots donar accés a aquesta i altres carpetes en el panell d'Accés a Fitxers de la Configuració del Keka.";
 "The characters %@ are not compatible with the %@ format" = "Els caràcters %@ no són compatibles amb el format %@";
 "The character %@ is not compatible with the %@ format" = "El caràcter %@ no és compatible amb el format %@";
 
