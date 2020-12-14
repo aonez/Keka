@@ -101,7 +101,7 @@
 "Slowest, more compression" = "Найповільніше, більше стиснення";
 "Compression" = "Стиснення";
 "Extraction" = "Розпаковування";
-"Keka can't use the \"extlx.plist\" list, please get in contact with the developers.\n\nNow Keka will quit." = "Keka не може використовувати \"extlx.plist\" список, будь ласка зверніться до розробників.\n\nТепер Keka завершить роботу.";
+"Keka can't use the \"extlx.plist\" list, please get in contact with the developers.\n\nNow Keka will quit." = "Keka не може використовувати список \"extlx.plist\", будь ласка зверніться до розробників.\n\nТепер Keka завершить роботу.";
 "Keka is dying!" = "Keka вмирає!";
 "Ask each time" = "Запитувати кожен раз";
 "Next to original file" = "Поруч із оригінальним файлом";
@@ -201,7 +201,7 @@
 "You'll be asked where to extract each operation." = "Вас запитають, де розпакувати кожну операцію.";
 "You'll be asked where to compress each operation." = "Вас запитають, де стиснути кожну операцію.";
 "If Keka has File Access it will execute the operation near the source file/s, otherwise it will ask for a location. You can set Keka's File Access in the Preferences tab so this option works properly." = "Якщо Keka має доступ до файлів, він виконає операцію поблизу вихідних файлів, інакше запитає місцезнаходження. Ви можете встановити Кека на доступ до файлів на вкладці Налаштування, щоб цей параметр працював належним чином.";
-"Keka has no file access to the source folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka не має доступу до файлу до вихідної папки, тому йому потрібно запитати місце розташування. \nВи можете додати доступ до цієї та інших папок на панелі доступу Keka до файлів "Налаштування".";
+"Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka не має доступу до файлу цільової папки, тому йому потрібно запитати місце розташування. \nВи можете додати доступ до цієї та інших папок на панелі доступу Keka до файлів "Налаштування".";
 "The characters %@ are not compatible with the %@ format" = "Символи %@ не сумісні з форматом %@";
 "The character %@ is not compatible with the %@ format" = "Символ %@ не сумісний із форматом %@";
 
