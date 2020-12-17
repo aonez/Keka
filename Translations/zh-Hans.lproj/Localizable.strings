@@ -164,6 +164,8 @@
 "External disk: %@" = "外部磁盘：%@";
 "An extension is required" = "需要扩展";
 "In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "要将 Keka 设置为默认应用程序，您需要安装扩展。点击“更多信息”根据所需步骤操作。\n\n请记住，任何时候您都可以通过 Finder 中的“显示简介”面板将 Keka 设置为任何压缩文件格式的默认应用程序。";
+"Your installed extension is obsolete and you should update it." = "Your installed extension is obsolete and you should update it.";
+"Update" = "Update";
 "Cannot set Keka as default" = "无法将 Keka 设置为默认应用程序";
 "The intermediate application failed to launch. There is more information in the Console.app." = "中间应用程序无法启动。请在控制台中查看详情。";
 "The intermediate application returned an undefined code." = "中间应用程序返回了一个未定义的代码。";
