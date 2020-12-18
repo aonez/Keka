@@ -164,6 +164,8 @@
 "External disk: %@" = "Зовнішній диск: %@";
 "An extension is required" = "Потрібно розширення";
 "In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "Щоб встановити програму Keka як програму за умовчанням, потрібно встановити розширення. Натисніть на \"Більше інформації\" щоб виконати необхідні кроки.\n\nПам'ятайте, що ви завжди можете встановити Keka як програму за замовчуванням для будь-якого формату за допомогою Finder, панель \"Отримати інформацію\".";
+"Your installed extension is obsolete and you should update it." = "Your installed extension is obsolete and you should update it.";
+"Update" = "Update";
 "Cannot set Keka as default" = "Неможливо встановити Keka за умовчанням";
 "The intermediate application failed to launch. There is more information in the Console.app." = "Не вдалося запустити проміжну програму. Більше інформації в Console.app.";
 "The intermediate application returned an undefined code." = "Проміжний додаток повернув невизначений код.";

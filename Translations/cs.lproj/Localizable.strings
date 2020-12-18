@@ -164,6 +164,8 @@
 "External disk: %@" = "Externí disk: %@";
 "An extension is required" = "Je třeba nainstalovat rozšíření";
 "In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "Abyste mohli nastavit Keku jako výchozí aplikaci, musíte napřed nainstalovat rozšíření. Klikněte na tlačítko \"Další informace\" a řiďte se pokyny na obrazovce.\n\nKeku můžete kdykoliv nastavit jako výchozí pro jakýkoliv formát skrze položku nabídky \"Informace\" ve Finderu";
+"Your installed extension is obsolete and you should update it." = "Your installed extension is obsolete and you should update it.";
+"Update" = "Update";
 "Cannot set Keka as default" = "Keku nelze nastavit jako výchozí aplikaci";
 "The intermediate application failed to launch. There is more information in the Console.app." = "Zprostředkující aplikaci se nepodařilo spustit. Více informací naleznete v aplikaci Konzola.";
 "The intermediate application returned an undefined code." = "Zprostředkující aplikace vrátila nedefinovaný kód.";

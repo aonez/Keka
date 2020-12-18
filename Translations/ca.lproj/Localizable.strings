@@ -164,6 +164,8 @@
 "External disk: %@" = "Disc extern: %@";
 "An extension is required" = "Es requereix una extensió";
 "In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "Per tal d'establir el Keka com l'aplicació per defecte, necessitaràs instal·lar una extensió. Fes clic a \"Més informació\" per saber com fer-ho.\n\nRecorda que sempre pots establir el Keka com aplicació per defecte per a qualsevol format fent servir l'opció \"Obtenir informació\" des del Finder.";
+"Your installed extension is obsolete and you should update it." = "L'extensió instal·lada és una versió antiga i s'ha d'actualitzar.";
+"Update" = "Update";
 "Cannot set Keka as default" = "No s'ha pogut establir el Keka com a l'aplicació per defecte";
 "The intermediate application failed to launch. There is more information in the Console.app." = "L'extensió no s'ha pogut obrir. Trobaràs més informació a la Consola.app.";
 "The intermediate application returned an undefined code." = "L'extensió ha retornat un codi desconegut.";
