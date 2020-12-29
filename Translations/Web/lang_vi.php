@@ -57,14 +57,14 @@ $content_info_compression = "Keka có thể tạo tập tin theo các định d�
 $content_info_extraction = "Và giải nén tất cả các định dạng sau:";
 
 // Default app
-$content_defaultapp_title = "Set Keka as the default extraction application";
-$content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">needs a helper <i class="far fa-question-circle"></i></a> to set itself as the default application.<br />Simply download and extract it, move it to the desktop and then open it.';
+$content_defaultapp_title = "Đặt Keka làm ứng dụng giải nén mặc định";
+$content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">cần thêm <i class="far fa-question-circle"></i></a> để thiết lập thành ứng dụng giải nén mặc định.<br />Đơn giản là tải về và giải nén, di chuyển nó đến Desktop rồi mở nó lên là được.';
 
 // Privacy Policy
-$content_privacypolicy_title = 'Privacy Policy';
+$content_privacypolicy_title = 'Chính sách bảo mật';
 
 // Terms of use
-$content_termsofuse_title = 'Terms of Use';
+$content_termsofuse_title = 'Điều khoản sử dụng';
 
 // Main content of the page
 $content_context_menu = "Danh mục";
