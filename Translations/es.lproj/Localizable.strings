@@ -3,6 +3,11 @@
 "_ADVANCED_EXTRA_WIDTH_" = "15.0";
 /* Use the _PREFERENCES_EXTRA_WIDTH_ (if needed) to fit the action to perform description properly */
 "_PREFERENCES_EXTRA_WIDTH_" = "0.0";
+"General" = "General";
+"File Access" = "Acceso a ficheros";
+"Performance" = "Rendimiento";
+"Finder Extension" = "Extensión del Finder";
+"Love" = "Apoyo";
 "OK" = "OK";
 "Done" = "Hecho";
 "Yes" = "Si";
@@ -137,6 +142,7 @@
 "Write error. No permission? No space left?" = "Error de escritura. Quizá no tengas permisos de escritura o tu disco esté lleno";
 "Can't open the file, maybe it's not accessible" = "No se puede abrir el archivo, quizá esté inaccesible o no tengas permisos de lectura";
 "No files matching the mask" = "No coincide ninguna de los filtros";
+"There were some read errors" = "Han ocurrido errores de lectura";
 "Give access" = "Dar acceso";
 "Just folder access" = "Sólo acceso a la carpeta";
 "Quit" = "Salir";
@@ -151,9 +157,15 @@
 "Full Mac access (Recommended)" = "Acceso completo (Recomendado)";
 "Home folder access" = "Acceso personal";
 "External volumes access" = "Acceso a volúmenes externos";
+"Full Mac" = "Todo el Mac";
+"Home folder" = "Carpeta personal";
+"External volumes" = "Volúmenes externos";
+"Show in context menu" = "Mostrar en el menú contextual";
 "External disk: %@" = "Disco externo: %@";
 "An extension is required" = "Se requiere una extensión";
 "In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "Para establecer Keka como predeterminada, se necesita instalar una extensión. Haz clic en \"Más información\" para saber como hacerlo.\n\nRecuerda que siempre puedes establecer al Keka como la aplicación predeterminada para cualquier formato desde el panel \"Obtener información\" del Finder.";
+"Your installed extension is obsolete and you should update it." = "La extensión instalada es una versión antigua y es necesario actualizarla.";
+"Update" = "Update";
 "Cannot set Keka as default" = "No se ha podido establecer Keka como predeterminada";
 "The intermediate application failed to launch. There is more information in the Console.app." = "La extensión no se ha podido abrir. Encontrarás más información en la Consola.app.";
 "The intermediate application returned an undefined code." = "La extensión ha devuelto un código desconocido.";
@@ -176,7 +188,7 @@
 "Give access to the compressed file" = "Dar acceso al archivo comprimido";
 "The extension is enabled" = "La extensión está habilitada";
 "The extension is disabled" = "La extensión está deshabilitada";
-"The extension status can't be determined" = "No se puede determinar el estado de la extensión";
+"Enable or disable the extension" = "Habilita o deshabilita l'extensió";
 "Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "Keka decidirá si comprimir o descomprimir según el formato y extensión de los ficheros. Esta es la opción recomendada.";
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka comprimirá todos los ficheros, incluso aquellos que ya estén comprimidos. Puedes forzar la compresión de archivos ya comprimidos en el modo automático arrastrando y soltándolos en la parte inferior de la zona de arrastre.";
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka intentará extraer todos los ficheros. Puedes intentar extraer ficheros desconocidos en el modo automático arrastrando y soltándolos en la parte inferior de la zona de arrastre.";
@@ -191,7 +203,7 @@
 "You'll be asked where to extract each operation." = "Se preguntará dónde extraer cada operación.";
 "You'll be asked where to compress each operation." = "Se preguntará dónde comprimir cada operación.";
 "If Keka has File Access it will execute the operation near the source file/s, otherwise it will ask for a location. You can set Keka's File Access in the Preferences tab so this option works properly." = "Si Keka tiene Acceso a ficheros realizará la operación al lado del archivo original, en caso contrario preguntará dónde realizar la operación. Puedes dar Acceso a ficheros a Keka en las Preferencias para que esta opción funcione correctamente.";
-"Keka has no file access to the source folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka no tiene acceso a la carpeta principal y necesita preguntar dónde realizar la operación.\nPuedes dar acceso a esta y otras carpetas en el panel Acceso a Ficheros de las Preferencias de Keka.";
+"Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka no tiene acceso a la carpeta de destino y necesita preguntar dónde realizar la operación.\nPuedes dar acceso a esta y otras carpetas en el panel Acceso a Ficheros de las Preferencias de Keka.";
 "The characters %@ are not compatible with the %@ format" = "Los carácteres %@ no son compatibles con el formato %@";
 "The character %@ is not compatible with the %@ format" = "El carácter %@ no es compatible con el formato %@";
 

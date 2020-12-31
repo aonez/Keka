@@ -3,6 +3,11 @@
 "_ADVANCED_EXTRA_WIDTH_" = "0.0";
 /* Use the _PREFERENCES_EXTRA_WIDTH_ (if needed) to fit the action to perform description properly */
 "_PREFERENCES_EXTRA_WIDTH_" = "0.0";
+"General" = "Általános";
+"File Access" = "Hozzáférés a fájlhoz";
+"Performance" = "Performance";
+"Finder Extension" = "Finder Extension";
+"Love" = "Love";
 "OK" = "OK";
 "Done" = "OK";
 "Yes" = "Igen";
@@ -137,6 +142,7 @@
 "Write error. No permission? No space left?" = "Írási hiba. Nincs jogosultság? Nincs több hely?";
 "Can't open the file, maybe it's not accessible" = "A fájl nem nyitható meg, talán nem elérhető";
 "No files matching the mask" = "Nem található a feltételnek megfelelő fájl";
+"There were some read errors" = "There were some read errors";
 "Give access" = "Engedélyezd";
 "Just folder access" = "Csak a mappához való hozzáférés";
 "Quit" = "Kilépés";
@@ -151,9 +157,15 @@
 "Full Mac access (Recommended)" = "Teljes hozzáférés a Mac-hez (Javasolt)";
 "Home folder access" = "Kezdőmappához való hozzáférés";
 "External volumes access" = "Külső kötethez való hozzáférés";
+"Full Mac" = "Full Mac";
+"Home folder" = "Home folder";
+"External volumes" = "External volumes";
+"Show in context menu" = "Show in context menu";
 "External disk: %@" = "Külső lemez: %@";
 "An extension is required" = "Egy bővítmény szükséges";
 "In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "Bővítményre van szükség ahhoz, hogy a Keka-t alapértelmezett programként beállíthasd. Az ehhez szükséges lépésekért kattints a \"More information\"-ra.\n\nNe feledd, hogy a Keka-t bármikor beállíthatod alapértelmezett programként bármilyen fájlformátumra a Finder-ben a \"Get Info\" panel segítségével.";
+"Your installed extension is obsolete and you should update it." = "Your installed extension is obsolete and you should update it.";
+"Update" = "Update";
 "Cannot set Keka as default" = "Nem sikerült a Keka-t alapértelmezettként beállítani";
 "The intermediate application failed to launch. There is more information in the Console.app." = "A közbenső alkalmazásnak nem sikerült elindulni. Több információ a Console.app-ban.";
 "The intermediate application returned an undefined code." = "A közbenső alkalmazás nem definiált kódot küldött.";
@@ -176,7 +188,7 @@
 "Give access to the compressed file" = "Give access to the compressed file";
 "The extension is enabled" = "The extension is enabled";
 "The extension is disabled" = "The extension is disabled";
-"The extension status can't be determined" = "The extension status can't be determined";
+"Enable or disable the extension" = "Enable or disable the extension";
 "Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option.";
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone.";
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone.";
@@ -191,7 +203,7 @@
 "You'll be asked where to extract each operation." = "You'll be asked where to extract each operation.";
 "You'll be asked where to compress each operation." = "You'll be asked where to compress each operation.";
 "If Keka has File Access it will execute the operation near the source file/s, otherwise it will ask for a location. You can set Keka's File Access in the Preferences tab so this option works properly." = "If Keka has File Access it will execute the operation near the source file/s, otherwise it will ask for a location. You can set Keka's File Access in the Preferences tab so this option works properly.";
-"Keka has no file access to the source folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka has no file access to the source folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane.";
+"Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane.";
 "The characters %@ are not compatible with the %@ format" = "The characters %@ are not compatible with the %@ format";
 "The character %@ is not compatible with the %@ format" = "The character %@ is not compatible with the %@ format";
 

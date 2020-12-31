@@ -3,6 +3,11 @@
 "_ADVANCED_EXTRA_WIDTH_" = "0.0";
 /* Use the _PREFERENCES_EXTRA_WIDTH_ (if needed) to fit the action to perform description properly */
 "_PREFERENCES_EXTRA_WIDTH_" = "0.0";
+"General" = "Generelt";
+"File Access" = "Filtilgang";
+"Performance" = "Ytelse";
+"Finder Extension" = "Finder-utvidelse";
+"Love" = "Kjærlighet";
 "OK" = "OK";
 "Done" = "Ferdig";
 "Yes" = "Ja";
@@ -137,6 +142,7 @@
 "Write error. No permission? No space left?" = "Feil under skriving. Ikke tillatelse? Ikke ledig diskplass?";
 "Can't open the file, maybe it's not accessible" = "Kan ikke åpne filen, den er kanskje ikke tilgjengelig";
 "No files matching the mask" = "Ingen filer matcher masken";
+"There were some read errors" = "There were some read errors";
 "Give access" = "Gi tilgang";
 "Just folder access" = "Bare mappetilgang";
 "Quit" = "Avslutt";
@@ -151,9 +157,15 @@
 "Full Mac access (Recommended)" = "Full Mac-tilgang (anbefalt)";
 "Home folder access" = "Tilgang til hjemmemappen";
 "External volumes access" = "Tilgang til eksterne volumer";
+"Full Mac" = "Full Mac";
+"Home folder" = "Home folder";
+"External volumes" = "External volumes";
+"Show in context menu" = "Show in context menu";
 "External disk: %@" = "Ekstern disk: %@";
 "An extension is required" = "En utvidelse er påkrevd";
 "In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "For å sette Keka som standardprogram, må du installere en utvidelse. Klikk på \"Mer informasjon\" for å følge de påkrevde trinnene.\n\nHusk at du alltid kan sette Keka som standardprogram for er format ved å bruke \"Vis info\" panelet i Finder.";
+"Your installed extension is obsolete and you should update it." = "Your installed extension is obsolete and you should update it.";
+"Update" = "Update";
 "Cannot set Keka as default" = "Kan ikke sette Keka som standard";
 "The intermediate application failed to launch. There is more information in the Console.app." = "Mellomleddsprogrammet kunne ikke starte. Mer informasjon finnes i Konsoll.app.";
 "The intermediate application returned an undefined code." = "Mellomleddsprogrammet returnere en udefinert kode.";
@@ -176,7 +188,7 @@
 "Give access to the compressed file" = "Gi tilgang til den komprimerte filen";
 "The extension is enabled" = "Utvidelsen er aktivert";
 "The extension is disabled" = "Utvidelsen er deaktivert";
-"The extension status can't be determined" = "Status for utvidelsen kan ikke fastslås";
+"Enable or disable the extension" = "Enable or disable the extension";
 "Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "Keka vil velge komprimering eller utpakking basert på filformat og filendelse. Dette er det anbefalte valget.";
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka vil komprimere alle filer, selv de som allerede er komprimert. Du kan komprimere en allerede komprimert fil i automatisk modus ved å slippe den nederst i slippsonen.";
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka vil prøve å pakke ut alle filer. Du kan pakke ut en ukjent fil i automatisk modus ved å slippe den nederst i slippsonen.";
@@ -191,7 +203,7 @@
 "You'll be asked where to extract each operation." = "Du blir spurt om hvor du ønsker å pakke ut hver operasjon.";
 "You'll be asked where to compress each operation." = "Du blir spurt om hvor du ønsker å komprimere hver operasjon.";
 "If Keka has File Access it will execute the operation near the source file/s, otherwise it will ask for a location. You can set Keka's File Access in the Preferences tab so this option works properly." = "Hvis Keka har filtilgang, vil operasjonen utføres i nærheten av kildefilen(e), ellers vil du bli spurt om plassering. Du kan sette Kekas filtilganger i Valg-panelet for å få dette til å fungere riktig.";
-"Keka has no file access to the source folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka har ikke filtilgang til kildemappen, derfor blir du spurt om plassering.\nDu kan legge til tilgang til denne og andre mapper i Filtilgang-panelet i Kekas Valg.";
+"Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka har ikke filtilgang til kildemappen, derfor blir du spurt om plassering.\nDu kan legge til tilgang til denne og andre mapper i Filtilgang-panelet i Kekas Valg.";
 "The characters %@ are not compatible with the %@ format" = "Tegnene %@ er ikke kompatible med formatet %@";
 "The character %@ is not compatible with the %@ format" = "Tegnet %@ er ikke kompatibelt med formatet %@";
 

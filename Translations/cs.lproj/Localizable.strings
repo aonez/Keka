@@ -3,6 +3,11 @@
 "_ADVANCED_EXTRA_WIDTH_" = "75.0";
 /* Use the _PREFERENCES_EXTRA_WIDTH_ (if needed) to fit the action to perform description properly */
 "_PREFERENCES_EXTRA_WIDTH_" = "0.0";
+"General" = "Obecné";
+"File Access" = "Přístup k souborům";
+"Performance" = "Výkon";
+"Finder Extension" = "Rozšíření Finderu";
+"Love" = "Přispět";
 "OK" = "OK";
 "Done" = "Hotovo";
 "Yes" = "Ano";
@@ -120,7 +125,7 @@
 "unknown" = "neznámé";
 "Unknown error" = "Neznámá chyba";
 "Error code %d using \"%@\"\n%@" = "Kód chyby: %d při použití \"%@\"\n%@";
-"Keka was unable to create the extraction package" = "Keka was unable to create the extraction package";
+"Keka was unable to create the extraction package" = "Keka nemohla vytvořit extrakční balíček";
 "No errors found" = "Nenalezený žádné chyby";
 "Minor error, the operation may be done well" = "Došlo k menší chybě; je možné, že operace byla úspěšně dokončena";
 "Fatal error" = "Závažná chyba";
@@ -137,6 +142,7 @@
 "Write error. No permission? No space left?" = "Chyba při zápisu. Možná nemáte potřebná oprávnění, nebo je disk plný";
 "Can't open the file, maybe it's not accessible" = "Soubor nelze otevřít, možná není přístupný";
 "No files matching the mask" = "Žádné soubory se s maskou neshodují";
+"There were some read errors" = "There were some read errors";
 "Give access" = "Udělit přístup";
 "Just folder access" = "Jen přístup ke složce";
 "Quit" = "Ukončit";
@@ -144,16 +150,22 @@
 "Keka needs file access" = "Keka potřebuje přístup k souborům";
 "Give home access" = "Udělit přístup k domovské složce";
 "Customize" = "Přizpůsobit";
-"Keka needs access to the source file/s." = "Keka needs access to the source file/s.";
+"Keka needs access to the source file/s." = "Keka potřebuje přístup k původním souborům.";
 "In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "Abyste mohli Keku používat bez problémů, je třeba jí udělit přístup k disku tohoto Macu.";
 "\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\nVáš disk by už měl být vybraný. Teď stačí kliknout na tlačítko \"Udělit přístup\"";
 "Give access to Keka" = "Udělit přístup";
 "Full Mac access (Recommended)" = "Plný přístup k disku (doporučujemes)";
 "Home folder access" = "Přístup k domovské složce";
 "External volumes access" = "Přístup k externím svazkům";
+"Full Mac" = "Full Mac";
+"Home folder" = "Home folder";
+"External volumes" = "External volumes";
+"Show in context menu" = "Show in context menu";
 "External disk: %@" = "Externí disk: %@";
 "An extension is required" = "Je třeba nainstalovat rozšíření";
 "In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "Abyste mohli nastavit Keku jako výchozí aplikaci, musíte napřed nainstalovat rozšíření. Klikněte na tlačítko \"Další informace\" a řiďte se pokyny na obrazovce.\n\nKeku můžete kdykoliv nastavit jako výchozí pro jakýkoliv formát skrze položku nabídky \"Informace\" ve Finderu";
+"Your installed extension is obsolete and you should update it." = "Your installed extension is obsolete and you should update it.";
+"Update" = "Update";
 "Cannot set Keka as default" = "Keku nelze nastavit jako výchozí aplikaci";
 "The intermediate application failed to launch. There is more information in the Console.app." = "Zprostředkující aplikaci se nepodařilo spustit. Více informací naleznete v aplikaci Konzola.";
 "The intermediate application returned an undefined code." = "Zprostředkující aplikace vrátila nedefinovaný kód.";
@@ -176,7 +188,7 @@
 "Give access to the compressed file" = "Udělit přístup ke komprimovanému souboru.";
 "The extension is enabled" = "Rozšíření je povoleno";
 "The extension is disabled" = "Rozšíření je zakázáno";
-"The extension status can't be determined" = "Nelze zjistit stav rozšíření";
+"Enable or disable the extension" = "Enable or disable the extension";
 "Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "Keka se rozhodne mezi komprimací a rozbalením podle formátu a přípony souboru. Doporučujeme.";
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka zkomprimuje všechny soubory, včetně už zkomprimovaných souborů. Soubory můžete znovu zkomprimovat přetažením do spodní částí Keky.";
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka se pokusí všechny soubory rozbalit. Soubory neznámeho typu můžete zkusit rozbalit přetažením do spodní části Keky.";
@@ -191,7 +203,7 @@
 "You'll be asked where to extract each operation." = "Před každým rozbalením se vás zeptáme na cílovou složku.";
 "You'll be asked where to compress each operation." = "Před každou komprimací se vás zeptáme na cílovou složku.";
 "If Keka has File Access it will execute the operation near the source file/s, otherwise it will ask for a location. You can set Keka's File Access in the Preferences tab so this option works properly." = "Pokud má Keka přístup k souborům, pokusí se všechny opperace provádět tam, kde se nacházejí výchozí soubory. Aby tato funkce fungovala správně, nastavte přístup k souborům v příslušném panelu v předvolbách.";
-"Keka has no file access to the source folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Protože Keka nemá přístup k výchozí složce, zeptá se vás na jinou.\nPřístup k této a dalším složkám můžete nastavit v předvolbách v kartě Přístup k souborům.";
+"Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Protože Keka nemá přístup k výchozí složce, zeptá se vás na jinou.\nPřístup k této a dalším složkám můžete nastavit v předvolbách v kartě Přístup k souborům.";
 "The characters %@ are not compatible with the %@ format" = "Znaky %@ nejsou s formátem %@ kompatibilní";
 "The character %@ is not compatible with the %@ format" = "Znak %@ není s formátem %@ kompatibilní";
 
@@ -202,21 +214,21 @@ Apple needs to have MAS translated in this language so this strings can be used
 The language used in MAS/AppleID will be used in Keka's tip strings and may not match Keka's localization
 Note that the short string is limited to 30 characters and the long string is limited to 45 characters.
 */
-"Monthly sip of coffee" = "Monthly sip of coffee";
-"Gift Keka a sip of coffee each month" = "Gift Keka a sip of coffee each month";
-"Monthly coffee" = "Monthly coffee";
-"Gift Keka a coffee each month" = "Gift Keka a coffee each month";
-"Monthly pair of coffees" = "Monthly pair of coffees";
-"Gift Keka a couple coffees each month" = "Gift Keka a couple coffees each month";
-"Monthly breakfast" = "Monthly breakfast";
-"Gift Keka a breakfast each month" = "Gift Keka a breakfast each month";
-"Tip a coffee" = "Tip a coffee";
-"Tip Keka a coffee so it can stay awake" = "Tip Keka a coffee so it can stay awake";
-"Tip a breakfast" = "Tip a breakfast";
-"Tip Keka a breakfast so it can start fresh" = "Tip Keka a breakfast so it can start fresh";
-"Tip a lunch" = "Tip a lunch";
-"Tip Keka a lunch and feed it" = "Tip Keka a lunch and feed it";
-"Tip a dinner" = "Tip a dinner";
-"Tip Keka a dinner so it keeps rolling" = "Tip Keka a dinner so it keeps rolling";
-"Tip a bunch of food" = "Tip a bunch of food";
-"Tip Keka a new bunch of food to keep rolling" = "Tip Keka a new bunch of food to keep rolling";
+"Monthly sip of coffee" = "Pár zrnek kávy";
+"Gift Keka a sip of coffee each month" = "Keka si pochutná na pár zrncích kávy";
+"Monthly coffee" = "Kafe na pár dní";
+"Gift Keka a coffee each month" = "Keka bude mít energii na pár dní";
+"Monthly pair of coffees" = "Kafe na celý měsíc";
+"Gift Keka a couple coffees each month" = "Keka bude mít energii na celý měsíc";
+"Monthly breakfast" = "Snídaně na měsíc";
+"Gift Keka a breakfast each month" = "Keka si pochutná na dobré snídani";
+"Tip a coffee" = "Jedno kafe";
+"Tip Keka a coffee so it can stay awake" = "Kupte Keka kávu, aby byla plná energie";
+"Tip a breakfast" = "Jedna snídaně";
+"Tip Keka a breakfast so it can start fresh" = "Kupte Keka snídani, aby se jí dobře vstávalo";
+"Tip a lunch" = "Jeden oběd";
+"Tip Keka a lunch and feed it" = "Kupte Keka oběd, aby byla zdravá";
+"Tip a dinner" = "Jedna večeře";
+"Tip Keka a dinner so it keeps rolling" = "Kupte Keka večeři, aby se jí dobře spalo";
+"Tip a bunch of food" = "Stůl plný jídla";
+"Tip Keka a new bunch of food to keep rolling" = "Pozor, aby neztloustla!";

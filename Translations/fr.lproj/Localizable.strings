@@ -3,6 +3,11 @@
 "_ADVANCED_EXTRA_WIDTH_" = "10.0";
 /* Use the _PREFERENCES_EXTRA_WIDTH_ (if needed) to fit the action to perform description properly */
 "_PREFERENCES_EXTRA_WIDTH_" = "0.0";
+"General" = "Général";
+"File Access" = "Accès Fichiers";
+"Performance" = "Performance";
+"Finder Extension" = "Extension Finder";
+"Love" = "Amour";
 "OK" = "OK";
 "Done" = "Terminé";
 "Yes" = "Oui";
@@ -120,7 +125,7 @@
 "unknown" = "inconnu";
 "Unknown error" = "Erreur inconnue";
 "Error code %d using \"%@\"\n%@" = "Code erreur %d en utilisant \"%@\"\n%@";
-"Keka was unable to create the extraction package" = "Keka was unable to create the extraction package";
+"Keka was unable to create the extraction package" = "Keka n'a pas pu créer le paquet d'extraction";
 "No errors found" = "Pas d'erreur trouvées";
 "Minor error, the operation may be done well" = "Erreur mineure, l'opération a peut-être réussi";
 "Fatal error" = "Erreur fatale";
@@ -137,6 +142,7 @@
 "Write error. No permission? No space left?" = "Erreur d'écriture. Pas de permission ? Pas d'espace libre ?";
 "Can't open the file, maybe it's not accessible" = "Échec d'ouverture du fichier, le fichier n'est peut-être pas accessible";
 "No files matching the mask" = "Aucun fichier ne correspond au filtre";
+"There were some read errors" = "Il y a eu des erreurs de lecture";
 "Give access" = "Donner l'accès";
 "Just folder access" = "Seulement l'accès au dossier";
 "Quit" = "Quitter";
@@ -144,16 +150,22 @@
 "Keka needs file access" = "Keka a besoin de l'accès au fichier";
 "Give home access" = "Donner l'accès au dossier Départ";
 "Customize" = "Personnaliser";
-"Keka needs access to the source file/s." = "Keka needs access to the source file/s.";
+"Keka needs access to the source file/s." = "Keka a besoin de l'accès aux fichiers source.";
 "In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "Afin de travailler sans restriction avec vos fichiers, Keka a besoin de l'accès local au disque du Mac.";
 "\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\nCliquez sur \"Donner l'accès à Keka\", votre disque devrait déjà étre sélectionné.";
 "Give access to Keka" = "Donner l'accès à Keka";
 "Full Mac access (Recommended)" = "Accès complet au Mac (Recommandé)";
 "Home folder access" = "Accès au dossier Départ";
 "External volumes access" = "Accès aux volumes externes";
+"Full Mac" = "Tout le Mac";
+"Home folder" = "Dossier Départ";
+"External volumes" = "Volumes externes";
+"Show in context menu" = "Afficher dans le menu contextuel";
 "External disk: %@" = "Disque externe: %@";
 "An extension is required" = "Une extension est nécessaire";
 "In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "Afin de définir Keka comme application par défaut, vous devez installer une extension. Cliquez sur \"Plus d'informations\" pour suivre les étapes nécessaires.\n\nSouvenez-vous que vous pouvez toujour définir Keka comme application par défaut pour n'importe quel format en utilisant la fenêtre du Finder \"Lire les informations\".";
+"Your installed extension is obsolete and you should update it." = "Votre extension installée est obsolète et vous devriez la mettre à jour.";
+"Update" = "Mettre à jour";
 "Cannot set Keka as default" = "Keka ne peut pas être défini par défaut";
 "The intermediate application failed to launch. There is more information in the Console.app." = "L'application intermédiaire n'a pas pu démarrer. Il y a des informations complémentaires dans Console.app.";
 "The intermediate application returned an undefined code." = "L'application intermédiaire a renvoyé un code indéfini.";
@@ -176,7 +188,7 @@
 "Give access to the compressed file" = "Donner accès au fichier compressé";
 "The extension is enabled" = "L'extension est activée";
 "The extension is disabled" = "L'extension est désactivée";
-"The extension status can't be determined" = "Le statut de l'extension ne peut être déterminé";
+"Enable or disable the extension" = "Activer ou désactiver l'extension";
 "Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "Keka décidera s'il faut compresser ou décompresser en fonction du format et de l'extension du fichier. C'est l'option recommandée.";
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka compressera tous les fichiers, même ceux qui sont déjà compressés. Vous pouvez compresser un fichier déjà compressé en mode automatique en le déposant dans la partie inférieure de la zone de dépôt.";
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka essaiera d'extraire tous les fichiers. Vous pouvez essayer d'extraire un fichier inconnu en mode automatique en le déposant dans la partie inférieure de la zone de dépôt.";
@@ -191,7 +203,7 @@
 "You'll be asked where to extract each operation." = "On vous demandera où extraire chaque opération.";
 "You'll be asked where to compress each operation." = "On vous demandera où compresser chaque opération.";
 "If Keka has File Access it will execute the operation near the source file/s, otherwise it will ask for a location. You can set Keka's File Access in the Preferences tab so this option works properly." = "Si Keka a accès aux fichiers, il exécutera l'opération près du ou des fichiers source, sinon il demandera un emplacement. Vous pouvez définir l'accès aux fichiers de Keka dans l'onglet Préférences afin que cette option fonctionne correctement.";
-"Keka has no file access to the source folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka n'a pas d'accès aux fichiers dans le dossier source, il doit donc demander un emplacement.\nVous pouvez ajouter l'accès à ce dossier et à d'autres dans le volet d'accès aux fichiers des préférences de Keka.";
+"Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka n'a pas accès aux fichiers dans le dossier cible, il doit donc demander un emplacement.\nVous pouvez ajouter l'accès à ce dossier et à d'autres dans le volet d'accès aux fichiers des préférences de Keka.";
 "The characters %@ are not compatible with the %@ format" = "Les caractères %@ ne sont pas compatibles avec le format %@";
 "The character %@ is not compatible with the %@ format" = "Le caractère %@ n'est pas compatible avec le format %@";
 
@@ -202,21 +214,21 @@ Apple needs to have MAS translated in this language so this strings can be used
 The language used in MAS/AppleID will be used in Keka's tip strings and may not match Keka's localization
 Note that the short string is limited to 30 characters and the long string is limited to 45 characters.
 */
-"Monthly sip of coffee" = "Monthly sip of coffee";
-"Gift Keka a sip of coffee each month" = "Gift Keka a sip of coffee each month";
-"Monthly coffee" = "Monthly coffee";
-"Gift Keka a coffee each month" = "Gift Keka a coffee each month";
-"Monthly pair of coffees" = "Monthly pair of coffees";
-"Gift Keka a couple coffees each month" = "Gift Keka a couple coffees each month";
-"Monthly breakfast" = "Monthly breakfast";
-"Gift Keka a breakfast each month" = "Gift Keka a breakfast each month";
-"Tip a coffee" = "Tip a coffee";
-"Tip Keka a coffee so it can stay awake" = "Tip Keka a coffee so it can stay awake";
-"Tip a breakfast" = "Tip a breakfast";
-"Tip Keka a breakfast so it can start fresh" = "Tip Keka a breakfast so it can start fresh";
-"Tip a lunch" = "Tip a lunch";
-"Tip Keka a lunch and feed it" = "Tip Keka a lunch and feed it";
-"Tip a dinner" = "Tip a dinner";
-"Tip Keka a dinner so it keeps rolling" = "Tip Keka a dinner so it keeps rolling";
-"Tip a bunch of food" = "Tip a bunch of food";
-"Tip Keka a new bunch of food to keep rolling" = "Tip Keka a new bunch of food to keep rolling";
+"Monthly sip of coffee" = "Gorgée mensuelle de café";
+"Gift Keka a sip of coffee each month" = "Offrez à Keka une gorgée de café chaque mois";
+"Monthly coffee" = "Café mensuel";
+"Gift Keka a coffee each month" = "Offrez à Keka un café chaque mois";
+"Monthly pair of coffees" = "Paire de cafés mensuelle";
+"Gift Keka a couple coffees each month" = "Offrez à Keka une paire de cafés mensuelle";
+"Monthly breakfast" = "Petit-déjeuner mensuel";
+"Gift Keka a breakfast each month" = "Offrez à Keka un petit-déjeuner mensuel";
+"Tip a coffee" = "Donnez un café";
+"Tip Keka a coffee so it can stay awake" = "Donnez à Keka un café pour qu'il sois éveillé";
+"Tip a breakfast" = "Donnez un petit-déjeuner";
+"Tip Keka a breakfast so it can start fresh" = "Donnez à Keka un petit-déjeuner pour démarrer";
+"Tip a lunch" = "Donnez un déjeuner";
+"Tip Keka a lunch and feed it" = "Donnez à Keka un déjeuner et nourrissez-le";
+"Tip a dinner" = "Donnez un dîner";
+"Tip Keka a dinner so it keeps rolling" = "Donnez à Keka un dîner pour avancer";
+"Tip a bunch of food" = "Donnez un tas de nourriture";
+"Tip Keka a new bunch of food to keep rolling" = "Donnez à Keka un tas de nourriture";

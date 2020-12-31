@@ -3,6 +3,11 @@
 "_ADVANCED_EXTRA_WIDTH_" = "5.0";
 /* Use the _PREFERENCES_EXTRA_WIDTH_ (if needed) to fit the action to perform description properly */
 "_PREFERENCES_EXTRA_WIDTH_" = "0.0";
+"General" = "General";
+"File Access" = "Accés a fitxers";
+"Performance" = "Rendiment";
+"Finder Extension" = "Extensió del Finder";
+"Love" = "Suport";
 "OK" = "D'acord";
 "Done" = "D'acord";
 "Yes" = "Sí";
@@ -137,6 +142,7 @@
 "Write error. No permission? No space left?" = "Error d'escriptura. Sense permisos? Sense espai disponible?";
 "Can't open the file, maybe it's not accessible" = "No es pot obrir l'arxiu. Potser no està accessible";
 "No files matching the mask" = "No s'han trobat arxius amb el filtre utilitzat";
+"There were some read errors" = "Hi han hagut errors de lectura";
 "Give access" = "Donar accés";
 "Just folder access" = "Només accés a la carpeta";
 "Quit" = "Sortir";
@@ -151,9 +157,15 @@
 "Full Mac access (Recommended)" = "Accés complet (Recomanat)";
 "Home folder access" = "Accés personal";
 "External volumes access" = "Accés a volums externs";
+"Full Mac" = "Tot el Mac";
+"Home folder" = "Carpeta personal";
+"External volumes" = "Volums externs";
+"Show in context menu" = "Mostrar en el menú contextual";
 "External disk: %@" = "Disc extern: %@";
 "An extension is required" = "Es requereix una extensió";
 "In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "Per tal d'establir el Keka com l'aplicació per defecte, necessitaràs instal·lar una extensió. Fes clic a \"Més informació\" per saber com fer-ho.\n\nRecorda que sempre pots establir el Keka com aplicació per defecte per a qualsevol format fent servir l'opció \"Obtenir informació\" des del Finder.";
+"Your installed extension is obsolete and you should update it." = "L'extensió instal·lada és una versió antiga i s'ha d'actualitzar.";
+"Update" = "Update";
 "Cannot set Keka as default" = "No s'ha pogut establir el Keka com a l'aplicació per defecte";
 "The intermediate application failed to launch. There is more information in the Console.app." = "L'extensió no s'ha pogut obrir. Trobaràs més informació a la Consola.app.";
 "The intermediate application returned an undefined code." = "L'extensió ha retornat un codi desconegut.";
@@ -176,7 +188,7 @@
 "Give access to the compressed file" = "Dona accés a l'arxiu comprimit";
 "The extension is enabled" = "L'extensió està habilitada";
 "The extension is disabled" = "L'extensió està deshabilitada";
-"The extension status can't be determined" = "No es pot determinar l'estat de l'extensió";
+"Enable or disable the extension" = "Habilita o deshabilita la extensión";
 "Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "El Keka decidirà si comprimir o descomprimir segons el format i l'extensió dels fitxers. Aquesta és l'opció recomanada.";
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "El Keka comprimirà tots els fitxers, inclosos aquells que ja estiguin comprimits. Pots forçar la compressió d'arxius ja comprimits en el mode automàtic arrossegant i deixant anar a la part inferior de la zona d'arrossegament.";
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "El Keka intentarà extreure tots els fitxers. Pots intentar extreure fitxers desconeguts en el mode automàtic arrossegant i deixant anar a la part inferior de la zona d'arrossegament.";
@@ -191,7 +203,7 @@
 "You'll be asked where to extract each operation." = "Es preguntarà on extreure cada operació.";
 "You'll be asked where to compress each operation." = "Es preguntarà on comprimir cada operació";
 "If Keka has File Access it will execute the operation near the source file/s, otherwise it will ask for a location. You can set Keka's File Access in the Preferences tab so this option works properly." = "Si el Keka té Accés a fitxers realitzarà l'operació al costat de l'original, en cas contrari preguntarà on realitzar l'operació. Pots donar Accés a fitxers al Keka en la Configuració per a que aquesta opció funcioni correctament.";
-"Keka has no file access to the source folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "El Keka no té accés a la carpeta principal i necessita preguntar on realitzar l'operació.\nPots donar accés a aquesta i altres carpetes en el panell d'Accés a Fitxers de la Configuració del Keka.";
+"Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "El Keka no té accés a la carpeta de destí i necessita preguntar on realitzar l'operació.\nPots donar accés a aquesta i altres carpetes en el panell d'Accés a Fitxers de la Configuració del Keka.";
 "The characters %@ are not compatible with the %@ format" = "Els caràcters %@ no són compatibles amb el format %@";
 "The character %@ is not compatible with the %@ format" = "El caràcter %@ no és compatible amb el format %@";
 
