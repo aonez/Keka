@@ -215,20 +215,20 @@ The language used in MAS/AppleID will be used in Keka's tip strings and may not 
 Note that the short string is limited to 30 characters and the long string is limited to 45 characters.
 */
 "Monthly sip of coffee" = "Monthly sip of coffee";
-"Gift Keka a sip of coffee each month" = "Gift Keka a sip of coffee each month";
-"Monthly coffee" = "Monthly coffee";
+"Gift Keka a sip of coffee each month" = "Schenke Keka jeden Monat einen Schluck Kaffee";
+"Monthly coffee" = "Monatlicher Kaffee";
 "Gift Keka a coffee each month" = "Schenke Keka jeden Monat einen Kaffee";
 "Monthly pair of coffees" = "Monatlich ein Paar Kaffee";
 "Gift Keka a couple coffees each month" = "Schenke Keka monatlich ein Paar Kaffee";
 "Monthly breakfast" = "Monatliches Frühstück";
 "Gift Keka a breakfast each month" = "Schenke Keka jeden Monat ein Frühstück";
 "Tip a coffee" = "Gebe Trinkgeld für einen Kaffee";
-"Tip Keka a coffee so it can stay awake" = "Gebe Keka Trinkgeld für einen Kaffee, damit es wach bleibt";
-"Tip a breakfast" = "Gebe Trinkgeld für ein Frühstück";
-"Tip Keka a breakfast so it can start fresh" = "Gebe Keka Trinkgeld für ein Frühstück, damit es frisch starten kann";
-"Tip a lunch" = "Gebe Trinkgeld für ein Mittagessen";
-"Tip Keka a lunch and feed it" = "Gebe Keka Trinkgeld für ein Mittagessen und füttere es";
-"Tip a dinner" = "Gebe Trinkgeld für ein. Abendessen";
-"Tip Keka a dinner so it keeps rolling" = "Gebe Keka Trinkgeld für ein Abendessen und halte es am laufen";
-"Tip a bunch of food" = "Gebe Trinkgeld für ein Bündel essen";
-"Tip Keka a new bunch of food to keep rolling" = "Gebe Keka Trinkgeld für ein neues Bündel essen und halte es ma laufen";
+"Tip Keka a coffee so it can stay awake" = "Spende einen Kaffee, damit Keka wach bleib";
+"Tip a breakfast" = "Spende ein Frühstück";
+"Tip Keka a breakfast so it can start fresh" = "Spende ein Frühstück, für einen guten Start";
+"Tip a lunch" = "Spende ein Mittagessen";
+"Tip Keka a lunch and feed it" = "Spende ein Mittagessen zum füttern";
+"Tip a dinner" = "Spende ein Abendessen";
+"Tip Keka a dinner so it keeps rolling" = "Spende Keka ein Abendessen und ernähre es";
+"Tip a bunch of food" = "Spende ein Paket Lebensmittel";
+"Tip Keka a new bunch of food to keep rolling" = "Spende ein Paket Lebensmittel und ernähre es";
