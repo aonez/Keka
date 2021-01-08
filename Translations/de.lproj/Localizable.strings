@@ -214,7 +214,7 @@ Apple needs to have MAS translated in this language so this strings can be used
 The language used in MAS/AppleID will be used in Keka's tip strings and may not match Keka's localization
 Note that the short string is limited to 30 characters and the long string is limited to 45 characters.
 */
-"Monthly sip of coffee" = "Monthly sip of coffee";
+"Monthly sip of coffee" = "Monatlich einen Schluck Kaffee";
 "Gift Keka a sip of coffee each month" = "Schenke Keka jeden Monat einen Schluck Kaffee";
 "Monthly coffee" = "Monatlicher Kaffee";
 "Gift Keka a coffee each month" = "Schenke Keka jeden Monat einen Kaffee";
@@ -222,7 +222,7 @@ Note that the short string is limited to 30 characters and the long string is li
 "Gift Keka a couple coffees each month" = "Schenke Keka monatlich ein Paar Kaffee";
 "Monthly breakfast" = "Monatliches Frühstück";
 "Gift Keka a breakfast each month" = "Schenke Keka jeden Monat ein Frühstück";
-"Tip a coffee" = "Gebe Trinkgeld für einen Kaffee";
+"Tip a coffee" = "Gebe Trinkgeld für Kaffee";
 "Tip Keka a coffee so it can stay awake" = "Spende einen Kaffee, damit Keka wach bleib";
 "Tip a breakfast" = "Spende ein Frühstück";
 "Tip Keka a breakfast so it can start fresh" = "Spende ein Frühstück, für einen guten Start";
