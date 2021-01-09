@@ -26,7 +26,7 @@ $content_platform = "Yêu cầu $version_replace hoặc mới hơn";
 $content_download_text = "Lưu trữ nhiều hơn, chia sẻ riêng tư hơn";
 $content_download_love = "Bạn thích nó chứ?";
 $content_download_legacy = "Phiên bản cũ";
-$content_download_helper = "Helper";
+$content_download_helper = "Công cụ hỗ trợ";
 
 // Like
 $content_donation_button = "Quyên góp";
@@ -58,7 +58,7 @@ $content_info_extraction = "Và giải nén tất cả các định dạng sau:"
 
 // Default app
 $content_defaultapp_title = "Đặt Keka làm ứng dụng giải nén mặc định";
-$content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">cần thêm <i class="far fa-question-circle"></i></a> để thiết lập thành ứng dụng giải nén mặc định.<br />Đơn giản là tải về và giải nén, di chuyển nó đến Desktop rồi mở nó lên là được.';
+$content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">cần thêm một công cụ hỗ trợ <i class="far fa-question-circle"></i></a> để thiết lập thành ứng dụng giải nén mặc định.<br />Đơn giản là tải về và giải nén, di chuyển nó đến Desktop rồi mở nó lên là được.';
 
 // Privacy Policy
 $content_privacypolicy_title = 'Chính sách bảo mật';
