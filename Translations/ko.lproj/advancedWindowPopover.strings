@@ -1,12 +1,12 @@
 ﻿
 /* Class = "NSButtonCell"; title = "Automatically save configuration changes"; ObjectID = "9ew-FN-7fK"; */
-"9ew-FN-7fK.title" = "Automatically save configuration changes";
+"9ew-FN-7fK.title" = "설정 변경사항 자동 저장";
 
 /* Class = "NSButtonCell"; title = "Remove this configuration"; ObjectID = "OVd-YP-1Rw"; */
-"OVd-YP-1Rw.title" = "Remove this configuration";
+"OVd-YP-1Rw.title" = "이 설정 삭제";
 
 /* Class = "NSButtonCell"; title = "Use as default window"; ObjectID = "TEo-Z0-eew"; */
-"TEo-Z0-eew.title" = "Use as default window";
+"TEo-Z0-eew.title" = "기본 창으로 사용";
 
 /* Class = "NSTextFieldCell"; title = "Window name:"; ObjectID = "z32-BZ-Pec"; */
-"z32-BZ-Pec.title" = "Window name:";
+"z32-BZ-Pec.title" = "창 이름:";
