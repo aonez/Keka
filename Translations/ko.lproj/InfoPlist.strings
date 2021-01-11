@@ -19,12 +19,12 @@
 "ZIPX Archive" = "ZIPX 아카이브";
 "XZ Archive" = "XZ 아카이브";
 "XZ Tarball Archive" = "XZ 압축 TAR 아카이브";
-"Brotli Archive" = "Brotli Archive";
-"Brotli Tarball Archive" = "Brotli Tarball Archive";
-"Zstandard Archive" = "Zstandard Archive";
+"Brotli Archive" = "Brotli 아카이브";
+"Brotli Tarball Archive" = "Brotli Tarball 아카이브";
+"Zstandard Archive" = "Zstandard 아카이브";
 "Zstandard Tarball Archive" = "Zstandard Tarball 아카이브";
 "RAR Archive" = "RAR 아카이브";
-"RAR Legacy Archive Volume" = "RAR Legacy 아카이브 볼륨";
+"RAR Legacy Archive Volume" = "RAR 레거시 아카이브 볼륨";
 "Generic Archive Volume" = "범용 아카이브 볼륨";
 "BZIP2 Archive" = "BZIP2 아카이브";
 "BZIP2 Tarball Archive" = "BZIP2 압축 TAR 아카이브";
@@ -55,5 +55,5 @@
 "APPX Archive" = "APPX 아카이브";
 "Safari extension" = "Safari 확장 프로그램";
 "ACE Archive" = "ACE 아카이브";
-"XIP Secure Archive" = "XIP Secure 아카이브";
+"XIP Secure Archive" = "XIP 보안 아카이브";
 "Keka Extraction Package" = "Keka 압축 해제 패키지";
