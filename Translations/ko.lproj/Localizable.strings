@@ -124,7 +124,7 @@
 "Unable to extract a folder" = "폴더를 압축 해제할 수 없습니다";
 "unknown" = "알 수 없음";
 "Unknown error" = "알 수 없는 오류";
-"Error code %d using \"%@\"\n%@" = "Error code %d using \"%@\"\n%@";
+"Error code %d using \"%@\"\n%@" = "에러 코드 %d \"%@\" 사용중\n%@";
 "Keka was unable to create the extraction package" = "Keka는 압축 해제 패키지를 생성할 수 없었습니다";
 "No errors found" = "오류 없음";
 "Minor error, the operation may be done well" = "작은 오류가 발생했으나, 작업은 정상적으로 진행되었을 것입니다.";
@@ -183,8 +183,8 @@
 "Using AES-256 encryption in ZIP" = "ZIP에서 AES-256 암호화 사용";
 "Note that most modern operating systems such as macOS (before macOS 11.0 Big Sur) or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities." = "macOS(macOS 11.0 Big Sur 이전) 또는 Windows와 같은 대부분의 최신 운영 체제는 기본적으로 AES-256 암호화된 ZIP를 지원하지 않습니다.\n\n대부분의 서드파티 추출 유틸리티를 사용하여 이러한 파일을 쉽게 열 수 있습니다.";
 "Cannot create the file" = "파일을 생성할 수 없습니다";
-"Keka has no file access to the source file/s\nGive it access when asked or manually in the Preferences" = "Keka는 원본 file/s 에 대한 파일 액세스 권한이 없습니다.\nPreferences(기본 설정)에서 요청하거나 수동으로 액세스 하십시오.";
-"Give access to the source/s folder/s" = "source/s folder/s 에 대한 접근권한 허용";
+"Keka has no file access to the source file/s\nGive it access when asked or manually in the Preferences" = "Keka는 원본 파일(들) 에 대한 파일 액세스 권한이 없습니다.\nPreferences(기본 설정)에서 요청하거나 수동으로 액세스 하십시오.";
+"Give access to the source/s folder/s" = "원본 파일(들) 또는 폴더(들)에 대한 접근권한 허용";
 "Give access to the compressed file" = "압축 파일에 대한 액세스 권한 부여";
 "The extension is enabled" = "확장 프로그램이 활성화 되었습니다";
 "The extension is disabled" = "확장 프로그램이 비활성화 되었습니다";
@@ -215,20 +215,20 @@ The language used in MAS/AppleID will be used in Keka's tip strings and may not 
 Note that the short string is limited to 30 characters and the long string is limited to 45 characters.
 */
 "Monthly sip of coffee" = "월별 커피 한모금";
-"Gift Keka a sip of coffee each month" = "Keka에게 매달 커피 한 모금을 기부";
+"Gift Keka a sip of coffee each month" = "Keka에게 매달 커피 한 모금을 선물";
 "Monthly coffee" = "월별 커피";
 "Gift Keka a coffee each month" = "Keka에게 매달 커피를 선물";
 "Monthly pair of coffees" = "월차 커피";
 "Gift Keka a couple coffees each month" = "Keka에게 매달 두 잔의 커피를 선물";
 "Monthly breakfast" = "월별 아침식사";
 "Gift Keka a breakfast each month" = "Keka에게 매달 아침식사를 선물";
-"Tip a coffee" = "Tip a coffee";
-"Tip Keka a coffee so it can stay awake" = "Tip Keka a coffee so it can stay awake";
-"Tip a breakfast" = "Tip a breakfast";
-"Tip Keka a breakfast so it can start fresh" = "Tip Keka a breakfast so it can start fresh";
-"Tip a lunch" = "Tip a lunch";
-"Tip Keka a lunch and feed it" = "Tip Keka a lunch and feed it";
-"Tip a dinner" = "Tip a dinner";
-"Tip Keka a dinner so it keeps rolling" = "Tip Keka a dinner so it keeps rolling";
-"Tip a bunch of food" = "Tip a bunch of food";
-"Tip Keka a new bunch of food to keep rolling" = "Tip Keka a new bunch of food to keep rolling";
+"Tip a coffee" = "커피 한잔 기부";
+"Tip Keka a coffee so it can stay awake" = "살아있는 프로젝트가 되도록 Keka에게 커피 한 잔을 기부해 주세요";
+"Tip a breakfast" = "아침식사 기부";
+"Tip Keka a breakfast so it can start fresh" = "생생한 시작을 위해 Keka에게 아침 식사를 기부해 주세요";
+"Tip a lunch" = "점심식사 기부";
+"Tip Keka a lunch and feed it" = "Keka에게 점심식사를 사주세요";
+"Tip a dinner" = "저녁식사 기부";
+"Tip Keka a dinner so it keeps rolling" = "지속적으로 배포될 수 있도록 Keka에게 저녁식사를 기부해 주세요";
+"Tip a bunch of food" = "한 묶음의 음식 기부";
+"Tip Keka a new bunch of food to keep rolling" = "지속적으로 배포될 수 있도록 Keka에게 한 묶음의 음식을 기부해 주세요";
