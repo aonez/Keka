@@ -3,22 +3,22 @@
 "2221.title" = "壓縮單一檔案";
 
 /* Class = "NSButtonCell"; title = "Delete file(s) after compression"; ObjectID = "2222"; */
-"2222.title" = "壓縮完成後刪除原始檔案";
+"2222.title" = "壓縮完成後刪除檔案";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks"; ObjectID = "2244"; */
-"2244.title" = "排除 Mac 資源檔案";
+"2244.title" = "排除 Mac 資源 fork";
 
 /* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "2262"; */
 "2262.title" = "密碼：";
 
 /* Class = "NSTextFieldCell"; title = "Split:"; ObjectID = "2270"; */
-"2270.title" = "切割：";
+"2270.title" = "分段大小：";
 
 /* Class = "NSComboBoxCell"; placeholderString = "Example: 5 MB"; ObjectID = "2271"; */
 "2271.placeholderString" = "例如：5 MB";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[0] = "1.4 MB Floppy disk"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[0]" = "1.4 MB 磁碟";
+"2271.ibShadowedObjectValues[0]" = "1.4 MB 軟碟";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[1] = "650 MB CD"; ObjectID = "2271"; */
 "2271.ibShadowedObjectValues[1]" = "650 MB CD";
@@ -51,28 +51,28 @@
 "2271.ibShadowedObjectValues[10]" = "128 GB Blu-ray XL (QL)";
 
 /* Class = "NSTextFieldCell"; title = "Volume name:"; ObjectID = "2343"; */
-"2343.title" = "映像名稱：";
+"2343.title" = "卷宗名稱：";
 
 /* Class = "NSTextFieldCell"; placeholderString = "custom name"; ObjectID = "2354"; */
 "2354.placeholderString" = "自訂名稱";
 
 /* Class = "NSTextFieldCell"; title = "You can create a ISO volume that will be read-only and compressed. ISO volumes can be only created from a folder.\n\nSet a volume name to this ISO or use the default name based on the files you compress."; ObjectID = "2363"; */
-"2363.title" = "您可以建立唯讀的壓縮 ISO 映像。ISO 映像只可以壓縮檔案夾。\n\n設定映像名稱或根據壓縮檔案產生名稱。";
+"2363.title" = "您可以建立唯讀的壓縮 ISO 映像。ISO 映像只可以壓縮檔案夾。\n\n設定 ISO 的卷宗名稱，或根據壓縮檔案產生名稱。";
 
 /* Class = "NSTextFieldCell"; title = "Store"; ObjectID = "2390"; */
-"2390.title" = "儲存";
+"2390.title" = "封存";
 
 /* Class = "NSTextFieldCell"; title = "Fast"; ObjectID = "2392"; */
-"2392.title" = "快";
+"2392.title" = "快速";
 
 /* Class = "NSTextFieldCell"; title = "Slow"; ObjectID = "2394"; */
-"2394.title" = "慢";
+"2394.title" = "慢速";
 
 /* Class = "NSTextFieldCell"; title = "Normal"; ObjectID = "2398"; */
-"2398.title" = "正常";
+"2398.title" = "正常速度";
 
 /* Class = "NSTextFieldCell"; title = "Repeat:"; ObjectID = "2426"; */
-"2426.title" = "重複：";
+"2426.title" = "確認密碼：";
 
 /* Class = "NSButtonCell"; title = "Encrypt filenames"; ObjectID = "L2I-Q8-zqc"; */
 "L2I-Q8-zqc.title" = "加密檔案名稱";

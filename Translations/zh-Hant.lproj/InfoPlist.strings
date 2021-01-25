@@ -24,8 +24,8 @@
 "Zstandard Archive" = "Zstandard 封存檔";
 "Zstandard Tarball Archive" = "Zstandard Tarball 封存檔";
 "RAR Archive" = "RAR 封存檔";
-"RAR Legacy Archive Volume" = "RAR 舊型封存映像檔";
-"Generic Archive Volume" = "通用封存映像檔";
+"RAR Legacy Archive Volume" = "RAR 舊型封存卷宗";
+"Generic Archive Volume" = "通用封存卷宗";
 "BZIP2 Archive" = "BZIP2 封存檔";
 "BZIP2 Tarball Archive" = "BZIP2 壓縮的 Tarball 封存檔";
 "BZIP Archive" = "BZIP 封存檔";

@@ -40,7 +40,7 @@
 "Creating %@ file..." = "正在建立 %@ 檔案⋯⋯";
 "Creating file \"%@\"" = "正在建立檔案「%@」";
 "Creating file \"%@...\"" = "正在建立檔案「%@」⋯⋯";
-"Volume name:" = "映像名稱：";
+"Volume name:" = "卷宗名稱：";
 "Select the encoding for \"%@\"" = "選擇「%@」的編碼方式";
 "Time elapsed: %d:%@%d:%@%d hours%@" = "已用時間：%d:%@%d:%@%d 小時%@";
 "Time elapsed: %d:%@%d minutes%@" = "已用時間：%d:%@%d 分鐘%@";
@@ -61,7 +61,7 @@
 "Preparing extraction..." = "準備解壓縮中⋯⋯";
 "Choose a folder to extract this file" = "選擇此檔案的解壓縮目的檔案夾";
 "Choose where do you want to extract \"%@\"" = "選擇「%@」的解壓縮位置";
-"Select all the volumes from \"%@\" or the folder that contains them" = "選擇所有來自「%@」的映像，或是包含這些映像的檔案夾";
+"Select all the volumes from \"%@\" or the folder that contains them" = "選擇「%@」的所有卷宗，或是包含這些卷宗的檔案夾";
 "Select the folder that contains \"%@\"" = "選擇包含「%@」的檔案夾";
 "Extraction of \"%@\" failed" = "解壓縮「%@」失敗";
 "Keka - %i on queue" = "Keka - %i 個正在佇列";
@@ -96,7 +96,7 @@
 "No compression" = "不壓縮";
 "Fastest, less compression" = "最快，低壓縮率";
 "Fast, less compression" = "較快，低壓縮率";
-"Normal" = "正常";
+"Normal" = "正常速度";
 "Slow, more compression" = "較慢，較高壓縮率";
 "Slowest, more compression" = "最慢，高壓縮率";
 "Compression" = "壓縮";
@@ -104,9 +104,9 @@
 "Keka can't use the \"extlx.plist\" list, please get in contact with the developers.\n\nNow Keka will quit." = "Keka 無法使用「extlx.plist」列表，請聯絡開發人員。\n\nKeka 即將結束。";
 "Keka is dying!" = "Keka 死掉了！";
 "Ask each time" = "每次都詢問";
-"Next to original file" = "在原始檔案旁";
+"Next to original file" = "與原本檔案同位置";
 "Custom folder..." = "自訂檔案夾⋯";
-"Same as original file" = "與原始檔案相同";
+"Same as original file" = "與原本檔案相同";
 "Custom name..." = "自訂名稱⋯";
 "Archive" = "封存";
 "Set as default folder" = "設為預設檔案夾";
@@ -202,8 +202,8 @@
 "All compressions will be stored at this location." = "所有壓縮內容都會在這個位置展開。";
 "You'll be asked where to extract each operation." = "每個動作您都會被詢問解壓縮的目的地。";
 "You'll be asked where to compress each operation." = "每個動作您都會被詢問壓縮的目的地。";
-"If Keka has File Access it will execute the operation near the source file/s, otherwise it will ask for a location. You can set Keka's File Access in the Preferences tab so this option works properly." = "如果 Keka 有檔案取用權限，它就會在來源檔案旁執行這個動作，否則它就會問你位置。您可以在「偏好設定」分頁設定 Keka 的檔案取用權限，以便讓這功能正常運作。";
-"Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka 沒有目的地檔案夾的檔案取用權限，所以它會問你位置。\n您可以在 Keka 偏好設定的「檔案取用權限」窗格加入這個和其他檔案夾的取用權限。";
+"If Keka has File Access it will execute the operation near the source file/s, otherwise it will ask for a location. You can set Keka's File Access in the Preferences tab so this option works properly." = "如果 Keka 有檔案取用權限，它便會在原本的位置執行這個動作，否則就會詢問執行位置。您可以在偏好設定設定 Keka 的「檔案取用」權限，使這功能得以正常運作。";
+"Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka 沒有目的地檔案夾的檔案取用權限，因此會詢問位置。\n您可以在 Keka 偏好設定的「檔案取用權限」窗格加入這個和其他檔案夾的取用權限。";
 "The characters %@ are not compatible with the %@ format" = "「%@」字元與 %@ 格式不相容";
 "The character %@ is not compatible with the %@ format" = "「%@」字元與 %@ 格式不相容";
 
