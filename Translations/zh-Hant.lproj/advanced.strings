@@ -12,7 +12,7 @@
 "2262.title" = "密碼：";
 
 /* Class = "NSTextFieldCell"; title = "Split:"; ObjectID = "2270"; */
-"2270.title" = "分裝大小：";
+"2270.title" = "分段大小：";
 
 /* Class = "NSComboBoxCell"; placeholderString = "Example: 5 MB"; ObjectID = "2271"; */
 "2271.placeholderString" = "例如：5 MB";
