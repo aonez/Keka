@@ -104,9 +104,9 @@
 "Keka can't use the \"extlx.plist\" list, please get in contact with the developers.\n\nNow Keka will quit." = "Keka 无法使用“extlx.plist”列表，请联系开发人员。\n\nKeka 将退出。";
 "Keka is dying!" = "Keka 快不行了！";
 "Ask each time" = "每次询问";
-"Next to original file" = "和原文件相同位置";
+"Next to original file" = "和源文件相同位置";
 "Custom folder..." = "自定文件夹…";
-"Same as original file" = "和原文件相同";
+"Same as original file" = "和源文件相同";
 "Custom name..." = "自定名称…";
 "Archive" = "归档";
 "Set as default folder" = "设置为默认文件夹";

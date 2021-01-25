@@ -39,7 +39,7 @@
 "199.title" = "执行自动操作";
 
 /* Class = "NSButtonCell"; title = "Move original file(s) to Trash after compression"; ObjectID = "262"; */
-"262.title" = "压缩完成后删除原文件";
+"262.title" = "压缩完成后删除源文件";
 
 /* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "263"; */
 "263.title" = "分别压缩每个文件";
@@ -54,7 +54,7 @@
 "279.title" = "每次都询问";
 
 /* Class = "NSMenuItem"; title = "Next to original file"; ObjectID = "280"; */
-"280.title" = "和原文件相同位置";
+"280.title" = "和源文件相同位置";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "281"; */
 "281.title" = "自定文件夹…";
@@ -66,7 +66,7 @@
 "283.title" = "新文件的名称：";
 
 /* Class = "NSMenuItem"; title = "Same as original file"; ObjectID = "286"; */
-"286.title" = "和原文件相同";
+"286.title" = "和源文件相同";
 
 /* Class = "NSMenuItem"; title = "Custom name..."; ObjectID = "287"; */
 "287.title" = "自定名称…";
@@ -75,7 +75,7 @@
 "357.title" = "每次都询问";
 
 /* Class = "NSMenuItem"; title = "Next to original file"; ObjectID = "358"; */
-"358.title" = "和原文件相同位置";
+"358.title" = "和源文件相同位置";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "359"; */
 "359.title" = "自定文件夹…";
@@ -87,7 +87,7 @@
 "361.title" = "解压完成后在访达中显示";
 
 /* Class = "NSButtonCell"; title = "Move compressed file(s) to Trash after extraction"; ObjectID = "362"; */
-"362.title" = "解压完成后删除原文件";
+"362.title" = "解压完成后删除源文件";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "418"; */
 "418.title" = "无";
@@ -252,7 +252,7 @@
 "p5F-63-ubE.title" = "保留源扩展名：";
 
 /* Class = "NSButtonCell"; title = "Always extract in a subfolder"; ObjectID = "pXT-7y-9af"; */
-"pXT-7y-9af.title" = "在子文件夹中始终解压";
+"pXT-7y-9af.title" = "始终解压至子文件夹";
 
 /* Class = "NSButtonCell"; title = "Show Keka actions in Finder's contextual menu"; ObjectID = "rP2-XR-ZQt"; */
 "rP2-XR-ZQt.title" = "在 Finder 的上下文菜单中显示 Keka 操作";
