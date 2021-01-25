@@ -212,7 +212,8 @@ MAS tips
 Note this will be used in Apple's servers
 Apple needs to have MAS translated in this language so this strings can be used
 The language used in MAS/AppleID will be used in Keka's tip strings and may not match Keka's localization
-Note that the short string is limited to 30 characters and the long string is limited to 45 characters.
+Note that the short string is limited to 30 characters and the long string is limited to 45 characters
+Emojis cannot be used in these strings :(
 */
 "Monthly sip of coffee" = "Monatlich einen Schluck Kaffee";
 "Gift Keka a sip of coffee each month" = "Schenke Keka jeden Monat einen Schluck Kaffee";
