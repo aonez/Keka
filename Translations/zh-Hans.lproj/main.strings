@@ -90,7 +90,7 @@
 "maF-B5-Hb6.title" = "关于 Keka";
 
 /* Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "nlc-UW-DRW"; */
-"nlc-UW-DRW.title" = "复原到已存储的版本";
+"nlc-UW-DRW.title" = "还原至已保存";
 
 /* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "nvz-UK-KlM"; */
 "nvz-UK-KlM.title" = "存储为…";
@@ -117,7 +117,7 @@
 "tjx-uw-4ov.title" = "页面设置…";
 
 /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "v5b-pg-pYC"; */
-"v5b-pg-pYC.title" = "拷贝";
+"v5b-pg-pYC.title" = "复制";
 
 /* Class = "NSMenuItem"; title = "New Window"; ObjectID = "wLf-5U-sSh"; */
 "wLf-5U-sSh.title" = "新窗口";
