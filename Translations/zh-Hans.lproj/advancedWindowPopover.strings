@@ -3,10 +3,10 @@
 "9ew-FN-7fK.title" = "自动保存配置更改";
 
 /* Class = "NSButtonCell"; title = "Remove this configuration"; ObjectID = "OVd-YP-1Rw"; */
-"OVd-YP-1Rw.title" = "移除该窗口";
+"OVd-YP-1Rw.title" = "移除该配置";
 
 /* Class = "NSButtonCell"; title = "Use as default window"; ObjectID = "TEo-Z0-eew"; */
-"TEo-Z0-eew.title" = "设为默认窗口";
+"TEo-Z0-eew.title" = "用作默认窗口";
 
 /* Class = "NSTextFieldCell"; title = "Window name:"; ObjectID = "z32-BZ-Pec"; */
 "z32-BZ-Pec.title" = "窗口名称：";

@@ -1,5 +1,5 @@
 <?php
-// Keka lang - version 0.31 - Started on 08/06/19 - by Max Sky
+// Keka lang - version 0.4 - Started on 01/25/21 - by Max Sky
 //
 //
 // Language: Simplified Chinese
@@ -62,9 +62,14 @@ $content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Def
 
 // Privacy Policy
 $content_privacypolicy_title = '隐私政策';
+$content_privacypolicy_content = 'Keka 不会从您的计算机发送或存储任何类型的数据。';
+$content_privacypolicy_MAS = 'MAS 版本不存在任何网络功能。';
+$content_privacypolicy_WEB = 'WEB 版本将 Sparkle 用于更新过程（可禁用），所以该组件可以连接到网络。它仅用于检查新版本并下载。该组件从未存储或共享任何类型的信息，甚至是在 Keka 1.0.0 之前的某些版本中启用但从未使用过的<a href="https://sparkle-project.org/documentation/system-profiling/">匿名系统配置文件数据</a>。';
 
 // Terms of use
 $content_termsofuse_title = '使用条款';
+$content_termsofuse_inapp_title = '应用内购';
+$content_termsofuse_inapp = 'Keka 的 App Store 版本提供应用购买，作为捐赠和帮助项目开发的一种方式, 与 <a href="https://www.keka.io/#lovekeka">网站中的 PayPal/Sponsors</a> 相似。这些购买项是可选的且不授予任何其它功能。';
 
 // Main content of the page
 $content_context_menu = "服务菜单（右键服务）";
