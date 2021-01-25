@@ -81,7 +81,7 @@
 "Lw7-h9-3Qh.title" = "使用 AES-256 加密";
 
 /* Class = "NSButtonCell"; title = "Solid archive"; ObjectID = "UYy-aQ-V1a"; */
-"UYy-aQ-V1a.title" = "固实压缩";
+"UYy-aQ-V1a.title" = "固实归档";
 
 /* Class = "NSButtonCell"; title = "Use BZIP2 compression"; ObjectID = "qhy-NU-Cts"; */
 "qhy-NU-Cts.title" = "使用 BZIP2 压缩";
