@@ -120,43 +120,43 @@
 "5B7-Sc-wp0.title" = "Bạn có thể tuỳ chỉnh quyền truy cập bên dưới:";
 
 /* Class = "NSButtonCell"; title = "Automatically check for updates"; ObjectID = "63y-ct-DNM"; */
-"63y-ct-DNM.title" = "Automatically check for updates";
+"63y-ct-DNM.title" = "Tự động kiểm tra các bản cập nhật";
 
 /* Class = "NSMenuItem"; title = "Desktop"; ObjectID = "67Z-kB-INb"; */
 "67Z-kB-INb.title" = "Desktop";
 
 /* Class = "NSButtonCell"; title = "Nest actions in a submenu"; ObjectID = "6bh-6N-5PP"; */
-"6bh-6N-5PP.title" = "Nest actions in a submenu";
+"6bh-6N-5PP.title" = "Gom các lệnh vào một lệnh con";
 
 /* Class = "NSTextFieldCell"; title = "You can use this placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
-"8JN-Ub-qkc.title" = "You can use this placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n\nThe replacements will be empty in some cases.";
+"8JN-Ub-qkc.title" = "Bạn có thể dùng phần nội dung này:\n\n%n sẽ được thay thế với tên tập tin\n%e sẽ được thay thế với phần mở rộng\n%p sẽ được thay thế bằng thư mục mẹ\n%c sẽ được thay thế bằng số lượng tập tin\n%d sẽ được thay thế bằng ngày hiện tại\n%t sẽ được thay thế bằng thời gian hiện tại\n%s sẽ được thay thế bằng tên đã chia sẻ\n%i% sẽ được thay thế bằng tên mục đầu tiên\n%ia% sẽ được thay thế bằng tên được sắp xếp đầu tiên\n\nCác thay thế sẽ trống trong một số trường hợp.";
 
 /* Class = "NSTextFieldCell"; title = "Fallback folder:"; ObjectID = "9dE-yV-N3K"; */
-"9dE-yV-N3K.title" = "Fallback folder:";
+"9dE-yV-N3K.title" = "Thư mục dự phòng:";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "CWc-wN-FhI"; */
-"CWc-wN-FhI.title" = "Custom folder...";
+"CWc-wN-FhI.title" = "Thư mục tuỳ chỉnh...";
 
 /* Class = "NSTextFieldCell"; title = "Extractions use less power so even using multiple thread you can easily set this limit to two or three. Note that the target disk may suffer."; ObjectID = "DAr-Td-s5W"; */
-"DAr-Td-s5W.title" = "Extractions use less power so even using multiple threads you can easily set this limit to two or three. Note that the target disk may suffer.";
+"DAr-Td-s5W.title" = "Tiến trình giải nén sử dụng ít năng lượng nên khi sử dụng đa luồng xử lý bạn vẫn có thể thiết đặt giới hạn xuống còn hai hoặc ba luồng dễ dàng. Lưu ý rằng ổ đĩa thao tác có thể bị ảnh hưởng.";
 
 /* Class = "NSButtonCell"; title = "Ask before quitting with operations"; ObjectID = "DJT-wB-bCM"; */
-"DJT-wB-bCM.title" = "Ask before quitting with operations";
+"DJT-wB-bCM.title" = "Hỏi trước khi huỷ bỏ tác vụ";
 
 /* Class = "NSButtonCell"; title = "Enable home folder access"; ObjectID = "DL5-wY-cqc"; */
 "DL5-wY-cqc.title" = "Bật truy cập thư mục home";
 
 /* Class = "NSTextFieldCell"; title = "Default action:"; ObjectID = "EJQ-OL-pMF"; */
-"EJQ-OL-pMF.title" = "Default action:";
+"EJQ-OL-pMF.title" = "Hành động mặc định:";
 
 /* Class = "NSMenuItem"; title = "Always"; ObjectID = "EOi-2B-eBv"; */
-"EOi-2B-eBv.title" = "Always";
+"EOi-2B-eBv.title" = "Luôn luôn";
 
 /* Class = "NSButtonCell"; title = "Use custom name when compressing multiple files"; ObjectID = "Ei5-Ya-HGI"; */
-"Ei5-Ya-HGI.title" = "Use custom name when compressing multiple files";
+"Ei5-Ya-HGI.title" = "Sử dụng tên tùy chỉnh khi nén nhiều tệp";
 
 /* Class = "NSTextFieldCell"; title = "It is recommended to only do one compression at a time if using multiple threads."; ObjectID = "Hkf-wB-gUj"; */
-"Hkf-wB-gUj.title" = "It is recommended to only do one compression at a time if using multiple threads.";
+"Hkf-wB-gUj.title" = "Bạn chỉ nên thực hiện một lần nén trong một thời điểm nếu sử dụng đa luồng.";
 
 /* Class = "NSTextFieldCell"; title = "Those are only applied when Keka is not open"; ObjectID = "Hx2-S1-j7m"; */
 "Hx2-S1-j7m.title" = "Tuỳ chọn này chỉ áp dụng khi Keka chưa được mở.";
@@ -168,16 +168,16 @@
 "JxT-Nq-8Z5.title" = "Bật quyền truy cập ổ đĩa rời để Keka có thể chạy được trên ổ đĩa rời của bạn như trên USB hay ổ Thunderbolt.";
 
 /* Class = "NSTextFieldCell"; title = "Queue compression operations:"; ObjectID = "K5h-j5-bss"; */
-"K5h-j5-bss.title" = "Queue compression operations:";
+"K5h-j5-bss.title" = "Hàng chờ các tác vụ nén:";
 
 /* Class = "NSButtonCell"; title = "Inherit quarantine from downloaded files"; ObjectID = "KDR-ag-bll"; */
-"KDR-ag-bll.title" = "Inherit quarantine from downloaded files";
+"KDR-ag-bll.title" = "Tiếp nhận cách ly từ các tập tin được tải xuống";
 
 /* Class = "NSButtonCell"; title = "Show in external volumes"; ObjectID = "KOF-7X-bQo"; */
-"KOF-7X-bQo.title" = "Show in external volumes";
+"KOF-7X-bQo.title" = "Hiện trong ổ đĩa rời";
 
 /* Class = "NSTextFieldCell"; title = "Limit the number of threads per operation:"; ObjectID = "ND5-DN-C1H"; */
-"ND5-DN-C1H.title" = "Limit the number of threads per operation:";
+"ND5-DN-C1H.title" = "Giới hạn số lượng các luồng xử lý mỗi tác vụ:";
 
 /* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder."; ObjectID = "PD2-iW-BGK"; */
 "PD2-iW-BGK.title" = "Bật quyền truy cập vào home để Keka có thể chạy với tất cả tập tin của bạn như thư mục Bàn làm việc và thư mục Tải xuống.";
@@ -186,7 +186,7 @@
 "SOL-6U-5P9.title" = "Bật tích hợp vào Trung tâm thông báo";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "TLc-Nk-Bps"; */
-"TLc-Nk-Bps.placeholderString" = "Here your custom name";
+"TLc-Nk-Bps.placeholderString" = "Đây là tên tuỳ chỉnh của bạn";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "WCN-jH-W9J"; */
 "WCN-jH-W9J.placeholderString" = "Thêm tên tuỳ chỉnh tại đây";
@@ -195,88 +195,88 @@
 "Wd0-yz-M1h.title" = "Remove bad password header structure extractions";
 
 /* Class = "NSMenuItem"; title = "Automatic"; ObjectID = "XOB-JO-UQT"; */
-"XOB-JO-UQT.title" = "Automatic";
+"XOB-JO-UQT.title" = "Tự động";
 
 /* Class = "NSButtonCell"; title = "Use BZIP2 compression in DMG files (better but slower)"; ObjectID = "Xoi-ui-e7P"; */
-"Xoi-ui-e7P.title" = "Use BZIP2 compression in DMG files (better but slower)";
+"Xoi-ui-e7P.title" = "Dùng dạng BZIP2 với tập tin DMG (tốt hơn nhưng chậm)";
 
 /* Class = "NSTextFieldCell"; title = "Enable full Mac access so Keka can be used on all your Mac."; ObjectID = "ZOx-vr-5o7"; */
 "ZOx-vr-5o7.title" = "Bật quyền truy cập đầy đủ trên Mac để Keka có thể chạy được mọi nơi trên Mac của bạn.";
 
 /* Class = "NSButtonCell"; title = "Use \"Open with Keka\" as the primary item action"; ObjectID = "a5e-FP-sDv"; */
-"a5e-FP-sDv.title" = "Use \"Open with Keka\" as the primary item action";
+"a5e-FP-sDv.title" = "Dùng \"Mở với Keka\" làm lệnh thực thi mặc định";
 
 /* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "b5e-bj-Pgz"; */
-"b5e-bj-Pgz.title" = "Sủ dụng thanh công cụ gốc (đặt lại tuỳ chỉnh)";
+"b5e-bj-Pgz.title" = "Sử dụng thanh công cụ gốc (đặt lại tuỳ chỉnh)";
 
 /* Class = "NSButtonCell"; title = "Use parent folder name when compressing multiple files"; ObjectID = "cDs-NB-2os"; */
-"cDs-NB-2os.title" = "Use parent folder name when compressing multiple files";
+"cDs-NB-2os.title" = "Dùng tên thư mục mẹ khi nén nhiều tập tin bên trong đó";
 
 /* Class = "NSTextFieldCell"; title = "The fallback folder will be used when Keka can't work in the selected folder."; ObjectID = "caX-B6-61f"; */
-"caX-B6-61f.title" = "The fallback folder will be used when Keka can't work in the selected folder.";
+"caX-B6-61f.title" = "Thư mục dự phòng sẽ được sử dụng khi Keka không thể làm việc với thư mục đã chọn.";
 
 /* Class = "NSButtonCell"; title = "Maximum threads per operation:"; ObjectID = "cb7-h4-ScP"; */
-"cb7-h4-ScP.title" = "Maximum threads per operation:";
+"cb7-h4-ScP.title" = "Số luồng xử lý tối đa cho mỗi tác vụ:";
 
 /* Class = "NSButtonCell"; title = "Checking the extension status"; ObjectID = "chn-AV-kXZ"; */
-"chn-AV-kXZ.title" = "Checking the extension status";
+"chn-AV-kXZ.title" = "Kiểm tra tình trạng phần mở rộng";
 
 /* Class = "NSTextFieldCell"; title = "Compressing multiple files:"; ObjectID = "dhi-qv-weg"; */
-"dhi-qv-weg.title" = "Compressing multiple files:";
+"dhi-qv-weg.title" = "Nén nhiều tập tin:";
 
 /* Class = "NSButtonCell"; title = "Set folder's modification date to extraction date"; ObjectID = "eBj-1b-wBg"; */
-"eBj-1b-wBg.title" = "Set folder's modification date to extraction date";
+"eBj-1b-wBg.title" = "Đặt ngày sửa đổi của thư mục trùng với ngày giải nén";
 
 /* Class = "NSButtonCell"; title = "Always tarball non-archiving formats (like GZ or BZIP2) "; ObjectID = "faa-9Y-Axk"; */
-"faa-9Y-Axk.title" = "Always tarball non-archiving formats (like GZ or BZIP2) ";
+"faa-9Y-Axk.title" = "Luôn luôn chỉnh sửa các dạng không nén (như GZ hay BZIP2) ";
 
 /* Class = "NSTextFieldCell"; title = "Queue extraction operations:"; ObjectID = "fhN-DK-edu"; */
-"fhN-DK-edu.title" = "Queue extraction operations:";
+"fhN-DK-edu.title" = "Hàng đợi các tác vụ giải nén:";
 
 /* Class = "NSTextFieldCell"; title = "Compressing a single file:"; ObjectID = "hLS-Ut-4fh"; */
-"hLS-Ut-4fh.title" = "Compressing a single file:";
+"hLS-Ut-4fh.title" = "Nén một tập tin duy nhất:";
 
 /* Class = "NSButtonCell"; title = "Use AES-256 when encrypting ZIP files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
 "hp7-jO-HeV.title" = "Sử dụng AES-256 khi mã hoá tập tin ZIP (kém tương thích hơn)";
 
 /* Class = "NSTextFieldCell"; title = "You can customize where to show the contextual menu below:"; ObjectID = "izC-0G-lvl"; */
-"izC-0G-lvl.title" = "You can customize where to show the contextual menu below:";
+"izC-0G-lvl.title" = "Bạn có thể tùy chỉnh vị trí hiển thị menu ngữ cảnh bên dưới:";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous operations:"; ObjectID = "o8J-bR-bs6"; */
-"o8J-bR-bs6.title" = "Maximum simultaneous operations:";
+"o8J-bR-bs6.title" = "Số tác vụ thực thi song song tối đa:";
 
 /* Class = "NSTextFieldCell"; title = "Queue operations:"; ObjectID = "otI-Pt-BTh"; */
-"otI-Pt-BTh.title" = "Queue operations:";
+"otI-Pt-BTh.title" = "Hàng đợi các tác vụ:";
 
 /* Class = "NSTextFieldCell"; title = "Keep source extension:"; ObjectID = "p5F-63-ubE"; */
-"p5F-63-ubE.title" = "Keep source extension:";
+"p5F-63-ubE.title" = "Giữ phần mở rộng nguồn:";
 
 /* Class = "NSButtonCell"; title = "Always extract in a subfolder"; ObjectID = "pXT-7y-9af"; */
-"pXT-7y-9af.title" = "Always extract in a subfolder";
+"pXT-7y-9af.title" = "Luôn giải nén trong một thư mục con";
 
 /* Class = "NSButtonCell"; title = "Show Keka actions in Finder's contextual menu"; ObjectID = "rP2-XR-ZQt"; */
-"rP2-XR-ZQt.title" = "Show Keka actions in Finder's contextual menu";
+"rP2-XR-ZQt.title" = "Hiển thị các hành động của Keka trong menu ngữ cảnh của Finder";
 
 /* Class = "NSButtonCell"; title = "Show icons in actions"; ObjectID = "s9u-2a-b8X"; */
-"s9u-2a-b8X.title" = "Show icons in actions";
+"s9u-2a-b8X.title" = "Hiển thị biểu tượng cho các lệnh";
 
 /* Class = "NSButtonCell"; title = "Enable external volumes access"; ObjectID = "sgV-AD-k4Q"; */
 "sgV-AD-k4Q.title" = "Bật quyền truy cập ổ đĩa rời";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous compressions:"; ObjectID = "sjA-7B-5U6"; */
-"sjA-7B-5U6.title" = "Maximum simultaneous compressions:";
+"sjA-7B-5U6.title" = "Số tác vụ nén song song tối đa:";
 
 /* Class = "NSMenuItem"; title = "Never, when possible"; ObjectID = "tEH-O0-NxO"; */
-"tEH-O0-NxO.title" = "Never, when possible";
+"tEH-O0-NxO.title" = "Không bao giờ, ngay cả khi có thể";
 
 /* Class = "NSTextFieldCell"; title = "The Finder Extension needs to be enabled in the  System Preferences, Extensions configuration."; ObjectID = "wgz-2S-eXI"; */
-"wgz-2S-eXI.title" = "The Finder Extension needs to be enabled in the  System Preferences, Extensions configuration.";
+"wgz-2S-eXI.title" = "Phần mở rộng cho Finder cần được kích hoạt trong  Tuỳ chọn Hệ thống, cấu hình Phần mở rộng.";
 
 /* Class = "NSTextFieldCell"; title = "Most operations use multiple threads. That means faster operations but also more power consumption and heat."; ObjectID = "xyb-eH-aiy"; */
-"xyb-eH-aiy.title" = "Most operations use multiple threads. That means faster operations but also more power consumption and heat.";
+"xyb-eH-aiy.title" = "Hầu hết các tác vụ sử dụng nhiều luồng xử lý. Điều đó có nghĩa là hoạt động nhanh hơn nhưng cũng tiêu thụ nhiều điện năng và toả nhiệt hơn.";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous extractions:"; ObjectID = "yGo-Gm-0zq"; */
-"yGo-Gm-0zq.title" = "Maximum simultaneous extractions:";
+"yGo-Gm-0zq.title" = "Số tác vụ giải nén song song tối đa:";
 
 /* Class = "NSTextFieldCell"; title = "Queuing usually results in faster operations and a more responsive behaviour."; ObjectID = "zPq-ei-qUb"; */
-"zPq-ei-qUb.title" = "Queuing usually results in faster operations and a more responsive behaviour.";
+"zPq-ei-qUb.title" = "Hàng đợi cho kết quả nhanh hơn khi xử lý tác vụ và cho phản hồi linh hoạt hơn.";

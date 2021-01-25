@@ -1,7 +1,7 @@
-"Open with Keka" = "Open with Keka";
-"Compress here" = "Compress here";
-"Compress to..." = "Compress to...";
-"Extract here" = "Extract here";
-"Extract to..." = "Extract to...";
-"Extract to \"%@\"" = "Extract to \"%@\"";
-"Compress with Keka" = "Compress with Keka";
+"Open with Keka" = "Keka로 열기";
+"Compress here" = "여기에 압축하기";
+"Compress to..." = "다음으로 압축하기...";
+"Extract here" = "여기에 압축 해제하기";
+"Extract to..." = "다음으로 압축 해제하기...";
+"Extract to \"%@\"" = "\"%@\"으로 압축 해제하기";
+"Compress with Keka" = "Keka로 압축하기";
