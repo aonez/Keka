@@ -1,9 +1,9 @@
-﻿
+
 /* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "2221"; */
-"2221.title" = "分别压缩每个文件";
+"2221.title" = "每项单独压缩";
 
 /* Class = "NSButtonCell"; title = "Delete file(s) after compression"; ObjectID = "2222"; */
-"2222.title" = "压缩完成后删除原文件";
+"2222.title" = "压缩完成后删除源文件";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks"; ObjectID = "2244"; */
 "2244.title" = "排除 Mac 资源文件";
@@ -15,7 +15,7 @@
 "2270.title" = "分卷：";
 
 /* Class = "NSComboBoxCell"; placeholderString = "Example: 5 MB"; ObjectID = "2271"; */
-"2271.placeholderString" = "例如：5 MB";
+"2271.placeholderString" = "示例：5 MB";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[0] = "1.4 MB Floppy disk"; ObjectID = "2271"; */
 "2271.ibShadowedObjectValues[0]" = "1.4 MB 软盘";
@@ -57,7 +57,7 @@
 "2354.placeholderString" = "自定名称";
 
 /* Class = "NSTextFieldCell"; title = "You can create a ISO volume that will be read-only and compressed. ISO volumes can be only created from a folder.\n\nSet a volume name to this ISO or use the default name based on the files you compress."; ObjectID = "2363"; */
-"2363.title" = "你可以创建一个只读且被压缩的 ISO 卷。ISO 卷只能由一个文件夹创建。\n\n为此 ISO 命名，否则默认使用原文件名称。";
+"2363.title" = "你可以创建一个只读且被压缩的 ISO 卷。ISO 卷只能通过一个文件夹创建。\n\n为此 ISO 设置卷名，否则将根据压缩的文件使用默认名称。";
 
 /* Class = "NSTextFieldCell"; title = "Store"; ObjectID = "2390"; */
 "2390.title" = "存储";
@@ -81,7 +81,7 @@
 "Lw7-h9-3Qh.title" = "使用 AES-256 加密";
 
 /* Class = "NSButtonCell"; title = "Solid archive"; ObjectID = "UYy-aQ-V1a"; */
-"UYy-aQ-V1a.title" = "固实压缩";
+"UYy-aQ-V1a.title" = "固实归档";
 
 /* Class = "NSButtonCell"; title = "Use BZIP2 compression"; ObjectID = "qhy-NU-Cts"; */
 "qhy-NU-Cts.title" = "使用 BZIP2 压缩";

@@ -1,5 +1,5 @@
 // Usually leave this one in English
-"NSHumanReadableCopyright" = "Copyright © 2009-2020 aONe";
+"NSHumanReadableCopyright" = "Copyright © 2009-2021 aONe";
 
 /* Access request descriptions */
 "NSDesktopFolderUsageDescription" = "Keka 需要桌面访问权限才能使用其文件。";
@@ -56,4 +56,4 @@
 "Safari extension" = "Safari 扩展";
 "ACE Archive" = "ACE 归档";
 "XIP Secure Archive" = "XIP 安全归档";
-"Keka Extraction Package" = "Keka 压缩包";
+"Keka Extraction Package" = "Keka 提取包";

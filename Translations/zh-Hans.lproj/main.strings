@@ -90,7 +90,7 @@
 "maF-B5-Hb6.title" = "关于 Keka";
 
 /* Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "nlc-UW-DRW"; */
-"nlc-UW-DRW.title" = "复原到已存储的版本";
+"nlc-UW-DRW.title" = "还原至已保存";
 
 /* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "nvz-UK-KlM"; */
 "nvz-UK-KlM.title" = "存储为…";

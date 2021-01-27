@@ -1,12 +1,12 @@
 // Usually leave this one in English
-"NSHumanReadableCopyright" = "Copyright © 2009-2020 aONe";
+"NSHumanReadableCopyright" = "Copyright © 2009-2021 aONe";
 
 /* Access request descriptions */
-"NSDesktopFolderUsageDescription" = "Keka requires Desktop access to work with it's files.";
-"NSDocumentsFolderUsageDescription" = "Keka requires Documents access to work with it's files.";
-"NSDownloadsFolderUsageDescription" = "Keka requires Downloads access to work with it's files.";
-"NSNetworkVolumesUsageDescription" = "Keka requires network volumes access to work with it's files.";
-"NSRemovableVolumesUsageDescription" = "Keka requires removable volumes access to work with it's files.";
+"NSDesktopFolderUsageDescription" = "Keka는 파일 작업을 위해 데스크탑 폴더 접근이 필요합니다.";
+"NSDocumentsFolderUsageDescription" = "Keka는 파일 작업을 위해 문서 폴더 접근이 필요합니다.";
+"NSDownloadsFolderUsageDescription" = "Keka는 파일 작업을 위해 다운로드 폴더 접근이 필요합니다.";
+"NSNetworkVolumesUsageDescription" = "Keka는 파일 작업을 위해 네트워크 볼륨 접근이 필요합니다.";
+"NSRemovableVolumesUsageDescription" = "Keka는 파일 작업을 위해 외장 디스크 접근이 필요합니다.";
 
 /* File types */
 "7Z Archive" = "7Z 아카이브";
@@ -19,12 +19,12 @@
 "ZIPX Archive" = "ZIPX 아카이브";
 "XZ Archive" = "XZ 아카이브";
 "XZ Tarball Archive" = "XZ 압축 TAR 아카이브";
-"Brotli Archive" = "Brotli Archive";
-"Brotli Tarball Archive" = "Brotli Tarball Archive";
-"Zstandard Archive" = "Zstandard Archive";
-"Zstandard Tarball Archive" = "Zstandard Tarball Archive";
+"Brotli Archive" = "Brotli 아카이브";
+"Brotli Tarball Archive" = "Brotli Tarball 아카이브";
+"Zstandard Archive" = "Zstandard 아카이브";
+"Zstandard Tarball Archive" = "Zstandard Tarball 아카이브";
 "RAR Archive" = "RAR 아카이브";
-"RAR Legacy Archive Volume" = "RAR Legacy 아카이브 볼륨";
+"RAR Legacy Archive Volume" = "RAR 레거시 아카이브 볼륨";
 "Generic Archive Volume" = "범용 아카이브 볼륨";
 "BZIP2 Archive" = "BZIP2 아카이브";
 "BZIP2 Tarball Archive" = "BZIP2 압축 TAR 아카이브";
@@ -41,19 +41,19 @@
 "DMG Disk Image" = "DMG 디스크 이미지";
 "ISO Disk Image" = "ISO 디스크 이미지";
 "LHA Archive" = "LHA 아카이브";
-"Windows EXE File" = "Windows EXE 파일";
+"Windows EXE File" = "Windows 실행 파일";
 "Windows Cabinet File" = "Windows Cabinet 파일";
-"Windows Installer Package" = "Windows Installer Package";
+"Windows Installer Package" = "Windows 설치 패키지";
 "WIM Disk Image" = "WIM 디스크 이미지";
 "Comic Book RAR Archive" = "Comic Book RAR 아카이브";
 "Comic Book ZIP Archive" = "Comic Book ZIP 아카이브";
 "iOS App" = "iOS 앱";
 "JAR Archive" = "JAR 아카이브";
 "WAR Archive" = "WAR 아카이브";
-"Android Application Package" = "안드로이드 Application Package";
+"Android Application Package" = "안드로이드 앱 패키지";
 "Cross-Platform Installer Module (XPI)" = "Cross-Platform Installer Module (XPI)";
 "APPX Archive" = "APPX 아카이브";
 "Safari extension" = "Safari 확장 프로그램";
-"ACE Archive" = "ACE Archive";
-"XIP Secure Archive" = "XIP Secure Archive";
-"Keka Extraction Package" = "Keka Extraction Package";
+"ACE Archive" = "ACE 아카이브";
+"XIP Secure Archive" = "XIP 보안 아카이브";
+"Keka Extraction Package" = "Keka 압축 해제 패키지";

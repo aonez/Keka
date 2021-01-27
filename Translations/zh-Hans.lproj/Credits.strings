@@ -9,7 +9,7 @@
 "_FREEWARE_" = "Keka 所使用的免费软件二进制文件";
 "_ONEMORETHING_" = "另外";
 "_THANKS_" = "感谢使用 Keka!";
-"_SOURCE_" = "由于某些法律原因，Keka 1.0 的源代码不会公开。本项目需要法务支持，如果你可以在法律领域帮助本项目，请通过 info@keka.io 或 Keka 官方网站上的“项目”页面联系。欢迎提供任何帮助。";
+"_SOURCE_" = "由于某些法律原因，Keka 1.0 的源代码不会公开。本项目需要法务支持，如果您可以在法律领域帮助本项目，请通过 info@keka.io 或 Keka 官方网站上的“项目”页面联系。欢迎提供任何帮助。";
 "_WARRANTY_" = "THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.";
-"_THANKSTOALL_" = "感谢所有捐赠的朋友，感谢所有从 App Store 购买 Keka 的朋友。<br />谢谢你们所有的反馈和为本项目作出的贡献。<br />感谢伟大的 Igor Pavlov 和这样一个开源程序，以及 “myspace” 把它移植到 POSIX。<br /><br />你们维持着 Keka 项目的活力，并使之发展。";
-"_APPEARDONATION_" = "如果你已捐赠并希望出现在这儿，只需点击 <a href=\"mailto:info@keka.io?subject=Keka donation credits\">让我知道</a> :)";
+"_THANKSTOALL_" = "感谢所有捐赠的朋友，感谢所有从 App Store 购买 Keka 的朋友。<br />谢谢您们所有的反馈和为本项目作出的贡献。<br />感谢伟大的 Igor Pavlov 和这样一个开源程序，以及 “myspace” 把它移植到 POSIX。<br /><br />您们维持着 Keka 项目的活力，并使之发展。";
+"_APPEARDONATION_" = "如果您已捐赠并希望出现在这儿，只需点击 <a href=\"mailto:info@keka.io?subject=Keka donation credits\">让我知道</a> :)";
