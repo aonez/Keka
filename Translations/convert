@@ -1,12 +1,5 @@
 #!/bin/bash
 
-GREEN='\033[0;32m'
-ORANGE='\033[0;33m'
-RED='\033[0;31m'
-YELLOW='\033[1;31m'
-WHITE='\033[1;37m'
-NC='\033[0m' # No Color
-
 cd "${0%/*}"
 
 xcode=0
@@ -23,13 +16,13 @@ do
 	fi
 done
 
-if [ $xcode -eq 1 ]; then
-	GREEN=''
-	ORANGE=''
-	RED=''
-	YELLOW=''
-	WHITE=''
-	NC=''
+if [ $xcode -eq 0 ]; then
+	GREEN='\033[0;32m'
+	ORANGE='\033[0;33m'
+	RED='\033[0;31m'
+	YELLOW='\033[1;31m'
+	WHITE='\033[1;37m'
+	NC='\033[0m' # No Color
 fi
 
 someError=0
@@ -68,12 +61,6 @@ function convertStringsFile {
 	fi
 	n=${t#$f/} # file name
 	text="${f}/${n}"
-	# file -I seems to work in Xcode 10.1+, Mojave.
-	#if [ $xcode -eq 1 ]; then
-	#	enc="$( file -i ${t} )"
-	#else
-	#	enc="$( file -I ${t} )"
-	#fi
 	enc="$( file -I ${t} )"
 	charset="$( echo ${enc} | cut -d'=' -f2 )"
 	noUTF8=0	

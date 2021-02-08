@@ -5,7 +5,7 @@
 /* Class = "NSMenuItem"; title = "Services"; ObjectID = "0Tk-5P-8i2"; */
 "0Tk-5P-8i2.title" = "服務";
 
-/* Class = "NSMenuItem"; title = "Open  folder"; ObjectID = "52a-zm-Csr"; */
+/* Class = "NSMenuItem"; title = "Open logs folder"; ObjectID = "52a-zm-Csr"; */
 "52a-zm-Csr.title" = "打開記錄檔案夾";
 
 /* Class = "NSMenu"; title = "Debug"; ObjectID = "6lT-KW-uXA"; */
