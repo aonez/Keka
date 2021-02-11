@@ -1,3 +1,4 @@
+﻿
 /*
 //
 // This file is for Little Snitch's IAP: https://help.obdev.at/resources/documentation/littlesnitch/#/ra-iap
@@ -8,9 +9,9 @@
 //
 */
 
-// Top-level, general application description:
+/* Top-level, general application description: */
 "ApplicationDescription" = "Keka 是款專為 macOS 打造的檔案封存工具。";
 
-// Software update connection:
+/* Software update connection: */
 "SoftwareUpdatePurpose" = "Keka 會連線到 u(pdate).keka.io 檢查新版本。";
 "SoftwareUpdateDenyConsequences" = "如果您拒絕此連線，您就會收不到 Keka 的新版本通知。";

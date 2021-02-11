@@ -1,3 +1,4 @@
+﻿
 /*
 //
 // This file is for Little Snitch's IAP: https://help.obdev.at/resources/documentation/littlesnitch/#/ra-iap
@@ -8,9 +9,9 @@
 //
 */
 
-// Top-level, general application description:
+/* Top-level, general application description: */
 "ApplicationDescription" = "Keka is a file archiver for macOS.";
 
-// Software update connection:
+/* Software update connection: */
 "SoftwareUpdatePurpose" = "Keka checks for new versions connecting to u(pdate).keka.io.";
 "SoftwareUpdateDenyConsequences" = "If you deny this connection, you will not be notified about new versions of Keka.";

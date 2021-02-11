@@ -1,3 +1,4 @@
+
 "_BASE_USED_" = "pt-BR";
 /* Use the _ADVANCED_EXTRA_WIDTH_ (if needed) to fit the method description properly */
 "_ADVANCED_EXTRA_WIDTH_" = "0.0";
@@ -208,12 +209,12 @@
 "The character %@ is not compatible with the %@ format" = "O caractere %@ não é compatível com o formato %@";
 
 /*
-MAS tips
-Note this will be used in Apple's servers
-Apple needs to have MAS translated in this language so this strings can be used
-The language used in MAS/AppleID will be used in Keka's tip strings and may not match Keka's localization
-Note that the short string is limited to 30 characters and the long string is limited to 45 characters
-Emojis cannot be used in these strings :(
+// MAS tips
+// Note this will be used in Apple's servers
+// Apple needs to have MAS translated in this language so this strings can be used
+// The language used in MAS/AppleID will be used in Keka's tip strings and may not match Keka's localization
+// Note that the short string is limited to 30 characters and the long string is limited to 45 characters
+// Emojis cannot be used in these strings :(
 */
 "Monthly sip of coffee" = "Um gole de café por mês";
 "Gift Keka a sip of coffee each month" = "Dê ao Keka um gole de café por mês";
