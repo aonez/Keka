@@ -207,17 +207,17 @@
 "Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka non ha accesso ai file della cartella di destinazione e ha bisogno di chiedere dove eseguire l'operazione.\nPuoi dare accesso a questa e ad altre cartelle nel pannello Accesso ai file delle Preferenze di Keka.";
 "The characters %@ are not compatible with the %@ format" = "I caratteri %@ non sono compatibili con il formato %@";
 "The character %@ is not compatible with the %@ format" = "Il carattere %@ non è compatibile con il formato %@";
-"Stop compressing" = "Stop compressing";
-"Stop extracting" = "Stop extracting";
-"Resume compressing" = "Resume compressing";
-"Resume extracting" = "Resume extracting";
-"Pause compressing" = "Pause compressing";
-"Pause extracting" = "Pause extracting";
-"Compression paused" = "Compression paused";
-"Extraction paused" = "Extraction paused";
-"Waiting for password" = "Waiting for password";
-"On queue" = "On queue";
-"Applying quarantine..." = "Applying quarantine...";
+"Stop compressing" = "Interrompi compressione";
+"Stop extracting" = "Interrompi estrazione";
+"Resume compressing" = "Riprendi compressione";
+"Resume extracting" = "Riprendi estrazione";
+"Pause compressing" = "Metti in pausa compressione";
+"Pause extracting" = "Metti in pausa estrazione";
+"Compression paused" = "Compressione in pausa";
+"Extraction paused" = "Estrazione in pausa";
+"Waiting for password" = "In attesa della password";
+"On queue" = "In coda";
+"Applying quarantine..." = "Applico quarantena...";
 
 /*
 // MAS tips
