@@ -46,9 +46,9 @@
 "Time elapsed: %d:%@%d:%@%d hours%@" = "Прошло %d:%@%d:%@%d часов%@";
 "Time elapsed: %d:%@%d minutes%@" = "Прошло %d:%@%d минут%@";
 "Time elapsed: %d seconds%@" = "Прошло %d секунд%@";
-"%d seconds" = "%d секунд";
-"%d:%@%d minutes" = "%d:%@%d минут";
-"%d:%@%d:%@%d hours" = "%d:%@%d:%@%d часов";
+"%.0f seconds" = "%.0f секунд";
+"%i:%02i minutes" = "%i:%02i минут";
+"%i:%02i:%02i hours" = "%i:%02i:%02i часов";
 "Pause" = "Пауза";
 "Continue" = "Продолжить";
 "Operation paused" = "Операция приостановлена";
@@ -77,18 +77,20 @@
 "Extract \"%@\" to..." = "Распаковать \"%@\" в...";
 "Extract as:" = "Распаковать как:";
 "Extract" = "Распаковать";
-" - Remaining: Calculating..." = " - Расчёт оставшегося времени...";
-" - Remaining: About one second" = " - Осталось около секунды";
-" - Remaining: About %d seconds" = " - Осталось около %d секунд";
-" - Remaining: About 1 minute" = " - Осталось около минуты";
-" - Remaining: About %d minutes" = " - Осталось около %d минут";
-" - Remaining: About 1 hour" = " - Осталось около часа";
-" - Remaining: About %d hours" = " - Осталось около %d часов";
-" - Remaining: About 1 day" = " - Осталось около дня";
-" - Remaining: About %d days" = " - Осталось около %d дней";
-" - Remaining: About 1 year" = " - Осталось около года";
-" - Remaining: About %d years" = " - Осталось около %d лет";
-" - Remaining: Less than one second" = " - Осталось меньше секунды";
+"About %i seconds" = "Oколо %i секунд";
+"About %i minutes" = "Oколо %i минут";
+"About %i hours" = "Oколо %i часов";
+"About %i days" = "Oколо %i дней";
+"About %i weeks" = "Oколо %i недель";
+"About %i months" = "Oколо %i месяцев ";
+"About %i years" = "Oколо %i года";
+"About a minute" = "Oколо минуты";
+"About an hour" = "Oколо часа";
+"About a day" = "Oколо дня";
+"About a week" = "Oколо недели";
+"About a month" = "Oколо месяца";
+"About a year" = "Oколо года";
+"Finishing..." = "Finishing...";
 "Can't show progress time..." = "Невозможно показать оставшееся время...";
 "Password for \"%@\"" = "Пароль для \"%@\"";
 "Format" = "Формат";
@@ -207,6 +209,17 @@
 "Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "У Keka нет доступа к файлам в исходной папке, поэтому ей нужно запросить расположение.\nВы можете добавить доступ к этой и другим папкам в панели \"Доступ к файлам\" в настройках Keka.";
 "The characters %@ are not compatible with the %@ format" = "Символы %@ не совместимы с форматом %@";
 "The character %@ is not compatible with the %@ format" = "Символ %@ не совместим с форматом %@";
+"Stop compressing" = "Stop compressing";
+"Stop extracting" = "Stop extracting";
+"Resume compressing" = "Resume compressing";
+"Resume extracting" = "Resume extracting";
+"Pause compressing" = "Pause compressing";
+"Pause extracting" = "Pause extracting";
+"Compression paused" = "Compression paused";
+"Extraction paused" = "Extraction paused";
+"Waiting for password" = "Waiting for password";
+"On queue" = "On queue";
+"Applying quarantine..." = "Applying quarantine...";
 
 /*
 // MAS tips

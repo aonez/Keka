@@ -46,9 +46,9 @@
 "Time elapsed: %d:%@%d:%@%d hours%@" = "経過時間:  %d時間%@%d分%@%d秒%@";
 "Time elapsed: %d:%@%d minutes%@" = "経過時間:  %d分%@%d秒%@";
 "Time elapsed: %d seconds%@" = "経過時間:  %d秒%@";
-"%d seconds" = "%d秒";
-"%d:%@%d minutes" = "%d分%@%d秒";
-"%d:%@%d:%@%d hours" = "%d時間%@%d分%@%d秒";
+"%.0f seconds" = "%.0f秒";
+"%i:%02i minutes" = "%i:%02i分";
+"%i:%02i:%02i hours" = "%i:%02i:%02i時間";
 "Pause" = "一時中止";
 "Continue" = "続ける";
 "Operation paused" = "動作一時停止";
@@ -77,18 +77,20 @@
 "Extract \"%@\" to..." = "\"%@\"の解凍場所未設定";
 "Extract as:" = "名前:";
 "Extract" = "解凍";
-" - Remaining: Calculating..." = "  -  残り時間: 計算中...";
-" - Remaining: About one second" = "  -  残り時間: 約1秒";
-" - Remaining: About %d seconds" = "  -  残り時間: 約%d秒";
-" - Remaining: About 1 minute" = "  -  残り時間: 約1分";
-" - Remaining: About %d minutes" = "  -  残り時間: 約%d分";
-" - Remaining: About 1 hour" = "  -  残り時間: 約1時間";
-" - Remaining: About %d hours" = "  -  残り時間: 約%d時間";
-" - Remaining: About 1 day" = "  -  残り時間: 約1日";
-" - Remaining: About %d days" = "  -  残り時間: 約%d日";
-" - Remaining: About 1 year" = "  -  残り時間: 約1年間";
-" - Remaining: About %d years" = "  -  残り時間: 約%d年間";
-" - Remaining: Less than one second" = "  -  残り時間: 1秒未満";
+"About %i seconds" = "約%i秒";
+"About %i minutes" = "約%i分";
+"About %i hours" = "約%i時間";
+"About %i days" = "約%i日";
+"About %i weeks" = "約%i週間";
+"About %i months" = "約%i月";
+"About %i years" = "約%i年間";
+"About a minute" = "約1分";
+"About an hour" = "約1時間";
+"About a day" = "約1日";
+"About a week" = "約1週間";
+"About a month" = "約1月";
+"About a year" = "約1年間";
+"Finishing..." = "Finishing...";
 "Can't show progress time..." = "進行時間が表示できません…";
 "Password for \"%@\"" = "\"%@\"用のパスワードを入力してください";
 "Format" = "圧縮形式";
@@ -207,6 +209,17 @@
 "Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane.";
 "The characters %@ are not compatible with the %@ format" = "The characters %@ are not compatible with the %@ format";
 "The character %@ is not compatible with the %@ format" = "The character %@ is not compatible with the %@ format";
+"Stop compressing" = "Stop compressing";
+"Stop extracting" = "Stop extracting";
+"Resume compressing" = "Resume compressing";
+"Resume extracting" = "Resume extracting";
+"Pause compressing" = "Pause compressing";
+"Pause extracting" = "Pause extracting";
+"Compression paused" = "Compression paused";
+"Extraction paused" = "Extraction paused";
+"Waiting for password" = "Waiting for password";
+"On queue" = "On queue";
+"Applying quarantine..." = "Applying quarantine...";
 
 /*
 // MAS tips
