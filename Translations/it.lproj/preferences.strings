@@ -171,7 +171,7 @@
 "K5h-j5-bss.title" = "Operazioni di compressione in coda:";
 
 /* Class = "NSButtonCell"; title = "Inherit quarantine from downloaded files"; ObjectID = "KDR-ag-bll"; */
-"KDR-ag-bll.title" = "Eredita quarantine dai file scaricati";
+"KDR-ag-bll.title" = "Eredita quarantena dai file scaricati";
 
 /* Class = "NSButtonCell"; title = "Show in external volumes"; ObjectID = "KOF-7X-bQo"; */
 "KOF-7X-bQo.title" = "Mostra in volumi esterni";
