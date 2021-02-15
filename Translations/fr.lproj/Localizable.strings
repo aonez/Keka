@@ -90,7 +90,7 @@
 "About a week" = "Environ une semaine";
 "About a month" = "Environ un mois";
 "About a year" = "Environ une année";
-"Finishing..." = "Finishing...";
+"Finishing..." = "En train de finir...";
 "Can't show progress time..." = "Impossible d'afficher le temps restant...";
 "Password for \"%@\"" = "Mot de passe pour \"%@\"";
 "Format" = "Format";
@@ -209,17 +209,17 @@
 "Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka n'a pas accès aux fichiers dans le dossier cible, il doit donc demander un emplacement.\nVous pouvez ajouter l'accès à ce dossier et à d'autres dans le volet d'accès aux fichiers des préférences de Keka.";
 "The characters %@ are not compatible with the %@ format" = "Les caractères %@ ne sont pas compatibles avec le format %@";
 "The character %@ is not compatible with the %@ format" = "Le caractère %@ n'est pas compatible avec le format %@";
-"Stop compressing" = "Stop compressing";
-"Stop extracting" = "Stop extracting";
-"Resume compressing" = "Resume compressing";
-"Resume extracting" = "Resume extracting";
-"Pause compressing" = "Pause compressing";
-"Pause extracting" = "Pause extracting";
-"Compression paused" = "Compression paused";
-"Extraction paused" = "Extraction paused";
-"Waiting for password" = "Waiting for password";
-"On queue" = "On queue";
-"Applying quarantine..." = "Applying quarantine...";
+"Stop compressing" = "Arrêter la compression";
+"Stop extracting" = "Arrêter l'extraction";
+"Resume compressing" = "Reprendre la compression";
+"Resume extracting" = "Reprendre l'extraction";
+"Pause compressing" = "Mettre la compression en pause";
+"Pause extracting" = "Mettre l'extraction en pause";
+"Compression paused" = "Compression mise en pause";
+"Extraction paused" = "Extraction mise en pause";
+"Waiting for password" = "En attente de mot de passe";
+"On queue" = "En queue";
+"Applying quarantine..." = "Application de la quarantine...";
 
 /*
 // MAS tips
