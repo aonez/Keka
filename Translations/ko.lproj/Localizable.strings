@@ -207,6 +207,17 @@
 "Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka는 대상 폴더에 대한 파일 액세스 권한이 없으므로 위치를 요청해야 합니다.\nKeka의 기본 설정 파일 액세스 창에서 이 폴더와 다른 폴더에 대한 액세스를 추가할 수 있습니다.";
 "The characters %@ are not compatible with the %@ format" = "%@ 문자는 %@ 포맷과 호환되지 않습니다.";
 "The character %@ is not compatible with the %@ format" = "%@ 문자가 %@ 포맷과 호환되지 않습니다.";
+"Stop compressing" = "Stop compressing";
+"Stop extracting" = "Stop extracting";
+"Resume compressing" = "Resume compressing";
+"Resume extracting" = "Resume extracting";
+"Pause compressing" = "Pause compressing";
+"Pause extracting" = "Pause extracting";
+"Compression paused" = "Compression paused";
+"Extraction paused" = "Extraction paused";
+"Waiting for password" = "Waiting for password";
+"On queue" = "On queue";
+"Applying quarantine..." = "Applying quarantine...";
 
 /*
 // MAS tips

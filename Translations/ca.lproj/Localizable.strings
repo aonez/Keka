@@ -207,6 +207,17 @@
 "Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "El Keka no té accés a la carpeta de destí i necessita preguntar on realitzar l'operació.\nPots donar accés a aquesta i altres carpetes en el panell d'Accés a Fitxers de la Configuració del Keka.";
 "The characters %@ are not compatible with the %@ format" = "Els caràcters %@ no són compatibles amb el format %@";
 "The character %@ is not compatible with the %@ format" = "El caràcter %@ no és compatible amb el format %@";
+"Stop compressing" = "Para la compressió";
+"Stop extracting" = "Para l'extracció";
+"Resume compressing" = "Reprèn la compressió";
+"Resume extracting" = "Reprèn l'extracció";
+"Pause compressing" = "Pausa la compressió";
+"Pause extracting" = "Pausa l'extracció";
+"Compression paused" = "Compressió pausada";
+"Extraction paused" = "Extracció pausada";
+"Waiting for password" = "Esperant una contrasenya";
+"On queue" = "En cua";
+"Applying quarantine..." = "Aplicant quarantena...";
 
 /*
 // MAS tips

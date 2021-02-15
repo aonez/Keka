@@ -207,6 +207,17 @@
 "Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "У Keka нет доступа к файлам в исходной папке, поэтому ей нужно запросить расположение.\nВы можете добавить доступ к этой и другим папкам в панели \"Доступ к файлам\" в настройках Keka.";
 "The characters %@ are not compatible with the %@ format" = "Символы %@ не совместимы с форматом %@";
 "The character %@ is not compatible with the %@ format" = "Символ %@ не совместим с форматом %@";
+"Stop compressing" = "Stop compressing";
+"Stop extracting" = "Stop extracting";
+"Resume compressing" = "Resume compressing";
+"Resume extracting" = "Resume extracting";
+"Pause compressing" = "Pause compressing";
+"Pause extracting" = "Pause extracting";
+"Compression paused" = "Compression paused";
+"Extraction paused" = "Extraction paused";
+"Waiting for password" = "Waiting for password";
+"On queue" = "On queue";
+"Applying quarantine..." = "Applying quarantine...";
 
 /*
 // MAS tips

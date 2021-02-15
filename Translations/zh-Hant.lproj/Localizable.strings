@@ -207,6 +207,17 @@
 "Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka 沒有目的地檔案夾的檔案取用權限，因此會詢問位置。\n您可以在 Keka 偏好設定的「檔案取用權限」窗格加入這個和其他檔案夾的取用權限。";
 "The characters %@ are not compatible with the %@ format" = "「%@」字元與 %@ 格式不相容";
 "The character %@ is not compatible with the %@ format" = "「%@」字元與 %@ 格式不相容";
+"Stop compressing" = "Stop compressing";
+"Stop extracting" = "Stop extracting";
+"Resume compressing" = "Resume compressing";
+"Resume extracting" = "Resume extracting";
+"Pause compressing" = "Pause compressing";
+"Pause extracting" = "Pause extracting";
+"Compression paused" = "Compression paused";
+"Extraction paused" = "Extraction paused";
+"Waiting for password" = "Waiting for password";
+"On queue" = "On queue";
+"Applying quarantine..." = "Applying quarantine...";
 
 /*
 // MAS tips
