@@ -219,7 +219,7 @@
 "cb7-h4-ScP.title" = "Numero massimo di thread per operazione:";
 
 /* Class = "NSButtonCell"; title = "Use short tarball extensions (eg: .tgz instead of .tar.gz)"; ObjectID = "cfd-8g-kiU"; */
-"cfd-8g-kiU.title" = "Use short tarball extensions (eg: .tgz instead of .tar.gz)";
+"cfd-8g-kiU.title" = "Utilizza estensioni brevi quando crei un tarball (es.: .tgz invece di .tar.gz)";
 
 /* Class = "NSButtonCell"; title = "Checking the extension status"; ObjectID = "chn-AV-kXZ"; */
 "chn-AV-kXZ.title" = "Verifica lo stato dell'estensione";
