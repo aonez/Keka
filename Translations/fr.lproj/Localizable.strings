@@ -46,9 +46,9 @@
 "Time elapsed: %d:%@%d:%@%d hours%@" = "Temps écoulé : %d:%@%d:%@%d heures%@";
 "Time elapsed: %d:%@%d minutes%@" = "Temps écoulé : %d:%@%d minutes%@";
 "Time elapsed: %d seconds%@" = "Temps écoulé : %d secondes%@";
-"%d seconds" = "%d secondes";
-"%d:%@%d minutes" = "%d:%@%d minutes";
-"%d:%@%d:%@%d hours" = "%d:%@%d:%@%d heures";
+"%.0f seconds" = "%.0f secondes";
+"%i:%02i minutes" = "%i:%02i minutes";
+"%i:%02i:%02i hours" = "%i:%02i:%02i heures";
 "Pause" = "Pause";
 "Continue" = "Continuer";
 "Operation paused" = "Opération en pause";
@@ -77,18 +77,20 @@
 "Extract \"%@\" to..." = "Extraire \"%@\" vers...";
 "Extract as:" = "Extraire sous:";
 "Extract" = "Extraire";
-" - Remaining: Calculating..." = " - Restant: Calcul en cours...";
-" - Remaining: About one second" = " - Restant: Environ une seconde";
-" - Remaining: About %d seconds" = " - Restant: Environ %d secondes";
-" - Remaining: About 1 minute" = " - Restant: Environ 1 minute";
-" - Remaining: About %d minutes" = " - Restant: Environ %d minutes";
-" - Remaining: About 1 hour" = " - Restant: Environ 1 heure";
-" - Remaining: About %d hours" = " - Restant: Environ %d heures";
-" - Remaining: About 1 day" = " - Restant: Environ 1 jour";
-" - Remaining: About %d days" = " - Restant: Environ %d jours";
-" - Remaining: About 1 year" = " - Restant: Environ 1 année";
-" - Remaining: About %d years" = " - Restant: Environ %d années";
-" - Remaining: Less than one second" = " - Restant: Moins d'une seconde";
+"About %i seconds" = "Environ %i secondes";
+"About %i minutes" = "Environ %i minutes";
+"About %i hours" = "Environ %i heures";
+"About %i days" = "Environ %i jours";
+"About %i weeks" = "Environ %i semaines";
+"About %i months" = "Environ %i mois";
+"About %i years" = "Environ %i années";
+"About a minute" = "Environ une minute";
+"About an hour" = "Environ une heure";
+"About a day" = "Environ un jour";
+"About a week" = "Environ une semaine";
+"About a month" = "Environ un mois";
+"About a year" = "Environ une année";
+"Finishing..." = "En train de finir...";
 "Can't show progress time..." = "Impossible d'afficher le temps restant...";
 "Password for \"%@\"" = "Mot de passe pour \"%@\"";
 "Format" = "Format";
@@ -207,6 +209,17 @@
 "Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka n'a pas accès aux fichiers dans le dossier cible, il doit donc demander un emplacement.\nVous pouvez ajouter l'accès à ce dossier et à d'autres dans le volet d'accès aux fichiers des préférences de Keka.";
 "The characters %@ are not compatible with the %@ format" = "Les caractères %@ ne sont pas compatibles avec le format %@";
 "The character %@ is not compatible with the %@ format" = "Le caractère %@ n'est pas compatible avec le format %@";
+"Stop compressing" = "Arrêter la compression";
+"Stop extracting" = "Arrêter l'extraction";
+"Resume compressing" = "Reprendre la compression";
+"Resume extracting" = "Reprendre l'extraction";
+"Pause compressing" = "Mettre la compression en pause";
+"Pause extracting" = "Mettre l'extraction en pause";
+"Compression paused" = "Compression mise en pause";
+"Extraction paused" = "Extraction mise en pause";
+"Waiting for password" = "En attente de mot de passe";
+"On queue" = "En queue";
+"Applying quarantine..." = "Application de la quarantine...";
 
 /*
 // MAS tips

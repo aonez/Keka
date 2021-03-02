@@ -46,9 +46,9 @@
 "Time elapsed: %d:%@%d:%@%d hours%@" = "Изминало време: %d:%@%d:%@%d часове%@";
 "Time elapsed: %d:%@%d minutes%@" = "Изминало време: %d:%@%d минути%@";
 "Time elapsed: %d seconds%@" = "Изминало време: %d секунди%@";
-"%d seconds" = "%d секунди";
-"%d:%@%d minutes" = "%d:%@%d минути";
-"%d:%@%d:%@%d hours" = "%d:%@%d:%@%d часове";
+"%.0f seconds" = "%.0f секунди";
+"%i:%02i minutes" = "%i:%02i минути";
+"%i:%02i:%02i hours" = "%i:%02i:%02i часове";
 "Pause" = "Пауза";
 "Continue" = "Продължи";
 "Operation paused" = "Операцията е паузирана";
@@ -77,18 +77,20 @@
 "Extract \"%@\" to..." = "Разархивирай \"%@\" към…";
 "Extract as:" = "Разархивирай като:";
 "Extract" = "Разархивирай";
-" - Remaining: Calculating..." = " - Остават: Пресмятане...";
-" - Remaining: About one second" = " - Остават: Около една секунда";
-" - Remaining: About %d seconds" = " - Остават: Около %d секунди";
-" - Remaining: About 1 minute" = " - Остават: Около 1 минута";
-" - Remaining: About %d minutes" = " - Остават: Около %d минути";
-" - Remaining: About 1 hour" = " - Остават: Около 1 час";
-" - Remaining: About %d hours" = " - Остават: Около %d часа";
-" - Remaining: About 1 day" = " - Остават: Около 1 ден";
-" - Remaining: About %d days" = " - Остават: Около %d дни";
-" - Remaining: About 1 year" = " - Остават: Около 1 година";
-" - Remaining: About %d years" = " - Остават: Около %d години";
-" - Remaining: Less than one second" = " - Остават: По-малко от секунда";
+"About %i seconds" = "Около %i секунди";
+"About %i minutes" = "Около %i минути";
+"About %i hours" = "Около %i часа";
+"About %i days" = "Около %i дни";
+"About %i weeks" = "About %i седмици";
+"About %i months" = "About %i месеца";
+"About %i years" = "Около %i години";
+"About a minute" = "Около 1 минута";
+"About an hour" = "Около 1 час";
+"About a day" = "Около 1 ден";
+"About a week" = "Около 1 седмица";
+"About a month" = "Около 1 месец";
+"About a year" = "Около 1 година";
+"Finishing..." = "Finishing...";
 "Can't show progress time..." = "Не може да се покаже прогреса…";
 "Password for \"%@\"" = "Парола за \"%@\"";
 "Format" = "Формат";
@@ -207,6 +209,17 @@
 "Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane.";
 "The characters %@ are not compatible with the %@ format" = "The characters %@ are not compatible with the %@ format";
 "The character %@ is not compatible with the %@ format" = "The character %@ is not compatible with the %@ format";
+"Stop compressing" = "Stop compressing";
+"Stop extracting" = "Stop extracting";
+"Resume compressing" = "Resume compressing";
+"Resume extracting" = "Resume extracting";
+"Pause compressing" = "Pause compressing";
+"Pause extracting" = "Pause extracting";
+"Compression paused" = "Compression paused";
+"Extraction paused" = "Extraction paused";
+"Waiting for password" = "Waiting for password";
+"On queue" = "On queue";
+"Applying quarantine..." = "Applying quarantine...";
 
 /*
 // MAS tips

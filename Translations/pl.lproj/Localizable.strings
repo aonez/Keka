@@ -46,9 +46,9 @@
 "Time elapsed: %d:%@%d:%@%d hours%@" = "Upłynęło: %d:%@%d:%@%d godzin%@";
 "Time elapsed: %d:%@%d minutes%@" = "Upłynęło: %d:%@%d minut%@";
 "Time elapsed: %d seconds%@" = "Upłynęło: %d sekund%@";
-"%d seconds" = "%d sekund";
-"%d:%@%d minutes" = "%d:%@%d minut";
-"%d:%@%d:%@%d hours" = "%d:%@%d:%@%d godzin";
+"%.0f seconds" = "%.0f sekund";
+"%i:%02i minutes" = "%i:%02i minut";
+"%i:%02i:%02i hours" = "%i:%02i:%02i godzin";
 "Pause" = "Zatrzymaj";
 "Continue" = "Wznów";
 "Operation paused" = "Operacja zatrzymana";
@@ -77,18 +77,20 @@
 "Extract \"%@\" to..." = "Wypakuj archiwum \"%@\" do…";
 "Extract as:" = "Wypakuj jako:";
 "Extract" = "Wypakuj";
-" - Remaining: Calculating..." = " - Szacowanie pozostałego czasu...";
-" - Remaining: About one second" = " - Pozostało: ok. 1 sekunda";
-" - Remaining: About %d seconds" = " - Pozostało: ok. %d sekund";
-" - Remaining: About 1 minute" = " - Pozostało: ok. 1 minuta";
-" - Remaining: About %d minutes" = " - Pozostało: ok. %d minut";
-" - Remaining: About 1 hour" = " - Pozostało: ok. 1 godzina";
-" - Remaining: About %d hours" = " - Pozostało: ok. %d godzin";
-" - Remaining: About 1 day" = " - Pozostało: ok. 1 dzień";
-" - Remaining: About %d days" = " - Pozostało: ok. %d dni";
-" - Remaining: About 1 year" = " - Pozostało: ok. 1 roku";
-" - Remaining: About %d years" = " - Pozostało: ok. %d lat";
-" - Remaining: Less than one second" = " - Pozostało: mniej niż sekunda";
+"About %i seconds" = "ok. %i sekund";
+"About %i minutes" = "ok. %i minut";
+"About %i hours" = "ok. %i godzin";
+"About %i days" = "ok. %i dni";
+"About %i weeks" = "ok. %i tygodnie";
+"About %i months" = "ok. %i miesiące";
+"About %i years" = "ok. %i lat";
+"About a minute" = "ok. 1 minuta";
+"About an hour" = "ok. 1 godzina";
+"About a day" = "ok. 1 dzień";
+"About a week" = "ok. 1 tydzień";
+"About a month" = "ok. 1 miesiąc";
+"About a year" = "ok. 1 roku";
+"Finishing..." = "Finishing...";
 "Can't show progress time..." = "Obliczanie postępu…";
 "Password for \"%@\"" = "Hasło do archiwum \"%@\"";
 "Format" = "Format";
@@ -207,6 +209,17 @@
 "Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane.";
 "The characters %@ are not compatible with the %@ format" = "The characters %@ are not compatible with the %@ format";
 "The character %@ is not compatible with the %@ format" = "The character %@ is not compatible with the %@ format";
+"Stop compressing" = "Stop compressing";
+"Stop extracting" = "Stop extracting";
+"Resume compressing" = "Resume compressing";
+"Resume extracting" = "Resume extracting";
+"Pause compressing" = "Pause compressing";
+"Pause extracting" = "Pause extracting";
+"Compression paused" = "Compression paused";
+"Extraction paused" = "Extraction paused";
+"Waiting for password" = "Waiting for password";
+"On queue" = "On queue";
+"Applying quarantine..." = "Applying quarantine...";
 
 /*
 // MAS tips
