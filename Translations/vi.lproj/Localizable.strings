@@ -209,17 +209,17 @@
 "Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka không có quyền truy cập tệp vào thư mục đích nên cần phải hỏi một vị trí lưu khác.\nBạn có thể thêm quyền truy cập vào thư mục này và nhiều thư mục khác trong Cài đặt, mục Quyền truy cập tập tin của Keka";
 "The characters %@ are not compatible with the %@ format" = "Các ký tự %@ không tương thích với định dạng %@";
 "The character %@ is not compatible with the %@ format" = "Ký tự %@ không tương thích với định dạng %@";
-"Stop compressing" = "Stop compressing";
-"Stop extracting" = "Stop extracting";
-"Resume compressing" = "Resume compressing";
-"Resume extracting" = "Resume extracting";
-"Pause compressing" = "Pause compressing";
-"Pause extracting" = "Pause extracting";
-"Compression paused" = "Compression paused";
-"Extraction paused" = "Extraction paused";
-"Waiting for password" = "Waiting for password";
-"On queue" = "On queue";
-"Applying quarantine..." = "Applying quarantine...";
+"Stop compressing" = "Dừng nén";
+"Stop extracting" = "Dừng giải nén";
+"Resume compressing" = "Tiếp tục nén";
+"Resume extracting" = "Tiếp tục giải nén";
+"Pause compressing" = "Tạm dừng nén";
+"Pause extracting" = "Tạm dừng giải nén";
+"Compression paused" = "Đã tạm dừng nén";
+"Extraction paused" = "Đã tạm dừng giải nén";
+"Waiting for password" = "Đang chờ mật khẩu";
+"On queue" = "Đang xếp hàng";
+"Applying quarantine..." = "Áp dụng cách ly...";
 
 /*
 // MAS tips

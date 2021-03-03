@@ -219,7 +219,7 @@
 "cb7-h4-ScP.title" = "Số luồng xử lý tối đa cho mỗi tác vụ:";
 
 /* Class = "NSButtonCell"; title = "Use short tarball extensions (eg: .tgz instead of .tar.gz)"; ObjectID = "cfd-8g-kiU"; */
-"cfd-8g-kiU.title" = "Use short tarball extensions (eg: .tgz instead of .tar.gz)";
+"cfd-8g-kiU.title" = "Sử dụng phần mở rộng ngắn cho tarball (vd: .tgz thay vì .tar.gz)";
 
 /* Class = "NSButtonCell"; title = "Checking the extension status"; ObjectID = "chn-AV-kXZ"; */
 "chn-AV-kXZ.title" = "Kiểm tra tình trạng phần mở rộng";
