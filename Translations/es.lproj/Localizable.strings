@@ -1,3 +1,4 @@
+
 "_BASE_USED_" = "es";
 /* Use the _ADVANCED_EXTRA_WIDTH_ (if needed) to fit the method description properly */
 "_ADVANCED_EXTRA_WIDTH_" = "15.0";
@@ -45,9 +46,9 @@
 "Time elapsed: %d:%@%d:%@%d hours%@" = "Transcurrido: %d:%@%d:%@%d horas%@";
 "Time elapsed: %d:%@%d minutes%@" = "Transcurrido: %d:%@%d minutos%@";
 "Time elapsed: %d seconds%@" = "Transcurrido: %d segundos%@";
-"%d seconds" = "%d segundos";
-"%d:%@%d minutes" = "%d:%@%d minutos";
-"%d:%@%d:%@%d hours" = "%d:%@%d:%@%d horas";
+"%.0f seconds" = "%.0f segundos";
+"%i:%02i minutes" = "%i:%02i minutos";
+"%i:%02i:%02i hours" = "%i:%02i:%02i horas";
 "Pause" = "Pausa";
 "Continue" = "Continuar";
 "Operation paused" = "Operación pausada";
@@ -76,18 +77,20 @@
 "Extract \"%@\" to..." = "Descomprimir \"%@\" en...";
 "Extract as:" = "Descomprimir como:";
 "Extract" = "Descomprimir";
-" - Remaining: Calculating..." = " - Restante: Calculando...";
-" - Remaining: About one second" = " - Restante: Aproximadamente un segundo";
-" - Remaining: About %d seconds" = " - Restante: Unos %d segundos";
-" - Remaining: About 1 minute" = " - Restante: Aproximadamente 1 minuto";
-" - Remaining: About %d minutes" = " - Restante: Unos %d minutos";
-" - Remaining: About 1 hour" = " - Restante: Aproximadamente 1 hora";
-" - Remaining: About %d hours" = " - Restante: Unas %d horas";
-" - Remaining: About 1 day" = " - Restante: Aproximadamente 1 día";
-" - Remaining: About %d days" = " - Restante: Unos %d días";
-" - Remaining: About 1 year" = " - Restante: Aproximadamente 1 año";
-" - Remaining: About %d years" = " - Restante: Unos %d años";
-" - Remaining: Less than one second" = " - Restante: Menos de un segundo";
+"About %i seconds" = "Aproximadamente %i segundos";
+"About %i minutes" = "Aproximadamente %i minutos";
+"About %i hours" = "Aproximadamente %i horas";
+"About %i days" = "Aproximadamente %i días";
+"About %i weeks" = "Aproximadamente %i semanas";
+"About %i months" = "Aproximadamente %i meses";
+"About %i years" = "Aproximadamente %i años";
+"About a minute" = "Aproximadamente un minuto";
+"About an hour" = "Aproximadamente una hora";
+"About a day" = "Aproximadamente un día";
+"About a week" = "Aproximadamente una semana";
+"About a month" = "Aproximadamente un mes";
+"About a year" = "Aproximadamente un año";
+"Finishing..." = "Finishing...";
 "Can't show progress time..." = "No se puede mostrar el tiempo...";
 "Password for \"%@\"" = "Contraseña para \"%@\"";
 "Format" = "Formato";
@@ -206,13 +209,25 @@
 "Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka no tiene acceso a la carpeta de destino y necesita preguntar dónde realizar la operación.\nPuedes dar acceso a esta y otras carpetas en el panel Acceso a Ficheros de las Preferencias de Keka.";
 "The characters %@ are not compatible with the %@ format" = "Los carácteres %@ no son compatibles con el formato %@";
 "The character %@ is not compatible with the %@ format" = "El carácter %@ no es compatible con el formato %@";
+"Stop compressing" = "Detener la compresión";
+"Stop extracting" = "Detener la extracción";
+"Resume compressing" = "Reanudar la compresión";
+"Resume extracting" = "Reanudar la extracción";
+"Pause compressing" = "Pausar la compresión";
+"Pause extracting" = "Pausar la extracción";
+"Compression paused" = "Compresión pausada";
+"Extraction paused" = "Extracción pausada";
+"Waiting for password" = "Esperando una contraseña";
+"On queue" = "En cola";
+"Applying quarantine..." = "Aplicando cuarentena...";
 
 /*
-MAS tips
-Note this will be used in Apple's servers
-Apple needs to have MAS translated in this language so this strings can be used
-The language used in MAS/AppleID will be used in Keka's tip strings and may not match Keka's localization
-Note that the short string is limited to 30 characters and the long string is limited to 45 characters.
+// MAS tips
+// Note this will be used in Apple's servers
+// Apple needs to have MAS translated in this language so this strings can be used
+// The language used in MAS/AppleID will be used in Keka's tip strings and may not match Keka's localization
+// Note that the short string is limited to 30 characters and the long string is limited to 45 characters
+// Emojis cannot be used in these strings :(
 */
 "Monthly sip of coffee" = "Un trago de café al mes";
 "Gift Keka a sip of coffee each month" = "Regala a Keka un trago de café al mes";

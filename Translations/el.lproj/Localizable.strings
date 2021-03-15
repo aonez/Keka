@@ -1,3 +1,4 @@
+
 "_BASE_USED_" = "en";
 /* Use the _ADVANCED_EXTRA_WIDTH_ (if needed) to fit the method description properly */
 "_ADVANCED_EXTRA_WIDTH_" = "0.0";
@@ -45,9 +46,9 @@
 "Time elapsed: %d:%@%d:%@%d hours%@" = "Πέρασαν: %d:%@%d:%@%d ώρες%@";
 "Time elapsed: %d:%@%d minutes%@" = "Πέρασαν: %d:%@%d λεπτά%@";
 "Time elapsed: %d seconds%@" = "Πέρασαν: %d δευτερόλεπτα%@";
-"%d seconds" = "%d δευτερόλεπτα";
-"%d:%@%d minutes" = "%d:%@%d λεπτά";
-"%d:%@%d:%@%d hours" = "%d:%@%d:%@%d ώρες";
+"%.0f seconds" = "%.0f δευτερόλεπτα";
+"%i:%02i minutes" = "%i:%02i λεπτά";
+"%i:%02i:%02i hours" = "%i:%02i:%02i ώρες";
 "Pause" = "Παύση";
 "Continue" = "Συννέχεια";
 "Operation paused" = "Παύση κατάστασης λειτουργίας";
@@ -76,18 +77,20 @@
 "Extract \"%@\" to..." = "Εξαγωγή \"%@\" στο…";
 "Extract as:" = "Εξαγωγή ως:";
 "Extract" = "Εξαγωγή";
-" - Remaining: Calculating..." = " - Απομένων χρόνος: Υπολογίζεται...";
-" - Remaining: About one second" = " - Απομένεται: Περίπου ένα λεπτό";
-" - Remaining: About %d seconds" = " - Απομένονται: Περίπου %d δευτερόλεπτα";
-" - Remaining: About 1 minute" = " - Απομένεται: Περίπου 1 λεπτό";
-" - Remaining: About %d minutes" = " - Απομένονται: Περίπου %d λεπτά";
-" - Remaining: About 1 hour" = " - Απομένεται: Περίπου 1 ώρα";
-" - Remaining: About %d hours" = " - Απομένονται: Περίπου %d ώρες";
-" - Remaining: About 1 day" = " - Απομένεται: Περίπου 1 ημέρα";
-" - Remaining: About %d days" = " - Απομένονται: Περίπου %d ημέρες";
-" - Remaining: About 1 year" = " - Απομένεται: Περίπου 1 χρόνος";
-" - Remaining: About %d years" = " - Απομένονται: About %d years";
-" - Remaining: Less than one second" = " - Απομένεται: Λιγότερο από ένα δευτερόλεπτο";
+"About %i seconds" = "Περίπου %i δευτερόλεπτα";
+"About %i minutes" = "Περίπου %i λεπτά";
+"About %i hours" = "Περίπου %i ώρες";
+"About %i days" = "Περίπου %i ημέρες";
+"About %i weeks" = "Περίπου %i εβδομάδες";
+"About %i months" = "Περίπου %i μήνες";
+"About %i years" = "Περίπου %i χρόνια";
+"About a minute" = "Περίπου 1 λεπτό";
+"About an hour" = "Περίπου 1 ώρα";
+"About a day" = "Περίπου 1 ημέρα";
+"About a week" = "Περίπου 1 εβδομάδα";
+"About a month" = "Περίπου 1 μήνα";
+"About a year" = "Περίπου 1 χρόνος";
+"Finishing..." = "Finishing...";
 "Can't show progress time..." = "Δε μπορώ να εμφανίσω τον απομένων χρόνο προόδου...";
 "Password for \"%@\"" = "Κωδικός για το \"%@\"";
 "Format" = "Τύπος αρχείου";
@@ -206,13 +209,25 @@
 "Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane.";
 "The characters %@ are not compatible with the %@ format" = "The characters %@ are not compatible with the %@ format";
 "The character %@ is not compatible with the %@ format" = "The character %@ is not compatible with the %@ format";
+"Stop compressing" = "Stop compressing";
+"Stop extracting" = "Stop extracting";
+"Resume compressing" = "Resume compressing";
+"Resume extracting" = "Resume extracting";
+"Pause compressing" = "Pause compressing";
+"Pause extracting" = "Pause extracting";
+"Compression paused" = "Compression paused";
+"Extraction paused" = "Extraction paused";
+"Waiting for password" = "Waiting for password";
+"On queue" = "On queue";
+"Applying quarantine..." = "Applying quarantine...";
 
 /*
-MAS tips
-Note this will be used in Apple's servers
-Apple needs to have MAS translated in this language so this strings can be used
-The language used in MAS/AppleID will be used in Keka's tip strings and may not match Keka's localization
-Note that the short string is limited to 30 characters and the long string is limited to 45 characters.
+// MAS tips
+// Note this will be used in Apple's servers
+// Apple needs to have MAS translated in this language so this strings can be used
+// The language used in MAS/AppleID will be used in Keka's tip strings and may not match Keka's localization
+// Note that the short string is limited to 30 characters and the long string is limited to 45 characters
+// Emojis cannot be used in these strings :(
 */
 "Monthly sip of coffee" = "Monthly sip of coffee";
 "Gift Keka a sip of coffee each month" = "Gift Keka a sip of coffee each month";

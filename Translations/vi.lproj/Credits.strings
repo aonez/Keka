@@ -1,3 +1,4 @@
+﻿
 "_PROJECTTITLE_" = "Dự án Keka";
 "_PROGRAMMER_" = "Lập trình, thiết kế &amp; bảo trì";
 "_ARTWORK_" = "Thiết kế đồ hoạ";
@@ -7,7 +8,7 @@
 "_DONATIONS_" = "Quyên góp (được xếp theo thời gian)";
 "_OPENSOURCE_" = "Keka sử dụng mã nguồn mở";
 "_FREEWARE_" = "Keka sử dụng phần mềm nhị phân miễn phí";
-"_ONEMORETHING_" = "One more thing";
+"_ONEMORETHING_" = "Còn một điều nữa";
 "_THANKS_" = "Thay lời kết!";
 "_SOURCE_" = "Mã nguồn của Keka 1.0 sẽ không được công bố vì một số vấn đề pháp lý. Chúng tôi rất cần hỗ trợ về mặt pháp lý, nếu bạn có thể giúp được dự án, vui lòng liên hệ với chúng tôi qua info@keka.io hoặc phần mục Project trên trang chủ chính thức của Keka. Rất mong sự giúp đỡ từ các bạn.";
 "_WARRANTY_" = "THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.";

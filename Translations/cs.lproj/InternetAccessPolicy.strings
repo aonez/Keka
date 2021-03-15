@@ -1,3 +1,4 @@
+﻿
 /*
 //
 // This file is for Little Snitch's IAP: https://help.obdev.at/resources/documentation/littlesnitch/#/ra-iap
@@ -8,9 +9,9 @@
 //
 */
 
-// Top-level, general application description:
+/* Top-level, general application description: */
 "ApplicationDescription" = "Keka je archivační aplikace pro macOS.";
 
-// Software update connection:
+/* Software update connection: */
 "SoftwareUpdatePurpose" = "Keka vyhledává aktualizace připojením k u(pdate).keka.io.";
 "SoftwareUpdateDenyConsequences" = "Pokud tomuto připojení zamezíte, nebudete upozornění na dostupné aktualizace.";

@@ -1,3 +1,4 @@
+
 "_BASE_USED_" = "tr";
 /* Use the _ADVANCED_EXTRA_WIDTH_ (if needed) to fit the method description properly */
 "_ADVANCED_EXTRA_WIDTH_" = "0.0";
@@ -45,9 +46,9 @@
 "Time elapsed: %d:%@%d:%@%d hours%@" = "Geçen süre: %d:%@%d:%@%d saat%@";
 "Time elapsed: %d:%@%d minutes%@" = "Geçen süre: %d:%@%d dakika%@";
 "Time elapsed: %d seconds%@" = "Geçen süre: %d saniye%@";
-"%d seconds" = "%d saniye";
-"%d:%@%d minutes" = "%d:%@%d dakika";
-"%d:%@%d:%@%d hours" = "%d:%@%d:%@%d saat";
+"%.0f seconds" = "%.0f saniye";
+"%i:%02i minutes" = "%i:%02i dakika";
+"%i:%02i:%02i hours" = "%i:%02i:%02i saat";
 "Pause" = "Duraklat";
 "Continue" = "Devam Et";
 "Operation paused" = "İşlem duraklarıldı";
@@ -76,18 +77,20 @@
 "Extract \"%@\" to..." = "Buraya \"%@\" çıkar…";
 "Extract as:" = "Olarak ayıkla:";
 "Extract" = "Çıkart";
-" - Remaining: Calculating..." = " - Kalan: Hesaplanıyor...";
-" - Remaining: About one second" = " - Kalan: Yaklaşık bir saniye";
-" - Remaining: About %d seconds" = " - Kalan: Yaklaşık %d saniye";
-" - Remaining: About 1 minute" = " - Kalan: Yaklaşık 1 dakika";
-" - Remaining: About %d minutes" = " - Kalan: Yaklaşık %d dakika";
-" - Remaining: About 1 hour" = " - Kalan: Yaklaşık 1 saat";
-" - Remaining: About %d hours" = " - Kalan: Yaklaşık %d saat";
-" - Remaining: About 1 day" = " - Kalan: Yaklaşık 1 gün";
-" - Remaining: About %d days" = " - Kalan: Yaklaşık %d gün";
-" - Remaining: About 1 year" = " - Kalan: Yaklaşık 1 yıl";
-" - Remaining: About %d years" = " - Kalan: Yaklaşık %d yıl";
-" - Remaining: Less than one second" = " - Kalan: Bir saniyeden az";
+"About %i seconds" = "Yaklaşık %i saniye";
+"About %i minutes" = "Yaklaşık %i dakika";
+"About %i hours" = "Yaklaşık %i saat";
+"About %i days" = "Yaklaşık %i gün";
+"About %i weeks" = "Yaklaşık %i hafta";
+"About %i months" = "Yaklaşık %i ay";
+"About %i years" = "Yaklaşık %i yıl";
+"About a minute" = "Yaklaşık 1 dakika";
+"About an hour" = "Yaklaşık 1 saat";
+"About a day" = "Yaklaşık 1 gün";
+"About a week" = "Yaklaşık 1 hafta";
+"About a month" = "Yaklaşık 1 ay";
+"About a year" = "Yaklaşık 1 yıl";
+"Finishing..." = "Finishing...";
 "Can't show progress time..." = "İlerleme süresi gösterilemiyor…";
 "Password for \"%@\"" = "\"%@\" için parola";
 "Format" = "Biçim";
@@ -206,13 +209,25 @@
 "Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane.";
 "The characters %@ are not compatible with the %@ format" = "The characters %@ are not compatible with the %@ format";
 "The character %@ is not compatible with the %@ format" = "The character %@ is not compatible with the %@ format";
+"Stop compressing" = "Stop compressing";
+"Stop extracting" = "Stop extracting";
+"Resume compressing" = "Resume compressing";
+"Resume extracting" = "Resume extracting";
+"Pause compressing" = "Pause compressing";
+"Pause extracting" = "Pause extracting";
+"Compression paused" = "Compression paused";
+"Extraction paused" = "Extraction paused";
+"Waiting for password" = "Waiting for password";
+"On queue" = "On queue";
+"Applying quarantine..." = "Applying quarantine...";
 
 /*
-MAS tips
-Note this will be used in Apple's servers
-Apple needs to have MAS translated in this language so this strings can be used
-The language used in MAS/AppleID will be used in Keka's tip strings and may not match Keka's localization
-Note that the short string is limited to 30 characters and the long string is limited to 45 characters.
+// MAS tips
+// Note this will be used in Apple's servers
+// Apple needs to have MAS translated in this language so this strings can be used
+// The language used in MAS/AppleID will be used in Keka's tip strings and may not match Keka's localization
+// Note that the short string is limited to 30 characters and the long string is limited to 45 characters
+// Emojis cannot be used in these strings :(
 */
 "Monthly sip of coffee" = "Monthly sip of coffee";
 "Gift Keka a sip of coffee each month" = "Gift Keka a sip of coffee each month";

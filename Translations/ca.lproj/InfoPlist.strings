@@ -1,5 +1,6 @@
-// Usually leave this one in English
-"NSHumanReadableCopyright" = "Copyright © 2009-2020 aONe";
+
+/* Usually leave this one in English */
+"NSHumanReadableCopyright" = "Copyright © 2009-2021 aONe";
 
 /* Access request descriptions */
 "NSDesktopFolderUsageDescription" = "El Keka requereix accés a l'Escriptori per treballar amb els seus fitxers.";

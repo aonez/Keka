@@ -1,3 +1,4 @@
+
 "_BASE_USED_" = "uk";
 /* Use the _ADVANCED_EXTRA_WIDTH_ (if needed) to fit the method description properly */
 "_ADVANCED_EXTRA_WIDTH_" = "68.0";
@@ -45,9 +46,9 @@
 "Time elapsed: %d:%@%d:%@%d hours%@" = "Часу минуло: %d:%@%d:%@%d годин%@";
 "Time elapsed: %d:%@%d minutes%@" = "Часу минуло: %d:%@%d хвилин%@";
 "Time elapsed: %d seconds%@" = "Часу минуло: %d секунд%@";
-"%d seconds" = "%d секунд";
-"%d:%@%d minutes" = "%d:%@%d хвилин";
-"%d:%@%d:%@%d hours" = "%d:%@%d:%@%d годин";
+"%.0f seconds" = "%.0f секунд";
+"%i:%02i minutes" = "%i:%02i хвилин";
+"%i:%02i:%02i hours" = "%i:%02i:%02i годин";
 "Pause" = "Пауза";
 "Continue" = "Продовжити";
 "Operation paused" = "Операція призупинена";
@@ -76,18 +77,20 @@
 "Extract \"%@\" to..." = "Розпакувати \"%@\" до…";
 "Extract as:" = "Розпакувати як:";
 "Extract" = "Розпакувати";
-" - Remaining: Calculating..." = " - Залишилося: розрахування ...";
-" - Remaining: About one second" = " - Залишилося: близько однієї секунди";
-" - Remaining: About %d seconds" = " - Залишилося: близько %d секунд";
-" - Remaining: About 1 minute" = " - Залишилося: близько 1 хвилини";
-" - Remaining: About %d minutes" = " - Залишилося: близько %d хвилин";
-" - Remaining: About 1 hour" = " - Залишилося: близько 1 години";
-" - Remaining: About %d hours" = " - Залишилося: близько %d годин";
-" - Remaining: About 1 day" = " - Залишилося: близько 1 дня";
-" - Remaining: About %d days" = " - Залишилося: близько %d днів";
-" - Remaining: About 1 year" = " - Залишилося: близько 1 року";
-" - Remaining: About %d years" = " - Залишилося: близько %d років";
-" - Remaining: Less than one second" = " - Залишилося: Менше однієї секунди";
+"About %i seconds" = "близько %i секунд";
+"About %i minutes" = "близько %i хвилин";
+"About %i hours" = "близько %i годин";
+"About %i days" = "близько %i днів";
+"About %i weeks" = "близько %i тижні";
+"About %i months" = "близько %i місяці";
+"About %i years" = "близько %i років";
+"About a minute" = "близько 1 хвилини";
+"About an hour" = "близько 1 години";
+"About a day" = "близько 1 дня";
+"About a week" = "близько 1 тиждень";
+"About a month" = "близько 1 місяць";
+"About a year" = "близько 1 року";
+"Finishing..." = "Finishing...";
 "Can't show progress time..." = "Неможливо показати час прогресу...";
 "Password for \"%@\"" = "Пароль для \"%@\"";
 "Format" = "Формат";
@@ -206,13 +209,25 @@
 "Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka не має доступу до файлу цільової папки, тому йому потрібно запитати місце розташування. \nВи можете додати доступ до цієї та інших папок на панелі доступу Keka до файлів \"Налаштування\".";
 "The characters %@ are not compatible with the %@ format" = "Символи %@ не сумісні з форматом %@";
 "The character %@ is not compatible with the %@ format" = "Символ %@ не сумісний із форматом %@";
+"Stop compressing" = "Stop compressing";
+"Stop extracting" = "Stop extracting";
+"Resume compressing" = "Resume compressing";
+"Resume extracting" = "Resume extracting";
+"Pause compressing" = "Pause compressing";
+"Pause extracting" = "Pause extracting";
+"Compression paused" = "Compression paused";
+"Extraction paused" = "Extraction paused";
+"Waiting for password" = "Waiting for password";
+"On queue" = "On queue";
+"Applying quarantine..." = "Applying quarantine...";
 
 /*
-MAS tips
-Note this will be used in Apple's servers
-Apple needs to have MAS translated in this language so this strings can be used
-The language used in MAS/AppleID will be used in Keka's tip strings and may not match Keka's localization
-Note that the short string is limited to 30 characters and the long string is limited to 45 characters.
+// MAS tips
+// Note this will be used in Apple's servers
+// Apple needs to have MAS translated in this language so this strings can be used
+// The language used in MAS/AppleID will be used in Keka's tip strings and may not match Keka's localization
+// Note that the short string is limited to 30 characters and the long string is limited to 45 characters
+// Emojis cannot be used in these strings :(
 */
 "Monthly sip of coffee" = "Щомісячний ковток кави";
 "Gift Keka a sip of coffee each month" = "Подаруйте Keka щомісячний ковток кави";

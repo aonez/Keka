@@ -1,3 +1,4 @@
+
 "_BASE_USED_" = "en";
 /* Use the _ADVANCED_EXTRA_WIDTH_ (if needed) to fit the method description properly */
 "_ADVANCED_EXTRA_WIDTH_" = "0.0";
@@ -45,9 +46,9 @@
 "Time elapsed: %d:%@%d:%@%d hours%@" = "Time elapsed: %d:%@%d:%@%d hours%@";
 "Time elapsed: %d:%@%d minutes%@" = "Time elapsed: %d:%@%d minutes%@";
 "Time elapsed: %d seconds%@" = "Time elapsed: %d seconds%@";
-"%d seconds" = "%d seconds";
-"%d:%@%d minutes" = "%d:%@%d minutes";
-"%d:%@%d:%@%d hours" = "%d:%@%d:%@%d hours";
+"%.0f seconds" = "%.0f seconds";
+"%i:%02i minutes" = "%i:%02i minutes";
+"%i:%02i:%02i hours" = "%i:%02i:%02i hours";
 "Pause" = "Pause";
 "Continue" = "Continue";
 "Operation paused" = "Operation paused";
@@ -76,18 +77,20 @@
 "Extract \"%@\" to..." = "Extract \"%@\" to…";
 "Extract as:" = "Extract as:";
 "Extract" = "Extract";
-" - Remaining: Calculating..." = " - Remaining: Calculating...";
-" - Remaining: About one second" = " - Remaining: About one second";
-" - Remaining: About %d seconds" = " - Remaining: About %d seconds";
-" - Remaining: About 1 minute" = " - Remaining: About 1 minute";
-" - Remaining: About %d minutes" = " - Remaining: About %d minutes";
-" - Remaining: About 1 hour" = " - Remaining: About 1 hour";
-" - Remaining: About %d hours" = " - Remaining: About %d hours";
-" - Remaining: About 1 day" = " - Remaining: About 1 day";
-" - Remaining: About %d days" = " - Remaining: About %d days";
-" - Remaining: About 1 year" = " - Remaining: About 1 year";
-" - Remaining: About %d years" = " - Remaining: About %d years";
-" - Remaining: Less than one second" = " - Remaining: Less than one second";
+"About %i seconds" = "About %i seconds";
+"About %i minutes" = "About %i minutes";
+"About %i hours" = "About %i hours";
+"About %i days" = "About %i days";
+"About %i weeks" = "About %i weeks";
+"About %i months" = "About %i months";
+"About %i years" = "About %i years";
+"About a minute" = "About a minute";
+"About an hour" = "About an hour";
+"About a day" = "About a day";
+"About a week" = "About a week";
+"About a month" = "About a month";
+"About a year" = "About a year";
+"Finishing..." = "Finishing...";
 "Can't show progress time..." = "Can't show progress time…";
 "Password for \"%@\"" = "Password for \"%@\"";
 "Format" = "Format";
@@ -206,13 +209,25 @@
 "Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane.";
 "The characters %@ are not compatible with the %@ format" = "The characters %@ are not compatible with the %@ format";
 "The character %@ is not compatible with the %@ format" = "The character %@ is not compatible with the %@ format";
+"Stop compressing" = "Stop compressing";
+"Stop extracting" = "Stop extracting";
+"Resume compressing" = "Resume compressing";
+"Resume extracting" = "Resume extracting";
+"Pause compressing" = "Pause compressing";
+"Pause extracting" = "Pause extracting";
+"Compression paused" = "Compression paused";
+"Extraction paused" = "Extraction paused";
+"Waiting for password" = "Waiting for password";
+"On queue" = "On queue";
+"Applying quarantine..." = "Applying quarantine...";
 
 /*
-MAS tips
-Note this will be used in Apple's servers
-Apple needs to have MAS translated in this language so this strings can be used
-The language used in MAS/AppleID will be used in Keka's tip strings and may not match Keka's localization
-Note that the short string is limited to 30 characters and the long string is limited to 45 characters.
+// MAS tips
+// Note this will be used in Apple's servers
+// Apple needs to have MAS translated in this language so this strings can be used
+// The language used in MAS/AppleID will be used in Keka's tip strings and may not match Keka's localization
+// Note that the short string is limited to 30 characters and the long string is limited to 45 characters
+// Emojis cannot be used in these strings :(
 */
 "Monthly sip of coffee" = "Monthly sip of coffee";
 "Gift Keka a sip of coffee each month" = "Gift Keka a sip of coffee each month";

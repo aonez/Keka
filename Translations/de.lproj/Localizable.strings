@@ -1,3 +1,4 @@
+
 "_BASE_USED_" = "de";
 /* Use the _ADVANCED_EXTRA_WIDTH_ (if needed) to fit the method description properly */
 "_ADVANCED_EXTRA_WIDTH_" = "48.0";
@@ -45,9 +46,9 @@
 "Time elapsed: %d:%@%d:%@%d hours%@" = "Verstrichene Zeit: %d:%@%d:%@%d Stunden%@";
 "Time elapsed: %d:%@%d minutes%@" = "Verstrichene Zeit: %d:%@%d Minuten%@";
 "Time elapsed: %d seconds%@" = "Verstrichene Zeit: %d Sekunden%@";
-"%d seconds" = "%d Sekunden";
-"%d:%@%d minutes" = "%d:%@%d Minuten";
-"%d:%@%d:%@%d hours" = "%d:%@%d:%@%d Stunden";
+"%.0f seconds" = "%.0f Sekunden";
+"%i:%02i minutes" = "%i:%02i Minuten";
+"%i:%02i:%02i hours" = "%i:%02i:%02i Stunden";
 "Pause" = "Pause";
 "Continue" = "Fortfahren";
 "Operation paused" = "Aktion angehalten";
@@ -76,18 +77,20 @@
 "Extract \"%@\" to..." = "Entpacke \"%@\" nach...";
 "Extract as:" = "Entpacken als:";
 "Extract" = "Entpacken";
-" - Remaining: Calculating..." = " - Berechne Restzeit...";
-" - Remaining: About one second" = " - Noch ungefähr eine Sekunde";
-" - Remaining: About %d seconds" = " - Noch ungefähr %d Sekunden";
-" - Remaining: About 1 minute" = " - Noch ungefähr eine Minute";
-" - Remaining: About %d minutes" = " - Noch ungefähr %d Minuten";
-" - Remaining: About 1 hour" = " - Noch ungefähr eine Stunde";
-" - Remaining: About %d hours" = " - Noch ungefähr %d Stunden";
-" - Remaining: About 1 day" = " - Noch ungefähr einen Tag";
-" - Remaining: About %d days" = " - Noch ungefähr %d Tage";
-" - Remaining: About 1 year" = " - Noch ungefähr ein Jahr";
-" - Remaining: About %d years" = " - Noch ungefähr %d Jahre";
-" - Remaining: Less than one second" = " - Noch weniger als eine Sekunde";
+"About %i seconds" = "Ungefähr %i Sekunden";
+"About %i minutes" = "Ungefähr %i Minuten";
+"About %i hours" = "Ungefähr %i Stunden";
+"About %i days" = "Ungefähr %i Tage";
+"About %i weeks" = "Ungefähr %i Wochen";
+"About %i months" = "Ungefähr %i Monate";
+"About %i years" = "Ungefähr %i Jahre";
+"About a minute" = "Ungefähr eine Minute";
+"About an hour" = "Ungefähr eine Stunde";
+"About a day" = "Ungefähr ein Tag";
+"About a week" = "Ungefähr ein Woche";
+"About a month" = "Ungefähr ein Monat";
+"About a year" = "Ungefähr ein Jahr";
+"Finishing..." = "Finishing...";
 "Can't show progress time..." = "Restzeit kann nicht angezeigt werden...";
 "Password for \"%@\"" = "Kennwort für \"%@\"";
 "Format" = "Format";
@@ -206,13 +209,25 @@
 "Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka hat keinen Dateizugriff auf den Quellordner und muss Sie nach einem Ort fragen.\nSie können Keka Zugriff zu diesem und weiteren Ordnern in den Keka-Einstellungen geben.";
 "The characters %@ are not compatible with the %@ format" = "Die Zeichen %@ sind nicht mit dem %@-Format kompatibel";
 "The character %@ is not compatible with the %@ format" = "Das Zeichen %@ ist nicht mit dem %@-Format kompatibel";
+"Stop compressing" = "Stop compressing";
+"Stop extracting" = "Stop extracting";
+"Resume compressing" = "Resume compressing";
+"Resume extracting" = "Resume extracting";
+"Pause compressing" = "Pause compressing";
+"Pause extracting" = "Pause extracting";
+"Compression paused" = "Compression paused";
+"Extraction paused" = "Extraction paused";
+"Waiting for password" = "Waiting for password";
+"On queue" = "On queue";
+"Applying quarantine..." = "Applying quarantine...";
 
 /*
-MAS tips
-Note this will be used in Apple's servers
-Apple needs to have MAS translated in this language so this strings can be used
-The language used in MAS/AppleID will be used in Keka's tip strings and may not match Keka's localization
-Note that the short string is limited to 30 characters and the long string is limited to 45 characters.
+// MAS tips
+// Note this will be used in Apple's servers
+// Apple needs to have MAS translated in this language so this strings can be used
+// The language used in MAS/AppleID will be used in Keka's tip strings and may not match Keka's localization
+// Note that the short string is limited to 30 characters and the long string is limited to 45 characters
+// Emojis cannot be used in these strings :(
 */
 "Monthly sip of coffee" = "Monatlich einen Schluck Kaffee";
 "Gift Keka a sip of coffee each month" = "Schenke Keka jeden Monat einen Schluck Kaffee";

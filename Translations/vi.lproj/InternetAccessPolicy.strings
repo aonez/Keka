@@ -1,3 +1,4 @@
+﻿
 /*
 //
 // This file is for Little Snitch's IAP: https://help.obdev.at/resources/documentation/littlesnitch/#/ra-iap
@@ -8,9 +9,9 @@
 //
 */
 
-// Top-level, general application description:
+/* Top-level, general application description: */
 "ApplicationDescription" = "Keka là phần mềm xử lý tập tin nén cho macOS.";
 
-// Software update connection:
+/* Software update connection: */
 "SoftwareUpdatePurpose" = "Keka đang kiểm tra phiên bản mới từ trang u(pdate).keka.io.";
 "SoftwareUpdateDenyConsequences" = "Nếu bạn từ chối kết nối này, bạn sẽ không nhận được thông báo khi có phiên bản mới của Keka.";

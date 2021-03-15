@@ -1,3 +1,4 @@
+
 "_BASE_USED_" = "ko";
 /* Use the _ADVANCED_EXTRA_WIDTH_ (if needed) to fit the method description properly */
 "_ADVANCED_EXTRA_WIDTH_" = "0.0";
@@ -45,9 +46,9 @@
 "Time elapsed: %d:%@%d:%@%d hours%@" = "시간 지남: %d:%@%d:%@%d 시간%@";
 "Time elapsed: %d:%@%d minutes%@" = "시간 지남: %d:%@%d 분%@";
 "Time elapsed: %d seconds%@" = "시간 지남: %d 초%@";
-"%d seconds" = "%d 초";
-"%d:%@%d minutes" = "%d:%@%d 분";
-"%d:%@%d:%@%d hours" = "%d:%@%d:%@%d 시간";
+"%.0f seconds" = "%.0f 초";
+"%i:%02i minutes" = "%i:%02i 분";
+"%i:%02i:%02i hours" = "%i:%02i:%02i 시간";
 "Pause" = "일시 정지";
 "Continue" = "계속";
 "Operation paused" = "작업 일시 정지됨";
@@ -76,18 +77,20 @@
 "Extract \"%@\" to..." = "\"%@\" 파일 압축 풀기...";
 "Extract as:" = "다음으로 압축 풀기:";
 "Extract" = "압축 풀기";
-" - Remaining: Calculating..." = " - 남은 시간: 계산 중...";
-" - Remaining: About one second" = " - 남은 시간: 1 초";
-" - Remaining: About %d seconds" = " - 남은 시간: 약 %d 초";
-" - Remaining: About 1 minute" = " - 남은 시간: 약 1 분";
-" - Remaining: About %d minutes" = " - 남은 시간: 약 %d 분";
-" - Remaining: About 1 hour" = " - 남은 시간: 약 1 시간";
-" - Remaining: About %d hours" = " - 남은 시간: 약 %d 시간";
-" - Remaining: About 1 day" = " - 남은 시간: 약 1 일";
-" - Remaining: About %d days" = " - 남은 시간: 약 %d 일";
-" - Remaining: About 1 year" = " - 남은 시간: 약 1 년";
-" - Remaining: About %d years" = " - 남은 시간: 약 %d 년";
-" - Remaining: Less than one second" = " - 남은 시간: 1 초 미만";
+"About %i seconds" = "약 %i 초";
+"About %i minutes" = "약 %i 분";
+"About %i hours" = "약 %i 시간";
+"About %i days" = "약 %i 일";
+"About %i weeks" = "약 %i 주";
+"About %i months" = "약 %i 달";
+"About %i years" = "약 %i 년";
+"About a minute" = "약 1 분";
+"About an hour" = "약 1 시간";
+"About a day" = "약 1 일";
+"About a week" = "약 1 주";
+"About a month" = "약 1 달";
+"About a year" = "약 1 년";
+"Finishing..." = "Finishing...";
 "Can't show progress time..." = "진행 시간을 표시할 수 없습니다...";
 "Password for \"%@\"" = "\"%@\" 파일 암호";
 "Format" = "압축 형식";
@@ -206,13 +209,25 @@
 "Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka는 대상 폴더에 대한 파일 액세스 권한이 없으므로 위치를 요청해야 합니다.\nKeka의 기본 설정 파일 액세스 창에서 이 폴더와 다른 폴더에 대한 액세스를 추가할 수 있습니다.";
 "The characters %@ are not compatible with the %@ format" = "%@ 문자는 %@ 포맷과 호환되지 않습니다.";
 "The character %@ is not compatible with the %@ format" = "%@ 문자가 %@ 포맷과 호환되지 않습니다.";
+"Stop compressing" = "Stop compressing";
+"Stop extracting" = "Stop extracting";
+"Resume compressing" = "Resume compressing";
+"Resume extracting" = "Resume extracting";
+"Pause compressing" = "Pause compressing";
+"Pause extracting" = "Pause extracting";
+"Compression paused" = "Compression paused";
+"Extraction paused" = "Extraction paused";
+"Waiting for password" = "Waiting for password";
+"On queue" = "On queue";
+"Applying quarantine..." = "Applying quarantine...";
 
 /*
-MAS tips
-Note this will be used in Apple's servers
-Apple needs to have MAS translated in this language so this strings can be used
-The language used in MAS/AppleID will be used in Keka's tip strings and may not match Keka's localization
-Note that the short string is limited to 30 characters and the long string is limited to 45 characters.
+// MAS tips
+// Note this will be used in Apple's servers
+// Apple needs to have MAS translated in this language so this strings can be used
+// The language used in MAS/AppleID will be used in Keka's tip strings and may not match Keka's localization
+// Note that the short string is limited to 30 characters and the long string is limited to 45 characters
+// Emojis cannot be used in these strings :(
 */
 "Monthly sip of coffee" = "월별 커피 한모금";
 "Gift Keka a sip of coffee each month" = "Keka에게 매달 커피 한 모금을 선물";

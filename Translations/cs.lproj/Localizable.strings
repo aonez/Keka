@@ -1,3 +1,4 @@
+
 "_BASE_USED_" = "en";
 /* Use the _ADVANCED_EXTRA_WIDTH_ (if needed) to fit the method description properly */
 "_ADVANCED_EXTRA_WIDTH_" = "75.0";
@@ -45,9 +46,9 @@
 "Time elapsed: %d:%@%d:%@%d hours%@" = "Uplynulý čas: %d:%@%d:%@%d hodin%@";
 "Time elapsed: %d:%@%d minutes%@" = "Uplynulý čas: %d:%@%d minut%@";
 "Time elapsed: %d seconds%@" = "Uplynulý čas: %d sekund%@";
-"%d seconds" = "%d sekund";
-"%d:%@%d minutes" = "%d:%@%d minut";
-"%d:%@%d:%@%d hours" = "%d:%@%d:%@%d hodin";
+"%.0f seconds" = "%.0f sekund";
+"%i:%02i minutes" = "%i:%02i minut";
+"%i:%02i:%02i hours" = "%i:%02i:%02i hodin";
 "Pause" = "Pozastavit";
 "Continue" = "Pokračovat";
 "Operation paused" = "Operace pozastavena";
@@ -76,18 +77,20 @@
 "Extract \"%@\" to..." = "Rozbalit \"%@\" do…";
 "Extract as:" = "Rozbalit jako:";
 "Extract" = "Rozbalit";
-" - Remaining: Calculating..." = " - Výpočet odhadované doby...";
-" - Remaining: About one second" = " - Zbývá přibližně 1 sekunda";
-" - Remaining: About %d seconds" = " - Zbývá přibližně %d sekund";
-" - Remaining: About 1 minute" = " - Zbývá přibližně 1 minuta";
-" - Remaining: About %d minutes" = " - Zbývá přibližně %d minut";
-" - Remaining: About 1 hour" = " - Zbývá přibližně 1 hodina";
-" - Remaining: About %d hours" = " - Zbývá přibližně %d hodin";
-" - Remaining: About 1 day" = " - Zbývá přibližně 1 den";
-" - Remaining: About %d days" = " - Zbývá přibližně %d dnů";
-" - Remaining: About 1 year" = " - Zbývá přibližně 1 rok";
-" - Remaining: About %d years" = " - Zbývá přibližně %d let";
-" - Remaining: Less than one second" = " - Zbývá méně než 1 sekunda";
+"About %i seconds" = "Přibližně %i sekund";
+"About %i minutes" = "Přibližně %i minut";
+"About %i hours" = "Přibližně %i hodin";
+"About %i days" = "Přibližně %i dny";
+"About %i weeks" = "Přibližně %i týdny";
+"About %i months" = "Přibližně %i měsíce";
+"About %i years" = "Přibližně %i let";
+"About a minute" = "Přibližně 1 minuta";
+"About an hour" = "Přibližně 1 hodina";
+"About a day" = "Přibližně 1 den";
+"About a week" = "Přibližně 1 týden";
+"About a month" = "Přibližně 1 měsíc";
+"About a year" = "Přibližně 1 rok";
+"Finishing..." = "Finishing...";
 "Can't show progress time..." = "Odhadovaný čas nelze zobrazit...";
 "Password for \"%@\"" = "Zadejte heslo pro \"%@\"";
 "Format" = "Formát";
@@ -206,13 +209,25 @@
 "Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Protože Keka nemá přístup k výchozí složce, zeptá se vás na jinou.\nPřístup k této a dalším složkám můžete nastavit v předvolbách v kartě Přístup k souborům.";
 "The characters %@ are not compatible with the %@ format" = "Znaky %@ nejsou s formátem %@ kompatibilní";
 "The character %@ is not compatible with the %@ format" = "Znak %@ není s formátem %@ kompatibilní";
+"Stop compressing" = "Stop compressing";
+"Stop extracting" = "Stop extracting";
+"Resume compressing" = "Resume compressing";
+"Resume extracting" = "Resume extracting";
+"Pause compressing" = "Pause compressing";
+"Pause extracting" = "Pause extracting";
+"Compression paused" = "Compression paused";
+"Extraction paused" = "Extraction paused";
+"Waiting for password" = "Waiting for password";
+"On queue" = "On queue";
+"Applying quarantine..." = "Applying quarantine...";
 
 /*
-MAS tips
-Note this will be used in Apple's servers
-Apple needs to have MAS translated in this language so this strings can be used
-The language used in MAS/AppleID will be used in Keka's tip strings and may not match Keka's localization
-Note that the short string is limited to 30 characters and the long string is limited to 45 characters.
+// MAS tips
+// Note this will be used in Apple's servers
+// Apple needs to have MAS translated in this language so this strings can be used
+// The language used in MAS/AppleID will be used in Keka's tip strings and may not match Keka's localization
+// Note that the short string is limited to 30 characters and the long string is limited to 45 characters
+// Emojis cannot be used in these strings :(
 */
 "Monthly sip of coffee" = "Pár zrnek kávy";
 "Gift Keka a sip of coffee each month" = "Keka si pochutná na pár zrncích kávy";

@@ -1,3 +1,4 @@
+
 "_BASE_USED_" = "en";
 /* Use the _ADVANCED_EXTRA_WIDTH_ (if needed) to fit the method description properly */
 "_ADVANCED_EXTRA_WIDTH_" = "0.0";
@@ -45,9 +46,9 @@
 "Time elapsed: %d:%@%d:%@%d hours%@" = "Tid siden start: %d:%@%d:%@%d timer%@";
 "Time elapsed: %d:%@%d minutes%@" = "Tid siden start: %d:%@%d minutter%@";
 "Time elapsed: %d seconds%@" = "Tid siden start: %d sekunder%@";
-"%d seconds" = "%d sekunder";
-"%d:%@%d minutes" = "%d:%@%d minutter";
-"%d:%@%d:%@%d hours" = "%d:%@%d:%@%d timer";
+"%.0f seconds" = "%.0f sekunder";
+"%i:%02i minutes" = "%i:%02i minutter";
+"%i:%02i:%02i hours" = "%i:%02i:%02i timer";
 "Pause" = "Pause";
 "Continue" = "Fortsett";
 "Operation paused" = "Operasjon satt på pause";
@@ -76,18 +77,20 @@
 "Extract \"%@\" to..." = "Pakk ut \"%@\" til…";
 "Extract as:" = "Pakk ut til:";
 "Extract" = "Pakk ut";
-" - Remaining: Calculating..." = " - Gjenstår: Beregner...";
-" - Remaining: About one second" = " - Gjenstår: Omtrent ett sekund";
-" - Remaining: About %d seconds" = " - Gjenstår: Omtrent %d sekunder";
-" - Remaining: About 1 minute" = " - Gjenstår: Omtrent 1 minutt";
-" - Remaining: About %d minutes" = " - Gjenstår: Omtrent %d minutter";
-" - Remaining: About 1 hour" = " - Gjenstår: Omtrent 1 time";
-" - Remaining: About %d hours" = " - Gjenstår: Omtrent %d timer";
-" - Remaining: About 1 day" = " - Gjenstår: Omtrent 1 dag";
-" - Remaining: About %d days" = " - Gjenstår: Omtrent %d dager";
-" - Remaining: About 1 year" = " - Gjenstår: Omtrent 1 år";
-" - Remaining: About %d years" = " - Gjenstår: Omtrent %d år";
-" - Remaining: Less than one second" = " - Gjenstår: Under ett sekund";
+"About %i seconds" = "Omtrent %i sekunder";
+"About %i minutes" = "Omtrent %i minutter";
+"About %i hours" = "Omtrent %i timer";
+"About %i days" = "Omtrent %i dager";
+"About %i weeks" = "Omtrent %i uker";
+"About %i months" = "Omtrent %i måneder";
+"About %i years" = "Omtrent %i år";
+"About a minute" = "Omtrent 1 minutt";
+"About an hour" = "Omtrent 1 time";
+"About a day" = "Omtrent 1 dag";
+"About a week" = "Omtrent 1 uke";
+"About a month" = "Omtrent 1 måned";
+"About a year" = "Omtrent 1 år";
+"Finishing..." = "Finishing...";
 "Can't show progress time..." = "Kan ikke vise tiden…";
 "Password for \"%@\"" = "Passord for \"%@\"";
 "Format" = "Format";
@@ -206,13 +209,25 @@
 "Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka har ikke filtilgang til kildemappen, derfor blir du spurt om plassering.\nDu kan legge til tilgang til denne og andre mapper i Filtilgang-panelet i Kekas Valg.";
 "The characters %@ are not compatible with the %@ format" = "Tegnene %@ er ikke kompatible med formatet %@";
 "The character %@ is not compatible with the %@ format" = "Tegnet %@ er ikke kompatibelt med formatet %@";
+"Stop compressing" = "Stop compressing";
+"Stop extracting" = "Stop extracting";
+"Resume compressing" = "Resume compressing";
+"Resume extracting" = "Resume extracting";
+"Pause compressing" = "Pause compressing";
+"Pause extracting" = "Pause extracting";
+"Compression paused" = "Compression paused";
+"Extraction paused" = "Extraction paused";
+"Waiting for password" = "Waiting for password";
+"On queue" = "On queue";
+"Applying quarantine..." = "Applying quarantine...";
 
 /*
-MAS tips
-Note this will be used in Apple's servers
-Apple needs to have MAS translated in this language so this strings can be used
-The language used in MAS/AppleID will be used in Keka's tip strings and may not match Keka's localization
-Note that the short string is limited to 30 characters and the long string is limited to 45 characters.
+// MAS tips
+// Note this will be used in Apple's servers
+// Apple needs to have MAS translated in this language so this strings can be used
+// The language used in MAS/AppleID will be used in Keka's tip strings and may not match Keka's localization
+// Note that the short string is limited to 30 characters and the long string is limited to 45 characters
+// Emojis cannot be used in these strings :(
 */
 "Monthly sip of coffee" = "Monthly sip of coffee";
 "Gift Keka a sip of coffee each month" = "Gift Keka a sip of coffee each month";
