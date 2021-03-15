@@ -7,7 +7,7 @@
 "General" = "通用";
 "File Access" = "文件访问权限";
 "Performance" = "性能";
-"Finder Extension" = "Finder 扩展";
+"Finder Extension" = "访达扩展";
 "Love" = "Love";
 "OK" = "好";
 "Done" = "好";
@@ -166,7 +166,7 @@
 "Show in context menu" = "在上下文菜单中展示";
 "External disk: %@" = "外部磁盘：%@";
 "An extension is required" = "需要扩展";
-"In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "要将 Keka 设置为默认应用程序，您需要安装扩展。点击“更多信息”根据所需步骤操作。\n\n请记住，任何时候您都可以通过 Finder 中的“显示简介”面板将 Keka 设置为任何压缩文件格式的默认应用程序。";
+"In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "要将 Keka 设置为默认应用程序，您需要安装扩展。点击“更多信息”根据所需步骤操作。\n\n请记住，任何时候您都可以通过访达中的“显示简介”面板将 Keka 设置为任何压缩文件格式的默认应用程序。";
 "Your installed extension is obsolete and you should update it." = "您安装的扩展已过时，应进行更新。";
 "Update" = "更新";
 "Cannot set Keka as default" = "无法将 Keka 设置为默认应用程序";
@@ -177,7 +177,7 @@
 "There were some errors while registering the formats. There is more information in the Console.app." = "注册格式时出现错误。请在控制台中查看详情。";
 "The intermediate application can't get access to Keka." = "中间应用程序无法访问 Keka。";
 "The intermediate application can't find Keka." = "中间应用程序无法找到 Keka。";
-"Show in Finder" = "在 Finder 中显示";
+"Show in Finder" = "在访达中显示";
 "Delete" = "删除";
 "Continue without encryption" = "不加密并继续";
 "The password does not match" = "密码不匹配";
@@ -203,23 +203,23 @@
 "Give Keka some love ♥" = "给 Keka 一些温暖 ♥";
 "All extractions will be expanded at this location." = "所有提取操作将在该位置完成。";
 "All compressions will be stored at this location." = "所有压缩操作将存储在该位置。";
-"You'll be asked where to extract each operation." = "每次询问提取操作。";
-"You'll be asked where to compress each operation." = "每次询问压缩操作。";
+"You'll be asked where to extract each operation." = "每次提取将被询问。";
+"You'll be asked where to compress each operation." = "每次压缩将被询问。";
 "If Keka has File Access it will execute the operation near the source file/s, otherwise it will ask for a location. You can set Keka's File Access in the Preferences tab so this option works properly." = "如果 Keka 具有文件访问权限，它将在源文件所在位置执行操作，否则将询问指定位置。您可以在首选项中设置 Keka 的文件访问权限，以便该选项正常运行。";
 "Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka 对目标文件夹没有文件访问权限，因此需要询问指定位置。\n您可以在 Keka 的首选项的文件访问中添加对此文件夹和其他文件夹的访问权限。";
 "The characters %@ are not compatible with the %@ format" = "字符 %@ 与 %@ 格式不兼容";
 "The character %@ is not compatible with the %@ format" = "字符 %@ 与 %@ 格式不兼容";
-"Stop compressing" = "Stop compressing";
-"Stop extracting" = "Stop extracting";
-"Resume compressing" = "Resume compressing";
-"Resume extracting" = "Resume extracting";
-"Pause compressing" = "Pause compressing";
-"Pause extracting" = "Pause extracting";
-"Compression paused" = "Compression paused";
-"Extraction paused" = "Extraction paused";
-"Waiting for password" = "Waiting for password";
-"On queue" = "On queue";
-"Applying quarantine..." = "Applying quarantine...";
+"Stop compressing" = "停止压缩";
+"Stop extracting" = "停止提取";
+"Resume compressing" = "恢复压缩";
+"Resume extracting" = "恢复提取";
+"Pause compressing" = "暂停压缩";
+"Pause extracting" = "暂停提取";
+"Compression paused" = "压缩已暂停";
+"Extraction paused" = "提取已暂停";
+"Waiting for password" = "等待输入密码";
+"On queue" = "队列中";
+"Applying quarantine..." = "隔离应用中…";
 
 /*
 // MAS tips
@@ -229,16 +229,16 @@
 // Note that the short string is limited to 30 characters and the long string is limited to 45 characters
 // Emojis cannot be used in these strings :(
 */
-"Monthly sip of coffee" = "每月整点☕";
-"Gift Keka a sip of coffee each month" = "每月请 Keka 整点☕";
-"Monthly coffee" = "月供☕";
-"Gift Keka a coffee each month" = "每月请 Keka 整一杯☕";
-"Monthly pair of coffees" = "每月两杯☕";
-"Gift Keka a couple coffees each month" = "每月请 Keka 整几杯☕";
+"Monthly sip of coffee" = "每月整点咖啡";
+"Gift Keka a sip of coffee each month" = "每月请 Keka 整点咖啡";
+"Monthly coffee" = "月供咖啡";
+"Gift Keka a coffee each month" = "每月请 Keka 整一杯咖啡";
+"Monthly pair of coffees" = "每月两杯咖啡";
+"Gift Keka a couple coffees each month" = "每月请 Keka 整几杯咖啡";
 "Monthly breakfast" = "月供早餐";
 "Gift Keka a breakfast each month" = "每月请 Keka 恰个早餐";
-"Tip a coffee" = "整杯☕";
-"Tip Keka a coffee so it can stay awake" = "让 Keka 整杯☕神清气爽";
+"Tip a coffee" = "整杯咖啡";
+"Tip Keka a coffee so it can stay awake" = "让 Keka 整杯咖啡神清气爽";
 "Tip a breakfast" = "恰个早餐";
 "Tip Keka a breakfast so it can start fresh" = "让 Keka 恰个早餐变得更有活力";
 "Tip a lunch" = "恰个午餐";

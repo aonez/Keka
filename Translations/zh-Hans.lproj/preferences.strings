@@ -138,7 +138,7 @@
 "CWc-wN-FhI.title" = "自定义文件夹...";
 
 /* Class = "NSTextFieldCell"; title = "Extractions use less power so even using multiple thread you can easily set this limit to two or three. Note that the target disk may suffer."; ObjectID = "DAr-Td-s5W"; */
-"DAr-Td-s5W.title" = "提取使用的功率较少，因此即使使用多线程，您也可以将此限制设置为 2 或 3。请注意，目标磁盘可能会受影响。";
+"DAr-Td-s5W.title" = "提取使用的电力较少，因此即使使用多线程，您也可以将此限制设置为 2 或 3。请注意，目标磁盘可能会受影响。";
 
 /* Class = "NSButtonCell"; title = "Ask before quitting with operations"; ObjectID = "DJT-wB-bCM"; */
 "DJT-wB-bCM.title" = "退出操作前询问";
@@ -258,7 +258,7 @@
 "pXT-7y-9af.title" = "始终提取至子文件夹";
 
 /* Class = "NSButtonCell"; title = "Show Keka actions in Finder's contextual menu"; ObjectID = "rP2-XR-ZQt"; */
-"rP2-XR-ZQt.title" = "在 Finder 的上下文菜单中显示 Keka 操作";
+"rP2-XR-ZQt.title" = "在访达的上下文菜单中显示 Keka 操作";
 
 /* Class = "NSButtonCell"; title = "Show icons in actions"; ObjectID = "s9u-2a-b8X"; */
 "s9u-2a-b8X.title" = "在操作中显示图标";
@@ -273,13 +273,13 @@
 "tEH-O0-NxO.title" = "永不，如果可能";
 
 /* Class = "NSTextFieldCell"; title = "The Finder Extension needs to be enabled in the  System Preferences, Extensions configuration."; ObjectID = "wgz-2S-eXI"; */
-"wgz-2S-eXI.title" = "需要在系统偏好设置，扩展程序配置中启用 Finder 扩展程序。";
+"wgz-2S-eXI.title" = "访达扩展需要在系统偏好设置，扩展程序中配置。";
 
 /* Class = "NSTextFieldCell"; title = "Most operations use multiple threads. That means faster operations but also more power consumption and heat."; ObjectID = "xyb-eH-aiy"; */
-"xyb-eH-aiy.title" = "大多数操作使用多个线程。这会使处理速度变得更快，但也会造成更多电力消耗和发热。";
+"xyb-eH-aiy.title" = "大多数操作在使用多个线程。这意味着操作的处理速度会更快，但同时会带来更多电力消耗以及发热。";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous extractions:"; ObjectID = "yGo-Gm-0zq"; */
 "yGo-Gm-0zq.title" = "最大同时提取数量：";
 
 /* Class = "NSTextFieldCell"; title = "Queuing usually results in faster operations and a more responsive behaviour."; ObjectID = "zPq-ei-qUb"; */
-"zPq-ei-qUb.title" = "使用队列一般会使程序运行更快以及更灵敏。";
+"zPq-ei-qUb.title" = "队列会带来更快的操作处理速度以及更灵敏的响应。";
