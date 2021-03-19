@@ -78,10 +78,10 @@
 "L2I-Q8-zqc.title" = "Codeer bestandsnamen";
 
 /* Class = "NSButtonCell"; title = "Use AES-256 encryption"; ObjectID = "Lw7-h9-3Qh"; */
-"Lw7-h9-3Qh.title" = "Use AES-256 encryption";
+"Lw7-h9-3Qh.title" = "Gebruik AES-256 encryptie";
 
 /* Class = "NSButtonCell"; title = "Solid archive"; ObjectID = "UYy-aQ-V1a"; */
 "UYy-aQ-V1a.title" = "Compact archief maken";
 
 /* Class = "NSButtonCell"; title = "Use BZIP2 compression"; ObjectID = "qhy-NU-Cts"; */
-"qhy-NU-Cts.title" = "Use BZIP2 compression";
+"qhy-NU-Cts.title" = "Gebruik BZIP2 encryptie";
