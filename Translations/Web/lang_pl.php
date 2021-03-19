@@ -52,9 +52,9 @@ $content_info_title2 = "Prywatność jest najważniejsza";
 $content_info_title3 = "Nadal zbyt duży?";
 $content_info_text1 = "Nie musisz nawet programu, aby skompresować plik. Wystarczy, że będzie przypięty w Dock'u. <br /> Aby skompresować pliki, wystarczy je przeciągnąć na ikonę lub okno programu.";
 $content_info_text2 = "Udostępniaj bezpiecznie dzięki plikom zaszyfrowanym. <br /> Wykorzystaj standard AES-256 dla plików 7z i <br /> standard Zip 2.0 dla plików Zip.";
-$content_info_text3 = "Jeśli plik jest zbyt duży, aby np. dołączyć go do poczty elektronicznej, po prostu podziel go na mniejsze archiwa. <br /> Po wypakowaniu zawsze uzyskasz swój oryginalny plik.";
+$content_info_text3 = "Jeśli plik jest zbyt duży, aby np. dołączyć go do poczty elektronicznej, po prostu podziel go na mniejsze archiwa. <br /> Po wyodrębnieniu zawsze uzyskasz swój oryginalny plik.";
 $content_info_compression = "Przy pomocy Keka stworzysz pliki w formatach:";
-$content_info_extraction = "Keka pozwoli Ci również wypakować pliki w formatach:";
+$content_info_extraction = "Keka pozwoli Ci również wyodrębnić pliki w formatach:";
 
 // Default app
 $content_defaultapp_title = "Set Keka as the default extraction application";
