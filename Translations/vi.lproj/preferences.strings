@@ -123,7 +123,7 @@
 "63y-ct-DNM.title" = "Tự động kiểm tra các bản cập nhật";
 
 /* Class = "NSMenuItem"; title = "Desktop"; ObjectID = "67Z-kB-INb"; */
-"67Z-kB-INb.title" = "Desktop";
+"67Z-kB-INb.title" = "Bàn làm việc";
 
 /* Class = "NSButtonCell"; title = "Nest actions in a submenu"; ObjectID = "6bh-6N-5PP"; */
 "6bh-6N-5PP.title" = "Gom các lệnh vào một lệnh con";
@@ -192,7 +192,7 @@
 "WCN-jH-W9J.placeholderString" = "Thêm tên tuỳ chỉnh tại đây";
 
 /* Class = "NSButtonCell"; title = "Remove bad password header structure extractions"; ObjectID = "Wd0-yz-M1h"; */
-"Wd0-yz-M1h.title" = "Remove bad password header structure extractions";
+"Wd0-yz-M1h.title" = "Loại bỏ cấu trúc lỗi của phần đầu mật khẩu tập giải nén";
 
 /* Class = "NSMenuItem"; title = "Automatic"; ObjectID = "XOB-JO-UQT"; */
 "XOB-JO-UQT.title" = "Tự động";
