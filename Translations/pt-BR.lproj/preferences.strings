@@ -219,10 +219,10 @@
 "cb7-h4-ScP.title" = "Máximo de threads por operação:";
 
 /* Class = "NSButtonCell"; title = "Use short tarball extensions (eg: .tgz instead of .tar.gz)"; ObjectID = "cfd-8g-kiU"; */
-"cfd-8g-kiU.title" = "Use short tarball extensions (eg: .tgz instead of .tar.gz)";
+"cfd-8g-kiU.title" = "Usar extensões de TAR curtas (ex.: .tgz em vez de .tar.gz)";
 
 /* Class = "NSButtonCell"; title = "Checking the extension status"; ObjectID = "chn-AV-kXZ"; */
-"chn-AV-kXZ.title" = "Checking the extension status";
+"chn-AV-kXZ.title" = "Verificando estado da extensão";
 
 /* Class = "NSTextFieldCell"; title = "Compressing multiple files:"; ObjectID = "dhi-qv-weg"; */
 "dhi-qv-weg.title" = "Compressão de vários arquivos:";
@@ -243,7 +243,7 @@
 "hp7-jO-HeV.title" = "Usar criptografia AES-256 em ZIPs (menos compatível)";
 
 /* Class = "NSTextFieldCell"; title = "You can customize where to show the contextual menu below:"; ObjectID = "izC-0G-lvl"; */
-"izC-0G-lvl.title" = "You can customize where to show the contextual menu below:";
+"izC-0G-lvl.title" = "Personalize abaixo onde o menu contextual aparece:";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous operations:"; ObjectID = "o8J-bR-bs6"; */
 "o8J-bR-bs6.title" = "Máximo de operações simultâneas:";
