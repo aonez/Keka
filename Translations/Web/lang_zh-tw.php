@@ -31,7 +31,7 @@ $content_download_helper = "輔助程式";
 // Like
 $content_donation_button = "贊助";
 $content_donation_title = '如果您喜歡 Keka，可以給予一些 <i class="fa fa-heart" aria-hidden="true"></i>，<br />您也可以從 App Store 購買 Keka，也可以透過 PayPal 贊助！';
-$content_donation_mas = "從 App Store 購買 Keka 相當於支持 Keka 繼續開發，<br />從 App Store 下載到的 Keka 版本跟網站的版本相同，惟從 App Store 更新。";
+$content_donation_mas = "從 App Store 購買 Keka 相當於支持 Keka 繼續開發，<br />從 App Store 下載的 Keka 版本與官方網站的版本相同，僅改為從 App Store 更新。";
 $content_donation_paypal = "如果您不喜歡 MAS 或只是試用一下 Keka，<br />但是很喜歡這個專案並希望給予一些支持，您可以使用 PayPal 贊助。";
 
 // Beta
@@ -44,21 +44,21 @@ $content_beta_up = "取得最新版本";
 // Legacy
 $content_platform_legacy =  "適用於 $version_replace";
 $content_legacy_title = "Keka 歷史版本";
-$content_legacy_text = '多年後您的 Mac 將邁入老年，或許不會支援<br />最新版的 Keka。別擔心 <i class="fa fa-coffee" aria-hidden="true"></i>，所有 Keka 的歷史版本都在這裡。';
+$content_legacy_text = '多年後您的 Mac 會變得越來越舊，或許無法支援<br />最新版的 Keka。別擔心 <i class="fa fa-coffee" aria-hidden="true"></i>，所有 Keka 的歷史版本都在這裡。';
 
 // Info
 $content_info_title1 = "簡單而強大";
 $content_info_title2 = "隱私為第一要務";
 $content_info_title3 = "怎麼辦，塞不下了⋯⋯";
-$content_info_text1 = "您要壓縮檔案，不用打開 Keka，只需扔到 Dock 中，<br />然後將檔案和資料夾拖放到 Dock 上的 Keka 圖示或 Keka 視窗即可快速建立壓縮檔。";
-$content_info_text2 = "只要設定密碼和建立高安全加密的檔案，即可安全分享檔案。<br />7z 檔案可以使用 AES-256 加密規範，而<br />Zip 可以用 Zip 2.0 傳統加密規範。";
+$content_info_text1 = "將 Keka 新增至 Dock，無須開啟視窗也能壓縮檔案。<br />將檔案和資料夾拖放到 Dock 上的 Keka 圖示或 Keka 視窗即可快速建立壓縮檔。";
+$content_info_text2 = "只要設定密碼後建立加密壓縮檔，即可安全分享檔案。<br />7z 檔案可以使用 AES-256 加密規範，而<br />Zip 可以用 Zip 2.0 傳統加密規範。";
 $content_info_text3 = "如果檔案太大以致塞不進信件或是伺服器，只要分割壓縮就好。<br />不用擔心，它們依然可以解壓縮成原來的檔案 :)";
 $content_info_compression = "Keka 可以建立以下格式的壓縮檔案：";
 $content_info_extraction = "並支援解壓縮這些格式：";
 
 // Default app
 $content_defaultapp_title = "將 Keka 設定為預設解壓縮應用程式";
-$content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">需要一個輔助程式 <i class="far fa-question-circle"></i></a> 才能將自己設成預設應用程式。<br />下載，解壓縮，移至桌面，最後打開即可。';
+$content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">需要一個輔助程式 <i class="far fa-question-circle"></i></a> 才能設定成預設應用程式。<br />下載，解壓縮，移至桌面，最後打開即可。';
 
 // Terms of use
 $content_termsofuse_title = '服務條款';
