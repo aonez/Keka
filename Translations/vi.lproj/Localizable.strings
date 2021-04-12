@@ -220,6 +220,9 @@
 "Waiting for password" = "Đang chờ mật khẩu";
 "On queue" = "Đang xếp hàng";
 "Applying quarantine..." = "Áp dụng cách ly...";
+"%@.\n\nPlease get in contact with the developers." = "%@.\n\nVui lòng liên hệ với bộ phận lập trình viên của Keka.";
+"Report" = "Report";
+"Report via mail" = "Report via mail";
 
 /*
 // MAS tips
