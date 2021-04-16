@@ -145,7 +145,7 @@
 "Write error. No permission? No space left?" = "Erro de gravação. Sem permissão? Sem espaço livre?";
 "Can't open the file, maybe it's not accessible" = "Impossível abrir o arquivo, talvez ele esteja inacessível";
 "No files matching the mask" = "Nenhum arquivo corresponde aos filtros";
-"There were some read errors" = "There were some read errors";
+"There were some read errors" = "Houve alguns erros de leitura";
 "Give access" = "Conceder Acesso";
 "Just folder access" = "Apenas Acesso à Pasta";
 "Quit" = "Encerrar";
@@ -160,15 +160,15 @@
 "Full Mac access (Recommended)" = "Acesso total ao Mac (recomendado)";
 "Home folder access" = "Acesso à pasta pessoal";
 "External volumes access" = "Acesso a volumes externos";
-"Full Mac" = "Full Mac";
+"Full Mac" = "Todo o Mac";
 "Home folder" = "Pasta pessoal";
 "External volumes" = "Volumes externos";
-"Show in context menu" = "Show in context menu";
+"Show in context menu" = "Mostrar no menu contextual";
 "External disk: %@" = "Disco externo: %@";
 "An extension is required" = "É necessário uma extensão";
 "In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "Para definir o Keka como o aplicativo padrão, você precisa instalar uma extensão. Clique em “Mais Informações” para seguir os passos necessários.\n\nLembre-se que você pode usar o painel “Obter Informações” do Finder para definir o Keka como o aplicativo padrão para qualquer formato.";
-"Your installed extension is obsolete and you should update it." = "Your installed extension is obsolete and you should update it.";
-"Update" = "Update";
+"Your installed extension is obsolete and you should update it." = "A extensão instalada é obsoleta e você deve atualizá-la.";
+"Update" = "Atualizar";
 "Cannot set Keka as default" = "Não foi possível definir o Keka como padrão.";
 "The intermediate application failed to launch. There is more information in the Console.app." = "Falha ao abrir o aplicativo intermediário. Mais informações estão disponíveis no app Console.";
 "The intermediate application returned an undefined code." = "O aplicativo intermediário retornou um código indefinido.";
@@ -191,7 +191,7 @@
 "Give access to the compressed file" = "Conceder Acesso ao Arquivo Comprimido";
 "The extension is enabled" = "A extensão está ativada";
 "The extension is disabled" = "A extensão está desativada";
-"Enable or disable the extension" = "Enable or disable the extension";
+"Enable or disable the extension" = "Ative ou desative a extensão";
 "Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "O Keka decidirá entre comprimir ou extrair com base no formato e extensão do arquivo. Esta é a opção recomendada.";
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "O Keka comprimirá todos os arquivos, até mesmo os já comprimidos. No modo automático, você pode soltar um arquivo já comprimido na parte inferior da área de operações para comprimi-lo.";
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "O Keka tentará extrair todos os arquivos comprimidos. No modo automático, você pode soltar um arquivo comprimido desconhecido na parte inferior da área de operações para extraí-lo.";
@@ -206,20 +206,23 @@
 "You'll be asked where to extract each operation." = "Cada operação de extração solicitará um local.";
 "You'll be asked where to compress each operation." = "Cada operação de compressão solicitará um local.";
 "If Keka has File Access it will execute the operation near the source file/s, otherwise it will ask for a location. You can set Keka's File Access in the Preferences tab so this option works properly." = "Se o Keka tiver acesso ao item, ele executará a operação junto ao original. Caso contrário, ele solicitará um local. Configure as preferências de Acesso a Arquivos do Keka para que esta opção funcione corretamente.";
-"Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "O Keka precisa solicitar onde a operação será realizada porque ele não tem acesso à pasta original.\nVocê pode adicionar o acesso a esta e outras pastas nas preferências de Acesso a Arquivos do Keka.";
+"Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "O Keka precisa solicitar onde a operação será realizada porque ele não tem acesso à pasta de destino.\nVocê pode adicionar o acesso a esta e outras pastas nas preferências de Acesso a Arquivos do Keka.";
 "The characters %@ are not compatible with the %@ format" = "Os caracteres %@ não são compatíveis com o formato %@";
 "The character %@ is not compatible with the %@ format" = "O caractere %@ não é compatível com o formato %@";
-"Stop compressing" = "Stop compressing";
-"Stop extracting" = "Stop extracting";
-"Resume compressing" = "Resume compressing";
-"Resume extracting" = "Resume extracting";
-"Pause compressing" = "Pause compressing";
-"Pause extracting" = "Pause extracting";
-"Compression paused" = "Compression paused";
-"Extraction paused" = "Extraction paused";
-"Waiting for password" = "Waiting for password";
-"On queue" = "On queue";
-"Applying quarantine..." = "Applying quarantine...";
+"Stop compressing" = "Parar compressão";
+"Stop extracting" = "Parar extração";
+"Resume compressing" = "Retomar compressão";
+"Resume extracting" = "Retomar extração";
+"Pause compressing" = "Pausar compressão";
+"Pause extracting" = "Pausar extração";
+"Compression paused" = "Compressão pausada";
+"Extraction paused" = "Extração pausada";
+"Waiting for password" = "Aguardando senha";
+"On queue" = "Na fila";
+"Applying quarantine..." = "Aplicando quarentena...";
+"%@.\n\nPlease get in contact with the developers." = "%@.\n\nContacte os desenvolvedores.";
+"Report" = "Report";
+"Report via mail" = "Report via mail";
 
 /*
 // MAS tips
