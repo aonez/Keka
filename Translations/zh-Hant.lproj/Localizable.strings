@@ -221,8 +221,8 @@
 "On queue" = "在佇列";
 "Applying quarantine..." = "正在套用 quarantine 屬性⋯⋯";
 "%@.\n\nPlease get in contact with the developers." = "%@.\n\n請聯絡開發人員。";
-"Report" = "Report";
-"Report via mail" = "Report via mail";
+"Report" = "回報";
+"Report via mail" = "郵件回報";
 
 /*
 // MAS tips
