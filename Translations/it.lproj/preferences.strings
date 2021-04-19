@@ -1,4 +1,4 @@
-﻿
+
 /* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
 "159.title" = "Formato di default:";
 
@@ -128,8 +128,8 @@
 /* Class = "NSButtonCell"; title = "Nest actions in a submenu"; ObjectID = "6bh-6N-5PP"; */
 "6bh-6N-5PP.title" = "Organizza le azioni in un sottomenu";
 
-/* Class = "NSTextFieldCell"; title = "You can use this placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
-"8JN-Ub-qkc.title" = "Puoi usare questi segnaposto:\n\n%n sarà sostituito con il nome del file\n%e sarà sostituito con l'estensione del file\n%p sarà sostituito con la cartella superiore\n%c sarà sostituito con il numero di file\n%d sarà sostituito con la data attuale\n%t sarà sostituito con l'ora attuale\n%s sarà sostituito con il nome condiviso\n%i% sarà sostituito con il nome del primo elemento\n%ia% sarà sostituito con il primo nome ordinato\n\nLe sostituzioni saranno vuote in alcuni casi.";
+/* Class = "NSTextFieldCell"; title = "You can use this placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n%pb% will be replaced with the clipboard string\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
+"8JN-Ub-qkc.title" = "Puoi usare questi segnaposto:\n\n%n sarà sostituito con il nome del file\n%e sarà sostituito con l'estensione del file\n%p sarà sostituito con la cartella superiore\n%c sarà sostituito con il numero di file\n%d sarà sostituito con la data attuale\n%t sarà sostituito con l'ora attuale\n%s sarà sostituito con il nome condiviso\n%i% sarà sostituito con il nome del primo elemento\n%ia% sarà sostituito con il primo nome ordinato\n%pb% sarà sostituito con il testo degli appunti\n\nLe sostituzioni saranno vuote in alcuni casi.";
 
 /* Class = "NSTextFieldCell"; title = "Fallback folder:"; ObjectID = "9dE-yV-N3K"; */
 "9dE-yV-N3K.title" = "Cartella di fallback::";
