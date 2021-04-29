@@ -179,6 +179,9 @@
 /* Class = "NSTextFieldCell"; title = "Limit the number of threads per operation:"; ObjectID = "ND5-DN-C1H"; */
 "ND5-DN-C1H.title" = "限制每个操作的线程数：";
 
+/* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "NwI-O4-9NI"; */
+"NwI-O4-9NI.title" = "排除 Mac 资源文件（例如：.DS_Store）";
+
 /* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder."; ObjectID = "PD2-iW-BGK"; */
 "PD2-iW-BGK.title" = "启用主文件夹访问，以便 Keka 可用于所有用户文件，例如桌面或下载文件夹。";
 

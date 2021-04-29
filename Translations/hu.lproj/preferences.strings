@@ -179,6 +179,9 @@
 /* Class = "NSTextFieldCell"; title = "Limit the number of threads per operation:"; ObjectID = "ND5-DN-C1H"; */
 "ND5-DN-C1H.title" = "Limit the number of threads per operation:";
 
+/* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "NwI-O4-9NI"; */
+"NwI-O4-9NI.title" = "A fájlrendszer metaadatfájlok kizárása (pl.: .DS_Store)";
+
 /* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder."; ObjectID = "PD2-iW-BGK"; */
 "PD2-iW-BGK.title" = "Engedélyezze a kezdőkönyvtárhoz való hozzáférést, hogy a Keka-t az összes itt található fájlal használhassa, mintpéldául, amik az asztalon és a letöltések mappában találhatóak.";
 

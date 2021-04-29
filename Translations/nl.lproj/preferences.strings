@@ -179,6 +179,9 @@
 /* Class = "NSTextFieldCell"; title = "Limit the number of threads per operation:"; ObjectID = "ND5-DN-C1H"; */
 "ND5-DN-C1H.title" = "Limiteer het aantal threads per actie:";
 
+/* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "NwI-O4-9NI"; */
+"NwI-O4-9NI.title" = "Mac specifieke bestanden uitsluiten (bvb.: .DS_Store)";
+
 /* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder."; ObjectID = "PD2-iW-BGK"; */
 "PD2-iW-BGK.title" = "Activeer toegang tot de thuismap zodat Keka bij de juiste mappen kan, zoals Desktop, Documenten en Download map.";
 
