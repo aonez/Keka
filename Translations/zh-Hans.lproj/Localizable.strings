@@ -221,8 +221,9 @@
 "On queue" = "排队中";
 "Applying quarantine..." = "隔离应用中…";
 "%@.\n\nPlease get in contact with the developers." = "%@.\n\n请联系开发人员。";
-"Report" = "Report";
-"Report via mail" = "Report via mail";
+"Report" = "报告";
+"Report via mail" = "通过邮件报告";
+"Review Keka ★★★★★" = "Review Keka ★★★★★";
 
 /*
 // MAS tips
