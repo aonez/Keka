@@ -221,8 +221,9 @@
 "On queue" = "En queue";
 "Applying quarantine..." = "Application de la quarantine...";
 "%@.\n\nPlease get in contact with the developers." = "%@.\n\nVeuillez contacter le développeur.";
-"Report" = "Report";
-"Report via mail" = "Report via mail";
+"Report" = "Signaler";
+"Report via mail" = "Signaler via email";
+"Review Keka ★★★★★" = "Evaluer Keka ★★★★★";
 
 /*
 // MAS tips

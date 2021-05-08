@@ -1,4 +1,4 @@
-
+﻿
 /* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
 "159.title" = "Default format:";
 
@@ -179,11 +179,14 @@
 /* Class = "NSTextFieldCell"; title = "Limit the number of threads per operation:"; ObjectID = "ND5-DN-C1H"; */
 "ND5-DN-C1H.title" = "Limit the number of threads per operation:";
 
+/* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "NwI-O4-9NI"; */
+"NwI-O4-9NI.title" = "Exclude Mac resource forks (eg: .DS_Store)";
+
 /* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder."; ObjectID = "PD2-iW-BGK"; */
 "PD2-iW-BGK.title" = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder.";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
-"SOL-6U-5P9.title" = "Enable Notification Center integration";
+"SOL-6U-5P9.title" = "Enable Notification Centre integration";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "TLc-Nk-Bps"; */
 "TLc-Nk-Bps.placeholderString" = "Here your custom name";
@@ -243,7 +246,7 @@
 "hp7-jO-HeV.title" = "Use AES-256 when encrypting ZIP files (less compatible)";
 
 /* Class = "NSTextFieldCell"; title = "You can customize where to show the contextual menu below:"; ObjectID = "izC-0G-lvl"; */
-"izC-0G-lvl.title" = "You can customize where to show the contextual menu below:";
+"izC-0G-lvl.title" = "You can customise where to show the contextual menu below:";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous operations:"; ObjectID = "o8J-bR-bs6"; */
 "o8J-bR-bs6.title" = "Maximum simultaneous operations:";

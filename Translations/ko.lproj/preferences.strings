@@ -1,4 +1,4 @@
-
+﻿
 /* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
 "159.title" = "기본 압축 형식:";
 
@@ -178,6 +178,9 @@
 
 /* Class = "NSTextFieldCell"; title = "Limit the number of threads per operation:"; ObjectID = "ND5-DN-C1H"; */
 "ND5-DN-C1H.title" = "작업 당 쓰레드 수 제한:";
+
+/* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "NwI-O4-9NI"; */
+"NwI-O4-9NI.title" = "Mac 리소스 포크 (예: .DS_Store) 포함 안 함";
 
 /* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder."; ObjectID = "PD2-iW-BGK"; */
 "PD2-iW-BGK.title" = "Keka를 홈 폴더(데스크탑, 다운로드 폴더 등)에서 사용할 수 있도록 접근 권한 허용.";

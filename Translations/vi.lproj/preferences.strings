@@ -1,4 +1,4 @@
-
+﻿
 /* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
 "159.title" = "Định dạng mặc định:";
 
@@ -123,13 +123,13 @@
 "63y-ct-DNM.title" = "Tự động kiểm tra các bản cập nhật";
 
 /* Class = "NSMenuItem"; title = "Desktop"; ObjectID = "67Z-kB-INb"; */
-"67Z-kB-INb.title" = "Desktop";
+"67Z-kB-INb.title" = "Bàn làm việc";
 
 /* Class = "NSButtonCell"; title = "Nest actions in a submenu"; ObjectID = "6bh-6N-5PP"; */
 "6bh-6N-5PP.title" = "Gom các lệnh vào một lệnh con";
 
 /* Class = "NSTextFieldCell"; title = "You can use this placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n%pb% will be replaced with the clipboard string\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
-"8JN-Ub-qkc.title" = "Bạn có thể dùng phần nội dung này:\n\n%n sẽ được thay thế với tên tập tin\n%e sẽ được thay thế với phần mở rộng\n%p sẽ được thay thế bằng thư mục mẹ\n%c sẽ được thay thế bằng số lượng tập tin\n%d sẽ được thay thế bằng ngày hiện tại\n%t sẽ được thay thế bằng thời gian hiện tại\n%s sẽ được thay thế bằng tên đã chia sẻ\n%i% sẽ được thay thế bằng tên mục đầu tiên\n%ia% sẽ được thay thế bằng tên được sắp xếp đầu tiên\n%pb% will be replaced with the clipboard string\n\nCác thay thế sẽ trống trong một số trường hợp.";
+"8JN-Ub-qkc.title" = "Bạn có thể dùng phần nội dung này:\n\n%n sẽ được thay thế với tên tập tin\n%e sẽ được thay thế với phần mở rộng\n%p sẽ được thay thế bằng thư mục mẹ\n%c sẽ được thay thế bằng số lượng tập tin\n%d sẽ được thay thế bằng ngày hiện tại\n%t sẽ được thay thế bằng thời gian hiện tại\n%s sẽ được thay thế bằng tên đã chia sẻ\n%i% sẽ được thay thế bằng tên mục đầu tiên\n%ia% sẽ được thay thế bằng tên được sắp xếp đầu tiên\n%pb% sẽ được thay thế bằng chuỗi ký tự trong bộ nhớ tạm\n\nCác thay thế sẽ trống trong một số trường hợp.";
 
 /* Class = "NSTextFieldCell"; title = "Fallback folder:"; ObjectID = "9dE-yV-N3K"; */
 "9dE-yV-N3K.title" = "Thư mục dự phòng:";
@@ -179,6 +179,9 @@
 /* Class = "NSTextFieldCell"; title = "Limit the number of threads per operation:"; ObjectID = "ND5-DN-C1H"; */
 "ND5-DN-C1H.title" = "Giới hạn số lượng các luồng xử lý mỗi tác vụ:";
 
+/* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "NwI-O4-9NI"; */
+"NwI-O4-9NI.title" = "Lượt bỏ tập tin quản lý của Mac (VD: .DS_Store)";
+
 /* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder."; ObjectID = "PD2-iW-BGK"; */
 "PD2-iW-BGK.title" = "Bật quyền truy cập vào home để Keka có thể chạy với tất cả tập tin của bạn như thư mục Bàn làm việc và thư mục Tải xuống.";
 
@@ -192,7 +195,7 @@
 "WCN-jH-W9J.placeholderString" = "Thêm tên tuỳ chỉnh tại đây";
 
 /* Class = "NSButtonCell"; title = "Remove bad password header structure extractions"; ObjectID = "Wd0-yz-M1h"; */
-"Wd0-yz-M1h.title" = "Remove bad password header structure extractions";
+"Wd0-yz-M1h.title" = "Loại bỏ cấu trúc lỗi của phần đầu mật khẩu tập giải nén";
 
 /* Class = "NSMenuItem"; title = "Automatic"; ObjectID = "XOB-JO-UQT"; */
 "XOB-JO-UQT.title" = "Tự động";
