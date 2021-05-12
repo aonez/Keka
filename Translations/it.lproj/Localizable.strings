@@ -220,6 +220,10 @@
 "Waiting for password" = "In attesa della password";
 "On queue" = "In coda";
 "Applying quarantine..." = "Applico quarantena...";
+"%@.\n\nPlease get in contact with the developers." = "%@.\n\nMettersi in contatto con gli sviluppatori.";
+"Report" = "Segnala";
+"Report via mail" = "Segnala per e-mail";
+"Review Keka ★★★★★" = "Scrivi una recensione su Keka ★★★★★";
 
 /*
 // MAS tips

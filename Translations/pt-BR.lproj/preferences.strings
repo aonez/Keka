@@ -128,8 +128,8 @@
 /* Class = "NSButtonCell"; title = "Nest actions in a submenu"; ObjectID = "6bh-6N-5PP"; */
 "6bh-6N-5PP.title" = "Reunir ações em um submenu";
 
-/* Class = "NSTextFieldCell"; title = "You can use this placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
-"8JN-Ub-qkc.title" = "Você pode usar estes marcadores:\n\n%n será substituído pelo nome do arquivo\n%e será substituído pela extensão do arquivo\n%p será substituído pela pasta superior\n%c será substituído pelo número de arquivos\n%d será substituído pela data atual\n%t será substituído pela hora atual\n%s será substituído pelo nome compartilhado\n%i% será substituído pelo nome do primeiro item\n%ia% será substituído pelo primeiro nome da ordenação\n\nEm alguns casos, as substituições estarão vazias.";
+/* Class = "NSTextFieldCell"; title = "You can use this placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n%pb% will be replaced with the clipboard string\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
+"8JN-Ub-qkc.title" = "Você pode usar estes marcadores:\n\n%n será substituído pelo nome do arquivo\n%e será substituído pela extensão do arquivo\n%p será substituído pela pasta superior\n%c será substituído pelo número de arquivos\n%d será substituído pela data atual\n%t será substituído pela hora atual\n%s será substituído pelo nome compartilhado\n%i% será substituído pelo nome do primeiro item\n%ia% será substituído pelo primeiro nome da ordenação\n%pb% will be replaced with the clipboard string\n\nEm alguns casos, as substituições estarão vazias.";
 
 /* Class = "NSTextFieldCell"; title = "Fallback folder:"; ObjectID = "9dE-yV-N3K"; */
 "9dE-yV-N3K.title" = "Pasta alternativa:";
@@ -179,6 +179,9 @@
 /* Class = "NSTextFieldCell"; title = "Limit the number of threads per operation:"; ObjectID = "ND5-DN-C1H"; */
 "ND5-DN-C1H.title" = "Limitar número de threads por operação:";
 
+/* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "NwI-O4-9NI"; */
+"NwI-O4-9NI.title" = "Excluir arquivos invisíveis do Mac (ex.: .DS_Store)";
+
 /* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder."; ObjectID = "PD2-iW-BGK"; */
 "PD2-iW-BGK.title" = "Ative o acesso à pasta pessoal para usar o Keka em todos os seus arquivos de usuário, como arquivos nas pastas Mesa e Downloads.";
 
@@ -219,10 +222,10 @@
 "cb7-h4-ScP.title" = "Máximo de threads por operação:";
 
 /* Class = "NSButtonCell"; title = "Use short tarball extensions (eg: .tgz instead of .tar.gz)"; ObjectID = "cfd-8g-kiU"; */
-"cfd-8g-kiU.title" = "Use short tarball extensions (eg: .tgz instead of .tar.gz)";
+"cfd-8g-kiU.title" = "Usar extensões de TAR curtas (ex.: .tgz em vez de .tar.gz)";
 
 /* Class = "NSButtonCell"; title = "Checking the extension status"; ObjectID = "chn-AV-kXZ"; */
-"chn-AV-kXZ.title" = "Checking the extension status";
+"chn-AV-kXZ.title" = "Verificando estado da extensão";
 
 /* Class = "NSTextFieldCell"; title = "Compressing multiple files:"; ObjectID = "dhi-qv-weg"; */
 "dhi-qv-weg.title" = "Compressão de vários arquivos:";
@@ -243,7 +246,7 @@
 "hp7-jO-HeV.title" = "Usar criptografia AES-256 em ZIPs (menos compatível)";
 
 /* Class = "NSTextFieldCell"; title = "You can customize where to show the contextual menu below:"; ObjectID = "izC-0G-lvl"; */
-"izC-0G-lvl.title" = "You can customize where to show the contextual menu below:";
+"izC-0G-lvl.title" = "Personalize abaixo onde o menu contextual aparece:";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous operations:"; ObjectID = "o8J-bR-bs6"; */
 "o8J-bR-bs6.title" = "Máximo de operações simultâneas:";

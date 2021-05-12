@@ -39,7 +39,7 @@
 "PwP-KI-Flr.title" = "显示";
 
 /* Class = "NSMenuItem"; title = "Save"; ObjectID = "Qst-Ya-feO"; */
-"Qst-Ya-feO.title" = "存储";
+"Qst-Ya-feO.title" = "保存";
 
 /* Class = "NSMenuItem"; title = "Privacy Policy"; ObjectID = "Rkr-d9-A7d"; */
 "Rkr-d9-A7d.title" = "隐私政策";
@@ -93,13 +93,13 @@
 "nlc-UW-DRW.title" = "还原至已保存";
 
 /* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "nvz-UK-KlM"; */
-"nvz-UK-KlM.title" = "存储为…";
+"nvz-UK-KlM.title" = "另存为…";
 
 /* Class = "NSMenuItem"; title = "Customize Toolbar…"; ObjectID = "p3U-PZ-hC3"; */
-"p3U-PZ-hC3.title" = "自定工具栏…";
+"p3U-PZ-hC3.title" = "自定义工具栏…";
 
 /* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "rHb-df-xAE"; */
-"rHb-df-xAE.title" = "前置全部窗口";
+"rHb-df-xAE.title" = "前置窗口";
 
 /* Class = "NSMenuItem"; title = "Open…"; ObjectID = "sUB-o8-so9"; */
 "sUB-o8-so9.title" = "打开…";
@@ -108,7 +108,7 @@
 "smC-MI-dLE.title" = "隐藏 Keka";
 
 /* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "sx5-sf-JmW"; */
-"sx5-sf-JmW.title" = "隐藏其他";
+"sx5-sf-JmW.title" = "隐藏其它";
 
 /* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "tDe-Bb-f8d"; */
 "tDe-Bb-f8d.title" = "最小化";

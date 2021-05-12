@@ -22,3 +22,6 @@
 
 /* Class = "NSButtonCell"; title = "Monthly"; ObjectID = "ePd-aV-Xmv"; */
 "ePd-aV-Xmv.title" = "Mensuellement";
+
+/* Class = "NSButtonCell"; title = "Occasionally ask to rate Keka in the Mac App Store"; ObjectID = "h7M-VN-RPh"; */
+"h7M-VN-RPh.title" = "Demander occasionnellement d'évaluer Keka dans le Mac App Store";
