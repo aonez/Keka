@@ -9,7 +9,7 @@
 "2244.title" = "Excluir arquivos invisíveis do Mac";
 
 /* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "2262"; */
-"2262.title" = "Palavra-passe:";
+"2262.title" = "Senha:";
 
 /* Class = "NSTextFieldCell"; title = "Split:"; ObjectID = "2270"; */
 "2270.title" = "Dividir:";
@@ -84,4 +84,4 @@
 "UYy-aQ-V1a.title" = "Arquivo sólido";
 
 /* Class = "NSButtonCell"; title = "Use BZIP2 compression"; ObjectID = "qhy-NU-Cts"; */
-"qhy-NU-Cts.title" = "Use BZIP2 compression";
+"qhy-NU-Cts.title" = "Usar compressão BZIP2";
