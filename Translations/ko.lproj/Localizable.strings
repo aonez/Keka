@@ -96,7 +96,7 @@
 "Format" = "압축 형식";
 "Method" = "압축 방법";
 "Method:" = "압축 방법:";
-"No compression" = "압축 안하기";
+"No compression" = "압축 안 하기";
 "Fastest, less compression" = "가장 빠르게, 낮은 압축률";
 "Fast, less compression" = "빠르게, 낮은 압축률";
 "Normal" = "기본";
