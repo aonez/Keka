@@ -129,7 +129,7 @@
 "6bh-6N-5PP.title" = "하위메뉴 작업 중첩";
 
 /* Class = "NSTextFieldCell"; title = "You can use this placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n%pb% will be replaced with the clipboard string\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
-"8JN-Ub-qkc.title" = "You can use this placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n%pb% will be replaced with the clipboard string\n\nThe replacements will be empty in some cases.";
+"8JN-Ub-qkc.title" = "다음 기호를 사용할 수 있습니다.\n\n%n 은 파일의 이름으로 대치됩니다.\n%e 는 파일 확장자로 대치됩니다.\n%p 는 부모 폴더의 이름으로 대치됩니다.\n%c 는 파일의 개수로 대치됩니다.\n%d 는 오늘 날짜로 대치됩니다.\n%t 는 현재 시각으로 대치됩니다.\n%s 는 공유되는 이름으로 대치됩니다.\n%i% 는 첫 항목의 이름으로 대치됩니다.\n%ia% 는 정렬된 목록에서 첫 항목의 이름으로 대치됩니다.\n%pb% 는 클립보드의 문자열로 대치됩니다.\n\n상황에 따라서 빈 문자열로 대치될 수도 있습니다.";
 
 /* Class = "NSTextFieldCell"; title = "Fallback folder:"; ObjectID = "9dE-yV-N3K"; */
 "9dE-yV-N3K.title" = "폴백 폴더:";
@@ -222,7 +222,7 @@
 "cb7-h4-ScP.title" = "작업 당 쓰레드 최댓값:";
 
 /* Class = "NSButtonCell"; title = "Use short tarball extensions (eg: .tgz instead of .tar.gz)"; ObjectID = "cfd-8g-kiU"; */
-"cfd-8g-kiU.title" = "Use short tarball extensions (eg: .tgz instead of .tar.gz)";
+"cfd-8g-kiU.title" = "짧은 tarball 확장자 사용 (예: .tar.gz 대신 .tgz)";
 
 /* Class = "NSButtonCell"; title = "Checking the extension status"; ObjectID = "chn-AV-kXZ"; */
 "chn-AV-kXZ.title" = "확장 프로그램 상태 확인";
