@@ -96,7 +96,7 @@
 "Format" = "압축 형식";
 "Method" = "압축 방법";
 "Method:" = "압축 방법:";
-"No compression" = "압축 안하기";
+"No compression" = "압축 안 하기";
 "Fastest, less compression" = "가장 빠르게, 낮은 압축률";
 "Fast, less compression" = "빠르게, 낮은 압축률";
 "Normal" = "기본";
@@ -197,7 +197,7 @@
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka는 모든 파일을 추출하려고 합니다. 알 수 없는 파일을 드롭 영역의 맨 아래에 놓아서 자동 모드에서 추출하려고 할 수 있습니다.";
 "Show the operation log" = "작업 로그 보기";
 "Unable to process tips" = "기부금 제출 불가능";
-"Already tipping a monthly %@" = "Already tipping a monthly %@";
+"Already tipping a monthly %@" = "이미 매월 %@씩 기부 중입니다.";
 "Send a monthly %@ tip" = "매월 %@ 기부금 보내기";
 "Send a %@ tip" = "%@ 기부금 보내기";
 "Give Keka some love ♥" = "Keka에게 약간의 사랑을 주세요 ♥";
@@ -209,21 +209,21 @@
 "Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka는 대상 폴더에 대한 파일 액세스 권한이 없으므로 위치를 요청해야 합니다.\nKeka의 기본 설정 파일 액세스 창에서 이 폴더와 다른 폴더에 대한 액세스를 추가할 수 있습니다.";
 "The characters %@ are not compatible with the %@ format" = "%@ 문자는 %@ 포맷과 호환되지 않습니다.";
 "The character %@ is not compatible with the %@ format" = "%@ 문자가 %@ 포맷과 호환되지 않습니다.";
-"Stop compressing" = "Stop compressing";
-"Stop extracting" = "Stop extracting";
-"Resume compressing" = "Resume compressing";
-"Resume extracting" = "Resume extracting";
-"Pause compressing" = "Pause compressing";
-"Pause extracting" = "Pause extracting";
-"Compression paused" = "Compression paused";
-"Extraction paused" = "Extraction paused";
-"Waiting for password" = "Waiting for password";
-"On queue" = "On queue";
+"Stop compressing" = "압축 중단";
+"Stop extracting" = "압축 해제 중단";
+"Resume compressing" = "압축 재개";
+"Resume extracting" = "압축 해제 재개";
+"Pause compressing" = "압축 일시중지";
+"Pause extracting" = "압축 해제 일시중지";
+"Compression paused" = "압축 일시중지됨";
+"Extraction paused" = "압축 해제 일시중지됨";
+"Waiting for password" = "암호 입력 대기 중";
+"On queue" = "대기 중";
 "Applying quarantine..." = "Applying quarantine...";
 "%@.\n\nPlease get in contact with the developers." = "%@.\n\n개발자에게 연락하여 주십시오.";
-"Report" = "Report";
-"Report via mail" = "Report via mail";
-"Review Keka ★★★★★" = "Review Keka ★★★★★";
+"Report" = "보고";
+"Report via mail" = "메일로 보고";
+"Review Keka ★★★★★" = "Keka에게 리뷰 보내기 ★★★★★";
 
 /*
 // MAS tips
