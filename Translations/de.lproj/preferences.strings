@@ -114,19 +114,19 @@
 "453.title" = "Keinen";
 
 /* Class = "NSButtonCell"; title = "Show icon in primary item"; ObjectID = "47Y-rt-2fG"; */
-"47Y-rt-2fG.title" = "Show icon in primary item";
+"47Y-rt-2fG.title" = "Icon im Kontextmenü anzeigen";
 
 /* Class = "NSTextFieldCell"; title = "You can also customize the access below:"; ObjectID = "5B7-Sc-wp0"; */
 "5B7-Sc-wp0.title" = "Sie können auch den Zugriff auf einzelne Ordner erlauben:";
 
 /* Class = "NSButtonCell"; title = "Automatically check for updates"; ObjectID = "63y-ct-DNM"; */
-"63y-ct-DNM.title" = "Automatically check for updates";
+"63y-ct-DNM.title" = "Automatisch nach Updates suchen";
 
 /* Class = "NSMenuItem"; title = "Desktop"; ObjectID = "67Z-kB-INb"; */
 "67Z-kB-INb.title" = "Desktop";
 
 /* Class = "NSButtonCell"; title = "Nest actions in a submenu"; ObjectID = "6bh-6N-5PP"; */
-"6bh-6N-5PP.title" = "Nest actions in a submenu";
+"6bh-6N-5PP.title" = "Kekas Aktionen in Untermenü anzeigen";
 
 /* Class = "NSTextFieldCell"; title = "You can use this placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n%pb% will be replaced with the clipboard string\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
 "8JN-Ub-qkc.title" = "Sie können diese Platzhalter verwenden:\n\n%n wird durch den Dateinamen ersetzt\n%e wird durch die Dateiendung ersetzt\n%p wird durch den übergeordneten Ordner ersetzt\n%c wird durch die Anzahl an Dateien ersetzt\n%d wird durch das aktuelle Datum ersetzt\n%t wird durch die aktuelle Uhrzeit ersetzt\n%s wird durch den gemeinsamen Namen ersetzt\n%i% wird durch den Namen der ersten Datei ersetzt\n%ia% wird durch den Namen der erst-sortieren Datei ersetzt\n%pb% will be replaced with the clipboard string\n\nDie Ersetzungen können in manchen Fällen leer sein..";
@@ -174,7 +174,7 @@
 "KDR-ag-bll.title" = "Quarantäne von heruntergeladenen Dateien übernehmen";
 
 /* Class = "NSButtonCell"; title = "Show in external volumes"; ObjectID = "KOF-7X-bQo"; */
-"KOF-7X-bQo.title" = "Show in external volumes";
+"KOF-7X-bQo.title" = "In externen Laufwerken zeigen";
 
 /* Class = "NSTextFieldCell"; title = "Limit the number of threads per operation:"; ObjectID = "ND5-DN-C1H"; */
 "ND5-DN-C1H.title" = "Die Anzahl der Threads je Vorgang limitieren:";
@@ -246,7 +246,7 @@
 "hp7-jO-HeV.title" = "ZIP-Dateien mit AES-256 verschlüsseln (weniger kompatibel)";
 
 /* Class = "NSTextFieldCell"; title = "You can customize where to show the contextual menu below:"; ObjectID = "izC-0G-lvl"; */
-"izC-0G-lvl.title" = "You can customize where to show the contextual menu below:";
+"izC-0G-lvl.title" = "Hier können Sie festlegen, wo das Kontextmenü angezeigt werden soll:";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous operations:"; ObjectID = "o8J-bR-bs6"; */
 "o8J-bR-bs6.title" = "Maximale gleichzeitige Vorgänge:";
@@ -255,7 +255,7 @@
 "otI-Pt-BTh.title" = "Vorgänge auf die Warteliste:";
 
 /* Class = "NSTextFieldCell"; title = "Keep source extension:"; ObjectID = "p5F-63-ubE"; */
-"p5F-63-ubE.title" = "Keep source extension:";
+"p5F-63-ubE.title" = "Quellerweiterung beibehalten:";
 
 /* Class = "NSButtonCell"; title = "Always extract in a subfolder"; ObjectID = "pXT-7y-9af"; */
 "pXT-7y-9af.title" = "Immer in einen Unterordner entpacken";
