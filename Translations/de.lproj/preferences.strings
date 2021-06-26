@@ -222,10 +222,10 @@
 "cb7-h4-ScP.title" = "Maximale Threads je Vorgang:";
 
 /* Class = "NSButtonCell"; title = "Use short tarball extensions (eg: .tgz instead of .tar.gz)"; ObjectID = "cfd-8g-kiU"; */
-"cfd-8g-kiU.title" = "Use short tarball extensions (eg: .tgz instead of .tar.gz)";
+"cfd-8g-kiU.title" = "Verkürzte Tarball-Erweiterungen verwenden (z.B.: .tgz anstelle von .tar.gz)";
 
 /* Class = "NSButtonCell"; title = "Checking the extension status"; ObjectID = "chn-AV-kXZ"; */
-"chn-AV-kXZ.title" = "Checking the extension status";
+"chn-AV-kXZ.title" = "Überprüfung des Erweiterungsstatus";
 
 /* Class = "NSTextFieldCell"; title = "Compressing multiple files:"; ObjectID = "dhi-qv-weg"; */
 "dhi-qv-weg.title" = "Mehrere Dateien komprimieren:";
@@ -234,7 +234,7 @@
 "eBj-1b-wBg.title" = "Entpackungsdatum als Änderungsdatum des Ordners setzen";
 
 /* Class = "NSButtonCell"; title = "Always tarball non-archiving formats (like GZ or BZIP2) "; ObjectID = "faa-9Y-Axk"; */
-"faa-9Y-Axk.title" = "Always tarball non-archiving formats (like GZ or BZIP2) ";
+"faa-9Y-Axk.title" = "Immer ein TAR-Archiv für nicht archivierende Formate erstellen (wie GZ oder BZIP2)";
 
 /* Class = "NSTextFieldCell"; title = "Queue extraction operations:"; ObjectID = "fhN-DK-edu"; */
 "fhN-DK-edu.title" = "Entpackungsvorgänge auf die Warteliste:";
