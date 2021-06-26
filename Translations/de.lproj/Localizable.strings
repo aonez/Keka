@@ -135,7 +135,7 @@
 "CRC error occurred, maybe the file is corrupt" = "CRC-Fehler - die Datei könnte beschädigt sein";
 "Attempt to modify an archive previously locked" = "Versuchte Änderung eines zuvor gesperrten Archivs";
 "Maybe you don't have permission to write or your disk is full" = "Vielleicht haben Sie keine Schreibrechte oder die Festplatte ist voll";
-"Can't open the file, maybe you don't have read permission" = "Datei konnte nicht geöffnet werden -  vielleicht haben Sie keine Leserechte";
+"Can't open the file, maybe you don't have read permission" = "Datei konnte nicht geöffnet werden - vielleicht haben Sie keine Leserechte";
 "Command line error, please contact with the developer" = "Kommandozeilen-Fehler - bitte wenden Sie sich an den Entwickler";
 "Not enough memory. Try to close some programs and repeat the operation" = "Nicht genügend Speicher - schließen Sie einige Programme und wiederholen Sie die Aktion";
 "Can't create the file, maybe you don't have permission or free space" = "Datei konnte nicht erstellt werden - vielleicht haben Sie keine Zugriffsberechtigung oder der Speicherplatz ist knapp";
@@ -178,10 +178,10 @@
 "The intermediate application can't get access to Keka." = "Die Zwischenanwendung erhält keinen Zugriff auf Keka.";
 "The intermediate application can't find Keka." = "Die Zwischenanwendung findet Keka nicht.";
 "Show in Finder" = "Anzeigen im Finder";
-"Delete" = "Delete";
+"Delete" = "Löschen";
 "Continue without encryption" = "Ohne Verschlüsselung fortfahren";
-"The password does not match" = "Die Passwörter stimmen nicht überein";
-"The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption." = "Das Passwort wurde nicht korrekt gesetzt, daher konnte die Datei nicht verschlüsselt werden. Sie können den Vorgang abbrechen, um das Passwort erneut zu setzen oder ohne Verschlüsselung fortfahren.";
+"The password does not match" = "Die Kennwörter stimmen nicht überein";
+"The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption." = "Das Kennwort wurde nicht korrekt gesetzt, daher konnte die Datei nicht verschlüsselt werden. Sie können den Vorgang abbrechen, um das Kennwort erneut zu setzen oder ohne Verschlüsselung fortfahren.";
 "Use legacy encryption" = "Veraltete Verschlüsselung verwenden";
 "Using AES-256 encryption in ZIP" = "AES-256 Verschlüsselung im ZIP verwenden";
 "Note that most modern operating systems such as macOS (before macOS 11.0 Big Sur) or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities." = "Beachten Sie, dass die meisten modernen Betriebssysteme wie macOS (bis macOS 11.0 Big Sur) oder Windows AES-256 verschlüsselte ZIP-Archive nicht standardmäßig unterstützen.\n\nSie können solche Dateien problemlos mit den meisten Archivierungsprogrammen von Drittherstellern entpacken.";
