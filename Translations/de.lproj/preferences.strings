@@ -174,7 +174,7 @@
 "KDR-ag-bll.title" = "Quarantäne von heruntergeladenen Dateien übernehmen";
 
 /* Class = "NSButtonCell"; title = "Show in external volumes"; ObjectID = "KOF-7X-bQo"; */
-"KOF-7X-bQo.title" = "In externen Volumen anzeigen";
+"KOF-7X-bQo.title" = "In externen Volumes anzeigen";
 
 /* Class = "NSTextFieldCell"; title = "Limit the number of threads per operation:"; ObjectID = "ND5-DN-C1H"; */
 "ND5-DN-C1H.title" = "Die Anzahl der Threads je Vorgang limitieren:";
