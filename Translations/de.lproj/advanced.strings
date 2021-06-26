@@ -3,7 +3,7 @@
 "2221.title" = "Als einzelne Dateien archivieren";
 
 /* Class = "NSButtonCell"; title = "Delete file(s) after compression"; ObjectID = "2222"; */
-"2222.title" = "Dateien nach Komprimierung löschen";
+"2222.title" = "Datei(en) nach Komprimierung löschen";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks"; ObjectID = "2244"; */
 "2244.title" = "Mac Ressourcen ausschließen";
