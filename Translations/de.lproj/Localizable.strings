@@ -72,7 +72,7 @@
 "This operation is not supported on %@." = "Diese Operation wird auf %@ nicht unterstützt.";
 "Compress \"%@\" in %@ to..." = "Komprimiere \"%@\" in %@ nach...";
 "Compress in %@ to..." = "Komprimiere in %@ nach...";
-"Save as:" = "Sichern unter:";
+"Save as:" = "Speichern unter:";
 "Compress" = "Komprimieren";
 "Extract \"%@\" to..." = "Entpacke \"%@\" nach...";
 "Extract as:" = "Entpacken als:";
