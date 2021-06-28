@@ -97,11 +97,11 @@
 "Method" = "Methode";
 "Method:" = "Methode:";
 "No compression" = "Keine Komprimierung";
-"Fastest, less compression" = "Am schnellsten - aber schlechteste Komprimierung";
-"Fast, less compression" = "Schneller - aber schlechtere Komprimierung";
+"Fastest, less compression" = "Schnellste, aber schlechteste Komprimierung";
+"Fast, less compression" = "Schnellere, aber schlechtere Komprimierung";
 "Normal" = "Normal";
-"Slow, more compression" = "Bessere Komprimierung - aber langsamer";
-"Slowest, more compression" = "Beste Komprimierung - aber am langsamsten";
+"Slow, more compression" = "Langsamere, aber bessere Komprimierung";
+"Slowest, more compression" = "Langsamste, aber beste Komprimierung";
 "Compression" = "Komprimierung";
 "Extraction" = "Entpacken";
 "Keka can't use the \"extlx.plist\" list, please get in contact with the developers.\n\nNow Keka will quit." = "Keka kann die Datei \"extlx.plist\" nicht verwenden. Bitte kontaktieren sie die Entwickler.\n\nKeka wird jetzt beendet.";
