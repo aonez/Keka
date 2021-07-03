@@ -1,5 +1,5 @@
 ﻿
 /* Services */
-"Keka/Send to Keka" = "Keka/Send to Keka";
-"Keka/Extract using Keka" = "Keka/Extract using Keka";
-"Keka/Compress using Keka" = "Keka/Keka で圧縮する";
+"Keka/Send to Keka" = "Keka/Keka に送信";
+"Keka/Extract using Keka" = "Keka/Keka で展開";
+"Keka/Compress using Keka" = "Keka/Keka で圧縮";
