@@ -6,13 +6,13 @@
 "0Tk-5P-8i2.title" = "サービス";
 
 /* Class = "NSMenuItem"; title = "Open logs folder"; ObjectID = "52a-zm-Csr"; */
-"52a-zm-Csr.title" = "Open logs folder";
+"52a-zm-Csr.title" = "ログフォルダを開く";
 
 /* Class = "NSMenu"; title = "Debug"; ObjectID = "6lT-KW-uXA"; */
-"6lT-KW-uXA.title" = "Debug";
+"6lT-KW-uXA.title" = "デバッグ";
 
 /* Class = "NSMenuItem"; title = "Create a debug session"; ObjectID = "B5q-0l-TAK"; */
-"B5q-0l-TAK.title" = "Create a debug session";
+"B5q-0l-TAK.title" = "デバッグセッションを作成";
 
 /* Class = "NSMenuItem"; title = "Quit Keka"; ObjectID = "Boj-Hb-G0X"; */
 "Boj-Hb-G0X.title" = "Keka を終了";
@@ -33,16 +33,16 @@
 "KcM-nz-gqf.title" = "拡大／縮小";
 
 /* Class = "NSMenuItem"; title = "Print…"; ObjectID = "M2y-gZ-kEG"; */
-"M2y-gZ-kEG.title" = "Print…";
+"M2y-gZ-kEG.title" = "プリント…";
 
 /* Class = "NSMenu"; title = "View"; ObjectID = "PwP-KI-Flr"; */
-"PwP-KI-Flr.title" = "View";
+"PwP-KI-Flr.title" = "表示";
 
 /* Class = "NSMenuItem"; title = "Save"; ObjectID = "Qst-Ya-feO"; */
 "Qst-Ya-feO.title" = "保存";
 
 /* Class = "NSMenuItem"; title = "Privacy Policy"; ObjectID = "Rkr-d9-A7d"; */
-"Rkr-d9-A7d.title" = "Privacy Policy";
+"Rkr-d9-A7d.title" = "プライバシーポリシー";
 
 /* Class = "NSMenuItem"; title = "Cut"; ObjectID = "Ro6-g5-CxU"; */
 "Ro6-g5-CxU.title" = "カット";
@@ -63,10 +63,10 @@
 "W9M-Wy-dHU.title" = "ペースト";
 
 /* Class = "NSMenuItem"; title = "Show Toolbar"; ObjectID = "YHt-wh-fCp"; */
-"YHt-wh-fCp.title" = "Show Toolbar";
+"YHt-wh-fCp.title" = "ツールバーを表示";
 
 /* Class = "NSMenuItem"; title = "Debug"; ObjectID = "ZBc-IE-jQG"; */
-"ZBc-IE-jQG.title" = "Debug";
+"ZBc-IE-jQG.title" = "デバッグ";
 
 /* Class = "NSMenuItem"; title = "New"; ObjectID = "bFm-YE-6u3"; */
 "bFm-YE-6u3.title" = "新規";
@@ -75,7 +75,7 @@
 "bMs-9b-T4a.title" = "削除";
 
 /* Class = "NSMenuItem"; title = "View"; ObjectID = "f7N-ob-xwH"; */
-"f7N-ob-xwH.title" = "View";
+"f7N-ob-xwH.title" = "表示";
 
 /* Class = "NSMenu"; title = "Edit"; ObjectID = "gy4-dO-Qdu"; */
 "gy4-dO-Qdu.title" = "編集";
@@ -84,7 +84,7 @@
 "jtN-lL-fdx.title" = "最近使った項目を開く";
 
 /* Class = "NSMenuItem"; title = "Terms Of Use"; ObjectID = "lmN-Tm-HmZ"; */
-"lmN-Tm-HmZ.title" = "Terms Of Use";
+"lmN-Tm-HmZ.title" = "利用規約";
 
 /* Class = "NSMenuItem"; title = "About Keka"; ObjectID = "maF-B5-Hb6"; */
 "maF-B5-Hb6.title" = "Keka について";
@@ -96,7 +96,7 @@
 "nvz-UK-KlM.title" = "別名で保存…";
 
 /* Class = "NSMenuItem"; title = "Customize Toolbar…"; ObjectID = "p3U-PZ-hC3"; */
-"p3U-PZ-hC3.title" = "Customize Toolbar…";
+"p3U-PZ-hC3.title" = "ツールバーをカスタマイズ…";
 
 /* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "rHb-df-xAE"; */
 "rHb-df-xAE.title" = "すべてを手前に移動";
@@ -120,10 +120,10 @@
 "v5b-pg-pYC.title" = "コピー";
 
 /* Class = "NSMenuItem"; title = "New Window"; ObjectID = "wLf-5U-sSh"; */
-"wLf-5U-sSh.title" = "New window";
+"wLf-5U-sSh.title" = "新規ウインドウ";
 
 /* Class = "NSMenuItem"; title = "Select All"; ObjectID = "wbR-ho-uar"; */
 "wbR-ho-uar.title" = "すべてを選択";
 
 /* Class = "NSMenuItem"; title = "Save debug information"; ObjectID = "zWX-XS-wiR"; */
-"zWX-XS-wiR.title" = "Save debug information";
+"zWX-XS-wiR.title" = "デバッグ情報を保存";
