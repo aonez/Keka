@@ -1,11 +1,11 @@
 ﻿
 "_PROJECTTITLE_" = "Keka のプロジェクト";
 "_PROGRAMMER_" = "開発者、デザイナー、メンテナ";
-"_ARTWORK_" = "Artwork designer";
+"_ARTWORK_" = "アートワークデザイナー";
 "_TRANSLATIONS_" = "ローカライゼーション";
 "_TRANSLATIONSOLD_" = "ローカライゼーション （バージョン 0.1 から 0.1.4.3 まで）";
-"_TESTERS_" = "時折の試験者";
-"_DONATIONS_" = "寄付者（大部分は日付順に記載されています）";
+"_TESTERS_" = "テスター";
+"_DONATIONS_" = "寄付者（概ね日付順に記載されています）";
 "_OPENSOURCE_" = "Keka は下記オープンソースコードを利用します";
 "_FREEWARE_" = "Keka は下記の無料のバイナリを利用します";
 "_ONEMORETHING_" = "そして";
