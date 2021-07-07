@@ -3,11 +3,11 @@
 "NSHumanReadableCopyright" = "Copyright © 2009-2021 aONe";
 
 /* Access request descriptions */
-"NSDesktopFolderUsageDescription" = "Keka requires Desktop access to work with it's files.";
-"NSDocumentsFolderUsageDescription" = "Keka requires Documents access to work with it's files.";
-"NSDownloadsFolderUsageDescription" = "Keka requires Downloads access to work with it's files.";
-"NSNetworkVolumesUsageDescription" = "Keka requires Network volumes access to work with it's files.";
-"NSRemovableVolumesUsageDescription" = "Keka requires removable volumes access to work with it's files.";
+"NSDesktopFolderUsageDescription" = "O Keka requer acesso à pasta Mesa para trabalhar com arquivos nesse local.";
+"NSDocumentsFolderUsageDescription" = "O Keka requer acesso à pasta Documentos para trabalhar com arquivos nesse local.";
+"NSDownloadsFolderUsageDescription" = "O Keka requer acesso à pasta Downloads para trabalhar com arquivos nesse local.";
+"NSNetworkVolumesUsageDescription" = "O Keka requer acesso a volumes de rede para trabalhar com arquivos nesses locais.";
+"NSRemovableVolumesUsageDescription" = "O Keka requer acesso a volumes removíveis para trabalhar com arquivos nesses locais.";
 
 /* File types */
 "7Z Archive" = "Arquivo Comprimido 7Z";
@@ -20,12 +20,12 @@
 "ZIPX Archive" = "Arquivo Comprimido ZIPX";
 "XZ Archive" = "Arquivo Comprimido XZ";
 "XZ Tarball Archive" = "Arquivo Comprimido TAR XZ";
-"Brotli Archive" = "Brotli Archive";
-"Brotli Tarball Archive" = "Brotli Tarball Archive";
-"Zstandard Archive" = "Zstandard Archive";
-"Zstandard Tarball Archive" = "Zstandard Tarball Archive";
+"Brotli Archive" = "Arquivo Comprimido Brotli";
+"Brotli Tarball Archive" = "Arquivo Comprimido TAR Brotli";
+"Zstandard Archive" = "Arquivo Comprimido Zstandard";
+"Zstandard Tarball Archive" = "Arquivo Comprimido TAR Zstandard";
 "RAR Archive" = "Arquivo Comprimido RAR";
-"RAR Legacy Archive Volume" = "Volume de Arquivo Comprimido RAR (antigo)";
+"RAR Legacy Archive Volume" = "Volume de Arquivo Comprimido RAR Legado";
 "Generic Archive Volume" = "Volume de Arquivo Comprimido Genérico";
 "BZIP2 Archive" = "Arquivo Comprimido BZIP2";
 "BZIP2 Tarball Archive" = "Arquivo Comprimido TAR BZIP2";
@@ -44,17 +44,17 @@
 "LHA Archive" = "Arquivo Comprimido LHA";
 "Windows EXE File" = "Arquivo Executável Windows";
 "Windows Cabinet File" = "Arquivo de Gabinete Windows";
-"Windows Installer Package" = "Windows Installer Package";
+"Windows Installer Package" = "Pacote do Windows Installer";
 "WIM Disk Image" = "Imagem de Disco WIM";
 "Comic Book RAR Archive" = "Arquivo Comprimido CBR";
 "Comic Book ZIP Archive" = "Arquivo Comprimido CBZ";
-"iOS App" = "Aplicação iOS";
+"iOS App" = "App para iOS";
 "JAR Archive" = "Arquivo Comprimido JAR";
 "WAR Archive" = "Arquivo Comprimido WAR";
-"Android Application Package" = "Pacote de Aplicação Android";
-"Cross-Platform Installer Module (XPI)" = "Cross-Platform Installer Module (XPI)";
+"Android Application Package" = "Pacote de Aplicativo Android";
+"Cross-Platform Installer Module (XPI)" = "Módulo de Instalador Multiplataforma (XPI)";
 "APPX Archive" = "Arquivo Comprimido APPX";
 "Safari extension" = "Extensão do Safari";
-"ACE Archive" = "ACE Archive";
-"XIP Secure Archive" = "XIP Secure Archive";
-"Keka Extraction Package" = "Keka Extraction Package";
+"ACE Archive" = "Arquivo Comprimido ACE";
+"XIP Secure Archive" = "Arquivo Comprimido XIP Seguro";
+"Keka Extraction Package" = "Pacote de Extração do Keka";
