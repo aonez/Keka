@@ -147,7 +147,7 @@
 "DL5-wY-cqc.title" = "Habilitar l'accés a la carpeta personal";
 
 /* Class = "NSTextFieldCell"; title = "Default action:"; ObjectID = "EJQ-OL-pMF"; */
-"EJQ-OL-pMF.title" = "Default action:";
+"EJQ-OL-pMF.title" = "Acció per defecte:";
 
 /* Class = "NSMenuItem"; title = "Always"; ObjectID = "EOi-2B-eBv"; */
 "EOi-2B-eBv.title" = "Sempre";
