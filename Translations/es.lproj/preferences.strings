@@ -93,10 +93,10 @@
 "418.title" = "Ninguno";
 
 /* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "419"; */
-"419.title" = "Predeterminado compresión";
+"419.title" = "Predeterminado para compresión";
 
 /* Class = "NSMenuItem"; title = "Default extraction"; ObjectID = "432"; */
-"432.title" = "Predeterminado extracción";
+"432.title" = "Predeterminado para extracción";
 
 /* Class = "NSTextFieldCell"; title = "Play a sound after an extraction:"; ObjectID = "433"; */
 "433.title" = "Reproducir un sonido al extraer:";
@@ -105,10 +105,10 @@
 "436.title" = "Reproducir un sonido al comprimir:";
 
 /* Class = "NSMenuItem"; title = "Default extraction"; ObjectID = "439"; */
-"439.title" = "Predeterminado extracción";
+"439.title" = "Predeterminado para extracción";
 
 /* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "452"; */
-"452.title" = "Predeterminado compresión";
+"452.title" = "Predeterminado para compresión";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "453"; */
 "453.title" = "Ninguno";
@@ -129,7 +129,7 @@
 "6bh-6N-5PP.title" = "Organizar las acciones en un submenú";
 
 /* Class = "NSTextFieldCell"; title = "You can use this placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n%pb% will be replaced with the clipboard string\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
-"8JN-Ub-qkc.title" = "Puedes utilizar las siguientes substituciones:\n\n%n se substituirá por el nombre del archivo\n%e se substituirá por la extensión del archivo\n%p se substituirá por el nombre de la carpeta principal\n%c se substituirá por el número de archivos\n%d se substituirá por la fecha actual\n%t se substituirá por la hora actual\n%s se substituirá por el nombre en común\n%i% se substituirá por el primer nombre de archivo\n%ia% se substituirá por el primer nombre de archivo por orden alfabético\n%pb% se substituirá por el texto del portapapeles\n\nLas substituciones estarán vacías en algunos casos.";
+"8JN-Ub-qkc.title" = "Puedes utilizar las siguientes sustituciones:\n\n%n se sustituirá por el nombre del archivo\n%e se sustituirá por la extensión del archivo\n%p se sustituirá por el nombre de la carpeta principal\n%c se sustituirá por el número de archivos\n%d se sustituirá por la fecha actual\n%t se sustituirá por la hora actual\n%s se sustituirá por el nombre en común\n%i% se sustituirá por el primer nombre de archivo\n%ia% se sustituirá por el primer nombre de archivo por orden alfabético\n%pb% se sustituirá por el texto del portapapeles\n\nLas sustituciones estarán vacías en algunos casos.";
 
 /* Class = "NSTextFieldCell"; title = "Fallback folder:"; ObjectID = "9dE-yV-N3K"; */
 "9dE-yV-N3K.title" = "Carpeta de respaldo:";
@@ -147,7 +147,7 @@
 "DL5-wY-cqc.title" = "Habilitar el acceso a la carpeta personal";
 
 /* Class = "NSTextFieldCell"; title = "Default action:"; ObjectID = "EJQ-OL-pMF"; */
-"EJQ-OL-pMF.title" = "Default action:";
+"EJQ-OL-pMF.title" = "Acción por defecto:";
 
 /* Class = "NSMenuItem"; title = "Always"; ObjectID = "EOi-2B-eBv"; */
 "EOi-2B-eBv.title" = "Siempre";
