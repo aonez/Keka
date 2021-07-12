@@ -39,7 +39,7 @@ $content_platform_beta = "Beta";
 $content_beta_title = "Phiên bản Beta của Keka";
 $content_beta_text = "Bạn có thể chạy thử tính năng mới của Keka trước khi nó được phát hành chính thức.<br />Nếu bạn phát hiện lỗi hay muốn góp ý với chúng tôi, vui lòng truy cập vào ";
 $content_beta_unavailable = "Hiện tại không có phiên bản beta nào.";
-$content_beta_up = "Get the latest version";
+$content_beta_up = "Tải phiên bản mới nhất";
 
 // Legacy
 $content_platform_legacy =  "Dành cho $version_replace";
