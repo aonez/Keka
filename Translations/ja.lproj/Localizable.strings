@@ -23,9 +23,9 @@
 "Password needed" = "パスワードは必要";
 "File \"%@\" needs a password to be extracted" = "\"%@\" を解凍できるようにパスワードを使用する必要があります。";
 "File \"%@\" needs a special encoding to be extracted" = "File \"%@\" needs a special encoding to be extracted";
-"Extraction of \"%@\" done" = " \"%@\" は解凍されました。";
-"Extraction of \"%@\" failed." = " \"%@\" は解凍できませんでした。";
-"Extraction of %i files done" = " %i の展開が完了しました";
+"Extraction of \"%@\" done" = "\"%@\" は解凍されました。";
+"Extraction of \"%@\" failed." = "\"%@\" は解凍できませんでした。";
+"Extraction of %i files done" = "%i の展開が完了しました";
 "Extraction complete" = "解凍完了";
 "Extraction fail" = "解凍できませんでした";
 "Compression complete" = "圧縮完了";
