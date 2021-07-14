@@ -117,7 +117,7 @@
 "47Y-rt-2fG.title" = "Icon im Kontextmenü anzeigen";
 
 /* Class = "NSTextFieldCell"; title = "You can also customize the access below:"; ObjectID = "5B7-Sc-wp0"; */
-"5B7-Sc-wp0.title" = "Sie können auch den Zugriff auf einzelne Ordner erlauben:";
+"5B7-Sc-wp0.title" = "Hier können Sie auch den Zugriff auf einzelne Ordner erlauben:";
 
 /* Class = "NSButtonCell"; title = "Automatically check for updates"; ObjectID = "63y-ct-DNM"; */
 "63y-ct-DNM.title" = "Automatisch nach Updates suchen";
@@ -129,7 +129,7 @@
 "6bh-6N-5PP.title" = "Kekas Aktionen in Untermenü anzeigen";
 
 /* Class = "NSTextFieldCell"; title = "You can use this placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n%pb% will be replaced with the clipboard string\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
-"8JN-Ub-qkc.title" = "Sie können diese Platzhalter verwenden:\n\n%n wird durch den Dateinamen ersetzt\n%e wird durch die Dateiendung ersetzt\n%p wird durch den übergeordneten Ordner ersetzt\n%c wird durch die Anzahl an Dateien ersetzt\n%d wird durch das aktuelle Datum ersetzt\n%t wird durch die aktuelle Uhrzeit ersetzt\n%s wird durch den gemeinsamen Namen ersetzt\n%i% wird durch den Namen der ersten Datei ersetzt\n%ia% wird durch den Namen der erst-sortieren Datei ersetzt\n%pb% will be replaced with the clipboard string\n\nDie Ersetzungen können in manchen Fällen leer sein..";
+"8JN-Ub-qkc.title" = "Sie können diese Platzhalter verwenden:\n\n%n wird durch den Dateinamen ersetzt\n%e wird durch die Dateiendung ersetzt\n%p wird durch den übergeordneten Ordner ersetzt\n%c wird durch die Anzahl an Dateien ersetzt\n%d wird durch das aktuelle Datum ersetzt\n%t wird durch die aktuelle Uhrzeit ersetzt\n%s wird durch den gemeinsamen Namen ersetzt\n%i% wird durch den Namen der ersten Datei ersetzt\n%ia% wird durch den Namen der zuerst sortierten Datei ersetzt\n%pb% wird durch die Zwischenablage-Zeichenfolge ersetzt\n\nDie Ersetzungen können in manchen Fällen leer sein.";
 
 /* Class = "NSTextFieldCell"; title = "Fallback folder:"; ObjectID = "9dE-yV-N3K"; */
 "9dE-yV-N3K.title" = "Ausweichordner:";
@@ -147,7 +147,7 @@
 "DL5-wY-cqc.title" = "Zugriff auf Benutzerordner erlauben";
 
 /* Class = "NSTextFieldCell"; title = "Default action:"; ObjectID = "EJQ-OL-pMF"; */
-"EJQ-OL-pMF.title" = "Standard Aktion:";
+"EJQ-OL-pMF.title" = "Standard-Aktion:";
 
 /* Class = "NSMenuItem"; title = "Always"; ObjectID = "EOi-2B-eBv"; */
 "EOi-2B-eBv.title" = "Immer";
@@ -162,7 +162,7 @@
 "Hx2-S1-j7m.title" = "Diese Einstellungen gelten nur, wenn Dateien auf das nicht geöffnete Keka geschoben werden.";
 
 /* Class = "NSButtonCell"; title = "Enable full Mac access (Recommended)"; ObjectID = "IHj-ac-103"; */
-"IHj-ac-103.title" = "Zugriff auf den ganzen Mac erlauben (empfohlen)";
+"IHj-ac-103.title" = "Zugriff auf den gesamten Mac erlauben (empfohlen)";
 
 /* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive."; ObjectID = "JxT-Nq-8Z5"; */
 "JxT-Nq-8Z5.title" = "Erlauben Sie den Zugriff auf externe Volumes, falls Keka auf Ihren externen Speichermedien, wie z.B. USB- oder Thunderboltlaufwerken, arbeiten können soll.";
@@ -234,7 +234,7 @@
 "eBj-1b-wBg.title" = "Entpackungsdatum als Änderungsdatum des Ordners setzen";
 
 /* Class = "NSButtonCell"; title = "Always tarball non-archiving formats (like GZ or BZIP2) "; ObjectID = "faa-9Y-Axk"; */
-"faa-9Y-Axk.title" = "Immer ein TAR-Archiv für nicht archivierende Formate erstellen (wie GZ or BZIP2)";
+"faa-9Y-Axk.title" = "Immer ein TAR-Archiv für nicht archivierende Formate erstellen (wie GZ oder BZIP2)";
 
 /* Class = "NSTextFieldCell"; title = "Queue extraction operations:"; ObjectID = "fhN-DK-edu"; */
 "fhN-DK-edu.title" = "Entpackungsvorgänge auf die Warteliste:";
