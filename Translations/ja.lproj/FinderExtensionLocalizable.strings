@@ -1,7 +1,7 @@
-"Open with Keka" = "Open with Keka";
-"Compress here" = "Compress here";
-"Compress to..." = "Compress to...";
-"Extract here" = "Extract here";
-"Extract to..." = "Extract to...";
+"Open with Keka" = "Kekaで開く";
+"Compress here" = "ここに圧縮";
+"Compress to..." = "圧縮先・・・";
+"Extract here" = "ここに展開";
+"Extract to..." = "展開先・・・";
 "Extract to \"%@\"" = "Extract to \"%@\"";
-"Compress with Keka" = "Compress with Keka";
+"Compress with Keka" = "Kekaで圧縮";

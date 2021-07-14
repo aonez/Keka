@@ -3,7 +3,7 @@
 "2221.title" = "Als einzelne Dateien archivieren";
 
 /* Class = "NSButtonCell"; title = "Delete file(s) after compression"; ObjectID = "2222"; */
-"2222.title" = "Dateien nach Komprimierung löschen";
+"2222.title" = "Datei(en) nach Komprimierung löschen";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks"; ObjectID = "2244"; */
 "2244.title" = "Mac Ressourcen ausschließen";
@@ -57,7 +57,7 @@
 "2354.placeholderString" = "Benutzerdefinierter Name";
 
 /* Class = "NSTextFieldCell"; title = "You can create a ISO volume that will be read-only and compressed. ISO volumes can be only created from a folder.\n\nSet a volume name to this ISO or use the default name based on the files you compress."; ObjectID = "2363"; */
-"2363.title" = "Sie können ein schreibgeschütztes und komprimiertes ISO-Image erstellen. Beachten Sie, dass ISO-Images nur aus Ordnern erstellt werden können.\n\nFalls Sie keinen Volume-Namen für das Image vorgeben, erzeugt Keka den Namen anhand der zu komprimierenden Dateien automatisch.";
+"2363.title" = "Sie können ein schreibgeschütztes und komprimiertes ISO-Image erstellen. Beachten Sie, dass ISO-Images nur aus einem Ordner erstellt werden können.\n\nFalls Sie keinen Volume-Namen für das Image vorgeben, erzeugt Keka den Namen anhand der zu komprimierenden Dateien automatisch.";
 
 /* Class = "NSTextFieldCell"; title = "Store"; ObjectID = "2390"; */
 "2390.title" = "Speichern";

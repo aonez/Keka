@@ -21,9 +21,9 @@
 "XZ Archive" = "XZ-Archiv";
 "XZ Tarball Archive" = "XZ-komprimiertes TAR-Archiv";
 "Brotli Archive" = "Brotli Archiv";
-"Brotli Tarball Archive" = "Brotli Tarball Archiv";
+"Brotli Tarball Archive" = "Brotli-komprimiertes TAR-Archiv";
 "Zstandard Archive" = "Zstandard Archiv";
-"Zstandard Tarball Archive" = "Zstandard Tarball Archiv";
+"Zstandard Tarball Archive" = "Zstandard-komprimiertes TAR-Archiv";
 "RAR Archive" = "RAR-Archiv";
 "RAR Legacy Archive Volume" = "RAR Legacy Archiv-Volume";
 "Generic Archive Volume" = "Allgemeines Archiv-Volume";
@@ -55,6 +55,6 @@
 "Cross-Platform Installer Module (XPI)" = "Cross-Platform Installer Module (XPI)";
 "APPX Archive" = "APPX-Archiv";
 "Safari extension" = "Safari-Erweiterung";
-"ACE Archive" = "ACE Archive";
+"ACE Archive" = "ACE-Archiv";
 "XIP Secure Archive" = "XIP Secure Archiv";
 "Keka Extraction Package" = "Keka Extraction Package";

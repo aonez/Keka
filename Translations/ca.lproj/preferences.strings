@@ -113,6 +113,9 @@
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "453"; */
 "453.title" = "Cap";
 
+/* Class = "NSButtonCell"; title = "Rename recognized extension from intermediate folder"; ObjectID = "1TK-Zy-623"; */
+"1TK-Zy-623.title" = "Canviar de nom l'extensió coneguda en la carpeta intermediària";
+
 /* Class = "NSButtonCell"; title = "Show icon in primary item"; ObjectID = "47Y-rt-2fG"; */
 "47Y-rt-2fG.title" = "Mostrar una icona en el primer element";
 
@@ -147,7 +150,7 @@
 "DL5-wY-cqc.title" = "Habilitar l'accés a la carpeta personal";
 
 /* Class = "NSTextFieldCell"; title = "Default action:"; ObjectID = "EJQ-OL-pMF"; */
-"EJQ-OL-pMF.title" = "Default action:";
+"EJQ-OL-pMF.title" = "Acció per defecte:";
 
 /* Class = "NSMenuItem"; title = "Always"; ObjectID = "EOi-2B-eBv"; */
 "EOi-2B-eBv.title" = "Sempre";
