@@ -113,7 +113,7 @@
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "453"; */
 "453.title" = "Ninguno";
 
-/* Class = "NSButtonCell"; title = "Rename recognized extension from intermediate folder"; ObjectID = "1TK-Zy-623"; */
+/* Class = "NSButtonCell"; title = "Rename the recognized extension from the subfolder"; ObjectID = "1TK-Zy-623"; */
 "1TK-Zy-623.title" = "Renombrar la extensión conocida en la carpeta intermedia";
 
 /* Class = "NSButtonCell"; title = "Show icon in primary item"; ObjectID = "47Y-rt-2fG"; */
