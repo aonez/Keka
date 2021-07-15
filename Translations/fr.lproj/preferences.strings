@@ -114,7 +114,7 @@
 "453.title" = "Aucun";
 
 /* Class = "NSButtonCell"; title = "Rename the recognized extension from the subfolder"; ObjectID = "1TK-Zy-623"; */
-"1TK-Zy-623.title" = "Renommer l'extension reconnue du sous-dossier";
+"1TK-Zy-623.title" = "Renommer l'extension reconnue à partir du sous-dossier";
 
 /* Class = "NSButtonCell"; title = "Show icon in primary item"; ObjectID = "47Y-rt-2fG"; */
 "47Y-rt-2fG.title" = "Afficher l'icône dans l'élément principal";
