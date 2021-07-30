@@ -57,7 +57,7 @@
 "2354.placeholderString" = "Egyéni fájlnév";
 
 /* Class = "NSTextFieldCell"; title = "You can create a ISO volume that will be read-only and compressed. ISO volumes can be only created from a folder.\n\nSet a volume name to this ISO or use the default name based on the files you compress."; ObjectID = "2363"; */
-"2363.title" = "Itt létrehozhatsz egy tömörített, csak olvasható ISO lemezképet. Az ISO lemezképek csak mappákból készíthetőek.\n\nÍrj be egy nevet a lemezkép számára, vagy használd az alapértelmezett értéket a tömörítendő fájlok alapján.";
+"2363.title" = "Itt létrehozhat egy tömörített, csak olvasható ISO lemezképet. Az ISO lemezképek csak mappákból készíthetőek.\n\nÍrjon be egy nevet a lemezkép számára, vagy használja az alapértelmezett értéket a tömörítendő fájlok alapján.";
 
 /* Class = "NSTextFieldCell"; title = "Store"; ObjectID = "2390"; */
 "2390.title" = "Nincs";
@@ -78,10 +78,10 @@
 "L2I-Q8-zqc.title" = "Fájlnevek titkosítása";
 
 /* Class = "NSButtonCell"; title = "Use AES-256 encryption"; ObjectID = "Lw7-h9-3Qh"; */
-"Lw7-h9-3Qh.title" = "Használjon AES-256 titkosítást";
+"Lw7-h9-3Qh.title" = "AES-256 titkosítás használata";
 
 /* Class = "NSButtonCell"; title = "Solid archive"; ObjectID = "UYy-aQ-V1a"; */
 "UYy-aQ-V1a.title" = "Tömörítés egybefüggő blokként";
 
 /* Class = "NSButtonCell"; title = "Use BZIP2 compression"; ObjectID = "qhy-NU-Cts"; */
-"qhy-NU-Cts.title" = "Use BZIP2 compression";
+"qhy-NU-Cts.title" = "BZIP2 tömörítés használata";

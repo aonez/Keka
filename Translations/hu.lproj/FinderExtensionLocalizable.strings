@@ -1,7 +1,7 @@
-"Open with Keka" = "Open with Keka";
-"Compress here" = "Compress here";
-"Compress to..." = "Compress to...";
-"Extract here" = "Extract here";
-"Extract to..." = "Extract to...";
-"Extract to \"%@\"" = "Extract to \"%@\"";
-"Compress with Keka" = "Compress with Keka";
+"Open with Keka" = "Megnyitás Keka-val";
+"Compress here" = "Tömörítés ide";
+"Compress to..." = "Tömörítés más helyre...";
+"Extract here" = "Kicsomagolás ide";
+"Extract to..." = "Kicsomagolás más helyre...";
+"Extract to \"%@\"" = "Kicsomagolás a következő helyre: \"%@\"";
+"Compress with Keka" = "Tömörítés Keka-val";
