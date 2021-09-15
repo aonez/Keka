@@ -114,7 +114,7 @@
 "453.title" = "無";
 
 /* Class = "NSButtonCell"; title = "Rename the recognized extension from the subfolder"; ObjectID = "1TK-Zy-623"; */
-"1TK-Zy-623.title" = "Rename the recognized extension from the subfolder";
+"1TK-Zy-623.title" = "重新命名子資料夾中辨識出的副檔名";
 
 /* Class = "NSButtonCell"; title = "Show icon in primary item"; ObjectID = "47Y-rt-2fG"; */
 "47Y-rt-2fG.title" = "顯示主要項目的圖示";
