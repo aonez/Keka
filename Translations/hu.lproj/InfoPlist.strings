@@ -3,11 +3,11 @@
 "NSHumanReadableCopyright" = "Copyright © 2009-2021 aONe";
 
 /* Access request descriptions */
-"NSDesktopFolderUsageDescription" = "Keka requires Desktop access to work with it's files.";
-"NSDocumentsFolderUsageDescription" = "Keka requires Documents access to work with it's files.";
-"NSDownloadsFolderUsageDescription" = "Keka requires Downloads access to work with it's files.";
-"NSNetworkVolumesUsageDescription" = "Keka requires Network volumes access to work with it's files.";
-"NSRemovableVolumesUsageDescription" = "Keka requires removable volumes access to work with it's files.";
+"NSDesktopFolderUsageDescription" = "A Keka-nak hozzá kell férnie az asztal mappához, hogy a fájlokkal dolgozhasson.";
+"NSDocumentsFolderUsageDescription" = "A Keka-nak hozzá kell férnie a dokumentumok mappához, hogy a fájlokkal dolgozhasson.";
+"NSDownloadsFolderUsageDescription" = "A Keka-nak hozzá kell férnie a letöltések mappához, hogy a fájlokkal dolgozhasson.";
+"NSNetworkVolumesUsageDescription" = "A Keka-nak hozzá kell férnie a hálózati kötetekhez, hogy a fájlokkal dolgozhasson.";
+"NSRemovableVolumesUsageDescription" = "A Keka-nak hozzá kell férnie az eltávolítható kötetekhez, hogy a fájlokkal dolgozhasson.";
 
 /* File types */
 "7Z Archive" = "7Z archívum";
@@ -20,10 +20,10 @@
 "ZIPX Archive" = "ZIPX archívum";
 "XZ Archive" = "XZ archívum";
 "XZ Tarball Archive" = "XZ tömörített TAR archívum";
-"Brotli Archive" = "Brotli Archive";
-"Brotli Tarball Archive" = "Brotli Tarball Archive";
-"Zstandard Archive" = "Zstandard Archive";
-"Zstandard Tarball Archive" = "Zstandard Tarball Archive";
+"Brotli Archive" = "Brotli archívum";
+"Brotli Tarball Archive" = "Brotli Tarball archívum";
+"Zstandard Archive" = "Zstandard archívum";
+"Zstandard Tarball Archive" = "Zstandard Tarball archívum";
 "RAR Archive" = "RAR archívum";
 "RAR Legacy Archive Volume" = "RAR örökölt kötet archívum";
 "Generic Archive Volume" = "Általános kötet archívum";
@@ -44,17 +44,17 @@
 "LHA Archive" = "LHA archívum";
 "Windows EXE File" = "Windows EXE fájl";
 "Windows Cabinet File" = "Windows Cabinet fájl";
-"Windows Installer Package" = "Windows Installer Package";
+"Windows Installer Package" = "Windows Telepítő Csomag";
 "WIM Disk Image" = "WIM lemezkép";
 "Comic Book RAR Archive" = "Képregény RAR archívum";
 "Comic Book ZIP Archive" = "Képregény ZIP archívum";
 "iOS App" = "iOS-alkalmazás";
 "JAR Archive" = "JAR archívum";
 "WAR Archive" = "WAR archívum";
-"Android Application Package" = "Android Application Package";
-"Cross-Platform Installer Module (XPI)" = "Cross-Platform Installer Module (XPI)";
+"Android Application Package" = "Android Alkalmazás Csomag";
+"Cross-Platform Installer Module (XPI)" = "Keresztplatformos Telepítő Csomag (XPI)";
 "APPX Archive" = "APPX archívum";
 "Safari extension" = "Safari bővítmény";
-"ACE Archive" = "ACE Archive";
-"XIP Secure Archive" = "XIP Secure Archive";
-"Keka Extraction Package" = "Keka Extraction Package";
+"ACE Archive" = "ACE archívum";
+"XIP Secure Archive" = "XIP biztonságos archívum";
+"Keka Extraction Package" = "Keka Kicsomagoló Csomag";

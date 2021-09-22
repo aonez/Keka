@@ -114,7 +114,7 @@
 "453.title" = "Keinen";
 
 /* Class = "NSButtonCell"; title = "Rename the recognized extension from the subfolder"; ObjectID = "1TK-Zy-623"; */
-"1TK-Zy-623.title" = "Rename the recognized extension from the subfolder";
+"1TK-Zy-623.title" = "Suffix des Unterordners anpassen";
 
 /* Class = "NSButtonCell"; title = "Show icon in primary item"; ObjectID = "47Y-rt-2fG"; */
 "47Y-rt-2fG.title" = "Icon im Kontextmenü anzeigen";
@@ -126,7 +126,7 @@
 "63y-ct-DNM.title" = "Automatisch nach Updates suchen";
 
 /* Class = "NSMenuItem"; title = "Desktop"; ObjectID = "67Z-kB-INb"; */
-"67Z-kB-INb.title" = "Desktop";
+"67Z-kB-INb.title" = "Schreibtisch";
 
 /* Class = "NSButtonCell"; title = "Nest actions in a submenu"; ObjectID = "6bh-6N-5PP"; */
 "6bh-6N-5PP.title" = "Kekas Aktionen in Untermenü anzeigen";

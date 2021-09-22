@@ -1,6 +1,6 @@
 ﻿
 "_PROJECTTITLE_" = "A Keka project";
-"_PROGRAMMER_" = "Programozó, tervező &amp; mantainer";
+"_PROGRAMMER_" = "Programozó, tervező és fenntartó";
 "_ARTWORK_" = "Tervező grafikus";
 "_TRANSLATIONS_" = "Fordítások";
 "_TRANSLATIONSOLD_" = "Fordítások (0.1-tól a 0.1.4.3 verzióig)";
@@ -9,8 +9,8 @@
 "_OPENSOURCE_" = "A Keka a következő nyiltforráskódú programokat használja fel";
 "_FREEWARE_" = "A Keka ingyenes binárisokat is felhasznál";
 "_ONEMORETHING_" = "Még egy dolog";
-"_THANKS_" = "Thanks for using Keka!";
-"_SOURCE_" = "TA Keka 1.0 forráskódja nem lesz elérhető jogi akadájozások miatt. Jogi támogatásra van szükség, ha tudod segíteni a projectet, lépj kapcsolatba velem az info@keka.io email címen, vagy a Keka hivatalos honlapján. Minden segítséget szívesen fogadok.";
+"_THANKS_" = "Köszönjük, hogy a Keka-t használja!";
+"_SOURCE_" = "A Keka 1.0 forráskódja nem lesz elérhető jogi akadájozások miatt. Jogi támogatásra van szükség, ha tudod segíteni a projectet, lépj kapcsolatba velem az info@keka.io email címen, vagy a Keka hivatalos honlapján. Minden segítséget szívesen fogadok.";
 "_WARRANTY_" = "EZT A SZOFTVERT A SZERZŐI JOG TULAJDONOSA ÉS A KÖZREMŰKÖDŐK \"AHOGY VAN\" SZOLGÁLTATJÁK ÉS MINDEN NYÍLT VAGY BURKOLT GARANCIAJOGOT VISSZAUTASÍTANAK VELE KAPCSOLATBAN - BELEÉRTVE DE NEM KIZÁRÓLAGOSAN KORLÁTOZVA AZ ELADHATÓSÁGRA, VAGY EGY ADOTT CÉLRA VALÓ ALKALMAZHATÓSÁGRA VONATKOZÓ GARANCIÁT. A SZERZŐI JOG TULAJDONOSA ÉS A KÖZREMŰKÖDŐK NEM VONHATÓK SEMMILYEN SZINTŰ FELELŐSSÉGRE -, MELYET AKÁR SZERZŐDÉSBEN RENDEZETT, VAGY SZERZŐDÉSEN KÍVÜLI FELELŐSSÉGVISZONY ALAPJÁN ÁLLAPÍTANÁNAK MEG (BELEÉRTVE A HANYAGSÁG VAGY MÁS MIATT KIALAKULÓ VISZONYT IS), SEMMILYEN A SZOFTVER HASZNÁLATÁBÓL EREDŐ ESEMÉNY KAPCSÁN MELY KÖZVETLEN, KÖZVETETT, VÉLETLENSZERŰ, KÜLÖNLEGES, PÉLDÁTLAN VAGY SZÜKSÉGSZERŰEN BEKÖVETKEZŐ KÁRHOZ VEZET (BELEÉRTVE A KÁROK KÖZÉ DE NEM KIZÁRÓLAGOSAN KORLÁTOZVA AZT A HELYETTESÍTŐ TERMÉKEK VAGY SZOLGÁLTATÁSOK BESZERZÉSÉRE, ÜZEMKIESÉSRE, ADATVESZTÉSRE, ELMARADT HASZONRA, VAGY ÜZLETMENET MEGSZAKADÁSÁRA) MÉG AKKOR SEM HA A KÁROSODÁS LEHETŐSÉGE ELŐRE LÁTHATÓ VOLT.";
-"_THANKSTOALL_" = "Köszönet minden támogatónak, kik az App Store-ból vásárolták meg a programot.<br />Köszönet minden visszajelzésért, valamint támogatásért.<br />Thanks to Igor Pavlov for such a piece of great and open source application, and 'myspace' for porting it to POSIX.<br /><br />Ti tartjátok életben a Keka projectet, valamint segítitek a fejlesztést.";
-"_APPEARDONATION_" = "If you donated and want to appear here, just <a href=\"mailto:info@keka.io?subject=Keka donation credits\">let me know</a> :)";
+"_THANKSTOALL_" = "Köszönet minden támogatónak, kik az App Store-ból vásárolták meg a programot.<br />Köszönet minden visszajelzésért, valamint támogatásért.<br />Köszönet Igor Pavlov-nak a nagyszerű és nyílt forráskódú alkalmazásért, és a 'myspace'-nek a POSIX-re portolásért.<br /><br />Ti tartjátok életben a Keka projectet, valamint segítitek a fejlesztést.";
+"_APPEARDONATION_" = "Ha adományozott és szeretne itt megjelenni, csak <a href=\"mailto:info@keka.io?subject=Keka donation credits\">jelezze</a> :)";
