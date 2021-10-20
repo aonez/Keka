@@ -3,30 +3,30 @@
 "NSHumanReadableCopyright" = "Copyright © 2009-2021 aONe";
 
 /* Access request descriptions */
-"NSDesktopFolderUsageDescription" = "Keka requires Desktop access to work with it's files.";
-"NSDocumentsFolderUsageDescription" = "Keka requires Documents access to work with it's files.";
-"NSDownloadsFolderUsageDescription" = "Keka requires Downloads access to work with it's files.";
-"NSNetworkVolumesUsageDescription" = "Keka requires Network volumes access to work with it's files.";
-"NSRemovableVolumesUsageDescription" = "Keka requires removable volumes access to work with it's files.";
+"NSDesktopFolderUsageDescription" = "Keka behöver åtkomst till Skrivbord för att jobba med dess filer.";
+"NSDocumentsFolderUsageDescription" = "Keka behöver åtkomst till Dokument för att jobba med dess filer.";
+"NSDownloadsFolderUsageDescription" = "Keka behöver åtkomst till Hämtade filer för att jobba med dess filer.";
+"NSNetworkVolumesUsageDescription" = "Keka behöver åtkomst till nätverksvolymer för att jobba med dess filer.";
+"NSRemovableVolumesUsageDescription" = "Keka behöver åtkomst till borttagbara volymer för att jobba med dess filer.";
 
 /* File types */
 "7Z Archive" = "7Z-arkiv";
 "LZMA Archive" = "LZMA-arkiv";
 "LZOP Archive" = "LZOP-arkiv";
 "LZOP Tarball Archive" = "LZOP Tarball-arkiv";
-"LZIP Archive" = "LZIP Archive";
+"LZIP Archive" = "LZIP-arkiv";
 "LZIP Tarball Archive" = "LZIP Tarball-arkiv";
 "ZIP Archive" = "ZIP-arkiv";
 "ZIPX Archive" = "ZIPX-arkiv";
 "XZ Archive" = "XZ-arkiv";
 "XZ Tarball Archive" = "XZ Tarball-arkiv";
-"Brotli Archive" = "Brotli Archive";
-"Brotli Tarball Archive" = "Brotli Tarball Archive";
-"Zstandard Archive" = "Zstandard Archive";
-"Zstandard Tarball Archive" = "Zstandard Tarball Archive";
+"Brotli Archive" = "Brotli-arkiv";
+"Brotli Tarball Archive" = "Brotli Tarball-arkiv";
+"Zstandard Archive" = "Zstandard-arkiv";
+"Zstandard Tarball Archive" = "Zstandard Tarball-arkiv";
 "RAR Archive" = "RAR-arkiv";
 "RAR Legacy Archive Volume" = "RAR Legacy-arkivvolym";
-"Generic Archive Volume" = "Allmänt arkivvolym";
+"Generic Archive Volume" = "Allmän arkivvolym";
 "BZIP2 Archive" = "BZIP2-arkiv";
 "BZIP2 Tarball Archive" = "BZIP2 Tarball-arkiv";
 "BZIP Archive" = "BZIP-arkiv";
@@ -43,18 +43,18 @@
 "ISO Disk Image" = "ISO-skivavbild";
 "LHA Archive" = "LHA-arkiv";
 "Windows EXE File" = "Windows EXE-fil";
-"Windows Cabinet File" = "Windows Cabinet-Fit";
-"Windows Installer Package" = "Windows Installer Package";
+"Windows Cabinet File" = "Windows Cabinet-fil";
+"Windows Installer Package" = "Windows Installer-paket";
 "WIM Disk Image" = "WIM-skivavbild";
 "Comic Book RAR Archive" = "Comic Book RAR-arkiv";
 "Comic Book ZIP Archive" = "Comic Book ZIP-arkiv";
-"iOS App" = "iOS-aoo";
+"iOS App" = "iOS-app";
 "JAR Archive" = "JAR-arkiv";
 "WAR Archive" = "WAR-arkiv";
 "Android Application Package" = "Android-programpaket";
 "Cross-Platform Installer Module (XPI)" = "Cross-Platform Installer Module (XPI)";
 "APPX Archive" = "APPX-arkiv";
-"Safari extension" = "Safari extension";
-"ACE Archive" = "ACE Archive";
+"Safari extension" = "Safari-tillägg";
+"ACE Archive" = "ACE-arkiv";
 "XIP Secure Archive" = "XIP Secure Archive";
-"Keka Extraction Package" = "Keka Extraction Package";
+"Keka Extraction Package" = "Keka Extraheringspaket";
