@@ -3,11 +3,11 @@
 "NSHumanReadableCopyright" = "Copyright © 2009-2021 aONe";
 
 /* Access request descriptions */
-"NSDesktopFolderUsageDescription" = "Keka requires Desktop access to work with it's files.";
-"NSDocumentsFolderUsageDescription" = "Keka requires Documents access to work with it's files.";
-"NSDownloadsFolderUsageDescription" = "Keka requires Downloads access to work with it's files.";
-"NSNetworkVolumesUsageDescription" = "Keka requires Network volumes access to work with it's files.";
-"NSRemovableVolumesUsageDescription" = "Keka requires removable volumes access to work with it's files.";
+"NSDesktopFolderUsageDescription" = "Keka behöver åtkomst till Skrivbord för att jobba med dess filer.";
+"NSDocumentsFolderUsageDescription" = "Keka behöver åtkomst till Dokument för att jobba med dess filer.";
+"NSDownloadsFolderUsageDescription" = "Keka behöver åtkomst till Hämtade filer för att jobba med dess filer.";
+"NSNetworkVolumesUsageDescription" = "Keka behöver åtkomst till nätverksvolymer för att jobba med dess filer.";
+"NSRemovableVolumesUsageDescription" = "Keka behöver åtkomst till borttagbara volymer för att jobba med dess filer.";
 
 /* File types */
 "7Z Archive" = "7Z-arkiv";
@@ -54,7 +54,7 @@
 "Android Application Package" = "Android-programpaket";
 "Cross-Platform Installer Module (XPI)" = "Cross-Platform Installer Module (XPI)";
 "APPX Archive" = "APPX-arkiv";
-"Safari extension" = "Safari-tilägg";
+"Safari extension" = "Safari-tillägg";
 "ACE Archive" = "ACE-arkiv";
 "XIP Secure Archive" = "XIP Secure Archive";
 "Keka Extraction Package" = "Keka Extraheringspaket";
