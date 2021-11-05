@@ -27,7 +27,7 @@
 "184.title" = "Establecer Keka como el descompresor predeterminado";
 
 /* Class = "NSButtonCell"; title = "Close Keka when no windows are open"; ObjectID = "187"; */
-"187.title" = "Salir de Keka cuando no hayan ventanas visibles";
+"187.title" = "Salir de Keka cuando no haya ventanas visibles";
 
 /* Class = "NSMenuItem"; title = "Always extract"; ObjectID = "197"; */
 "197.title" = "Extraer siempre";
