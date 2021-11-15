@@ -116,6 +116,9 @@
 /* Class = "NSButtonCell"; title = "Rename the recognized extension from the subfolder"; ObjectID = "1TK-Zy-623"; */
 "1TK-Zy-623.title" = "从子文件夹重命名已识别的扩展名";
 
+/* Class = "NSButtonCell"; title = "Use custom tasks counter in the Dock"; ObjectID = "3cf-gN-q24"; */
+"3cf-gN-q24.title" = "Use custom tasks counter in the Dock";
+
 /* Class = "NSButtonCell"; title = "Show icon in primary item"; ObjectID = "47Y-rt-2fG"; */
 "47Y-rt-2fG.title" = "在主项中显示图标";
 
@@ -133,6 +136,9 @@
 
 /* Class = "NSTextFieldCell"; title = "You can use this placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n%pb% will be replaced with the clipboard string\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
 "8JN-Ub-qkc.title" = "您可以使用这些占位符：\n\n%n 将被替换为文件名\n%e 将被替换为文件扩展名\n%p 将被替换为父文件夹\n%c 将被替换为文件数\n%d 将被替换为当前日期\n%t 将被替换为当前时间\n%s 将被替换为共享名\n%i% 将被替换为首个项目名称\n%ia% 将被替换为首个排序名\n%pb% 将被替换为剪贴板字符串\n\n在某些情况下，替换内容将为空。";
+
+/* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "8Uc-pg-EyS"; */
+"8Uc-pg-EyS.title" = "使用一体式工具栏（会重置自定义工具栏设置）";
 
 /* Class = "NSTextFieldCell"; title = "Fallback folder:"; ObjectID = "9dE-yV-N3K"; */
 "9dE-yV-N3K.title" = "备选文件夹：";
@@ -212,9 +218,6 @@
 /* Class = "NSButtonCell"; title = "Use \"Open with Keka\" as the primary item action"; ObjectID = "a5e-FP-sDv"; */
 "a5e-FP-sDv.title" = "使用“在 Keka 中打开”作为主要操作项";
 
-/* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "b5e-bj-Pgz"; */
-"b5e-bj-Pgz.title" = "使用一体式工具栏（会重置自定义工具栏设置）";
-
 /* Class = "NSButtonCell"; title = "Use parent folder name when compressing multiple files"; ObjectID = "cDs-NB-2os"; */
 "cDs-NB-2os.title" = "压缩多个文件时使用父文件夹名称";
 
@@ -229,6 +232,9 @@
 
 /* Class = "NSButtonCell"; title = "Checking the extension status"; ObjectID = "chn-AV-kXZ"; */
 "chn-AV-kXZ.title" = "检查扩展状态中";
+
+/* Class = "NSButtonCell"; title = "Use squish face when working"; ObjectID = "dOj-2Z-1kb"; */
+"dOj-2Z-1kb.title" = "Use squish face when working";
 
 /* Class = "NSTextFieldCell"; title = "Compressing multiple files:"; ObjectID = "dhi-qv-weg"; */
 "dhi-qv-weg.title" = "压缩多个文件：";
@@ -262,6 +268,9 @@
 
 /* Class = "NSButtonCell"; title = "Always extract in a subfolder"; ObjectID = "pXT-7y-9af"; */
 "pXT-7y-9af.title" = "始终提取到子文件夹";
+
+/* Class = "NSButtonCell"; title = "Differentiate between active and total tasks in the Dock"; ObjectID = "qrX-WU-mLd"; */
+"qrX-WU-mLd.title" = "Differentiate between active and total tasks in the Dock";
 
 /* Class = "NSButtonCell"; title = "Show Keka actions in Finder's contextual menu"; ObjectID = "rP2-XR-ZQt"; */
 "rP2-XR-ZQt.title" = "在访达的上下文菜单中显示 Keka 操作";
