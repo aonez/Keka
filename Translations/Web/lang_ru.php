@@ -4,12 +4,12 @@
 //
 // Language: Russian
 $content_language_locale = "ru";
-// Translated by NickKaramoff (nick@karamoff.ru)
+// Translated by Nikita Karamov (me@kytta.dev)
 //
 //
 // Set $show_content_bottom_translator as true if you want to appear in the bottom of the page
 $show_content_bottom_translator = true;
-$content_bottom_translator = 'Перевёл <a href="https://karamoff.ru">Никита Карамов</a>.';
+$content_bottom_translator = 'Перевёл <a href="https://www.kytta.dev/">Никита Карамов</a>.';
 //
 //
 
