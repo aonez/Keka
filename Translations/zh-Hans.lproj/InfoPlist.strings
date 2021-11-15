@@ -22,8 +22,8 @@
 "XZ Tarball Archive" = "XZ 压缩 TAR 归档";
 "Brotli Archive" = "Brotli 归档";
 "Brotli Tarball Archive" = "Brotli 压缩 TAR 归档";
-"Zstandard Archive" = "Zstandard 归档";
-"Zstandard Tarball Archive" = "Zstandard 压缩 TAR 归档";
+"Zstandard Archive" = "Zstd 归档";
+"Zstandard Tarball Archive" = "Zstd 压缩 TAR 归档";
 "RAR Archive" = "RAR 归档";
 "RAR Legacy Archive Volume" = "RAR 传统归档卷";
 "Generic Archive Volume" = "通用归档卷";
@@ -57,4 +57,7 @@
 "Safari extension" = "Safari 扩展";
 "ACE Archive" = "ACE 归档";
 "XIP Secure Archive" = "XIP 安全归档";
+"Apple Archive" = "Apple 归档";
+"WordPress All-in-One Backup" = "WordPress 一站式备份";
+"InstallShield 3 Archive" = "InstallShield 3 归档";
 "Keka Extraction Package" = "Keka 提取包";

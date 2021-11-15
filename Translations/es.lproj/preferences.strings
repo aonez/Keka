@@ -27,7 +27,7 @@
 "184.title" = "Establecer Keka como el descompresor predeterminado";
 
 /* Class = "NSButtonCell"; title = "Close Keka when no windows are open"; ObjectID = "187"; */
-"187.title" = "Salir de Keka cuando no hayan ventanas visibles";
+"187.title" = "Salir de Keka cuando no haya ventanas visibles";
 
 /* Class = "NSMenuItem"; title = "Always extract"; ObjectID = "197"; */
 "197.title" = "Extraer siempre";
@@ -116,6 +116,9 @@
 /* Class = "NSButtonCell"; title = "Rename the recognized extension from the subfolder"; ObjectID = "1TK-Zy-623"; */
 "1TK-Zy-623.title" = "Renombrar la extensión conocida en la carpeta intermedia";
 
+/* Class = "NSButtonCell"; title = "Use custom tasks counter in the Dock"; ObjectID = "3cf-gN-q24"; */
+"3cf-gN-q24.title" = "Utilizar el contador de tareas personalizado en el Dock";
+
 /* Class = "NSButtonCell"; title = "Show icon in primary item"; ObjectID = "47Y-rt-2fG"; */
 "47Y-rt-2fG.title" = "Mostrar un icono en el primer elemento";
 
@@ -133,6 +136,9 @@
 
 /* Class = "NSTextFieldCell"; title = "You can use this placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n%pb% will be replaced with the clipboard string\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
 "8JN-Ub-qkc.title" = "Puedes utilizar las siguientes sustituciones:\n\n%n se sustituirá por el nombre del archivo\n%e se sustituirá por la extensión del archivo\n%p se sustituirá por el nombre de la carpeta principal\n%c se sustituirá por el número de archivos\n%d se sustituirá por la fecha actual\n%t se sustituirá por la hora actual\n%s se sustituirá por el nombre en común\n%i% se sustituirá por el primer nombre de archivo\n%ia% se sustituirá por el primer nombre de archivo por orden alfabético\n%pb% se sustituirá por el texto del portapapeles\n\nLas sustituciones estarán vacías en algunos casos.";
+
+/* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "8Uc-pg-EyS"; */
+"8Uc-pg-EyS.title" = "Utilizar la barra de herramientas unificada (reinicia la personalización)";
 
 /* Class = "NSTextFieldCell"; title = "Fallback folder:"; ObjectID = "9dE-yV-N3K"; */
 "9dE-yV-N3K.title" = "Carpeta de respaldo:";
@@ -212,9 +218,6 @@
 /* Class = "NSButtonCell"; title = "Use \"Open with Keka\" as the primary item action"; ObjectID = "a5e-FP-sDv"; */
 "a5e-FP-sDv.title" = "Utilizar \"Abrir con Keka\" como la acción primaria";
 
-/* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "b5e-bj-Pgz"; */
-"b5e-bj-Pgz.title" = "Utilizar la barra de herramientas unificada (reinicia la personalización)";
-
 /* Class = "NSButtonCell"; title = "Use parent folder name when compressing multiple files"; ObjectID = "cDs-NB-2os"; */
 "cDs-NB-2os.title" = "Utilizar el nombre de la carpeta principal cuando se compriman varios ficheros";
 
@@ -229,6 +232,9 @@
 
 /* Class = "NSButtonCell"; title = "Checking the extension status"; ObjectID = "chn-AV-kXZ"; */
 "chn-AV-kXZ.title" = "Comprobando el estado de la extensión";
+
+/* Class = "NSButtonCell"; title = "Use squish face when working"; ObjectID = "dOj-2Z-1kb"; */
+"dOj-2Z-1kb.title" = "Utilizar la cara de esfuerzo mientras esté trabajando";
 
 /* Class = "NSTextFieldCell"; title = "Compressing multiple files:"; ObjectID = "dhi-qv-weg"; */
 "dhi-qv-weg.title" = "Compresión de varios ficheros:";
@@ -262,6 +268,9 @@
 
 /* Class = "NSButtonCell"; title = "Always extract in a subfolder"; ObjectID = "pXT-7y-9af"; */
 "pXT-7y-9af.title" = "Extraer siempre en una carpeta intermedia";
+
+/* Class = "NSButtonCell"; title = "Differentiate between active and total tasks in the Dock"; ObjectID = "qrX-WU-mLd"; */
+"qrX-WU-mLd.title" = "Diferenciar entre tareas activas e inactivas en el Dock";
 
 /* Class = "NSButtonCell"; title = "Show Keka actions in Finder's contextual menu"; ObjectID = "rP2-XR-ZQt"; */
 "rP2-XR-ZQt.title" = "Mostrar acciones del Keka en el menú contextual del Finder";

@@ -116,6 +116,9 @@
 /* Class = "NSButtonCell"; title = "Rename the recognized extension from the subfolder"; ObjectID = "1TK-Zy-623"; */
 "1TK-Zy-623.title" = "Rename the recognized extension from the subfolder";
 
+/* Class = "NSButtonCell"; title = "Use custom tasks counter in the Dock"; ObjectID = "3cf-gN-q24"; */
+"3cf-gN-q24.title" = "Use custom tasks counter in the Dock";
+
 /* Class = "NSButtonCell"; title = "Show icon in primary item"; ObjectID = "47Y-rt-2fG"; */
 "47Y-rt-2fG.title" = "Hiện biểu tượng trong các mục chính";
 
@@ -133,6 +136,9 @@
 
 /* Class = "NSTextFieldCell"; title = "You can use this placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n%pb% will be replaced with the clipboard string\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
 "8JN-Ub-qkc.title" = "Bạn có thể dùng phần nội dung này:\n\n%n sẽ được thay thế với tên tập tin\n%e sẽ được thay thế với phần mở rộng\n%p sẽ được thay thế bằng thư mục mẹ\n%c sẽ được thay thế bằng số lượng tập tin\n%d sẽ được thay thế bằng ngày hiện tại\n%t sẽ được thay thế bằng thời gian hiện tại\n%s sẽ được thay thế bằng tên đã chia sẻ\n%i% sẽ được thay thế bằng tên mục đầu tiên\n%ia% sẽ được thay thế bằng tên được sắp xếp đầu tiên\n%pb% sẽ được thay thế bằng chuỗi ký tự trong bộ nhớ tạm\n\nCác thay thế sẽ trống trong một số trường hợp.";
+
+/* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "8Uc-pg-EyS"; */
+"8Uc-pg-EyS.title" = "Sử dụng thanh công cụ gốc (đặt lại tuỳ chỉnh)";
 
 /* Class = "NSTextFieldCell"; title = "Fallback folder:"; ObjectID = "9dE-yV-N3K"; */
 "9dE-yV-N3K.title" = "Thư mục dự phòng:";
@@ -212,9 +218,6 @@
 /* Class = "NSButtonCell"; title = "Use \"Open with Keka\" as the primary item action"; ObjectID = "a5e-FP-sDv"; */
 "a5e-FP-sDv.title" = "Dùng \"Mở với Keka\" làm lệnh thực thi mặc định";
 
-/* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "b5e-bj-Pgz"; */
-"b5e-bj-Pgz.title" = "Sử dụng thanh công cụ gốc (đặt lại tuỳ chỉnh)";
-
 /* Class = "NSButtonCell"; title = "Use parent folder name when compressing multiple files"; ObjectID = "cDs-NB-2os"; */
 "cDs-NB-2os.title" = "Dùng tên thư mục mẹ khi nén nhiều tập tin bên trong đó";
 
@@ -229,6 +232,9 @@
 
 /* Class = "NSButtonCell"; title = "Checking the extension status"; ObjectID = "chn-AV-kXZ"; */
 "chn-AV-kXZ.title" = "Kiểm tra tình trạng phần mở rộng";
+
+/* Class = "NSButtonCell"; title = "Use squish face when working"; ObjectID = "dOj-2Z-1kb"; */
+"dOj-2Z-1kb.title" = "Use squish face when working";
 
 /* Class = "NSTextFieldCell"; title = "Compressing multiple files:"; ObjectID = "dhi-qv-weg"; */
 "dhi-qv-weg.title" = "Nén nhiều tập tin:";
@@ -262,6 +268,9 @@
 
 /* Class = "NSButtonCell"; title = "Always extract in a subfolder"; ObjectID = "pXT-7y-9af"; */
 "pXT-7y-9af.title" = "Luôn giải nén trong một thư mục con";
+
+/* Class = "NSButtonCell"; title = "Differentiate between active and total tasks in the Dock"; ObjectID = "qrX-WU-mLd"; */
+"qrX-WU-mLd.title" = "Differentiate between active and total tasks in the Dock";
 
 /* Class = "NSButtonCell"; title = "Show Keka actions in Finder's contextual menu"; ObjectID = "rP2-XR-ZQt"; */
 "rP2-XR-ZQt.title" = "Hiển thị các hành động của Keka trong menu ngữ cảnh của Finder";

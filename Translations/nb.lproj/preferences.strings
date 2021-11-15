@@ -116,6 +116,9 @@
 /* Class = "NSButtonCell"; title = "Rename the recognized extension from the subfolder"; ObjectID = "1TK-Zy-623"; */
 "1TK-Zy-623.title" = "Rename the recognized extension from the subfolder";
 
+/* Class = "NSButtonCell"; title = "Use custom tasks counter in the Dock"; ObjectID = "3cf-gN-q24"; */
+"3cf-gN-q24.title" = "Use custom tasks counter in the Dock";
+
 /* Class = "NSButtonCell"; title = "Show icon in primary item"; ObjectID = "47Y-rt-2fG"; */
 "47Y-rt-2fG.title" = "Vis ikon i primært element";
 
@@ -133,6 +136,9 @@
 
 /* Class = "NSTextFieldCell"; title = "You can use this placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n%pb% will be replaced with the clipboard string\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
 "8JN-Ub-qkc.title" = "Du kan bruke disse plassholderne:\n\n%n vil byttes ut med filnavnet\n%e vil byttes ut med filendelsen\n%p vil byttes ut med foreldermappen\n%c vil byttes ut med antall filer\n%d vil byttes ut med gjeldende dato\n%t vil byttes ut med gjeldende klokkeslett\n%s vil byttes ut med delt navn\n%i% vil bli byttet ut med navn på første element\n%ia% vil bli byttet ut med første navn når sortert\n%pb% will be replaced with the clipboard string\n\nErstatningene vil i noen tilfeller være tomme.";
+
+/* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "8Uc-pg-EyS"; */
+"8Uc-pg-EyS.title" = "Bruk enhetlig verktøylinje (tilbakestiller tilpasninger)";
 
 /* Class = "NSTextFieldCell"; title = "Fallback folder:"; ObjectID = "9dE-yV-N3K"; */
 "9dE-yV-N3K.title" = "Reservemappe:";
@@ -212,9 +218,6 @@
 /* Class = "NSButtonCell"; title = "Use \"Open with Keka\" as the primary item action"; ObjectID = "a5e-FP-sDv"; */
 "a5e-FP-sDv.title" = "Bruk \"Åpne med Keka\" som primærhandling";
 
-/* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "b5e-bj-Pgz"; */
-"b5e-bj-Pgz.title" = "Bruk enhetlig verktøylinje (tilbakestiller tilpasninger)";
-
 /* Class = "NSButtonCell"; title = "Use parent folder name when compressing multiple files"; ObjectID = "cDs-NB-2os"; */
 "cDs-NB-2os.title" = "Bruk foreldremappe som navn ved komprimering av flere filer";
 
@@ -229,6 +232,9 @@
 
 /* Class = "NSButtonCell"; title = "Checking the extension status"; ObjectID = "chn-AV-kXZ"; */
 "chn-AV-kXZ.title" = "Checking the extension status";
+
+/* Class = "NSButtonCell"; title = "Use squish face when working"; ObjectID = "dOj-2Z-1kb"; */
+"dOj-2Z-1kb.title" = "Use squish face when working";
 
 /* Class = "NSTextFieldCell"; title = "Compressing multiple files:"; ObjectID = "dhi-qv-weg"; */
 "dhi-qv-weg.title" = "Komprimerer flere filer:";
@@ -262,6 +268,9 @@
 
 /* Class = "NSButtonCell"; title = "Always extract in a subfolder"; ObjectID = "pXT-7y-9af"; */
 "pXT-7y-9af.title" = "Pakk alltid ut i en undermappe";
+
+/* Class = "NSButtonCell"; title = "Differentiate between active and total tasks in the Dock"; ObjectID = "qrX-WU-mLd"; */
+"qrX-WU-mLd.title" = "Differentiate between active and total tasks in the Dock";
 
 /* Class = "NSButtonCell"; title = "Show Keka actions in Finder's contextual menu"; ObjectID = "rP2-XR-ZQt"; */
 "rP2-XR-ZQt.title" = "Vis Keka-handlinger i Finders kontekstmeny";

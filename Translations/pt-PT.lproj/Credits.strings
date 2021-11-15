@@ -1,16 +1,16 @@
 ﻿
 "_PROJECTTITLE_" = "Projeto Keka";
 "_PROGRAMMER_" = "Programação, design e manutenção";
-"_ARTWORK_" = "Design de arte";
+"_ARTWORK_" = "Design gráfico";
 "_TRANSLATIONS_" = "Traduções";
-"_TRANSLATIONSOLD_" = "Traduções (de 0.1 a 0.1.4.3)";
+"_TRANSLATIONSOLD_" = "Traduções (da versão 0.1 a 0.1.4.3)";
 "_TESTERS_" = "Testes ocasionais";
-"_DONATIONS_" = "Doações (ordenadas por data)";
-"_OPENSOURCE_" = "O Keka usa códigos-fonte abertos";
+"_DONATIONS_" = "Donativos (ordenados por data)";
+"_OPENSOURCE_" = "O Keka usa código-fonte aberto";
 "_FREEWARE_" = "O Keka usa binários gratuitos";
 "_ONEMORETHING_" = "Mais uma coisa";
 "_THANKS_" = "Obrigado por usar o Keka!";
-"_SOURCE_" = "O código-fonte do Keka 1.0 não será tornado público devido a problemas legais. Necessitamos de auxílio jurídico e, se você puder ajudar nesse âmbito, contate info@keka.io ou consulte a página oficial do projeto Keka. Toda ajuda é bem-vinda.";
-"_WARRANTY_" = "ESTE SOFTWARE É FORNECIDO PELOS DETENTORES DO COPYRIGHT E CONTRIBUIDORES “COMO ESTÁ”, E QUALQUER GARANTIA, EXPRESSA OU IMPLÍCITA, INCLUINDO, DENTRE OUTRAS, GARANTIAS IMPLÍCITAS DE COMERCIABILIDADE E ADEQUAÇÃO A UMA FINALIDADE ESPECÍFICA SÃO REJEITADAS. SOB NENHUMA CIRCUNSTÂNCIA, OS DETENTORES DO COPYRIGHT OU CONTRIBUIDORES DEVERÃO SER RESPONSABILIZADOS POR DANOS DIRETOS, INDIRETOS, INCIDENTAIS, ESPECIAIS, REPRESENTATIVOS OU CONSEQUENCIAIS (INCLUINDO, DENTRE OUTROS, DA AQUISIÇÃO DE BENS OU SERVIÇOS SUBSTITUTOS; PERDA DE USO, DADOS OU LUCROS; OU INTERRUPÇÃO COMERCIAL), NÃO IMPORTA COMO CAUSADOS E SOB QUALQUER TEORIA DE RESPONSABILIDADE, SEJA SOB CONTRATO, RESPONSABILIDADE OBJETIVA OU DELITO (INCLUINDO NEGLIGÊNCIA OU DE OUTRA FORMA) ADVINDOS DE QUALQUER USO DESTE SOFTWARE, MESMO QUANDO CIENTE DA POSSIBILIDADE DE TAIS DANOS.";
-"_THANKSTOALL_" = "Obrigado a todos os doadores e àqueles que compraram o Keka na App Store.<br />Obrigado por todos os feedbacks e contribuições ocasionais.<br />Obrigado a Igor Pavlov por um excelente aplicativo de código aberto e a “myspace” por convertê-lo para POSIX.<br /><br />Todos vocês mantêm o projeto Keka vivo e em evolução.";
-"_APPEARDONATION_" = "Se você tiver doado e quiser aparecer aqui, basta <a href=\"mailto:info@keka.io?subject=Keka donation credits\">avisar</a> :)";
+"_SOURCE_" = "O código-fonte do Keka 1.0 não será tornado público devido a problemas legais. Para isso necessitamos de auxílio jurídico. Se puder ajudar nesse âmbito, contacte-nos para o endereço info@keka.io ou consulte a página oficial do projeto Keka. Toda ajuda é bem-vinda.";
+"_WARRANTY_" = "ESTE SOFTWARE É FORNECIDO PELOS DETENTORES DO COPYRIGHT E CONTRIBUIDORES “TAL COMO ESTÁ”, E QUALQUER GARANTIA, EXPRESSA OU IMPLÍCITA, INCLUINDO, ENTRE OUTRAS, GARANTIAS IMPLÍCITAS DE COMERCIABILIDADE E ADEQUAÇÃO A UMA FINALIDADE ESPECÍFICA SÃO REJEITADAS. SOB NENHUMA CIRCUNSTÂNCIA, OS DETENTORES DO COPYRIGHT OU CONTRIBUIDORES DEVERÃO SER RESPONSABILIZADOS POR DANOS DIRETOS, INDIRETOS, INCIDENTAIS, ESPECIAIS, REPRESENTATIVOS OU CONSEQUENCIAIS (INCLUINDO, ENTRE OUTROS, DA AQUISIÇÃO DE BENS OU SERVIÇOS SUBSTITUTOS; PERDA DE USO, DADOS OU LUCROS; OU INTERRUPÇÃO COMERCIAL), NÃO IMPORTA COMO CAUSADOS E SOB QUALQUER TEORIA DE RESPONSABILIDADE, SEJA SOB CONTRATO, RESPONSABILIDADE OBJETIVA OU DELITO (INCLUINDO NEGLIGÊNCIA OU DE OUTRA FORMA) ADVINDOS DE QUALQUER USO DESTE SOFTWARE, MESMO QUANDO CIENTE DA POSSIBILIDADE DE TAIS DANOS.";
+"_THANKSTOALL_" = "Obrigado a todos os que fizeram um donativo e àqueles que compraram o Keka na App Store.<br />Obrigado por todos os comentários e contribuições ocasionais.<br />Obrigado a Igor Pavlov por uma excelente aplicação de código-fonte aberto e a “myspace” por convertê-lo para POSIX.<br /><br />Todos vocês mantêm o projeto Keka vivo e a evoluir.";
+"_APPEARDONATION_" = "Se fez um donativo e quiser aparecer aqui, basta <a href=\"mailto:info@keka.io?subject=Keka donation credits\">enviar-nos um e-mail</a> :)";
