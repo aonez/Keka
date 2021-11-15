@@ -60,6 +60,12 @@ $content_info_extraction = "Và giải nén tất cả các định dạng sau:"
 $content_defaultapp_title = "Đặt Keka làm ứng dụng giải nén mặc định";
 $content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">cần thêm một công cụ hỗ trợ <i class="far fa-question-circle"></i></a> để thiết lập thành ứng dụng giải nén mặc định.<br />Đơn giản là tải về và giải nén, di chuyển nó đến Desktop rồi mở nó lên là được.';
 
+// Terms of use
+$content_termsofuse_title = 'Điều khoản sử dụng';
+$content_termsofuse_disclaimer = 'THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.';
+$content_termsofuse_inapp_title = 'Mua hàng trong ứng dụng';
+$content_termsofuse_inapp = 'Phiên bản Keka trên cửa hàng App Store cung cấp tuỳ chọn Mua hàng trong ứng dụng là cách để ủng hộ và giúp đỡ tác giả phát triển phần mềm, tương tự như <a href="https://www.keka.io/#lovekeka">PayPal/Tài trợ qua website</a>. Các tuỳ chọn mua hàng này không bắt buộc và không bổ sung thêm tính năng nào cho ứng dụng.';
+
 // Privacy Policy
 $content_privacypolicy_title = 'Chính sách bảo mật';
 

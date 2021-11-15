@@ -114,10 +114,10 @@
 "453.title" = "Không có";
 
 /* Class = "NSButtonCell"; title = "Rename the recognized extension from the subfolder"; ObjectID = "1TK-Zy-623"; */
-"1TK-Zy-623.title" = "Rename the recognized extension from the subfolder";
+"1TK-Zy-623.title" = "Đổi tên phần mở rộng đã được nhận diện từ thư mục con";
 
 /* Class = "NSButtonCell"; title = "Use custom tasks counter in the Dock"; ObjectID = "3cf-gN-q24"; */
-"3cf-gN-q24.title" = "Use custom tasks counter in the Dock";
+"3cf-gN-q24.title" = "Sử dụng bộ đếm tác vụ tuỳ chỉnh trên thanh Dock";
 
 /* Class = "NSButtonCell"; title = "Show icon in primary item"; ObjectID = "47Y-rt-2fG"; */
 "47Y-rt-2fG.title" = "Hiện biểu tượng trong các mục chính";
@@ -234,7 +234,7 @@
 "chn-AV-kXZ.title" = "Kiểm tra tình trạng phần mở rộng";
 
 /* Class = "NSButtonCell"; title = "Use squish face when working"; ObjectID = "dOj-2Z-1kb"; */
-"dOj-2Z-1kb.title" = "Use squish face when working";
+"dOj-2Z-1kb.title" = "Sử dụng biểu cảm méo mặt khi hoạt động";
 
 /* Class = "NSTextFieldCell"; title = "Compressing multiple files:"; ObjectID = "dhi-qv-weg"; */
 "dhi-qv-weg.title" = "Nén nhiều tập tin:";
@@ -270,7 +270,7 @@
 "pXT-7y-9af.title" = "Luôn giải nén trong một thư mục con";
 
 /* Class = "NSButtonCell"; title = "Differentiate between active and total tasks in the Dock"; ObjectID = "qrX-WU-mLd"; */
-"qrX-WU-mLd.title" = "Differentiate between active and total tasks in the Dock";
+"qrX-WU-mLd.title" = "Phân biệt giữa tác vụ đang chạy và tổng số tác vụ hiện có trên thanh Dock";
 
 /* Class = "NSButtonCell"; title = "Show Keka actions in Finder's contextual menu"; ObjectID = "rP2-XR-ZQt"; */
 "rP2-XR-ZQt.title" = "Hiển thị các hành động của Keka trong menu ngữ cảnh của Finder";
