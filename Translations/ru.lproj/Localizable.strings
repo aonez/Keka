@@ -217,7 +217,7 @@
 "Pause extracting" = "Приостановить распаковку";
 "Compression paused" = "Сжатие приостановлено";
 "Extraction paused" = "Распаковка приостановлена";
-"Waiting for password" = "Жду ввода пароля";
+"Waiting for password" = "Ожидание ввода пароля";
 "On queue" = "В очереди";
 "Applying quarantine..." = "Применяю карантин...";
 "%@.\n\nPlease get in contact with the developers." = "%@.\n\nOбратитесь к разработчикам.";
@@ -247,7 +247,7 @@
 "Tip Keka a breakfast so it can start fresh" = "Угостить Keka завтраком для отличного начала дня";
 "Tip a lunch" = "Угостить обедом";
 "Tip Keka a lunch and feed it" = "Угостить Keka обедом, чтобы не голодать";
-"Tip a dinner" = "Угостить ужинов";
+"Tip a dinner" = "Угостить ужином";
 "Tip Keka a dinner so it keeps rolling" = "Угостить Keka ужином, чтобы работа не останавливалась";
-"Tip a bunch of food" = "Устроить пир";
-"Tip Keka a bunch of food to keep rolling" = "Устроить Keka пир, чтобы работы не останавливалась";
+"Tip a bunch of food" = "Угостить кучей еды";
+"Tip Keka a bunch of food to keep rolling" = "Угостить Keka кучей еды, чтобы работать";

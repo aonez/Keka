@@ -7,8 +7,8 @@
 "General" = "Головні";
 "File Access" = "Доступ до файлів";
 "Performance" = "Продуктивність";
-"Finder Extension" = "Finder розширення";
-"Love" = "Love";
+"Finder Extension" = "Розширення для Finder";
+"Love" = "Підтримати проєкт";
 "OK" = "OK";
 "Done" = "Виконано";
 "Yes" = "Так";
@@ -18,7 +18,7 @@
 "Not now" = "Не зараз";
 "Want to make Keka your default compressor?" = "Хочете зробити Keka компресором за замовчуванням?";
 "This means that all the compatible files will be extracted with Keka by now. You can set this later in the Keka Preferences." = "Це означає, що всі сумісні файли будуть розпаковані за допомогою Keka. Ви можете встановити цей параметр пізніше в налаштуваннях Keka.";
-"Really want to close Keka?" = "Чи дійсно хочеться закрити Keka?";
+"Really want to close Keka?" = "Ви дійсно хочете закрити Keka?";
 "The current operations will be canceled. If you choose to wait and quit Keka will exit when all work is done." = "Поточні операції будуть скасовані. Якщо ви вирішите зачекати і вийти — Keka вийде коли буде виконана вся робота.";
 "Password needed" = "Потрібен пароль";
 "File \"%@\" needs a password to be extracted" = "Файлу \"%@\" потрібен пароль для розпакування";
@@ -33,7 +33,7 @@
 "Compression fail" = "Не вдалося стиснути";
 "File \"%@\" cannot be created" = "Файл \"%@\" неможливо створити";
 "\n(using fallback folder)" = "\n(using fallback folder)";
-"Operation not implemented" = "Операція не реалізована";
+"Operation not implemented" = "Операція не виконана";
 "Performing operation..." = "Виконання операції...";
 "Waiting..." = "Очікування...";
 "Extracting \"%@\"" = "Розпаковування \"%@\"";
@@ -74,7 +74,7 @@
 "Compress in %@ to..." = "Стиснути в %@ до...";
 "Save as:" = "Зберегти як:";
 "Compress" = "Стиснути";
-"Extract \"%@\" to..." = "Розпакувати \"%@\" до…";
+"Extract \"%@\" to..." = "Розпакувати \"%@\" до...";
 "Extract as:" = "Розпакувати як:";
 "Extract" = "Розпакувати";
 "About %i seconds" = "близько %i секунд";
@@ -90,7 +90,7 @@
 "About a week" = "близько 1 тиждень";
 "About a month" = "близько 1 місяць";
 "About a year" = "близько 1 року";
-"Finishing..." = "Finishing...";
+"Finishing..." = "Завершення...";
 "Can't show progress time..." = "Неможливо показати час прогресу...";
 "Password for \"%@\"" = "Пароль для \"%@\"";
 "Format" = "Формат";
@@ -242,12 +242,12 @@
 "Monthly breakfast" = "Щомісячний сніданок";
 "Gift Keka a breakfast each month" = "Подаруйте Keka щомісячний сніданок";
 "Tip a coffee" = "Чайові на каву";
-"Tip Keka a coffee so it can stay awake" = "Дайте Keka кави, щоб вона могла не спати";
+"Tip Keka a coffee so it can stay awake" = "Дайте Keka кави, щоб можна було не спати";
 "Tip a breakfast" = "Чайові на сніданок";
-"Tip Keka a breakfast so it can start fresh" = "Дайте Keka сніданок, щоб почати все з чистого аркуша";
+"Tip Keka a breakfast so it can start fresh" = "Дайте Keka сніданок, щоб почати все по-новому";
 "Tip a lunch" = "Чайові на обід";
-"Tip Keka a lunch and feed it" = "Дайте Keka обід";
+"Tip Keka a lunch and feed it" = "Подарувати Keka обід і нагодувати ії";
 "Tip a dinner" = "Чайові на вечерю";
-"Tip Keka a dinner so it keeps rolling" = "Дайте Keka вечерю, щоб продовжувати працювати";
-"Tip a bunch of food" = "Дайте на чай купу їжі";
-"Tip Keka a bunch of food to keep rolling" = "Дайте Keka купу їжі, щоб продовжувати працювати";
+"Tip Keka a dinner so it keeps rolling" = "Дайте Keka вечерю, щоб продовжити роботу";
+"Tip a bunch of food" = "Подаруйте купу їжі";
+"Tip Keka a new bunch of food to keep rolling" = "Дайте Keka купу їжі, щоб продовжити роботу";
