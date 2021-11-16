@@ -117,7 +117,7 @@
 "1TK-Zy-623.title" = "Alterar a extensão reconhecida da subpasta";
 
 /* Class = "NSButtonCell"; title = "Use custom tasks counter in the Dock"; ObjectID = "3cf-gN-q24"; */
-"3cf-gN-q24.title" = "Use custom tasks counter in the Dock";
+"3cf-gN-q24.title" = "Usar número de tarefas personalizado na Dock";
 
 /* Class = "NSButtonCell"; title = "Show icon in primary item"; ObjectID = "47Y-rt-2fG"; */
 "47Y-rt-2fG.title" = "Mostrar ícone no item principal";
@@ -234,7 +234,7 @@
 "chn-AV-kXZ.title" = "A verificar o estado da extensão";
 
 /* Class = "NSButtonCell"; title = "Use squish face when working"; ObjectID = "dOj-2Z-1kb"; */
-"dOj-2Z-1kb.title" = "Use squish face when working";
+"dOj-2Z-1kb.title" = "Mostrar bicho-de-conta devorador ao processar ficheiros";
 
 /* Class = "NSTextFieldCell"; title = "Compressing multiple files:"; ObjectID = "dhi-qv-weg"; */
 "dhi-qv-weg.title" = "Compressão de vários ficheiros:";
@@ -270,7 +270,7 @@
 "pXT-7y-9af.title" = "Extrair sempre para uma subpasta";
 
 /* Class = "NSButtonCell"; title = "Differentiate between active and total tasks in the Dock"; ObjectID = "qrX-WU-mLd"; */
-"qrX-WU-mLd.title" = "Differentiate between active and total tasks in the Dock";
+"qrX-WU-mLd.title" = "Diferenciar tarefas ativas do total de tarefas na Dock";
 
 /* Class = "NSButtonCell"; title = "Show Keka actions in Finder's contextual menu"; ObjectID = "rP2-XR-ZQt"; */
 "rP2-XR-ZQt.title" = "Mostrar ações do Keka no menu contextual do Finder";
