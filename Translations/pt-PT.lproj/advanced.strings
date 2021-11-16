@@ -3,13 +3,13 @@
 "2221.title" = "Comprimir itens separadamente";
 
 /* Class = "NSButtonCell"; title = "Delete file(s) after compression"; ObjectID = "2222"; */
-"2222.title" = "Apagar original após comprimir";
+"2222.title" = "Eliminar ficheiros de origem após comprimir";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks"; ObjectID = "2244"; */
-"2244.title" = "Excluir arquivos invisíveis do Mac";
+"2244.title" = "Excluir ficheiros invisíveis do Mac";
 
 /* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "2262"; */
-"2262.title" = "Senha:";
+"2262.title" = "Palavra-passe:";
 
 /* Class = "NSTextFieldCell"; title = "Split:"; ObjectID = "2270"; */
 "2270.title" = "Dividir:";
@@ -18,7 +18,7 @@
 "2271.placeholderString" = "Exemplo: 5 MB";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[0] = "1.4 MB Floppy disk"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[0]" = "1.4 MB (Disquete)";
+"2271.ibShadowedObjectValues[0]" = "1.4 MB (disquete)";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[1] = "650 MB CD"; ObjectID = "2271"; */
 "2271.ibShadowedObjectValues[1]" = "650 MB (CD)";
@@ -57,7 +57,7 @@
 "2354.placeholderString" = "nome";
 
 /* Class = "NSTextFieldCell"; title = "You can create a ISO volume that will be read-only and compressed. ISO volumes can be only created from a folder.\n\nSet a volume name to this ISO or use the default name based on the files you compress."; ObjectID = "2363"; */
-"2363.title" = "Pode criar um volume ISO apenas de leitura e comprimido. Volumes ISO só podem ser criados a partir de uma pasta.\n\nEscolha um nome para o ISO ou use o nome padrão baseado nos arquivos que serão comprimidos.";
+"2363.title" = "Pode criar um volume ISO só de leitura e comprimido. Os volumes ISO só podem ser criados a partir de uma pasta.\n\nEscolha um nome para o ISO ou use o nome predefinido baseado nos ficheiros que serão comprimidos.";
 
 /* Class = "NSTextFieldCell"; title = "Store"; ObjectID = "2390"; */
 "2390.title" = "Sem";
@@ -72,13 +72,13 @@
 "2398.title" = "Normal";
 
 /* Class = "NSTextFieldCell"; title = "Repeat:"; ObjectID = "2426"; */
-"2426.title" = "Repita:";
+"2426.title" = "Repetir:";
 
 /* Class = "NSButtonCell"; title = "Encrypt filenames"; ObjectID = "L2I-Q8-zqc"; */
-"L2I-Q8-zqc.title" = "Criptografar nomes de arquivos";
+"L2I-Q8-zqc.title" = "Encriptar nomes dos ficheiros";
 
 /* Class = "NSButtonCell"; title = "Use AES-256 encryption"; ObjectID = "Lw7-h9-3Qh"; */
-"Lw7-h9-3Qh.title" = "Usar criptografia AES-256";
+"Lw7-h9-3Qh.title" = "Usar encriptação AES-256";
 
 /* Class = "NSButtonCell"; title = "Solid archive"; ObjectID = "UYy-aQ-V1a"; */
 "UYy-aQ-V1a.title" = "Arquivo sólido";

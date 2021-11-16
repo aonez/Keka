@@ -6,13 +6,13 @@
 "0Tk-5P-8i2.title" = "Tjänster";
 
 /* Class = "NSMenuItem"; title = "Open logs folder"; ObjectID = "52a-zm-Csr"; */
-"52a-zm-Csr.title" = "Open logs folder";
+"52a-zm-Csr.title" = "Öppna loggmapp";
 
 /* Class = "NSMenu"; title = "Debug"; ObjectID = "6lT-KW-uXA"; */
 "6lT-KW-uXA.title" = "Debug";
 
 /* Class = "NSMenuItem"; title = "Create a debug session"; ObjectID = "B5q-0l-TAK"; */
-"B5q-0l-TAK.title" = "Create a debug session";
+"B5q-0l-TAK.title" = "Skapa debug-session";
 
 /* Class = "NSMenuItem"; title = "Quit Keka"; ObjectID = "Boj-Hb-G0X"; */
 "Boj-Hb-G0X.title" = "Avsluta Keka";
@@ -24,7 +24,7 @@
 "HpM-0q-Enu.title" = "Visa allt";
 
 /* Class = "NSMenuItem"; title = "Enable debug information"; ObjectID = "IkK-ST-X3F"; */
-"IkK-ST-X3F.title" = "Enable debug information";
+"IkK-ST-X3F.title" = "Aktivera debug-information";
 
 /* Class = "NSMenuItem"; title = "Check for updates"; ObjectID = "K4O-VW-7FA"; */
 "K4O-VW-7FA.title" = "Leta efter uppdateringar";
@@ -42,7 +42,7 @@
 "Qst-Ya-feO.title" = "Spara";
 
 /* Class = "NSMenuItem"; title = "Privacy Policy"; ObjectID = "Rkr-d9-A7d"; */
-"Rkr-d9-A7d.title" = "Privacy Policy";
+"Rkr-d9-A7d.title" = "Integritetspolicy";
 
 /* Class = "NSMenuItem"; title = "Cut"; ObjectID = "Ro6-g5-CxU"; */
 "Ro6-g5-CxU.title" = "Klipp ut";
@@ -84,7 +84,7 @@
 "jtN-lL-fdx.title" = "Öppna tidigare";
 
 /* Class = "NSMenuItem"; title = "Terms Of Use"; ObjectID = "lmN-Tm-HmZ"; */
-"lmN-Tm-HmZ.title" = "Terms Of Use";
+"lmN-Tm-HmZ.title" = "Användarvillkor";
 
 /* Class = "NSMenuItem"; title = "About Keka"; ObjectID = "maF-B5-Hb6"; */
 "maF-B5-Hb6.title" = "Om Keka";
@@ -126,4 +126,4 @@
 "wbR-ho-uar.title" = "Markera allt";
 
 /* Class = "NSMenuItem"; title = "Save debug information"; ObjectID = "zWX-XS-wiR"; */
-"zWX-XS-wiR.title" = "Save debug information";
+"zWX-XS-wiR.title" = "Spara debug-information";
