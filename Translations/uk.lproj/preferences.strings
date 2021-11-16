@@ -270,7 +270,7 @@
 "pXT-7y-9af.title" = "Завжди розпаковувати в підпапку";
 
 /* Class = "NSButtonCell"; title = "Differentiate between active and total tasks in the Dock"; ObjectID = "qrX-WU-mLd"; */
-"qrX-WU-mLd.title" = "Розрізняти активні і загальні завдання на Dock";
+"qrX-WU-mLd.title" = "Розрізняти активні і загальні завдання у Dock";
 
 /* Class = "NSButtonCell"; title = "Show Keka actions in Finder's contextual menu"; ObjectID = "rP2-XR-ZQt"; */
 "rP2-XR-ZQt.title" = "Показувати дії Keka в контекстному меню Finder";
