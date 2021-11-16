@@ -70,7 +70,7 @@ $content_termsofuse_inapp = 'The App Store version of Keka offers In-App purchas
 $content_privacypolicy_title = 'Privacy Policy';
 $content_privacypolicy_content = 'Keka does not send or store any kind of data from your computer.';
 $content_privacypolicy_MAS = 'The MAS version does not have any network capabilities.';
-$content_privacypolicy_WEB = 'The WEB version uses Sparkle for the update process (that you can disable), so that component can connect to the internet. It is used solely to check the new version and download it. This component never stores or shares any kind of information, not even the <a href="https://sparkle-project.org/documentation/system-profiling/">anonymous system profile data</a> that was enabled in some Keka versions prior to 1.0.0 but never used.';
+$content_privacypolicy_WEB = 'The WEB version uses Sparkle for the update process (that you can disable), so that component can connect to the internet. It is used solely to check for a new version and download it. This component never stores or shares any kind of information, not even the <a href="https://sparkle-project.org/documentation/system-profiling/">anonymous system profile data</a> that was enabled in some Keka versions prior to 1.0.0 but never used.';
 
 // Main content of the page
 $content_context_menu = "Context menu";
