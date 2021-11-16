@@ -221,9 +221,9 @@
 "On queue" = "In de wachtwrij";
 "Applying quarantine..." = "Quarantine toepassen...";
 "%@.\n\nPlease get in contact with the developers." = "%@.\n\nContacteer a.u.b. de ontwikkelaar.";
-"Report" = "Report";
-"Report via mail" = "Report via mail";
-"Review Keka ★★★★★" = "Review Keka ★★★★★";
+"Report" = "Rapporteer";
+"Report via mail" = "Rapporteer via email";
+"Review Keka ★★★★★" = "Geef Keka een ★★★★★ recensie";
 
 /*
 // MAS tips
@@ -238,16 +238,16 @@
 "Monthly coffee" = "Maandelijke koffie";
 "Gift Keka a coffee each month" = "Geef Keka iedere maand een kop koffie cadeau";
 "Monthly pair of coffees" = "Maandelijkse koffies";
-"Gift Keka a couple coffees each month" = "Geef Keka iedere maand een een paar koppen koffie cadeau";
+"Gift Keka a couple coffees each month" = "Geef Keka maandelijks een paar koffies cadeau";
 "Monthly breakfast" = "Maandelijks ontbijt";
 "Gift Keka a breakfast each month" = "Geef Keka iedere maand een ontbijt cadeau";
 "Tip a coffee" = "Doneer een kop koffie";
-"Tip Keka a coffee so it can stay awake" = "Geef Keka een kop koffie cadeau zodat we wakker kunnen blijven";
+"Tip Keka a coffee so it can stay awake" = "Geef Keka een kop koffie om wakker te blijven";
 "Tip a breakfast" = "Doneer een ontbijtje";
-"Tip Keka a breakfast so it can start fresh" = "Geef Keka een ontbijt cadeau zodat we de dag fris en fruitig kunnen beginnen";
+"Tip Keka a breakfast so it can start fresh" = "Geef Keka een ontbijtje cadeau, frisse start";
 "Tip a lunch" = "Doneer een lunch";
-"Tip Keka a lunch and feed it" = "Geef Keka een lunch cadeau, voor een gevulde maag";
+"Tip Keka a lunch and feed it" = "Geef Keka een lunch cadeau, een gevulde maag";
 "Tip a dinner" = "Doneer een diner";
-"Tip Keka a dinner so it keeps rolling" = "Geef Keka een diner cadeau, voor een goed gevulde maag";
+"Tip Keka a dinner so it keeps rolling" = "Geef Keka een diner cadeau, een gevulde maag";
 "Tip a bunch of food" = "Doneer een picknickmand";
-"Tip Keka a bunch of food to keep rolling" = "Geef Keka een mand met eten cadeau, voor een gevulde maag";
+"Tip Keka a bunch of food to keep rolling" = "Geef Keka een mand met eten, een gevulde maag";
