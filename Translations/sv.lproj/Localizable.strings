@@ -234,20 +234,20 @@
 // Emojis cannot be used in these strings :(
 */
 "Monthly sip of coffee" = "Månadsvis slurk kaffe";
-"Gift Keka a sip of coffee each month" = "Ge Keka en slurk av kaffe varje månad";
+"Gift Keka a sip of coffee each month" = "Ge Keka en slurk kaffe varje månad";
 "Monthly coffee" = "Månadsvis kaffekopp";
 "Gift Keka a coffee each month" = "Ge Keka en kaffe varje månad";
-"Monthly pair of coffees" = "Månadsvis par med kaffekoppar";
+"Monthly pair of coffees" = "Månadsvis par kaffekoppar";
 "Gift Keka a couple coffees each month" = "Ge Keka några kaffekoppar varje månad";
 "Monthly breakfast" = "Månadsvis frukost";
 "Gift Keka a breakfast each month" = "Ge Keka en frukost varje månad";
-"Tip a coffee" = "Dricksa en kaffe";
-"Tip Keka a coffee so it can stay awake" = "Ge Keka en kaffe i dricks så den håller sig vaken";
-"Tip a breakfast" = "Dricksa en frukost";
-"Tip Keka a breakfast so it can start fresh" = "Ge Keka en frukost i dricks så den får en fräsch start";
-"Tip a lunch" = "Dricksa en lunch";
+"Tip a coffee" = "Ge en kaffe i dricks";
+"Tip Keka a coffee so it can stay awake" = "Håll Keka vaken med en kaffe i dricks";
+"Tip a breakfast" = "Ge en frukost i dricks";
+"Tip Keka a breakfast so it can start fresh" = "En frukost i dricks ger Keka en fräsch start";
+"Tip a lunch" = "Ge en lunch i dricks";
 "Tip Keka a lunch and feed it" = "Ge Keka en lunch och mata den";
-"Tip a dinner" = "Dricksa en middag";
-"Tip Keka a dinner so it keeps rolling" = "Ge Keka en middag så den fortsätter snurra";
-"Tip a bunch of food" = "Dricksa en massa mat";
-"Tip Keka a bunch of food to keep rolling" = "Ge Keka en hög med mat för att fortsätta snurra";
+"Tip a dinner" = "Ge en middag i dricks";
+"Tip Keka a dinner so it keeps rolling" = "Ge Keka en middag för att fortsätta snurra";
+"Tip a bunch of food" = "Ge en massa mat i dricks";
+"Tip Keka a bunch of food to keep rolling" = "Ge Keka massa mat för att fortsätta snurra";

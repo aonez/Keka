@@ -1,4 +1,4 @@
-﻿
+
 /* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
 "159.title" = "預設格式：";
 
@@ -117,7 +117,7 @@
 "1TK-Zy-623.title" = "重新命名子資料夾中辨識出的副檔名";
 
 /* Class = "NSButtonCell"; title = "Use custom tasks counter in the Dock"; ObjectID = "3cf-gN-q24"; */
-"3cf-gN-q24.title" = "Use custom tasks counter in the Dock";
+"3cf-gN-q24.title" = "在 Dock 中使用自訂作業計數器";
 
 /* Class = "NSButtonCell"; title = "Show icon in primary item"; ObjectID = "47Y-rt-2fG"; */
 "47Y-rt-2fG.title" = "顯示主要項目的圖示";
@@ -234,7 +234,7 @@
 "chn-AV-kXZ.title" = "正在檢查延伸功能狀態";
 
 /* Class = "NSButtonCell"; title = "Use squish face when working"; ObjectID = "dOj-2Z-1kb"; */
-"dOj-2Z-1kb.title" = "Use squish face when working";
+"dOj-2Z-1kb.title" = "工作時使用 squish face";
 
 /* Class = "NSTextFieldCell"; title = "Compressing multiple files:"; ObjectID = "dhi-qv-weg"; */
 "dhi-qv-weg.title" = "壓縮多個檔案：";
@@ -270,7 +270,7 @@
 "pXT-7y-9af.title" = "永遠解壓縮至子檔案夾";
 
 /* Class = "NSButtonCell"; title = "Differentiate between active and total tasks in the Dock"; ObjectID = "qrX-WU-mLd"; */
-"qrX-WU-mLd.title" = "Differentiate between active and total tasks in the Dock";
+"qrX-WU-mLd.title" = "區分 Dock 中的活躍和總計作業數";
 
 /* Class = "NSButtonCell"; title = "Show Keka actions in Finder's contextual menu"; ObjectID = "rP2-XR-ZQt"; */
 "rP2-XR-ZQt.title" = "在 Finder 的特色選單顯示 Keka 動作";
