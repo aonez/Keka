@@ -76,7 +76,7 @@ $content_changelog_firstpublic = "最初の公開リリース:";
 
 // 404
 $content_404 = "ページが見つかりません";
-$content_404_start = "<a href=\"https://www.keka.io\">スタートページ</a>に行くことが可能です。";
+$content_404_start = "<a href=\"https://www.keka.io\">スタートページ</a>に行くことが可能です";
 $content_404_more = "それともお探しのものはこれでしょうか？";
 
 // Bottom info

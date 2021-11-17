@@ -76,7 +76,7 @@ $content_changelog_firstpublic = "Primo rilascio pubblico:";
 
 // 404
 $content_404 = "La pagina non può essere trovata";
-$content_404_start = "Puoi andare alla <a href=\"https://www.keka.io/it\">pagina iniziale</a>,";
+$content_404_start = "Puoi andare alla <a href=\"https://www.keka.io/it\">pagina iniziale</a>";
 $content_404_more = "o forse stavi cercando questo?";
 
 // Bottom info

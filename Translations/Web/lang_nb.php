@@ -76,7 +76,7 @@ $content_changelog_firstpublic = "Første lanserte versjon:";
 
 // 404
 $content_404 = "Siden ble ikke funnet";
-$content_404_start = "Du kan gå til <a href=\"https://www.keka.io\">forsiden</a>,";
+$content_404_start = "Du kan gå til <a href=\"https://www.keka.io\">forsiden</a>";
 $content_404_more = "eller kanskje det er dette du vil?";
 
 // Bottom info

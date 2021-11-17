@@ -21,7 +21,7 @@ $content_issues = "Problemas";
 $content_help = "Ajuda";
 $content_forum = "Fórum";
 $content_changelog = "Histórico de alterações";
-$content_title = "o compactador de ficheiros para macOS";
+$content_title = "O compactador de ficheiros para macOS";
 
 // Download
 $content_platform = "Requer $version_replace ou posterior";
@@ -77,9 +77,9 @@ $content_changelog_entry_title = "Alterações na versão";
 $content_changelog_firstpublic = "Primeiro lançamento público:";
 
 // 404
-$content_404 = "Página não encontrada.";
-$content_404_start = "Pode visitar a <a href=\"https://www.keka.io/pt\">página principal</a>.";
-$content_404_more = "ou talvez queira ↓";
+$content_404 = "Página não encontrada";
+$content_404_start = "Pode visitar a <a href=\"https://www.keka.io/pt\">página principal</a>";
+$content_404_more = "Ou talvez queira:";
 
 // Bottom info
 $content_bottom_copying = 'Todos os direitos reservados.';

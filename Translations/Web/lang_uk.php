@@ -76,7 +76,7 @@ $content_changelog_firstpublic = "Перший публічний реліз:";
 
 // 404
 $content_404 = "Сторінку не знайдено";
-$content_404_start = "Вы можете перейти на <a href=\"https://www.keka.io\">головну</a>,";
+$content_404_start = "Вы можете перейти на <a href=\"https://www.keka.io\">головну</a>";
 $content_404_more = "або, може, ви шукаєте це?";
 
 // Bottom info

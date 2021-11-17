@@ -82,7 +82,7 @@ $content_changelog_firstpublic = "首個公開發佈版本：";
 
 // 404
 $content_404 = "找不到頁面";
-$content_404_start = "您可以前往<a href=\"https://www.keka.io\">首頁</a>，";
+$content_404_start = "您可以前往<a href=\"https://www.keka.io\">首頁</a>";
 $content_404_more = "或者您想要這個？";
 
 // Bottom info

@@ -81,7 +81,7 @@ $content_changelog_firstpublic = "Lần đầu tiên phát hành chính thức:"
 
 // 404
 $content_404 = "Không thể tìm thấy trang này";
-$content_404_start = "Bạn có thể truy cập vào <a href=\"https://www.keka.io\">trang bắt đầu</a>,";
+$content_404_start = "Bạn có thể truy cập vào <a href=\"https://www.keka.io\">trang bắt đầu</a>";
 $content_404_more = "hay bạn muốn nhìn 404 hoài nhỉ?";
 
 // Bottom info

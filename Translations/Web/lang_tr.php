@@ -76,7 +76,7 @@ $content_changelog_firstpublic = "İlk halka duyurma:";
 
 // 404
 $content_404 = "Sayfa bulunamadı";
-$content_404_start = "<a href=\"https://www.keka.io\">Başlangıç sayfasına</a> gidebilir,";
+$content_404_start = "<a href=\"https://www.keka.io\">Başlangıç sayfasına</a> gidebilir";
 $content_404_more = "ya da belki bunu istiyorsun?";
 
 // Bottom info

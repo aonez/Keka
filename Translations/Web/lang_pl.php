@@ -76,8 +76,8 @@ $content_changelog_firstpublic = "Pierwsza publiczna wersja programu:";
 
 // 404
 $content_404 = "Nie znaleziono strony";
-$content_404_start = "Wróć na <a href=\"https://www.keka.io\">stronę głowną</a>.";
-$content_404_more = "Sprawdź też... ↓";
+$content_404_start = "Wróć na <a href=\"https://www.keka.io\">stronę głowną</a>";
+$content_404_more = "Sprawdź też:";
 
 // Bottom info
 $content_bottom_copying = 'Wszystkie prawa zastrzeżone.';
