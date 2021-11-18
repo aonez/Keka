@@ -1,7 +1,7 @@
-"Open with Keka" = "Open with Keka";
-"Compress here" = "Compress here";
-"Compress to..." = "Compress to...";
-"Extract here" = "Extract here";
-"Extract to..." = "Extract to...";
-"Extract to \"%@\"" = "Extract to \"%@\"";
-"Compress with Keka" = "Compress with Keka";
+"Open with Keka" = "Keka ile aç";
+"Compress here" = "Burada sıkıştır";
+"Compress to..." = "Buraya sıkıştır ...";
+"Extract here" = "Burada çıkar";
+"Extract to..." = "Buraya çıkar ...";
+"Extract to \"%@\"" = "\"%@\" dizinine çıkar";
+"Compress with Keka" = "Keka ile sıkıştır";
