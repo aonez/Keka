@@ -3,7 +3,7 @@
 //
 //
 // Language: Swedish
-$content_language_locale = "svn";
+$content_language_locale = "sv";
 // Translated by Linus Wileryd 
 //
 //
