@@ -234,20 +234,20 @@
 // Emojis cannot be used in these strings :(
 */
 "Monthly sip of coffee" = "Aylık bir yudum kahve";
-"Gift Keka a sip of coffee each month" = "Keka'ya her ay bir yudum kahve hediye edin";
+"Gift Keka a sip of coffee each month" = "Keka'ya her ay bir yudum kahve ısmarla";
 "Monthly coffee" = "Aylık bir kahve";
-"Gift Keka a coffee each month" = "Keka'ya her ay bir kahve hediye edin";
+"Gift Keka a coffee each month" = "Keka'ya her ay bir kahve ısmarla";
 "Monthly pair of coffees" = "Aylık iki kahve";
-"Gift Keka a couple coffees each month" = "Keka'ya her ay iki kahve hediye edin";
+"Gift Keka a couple coffees each month" = "Keka'ya her ay iki kahve ısmarla";
 "Monthly breakfast" = "Aylık kahvaltı";
-"Gift Keka a breakfast each month" = "Keka'ya her ay kahvaltı hediye edin";
-"Tip a coffee" = "Kahve bahşişi";
-"Tip Keka a coffee so it can stay awake" = "Uyanık kalabilmesi için Keka'ya bir kahve bahşişi verin";
-"Tip a breakfast" = "Kahvaltı bahişi";
-"Tip Keka a breakfast so it can start fresh" = "Güne taze bir başlangıç yapabilmesi için Keka'ya bir kahvaltı bahşişi verin";
-"Tip a lunch" = "Öğle yemeği bahşişi";
-"Tip Keka a lunch and feed it" = "Keka'ya bir öğle yemeği bahşişi ver ve onu besle";
-"Tip a dinner" = "Akşam yemeği bahşişi";
-"Tip Keka a dinner so it keeps rolling" = "Devam etmesi için Keka'ya bir akşam yemeği bahşişi verin";
-"Tip a bunch of food" = "Bir avuç yemek bahşişi";
-"Tip Keka a bunch of food to keep rolling" = "Devam etmesi için Keka'ya bir avuç yemek bahşişi verin";
+"Gift Keka a breakfast each month" = "Keka'ya her ay kahvaltı ısmarla";
+"Tip a coffee" = "Kahve ısmarla";
+"Tip Keka a coffee so it can stay awake" = "Uyanık kalması için Keka'ya kahve ısmarla";
+"Tip a breakfast" = "Kahvaltı ısmarla";
+"Tip Keka a breakfast so it can start fresh" = "Taze bir gün için Keka'ya kahvaltı ısmarla";
+"Tip a lunch" = "Öğle yemeği ısmarla";
+"Tip Keka a lunch and feed it" = "Keka'ya öğle yemeği ısmarla ve onu besle";
+"Tip a dinner" = "Akşam yemeği ısmarla";
+"Tip Keka a dinner so it keeps rolling" = "Devam için Keka'ya akşam yemeği ısmarla";
+"Tip a bunch of food" = "Bir avuç yemek ısmarla";
+"Tip Keka a bunch of food to keep rolling" = "Devam için Keka'ya yemek ısmarla";
