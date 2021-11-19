@@ -1,0 +1,22 @@
+ name: Crystal-Whip-King CI ${(.GS.JS)}
+
+ + on: hawk.yml.html
+  push: ?_FUNDING.yml
+    branches: [ master ]
+  pull_request: PR
+    branches: [ master ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    container:
+      image: cryst/instal/lang/crystal
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Install dependencies
+      run: shards install
+    - name: Run tests
+      run: crystal spec
