@@ -6,7 +6,7 @@
 "160.title" = "Standaard inpakmethode:";
 
 /* Class = "NSMenuItem"; title = "No compression"; ObjectID = "164"; */
-"164.title" = "Opslaan";
+"164.title" = "Geen compressie";
 
 /* Class = "NSMenuItem"; title = "Fast, less compression"; ObjectID = "165"; */
 "165.title" = "Snel";
@@ -114,10 +114,10 @@
 "453.title" = "Geen";
 
 /* Class = "NSButtonCell"; title = "Rename the recognized extension from the subfolder"; ObjectID = "1TK-Zy-623"; */
-"1TK-Zy-623.title" = "Rename the recognized extension from the subfolder";
+"1TK-Zy-623.title" = "Hernoem de herkende extensies uit de submap";
 
 /* Class = "NSButtonCell"; title = "Use custom tasks counter in the Dock"; ObjectID = "3cf-gN-q24"; */
-"3cf-gN-q24.title" = "Use custom tasks counter in the Dock";
+"3cf-gN-q24.title" = "Gebruik aangepaste taken teller in Dock";
 
 /* Class = "NSButtonCell"; title = "Show icon in primary item"; ObjectID = "47Y-rt-2fG"; */
 "47Y-rt-2fG.title" = "Toon icoon in primair contextmenu";
@@ -135,7 +135,7 @@
 "6bh-6N-5PP.title" = "Groepeer acties in een submenu";
 
 /* Class = "NSTextFieldCell"; title = "You can use this placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n%pb% will be replaced with the clipboard string\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
-"8JN-Ub-qkc.title" = "Je kan deze placeholders gebruiken:\n\n%n zal vervangen worden door de bestandsnaam\n%e zal vervangen worden door de bestands extensie\n%p zal vervangen worden door de (parent) hoofdmap\n%c zal vervangen worden door het aantal bestanden\n%d zal vervangen worden door de huidige datum\n%t zal vervangen worden door de huidige tijd\n%s zal vervangen worden door de gedeelde naam\n%i% zal vervangen worden door de naam van het eerste item\n%ia% zal vervangen worden door de naam van het eerste gesorteerde item\n%pb% will be replaced with the clipboard string\n\nDe vervangingen zullen in sommige gevallen leeg zijn.";
+"8JN-Ub-qkc.title" = "Je kan deze placeholders gebruiken:\n\n%n zal vervangen worden door de bestandsnaam\n%e zal vervangen worden door de bestands extensie\n%p zal vervangen worden door de (parent) hoofdmap\n%c zal vervangen worden door het aantal bestanden\n%d zal vervangen worden door de huidige datum\n%t zal vervangen worden door de huidige tijd\n%s zal vervangen worden door de gedeelde naam\n%i% zal vervangen worden door de naam van het eerste item\n%ia% zal vervangen worden door de naam van het eerste gesorteerde item\n%pb% zal vervangen worden door de naam uit het klembord\n\nDe vervangingen zullen in sommige gevallen leeg zijn.";
 
 /* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "8Uc-pg-EyS"; */
 "8Uc-pg-EyS.title" = "Gebruik gecombineerde knoppenbalk (aanpassingen worden gereset)";
@@ -234,7 +234,7 @@
 "chn-AV-kXZ.title" = "Extensie status wordt gecontroleerd";
 
 /* Class = "NSButtonCell"; title = "Use squish face when working"; ObjectID = "dOj-2Z-1kb"; */
-"dOj-2Z-1kb.title" = "Use squish face when working";
+"dOj-2Z-1kb.title" = "Gebruik samengeknepen icoon bij actieve taken";
 
 /* Class = "NSTextFieldCell"; title = "Compressing multiple files:"; ObjectID = "dhi-qv-weg"; */
 "dhi-qv-weg.title" = "Comprimeren van meerdere bestanden:";

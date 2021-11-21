@@ -60,6 +60,11 @@ $content_info_extraction = "Và giải nén tất cả các định dạng sau:"
 $content_defaultapp_title = "Đặt Keka làm ứng dụng giải nén mặc định";
 $content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">cần thêm một công cụ hỗ trợ <i class="far fa-question-circle"></i></a> để thiết lập thành ứng dụng giải nén mặc định.<br />Đơn giản là tải về và giải nén, di chuyển nó đến Desktop rồi mở nó lên là được.';
 
+// Terms of use
+$content_termsofuse_title = 'Điều khoản sử dụng';
+$content_termsofuse_inapp_title = 'Mua hàng trong ứng dụng';
+$content_termsofuse_inapp = 'Phiên bản Keka trên cửa hàng App Store cung cấp tuỳ chọn Mua hàng trong ứng dụng là cách để ủng hộ và giúp đỡ tác giả phát triển phần mềm, tương tự như <a href="https://www.keka.io/#lovekeka">PayPal/Tài trợ qua website</a>. Các tuỳ chọn mua hàng này không bắt buộc và không bổ sung thêm tính năng nào cho ứng dụng.';
+
 // Privacy Policy
 $content_privacypolicy_title = 'Chính sách bảo mật';
 
@@ -76,7 +81,7 @@ $content_changelog_firstpublic = "Lần đầu tiên phát hành chính thức:"
 
 // 404
 $content_404 = "Không thể tìm thấy trang này";
-$content_404_start = "Bạn có thể truy cập vào <a href=\"https://www.keka.io\">trang bắt đầu</a>,";
+$content_404_start = "Bạn có thể truy cập vào <a href=\"https://www.keka.io\">trang bắt đầu</a>";
 $content_404_more = "hay bạn muốn nhìn 404 hoài nhỉ?";
 
 // Bottom info

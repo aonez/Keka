@@ -7,8 +7,8 @@
 "General" = "Головні";
 "File Access" = "Доступ до файлів";
 "Performance" = "Продуктивність";
-"Finder Extension" = "Finder розширення";
-"Love" = "Love";
+"Finder Extension" = "Розширення для Finder";
+"Love" = "Підтримати проєкт";
 "OK" = "OK";
 "Done" = "Виконано";
 "Yes" = "Так";
@@ -18,7 +18,7 @@
 "Not now" = "Не зараз";
 "Want to make Keka your default compressor?" = "Хочете зробити Keka компресором за замовчуванням?";
 "This means that all the compatible files will be extracted with Keka by now. You can set this later in the Keka Preferences." = "Це означає, що всі сумісні файли будуть розпаковані за допомогою Keka. Ви можете встановити цей параметр пізніше в налаштуваннях Keka.";
-"Really want to close Keka?" = "Чи дійсно хочеться закрити Keka?";
+"Really want to close Keka?" = "Ви дійсно хочете закрити Keka?";
 "The current operations will be canceled. If you choose to wait and quit Keka will exit when all work is done." = "Поточні операції будуть скасовані. Якщо ви вирішите зачекати і вийти — Keka вийде коли буде виконана вся робота.";
 "Password needed" = "Потрібен пароль";
 "File \"%@\" needs a password to be extracted" = "Файлу \"%@\" потрібен пароль для розпакування";
@@ -33,7 +33,7 @@
 "Compression fail" = "Не вдалося стиснути";
 "File \"%@\" cannot be created" = "Файл \"%@\" неможливо створити";
 "\n(using fallback folder)" = "\n(using fallback folder)";
-"Operation not implemented" = "Операція не реалізована";
+"Operation not implemented" = "Операція не виконана";
 "Performing operation..." = "Виконання операції...";
 "Waiting..." = "Очікування...";
 "Extracting \"%@\"" = "Розпаковування \"%@\"";
@@ -60,8 +60,8 @@
 "Creation of \"%@\" failed" = "Створення \"%@\" не вдалося";
 "Creating \"%@\"" = "Створення \"%@\"";
 "Preparing extraction..." = "Підготовка розпаковування…";
-"Choose a folder to extract this file" = "Виберіть папку, щоб витягти цей файл";
-"Choose where do you want to extract \"%@\"" = "Виберіть, куди ви хочете витягти \"%@\"";
+"Choose a folder to extract this file" = "Виберіть папку, щоб розпакувати цей файл";
+"Choose where do you want to extract \"%@\"" = "Виберіть, куди ви хочете розпакувати \"%@\"";
 "Select all the volumes from \"%@\" or the folder that contains them" = "Виділіть усі томи з \"%@\" або папку, яка їх містить";
 "Select the folder that contains \"%@\"" = "Виберіть папку, яка містить \"%@\"";
 "Extraction of \"%@\" failed" = "Розпакування \"%@\" не вдалося";
@@ -74,7 +74,7 @@
 "Compress in %@ to..." = "Стиснути в %@ до...";
 "Save as:" = "Зберегти як:";
 "Compress" = "Стиснути";
-"Extract \"%@\" to..." = "Розпакувати \"%@\" до…";
+"Extract \"%@\" to..." = "Розпакувати \"%@\" до...";
 "Extract as:" = "Розпакувати як:";
 "Extract" = "Розпакувати";
 "About %i seconds" = "близько %i секунд";
@@ -90,7 +90,7 @@
 "About a week" = "близько 1 тиждень";
 "About a month" = "близько 1 місяць";
 "About a year" = "близько 1 року";
-"Finishing..." = "Finishing...";
+"Finishing..." = "Завершення...";
 "Can't show progress time..." = "Неможливо показати час прогресу...";
 "Password for \"%@\"" = "Пароль для \"%@\"";
 "Format" = "Формат";
@@ -115,12 +115,12 @@
 "Set as default folder" = "Встановити папку за умовчанням";
 "Perform automatic action" = "Виконати автоматичну дію";
 "Always compress" = "Завжди стискати";
-"Always extract" = "Завжди витягувати";
+"Always extract" = "Завжди розпаковувати";
 "1.4 MB Floppy" = "1.4 MB Дискета";
 "650 MB CD" = "650 MB CD";
 "700 MB CD" = "700 MB CD";
 "4.7 GB DVD" = "4.7 GB DVD";
-"Drop here to extract" = "Залиште тут, щоб витягти";
+"Drop here to extract" = "Залиште тут, щоб розпакувати";
 "Drop here to compress" = "Залиште тут, щоб стиснути";
 "Binary \"%@\" is not accessible" = "Бінарний \"%@\" недоступний";
 "The first part \"%@\" can't be found" = "Перша частина \"%@\" не знайдена";
@@ -128,7 +128,7 @@
 "unknown" = "невідомо";
 "Unknown error" = "Невідома помилка";
 "Error code %d using \"%@\"\n%@" = "Код помилки %d використання \"%@\"\n%@";
-"Keka was unable to create the extraction package" = "Не вдалося створити пакет видобутку";
+"Keka was unable to create the extraction package" = "Не вдалося створити пакет розпакування";
 "No errors found" = "Не знайдено жодних помилок";
 "Minor error, the operation may be done well" = "Незначна помилка, операція може бути завершена";
 "Fatal error" = "Фатальна помилка";
@@ -145,7 +145,7 @@
 "Write error. No permission? No space left?" = "Помилка запису. Немає дозволу? Не залишилося місця?";
 "Can't open the file, maybe it's not accessible" = "Не вдається відкрити файл, можливо, він недоступний";
 "No files matching the mask" = "Немає файлів, що відповідають масці";
-"There were some read errors" = "There were some read errors";
+"There were some read errors" = "Були деякі помилки читання";
 "Give access" = "Надати доступ";
 "Just folder access" = "Просто доступ до папки";
 "Quit" = "Вийти";
@@ -167,8 +167,8 @@
 "External disk: %@" = "Зовнішній диск: %@";
 "An extension is required" = "Потрібно розширення";
 "In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "Щоб встановити програму Keka як програму за умовчанням, потрібно встановити розширення. Натисніть на \"Більше інформації\" щоб виконати необхідні кроки.\n\nПам'ятайте, що ви завжди можете встановити Keka як програму за замовчуванням для будь-якого формату за допомогою Finder, панель \"Отримати інформацію\".";
-"Your installed extension is obsolete and you should update it." = "Your installed extension is obsolete and you should update it.";
-"Update" = "Update";
+"Your installed extension is obsolete and you should update it." = "Встановлене вами розширення застаріло, вам слід його оновити.";
+"Update" = "Оновити";
 "Cannot set Keka as default" = "Неможливо встановити Keka за умовчанням";
 "The intermediate application failed to launch. There is more information in the Console.app." = "Не вдалося запустити проміжну програму. Більше інформації в Console.app.";
 "The intermediate application returned an undefined code." = "Проміжний додаток повернув невизначений код.";
@@ -177,8 +177,8 @@
 "There were some errors while registering the formats. There is more information in the Console.app." = "Були деякі помилки під час реєстрації форматів. Більше інформації в Console.app.";
 "The intermediate application can't get access to Keka." = "Проміжний додаток не може отримати доступ до Keka.";
 "The intermediate application can't find Keka." = "Проміжний додаток не може знайти Keka.";
-"Show in Finder" = "Show in Finder";
-"Delete" = "Delete";
+"Show in Finder" = "Показати у Finder";
+"Delete" = "Видалити";
 "Continue without encryption" = "Продовжити без шифрування";
 "The password does not match" = "Паролі не Continue without encryption";
 "The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption." = "Пароль встановлений неправильно, тому файл не можна зашифрувати. Ви можете скасувати та встановити пароль ще раз або продовжити процес без шифрування.";
@@ -209,21 +209,21 @@
 "Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka не має доступу до файлу цільової папки, тому йому потрібно запитати місце розташування. \nВи можете додати доступ до цієї та інших папок на панелі доступу Keka до файлів \"Налаштування\".";
 "The characters %@ are not compatible with the %@ format" = "Символи %@ не сумісні з форматом %@";
 "The character %@ is not compatible with the %@ format" = "Символ %@ не сумісний із форматом %@";
-"Stop compressing" = "Stop compressing";
-"Stop extracting" = "Stop extracting";
-"Resume compressing" = "Resume compressing";
-"Resume extracting" = "Resume extracting";
-"Pause compressing" = "Pause compressing";
-"Pause extracting" = "Pause extracting";
-"Compression paused" = "Compression paused";
-"Extraction paused" = "Extraction paused";
-"Waiting for password" = "Waiting for password";
-"On queue" = "On queue";
-"Applying quarantine..." = "Applying quarantine...";
+"Stop compressing" = "Зупинити стиснення";
+"Stop extracting" = "Зупинити розпакування";
+"Resume compressing" = "Відновити стиснення";
+"Resume extracting" = "Відновити розпакування";
+"Pause compressing" = "Призупинити стиснення";
+"Pause extracting" = "Призупинити розпакування";
+"Compression paused" = "Стиснення призупинено";
+"Extraction paused" = "Розпакування призупинено";
+"Waiting for password" = "Очікування пароля";
+"On queue" = "У черзі";
+"Applying quarantine..." = "Застосування карантину...";
 "%@.\n\nPlease get in contact with the developers." = "%@.\n\nбудь ласка зверніться до розробників.";
-"Report" = "Report";
-"Report via mail" = "Report via mail";
-"Review Keka ★★★★★" = "Review Keka ★★★★★";
+"Report" = "Звіт";
+"Report via mail" = "Повідомити по електронній пошті";
+"Review Keka ★★★★★" = "Оцінити Keka ★★★★★";
 
 /*
 // MAS tips
@@ -242,12 +242,12 @@
 "Monthly breakfast" = "Щомісячний сніданок";
 "Gift Keka a breakfast each month" = "Подаруйте Keka щомісячний сніданок";
 "Tip a coffee" = "Чайові на каву";
-"Tip Keka a coffee so it can stay awake" = "Дайте Keka кави, щоб вона могла не спати";
+"Tip Keka a coffee so it can stay awake" = "Дайте Keka кави, щоб можна було не спати";
 "Tip a breakfast" = "Чайові на сніданок";
-"Tip Keka a breakfast so it can start fresh" = "Дайте Keka сніданок, щоб почати все з чистого аркуша";
+"Tip Keka a breakfast so it can start fresh" = "Дайте Keka сніданок, щоб почати все по-новому";
 "Tip a lunch" = "Чайові на обід";
-"Tip Keka a lunch and feed it" = "Дайте Keka обід";
+"Tip Keka a lunch and feed it" = "Подарувати Keka обід і нагодувати ії";
 "Tip a dinner" = "Чайові на вечерю";
-"Tip Keka a dinner so it keeps rolling" = "Дайте Keka вечерю, щоб продовжувати працювати";
-"Tip a bunch of food" = "Tip a bunch of food";
-"Tip Keka a new bunch of food to keep rolling" = "Дайте Keka купу їжі, щоб продовжувати працювати";
+"Tip Keka a dinner so it keeps rolling" = "Дайте Keka вечерю, щоб продовжити роботу";
+"Tip a bunch of food" = "Подаруйте купу їжі";
+"Tip Keka a bunch of food to keep rolling" = "Дайте Keka купу їжі, щоб продовжити роботу";

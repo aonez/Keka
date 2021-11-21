@@ -4,12 +4,12 @@
 //
 // Language: Russian
 $content_language_locale = "ru";
-// Translated by NickKaramoff (nick@karamoff.ru)
+// Translated by Nikita Karamov (me@kytta.dev)
 //
 //
 // Set $show_content_bottom_translator as true if you want to appear in the bottom of the page
 $show_content_bottom_translator = true;
-$content_bottom_translator = 'Перевёл <a href="https://karamoff.ru">Никита Карамов</a>.';
+$content_bottom_translator = 'Перевёл <a href="https://www.kytta.dev/">Никита Карамов</a>.';
 //
 //
 
@@ -76,7 +76,7 @@ $content_changelog_firstpublic = "Первый публичный релиз:";
 
 // 404
 $content_404 = "Страница не найдена";
-$content_404_start = "Вы можете перейти на <a href=\"https://www.keka.io\">главную</a>,";
+$content_404_start = "Вы можете перейти на <a href=\"https://www.keka.io\">главную</a>";
 $content_404_more = "или, может, вы ищете это?";
 
 // Bottom info
