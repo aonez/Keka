@@ -5,6 +5,7 @@
 /* Use the _PREFERENCES_EXTRA_WIDTH_ (if needed) to fit the action to perform description properly */
 "_PREFERENCES_EXTRA_WIDTH_" = "0.0";
 "General" = "Головні";
+"Appearance" = "Вигляд";
 "File Access" = "Доступ до файлів";
 "Performance" = "Продуктивність";
 "Finder Extension" = "Розширення для Finder";
