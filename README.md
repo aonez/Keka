@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="256" height="256" src="https://www.keka.io/img/Keka-Square-512x512.png"><br />
+  <a href="#"><img width="256" height="256" src="https://www.keka.io/img/Keka-Square-512x512.png" /></a>
 </p>
 
 # Keka
