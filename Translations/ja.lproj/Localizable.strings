@@ -5,7 +5,7 @@
 /* Use the _PREFERENCES_EXTRA_WIDTH_ (if needed) to fit the action to perform description properly */
 "_PREFERENCES_EXTRA_WIDTH_" = "0.0";
 "General" = "一般";
-"Appearance" = "外観モ";
+"Appearance" = "外観モード";
 "File Access" = "ファイルアクセス";
 "Performance" = "パフォーマンス";
 "Finder Extension" = "Finder 拡張機能";
@@ -23,7 +23,7 @@
 "The current operations will be canceled. If you choose to wait and quit Keka will exit when all work is done." = "実行中の動作は中止されます。「待機」を選ぶと操作が完了する時に Keka は終了します。";
 "Password needed" = "パスワードは必要";
 "File \"%@\" needs a password to be extracted" = "\"%@\" を解凍できるようにパスワードを使用する必要があります。";
-"File \"%@\" needs a special encoding to be extracted" = "File \"%@\" needs a special encoding to be extracted";
+"File \"%@\" needs a special encoding to be extracted" = "ファイル \"%@\" の抽出には特殊なエンコーディングが必要です";
 "Extraction of \"%@\" done" = "\"%@\" は解凍されました。";
 "Extraction of \"%@\" failed." = "\"%@\" は解凍できませんでした。";
 "Extraction of %i files done" = "%i の展開が完了しました";
@@ -33,7 +33,7 @@
 "File \"%@\" created" = "ファイル \"%@\" は作成されました";
 "Compression fail" = "圧縮できませんでした";
 "File \"%@\" cannot be created" = "ファイル \"%@\" は作成できません。";
-"\n(using fallback folder)" = "\n(using fallback folder)";
+"\n(using fallback folder)" = "\n(フォールバックフォルダの使用)";
 "Operation not implemented" = "機能が実装されていません。";
 "Performing operation..." = "操作中...";
 "Waiting..." = "待機中...";
@@ -43,7 +43,7 @@
 "Creating file \"%@\"" = "\"%@\" を作成中";
 "Creating file \"%@...\"" = "\"%@...\" を作成中";
 "Volume name:" = "ボリューム名:";
-"Select the encoding for \"%@\"" = "Select the encoding for \"%@\"";
+"Select the encoding for \"%@\"" = "\"%@\" のエンコーディングを選択";
 "Time elapsed: %d:%@%d:%@%d hours%@" = "経過時間:  %d時間%@%d分%@%d秒%@";
 "Time elapsed: %d:%@%d minutes%@" = "経過時間:  %d分%@%d秒%@";
 "Time elapsed: %d seconds%@" = "経過時間:  %d秒%@";
@@ -63,14 +63,14 @@
 "Preparing extraction..." = "解凍の準備をしています…";
 "Choose a folder to extract this file" = "解凍先のフォルダを選んでください";
 "Choose where do you want to extract \"%@\"" = "\"%@\" の展開先を選択";
-"Select all the volumes from \"%@\" or the folder that contains them" = "Select all the volumes from \"%@\" or the folder that contains them";
-"Select the folder that contains \"%@\"" = "Select the folder that contains \"%@\"";
+"Select all the volumes from \"%@\" or the folder that contains them" = "\"%@\" からすべてのボリュームを選択するか、またはそれらを含むフォルダを選択する";
+"Select the folder that contains \"%@\"" = "\"%@\" を含むフォルダを選択";
 "Extraction of \"%@\" failed" = "\"%@\" を解凍はできませんでした。";
 "Keka - %i on queue" = "Keka - 残りの項目: %i個";
 "Keka can't create this %@ image" = "%@ イメージを作成できません。";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "１つのフォルダーのみを使用して %@ が作成できます。すべてのファイルを１つのフォルダに入れてから、そのフォルダを Keka にドラッグして %@ を作成してください。";
-"Keka can't create this @% tarball" = "Keka can't create this @% tarball";
-"This operation is not supported on %@." = "This operation is not supported on %@.";
+"Keka can't create this @% tarball" = "Kekaは @% のtarballを作成できません";
+"This operation is not supported on %@." = "この操作は %@ には対応していません。";
 "Compress \"%@\" in %@ to..." = "\"%@\" の %@ 形式の保存先未設定";
 "Compress in %@ to..." = "%@ 形式の保存先未設定";
 "Save as:" = "名前:";
@@ -123,13 +123,13 @@
 "4.7 GB DVD" = "4.7GBのDVD";
 "Drop here to extract" = "ここにドラッグして解凍";
 "Drop here to compress" = "ここにドラッグして圧縮";
-"Binary \"%@\" is not accessible" = "Binary \"%@\" is not accessible";
+"Binary \"%@\" is not accessible" = "バイナリ \"%@\" にはアクセスできません";
 "The first part \"%@\" can't be found" = "\"%@\" の最初の部分が見つかりません。";
-"Unable to extract a folder" = "Unable to extract a folder";
+"Unable to extract a folder" = "フォルダの解凍ができません";
 "unknown" = "不明";
 "Unknown error" = "不明なエラーが起きました";
 "Error code %d using \"%@\"\n%@" = "エラーコード %d\n\"%@\"を使用中に%@";
-"Keka was unable to create the extraction package" = "Keka was unable to create the extraction package";
+"Keka was unable to create the extraction package" = "Kekaは抽出パッケージを作ることができませんでした";
 "No errors found" = "エラーは見つかりませんでした";
 "Minor error, the operation may be done well" = "小さな問題が見つかりましたが、操作は成功した可能性はあります。";
 "Fatal error" = "回復不可能なエラーが起きました";
