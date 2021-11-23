@@ -3,5 +3,5 @@
 "Compress to..." = "圧縮先・・・";
 "Extract here" = "ここに展開";
 "Extract to..." = "展開先・・・";
-"Extract to \"%@\"" = "Extract to \"%@\"";
+"Extract to \"%@\"" = "\"%@\"へ抽出";
 "Compress with Keka" = "Kekaで圧縮";
