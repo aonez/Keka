@@ -24,7 +24,7 @@
 "HpM-0q-Enu.title" = "すべてを表示";
 
 /* Class = "NSMenuItem"; title = "Enable debug information"; ObjectID = "IkK-ST-X3F"; */
-"IkK-ST-X3F.title" = "Enable debug information";
+"IkK-ST-X3F.title" = "デバッグ情報の有効化";
 
 /* Class = "NSMenuItem"; title = "Check for updates"; ObjectID = "K4O-VW-7FA"; */
 "K4O-VW-7FA.title" = "アップデートを確認";
@@ -57,7 +57,7 @@
 "TTb-AR-olf.title" = "ファイル";
 
 /* Class = "NSMenuItem"; title = "Keka Help"; ObjectID = "Uuy-RK-W5n"; */
-"Uuy-RK-W5n.title" = "Keka ヘルプ";
+"Uuy-RK-W5n.title" = "Kekaのヘルプ";
 
 /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "W9M-Wy-dHU"; */
 "W9M-Wy-dHU.title" = "ペースト";
@@ -90,7 +90,7 @@
 "maF-B5-Hb6.title" = "Keka について";
 
 /* Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "nlc-UW-DRW"; */
-"nlc-UW-DRW.title" = "Revert to Saved";
+"nlc-UW-DRW.title" = "保存された状態に戻す";
 
 /* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "nvz-UK-KlM"; */
 "nvz-UK-KlM.title" = "別名で保存…";
