@@ -23,6 +23,7 @@ You will find the updated list of legacy versions in the Keka website at https:/
 
 - [Issues](https://github.com/aonez/Keka/issues) - look for open ones, [create](https://github.com/aonez/Keka/issues/new) a new one.
 - [Wiki](https://github.com/aonez/Keka/wiki) - learn and share Keka knowledge.
+- [Discussions](https://github.com/aonez/Keka/discussions) - chat about Keka with others and share your ideas.
 - [Releases](https://github.com/aonez/Keka/releases) - download an specific version.
 - [Translations](Translations/) - keep Keka multilingual and well spoken :)
 
@@ -30,6 +31,6 @@ This repository is used mainly to take care of [Issues](https://github.com/aonez
 
 If you have a problem or a request just search the [Issues](https://github.com/aonez/Keka/issues) for similar ones or [create](https://github.com/aonez/Keka/issues/new) a new one.
 
-If you'll like to chat and you think the [Issues](https://github.com/aonez/Keka/issues) section is not the right place, just head to the [Discussions](https://discussions.keka.io) section.
+If you'll like to chat and you think the [Issues](https://github.com/aonez/Keka/issues) section is not the right place, just head to the [Discussions](https://github.com/aonez/Keka/discussions) section.
 
 Also head to [Releases](https://github.com/aonez/Keka/releases) if you need a concrete version not found on the [Keka website](https://www.keka.io).
