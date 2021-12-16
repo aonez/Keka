@@ -17,7 +17,7 @@ $content_bottom_translator = 'Translated by <a href="https://yoursite.or.email.o
 $content_download = "Download";
 $content_issues = "Issues";
 $content_help = "Help";
-$content_forum = "Forum";
+$content_forum = "Discussions";
 $content_changelog = "Changelog";
 $content_title = "the macOS file archiver";
 
