@@ -27,6 +27,9 @@ $content_download_text = "Зберігайте більше, ділітесь б
 $content_download_love = "Сподобалося?";
 $content_download_legacy = "Більш ранні версії";
 $content_download_helper = "Helper";
+$content_downloading = "Downloading ";
+$content_downloading_if_fails = "If the download does not start automatically ";
+$content_downloading_if_fails_click_here = " click here";
 
 // Like
 $content_donation_button = "пожертвувати";
@@ -78,6 +81,9 @@ $content_changelog_firstpublic = "Перший публічний реліз:";
 $content_404 = "Сторінку не знайдено";
 $content_404_start = "Вы можете перейти на <a href=\"https://www.keka.io\">головну</a>";
 $content_404_more = "або, може, ви шукаєте це?";
+
+// Maintenance
+$content_maintenance = "Will be back soon";
 
 // Bottom info
 $content_bottom_copying = 'Всі права захищені.';

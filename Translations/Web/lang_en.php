@@ -27,6 +27,9 @@ $content_download_text = "Store more, share with privacy";
 $content_download_love = "Like it?";
 $content_download_legacy = "Legacy";
 $content_download_helper = "Helper";
+$content_downloading = "Downloading ";
+$content_downloading_if_fails = "If the download does not start automatically ";
+$content_downloading_if_fails_click_here = " click here";
 
 // Like
 $content_donation_button = "Donate";
@@ -84,6 +87,9 @@ $content_changelog_firstpublic = "First public release:";
 $content_404 = "The page can’t be found";
 $content_404_start = "You can go to the <a href=\"https://www.keka.io\">start page</a>";
 $content_404_more = "or maybe you want this?";
+
+// Maintenance
+$content_maintenance = "Will be back soon";
 
 // Bottom info
 $content_bottom_copying = 'All rights reserved.';

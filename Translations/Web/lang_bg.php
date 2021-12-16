@@ -27,6 +27,9 @@ $content_download_text = "Съхрани повече, сподели повер
 $content_download_love = "Харесва ли ти?";
 $content_download_legacy = "Стари версии";
 $content_download_helper = "Helper";
+$content_downloading = "Downloading ";
+$content_downloading_if_fails = "If the download does not start automatically ";
+$content_downloading_if_fails_click_here = " click here";
 
 // Like
 $content_donation_button = "Направи дарение";
@@ -78,6 +81,9 @@ $content_changelog_firstpublic = "Първата публична версия:"
 $content_404 = "Страницата не може да бъде намерена";
 $content_404_start = "Можете да отидете на <a href=\"https://www.keka.io\">началната страница</a>";
 $content_404_more = "или искаш това?";
+
+// Maintenance
+$content_maintenance = "Will be back soon";
 
 // Bottom info
 $content_bottom_copying = 'Всички права запазени.';

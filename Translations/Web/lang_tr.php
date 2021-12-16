@@ -27,6 +27,9 @@ $content_download_text = "Daha fazla saklama, gizlilikle paylaşma";
 $content_download_love = "Beğendin mi?";
 $content_download_legacy = "Eski sürüm";
 $content_download_helper = "Yardımcı";
+$content_downloading = "Downloading ";
+$content_downloading_if_fails = "If the download does not start automatically ";
+$content_downloading_if_fails_click_here = " click here";
 
 // Like
 $content_donation_button = "Bağış yap";
@@ -78,6 +81,9 @@ $content_changelog_firstpublic = "İlk halka duyurma:";
 $content_404 = "Sayfa bulunamadı";
 $content_404_start = "<a href=\"https://www.keka.io\">Başlangıç sayfasına</a> gidebilir";
 $content_404_more = "ya da belki bunu istiyorsun?";
+
+// Maintenance
+$content_maintenance = "Will be back soon";
 
 // Bottom info
 $content_bottom_copying = 'Her hakkı saklıdır.';
