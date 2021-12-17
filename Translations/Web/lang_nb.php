@@ -27,6 +27,9 @@ $content_download_text = "Arkiver mer, del trygt";
 $content_download_love = "Liker du det?";
 $content_download_legacy = "Foreldet";
 $content_download_helper = "Hjelper";
+$content_downloading = "Downloading ";
+$content_downloading_if_fails = "If the download does not start automatically ";
+$content_downloading_if_fails_click_here = " click here";
 
 // Like
 $content_donation_button = "Doner";
@@ -78,6 +81,9 @@ $content_changelog_firstpublic = "Første lanserte versjon:";
 $content_404 = "Siden ble ikke funnet";
 $content_404_start = "Du kan gå til <a href=\"https://www.keka.io\">forsiden</a>";
 $content_404_more = "eller kanskje det er dette du vil?";
+
+// Maintenance
+$content_maintenance = "Will be back soon";
 
 // Bottom info
 $content_bottom_copying = 'Alle rettigheter forbeholdt.';

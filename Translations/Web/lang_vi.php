@@ -27,6 +27,9 @@ $content_download_text = "Lưu trữ nhiều hơn, chia sẻ riêng tư hơn";
 $content_download_love = "Bạn thích nó chứ?";
 $content_download_legacy = "Phiên bản cũ";
 $content_download_helper = "Công cụ hỗ trợ";
+$content_downloading = "Downloading ";
+$content_downloading_if_fails = "If the download does not start automatically ";
+$content_downloading_if_fails_click_here = " click here";
 
 // Like
 $content_donation_button = "Quyên góp";
@@ -83,6 +86,9 @@ $content_changelog_firstpublic = "Lần đầu tiên phát hành chính thức:"
 $content_404 = "Không thể tìm thấy trang này";
 $content_404_start = "Bạn có thể truy cập vào <a href=\"https://www.keka.io\">trang bắt đầu</a>";
 $content_404_more = "hay bạn muốn nhìn 404 hoài nhỉ?";
+
+// Maintenance
+$content_maintenance = "Will be back soon";
 
 // Bottom info
 $content_bottom_copying = 'All rights reserved.';

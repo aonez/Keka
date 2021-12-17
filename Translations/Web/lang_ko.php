@@ -27,6 +27,9 @@ $content_download_text = "더 많은 파일을 더 안전하게 압축하고, �
 $content_download_love = "마음에 드신다면?";
 $content_download_legacy = "구 버전";
 $content_download_helper = "도움말";
+$content_downloading = "Downloading ";
+$content_downloading_if_fails = "If the download does not start automatically ";
+$content_downloading_if_fails_click_here = " click here";
 
 // Like
 $content_donation_button = "후원하기";
@@ -78,6 +81,9 @@ $content_changelog_firstpublic = "첫 공개 배포:";
 $content_404 = "페이지를 찾을 수 없습니다";
 $content_404_start = "<a href=\"https://www.keka.io\">시작 페이지</a>로 이동하거나";
 $content_404_more = "혹시 이걸 찾으시나요?";
+
+// Maintenance
+$content_maintenance = "Will be back soon";
 
 // Bottom info
 $content_bottom_copying = 'All rights reserved.';
