@@ -27,6 +27,9 @@ $content_download_text = "Przechowuj więcej i udostępniaj dane bezpiecznie.";
 $content_download_love = "Lubisz program Keka?";
 $content_download_legacy = "Poprzednie wersje";
 $content_download_helper = "Aplikacja pomocnicza";
+$content_downloading = "Downloading ";
+$content_downloading_if_fails = "If the download does not start automatically ";
+$content_downloading_if_fails_click_here = " click here";
 
 // Like
 $content_donation_button = "Wesprzyj projekt";
@@ -78,6 +81,9 @@ $content_changelog_firstpublic = "Pierwsza publiczna wersja programu:";
 $content_404 = "Nie znaleziono strony";
 $content_404_start = "Wróć na <a href=\"https://www.keka.io\">stronę głowną</a>";
 $content_404_more = "Sprawdź też:";
+
+// Maintenance
+$content_maintenance = "Will be back soon";
 
 // Bottom info
 $content_bottom_copying = 'Wszystkie prawa zastrzeżone.';

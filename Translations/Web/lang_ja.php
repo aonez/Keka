@@ -27,6 +27,9 @@ $content_download_text = "もっと保存、安全に共有する";
 $content_download_love = "気に入りましたか?";
 $content_download_legacy = "過去のバージョン";
 $content_download_helper = "Helper";
+$content_downloading = "Downloading ";
+$content_downloading_if_fails = "If the download does not start automatically ";
+$content_downloading_if_fails_click_here = " click here";
 
 // Like
 $content_donation_button = "寄付する";
@@ -78,6 +81,9 @@ $content_changelog_firstpublic = "最初の公開リリース:";
 $content_404 = "ページが見つかりません";
 $content_404_start = "<a href=\"https://www.keka.io\">スタートページ</a>に行くことが可能です";
 $content_404_more = "それともお探しのものはこれでしょうか？";
+
+// Maintenance
+$content_maintenance = "Will be back soon";
 
 // Bottom info
 $content_bottom_copying = 'All rights reserved.';

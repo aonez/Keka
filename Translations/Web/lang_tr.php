@@ -26,7 +26,10 @@ $content_platform = "$version_replace veya daha yeni bir sürüm gerekiyor";
 $content_download_text = "Daha fazla saklama, gizlilikle paylaşma";
 $content_download_love = "Beğendin mi?";
 $content_download_legacy = "Eski sürüm";
-$content_download_helper = "Helper";
+$content_download_helper = "Yardımcı";
+$content_downloading = "Downloading ";
+$content_downloading_if_fails = "If the download does not start automatically ";
+$content_downloading_if_fails_click_here = " click here";
 
 // Like
 $content_donation_button = "Bağış yap";
@@ -57,14 +60,14 @@ $content_info_compression = "Keka bu formatlarda dosya oluşturabilir:";
 $content_info_extraction = "Ve tüm bu formatları genişletir:";
 
 // Default app
-$content_defaultapp_title = "Set Keka as the default extraction application";
-$content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">needs a helper <i class="far fa-question-circle"></i></a> to set itself as the default application.<br />Simply download and extract it, move it to the desktop and then open it.';
+$content_defaultapp_title = "Keka&apos;yı varsayılan çıkarma uygulaması olarak ayarla";
+$content_defaultapp_text = 'Keka&apos;nın <a href="https://github.com/aonez/Keka/wiki/Default-application">bir yardımcıya ihtiyacı var <i class="far fa-question-circle"></i></a> kendini varsayılan uygulama olarak ayarla.<br />Sadece indirip çıkarın, masaüstüne taşıyın ve ardından açın.';
 
 // Privacy Policy
-$content_privacypolicy_title = 'Privacy Policy';
+$content_privacypolicy_title = 'Gizlilik Politikası';
 
 // Terms of use
-$content_termsofuse_title = 'Terms of Use';
+$content_termsofuse_title = 'Kullanım Şartları';
 
 // Main content of the page
 $content_context_menu = "İçerik menüsü";
@@ -78,6 +81,9 @@ $content_changelog_firstpublic = "İlk halka duyurma:";
 $content_404 = "Sayfa bulunamadı";
 $content_404_start = "<a href=\"https://www.keka.io\">Başlangıç sayfasına</a> gidebilir";
 $content_404_more = "ya da belki bunu istiyorsun?";
+
+// Maintenance
+$content_maintenance = "Will be back soon";
 
 // Bottom info
 $content_bottom_copying = 'Her hakkı saklıdır.';
