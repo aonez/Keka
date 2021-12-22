@@ -24,7 +24,7 @@ $content_title = "Le compresseur de macOS";
 // Download
 $content_platform = "Nécessite $version_replace ou plus récent";
 $content_download_text = "Stocker plus, partager en toute confidentialité";
-$content_download_love = "Vous aimez ?";
+$content_download_love = "Vous aimez?";
 $content_download_legacy = "Ancienne";
 $content_download_helper = "Assistant";
 $content_downloading = "Téléchargement ";
@@ -33,15 +33,15 @@ $content_downloading_if_fails_click_here = " cliquer ici";
 
 // Like
 $content_donation_button = "Donner";
-$content_donation_title = 'Si vous aimez Keka, donnez lui de l\' <i class="fa fa-heart" aria-hidden="true"></i>, <br />récupérez-le depuis l\'App Store ou envoyez un pourboire PayPal !';
-$content_donation_mas = "Si vous achetez Keka depuis l\'App Store vous supporterez son développement,<br />l\'application est la même que la version de ce site Web sauf qu\'elle est mise à jour à travers de l\'App Store.";
-$content_donation_paypal = "Si vous n\'aimez pas le Mac App Store ou voulez juste essayer Keka<br />mais vous aimez le projet et voulez lui donner de l\'amour, vous pouvez envoyer un pourboire en utilisant PayPal.";
+$content_donation_title = 'Si vous aimez Keka, donnez lui de l\'<i class="fa fa-heart" aria-hidden="true"></i>, <br />récupérez-le depuis l\'App Store ou envoyez un pourboire PayPal!';
+$content_donation_mas = 'Si vous achetez Keka depuis l\'App Store vous supporterez son développement,<br />l\'application est la même que la version de ce site Web sauf qu\'elle est mise à jour à travers de l\'App Store.';
+$content_donation_paypal = 'Si vous n\'aimez pas le Mac App Store ou voulez juste essayer Keka<br />mais vous aimez le projet et voulez lui donner de l\'amour, vous pouvez envoyer un pourboire en utilisant PayPal.';
 
 // Beta
 $content_platform_beta = "Beta";
 $content_beta_title = "Version Beta de Keka";
-$content_beta_text = "Vous pouvez tester les dernières nouveuatés de Keka avant qu\'elles soient disponibles.<br />Si vous trouvez un bug ou voulez rapporter quelque chose, allez à ";
-$content_beta_unavailable = "Il n\'y a pas de version Beta disponible en ce moment.";
+$content_beta_text = 'Vous pouvez tester les dernières nouveuatés de Keka avant qu\'elles soient disponibles.<br />Si vous trouvez un bug ou voulez rapporter quelque chose, allez à ';
+$content_beta_unavailable = 'Il n\'y a pas de version Beta disponible en ce moment.';
 $content_beta_up = "Récupérer la dernière version";
 
 // Legacy
@@ -53,14 +53,14 @@ $content_legacy_text = 'Au fil des années, votre Mac va vieillir et ne pourra p
 $content_info_title1 = "Si simple, si fort";
 $content_info_title2 = "La confidentialité est très importante";
 $content_info_title3 = "Toujours trop volumineux...";
-$content_info_text1 = "Vous n\'avez même pas besoin d\'ouvrir Keka pour compresser un fichier, conservez-le dans le Dock et utilisez-le depuis là.<br />Il suffit de glisser et déplacer vos fichiers ou dossiers vers l\'icône du Dock ou la fenêtre Keka pour en créer une version réduite.";
+$content_info_text1 = 'Vous n\'avez même pas besoin d\'ouvrir Keka pour compresser un fichier, conservez-le dans le Dock et utilisez-le depuis là.<br />Il suffit de glisser et déplacer vos fichiers ou dossiers vers l\'icône du Dock ou la fenêtre Keka pour en créer une version réduite.';
 $content_info_text2 = "Partagez de façon sûre en ajoutant un mot de passe pour créer des fichiers hautement chiffrés.<br />Utilisation du chiffrement AES-256 pour vos fichiers 7z et<br />Le chiffrement ancien Zip 2.0 pour vos fichiers Zip.";
 $content_info_text3 = "Si les fichiers sont vraiment volumineux et ne tiennent pas dans vos emails ou votre serveur, il suffit de les diviser en morceaux.<br />Ne vous en faites pas, il seront décompressés pour reproduire votre fichier original :)";
-$content_info_compression = "Keka peut créer des fichiers dans ces formats :";
-$content_info_extraction = "Et extraire dans ces formats :";
+$content_info_compression = "Keka peut créer des fichiers dans ces formats:";
+$content_info_extraction = "Et extraire dans ces formats:";
 
 // Default app
-$content_defaultapp_title = "Définissez Keka comme application d\'extraction par défaut";
+$content_defaultapp_title = 'Définissez Keka comme application d\'extraction par défaut';
 $content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">nécessite un assistant <i class="far fa-question-circle"></i></a> pour se définir comme application par défaut.<br />Il suffit de le téléchargez et de l\'extraire, le déplacer sur le bureau et l\'ouvrir.';
 
 // Terms of use
