@@ -27,9 +27,9 @@ $content_download_text = "便捷存储，共享安全";
 $content_download_love = "喜欢吗？";
 $content_download_legacy = "历史版本";
 $content_download_helper = "小工具";
-$content_downloading = "Downloading ";
-$content_downloading_if_fails = "If the download does not start automatically ";
-$content_downloading_if_fails_click_here = " click here";
+$content_downloading = "下载中 ";
+$content_downloading_if_fails = "如果下载没有自动开始 ";
+$content_downloading_if_fails_click_here = " 点击此处";
 
 // Like
 $content_donation_button = "捐赠";
@@ -88,7 +88,7 @@ $content_404_start = "您可以访问 <a href=\"https://www.keka.io\">首页</a>
 $content_404_more = "或许您想这样？";
 
 // Maintenance
-$content_maintenance = "Will be back soon";
+$content_maintenance = "近期将至";
 
 // Bottom info
 $content_bottom_copying = '版权所有.';
