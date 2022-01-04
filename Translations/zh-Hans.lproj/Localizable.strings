@@ -5,6 +5,7 @@
 /* Use the _PREFERENCES_EXTRA_WIDTH_ (if needed) to fit the action to perform description properly */
 "_PREFERENCES_EXTRA_WIDTH_" = "0.0";
 "General" = "通用";
+"Appearance" = "外观";
 "File Access" = "文件访问权限";
 "Performance" = "性能";
 "Finder Extension" = "访达扩展";

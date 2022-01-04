@@ -5,6 +5,7 @@
 /* Use the _PREFERENCES_EXTRA_WIDTH_ (if needed) to fit the action to perform description properly */
 "_PREFERENCES_EXTRA_WIDTH_" = "0.0";
 "General" = "Algemeen";
+"Appearance" = "Uiterlijk";
 "File Access" = "Bestand Toegang";
 "Performance" = "Prestatie";
 "Finder Extension" = "Finder Extensie";

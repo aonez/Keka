@@ -27,6 +27,9 @@ $content_download_text = "Almacena más, comparte con privacidad";
 $content_download_love = "Te gusta?";
 $content_download_legacy = "Antiguas";
 $content_download_helper = "Ayudante";
+$content_downloading = "Descargando ";
+$content_downloading_if_fails = "Si la descarga no comienza de forma automática ";
+$content_downloading_if_fails_click_here = " haz clic aquí";
 
 // Like
 $content_donation_button = "Donar";
@@ -78,6 +81,9 @@ $content_changelog_firstpublic = "Primera versión pública:";
 $content_404 = "No se ha encontrado lo que buscabas";
 $content_404_start = "Puedes ir a la <a href=\"https://www.keka.io/\">página inicial</a>";
 $content_404_more = "¿o quizás buscabas esto?";
+
+// Maintenance
+$content_maintenance = "Volvemos enseguida";
 
 // Bottom info
 $content_bottom_copying = "Todos los derechos reservados.";

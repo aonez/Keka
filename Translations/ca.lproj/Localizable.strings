@@ -5,6 +5,7 @@
 /* Use the _PREFERENCES_EXTRA_WIDTH_ (if needed) to fit the action to perform description properly */
 "_PREFERENCES_EXTRA_WIDTH_" = "0.0";
 "General" = "General";
+"Appearance" = "Aspecte";
 "File Access" = "Accés a fitxers";
 "Performance" = "Rendiment";
 "Finder Extension" = "Extensió del Finder";

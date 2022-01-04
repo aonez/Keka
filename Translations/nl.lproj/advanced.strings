@@ -60,7 +60,7 @@
 "2363.title" = "Een ISO-bestand dat je aanmaakt is alleen-lezen en gecomprimeerd. ISO-bestanden kunnen enkel aangemaakt worden vertrekkende van een map.\n\nGeef een archiefnaam op voor dit ISO of gebruik een standaardnaam gebaseerd op de ingepakte bestanden.";
 
 /* Class = "NSTextFieldCell"; title = "Store"; ObjectID = "2390"; */
-"2390.title" = "Opslaan";
+"2390.title" = "Geen";
 
 /* Class = "NSTextFieldCell"; title = "Fast"; ObjectID = "2392"; */
 "2392.title" = "Snelste";

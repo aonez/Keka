@@ -234,7 +234,7 @@
 "chn-AV-kXZ.title" = "Sprawdzanie statusu rozszerzenia";
 
 /* Class = "NSButtonCell"; title = "Use squish face when working"; ObjectID = "dOj-2Z-1kb"; */
-"dOj-2Z-1kb.title" = "Use squish face when working";
+"dOj-2Z-1kb.title" = "Animuj ikonę podczas pracy aplikacji";
 
 /* Class = "NSTextFieldCell"; title = "Compressing multiple files:"; ObjectID = "dhi-qv-weg"; */
 "dhi-qv-weg.title" = "Archiwizowanie wielu:";

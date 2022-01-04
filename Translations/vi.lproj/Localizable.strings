@@ -5,6 +5,7 @@
 /* Use the _PREFERENCES_EXTRA_WIDTH_ (if needed) to fit the action to perform description properly */
 "_PREFERENCES_EXTRA_WIDTH_" = "0.0";
 "General" = "Chung";
+"Appearance" = "Bề ngoài";
 "File Access" = "Quyền truy cập tập tin";
 "Performance" = "Hiệu suất";
 "Finder Extension" = "Phần mở rộng Finder";

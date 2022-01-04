@@ -27,6 +27,9 @@ $content_download_text = "儲存更多，保有隱私地分享";
 $content_download_love = "喜歡嗎？";
 $content_download_legacy = "歷史版本";
 $content_download_helper = "輔助程式";
+$content_downloading = "Downloading ";
+$content_downloading_if_fails = "If the download does not start automatically ";
+$content_downloading_if_fails_click_here = " click here";
 
 // Like
 $content_donation_button = "贊助";
@@ -84,6 +87,9 @@ $content_changelog_firstpublic = "首個公開發佈版本：";
 $content_404 = "找不到頁面";
 $content_404_start = "您可以前往<a href=\"https://www.keka.io\">首頁</a>";
 $content_404_more = "或者您想要這個？";
+
+// Maintenance
+$content_maintenance = "Will be back soon";
 
 // Bottom info
 $content_bottom_copying = '保留一切權利。';

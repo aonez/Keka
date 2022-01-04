@@ -270,7 +270,7 @@
 "pXT-7y-9af.title" = "Pak altijd uit in een submap";
 
 /* Class = "NSButtonCell"; title = "Differentiate between active and total tasks in the Dock"; ObjectID = "qrX-WU-mLd"; */
-"qrX-WU-mLd.title" = "Differentiate between active and total tasks in the Dock";
+"qrX-WU-mLd.title" = "Toon actieve taken als afgeleide van totale taken in Dock";
 
 /* Class = "NSButtonCell"; title = "Show Keka actions in Finder's contextual menu"; ObjectID = "rP2-XR-ZQt"; */
 "rP2-XR-ZQt.title" = "Toon Keka acties in Finder's contextmenu (rechtermuisklik)";
