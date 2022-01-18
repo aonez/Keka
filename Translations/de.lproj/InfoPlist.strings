@@ -5,6 +5,7 @@
 /* Access request descriptions */
 "NSDesktopFolderUsageDescription" = "Keka erfordert Desktop-Zugriff mit seinen Dateien zu arbeiten.";
 "NSDocumentsFolderUsageDescription" = "Keka erfordert Dokumente-Zugriff mit seinen Dateien zu arbeiten.";
+"NSDownloadsFolderUsageDescription" = "Keka requires Downloads access to work with it's files.";
 "NSNetworkVolumesUsageDescription" = "Keka erfordert die Netzwerk-Volumes zugriff mit seinen Dateien zu arbeiten.";
 "NSRemovableVolumesUsageDescription" = "Keka erfordert die Wechseldatenträger zugriff mit seinen Dateien zu arbeiten.";
 
