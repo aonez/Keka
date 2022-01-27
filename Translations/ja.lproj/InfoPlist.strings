@@ -3,11 +3,11 @@
 "NSHumanReadableCopyright" = "Copyright © 2009-2022 aONe";
 
 /* Access request descriptions */
-"NSDesktopFolderUsageDescription" = "Keka requires Desktop access to work with it's files.";
-"NSDocumentsFolderUsageDescription" = "Keka requires Documents access to work with it's files.";
-"NSDownloadsFolderUsageDescription" = "Keka requires Downloads access to work with it's files.";
-"NSNetworkVolumesUsageDescription" = "Keka requires Network volumes access to work with it's files.";
-"NSRemovableVolumesUsageDescription" = "Keka requires removable volumes access to work with it's files.";
+"NSDesktopFolderUsageDescription" = "Kekaがファイルを操作するには、デスクトップへのアクセス権が必要です。";
+"NSDocumentsFolderUsageDescription" = "Kekaがファイルを操作するには、ドキュメントへのアクセス権が必要です。";
+"NSDownloadsFolderUsageDescription" = "Kekaがファイルを操作するには、ダウンロードへのアクセス権が必要です。";
+"NSNetworkVolumesUsageDescription" = "Kekaがファイルを操作するには、ネットワークボリュームへのアクセス権が必要です。";
+"NSRemovableVolumesUsageDescription" = "Kekaがファイルを操作するには、リムーバブルボリュームへのアクセス権が必要です。";
 
 /* File types */
 "7Z Archive" = "7Z アーカイブ";
@@ -20,13 +20,13 @@
 "ZIPX Archive" = "ZIPX アーカイブ";
 "XZ Archive" = "XZ アーカイブ";
 "XZ Tarball Archive" = "XZ 圧縮 TAR アーカイブ";
-"Brotli Archive" = "Brotli Archive";
-"Brotli Tarball Archive" = "Brotli Tarball Archive";
-"Zstandard Archive" = "Zstandard Archive";
-"Zstandard Tarball Archive" = "Zstandard Tarball Archive";
+"Brotli Archive" = "Brotli 圧縮";
+"Brotli Tarball Archive" = "Brotli 圧縮 TAR アーカイブ";
+"Zstandard Archive" = "Zstandard 圧縮";
+"Zstandard Tarball Archive" = "Zstandard 圧縮 TAR アーカイブ";
 "RAR Archive" = "RAR アーカイブ";
-"RAR Legacy Archive Volume" = "RAR Legacy Archive Volume";
-"Generic Archive Volume" = "Generic Archive Volume";
+"RAR Legacy Archive Volume" = "RAR レガジー アーカイブボリューム";
+"Generic Archive Volume" = "Generic アーカイブボリューム";
 "BZIP2 Archive" = "BZIP2 アーカイブ";
 "BZIP2 Tarball Archive" = "BZIP2 圧縮 TAR アーカイブ";
 "BZIP Archive" = "BZIP アーカイブ";
@@ -42,23 +42,23 @@
 "DMG Disk Image" = "DMG ディスクイメージ";
 "ISO Disk Image" = "ISO ディスクイメージ";
 "LHA Archive" = "LHA アーカイブ";
-"Windows EXE File" = "Windows EXE File";
-"Windows Cabinet File" = "Windows Cabinet File";
-"Windows Installer Package" = "Windows Installer Package";
+"Windows EXE File" = "Windows EXE ファイル";
+"Windows Cabinet File" = "Windows Cabinet Filファイルe";
+"Windows Installer Package" = "Windows インストーラーパッケージ";
 "WIM Disk Image" = "WIM ディスクイメージ";
 "Comic Book RAR Archive" = "Comic Book RAR アーカイブ";
 "Comic Book ZIP Archive" = "Comic Book ZIP アーカイブ";
-"iOS App" = "iOS App";
+"iOS App" = "iOSアプリ";
 "JAR Archive" = "JAR アーカイブ";
 "WAR Archive" = "WAR アーカイブ";
-"Android Application Package" = "Android Application Package";
-"Cross-Platform Installer Module (XPI)" = "Cross-Platform Installer Module (XPI)";
+"Android Application Package" = "Android アプリケーションパッケージ";
+"Cross-Platform Installer Module (XPI)" = "クロスプラットフォーム インストーラーモジュール (XPI)";
 "APPX Archive" = "APPX アーカイブ";
-"Safari extension" = "Safari extension";
-"ACE Archive" = "ACE Archive";
-"XIP Secure Archive" = "XIP Secure Archive";
-"Electronic Book" = "Electronic Book";
-"Apple Archive" = "Apple Archive";
-"WordPress All-in-One Backup" = "WordPress All-in-One Backup";
-"InstallShield 3 Archive" = "InstallShield 3 Archive";
+"Safari extension" = "Safari 拡張";
+"ACE Archive" = "ACE アーカイブ";
+"XIP Secure Archive" = "XIP ソース アーカイブ";
+"Electronic Book" = "電子ブック";
+"Apple Archive" = "Apple アーカイブ";
+"WordPress All-in-One Backup" = "WordPress All-in-One バックアップ";
+"InstallShield 3 Archive" = "InstallShield 3 アーカイブ";
 "Keka Extraction Package" = "Keka Extraction Package";
