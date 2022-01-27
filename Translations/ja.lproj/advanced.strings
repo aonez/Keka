@@ -3,10 +3,10 @@
 "2221.title" = "個別の圧縮ファイルを作成する";
 
 /* Class = "NSButtonCell"; title = "Delete file(s) after compression"; ObjectID = "2222"; */
-"2222.title" = "圧縮後にオリジナルファイルをゴミ箱に入れる";
+"2222.title" = "圧縮後に元のファイルをゴミ箱に入れる";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks"; ObjectID = "2244"; */
-"2244.title" = "Mac のリソースフォークを含めない";
+"2244.title" = "Macのリソースフォークを含めない";
 
 /* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "2262"; */
 "2262.title" = "パスワード:";
@@ -15,7 +15,7 @@
 "2270.title" = "分割:";
 
 /* Class = "NSComboBoxCell"; placeholderString = "Example: 5 MB"; ObjectID = "2271"; */
-"2271.placeholderString" = "例: 5 MB";
+"2271.placeholderString" = "例: 5MB";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[0] = "1.4 MB Floppy disk"; ObjectID = "2271"; */
 "2271.ibShadowedObjectValues[0]" = "1.4MBのFD";
@@ -30,25 +30,25 @@
 "2271.ibShadowedObjectValues[3]" = "4.7GBのDVD";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[4] = "8.5 GB DVD (DL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[4]" = "8.5 GB DVD (DL)";
+"2271.ibShadowedObjectValues[4]" = "8.5GBのDVD (DL)";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[5] = "7.8 GB Mini Blu-ray (SL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[5]" = "7.8 GB Mini Blu-ray (SL)";
+"2271.ibShadowedObjectValues[5]" = "7.8GBのMini Blu-ray (SL)";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[6] = "15.6 GB Mini Blu-ray (DL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[6]" = "15.6 GB Mini Blu-ray (DL)";
+"2271.ibShadowedObjectValues[6]" = "15.6GBのMini Blu-ray (DL)";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[7] = "25 GB Blu-ray (SL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[7]" = "25 GB Blu-ray (SL)";
+"2271.ibShadowedObjectValues[7]" = "25GBのBlu-ray (SL)";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[8] = "50 GB Blu-ray (DL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[8]" = "50 GB Blu-ray (DL)";
+"2271.ibShadowedObjectValues[8]" = "50GBのBlu-ray (DL)";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[9] = "100 GB Blu-ray XL (TL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[9]" = "100 GB Blu-ray XL (TL)";
+"2271.ibShadowedObjectValues[9]" = "100GBのBlu-ray XL (TL)";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[10] = "128 GB Blu-ray XL (QL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[10]" = "128 GB Blu-ray XL (QL)";
+"2271.ibShadowedObjectValues[10]" = "128GBのBlu-ray XL (QL)";
 
 /* Class = "NSTextFieldCell"; title = "Volume name:"; ObjectID = "2343"; */
 "2343.title" = "ボリューム名:";
@@ -84,4 +84,4 @@
 "UYy-aQ-V1a.title" = "ソリッド圧縮";
 
 /* Class = "NSButtonCell"; title = "Use BZIP2 compression"; ObjectID = "qhy-NU-Cts"; */
-"qhy-NU-Cts.title" = "Use BZIP2 compression";
+"qhy-NU-Cts.title" = "BZIP2を使用する";
