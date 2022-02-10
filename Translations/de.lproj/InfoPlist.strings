@@ -1,13 +1,13 @@
 
 /* Usually leave this one in English */
-"NSHumanReadableCopyright" = "Copyright © 2009-2021 aONe";
+"NSHumanReadableCopyright" = "Copyright © 2009-2022 aONe";
 
 /* Access request descriptions */
-"NSDesktopFolderUsageDescription" = "Keka requires Desktop access to work with it's files.";
-"NSDocumentsFolderUsageDescription" = "Keka requires Documents access to work with it's files.";
-"NSDownloadsFolderUsageDescription" = "Keka requires Downloads access to work with it's files.";
-"NSNetworkVolumesUsageDescription" = "Keka requires Network volumes access to work with it's files.";
-"NSRemovableVolumesUsageDescription" = "Keka requires removable volumes access to work with it's files.";
+"NSDesktopFolderUsageDescription" = "Keka erfordert Desktop-Zugriff mit seinen Dateien zu arbeiten.";
+"NSDocumentsFolderUsageDescription" = "Keka erfordert Dokumente-Zugriff mit seinen Dateien zu arbeiten.";
+"NSDownloadsFolderUsageDescription" = "Keka enfordert Downloads-Zugriff mit seinen Dateien zu arbeiten.";
+"NSNetworkVolumesUsageDescription" = "Keka erfordert die Netzwerk-Volumes zugriff mit seinen Dateien zu arbeiten.";
+"NSRemovableVolumesUsageDescription" = "Keka erfordert die Wechseldatenträger zugriff mit seinen Dateien zu arbeiten.";
 
 /* File types */
 "7Z Archive" = "7Z-Archiv";
@@ -44,15 +44,15 @@
 "LHA Archive" = "LHA-Archiv";
 "Windows EXE File" = "Windows EXE-Datei";
 "Windows Cabinet File" = "Windows Cabinet-Datei";
-"Windows Installer Package" = "Windows Installer Package";
+"Windows Installer Package" = "Windows Installer-Paket";
 "WIM Disk Image" = "WIM-Image";
 "Comic Book RAR Archive" = "Comic Book RAR-Archiv";
 "Comic Book ZIP Archive" = "Comic Book ZIP-Archiv";
 "iOS App" = "iOS-App";
 "JAR Archive" = "JAR-Archiv";
 "WAR Archive" = "WAR-Archiv";
-"Android Application Package" = "Android Application Package";
-"Cross-Platform Installer Module (XPI)" = "Cross-Platform Installer Module (XPI)";
+"Android Application Package" = "Android-Anwendung Paketdatei";
+"Cross-Platform Installer Module (XPI)" = "Cross-Platform Installer Modul (XPI)";
 "APPX Archive" = "APPX-Archiv";
 "Safari extension" = "Safari-Erweiterung";
 "ACE Archive" = "ACE-Archiv";
@@ -60,5 +60,5 @@
 "Electronic Book" = "Electronic Book";
 "Apple Archive" = "Apple Archive";
 "WordPress All-in-One Backup" = "WordPress All-in-One Backup";
-"InstallShield 3 Archive" = "InstallShield 3 Archive";
-"Keka Extraction Package" = "Keka Extraction Package";
+"InstallShield 3 Archive" = "InstallShield 3 Archiv";
+"Keka Extraction Package" = "Keka Extraktions-Paket";

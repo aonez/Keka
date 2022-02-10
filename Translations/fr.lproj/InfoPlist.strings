@@ -1,6 +1,6 @@
 
 /* Usually leave this one in English */
-"NSHumanReadableCopyright" = "Copyright © 2009-2021 aONe";
+"NSHumanReadableCopyright" = "Copyright © 2009-2022 aONe";
 
 /* Access request descriptions */
 "NSDesktopFolderUsageDescription" = "Keka nécessite l'accès au Bureau pour travailler avec ses fichiers.";
@@ -58,7 +58,7 @@
 "ACE Archive" = "Archive ACE";
 "XIP Secure Archive" = "Archive sécurisée XIP";
 "Electronic Book" = "Livre électronique";
-"Apple Archive" = "Apple Archive";
+"Apple Archive" = "Archive Apple";
 "WordPress All-in-One Backup" = "WordPress All-in-One Backup";
 "InstallShield 3 Archive" = "InstallShield 3 Archive";
 "Keka Extraction Package" = "Paquet d'extraction Keka";

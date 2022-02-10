@@ -1,0 +1,64 @@
+
+/* Usually leave this one in English */
+"NSHumanReadableCopyright" = "Kopiereg © 2009-2022 aONe";
+
+/* Access request descriptions */
+"NSDesktopFolderUsageDescription" = "Keka benodig toegang tot Werkskerm om met die lêers te werk.";
+"NSDocumentsFolderUsageDescription" = "Keka benodig toegang tot Dokumente om met die lêers te werk.";
+"NSDownloadsFolderUsageDescription" = "Keka benodig toegang tot Aflaaie om met die lêers te werk.";
+"NSNetworkVolumesUsageDescription" = "Keka benodig toegang tot Netwerkvolumes om met die lêers te werk.";
+"NSRemovableVolumesUsageDescription" = "Keka benodig toegang tot verwyderbare modules om met die lêers te werk.";
+
+/* File types */
+"7Z Archive" = "7Z-argief";
+"LZMA Archive" = "LZMA-argief";
+"LZOP Archive" = "LZOP-argief";
+"LZOP Tarball Archive" = "LZOP- Tarball argief";
+"LZIP Archive" = "LZIP-argief";
+"LZIP Tarball Archive" = "LZIP- Tarball argief";
+"ZIP Archive" = "ZIP-argief";
+"ZIPX Archive" = "ZIPX-argief";
+"XZ Archive" = "XZ-argief";
+"XZ Tarball Archive" = "XZ- Tarball argief";
+"Brotli Archive" = "Brotli-argief";
+"Brotli Tarball Archive" = "Brotli- Tarball argief";
+"Zstandard Archive" = "Zstandard-argief";
+"Zstandard Tarball Archive" = "Zstandard- Tarball argief";
+"RAR Archive" = "RAR-argief";
+"RAR Legacy Archive Volume" = "RAR-legaatargiefvolume";
+"Generic Archive Volume" = "Generiese argiefvolume";
+"BZIP2 Archive" = "BZIP2-argief";
+"BZIP2 Tarball Archive" = "BZIP2- Tarball argief";
+"BZIP Archive" = "BZIP-argief";
+"BZIP Tarball Archive" = "BZIP- Tarball argief";
+"GZIP Archive" = "GZIP-argief";
+"GZIP Tarball Archive" = "GZIP- Tarball argief";
+"TAR Archive" = "TAR-argief";
+"LRZIP Archive" = "LRZIP-argief";
+"LRZIP Tarball Archive" = "LRZIP- Tarball argief";
+"CPIO Archive" = "CPIO-argief";
+"CPGZ Archive" = "CPGZ-argief";
+"PAX Archive" = "PAX-argief";
+"DMG Disk Image" = "DMG-skyfbeeld";
+"ISO Disk Image" = "ISO-skyfbeeld";
+"LHA Archive" = "LHA-argief";
+"Windows EXE File" = "Windows EXE-lêer";
+"Windows Cabinet File" = "Windows-kabinetlêer";
+"Windows Installer Package" = "Windows-installeerpakket";
+"WIM Disk Image" = "WIM Disk Image";
+"Comic Book RAR Archive" = "Strokiesprent-RAR-argief";
+"Comic Book ZIP Archive" = "Strokiesprent-ZIP-argief";
+"iOS App" = "iOS-toep";
+"JAR Archive" = "JAR-argief";
+"WAR Archive" = "WAR-argief";
+"Android Application Package" = "Android-toepassingpakket";
+"Cross-Platform Installer Module (XPI)" = "Kruisplatforminstalleermodule (XPI)";
+"APPX Archive" = "APPX-argief";
+"Safari extension" = "Safari-uitbreiding";
+"ACE Archive" = "ACE-argief";
+"XIP Secure Archive" = "XIP- beveiligde argief";
+"Electronic Book" = "Elektroniese boek";
+"Apple Archive" = "Apple-argief";
+"WordPress All-in-One Backup" = "WordPress-alles-in-een-rugsteun";
+"InstallShield 3 Archive" = "InstallShield 3-argief";
+"Keka Extraction Package" = "Keka-ekstraheerpakket";

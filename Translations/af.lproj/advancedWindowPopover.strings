@@ -1,12 +1,12 @@
 ﻿
 /* Class = "NSButtonCell"; title = "Automatically save configuration changes"; ObjectID = "9ew-FN-7fK"; */
-"9ew-FN-7fK.title" = "設定変更を自動的に保存";
+"9ew-FN-7fK.title" = "Bewaar opstellingsveranderinge outomaties";
 
 /* Class = "NSButtonCell"; title = "Remove this configuration"; ObjectID = "OVd-YP-1Rw"; */
-"OVd-YP-1Rw.title" = "この設定を削除";
+"OVd-YP-1Rw.title" = "Verwyder hierdie opstelling";
 
 /* Class = "NSButtonCell"; title = "Use as default window"; ObjectID = "TEo-Z0-eew"; */
-"TEo-Z0-eew.title" = "デフォルトのウィンドウとして使用";
+"TEo-Z0-eew.title" = "Gebruik as verstekvenster";
 
 /* Class = "NSTextFieldCell"; title = "Window name:"; ObjectID = "z32-BZ-Pec"; */
-"z32-BZ-Pec.title" = "ウィンドウ名:";
+"z32-BZ-Pec.title" = "Vensternaam:";

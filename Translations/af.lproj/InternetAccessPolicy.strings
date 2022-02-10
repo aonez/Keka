@@ -10,8 +10,8 @@
 */
 
 /* Top-level, general application description: */
-"ApplicationDescription" = "Kekaは、macOS用のファイルアーカイバーです。";
+"ApplicationDescription" = "Keka is ’n program wat lêers vir macOS saampers en argiveer.";
 
 /* Software update connection: */
-"SoftwareUpdatePurpose" = "Kekaは新しいバージョンを確認するために u(pdate).keka.io に接続します。";
-"SoftwareUpdateDenyConsequences" = "もしこの接続を拒否する場合、Kekaの新しいバージョンについての通知がされません。";
+"SoftwareUpdatePurpose" = "Keka soek na nuwe weergawes en koppel aan u(pdate).keka.io.";
+"SoftwareUpdateDenyConsequences" = "Indien u hierdie verbinding weier, sal u nie van nuwe weergawes van Keka in kennis gestel word nie.";
