@@ -1,6 +1,10 @@
 "Open with Keka" = "Open met Keka";
 "Compress here" = "Pers hier saam";
 "Compress to..." = "Pers saam na...";
+"Compress the contents of the folder here" = "Compress the contents of the folder here";
+"Compress the contents of the folder to..." = "Compress the contents of the folder to...";
+"Encrypt with the default password here" = "Encrypt with the default password here";
+"Encrypt with the default password to..." = "Encrypt with the default password to...";
 "Extract here" = "Ekstraheer hier";
 "Extract to..." = "Ekstraheer na...";
 "Extract to \"%@\"" = "Ekstraheer na \"%@\"";

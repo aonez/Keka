@@ -1,6 +1,10 @@
 "Open with Keka" = "Åpne med Keka";
 "Compress here" = "Komprimer her";
 "Compress to..." = "Compress to...";
+"Compress the contents of the folder here" = "Compress the contents of the folder here";
+"Compress the contents of the folder to..." = "Compress the contents of the folder to...";
+"Encrypt with the default password here" = "Encrypt with the default password here";
+"Encrypt with the default password to..." = "Encrypt with the default password to...";
 "Extract here" = "Pakk ut her";
 "Extract to..." = "Extract to...";
 "Extract to \"%@\"" = "Pakk ut til \"%@\"";

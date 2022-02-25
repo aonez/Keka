@@ -66,6 +66,8 @@
 "Select all the volumes from \"%@\" or the folder that contains them" = "Sélectionner tous les volumes de \"%@\" ou le dossier qui les contient";
 "Select the folder that contains \"%@\"" = "Sélectionner le dossier qui contient \"%@\"";
 "Extraction of \"%@\" failed" = "L'extraction de \"%@\" a échoué";
+"Extraction of \"%@\" completed" = "Extraction of \"%@\" completed";
+"The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue";
 "Keka - %i on queue" = "Keka - %i en file d'attente";
 "Keka can't create this %@ image" = "Keka ne peut créer l'image %@";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "La création d'une image %@ n'accepte qu'un unique dossier. Placez tous vos fichiers dans un même dossier et déposez-le sur Keka pour créer une image %@.";
@@ -170,6 +172,7 @@
 "In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "Afin de définir Keka comme application par défaut, vous devez installer une extension. Cliquez sur \"Plus d'informations\" pour suivre les étapes nécessaires.\n\nSouvenez-vous que vous pouvez toujour définir Keka comme application par défaut pour n'importe quel format en utilisant la fenêtre du Finder \"Lire les informations\".";
 "Your installed extension is obsolete and you should update it." = "Votre extension installée est obsolète et vous devriez la mettre à jour.";
 "Update" = "Mettre à jour";
+"Save" = "Save";
 "Cannot set Keka as default" = "Keka ne peut pas être défini par défaut";
 "The intermediate application failed to launch. There is more information in the Console.app." = "L'application intermédiaire n'a pas pu démarrer. Il y a des informations complémentaires dans Console.app.";
 "The intermediate application returned an undefined code." = "L'application intermédiaire a renvoyé un code indéfini.";
@@ -225,6 +228,8 @@
 "Report" = "Signaler";
 "Report via mail" = "Signaler via email";
 "Review Keka ★★★★★" = "Evaluer Keka ★★★★★";
+"Update the default password" = "Update the default password";
+"Set a default password" = "Set a default password";
 
 /*
 // MAS tips
