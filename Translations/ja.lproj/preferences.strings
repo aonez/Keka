@@ -201,7 +201,7 @@
 "PD2-iW-BGK.title" = "デスクトップまたはダウンロードフォルダーなど、すべてのユーザーファイルでKekaを使用できるように、ホームアクセスを有効にします。.";
 
 /* Class = "NSTextFieldCell"; title = "Default password:"; ObjectID = "Rgr-FP-Kua"; */
-"Rgr-FP-Kua.title" = "Default password:";
+"Rgr-FP-Kua.title" = "デフォルトのパスワード:";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "通知センターの統合を有効にする";
@@ -318,4 +318,4 @@
 "zPq-ei-qUb.title" = "キューイングは通常、処理の高速化と応答性の高い動作を可能にします。";
 
 /* Class = "NSButtonCell"; title = "Try the default password when extracting any file"; ObjectID = "zRi-PC-AW9"; */
-"zRi-PC-AW9.title" = "Try the default password when extracting any file";
+"zRi-PC-AW9.title" = "任意のファイルを展開する際に、デフォルトのパスワードを試す";
