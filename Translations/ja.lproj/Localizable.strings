@@ -67,7 +67,7 @@
 "Select the folder that contains \"%@\"" = "\"%@\" を含むフォルダを選択";
 "Extraction of \"%@\" failed" = "\"%@\" を解凍はできませんでした。";
 "Extraction of \"%@\" completed" = "Extraction of \"%@\" completed";
-"The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue";
+"The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "抽出は完了しましたが、検疫が適用されませんでした。\nこの問題を解決するには、Kekaを再インストールする必要があります。";
 "Keka - %i on queue" = "Keka - 残りの項目: %i個";
 "Keka can't create this %@ image" = "%@ イメージを作成できません。";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "１つのフォルダーのみを使用して %@ が作成できます。すべてのファイルを１つのフォルダに入れてから、そのフォルダを Keka にドラッグして %@ を作成してください。";
@@ -108,7 +108,7 @@
 "Compression" = "圧縮";
 "Extraction" = "解凍";
 "Keka can't use the \"extlx.plist\" list, please get in contact with the developers.\n\nNow Keka will quit." = "Keka は \"extlx.plist\" を使用できません。開発者に連絡してください。\n\nKeka が終了します。";
-"Keka is dying!" = "Keka が落ちています！";
+"Keka is dying!" = "Kekaが落ちています！";
 "Ask each time" = "常に確認";
 "Next to original file" = "同じフォルダ";
 "Custom folder..." = "フォルダ名を指定...";
@@ -172,7 +172,7 @@
 "In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "Kekaをデフォルトのアプリケーションとして設定するには、拡張機能をインストールする必要があります。｢詳細｣をクリックし、必要な操作を行ってください。\n\nFinderの｢情報を見る｣を使って、フォーマットでKekaを既定のアプリケーションとして設定することもできます。";
 "Your installed extension is obsolete and you should update it." = "インストールされている拡張機能のバージョンが古くなったので、アップデートしてください。";
 "Update" = "アップデート";
-"Save" = "Save";
+"Save" = "保存";
 "Cannot set Keka as default" = "Kekaをデフォルトに設定できません";
 "The intermediate application failed to launch. There is more information in the Console.app." = "中間アプリケーションの起動に失敗しました。コンソール.appに詳細な情報があります。";
 "The intermediate application returned an undefined code." = "中間アプリケーションから未定義のコードが返されました。";
@@ -228,8 +228,8 @@
 "Report" = "報告";
 "Report via mail" = "メールで報告";
 "Review Keka ★★★★★" = "Kekaをレビュー ★★★★★";
-"Update the default password" = "Update the default password";
-"Set a default password" = "Set a default password";
+"Update the default password" = "デフォルトのパスワードの更新";
+"Set a default password" = "デフォルトのパスワードの設定";
 
 /*
 // MAS tips
