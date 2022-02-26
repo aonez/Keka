@@ -204,7 +204,7 @@
 "Already tipping a monthly %@" = "すでに毎月 %@ のチップを送っています";
 "Send a monthly %@ tip" = "毎月 %@ のチップを送る";
 "Send a %@ tip" = "%@ チップを送る";
-"Give Keka some love ♥" = "ケカに愛を送る♥";
+"Give Keka some love ♥" = "ケカにLoveを送る♥";
 "All extractions will be expanded at this location." = "すべてのエクストラクションはこの場所で展開されます。";
 "All compressions will be stored at this location." = "すべてのコンプレッサーはこの場所に保存されます。";
 "You'll be asked where to extract each operation." = "各操作ごとの抽出先を聞かれます。";
