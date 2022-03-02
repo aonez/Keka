@@ -1,10 +1,10 @@
 "Open with Keka" = "Mở với Keka";
 "Compress here" = "Nén tại đây";
 "Compress to..." = "Nén đến...";
-"Compress the contents of the folder here" = "Compress the contents of the folder here";
-"Compress the contents of the folder to..." = "Compress the contents of the folder to...";
-"Encrypt with the default password here" = "Encrypt with the default password here";
-"Encrypt with the default password to..." = "Encrypt with the default password to...";
+"Compress the contents of the folder here" = "Nén nội dung của thư mục rồi lưu tại đây";
+"Compress the contents of the folder to..." = "Nén nội dung của thư mục rồi lưu tại...";
+"Encrypt with the default password here" = "Mã hoá với mật khẩu mặt định tại đây";
+"Encrypt with the default password to..." = "Mã hoá với mật khẩu mặt định tại...";
 "Extract here" = "Giải nén tại đây";
 "Extract to..." = "Giải nén đến...";
 "Extract to \"%@\"" = "Giải nén đến \"%@\"";

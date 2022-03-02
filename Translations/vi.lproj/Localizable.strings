@@ -172,7 +172,7 @@
 "In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "Để đặt Keka làm ứng dụng giải nén mặc định, bạn cần cài đặt phần mở rộng. Hãy vào mục \"More information\" và làm theo hướng dẫn.\n\nHãy nhớ rằng bạn có thể đặt Keka làm ứng dụng mặt định cho bất kỳ định dạng nào bằng cách sử dụng lệnh \"Get Info\" của Finder.";
 "Your installed extension is obsolete and you should update it." = "Tiện ích mở rộng đã cài đặt của bạn đã lỗi thời và bạn nên cập nhật nó.";
 "Update" = "Cập nhật";
-"Save" = "Save";
+"Save" = "Lưu";
 "Cannot set Keka as default" = "Không để đặt Keka làm mặc định";
 "The intermediate application failed to launch. There is more information in the Console.app." = "Không thể khởi chạy ứng dụng trung gian. Thông tin chi tiết được trình bày trong Console.app.";
 "The intermediate application returned an undefined code." = "Ứng dụng trung gian trả về một mã lệnh chưa xác định.";
@@ -228,8 +228,8 @@
 "Report" = "Gửi báo cáo";
 "Report via mail" = "Gửi báo cáo qua email";
 "Review Keka ★★★★★" = "Đánh giá Keka ★★★★★";
-"Update the default password" = "Update the default password";
-"Set a default password" = "Set a default password";
+"Update the default password" = "Cập nhật mật khẩu mặt định";
+"Set a default password" = "Cài đặt một mật khẩu mặt định";
 
 /*
 // MAS tips
