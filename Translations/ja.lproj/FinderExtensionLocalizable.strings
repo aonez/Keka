@@ -1,10 +1,10 @@
 "Open with Keka" = "Kekaで開く";
 "Compress here" = "ここに圧縮";
 "Compress to..." = "圧縮先・・・";
-"Compress the contents of the folder here" = "Compress the contents of the folder here";
-"Compress the contents of the folder to..." = "Compress the contents of the folder to...";
-"Encrypt with the default password here" = "Encrypt with the default password here";
-"Encrypt with the default password to..." = "Encrypt with the default password to...";
+"Compress the contents of the folder here" = "ここにあるフォルダの中身を圧縮する";
+"Compress the contents of the folder to..." = "フォルダの中身を圧縮して...";
+"Encrypt with the default password here" = "ここでデフォルトのパスワードで暗号化する";
+"Encrypt with the default password to..." = "デフォルトのパスワードで暗号化して...";
 "Extract here" = "ここに展開";
 "Extract to..." = "展開先・・・";
 "Extract to \"%@\"" = "\"%@\"へ抽出";
