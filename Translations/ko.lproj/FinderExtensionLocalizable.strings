@@ -1,6 +1,10 @@
 "Open with Keka" = "Keka로 열기";
 "Compress here" = "여기에 압축하기";
 "Compress to..." = "다음으로 압축하기...";
+"Compress the contents of the folder here" = "Compress the contents of the folder here";
+"Compress the contents of the folder to..." = "Compress the contents of the folder to...";
+"Encrypt with the default password here" = "Encrypt with the default password here";
+"Encrypt with the default password to..." = "Encrypt with the default password to...";
 "Extract here" = "여기에 압축 해제하기";
 "Extract to..." = "다음으로 압축 해제하기...";
 "Extract to \"%@\"" = "\"%@\"으로 압축 해제하기";

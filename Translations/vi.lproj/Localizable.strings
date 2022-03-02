@@ -66,6 +66,8 @@
 "Select all the volumes from \"%@\" or the folder that contains them" = "Chọn tất cả phân vùng từ \"%@\" hoặc thư mục mà nó chứa chúng";
 "Select the folder that contains \"%@\"" = "Chọn thư mục mà nó chứa \"%@\"";
 "Extraction of \"%@\" failed" = "Giải nén cho \"%@\" thất bại";
+"Extraction of \"%@\" completed" = "Extraction of \"%@\" completed";
+"The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue";
 "Keka - %i on queue" = "Keka - %i trong hàng đợi";
 "Keka can't create this %@ image" = "Keka không thể tạo ra %@ ảnh đĩa";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "Bạn chỉ có thể tạo %@ ảnh đĩa với một thư mục đơn lẻ. Hãy thử đưa tất cả tập tin vào một thư mục rồi kéo thả vào Keka để tạo ra %@ ảnh đĩa.";
@@ -170,6 +172,7 @@
 "In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "Để đặt Keka làm ứng dụng giải nén mặc định, bạn cần cài đặt phần mở rộng. Hãy vào mục \"More information\" và làm theo hướng dẫn.\n\nHãy nhớ rằng bạn có thể đặt Keka làm ứng dụng mặt định cho bất kỳ định dạng nào bằng cách sử dụng lệnh \"Get Info\" của Finder.";
 "Your installed extension is obsolete and you should update it." = "Tiện ích mở rộng đã cài đặt của bạn đã lỗi thời và bạn nên cập nhật nó.";
 "Update" = "Cập nhật";
+"Save" = "Save";
 "Cannot set Keka as default" = "Không để đặt Keka làm mặc định";
 "The intermediate application failed to launch. There is more information in the Console.app." = "Không thể khởi chạy ứng dụng trung gian. Thông tin chi tiết được trình bày trong Console.app.";
 "The intermediate application returned an undefined code." = "Ứng dụng trung gian trả về một mã lệnh chưa xác định.";
@@ -225,6 +228,8 @@
 "Report" = "Gửi báo cáo";
 "Report via mail" = "Gửi báo cáo qua email";
 "Review Keka ★★★★★" = "Đánh giá Keka ★★★★★";
+"Update the default password" = "Update the default password";
+"Set a default password" = "Set a default password";
 
 /*
 // MAS tips

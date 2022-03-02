@@ -1,6 +1,10 @@
 "Open with Keka" = "Otevřít s Keka";
 "Compress here" = "Komprimovat zde";
 "Compress to..." = "Komprimovat ve složce...";
+"Compress the contents of the folder here" = "Compress the contents of the folder here";
+"Compress the contents of the folder to..." = "Compress the contents of the folder to...";
+"Encrypt with the default password here" = "Encrypt with the default password here";
+"Encrypt with the default password to..." = "Encrypt with the default password to...";
 "Extract here" = "Rozbalit zde";
 "Extract to..." = "Rozbalit ve složce...";
 "Extract to \"%@\"" = "Rozbalit do složky \"%@\"";

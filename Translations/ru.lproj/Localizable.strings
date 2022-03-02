@@ -66,6 +66,8 @@
 "Select all the volumes from \"%@\" or the folder that contains them" = "Выберите все тома \"%@\" или содержащую их папку";
 "Select the folder that contains \"%@\"" = "Выберите папку, которая содержит \"%@\"";
 "Extraction of \"%@\" failed" = "Не удалось распаковать \"%@\"";
+"Extraction of \"%@\" completed" = "Extraction of \"%@\" completed";
+"The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue";
 "Keka - %i on queue" = "Keka - %i в очереди";
 "Keka can't create this %@ image" = "Keka не удалось создать %@-образ";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "%@-образ можно создать только из одной папки. Попробуйте поместить ваши файлы в одну папку и перетащить её в окно Keka.";
@@ -170,6 +172,7 @@
 "In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "Чтобы установить Keka в качестве приложения по умолчанию, вам нужно установить расширение. Нажмите на \"Больше информации\" и следуйте требуемым шагам.\n\nПомните, что вы также можете установить Keka в качестве приложения по умолчанию для любого формата, используя панель \"Свойства\" в Finder.";
 "Your installed extension is obsolete and you should update it." = "Установленное вами расширение устарело, и вам следует обновить его.";
 "Update" = "Обновить";
+"Save" = "Save";
 "Cannot set Keka as default" = "Невозможно установить Keka по умолчанию";
 "The intermediate application failed to launch. There is more information in the Console.app." = "Приложение-посредник не смогло запуститься. Подробнее в приложении Консоль.";
 "The intermediate application returned an undefined code." = "Приложение-посредник вернуло неопределённый код.";
@@ -225,6 +228,8 @@
 "Report" = "Отправить отчёт";
 "Report via mail" = "Отправить отчёт по e-mail";
 "Review Keka ★★★★★" = "Оценить Keka ★★★★★";
+"Update the default password" = "Update the default password";
+"Set a default password" = "Set a default password";
 
 /*
 // MAS tips

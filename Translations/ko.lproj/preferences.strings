@@ -143,6 +143,12 @@
 /* Class = "NSTextFieldCell"; title = "Fallback folder:"; ObjectID = "9dE-yV-N3K"; */
 "9dE-yV-N3K.title" = "폴백 폴더:";
 
+/* Class = "NSButtonCell"; title = "Use the default password on new advanced windows"; ObjectID = "9ul-2H-k9o"; */
+"9ul-2H-k9o.title" = "Use the default password on new advanced windows";
+
+/* Class = "NSButtonCell"; title = "Show encrypt with default password items"; ObjectID = "AU8-I0-71W"; */
+"AU8-I0-71W.title" = "Show encrypt with default password items";
+
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "CWc-wN-FhI"; */
 "CWc-wN-FhI.title" = "사용자 지정폴더...";
 
@@ -194,6 +200,9 @@
 /* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder."; ObjectID = "PD2-iW-BGK"; */
 "PD2-iW-BGK.title" = "Keka를 홈 폴더(데스크탑, 다운로드 폴더 등)에서 사용할 수 있도록 접근 권한 허용.";
 
+/* Class = "NSTextFieldCell"; title = "Default password:"; ObjectID = "Rgr-FP-Kua"; */
+"Rgr-FP-Kua.title" = "Default password:";
+
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "알림 센터 사용";
 
@@ -217,6 +226,9 @@
 
 /* Class = "NSButtonCell"; title = "Use \"Open with Keka\" as the primary item action"; ObjectID = "a5e-FP-sDv"; */
 "a5e-FP-sDv.title" = "\"Keka로 열기\"를 기본 항목 작업으로 사용";
+
+/* Class = "NSButtonCell"; title = "Show in plain text"; ObjectID = "aOv-6b-JlO"; */
+"aOv-6b-JlO.title" = "Show in plain text";
 
 /* Class = "NSButtonCell"; title = "Use parent folder name when compressing multiple files"; ObjectID = "cDs-NB-2os"; */
 "cDs-NB-2os.title" = "복수의 파일들을 압축할 때 부모 폴더 이름 사용";
@@ -287,6 +299,12 @@
 /* Class = "NSMenuItem"; title = "Never, when possible"; ObjectID = "tEH-O0-NxO"; */
 "tEH-O0-NxO.title" = "절대적으로 가능할 때";
 
+/* Class = "NSButtonCell"; title = "Use the default password on new compressions"; ObjectID = "u2R-2w-aOA"; */
+"u2R-2w-aOA.title" = "Use the default password on new compressions";
+
+/* Class = "NSTextFieldCell"; title = "You can also use this password from the Finder Extension's menu"; ObjectID = "vWb-gb-JBD"; */
+"vWb-gb-JBD.title" = "You can also use this password from the Finder Extension's menu";
+
 /* Class = "NSTextFieldCell"; title = "The Finder Extension needs to be enabled in the  System Preferences, Extensions configuration."; ObjectID = "wgz-2S-eXI"; */
 "wgz-2S-eXI.title" = "Finder 확장은  시스템 환경설정, 확장 프로그램 에서 활성화되어야 합니다.";
 
@@ -298,3 +316,6 @@
 
 /* Class = "NSTextFieldCell"; title = "Queuing usually results in faster operations and a more responsive behaviour."; ObjectID = "zPq-ei-qUb"; */
 "zPq-ei-qUb.title" = "일반적으로 대기열을 사용하면 작업 속도가 빨라지고 응답 속도가 향상됩니다.";
+
+/* Class = "NSButtonCell"; title = "Try the default password when extracting any file"; ObjectID = "zRi-PC-AW9"; */
+"zRi-PC-AW9.title" = "Try the default password when extracting any file";

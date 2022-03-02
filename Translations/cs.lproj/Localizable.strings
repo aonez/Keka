@@ -66,6 +66,8 @@
 "Select all the volumes from \"%@\" or the folder that contains them" = "Vyberte z \"%@\" všechny svazky, nebo složku, která tyto svazky obsahuje";
 "Select the folder that contains \"%@\"" = "Vyberte složku, ve které se \"%@\" nachází";
 "Extraction of \"%@\" failed" = "Rozbalování \"%@\" selhalo";
+"Extraction of \"%@\" completed" = "Extraction of \"%@\" completed";
+"The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue";
 "Keka - %i on queue" = "Keka - %i je ve frontě";
 "Keka can't create this %@ image" = "Keka nemůže vytvořit tento %@ obraz";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "Obrazy %@ lze vytvořit pouze z jedné složky. Zkuste soubory umístit do jedné složky, kterou pak přetáhněte do Keky.";
@@ -170,6 +172,7 @@
 "In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "Abyste mohli nastavit Keku jako výchozí aplikaci, musíte napřed nainstalovat rozšíření. Klikněte na tlačítko \"Další informace\" a řiďte se pokyny na obrazovce.\n\nKeku můžete kdykoliv nastavit jako výchozí pro jakýkoliv formát skrze položku nabídky \"Informace\" ve Finderu";
 "Your installed extension is obsolete and you should update it." = "Your installed extension is obsolete and you should update it.";
 "Update" = "Update";
+"Save" = "Save";
 "Cannot set Keka as default" = "Keku nelze nastavit jako výchozí aplikaci";
 "The intermediate application failed to launch. There is more information in the Console.app." = "Zprostředkující aplikaci se nepodařilo spustit. Více informací naleznete v aplikaci Konzola.";
 "The intermediate application returned an undefined code." = "Zprostředkující aplikace vrátila nedefinovaný kód.";
@@ -225,6 +228,8 @@
 "Report" = "Report";
 "Report via mail" = "Report via mail";
 "Review Keka ★★★★★" = "Review Keka ★★★★★";
+"Update the default password" = "Update the default password";
+"Set a default password" = "Set a default password";
 
 /*
 // MAS tips
