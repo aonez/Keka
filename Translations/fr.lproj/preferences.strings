@@ -143,6 +143,12 @@
 /* Class = "NSTextFieldCell"; title = "Fallback folder:"; ObjectID = "9dE-yV-N3K"; */
 "9dE-yV-N3K.title" = "Dossier de secours:";
 
+/* Class = "NSButtonCell"; title = "Use the default password on new advanced windows"; ObjectID = "9ul-2H-k9o"; */
+"9ul-2H-k9o.title" = "Utiliser le mot de passe par défaut dans les nouvelles fenêtres avancées";
+
+/* Class = "NSButtonCell"; title = "Show encrypt with default password items"; ObjectID = "AU8-I0-71W"; */
+"AU8-I0-71W.title" = "Afficher les options de chiffrement avec le mot de passe par défaut";
+
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "CWc-wN-FhI"; */
 "CWc-wN-FhI.title" = "Dossier personnalisé ...";
 
@@ -194,6 +200,9 @@
 /* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder."; ObjectID = "PD2-iW-BGK"; */
 "PD2-iW-BGK.title" = "Autoriser l'accès au dossier Départ pour que Keka puisse être utilisé avec tous vos fichiers utilisateur, tels que ceux de votre Bureau ou de votre dossier Téléchargements.";
 
+/* Class = "NSTextFieldCell"; title = "Default password:"; ObjectID = "Rgr-FP-Kua"; */
+"Rgr-FP-Kua.title" = "Mot de passe par défaut:";
+
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "Autoriser l'intégration au Centre de notifications";
 
@@ -217,6 +226,9 @@
 
 /* Class = "NSButtonCell"; title = "Use \"Open with Keka\" as the primary item action"; ObjectID = "a5e-FP-sDv"; */
 "a5e-FP-sDv.title" = "Utiliser \"Ouvrir avec Keka\" comme action principale";
+
+/* Class = "NSButtonCell"; title = "Show in plain text"; ObjectID = "aOv-6b-JlO"; */
+"aOv-6b-JlO.title" = "Afficher le mot de passe";
 
 /* Class = "NSButtonCell"; title = "Use parent folder name when compressing multiple files"; ObjectID = "cDs-NB-2os"; */
 "cDs-NB-2os.title" = "Utiliser le nom du dossier parent lors de la compression de plusieurs fichiers";
@@ -287,6 +299,12 @@
 /* Class = "NSMenuItem"; title = "Never, when possible"; ObjectID = "tEH-O0-NxO"; */
 "tEH-O0-NxO.title" = "Jamais, lorsque possible";
 
+/* Class = "NSButtonCell"; title = "Use the default password on new compressions"; ObjectID = "u2R-2w-aOA"; */
+"u2R-2w-aOA.title" = "Utiliser le mot de passe par défaut pour les nouvelles compressions";
+
+/* Class = "NSTextFieldCell"; title = "You can also use this password from the Finder Extension's menu"; ObjectID = "vWb-gb-JBD"; */
+"vWb-gb-JBD.title" = "Vous pouvez ausi utiliser ce mot de passe depuis le menu d'extension Finder";
+
 /* Class = "NSTextFieldCell"; title = "The Finder Extension needs to be enabled in the  System Preferences, Extensions configuration."; ObjectID = "wgz-2S-eXI"; */
 "wgz-2S-eXI.title" = "L'extension Finder doit être activée dans la configuration  Préférences système, Extensions.";
 
@@ -298,3 +316,6 @@
 
 /* Class = "NSTextFieldCell"; title = "Queuing usually results in faster operations and a more responsive behaviour."; ObjectID = "zPq-ei-qUb"; */
 "zPq-ei-qUb.title" = "La mise en file d'attente entraîne généralement des opérations plus rapides et un comportement plus réactif.";
+
+/* Class = "NSButtonCell"; title = "Try the default password when extracting any file"; ObjectID = "zRi-PC-AW9"; */
+"zRi-PC-AW9.title" = "Essayer le mot de passe par défaut lors de l'extraction d'un fichier";

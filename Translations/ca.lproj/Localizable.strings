@@ -66,6 +66,8 @@
 "Select all the volumes from \"%@\" or the folder that contains them" = "Trieu tots els volums de \"%@\" o la carpeta que els conté";
 "Select the folder that contains \"%@\"" = "Trieu la carpeta que conté \"%@\"";
 "Extraction of \"%@\" failed" = "Ha fallat l'extracció de: «%@»";
+"Extraction of \"%@\" completed" = "Extracció de \"%@\" completa";
+"The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "No s'ha pogut aplicar la quarantena.\nReinstal·leu el Keka per solucionar aquest problema";
 "Keka - %i on queue" = "Keka - %i a la cua";
 "Keka can't create this %@ image" = "El Keka no pot crear aquesta imatge %@";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "Només podeu crear una imatge %@ amb una única carpeta. Afegiu tot el contingut a una carpeta i arrossegueu-la al Keka per crear una imatge %@.";
@@ -169,7 +171,8 @@
 "An extension is required" = "Es requereix una extensió";
 "In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "Per tal d'establir el Keka com l'aplicació per defecte, necessitaràs instal·lar una extensió. Fes clic a \"Més informació\" per saber com fer-ho.\n\nRecorda que sempre pots establir el Keka com aplicació per defecte per a qualsevol format fent servir l'opció \"Obtenir informació\" des del Finder.";
 "Your installed extension is obsolete and you should update it." = "L'extensió instal·lada és una versió antiga i s'ha d'actualitzar.";
-"Update" = "Update";
+"Update" = "Actualitzar";
+"Save" = "Salvar";
 "Cannot set Keka as default" = "No s'ha pogut establir el Keka com a l'aplicació per defecte";
 "The intermediate application failed to launch. There is more information in the Console.app." = "L'extensió no s'ha pogut obrir. Trobaràs més informació a la Consola.app.";
 "The intermediate application returned an undefined code." = "L'extensió ha retornat un codi desconegut.";
@@ -225,6 +228,8 @@
 "Report" = "Informar";
 "Report via mail" = "Informar per correu";
 "Review Keka ★★★★★" = "Escriu una ressenya del Keka ★★★★★";
+"Update the default password" = "Actualitza la contrasenya per defecte";
+"Set a default password" = "Crea una contrasenya per defecte";
 
 /*
 // MAS tips

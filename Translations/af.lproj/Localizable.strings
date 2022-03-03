@@ -66,6 +66,8 @@
 "Select all the volumes from \"%@\" or the folder that contains them" = "Kies al die volumes van \“%@\” of die vouer waarin hulle is";
 "Select the folder that contains \"%@\"" = "Kies die vouer waarin \“%@\” lê";
 "Extraction of \"%@\" failed" = "Ekstraheer van \“%@\” het misluk";
+"Extraction of \"%@\" completed" = "Extraction of \"%@\" completed";
+"The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue";
 "Keka - %i on queue" = "Keka - %i in die wagry";
 "Keka can't create this %@ image" = "Keka kan nie hierdie %@-beeld skep nie";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "U kan slegs %@-beeld met ’n enkele vouer skep. Probeer om al u lêers in ’n vouer te plaas en dit na Keka te sleep om die %@-beeld te skep.";
@@ -170,6 +172,7 @@
 "In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "Om Keka as die verstektoepassing op te stel moet u ’n uitbreiding installeer. Klik op \“Nog inligting\” om die nodige stappe te volg.\n\nOnthou dat u Keka altyd as die verstektoepassing vir enige formaat kan opstel d.m.v. die Finder se \“Kry Info\”-paneel.";
 "Your installed extension is obsolete and you should update it." = "U geïnstalleerde uitbreiding is uitgedien en u moet dit bywerk.";
 "Update" = "Werk by";
+"Save" = "Save";
 "Cannot set Keka as default" = "Kan nie Keka as verstek opstel nie";
 "The intermediate application failed to launch. There is more information in the Console.app." = "Die tussentydse toepassing kon nie lanseer nie. Vind meer inligting in die Console.app.";
 "The intermediate application returned an undefined code." = "Die tussentydse toepassing het ’n ongedefinieerde kode teruggedien.";
@@ -225,6 +228,8 @@
 "Report" = "Rapporteer";
 "Report via mail" = "Rapporteer per e-pos";
 "Review Keka ★★★★★" = "Gradeer Keka met ★★★★★";
+"Update the default password" = "Update the default password";
+"Set a default password" = "Set a default password";
 
 /*
 // MAS tips

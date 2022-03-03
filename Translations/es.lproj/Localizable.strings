@@ -66,6 +66,8 @@
 "Select all the volumes from \"%@\" or the folder that contains them" = "Selecciona todos los volúmenes de \"%@\" o la carpeta que los contiene";
 "Select the folder that contains \"%@\"" = "Selecciona la carpeta que contiene \"%@\"";
 "Extraction of \"%@\" failed" = "La descompresión de \"%@\" ha fallado";
+"Extraction of \"%@\" completed" = "Descompresión de \"%@\" completada";
+"The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "No se ha podido aplicar la cuarentena.\nPor favor reinstala Keka para corregir este problema";
 "Keka - %i on queue" = "Keka - %i en espera";
 "Keka can't create this %@ image" = "Keka no puede crear esta imagen %@";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "Sólo puedes crear una imagen %@ con una carpeta. Intenta trasladar todos los archivos a una carpeta y usa esa carpeta para crear la imagen %@ con Keka.";
@@ -169,7 +171,8 @@
 "An extension is required" = "Se requiere una extensión";
 "In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "Para establecer Keka como predeterminada, se necesita instalar una extensión. Haz clic en \"Más información\" para saber como hacerlo.\n\nRecuerda que siempre puedes establecer al Keka como la aplicación predeterminada para cualquier formato desde el panel \"Obtener información\" del Finder.";
 "Your installed extension is obsolete and you should update it." = "La extensión instalada es una versión antigua y es necesario actualizarla.";
-"Update" = "Update";
+"Update" = "Actualizar";
+"Save" = "Guardar";
 "Cannot set Keka as default" = "No se ha podido establecer Keka como predeterminada";
 "The intermediate application failed to launch. There is more information in the Console.app." = "La extensión no se ha podido abrir. Encontrarás más información en la Consola.app.";
 "The intermediate application returned an undefined code." = "La extensión ha devuelto un código desconocido.";
@@ -225,6 +228,8 @@
 "Report" = "Informar";
 "Report via mail" = "Informar por correo";
 "Review Keka ★★★★★" = "Escribe una reseña sobre Keka ★★★★★";
+"Update the default password" = "Actualizar la contraseña por defecto";
+"Set a default password" = "Crear una contraseña por defecto";
 
 /*
 // MAS tips

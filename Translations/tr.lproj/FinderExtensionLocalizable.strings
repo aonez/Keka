@@ -1,6 +1,10 @@
 "Open with Keka" = "Keka ile aç";
 "Compress here" = "Burada sıkıştır";
 "Compress to..." = "Buraya sıkıştır ...";
+"Compress the contents of the folder here" = "Compress the contents of the folder here";
+"Compress the contents of the folder to..." = "Compress the contents of the folder to...";
+"Encrypt with the default password here" = "Encrypt with the default password here";
+"Encrypt with the default password to..." = "Encrypt with the default password to...";
 "Extract here" = "Burada çıkar";
 "Extract to..." = "Buraya çıkar ...";
 "Extract to \"%@\"" = "\"%@\" dizinine çıkar";
