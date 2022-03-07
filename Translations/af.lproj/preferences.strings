@@ -57,7 +57,7 @@
 "280.title" = "In dieselfde vouer as oorspronklike lêer";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "281"; */
-"281.title" = "PAsgemaakte vouer...";
+"281.title" = "Pasgemaakte vouer...";
 
 /* Class = "NSTextFieldCell"; title = "Save to location:"; ObjectID = "282"; */
 "282.title" = "Bewaar na ligging:";
@@ -69,7 +69,7 @@
 "286.title" = "Dieselfde as oorspronklike lêer";
 
 /* Class = "NSMenuItem"; title = "Custom name..."; ObjectID = "287"; */
-"287.title" = "PAsgemaakte naam...";
+"287.title" = "Pasgemaakte naam...";
 
 /* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "357"; */
 "357.title" = "Vra elke keer";
@@ -144,10 +144,10 @@
 "9dE-yV-N3K.title" = "Terugvalvouer:";
 
 /* Class = "NSButtonCell"; title = "Use the default password on new advanced windows"; ObjectID = "9ul-2H-k9o"; */
-"9ul-2H-k9o.title" = "Use the default password on new advanced windows";
+"9ul-2H-k9o.title" = "Gebruik die verstekwagwoord op nuwe gevorderde vensters";
 
 /* Class = "NSButtonCell"; title = "Show encrypt with default password items"; ObjectID = "AU8-I0-71W"; */
-"AU8-I0-71W.title" = "Show encrypt with default password items";
+"AU8-I0-71W.title" = "Toon enkripsie met verstekwagwoorditems";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "CWc-wN-FhI"; */
 "CWc-wN-FhI.title" = "Pasgemaakte vouer...";
@@ -201,7 +201,7 @@
 "PD2-iW-BGK.title" = "Aktiveer toegang tot die tuisvouer sodat Keka op al u lêers, soos in u Werkskerm of Aflaaie-vouer, gebruik kan word.";
 
 /* Class = "NSTextFieldCell"; title = "Default password:"; ObjectID = "Rgr-FP-Kua"; */
-"Rgr-FP-Kua.title" = "Default password:";
+"Rgr-FP-Kua.title" = "Verstekwagwoord:";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "Aktiveer integrasie in kennisgewings";
@@ -213,7 +213,7 @@
 "WCN-jH-W9J.placeholderString" = "U pasgemaakte naam hier";
 
 /* Class = "NSButtonCell"; title = "Remove bad password header structure extractions"; ObjectID = "Wd0-yz-M1h"; */
-"Wd0-yz-M1h.title" = "Remove bad password header structure extractions";
+"Wd0-yz-M1h.title" = "Verwyder slegte wagwoordkopstruktuurekstrahering";
 
 /* Class = "NSMenuItem"; title = "Automatic"; ObjectID = "XOB-JO-UQT"; */
 "XOB-JO-UQT.title" = "Outomaties";
@@ -228,7 +228,7 @@
 "a5e-FP-sDv.title" = "Gebruik \“Open met Keka\” as die primêre itemaksie";
 
 /* Class = "NSButtonCell"; title = "Show in plain text"; ObjectID = "aOv-6b-JlO"; */
-"aOv-6b-JlO.title" = "Show in plain text";
+"aOv-6b-JlO.title" = "Toon in skoonteks";
 
 /* Class = "NSButtonCell"; title = "Use parent folder name when compressing multiple files"; ObjectID = "cDs-NB-2os"; */
 "cDs-NB-2os.title" = "Gebruik die boliggende vouernaam wanneer meerdere lêers saamgepers word";
@@ -300,10 +300,10 @@
 "tEH-O0-NxO.title" = "Nooit, wanneer moontlik";
 
 /* Class = "NSButtonCell"; title = "Use the default password on new compressions"; ObjectID = "u2R-2w-aOA"; */
-"u2R-2w-aOA.title" = "Use the default password on new compressions";
+"u2R-2w-aOA.title" = "Gebruik die verstekwagwoord op nuwe samepersings";
 
 /* Class = "NSTextFieldCell"; title = "You can also use this password from the Finder Extension's menu"; ObjectID = "vWb-gb-JBD"; */
-"vWb-gb-JBD.title" = "You can also use this password from the Finder Extension's menu";
+"vWb-gb-JBD.title" = "U kan ook hierdie wagwoord vanuit die Finder se uitbreidingskieslys gebruik";
 
 /* Class = "NSTextFieldCell"; title = "The Finder Extension needs to be enabled in the  System Preferences, Extensions configuration."; ObjectID = "wgz-2S-eXI"; */
 "wgz-2S-eXI.title" = "Die Finder-uitbreiding moet in die  Stelselvoorkeure, Uitbreidings-opstelling geaktiveer word.";
@@ -318,4 +318,4 @@
 "zPq-ei-qUb.title" = "Gebruik van die wagry lewer gewoonlik vinniger aksies en stabieler verrigting.";
 
 /* Class = "NSButtonCell"; title = "Try the default password when extracting any file"; ObjectID = "zRi-PC-AW9"; */
-"zRi-PC-AW9.title" = "Try the default password when extracting any file";
+"zRi-PC-AW9.title" = "Probeer die verstekwagwoord wanneer enige lêer geëkstraheer word";
