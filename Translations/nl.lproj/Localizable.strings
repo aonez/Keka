@@ -9,6 +9,7 @@
 "File Access" = "Bestand Toegang";
 "Performance" = "Prestatie";
 "Finder Extension" = "Finder Extensie";
+"Passwords" = "Wachtwoorden";
 "Love" = "Liefde";
 "OK" = "OK";
 "Done" = "OK";
@@ -66,8 +67,8 @@
 "Select all the volumes from \"%@\" or the folder that contains them" = "Selecteer alle volumen van \"%@\" of die map die ze bevat";
 "Select the folder that contains \"%@\"" = "Selecteer de map die bevat \"%@\"";
 "Extraction of \"%@\" failed" = "Uitpakken van \"%@\" mislukt";
-"Extraction of \"%@\" completed" = "Extraction of \"%@\" completed";
-"The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue";
+"Extraction of \"%@\" completed" = "Uitpakken van \"%@\" voltooid";
+"The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "Uitpakken is gelukt maar quarantine kon niet toegepast worden.\nInstalleer Keka alstublieft opnieuw om dit op te lossen";
 "Keka - %i on queue" = "Keka - %i in de wachtrij";
 "Keka can't create this %@ image" = "Keka kan dit %@-bestand niet aanmaken";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "U kan enkel een %@-bestand aanmaken met één enkele map. Probeer al uw bestanden in één folder te verzamelen en sleep deze folder dan op Keka om een %@-bestand aan te maken.";
@@ -172,7 +173,7 @@
 "In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "Om keka als standaard in/uitpak-programma in te stellen is een extensie nodig. Klik op \"Meer informatie\" en volg de benodigde stappen.\n\nJe kan Keka altijd instellen als standaard applicatie via Finder's \"Toon info\" paneel.";
 "Your installed extension is obsolete and you should update it." = "De geïnstalleerde extensie is verouderd en heeft een update nodig";
 "Update" = "Update";
-"Save" = "Save";
+"Save" = "Bewaren";
 "Cannot set Keka as default" = "Kan Keka niet als standaard applicatie instellen";
 "The intermediate application failed to launch. There is more information in the Console.app." = "De intermediate applicatie kan niet starten. Er is meer informatie in Console.app.";
 "The intermediate application returned an undefined code." = "De intermediate applicatie gaf een ongeldige code terug.";
@@ -228,8 +229,8 @@
 "Report" = "Rapporteer";
 "Report via mail" = "Rapporteer via email";
 "Review Keka ★★★★★" = "Geef Keka een ★★★★★ recensie";
-"Update the default password" = "Update the default password";
-"Set a default password" = "Set a default password";
+"Update the default password" = "Werk het standaard wachtwoord bij";
+"Set a default password" = "Stel een standaard wachtwoord in";
 
 /*
 // MAS tips
