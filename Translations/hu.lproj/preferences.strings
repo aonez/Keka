@@ -144,10 +144,10 @@
 "9dE-yV-N3K.title" = "Tartalék mappa:";
 
 /* Class = "NSButtonCell"; title = "Use the default password on new advanced windows"; ObjectID = "9ul-2H-k9o"; */
-"9ul-2H-k9o.title" = "Use the default password on new advanced windows";
+"9ul-2H-k9o.title" = "Alapértelmezett jelszó használata a haladó ablakokban";
 
 /* Class = "NSButtonCell"; title = "Show encrypt with default password items"; ObjectID = "AU8-I0-71W"; */
-"AU8-I0-71W.title" = "Show encrypt with default password items";
+"AU8-I0-71W.title" = "Tömörítés az alapértelmezett jelszóval menüpontok megjelenítése";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "CWc-wN-FhI"; */
 "CWc-wN-FhI.title" = "Egyedi mappa...";
@@ -201,7 +201,7 @@
 "PD2-iW-BGK.title" = "Engedélyezze a kezdőkönyvtárhoz való hozzáférést, hogy a Keka-t az összes itt található fájlal használhassa, mintpéldául, amik az asztalon és a letöltések mappában találhatóak.";
 
 /* Class = "NSTextFieldCell"; title = "Default password:"; ObjectID = "Rgr-FP-Kua"; */
-"Rgr-FP-Kua.title" = "Default password:";
+"Rgr-FP-Kua.title" = "Alapértelmezett jelszó:";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "Értesítési központ támogatás engedélyezése";
@@ -228,7 +228,7 @@
 "a5e-FP-sDv.title" = "\"Megnyitás a Keka-val\" használata, mint elsődleges menüpont";
 
 /* Class = "NSButtonCell"; title = "Show in plain text"; ObjectID = "aOv-6b-JlO"; */
-"aOv-6b-JlO.title" = "Show in plain text";
+"aOv-6b-JlO.title" = "Karakterek megjelenítése";
 
 /* Class = "NSButtonCell"; title = "Use parent folder name when compressing multiple files"; ObjectID = "cDs-NB-2os"; */
 "cDs-NB-2os.title" = "Szülő mappa nevének használata, több fájl tömörítése esetén";
@@ -300,10 +300,10 @@
 "tEH-O0-NxO.title" = "Soha, ha lehetséges";
 
 /* Class = "NSButtonCell"; title = "Use the default password on new compressions"; ObjectID = "u2R-2w-aOA"; */
-"u2R-2w-aOA.title" = "Use the default password on new compressions";
+"u2R-2w-aOA.title" = "Alapértelmezett jelszó használata új tömörítéseknél";
 
 /* Class = "NSTextFieldCell"; title = "You can also use this password from the Finder Extension's menu"; ObjectID = "vWb-gb-JBD"; */
-"vWb-gb-JBD.title" = "You can also use this password from the Finder Extension's menu";
+"vWb-gb-JBD.title" = "A Finder bővítmény menüjéből is használható ez a jelszó";
 
 /* Class = "NSTextFieldCell"; title = "The Finder Extension needs to be enabled in the  System Preferences, Extensions configuration."; ObjectID = "wgz-2S-eXI"; */
 "wgz-2S-eXI.title" = "A Finder bővítményt engedélyezni kell a  Rendszerbeállítások, Bővítmények alatt.";
@@ -318,4 +318,4 @@
 "zPq-ei-qUb.title" = "A sorbaállítás általában gyorsabb eredményhez vezet.";
 
 /* Class = "NSButtonCell"; title = "Try the default password when extracting any file"; ObjectID = "zRi-PC-AW9"; */
-"zRi-PC-AW9.title" = "Try the default password when extracting any file";
+"zRi-PC-AW9.title" = "Próbálja meg az alapértelmezett jelszót kicsomagolásnál";
