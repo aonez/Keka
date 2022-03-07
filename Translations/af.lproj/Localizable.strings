@@ -22,7 +22,7 @@
 "This means that all the compatible files will be extracted with Keka by now. You can set this later in the Keka Preferences." = "Dit beteken dat al die versoenbare lêers met Keka geëkstraheer sal word. U kan dit later in die Keka-voorkeure instel.";
 "Really want to close Keka?" = "Wil u regtig Keka afsluit?";
 "The current operations will be canceled. If you choose to wait and quit Keka will exit when all work is done." = "Die huidige aksies sal gekanselleer word. Indien u liewer wil sal Keka self afsluit wanneer alle aksies klaar is.";
-"Password needed" = "Password benodig";
+"Password needed" = "Wagwoord benodig";
 "File \"%@\" needs a password to be extracted" = "Lêer \“%@\” benodig ’n wagwoord om geëkstraheer te word";
 "File \"%@\" needs a special encoding to be extracted" = "Lêer \“%@\” benodig spesiale enkodering om geëkstraheer te word";
 "Extraction of \"%@\" done" = "Ekstrahering van \“%@\” is klaar";
@@ -40,7 +40,7 @@
 "Waiting..." = "Wag tans...";
 "Extracting \"%@\"" = "Ekstraheer tans \“%@\”";
 "Extracting \"%@...\"" = "Ekstraheer tans \“%@...\”";
-"Creating %@ file..." = "Creating %@ file...";
+"Creating %@ file..." = "Skep tans %@ lêer...";
 "Creating file \"%@\"" = "Skep tans lêer \“%@\”";
 "Creating file \"%@...\"" = "Skep tans lêer \“@...\”";
 "Volume name:" = "Volumenaam:";
@@ -57,7 +57,7 @@
 "Cancel" = "Kanselleer";
 "Close" = "Sluit";
 "Operation failed" = "Aksie het misluk";
-"Operation failed with error code %d" = "Aksie het misluk met fourkode %d";
+"Operation failed with error code %d" = "Aksie het misluk met foutkode %d";
 "Choose a name and folder to start the compression" = "Kies ’n naam en vouer om die samepersing te begin";
 "Creation of \"%@\" failed" = "Skep van \“%@\” het misluk";
 "Creating \"%@\"" = "Skep tans \“%@\”";
@@ -67,15 +67,15 @@
 "Select all the volumes from \"%@\" or the folder that contains them" = "Kies al die volumes van \“%@\” of die vouer waarin hulle is";
 "Select the folder that contains \"%@\"" = "Kies die vouer waarin \“%@\” lê";
 "Extraction of \"%@\" failed" = "Ekstraheer van \“%@\” het misluk";
-"Extraction of \"%@\" completed" = "Extraction of \"%@\" completed";
-"The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue";
+"Extraction of \"%@\" completed" = "Ekstraheer van \"%@\" voltooi";
+"The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "Ekstrahering is voltooi maar kwarantyn kon nie toegepas word nie.\nHerinstalleer Keka asb. om hierdie probleem op te los";
 "Keka - %i on queue" = "Keka - %i in die wagry";
 "Keka can't create this %@ image" = "Keka kan nie hierdie %@-beeld skep nie";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "U kan slegs %@-beeld met ’n enkele vouer skep. Probeer om al u lêers in ’n vouer te plaas en dit na Keka te sleep om die %@-beeld te skep.";
 "Keka can't create this @% tarball" = "Keka kan nie hierdie @%-tarball skep nie";
 "This operation is not supported on %@." = "Hierdie aksie word nie op %@ ondersteun nie.";
 "Compress \"%@\" in %@ to..." = "Pers \“%@\” saam in %@ na...";
-"Compress in %@ to..." = "Compress in %@ to...";
+"Compress in %@ to..." = "Pers saam in %@ na...";
 "Save as:" = "Bewaar as:";
 "Compress" = "Pers saam";
 "Extract \"%@\" to..." = "Ekstraheer \“%@\” na…";
@@ -229,8 +229,8 @@
 "Report" = "Rapporteer";
 "Report via mail" = "Rapporteer per e-pos";
 "Review Keka ★★★★★" = "Gradeer Keka met ★★★★★";
-"Update the default password" = "Update the default password";
-"Set a default password" = "Set a default password";
+"Update the default password" = "Werk die verstekwagwoord by";
+"Set a default password" = "Stel ’n verstekwagwoord in";
 
 /*
 // MAS tips
