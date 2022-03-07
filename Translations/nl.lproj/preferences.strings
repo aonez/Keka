@@ -144,10 +144,10 @@
 "9dE-yV-N3K.title" = "Terugval locatie:";
 
 /* Class = "NSButtonCell"; title = "Use the default password on new advanced windows"; ObjectID = "9ul-2H-k9o"; */
-"9ul-2H-k9o.title" = "Use the default password on new advanced windows";
+"9ul-2H-k9o.title" = "Gebruik het standaard wachtwoord bij Keka programma scherm";
 
 /* Class = "NSButtonCell"; title = "Show encrypt with default password items"; ObjectID = "AU8-I0-71W"; */
-"AU8-I0-71W.title" = "Show encrypt with default password items";
+"AU8-I0-71W.title" = "Toon versleutel met standaard wachtwoord items";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "CWc-wN-FhI"; */
 "CWc-wN-FhI.title" = "Zelfgekozen map...";
@@ -201,7 +201,7 @@
 "PD2-iW-BGK.title" = "Activeer toegang tot de thuismap zodat Keka bij de juiste mappen kan, zoals Desktop, Documenten en Download map.";
 
 /* Class = "NSTextFieldCell"; title = "Default password:"; ObjectID = "Rgr-FP-Kua"; */
-"Rgr-FP-Kua.title" = "Default password:";
+"Rgr-FP-Kua.title" = "Standaard wachtwoord:";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "Activeer integratie in Berichtgeving";
@@ -228,7 +228,7 @@
 "a5e-FP-sDv.title" = "Gebruik \"Open met Keka\" als primaire menu actie";
 
 /* Class = "NSButtonCell"; title = "Show in plain text"; ObjectID = "aOv-6b-JlO"; */
-"aOv-6b-JlO.title" = "Show in plain text";
+"aOv-6b-JlO.title" = "Toon zichtbaar";
 
 /* Class = "NSButtonCell"; title = "Use parent folder name when compressing multiple files"; ObjectID = "cDs-NB-2os"; */
 "cDs-NB-2os.title" = "Gebruik de naam van hoofdmap bij inpakken van meerdere bestanden";
@@ -300,10 +300,10 @@
 "tEH-O0-NxO.title" = "Nooit, wanneer mogelijk";
 
 /* Class = "NSButtonCell"; title = "Use the default password on new compressions"; ObjectID = "u2R-2w-aOA"; */
-"u2R-2w-aOA.title" = "Use the default password on new compressions";
+"u2R-2w-aOA.title" = "Gebruik het standaard wachtwoord bij drag-en-drop acties op Keka icoon";
 
 /* Class = "NSTextFieldCell"; title = "You can also use this password from the Finder Extension's menu"; ObjectID = "vWb-gb-JBD"; */
-"vWb-gb-JBD.title" = "You can also use this password from the Finder Extension's menu";
+"vWb-gb-JBD.title" = "Je kan dit wachtwoord ook gebruiken via de Finder Extensie";
 
 /* Class = "NSTextFieldCell"; title = "The Finder Extension needs to be enabled in the  System Preferences, Extensions configuration."; ObjectID = "wgz-2S-eXI"; */
 "wgz-2S-eXI.title" = "De Finder Extensie moet geactiveerd worden in  Systemvoorkeuren, Extensies, Finder-extensies.";
@@ -318,4 +318,4 @@
 "zPq-ei-qUb.title" = "Gebruik maken van de wachtrij zorgt voor snellere acties en een algemene betere stabiliteit.";
 
 /* Class = "NSButtonCell"; title = "Try the default password when extracting any file"; ObjectID = "zRi-PC-AW9"; */
-"zRi-PC-AW9.title" = "Try the default password when extracting any file";
+"zRi-PC-AW9.title" = "Probeer het standaard wachtwoord bij het uitpakken van een bestand";

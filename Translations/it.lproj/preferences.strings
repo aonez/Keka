@@ -141,13 +141,13 @@
 "8Uc-pg-EyS.title" = "Utilizza la barra strumenti unificata (ripristina personalizzazioni)";
 
 /* Class = "NSTextFieldCell"; title = "Fallback folder:"; ObjectID = "9dE-yV-N3K"; */
-"9dE-yV-N3K.title" = "Cartella di fallback::";
+"9dE-yV-N3K.title" = "Cartella di fallback:";
 
 /* Class = "NSButtonCell"; title = "Use the default password on new advanced windows"; ObjectID = "9ul-2H-k9o"; */
-"9ul-2H-k9o.title" = "Use the default password on new advanced windows";
+"9ul-2H-k9o.title" = "Utilizza la password di default nelle nuove finestre avanzate";
 
 /* Class = "NSButtonCell"; title = "Show encrypt with default password items"; ObjectID = "AU8-I0-71W"; */
-"AU8-I0-71W.title" = "Show encrypt with default password items";
+"AU8-I0-71W.title" = "Mostra le opzioni per crittografare con la password di default";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "CWc-wN-FhI"; */
 "CWc-wN-FhI.title" = "Cartella personalizzata...";
@@ -201,7 +201,7 @@
 "PD2-iW-BGK.title" = "Abilita l'accesso personale in modo da poter utilizzare Keka su tutti i tuoi file utente, come quelli che sono sulla Scrivania o nella cartella Download.";
 
 /* Class = "NSTextFieldCell"; title = "Default password:"; ObjectID = "Rgr-FP-Kua"; */
-"Rgr-FP-Kua.title" = "Default password:";
+"Rgr-FP-Kua.title" = "Password di default:";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "Attiva integrazione Centro Notifiche";
@@ -228,7 +228,7 @@
 "a5e-FP-sDv.title" = "Utilizza \"Apri con Keka\" come azione dell'elemento principale";
 
 /* Class = "NSButtonCell"; title = "Show in plain text"; ObjectID = "aOv-6b-JlO"; */
-"aOv-6b-JlO.title" = "Show in plain text";
+"aOv-6b-JlO.title" = "Mostra la password";
 
 /* Class = "NSButtonCell"; title = "Use parent folder name when compressing multiple files"; ObjectID = "cDs-NB-2os"; */
 "cDs-NB-2os.title" = "Utilizza il nome della cartella superiore durante la compressione di più file";
@@ -300,10 +300,10 @@
 "tEH-O0-NxO.title" = "Mai, quando possibile";
 
 /* Class = "NSButtonCell"; title = "Use the default password on new compressions"; ObjectID = "u2R-2w-aOA"; */
-"u2R-2w-aOA.title" = "Use the default password on new compressions";
+"u2R-2w-aOA.title" = "Utilizza la password di default sulle nuove compressioni";
 
 /* Class = "NSTextFieldCell"; title = "You can also use this password from the Finder Extension's menu"; ObjectID = "vWb-gb-JBD"; */
-"vWb-gb-JBD.title" = "You can also use this password from the Finder Extension's menu";
+"vWb-gb-JBD.title" = "Puoi anche utilizzare questa password dal menu dell'estensione del Finder";
 
 /* Class = "NSTextFieldCell"; title = "The Finder Extension needs to be enabled in the  System Preferences, Extensions configuration."; ObjectID = "wgz-2S-eXI"; */
 "wgz-2S-eXI.title" = "L'estensione del Finder deve essere abilitata in  > Preferenze di Sistema > Estensioni.";
@@ -318,4 +318,4 @@
 "zPq-ei-qUb.title" = "L'accodamento di solito comporta operazioni più veloci e un comportamento più reattivo.";
 
 /* Class = "NSButtonCell"; title = "Try the default password when extracting any file"; ObjectID = "zRi-PC-AW9"; */
-"zRi-PC-AW9.title" = "Try the default password when extracting any file";
+"zRi-PC-AW9.title" = "Prova la password di default durante l'estrazione di un file";

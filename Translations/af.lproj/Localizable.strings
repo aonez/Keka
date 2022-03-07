@@ -9,6 +9,7 @@
 "File Access" = "Lêertoegang";
 "Performance" = "Verrigting";
 "Finder Extension" = "Finder-uitbreiding";
+"Passwords" = "Wagwoorde";
 "Love" = "Liefde";
 "OK" = "Goed";
 "Done" = "Gereed";
@@ -105,7 +106,7 @@
 "Normal" = "Normaal";
 "Slow, more compression" = "Stadig, meer samepersing";
 "Slowest, more compression" = "Stadigste, meer samepersing";
-"Compression" = "samepersing";
+"Compression" = "Samepersing";
 "Extraction" = "Ekstrahering";
 "Keka can't use the \"extlx.plist\" list, please get in contact with the developers.\n\nNow Keka will quit." = "Keka kan nie die \“extlx.plist\”-lys gebruik nie, kontak asb. die ontwikkelaars.\n\nKeka sal nou afsluit.";
 "Keka is dying!" = "Keka het opgehou werk!";

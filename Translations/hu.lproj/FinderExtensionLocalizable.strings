@@ -1,10 +1,10 @@
 "Open with Keka" = "Megnyitás Keka-val";
 "Compress here" = "Tömörítés ide";
 "Compress to..." = "Tömörítés más helyre...";
-"Compress the contents of the folder here" = "Compress the contents of the folder here";
-"Compress the contents of the folder to..." = "Compress the contents of the folder to...";
-"Encrypt with the default password here" = "Encrypt with the default password here";
-"Encrypt with the default password to..." = "Encrypt with the default password to...";
+"Compress the contents of the folder here" = "A mappa tartalmának tömörítése ide";
+"Compress the contents of the folder to..." = "A mappa tartalmának tömörítése...";
+"Encrypt with the default password here" = "Titkosítás az alapértelmezett jelszóval ide";
+"Encrypt with the default password to..." = "Titkosítás az alapértelmezett jelszóval...";
 "Extract here" = "Kicsomagolás ide";
 "Extract to..." = "Kicsomagolás más helyre...";
 "Extract to \"%@\"" = "Kicsomagolás a következő helyre: \"%@\"";

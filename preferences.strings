@@ -1,321 +1,321 @@
 ﻿
 /* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
-"159.title" = "預設格式：";
+"159.title" = "Formato padrão:";
 
 /* Class = "NSTextFieldCell"; title = "Default method:"; ObjectID = "160"; */
-"160.title" = "預設模式：";
+"160.title" = "Método padrão:";
 
 /* Class = "NSMenuItem"; title = "No compression"; ObjectID = "164"; */
-"164.title" = "不壓縮";
+"164.title" = "Sem compressão";
 
 /* Class = "NSMenuItem"; title = "Fast, less compression"; ObjectID = "165"; */
-"165.title" = "快速，較低壓縮率";
+"165.title" = "Rápido, menos compressão";
 
 /* Class = "NSMenuItem"; title = "Normal"; ObjectID = "166"; */
-"166.title" = "正常速度";
+"166.title" = "Normal";
 
 /* Class = "NSMenuItem"; title = "Fastest, less compression"; ObjectID = "167"; */
-"167.title" = "非常快，低壓縮率";
+"167.title" = "Rápido, menor compressão";
 
 /* Class = "NSMenuItem"; title = "Slowest, more compression"; ObjectID = "168"; */
-"168.title" = "非常慢，高壓縮率";
+"168.title" = "Lento, maior compressão";
 
 /* Class = "NSMenuItem"; title = "Slow, more compression"; ObjectID = "169"; */
-"169.title" = "慢速，高壓縮率";
+"169.title" = "Lento, mais compressão";
 
 /* Class = "NSButtonCell"; title = "Set Keka as the default uncompressor"; ObjectID = "184"; */
-"184.title" = "將 Keka 設為預設的解壓縮工具";
+"184.title" = "Definir como Ferramenta Padrão de Arquivos Comprimidos";
 
 /* Class = "NSButtonCell"; title = "Close Keka when no windows are open"; ObjectID = "187"; */
-"187.title" = "當所有視窗關閉時，也關閉 Keka";
+"187.title" = "Encerrar quando não houver janelas abertas";
 
 /* Class = "NSMenuItem"; title = "Always extract"; ObjectID = "197"; */
-"197.title" = "總是解壓縮";
+"197.title" = "Sempre extrair";
 
 /* Class = "NSMenuItem"; title = "Always compress"; ObjectID = "198"; */
-"198.title" = "總是壓縮";
+"198.title" = "Sempre comprimir";
 
 /* Class = "NSMenuItem"; title = "Perform automatic action"; ObjectID = "199"; */
-"199.title" = "自動判斷動作";
+"199.title" = "Escolha automática";
 
 /* Class = "NSButtonCell"; title = "Move original file(s) to Trash after compression"; ObjectID = "262"; */
-"262.title" = "壓縮完成後，將原本的檔案丟到垃圾桶";
+"262.title" = "Mover arquivo original para o Lixo após comprimir";
 
 /* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "263"; */
-"263.title" = "分開封存檔案";
+"263.title" = "Comprimir itens separadamente";
 
 /* Class = "NSButtonCell"; title = "Show file in Finder after compression"; ObjectID = "264"; */
-"264.title" = "壓縮完成後在 Finder 中顯示";
+"264.title" = "Mostrar no Finder após comprimir";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "265"; */
-"265.title" = "排除 Mac 的資源 fork (例如: .DS_Store)";
+"265.title" = "Excluir arquivos invisíveis do Mac (ex.: .DS_Store)";
 
 /* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "279"; */
-"279.title" = "每次都詢問";
+"279.title" = "Sempre perguntar";
 
 /* Class = "NSMenuItem"; title = "Next to original file"; ObjectID = "280"; */
-"280.title" = "與原本檔案同位置";
+"280.title" = "Junto ao original";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "281"; */
-"281.title" = "自訂檔案夾⋯";
+"281.title" = "Pasta personalizada…";
 
 /* Class = "NSTextFieldCell"; title = "Save to location:"; ObjectID = "282"; */
-"282.title" = "儲存位置：";
+"282.title" = "Onde salvar:";
 
 /* Class = "NSTextFieldCell"; title = "Name of new files:"; ObjectID = "283"; */
-"283.title" = "新檔名：";
+"283.title" = "Nome do arquivo comprimido:";
 
 /* Class = "NSMenuItem"; title = "Same as original file"; ObjectID = "286"; */
-"286.title" = "與原本檔案相同";
+"286.title" = "Igual ao original";
 
 /* Class = "NSMenuItem"; title = "Custom name..."; ObjectID = "287"; */
-"287.title" = "自訂名稱⋯";
+"287.title" = "Nome personalizado…";
 
 /* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "357"; */
-"357.title" = "每次都詢問";
+"357.title" = "Sempre perguntar";
 
 /* Class = "NSMenuItem"; title = "Next to original file"; ObjectID = "358"; */
-"358.title" = "與原本檔案同位置";
+"358.title" = "Junto ao original";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "359"; */
-"359.title" = "自訂檔案夾⋯";
+"359.title" = "Pasta personalizada…";
 
 /* Class = "NSTextFieldCell"; title = "Extract to location:"; ObjectID = "360"; */
-"360.title" = "解壓縮位置：";
+"360.title" = "Extrair para:";
 
 /* Class = "NSButtonCell"; title = "Show content in Finder after extraction"; ObjectID = "361"; */
-"361.title" = "解壓縮完成後在 Finder 中顯示";
+"361.title" = "Mostrar conteúdo no Finder após extrair";
 
 /* Class = "NSButtonCell"; title = "Move compressed file(s) to Trash after extraction"; ObjectID = "362"; */
-"362.title" = "壓縮完成後將原檔丟到垃圾桶";
+"362.title" = "Mover arquivo comprimido para o Lixo após extrair";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "418"; */
-"418.title" = "無";
+"418.title" = "Nenhum";
 
 /* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "419"; */
-"419.title" = "預設壓縮音效";
+"419.title" = "Padrão de compressão";
 
 /* Class = "NSMenuItem"; title = "Default extraction"; ObjectID = "432"; */
-"432.title" = "預設解壓縮音效";
+"432.title" = "Padrão de extração";
 
 /* Class = "NSTextFieldCell"; title = "Play a sound after an extraction:"; ObjectID = "433"; */
-"433.title" = "解壓縮完成播放通知音效：";
+"433.title" = "Reproduzir som após extrair:";
 
 /* Class = "NSTextFieldCell"; title = "Play a sound after a compression:"; ObjectID = "436"; */
-"436.title" = "壓縮完成播放通知音效：";
+"436.title" = "Reproduzir som após comprimir:";
 
 /* Class = "NSMenuItem"; title = "Default extraction"; ObjectID = "439"; */
-"439.title" = "預設解壓縮音效";
+"439.title" = "Padrão de extração";
 
 /* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "452"; */
-"452.title" = "預設壓縮音效";
+"452.title" = "Padrão de compressão";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "453"; */
-"453.title" = "無";
+"453.title" = "Nenhum";
 
 /* Class = "NSButtonCell"; title = "Rename the recognized extension from the subfolder"; ObjectID = "1TK-Zy-623"; */
-"1TK-Zy-623.title" = "重新命名子資料夾中辨識出的副檔名";
+"1TK-Zy-623.title" = "Renomear extensão reconhecida da subpasta";
 
 /* Class = "NSButtonCell"; title = "Use custom tasks counter in the Dock"; ObjectID = "3cf-gN-q24"; */
-"3cf-gN-q24.title" = "在 Dock 中使用自訂作業計數器";
+"3cf-gN-q24.title" = "Usar contador de tarefas personalizado no Dock";
 
 /* Class = "NSButtonCell"; title = "Show icon in primary item"; ObjectID = "47Y-rt-2fG"; */
-"47Y-rt-2fG.title" = "顯示主要項目的圖示";
+"47Y-rt-2fG.title" = "Mostrar ícone no item principal";
 
 /* Class = "NSTextFieldCell"; title = "You can also customize the access below:"; ObjectID = "5B7-Sc-wp0"; */
-"5B7-Sc-wp0.title" = "您可以在以下選項中自訂取用權限：";
+"5B7-Sc-wp0.title" = "Você também pode personalizar o acesso abaixo:";
 
 /* Class = "NSButtonCell"; title = "Automatically check for updates"; ObjectID = "63y-ct-DNM"; */
-"63y-ct-DNM.title" = "自動檢查更新";
+"63y-ct-DNM.title" = "Buscar atualizações automaticamente";
 
 /* Class = "NSMenuItem"; title = "Desktop"; ObjectID = "67Z-kB-INb"; */
-"67Z-kB-INb.title" = "桌面";
+"67Z-kB-INb.title" = "Mesa";
 
 /* Class = "NSButtonCell"; title = "Nest actions in a submenu"; ObjectID = "6bh-6N-5PP"; */
-"6bh-6N-5PP.title" = "在子選單中包含另一層動作";
+"6bh-6N-5PP.title" = "Reunir ações em um submenu";
 
 /* Class = "NSTextFieldCell"; title = "You can use this placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n%pb% will be replaced with the clipboard string\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
-"8JN-Ub-qkc.title" = "您可以使用這些佔位符號：\n\n%n 會取代成檔案名稱\n%e 會取代成檔案副檔名\n%p 會取代成上層檔案夾\n%c 會取代成檔案數\n%d 會取代成目前日期\n%t 會取代成目前時間\n%s 會取代成共享的名稱\n%i% 會取代成第一個項目的名稱\n%ia% 會取代成排序後第一個項目的名稱\n%pb% 會取代成剪貼板的字串內容\n\n某些情況下，取代後的佔位符號會是空白的。";
+"8JN-Ub-qkc.title" = "Você pode usar estes marcadores:\n\n%n será substituído pelo nome do arquivo\n%e será substituído pela extensão do arquivo\n%p será substituído pela pasta superior\n%c será substituído pelo número de arquivos\n%d será substituído pela data atual\n%t será substituído pela hora atual\n%s será substituído pelo nome compartilhado\n%i% será substituído pelo nome do primeiro item\n%ia% será substituído pelo primeiro nome da ordenação\n%pb% será substituído pelo texto na área de transferência\n\nEm alguns casos, as substituições estarão vazias.";
 
 /* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "8Uc-pg-EyS"; */
-"8Uc-pg-EyS.title" = "使用統一工具列 (重設個人自訂項目)";
+"8Uc-pg-EyS.title" = "Usar barra de ferramentas unificada (redefine personalizações)";
 
 /* Class = "NSTextFieldCell"; title = "Fallback folder:"; ObjectID = "9dE-yV-N3K"; */
-"9dE-yV-N3K.title" = "備用檔案夾：";
+"9dE-yV-N3K.title" = "Pasta alternativa:";
 
 /* Class = "NSButtonCell"; title = "Use the default password on new advanced windows"; ObjectID = "9ul-2H-k9o"; */
-"9ul-2H-k9o.title" = "在新的進階視窗使用預設密碼";
+"9ul-2H-k9o.title" = "Usar senha padrão em novas janelas avançadas";
 
 /* Class = "NSButtonCell"; title = "Show encrypt with default password items"; ObjectID = "AU8-I0-71W"; */
-"AU8-I0-71W.title" = "顯示使用預設密碼加密的項目";
+"AU8-I0-71W.title" = "Mostrar opções de criptografia com a senha padrão";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "CWc-wN-FhI"; */
-"CWc-wN-FhI.title" = "自訂檔案夾⋯";
+"CWc-wN-FhI.title" = "Pasta personalizada…";
 
 /* Class = "NSTextFieldCell"; title = "Extractions use less power so even using multiple thread you can easily set this limit to two or three. Note that the target disk may suffer."; ObjectID = "DAr-Td-s5W"; */
-"DAr-Td-s5W.title" = "解壓縮較不吃效能，即便使用多執行緒，您都只需把限制設定成 2 或 3。注意：目的地磁碟可能會需要承擔這些壓力。";
+"DAr-Td-s5W.title" = "Você pode definir este limite em dois ou três, já que, mesmo ao usar threads múltiplos, extrações usam menos energia. Note que o disco de destino pode ficar sobrecarregado.";
 
 /* Class = "NSButtonCell"; title = "Ask before quitting with operations"; ObjectID = "DJT-wB-bCM"; */
-"DJT-wB-bCM.title" = "正在執行動作而要結束前先詢問";
+"DJT-wB-bCM.title" = "Perguntar antes de encerrar com operações";
 
 /* Class = "NSButtonCell"; title = "Enable home folder access"; ObjectID = "DL5-wY-cqc"; */
-"DL5-wY-cqc.title" = "啟用家目錄的取用權限";
+"DL5-wY-cqc.title" = "Ativar Acesso à Pasta Pessoal";
 
 /* Class = "NSTextFieldCell"; title = "Default action:"; ObjectID = "EJQ-OL-pMF"; */
-"EJQ-OL-pMF.title" = "預設動作：";
+"EJQ-OL-pMF.title" = "Ação padrão:";
 
 /* Class = "NSMenuItem"; title = "Always"; ObjectID = "EOi-2B-eBv"; */
-"EOi-2B-eBv.title" = "永遠";
+"EOi-2B-eBv.title" = "Sempre";
 
 /* Class = "NSButtonCell"; title = "Use custom name when compressing multiple files"; ObjectID = "Ei5-Ya-HGI"; */
-"Ei5-Ya-HGI.title" = "壓縮多個檔案時，使用自訂名稱";
+"Ei5-Ya-HGI.title" = "Usar nome personalizado ao comprimir vários arquivos";
 
 /* Class = "NSTextFieldCell"; title = "It is recommended to only do one compression at a time if using multiple threads."; ObjectID = "Hkf-wB-gUj"; */
-"Hkf-wB-gUj.title" = "如果使用多執行緒，建議一次只執行一個壓縮動作。";
+"Hkf-wB-gUj.title" = "Ao usar threads múltiplos, é recomendável fazer apenas uma operação de compressão por vez.";
 
 /* Class = "NSTextFieldCell"; title = "Those are only applied when Keka is not open"; ObjectID = "Hx2-S1-j7m"; */
-"Hx2-S1-j7m.title" = "這些設定須待 Keka 關閉後才能套用。";
+"Hx2-S1-j7m.title" = "Aplicáveis apenas quando o Keka não está aberto.";
 
 /* Class = "NSButtonCell"; title = "Enable full Mac access (Recommended)"; ObjectID = "IHj-ac-103"; */
-"IHj-ac-103.title" = "啟用完整 Mac 取用權限（建議）";
+"IHj-ac-103.title" = "Ativar Acesso Total ao Mac (Recomendado)";
 
 /* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive."; ObjectID = "JxT-Nq-8Z5"; */
-"JxT-Nq-8Z5.title" = "啟用外部卷宗的取用權限後，Keka 即可取用如 USB 或 Thunderbolt 的外接硬碟。";
+"JxT-Nq-8Z5.title" = "Ative o acesso a volumes externos para usar o Keka em discos externos, como discos USB ou Thunderbolt.";
 
 /* Class = "NSTextFieldCell"; title = "Queue compression operations:"; ObjectID = "K5h-j5-bss"; */
-"K5h-j5-bss.title" = "佇列壓縮動作：";
+"K5h-j5-bss.title" = "Operações de compressão em fila:";
 
 /* Class = "NSButtonCell"; title = "Inherit quarantine from downloaded files"; ObjectID = "KDR-ag-bll"; */
-"KDR-ag-bll.title" = "繼承下載檔案的隔離標記";
+"KDR-ag-bll.title" = "Herdar quarentena de arquivos baixados";
 
 /* Class = "NSButtonCell"; title = "Show in external volumes"; ObjectID = "KOF-7X-bQo"; */
-"KOF-7X-bQo.title" = "在外部卷宗顯示";
+"KOF-7X-bQo.title" = "Mostrar em volumes externos";
 
 /* Class = "NSTextFieldCell"; title = "Limit the number of threads per operation:"; ObjectID = "ND5-DN-C1H"; */
-"ND5-DN-C1H.title" = "限制每次動作的執行緒數量：";
+"ND5-DN-C1H.title" = "Limitar número de threads por operação:";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "NwI-O4-9NI"; */
-"NwI-O4-9NI.title" = "排除 Mac 的資源 fork（例如：.DS_Store）";
+"NwI-O4-9NI.title" = "Excluir arquivos invisíveis do Mac (ex.: .DS_Store)";
 
 /* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder."; ObjectID = "PD2-iW-BGK"; */
-"PD2-iW-BGK.title" = "啟用家目錄取用權限後，Keka 才能在您所有的使用者檔案使用，例如「桌面」或「下載」檔案夾。";
+"PD2-iW-BGK.title" = "Ative o acesso à pasta pessoal para usar o Keka em todos os seus arquivos de usuário, como arquivos nas pastas Mesa e Downloads.";
 
 /* Class = "NSTextFieldCell"; title = "Default password:"; ObjectID = "Rgr-FP-Kua"; */
-"Rgr-FP-Kua.title" = "預設密碼：";
+"Rgr-FP-Kua.title" = "Senha padrão:";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
-"SOL-6U-5P9.title" = "啟用通知中心整合";
+"SOL-6U-5P9.title" = "Ativar integração com a Central de Notificações";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "TLc-Nk-Bps"; */
-"TLc-Nk-Bps.placeholderString" = "這是您的自訂名稱";
+"TLc-Nk-Bps.placeholderString" = "digite o nome";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "WCN-jH-W9J"; */
-"WCN-jH-W9J.placeholderString" = "自訂名稱";
+"WCN-jH-W9J.placeholderString" = "digite o nome";
 
 /* Class = "NSButtonCell"; title = "Remove bad password header structure extractions"; ObjectID = "Wd0-yz-M1h"; */
-"Wd0-yz-M1h.title" = "移除無效密碼標頭結構的解壓縮";
+"Wd0-yz-M1h.title" = "Remover conteúdo de extrações com senha incorreta";
 
 /* Class = "NSMenuItem"; title = "Automatic"; ObjectID = "XOB-JO-UQT"; */
-"XOB-JO-UQT.title" = "自動";
+"XOB-JO-UQT.title" = "Automaticamente";
 
 /* Class = "NSButtonCell"; title = "Use BZIP2 compression in DMG files (better but slower)"; ObjectID = "Xoi-ui-e7P"; */
-"Xoi-ui-e7P.title" = "在 DMG 檔案使用 BZIP2 壓縮（比較好，但比較慢）";
+"Xoi-ui-e7P.title" = "Usar compressão BZIP2 em arquivos DMG (melhor, porém mais lento)";
 
 /* Class = "NSTextFieldCell"; title = "Enable full Mac access so Keka can be used on all your Mac."; ObjectID = "ZOx-vr-5o7"; */
-"ZOx-vr-5o7.title" = "啟用完整 Mac 取用權限，這樣 Keka 才能在您整個 Mac 使用";
+"ZOx-vr-5o7.title" = "Ative o acesso total ao Mac para usar o Keka em qualquer local do Mac.";
 
 /* Class = "NSButtonCell"; title = "Use \"Open with Keka\" as the primary item action"; ObjectID = "a5e-FP-sDv"; */
-"a5e-FP-sDv.title" = "將「使用 Keka 打開」作為主要項目動作";
+"a5e-FP-sDv.title" = "Usar “Abrir com Keka” como ação principal";
 
 /* Class = "NSButtonCell"; title = "Show in plain text"; ObjectID = "aOv-6b-JlO"; */
-"aOv-6b-JlO.title" = "以明文顯示";
+"aOv-6b-JlO.title" = "Mostrar senha";
 
 /* Class = "NSButtonCell"; title = "Use parent folder name when compressing multiple files"; ObjectID = "cDs-NB-2os"; */
-"cDs-NB-2os.title" = "壓縮多個檔案時，使用上層檔案夾的名稱";
+"cDs-NB-2os.title" = "Usar nome da pasta superior ao comprimir vários arquivos";
 
 /* Class = "NSTextFieldCell"; title = "The fallback folder will be used when Keka can't work in the selected folder."; ObjectID = "caX-B6-61f"; */
-"caX-B6-61f.title" = "「備用檔案夾」會在 Keka 無法在選擇檔案夾動作時使用。";
+"caX-B6-61f.title" = "A pasta alternativa será usada quando o Keka não puder usar a pasta selecionada.";
 
 /* Class = "NSButtonCell"; title = "Maximum threads per operation:"; ObjectID = "cb7-h4-ScP"; */
-"cb7-h4-ScP.title" = "每個動作的最大執行緒數：";
+"cb7-h4-ScP.title" = "Máximo de threads por operação:";
 
 /* Class = "NSButtonCell"; title = "Use short tarball extensions (eg: .tgz instead of .tar.gz)"; ObjectID = "cfd-8g-kiU"; */
-"cfd-8g-kiU.title" = "使用較短的 Tarball 副檔名（比如使用 .tgz 而非 .tar.gz）";
+"cfd-8g-kiU.title" = "Usar extensões de TAR curtas (ex.: .tgz em vez de .tar.gz)";
 
 /* Class = "NSButtonCell"; title = "Checking the extension status"; ObjectID = "chn-AV-kXZ"; */
-"chn-AV-kXZ.title" = "正在檢查延伸功能狀態";
+"chn-AV-kXZ.title" = "Verificando estado da extensão";
 
 /* Class = "NSButtonCell"; title = "Use squish face when working"; ObjectID = "dOj-2Z-1kb"; */
-"dOj-2Z-1kb.title" = "工作時使用 squish face";
+"dOj-2Z-1kb.title" = "Usar cara de esforço enquanto estiver trabalhando";
 
 /* Class = "NSTextFieldCell"; title = "Compressing multiple files:"; ObjectID = "dhi-qv-weg"; */
-"dhi-qv-weg.title" = "壓縮多個檔案：";
+"dhi-qv-weg.title" = "Compressão de vários arquivos:";
 
 /* Class = "NSButtonCell"; title = "Set folder's modification date to extraction date"; ObjectID = "eBj-1b-wBg"; */
-"eBj-1b-wBg.title" = "將檔案夾的修改日期設為解壓縮時的日期";
+"eBj-1b-wBg.title" = "Definir data de modificação da pasta com data de extração";
 
 /* Class = "NSButtonCell"; title = "Always tarball non-archiving formats (like GZ or BZIP2) "; ObjectID = "faa-9Y-Axk"; */
-"faa-9Y-Axk.title" = "永遠在使用非封存格式（如 GZ 或 BIG2）前，先使用 tarball 封存";
+"faa-9Y-Axk.title" = "Sempre usar TAR em formatos sem arquivamento (como GZ ou BZIP2) ";
 
 /* Class = "NSTextFieldCell"; title = "Queue extraction operations:"; ObjectID = "fhN-DK-edu"; */
-"fhN-DK-edu.title" = "佇列解壓縮動作：";
+"fhN-DK-edu.title" = "Operações de extração em fila:";
 
 /* Class = "NSTextFieldCell"; title = "Compressing a single file:"; ObjectID = "hLS-Ut-4fh"; */
-"hLS-Ut-4fh.title" = "壓縮單一檔案：";
+"hLS-Ut-4fh.title" = "Compressão de um único arquivo:";
 
 /* Class = "NSButtonCell"; title = "Use AES-256 when encrypting ZIP files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
-"hp7-jO-HeV.title" = "使用 AES-256 加密 ZIP 檔案（相容性較差）";
+"hp7-jO-HeV.title" = "Usar criptografia AES-256 em ZIPs (menos compatível)";
 
 /* Class = "NSTextFieldCell"; title = "You can customize where to show the contextual menu below:"; ObjectID = "izC-0G-lvl"; */
-"izC-0G-lvl.title" = "您可以自訂在下方何處顯示特色選單：";
+"izC-0G-lvl.title" = "Personalize abaixo onde o menu contextual aparece:";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous operations:"; ObjectID = "o8J-bR-bs6"; */
-"o8J-bR-bs6.title" = "最大同步動作數：";
+"o8J-bR-bs6.title" = "Máximo de operações simultâneas:";
 
 /* Class = "NSTextFieldCell"; title = "Queue operations:"; ObjectID = "otI-Pt-BTh"; */
-"otI-Pt-BTh.title" = "佇列動作：";
+"otI-Pt-BTh.title" = "Operações em fila:";
 
 /* Class = "NSTextFieldCell"; title = "Keep source extension:"; ObjectID = "p5F-63-ubE"; */
-"p5F-63-ubE.title" = "保留來源副檔名：";
+"p5F-63-ubE.title" = "Manter extensão da origem:";
 
 /* Class = "NSButtonCell"; title = "Always extract in a subfolder"; ObjectID = "pXT-7y-9af"; */
-"pXT-7y-9af.title" = "永遠解壓縮至子檔案夾";
+"pXT-7y-9af.title" = "Sempre extrair em subpasta";
 
 /* Class = "NSButtonCell"; title = "Differentiate between active and total tasks in the Dock"; ObjectID = "qrX-WU-mLd"; */
-"qrX-WU-mLd.title" = "區分 Dock 中的活躍和總計作業數";
+"qrX-WU-mLd.title" = "Diferenciar entre tarefas ativas e inativas no Dock";
 
 /* Class = "NSButtonCell"; title = "Show Keka actions in Finder's contextual menu"; ObjectID = "rP2-XR-ZQt"; */
-"rP2-XR-ZQt.title" = "在 Finder 的特色選單顯示 Keka 動作";
+"rP2-XR-ZQt.title" = "Mostrar ações do Keka no menu contextual do Finder";
 
 /* Class = "NSButtonCell"; title = "Show icons in actions"; ObjectID = "s9u-2a-b8X"; */
-"s9u-2a-b8X.title" = "在動作中顯示圖示";
+"s9u-2a-b8X.title" = "Mostrar ícones em ações";
 
 /* Class = "NSButtonCell"; title = "Enable external volumes access"; ObjectID = "sgV-AD-k4Q"; */
-"sgV-AD-k4Q.title" = "啟用外部卷宗的取用權限";
+"sgV-AD-k4Q.title" = "Ativar Acesso a Volumes Externos";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous compressions:"; ObjectID = "sjA-7B-5U6"; */
-"sjA-7B-5U6.title" = "最大同步壓縮數：";
+"sjA-7B-5U6.title" = "Máximo de compressões simultâneas:";
 
 /* Class = "NSMenuItem"; title = "Never, when possible"; ObjectID = "tEH-O0-NxO"; */
-"tEH-O0-NxO.title" = "能不要就不要";
+"tEH-O0-NxO.title" = "Nunca, quando possível";
 
 /* Class = "NSButtonCell"; title = "Use the default password on new compressions"; ObjectID = "u2R-2w-aOA"; */
-"u2R-2w-aOA.title" = "在新一輪壓縮使用預設密碼";
+"u2R-2w-aOA.title" = "Usar senha padrão em novas compressões";
 
 /* Class = "NSTextFieldCell"; title = "You can also use this password from the Finder Extension's menu"; ObjectID = "vWb-gb-JBD"; */
-"vWb-gb-JBD.title" = "您亦能從 Finder 延伸功能選單使用本密碼";
+"vWb-gb-JBD.title" = "Você também pode usar esta senha a partir do menu de Extensão do Finder";
 
 /* Class = "NSTextFieldCell"; title = "The Finder Extension needs to be enabled in the  System Preferences, Extensions configuration."; ObjectID = "wgz-2S-eXI"; */
-"wgz-2S-eXI.title" = "「Finder 延伸功能」需要在  系統偏好設定 > 延伸功能 設定中啟用。";
+"wgz-2S-eXI.title" = "A Extensão do Finder precisa ser ativada no painel Extensões das Preferências do Sistema.";
 
 /* Class = "NSTextFieldCell"; title = "Most operations use multiple threads. That means faster operations but also more power consumption and heat."; ObjectID = "xyb-eH-aiy"; */
-"xyb-eH-aiy.title" = "大部分的動作都使用多執行緒。這意味著動作速度更快，但是耗電和發熱量亦隨之增加。";
+"xyb-eH-aiy.title" = "A maioria das operações usa threads múltiplos. Isso resulta em operações mais rápidas, mas também em um maior consumo de energia e geração de calor.";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous extractions:"; ObjectID = "yGo-Gm-0zq"; */
-"yGo-Gm-0zq.title" = "最大同步解壓縮數：";
+"yGo-Gm-0zq.title" = "Máximo de extrações simultâneas:";
 
 /* Class = "NSTextFieldCell"; title = "Queuing usually results in faster operations and a more responsive behaviour."; ObjectID = "zPq-ei-qUb"; */
-"zPq-ei-qUb.title" = "佇列通常會讓動作速度更快，也比較不容易「無回應」。";
+"zPq-ei-qUb.title" = "O uso de uma fila normalmente resulta em operações mais rápidas e um comportamento mais responsivo.";
 
 /* Class = "NSButtonCell"; title = "Try the default password when extracting any file"; ObjectID = "zRi-PC-AW9"; */
-"zRi-PC-AW9.title" = "嘗試使用預設密碼解壓縮任何檔案";
+"zRi-PC-AW9.title" = "Tentar senha padrão ao extrair qualquer arquivo";
