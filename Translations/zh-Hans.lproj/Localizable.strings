@@ -67,8 +67,8 @@
 "Select all the volumes from \"%@\" or the folder that contains them" = "从 \"%@\" 或包含它们的文件夹中选择所有卷";
 "Select the folder that contains \"%@\"" = "选择包含“%@”的文件夹";
 "Extraction of \"%@\" failed" = "提取“%@”失败";
-"Extraction of \"%@\" completed" = "Extraction of \"%@\" completed";
-"The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue";
+"Extraction of \"%@\" completed" = "提取“%@”完成";
+"The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "提取已完成，但未应用隔离。\n请重新安装 Keka 以解决该问题。";
 "Keka - %i on queue" = "Keka - %i 排队中";
 "Keka can't create this %@ image" = "Keka 不能创建 %@ 映像";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "您只能使用单个文件夹创建 %@ 映像。尝试所有文件放在一个文件夹中，再拖动到 Keka 以创建 %@ 映像。";
@@ -173,7 +173,7 @@
 "In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "要将 Keka 设置为默认应用程序，您需要安装扩展。点击“更多信息”根据所需步骤操作。\n\n请记住，任何时候您都可以通过访达中的“显示简介”面板将 Keka 设置为任何压缩文件格式的默认应用程序。";
 "Your installed extension is obsolete and you should update it." = "您安装的扩展已过时，应进行更新。";
 "Update" = "更新";
-"Save" = "Save";
+"Save" = "保存";
 "Cannot set Keka as default" = "无法将 Keka 设置为默认应用程序";
 "The intermediate application failed to launch. There is more information in the Console.app." = "中间应用程序无法启动。请在控制台应用中查看详情。";
 "The intermediate application returned an undefined code." = "中间应用程序返回了一个未定义的代码。";
@@ -229,8 +229,8 @@
 "Report" = "报告";
 "Report via mail" = "通过邮件报告";
 "Review Keka ★★★★★" = "评价 Keka ★★★★★";
-"Update the default password" = "Update the default password";
-"Set a default password" = "Set a default password";
+"Update the default password" = "更新默认密码";
+"Set a default password" = "设置默认密码";
 
 /*
 // MAS tips

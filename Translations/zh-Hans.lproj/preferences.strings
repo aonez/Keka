@@ -144,10 +144,10 @@
 "9dE-yV-N3K.title" = "备选文件夹：";
 
 /* Class = "NSButtonCell"; title = "Use the default password on new advanced windows"; ObjectID = "9ul-2H-k9o"; */
-"9ul-2H-k9o.title" = "Use the default password on new advanced windows";
+"9ul-2H-k9o.title" = "在新的高级窗口中使用默认密码";
 
 /* Class = "NSButtonCell"; title = "Show encrypt with default password items"; ObjectID = "AU8-I0-71W"; */
-"AU8-I0-71W.title" = "Show encrypt with default password items";
+"AU8-I0-71W.title" = "显示要使用默认密码加密的项";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "CWc-wN-FhI"; */
 "CWc-wN-FhI.title" = "自定义文件夹...";
@@ -201,7 +201,7 @@
 "PD2-iW-BGK.title" = "启用主文件夹访问，以便 Keka 可用于所有用户文件，例如桌面或下载文件夹。";
 
 /* Class = "NSTextFieldCell"; title = "Default password:"; ObjectID = "Rgr-FP-Kua"; */
-"Rgr-FP-Kua.title" = "Default password:";
+"Rgr-FP-Kua.title" = "默认密码：";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "启用通知中心集成";
@@ -228,7 +228,7 @@
 "a5e-FP-sDv.title" = "使用“在 Keka 中打开”作为主要操作项";
 
 /* Class = "NSButtonCell"; title = "Show in plain text"; ObjectID = "aOv-6b-JlO"; */
-"aOv-6b-JlO.title" = "Show in plain text";
+"aOv-6b-JlO.title" = "以纯文本显示";
 
 /* Class = "NSButtonCell"; title = "Use parent folder name when compressing multiple files"; ObjectID = "cDs-NB-2os"; */
 "cDs-NB-2os.title" = "压缩多个文件时使用父文件夹名称";
@@ -300,10 +300,10 @@
 "tEH-O0-NxO.title" = "永不，如果可能";
 
 /* Class = "NSButtonCell"; title = "Use the default password on new compressions"; ObjectID = "u2R-2w-aOA"; */
-"u2R-2w-aOA.title" = "Use the default password on new compressions";
+"u2R-2w-aOA.title" = "压缩时使用默认密码";
 
 /* Class = "NSTextFieldCell"; title = "You can also use this password from the Finder Extension's menu"; ObjectID = "vWb-gb-JBD"; */
-"vWb-gb-JBD.title" = "You can also use this password from the Finder Extension's menu";
+"vWb-gb-JBD.title" = "你还可以从访达扩展菜单中使用该密码";
 
 /* Class = "NSTextFieldCell"; title = "The Finder Extension needs to be enabled in the  System Preferences, Extensions configuration."; ObjectID = "wgz-2S-eXI"; */
 "wgz-2S-eXI.title" = "访达扩展需要在系统偏好设置，扩展程序中配置。";
@@ -318,4 +318,4 @@
 "zPq-ei-qUb.title" = "队列会带来更快的处理速度以及更灵敏的响应。";
 
 /* Class = "NSButtonCell"; title = "Try the default password when extracting any file"; ObjectID = "zRi-PC-AW9"; */
-"zRi-PC-AW9.title" = "Try the default password when extracting any file";
+"zRi-PC-AW9.title" = "提取时使用默认密码";
