@@ -144,10 +144,10 @@
 "9dE-yV-N3K.title" = "Thư mục dự phòng:";
 
 /* Class = "NSButtonCell"; title = "Use the default password on new advanced windows"; ObjectID = "9ul-2H-k9o"; */
-"9ul-2H-k9o.title" = "Use the default password on new advanced windows";
+"9ul-2H-k9o.title" = "Sử dụng mật khẩu mặc định cho các cửa sổ mới nâng cao";
 
 /* Class = "NSButtonCell"; title = "Show encrypt with default password items"; ObjectID = "AU8-I0-71W"; */
-"AU8-I0-71W.title" = "Show encrypt with default password items";
+"AU8-I0-71W.title" = "Hiện mã hoá với các mục mật khẩu mặc định";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "CWc-wN-FhI"; */
 "CWc-wN-FhI.title" = "Thư mục tuỳ chỉnh...";
@@ -201,7 +201,7 @@
 "PD2-iW-BGK.title" = "Bật quyền truy cập vào home để Keka có thể chạy với tất cả tập tin của bạn như thư mục Bàn làm việc và thư mục Tải xuống.";
 
 /* Class = "NSTextFieldCell"; title = "Default password:"; ObjectID = "Rgr-FP-Kua"; */
-"Rgr-FP-Kua.title" = "Default password:";
+"Rgr-FP-Kua.title" = "Mật khẩu mặc định:";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "Bật tích hợp vào Trung tâm thông báo";
@@ -228,7 +228,7 @@
 "a5e-FP-sDv.title" = "Dùng \"Mở với Keka\" làm lệnh thực thi mặc định";
 
 /* Class = "NSButtonCell"; title = "Show in plain text"; ObjectID = "aOv-6b-JlO"; */
-"aOv-6b-JlO.title" = "Show in plain text";
+"aOv-6b-JlO.title" = "Hiện dưới dạng văn bản thô";
 
 /* Class = "NSButtonCell"; title = "Use parent folder name when compressing multiple files"; ObjectID = "cDs-NB-2os"; */
 "cDs-NB-2os.title" = "Dùng tên thư mục mẹ khi nén nhiều tập tin bên trong đó";
@@ -300,10 +300,10 @@
 "tEH-O0-NxO.title" = "Không bao giờ, ngay cả khi có thể";
 
 /* Class = "NSButtonCell"; title = "Use the default password on new compressions"; ObjectID = "u2R-2w-aOA"; */
-"u2R-2w-aOA.title" = "Use the default password on new compressions";
+"u2R-2w-aOA.title" = "Sử dụng mật khẩu mặc định cho các tập nén mới tạo";
 
 /* Class = "NSTextFieldCell"; title = "You can also use this password from the Finder Extension's menu"; ObjectID = "vWb-gb-JBD"; */
-"vWb-gb-JBD.title" = "You can also use this password from the Finder Extension's menu";
+"vWb-gb-JBD.title" = "Bạn có thể sử dụng mật khẩu này từ menu của Phần mở rộng cho Finder";
 
 /* Class = "NSTextFieldCell"; title = "The Finder Extension needs to be enabled in the  System Preferences, Extensions configuration."; ObjectID = "wgz-2S-eXI"; */
 "wgz-2S-eXI.title" = "Phần mở rộng cho Finder cần được kích hoạt trong  Tuỳ chọn Hệ thống, cấu hình Phần mở rộng.";
@@ -318,4 +318,4 @@
 "zPq-ei-qUb.title" = "Hàng đợi cho kết quả nhanh hơn khi xử lý tác vụ và cho phản hồi linh hoạt hơn.";
 
 /* Class = "NSButtonCell"; title = "Try the default password when extracting any file"; ObjectID = "zRi-PC-AW9"; */
-"zRi-PC-AW9.title" = "Try the default password when extracting any file";
+"zRi-PC-AW9.title" = "Thử dùng mật khẩu mặc định khi giải nén bất kỳ tập tin nào";

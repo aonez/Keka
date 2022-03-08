@@ -1,321 +1,321 @@
 ﻿
 /* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
-"159.title" = "Standaard archiefformaat:";
+"159.title" = "Formato padrão:";
 
 /* Class = "NSTextFieldCell"; title = "Default method:"; ObjectID = "160"; */
-"160.title" = "Standaard inpakmethode:";
+"160.title" = "Método padrão:";
 
 /* Class = "NSMenuItem"; title = "No compression"; ObjectID = "164"; */
-"164.title" = "Geen compressie";
+"164.title" = "Sem compressão";
 
 /* Class = "NSMenuItem"; title = "Fast, less compression"; ObjectID = "165"; */
-"165.title" = "Snel";
+"165.title" = "Rápido, menos compressão";
 
 /* Class = "NSMenuItem"; title = "Normal"; ObjectID = "166"; */
-"166.title" = "Normaal";
+"166.title" = "Normal";
 
 /* Class = "NSMenuItem"; title = "Fastest, less compression"; ObjectID = "167"; */
-"167.title" = "Snelste";
+"167.title" = "Rápido, menor compressão";
 
 /* Class = "NSMenuItem"; title = "Slowest, more compression"; ObjectID = "168"; */
-"168.title" = "Beste";
+"168.title" = "Lento, maior compressão";
 
 /* Class = "NSMenuItem"; title = "Slow, more compression"; ObjectID = "169"; */
-"169.title" = "Goed";
+"169.title" = "Lento, mais compressão";
 
 /* Class = "NSButtonCell"; title = "Set Keka as the default uncompressor"; ObjectID = "184"; */
-"184.title" = "Stel Keka in als standaard uitpak-programma";
+"184.title" = "Definir como Ferramenta Padrão de Arquivos Comprimidos";
 
 /* Class = "NSButtonCell"; title = "Close Keka when no windows are open"; ObjectID = "187"; */
-"187.title" = "Sluit Keka af wanneer er geen venster zichtbaar is";
+"187.title" = "Encerrar quando não houver janelas abertas";
 
 /* Class = "NSMenuItem"; title = "Always extract"; ObjectID = "197"; */
-"197.title" = "Altijd uitpakken";
+"197.title" = "Sempre extrair";
 
 /* Class = "NSMenuItem"; title = "Always compress"; ObjectID = "198"; */
-"198.title" = "Altijd inpakken";
+"198.title" = "Sempre comprimir";
 
 /* Class = "NSMenuItem"; title = "Perform automatic action"; ObjectID = "199"; */
-"199.title" = "Voer automatische actie uit";
+"199.title" = "Escolha automática";
 
 /* Class = "NSButtonCell"; title = "Move original file(s) to Trash after compression"; ObjectID = "262"; */
-"262.title" = "Bestanden na inpakken verwijderen";
+"262.title" = "Mover arquivo original para o Lixo após comprimir";
 
 /* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "263"; */
-"263.title" = "Elk bestand in een apart archief plaatsen";
+"263.title" = "Comprimir itens separadamente";
 
 /* Class = "NSButtonCell"; title = "Show file in Finder after compression"; ObjectID = "264"; */
-"264.title" = "Toon bestand in Finder na inpakken";
+"264.title" = "Mostrar no Finder após comprimir";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "265"; */
-"265.title" = "Mac specifieke bestanden uitsluiten (bvb.: .DS_Store)";
+"265.title" = "Excluir arquivos invisíveis do Mac (ex.: .DS_Store)";
 
 /* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "279"; */
-"279.title" = "Altijd vragen";
+"279.title" = "Sempre perguntar";
 
 /* Class = "NSMenuItem"; title = "Next to original file"; ObjectID = "280"; */
-"280.title" = "In dezelfde map als het originele bestand";
+"280.title" = "Junto ao original";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "281"; */
-"281.title" = "Zelfgekozen map...";
+"281.title" = "Pasta personalizada…";
 
 /* Class = "NSTextFieldCell"; title = "Save to location:"; ObjectID = "282"; */
-"282.title" = "Bewaar op locatie:";
+"282.title" = "Onde salvar:";
 
 /* Class = "NSTextFieldCell"; title = "Name of new files:"; ObjectID = "283"; */
-"283.title" = "Naam voor nieuwe bestanden:";
+"283.title" = "Nome do arquivo comprimido:";
 
 /* Class = "NSMenuItem"; title = "Same as original file"; ObjectID = "286"; */
-"286.title" = "Hetzelfde als het originele bestand";
+"286.title" = "Igual ao original";
 
 /* Class = "NSMenuItem"; title = "Custom name..."; ObjectID = "287"; */
-"287.title" = "Zelfgekozen naam...";
+"287.title" = "Nome personalizado…";
 
 /* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "357"; */
-"357.title" = "Altijd vragen";
+"357.title" = "Sempre perguntar";
 
 /* Class = "NSMenuItem"; title = "Next to original file"; ObjectID = "358"; */
-"358.title" = "In dezelfde map als het originele bestand";
+"358.title" = "Junto ao original";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "359"; */
-"359.title" = "Zelfgekozen map...";
+"359.title" = "Pasta personalizada…";
 
 /* Class = "NSTextFieldCell"; title = "Extract to location:"; ObjectID = "360"; */
-"360.title" = "Uitpakken op locatie:";
+"360.title" = "Extrair para:";
 
 /* Class = "NSButtonCell"; title = "Show content in Finder after extraction"; ObjectID = "361"; */
-"361.title" = "Toon bestanden in Finder na uitpakken";
+"361.title" = "Mostrar conteúdo no Finder após extrair";
 
 /* Class = "NSButtonCell"; title = "Move compressed file(s) to Trash after extraction"; ObjectID = "362"; */
-"362.title" = "Bestanden na uitpakken verwijderen";
+"362.title" = "Mover arquivo comprimido para o Lixo após extrair";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "418"; */
-"418.title" = "Geen";
+"418.title" = "Nenhum";
 
 /* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "419"; */
-"419.title" = "Standaard inpakken";
+"419.title" = "Padrão de compressão";
 
 /* Class = "NSMenuItem"; title = "Default extraction"; ObjectID = "432"; */
-"432.title" = "Standaard uitpakken";
+"432.title" = "Padrão de extração";
 
 /* Class = "NSTextFieldCell"; title = "Play a sound after an extraction:"; ObjectID = "433"; */
-"433.title" = "Speel geluid af na uitpakken:";
+"433.title" = "Reproduzir som após extrair:";
 
 /* Class = "NSTextFieldCell"; title = "Play a sound after a compression:"; ObjectID = "436"; */
-"436.title" = "Speel geluid af na inpakken:";
+"436.title" = "Reproduzir som após comprimir:";
 
 /* Class = "NSMenuItem"; title = "Default extraction"; ObjectID = "439"; */
-"439.title" = "Standaard uitpakken";
+"439.title" = "Padrão de extração";
 
 /* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "452"; */
-"452.title" = "Standaard inpakken";
+"452.title" = "Padrão de compressão";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "453"; */
-"453.title" = "Geen";
+"453.title" = "Nenhum";
 
 /* Class = "NSButtonCell"; title = "Rename the recognized extension from the subfolder"; ObjectID = "1TK-Zy-623"; */
-"1TK-Zy-623.title" = "Hernoem de herkende extensies uit de submap";
+"1TK-Zy-623.title" = "Renomear extensão reconhecida da subpasta";
 
 /* Class = "NSButtonCell"; title = "Use custom tasks counter in the Dock"; ObjectID = "3cf-gN-q24"; */
-"3cf-gN-q24.title" = "Gebruik aangepaste taken teller in Dock";
+"3cf-gN-q24.title" = "Usar contador de tarefas personalizado no Dock";
 
 /* Class = "NSButtonCell"; title = "Show icon in primary item"; ObjectID = "47Y-rt-2fG"; */
-"47Y-rt-2fG.title" = "Toon icoon in primair contextmenu";
+"47Y-rt-2fG.title" = "Mostrar ícone no item principal";
 
 /* Class = "NSTextFieldCell"; title = "You can also customize the access below:"; ObjectID = "5B7-Sc-wp0"; */
-"5B7-Sc-wp0.title" = "Aangepaste toegang tot bestanden en mappen:";
+"5B7-Sc-wp0.title" = "Você também pode personalizar o acesso abaixo:";
 
 /* Class = "NSButtonCell"; title = "Automatically check for updates"; ObjectID = "63y-ct-DNM"; */
-"63y-ct-DNM.title" = "Controleer automatisch op updates";
+"63y-ct-DNM.title" = "Buscar atualizações automaticamente";
 
 /* Class = "NSMenuItem"; title = "Desktop"; ObjectID = "67Z-kB-INb"; */
-"67Z-kB-INb.title" = "Desktop";
+"67Z-kB-INb.title" = "Mesa";
 
 /* Class = "NSButtonCell"; title = "Nest actions in a submenu"; ObjectID = "6bh-6N-5PP"; */
-"6bh-6N-5PP.title" = "Groepeer acties in een submenu";
+"6bh-6N-5PP.title" = "Reunir ações em um submenu";
 
 /* Class = "NSTextFieldCell"; title = "You can use this placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n%pb% will be replaced with the clipboard string\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
-"8JN-Ub-qkc.title" = "Je kan deze placeholders gebruiken:\n\n%n zal vervangen worden door de bestandsnaam\n%e zal vervangen worden door de bestands extensie\n%p zal vervangen worden door de (parent) hoofdmap\n%c zal vervangen worden door het aantal bestanden\n%d zal vervangen worden door de huidige datum\n%t zal vervangen worden door de huidige tijd\n%s zal vervangen worden door de gedeelde naam\n%i% zal vervangen worden door de naam van het eerste item\n%ia% zal vervangen worden door de naam van het eerste gesorteerde item\n%pb% zal vervangen worden door de naam uit het klembord\n\nDe vervangingen zullen in sommige gevallen leeg zijn.";
+"8JN-Ub-qkc.title" = "Você pode usar estes marcadores:\n\n%n será substituído pelo nome do arquivo\n%e será substituído pela extensão do arquivo\n%p será substituído pela pasta superior\n%c será substituído pelo número de arquivos\n%d será substituído pela data atual\n%t será substituído pela hora atual\n%s será substituído pelo nome compartilhado\n%i% será substituído pelo nome do primeiro item\n%ia% será substituído pelo primeiro nome da ordenação\n%pb% será substituído pelo texto na área de transferência\n\nEm alguns casos, as substituições estarão vazias.";
 
 /* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "8Uc-pg-EyS"; */
-"8Uc-pg-EyS.title" = "Gebruik gecombineerde knoppenbalk (aanpassingen worden gereset)";
+"8Uc-pg-EyS.title" = "Usar barra de ferramentas unificada (redefine personalizações)";
 
 /* Class = "NSTextFieldCell"; title = "Fallback folder:"; ObjectID = "9dE-yV-N3K"; */
-"9dE-yV-N3K.title" = "Terugval locatie:";
+"9dE-yV-N3K.title" = "Pasta alternativa:";
 
 /* Class = "NSButtonCell"; title = "Use the default password on new advanced windows"; ObjectID = "9ul-2H-k9o"; */
-"9ul-2H-k9o.title" = "Gebruik het standaard wachtwoord bij Keka programma scherm";
+"9ul-2H-k9o.title" = "Usar senha padrão em novas janelas avançadas";
 
 /* Class = "NSButtonCell"; title = "Show encrypt with default password items"; ObjectID = "AU8-I0-71W"; */
-"AU8-I0-71W.title" = "Toon versleutel met standaard wachtwoord items";
+"AU8-I0-71W.title" = "Mostrar opções de criptografia com a senha padrão";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "CWc-wN-FhI"; */
-"CWc-wN-FhI.title" = "Zelfgekozen map...";
+"CWc-wN-FhI.title" = "Pasta personalizada…";
 
 /* Class = "NSTextFieldCell"; title = "Extractions use less power so even using multiple thread you can easily set this limit to two or three. Note that the target disk may suffer."; ObjectID = "DAr-Td-s5W"; */
-"DAr-Td-s5W.title" = "Uitpakken kost minder computerkracht. Zelfs met meerdere simultane extracties kan je dit op twee of drie zetten. Let erop dat je schijf bandbreedte wel voldoende is.";
+"DAr-Td-s5W.title" = "Você pode definir este limite em dois ou três, já que, mesmo ao usar threads múltiplos, extrações usam menos energia. Note que o disco de destino pode ficar sobrecarregado.";
 
 /* Class = "NSButtonCell"; title = "Ask before quitting with operations"; ObjectID = "DJT-wB-bCM"; */
-"DJT-wB-bCM.title" = "Vraag voor het stoppen met acties";
+"DJT-wB-bCM.title" = "Perguntar antes de encerrar com operações";
 
 /* Class = "NSButtonCell"; title = "Enable home folder access"; ObjectID = "DL5-wY-cqc"; */
-"DL5-wY-cqc.title" = "Activeer thuismap toegang";
+"DL5-wY-cqc.title" = "Ativar Acesso à Pasta Pessoal";
 
 /* Class = "NSTextFieldCell"; title = "Default action:"; ObjectID = "EJQ-OL-pMF"; */
-"EJQ-OL-pMF.title" = "Standaard actie:";
+"EJQ-OL-pMF.title" = "Ação padrão:";
 
 /* Class = "NSMenuItem"; title = "Always"; ObjectID = "EOi-2B-eBv"; */
-"EOi-2B-eBv.title" = "Altijd";
+"EOi-2B-eBv.title" = "Sempre";
 
 /* Class = "NSButtonCell"; title = "Use custom name when compressing multiple files"; ObjectID = "Ei5-Ya-HGI"; */
-"Ei5-Ya-HGI.title" = "Gebruik zelfgekozen naam bij het inpakken van meerdere bestanden";
+"Ei5-Ya-HGI.title" = "Usar nome personalizado ao comprimir vários arquivos";
 
 /* Class = "NSTextFieldCell"; title = "It is recommended to only do one compression at a time if using multiple threads."; ObjectID = "Hkf-wB-gUj"; */
-"Hkf-wB-gUj.title" = "Aangeraden word om één inpak actie simultaan te doen bij meerdere threads.";
+"Hkf-wB-gUj.title" = "Ao usar threads múltiplos, é recomendável fazer apenas uma operação de compressão por vez.";
 
 /* Class = "NSTextFieldCell"; title = "Those are only applied when Keka is not open"; ObjectID = "Hx2-S1-j7m"; */
-"Hx2-S1-j7m.title" = "Enkel van toepassing wanneer Keka nog niet is gestart.";
+"Hx2-S1-j7m.title" = "Aplicáveis apenas quando o Keka não está aberto.";
 
 /* Class = "NSButtonCell"; title = "Enable full Mac access (Recommended)"; ObjectID = "IHj-ac-103"; */
-"IHj-ac-103.title" = "Volledige schijftoegang (Aangeraden)";
+"IHj-ac-103.title" = "Ativar Acesso Total ao Mac (Recomendado)";
 
 /* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive."; ObjectID = "JxT-Nq-8Z5"; */
-"JxT-Nq-8Z5.title" = "Activeer toegang tot verwijderbare volumes zoals USB of Thunderbolt schijven.";
+"JxT-Nq-8Z5.title" = "Ative o acesso a volumes externos para usar o Keka em discos externos, como discos USB ou Thunderbolt.";
 
 /* Class = "NSTextFieldCell"; title = "Queue compression operations:"; ObjectID = "K5h-j5-bss"; */
-"K5h-j5-bss.title" = "Inpak acties wachtrij:";
+"K5h-j5-bss.title" = "Operações de compressão em fila:";
 
 /* Class = "NSButtonCell"; title = "Inherit quarantine from downloaded files"; ObjectID = "KDR-ag-bll"; */
-"KDR-ag-bll.title" = "Behoud quarantine informatie van gedownloade bestanden";
+"KDR-ag-bll.title" = "Herdar quarentena de arquivos baixados";
 
 /* Class = "NSButtonCell"; title = "Show in external volumes"; ObjectID = "KOF-7X-bQo"; */
-"KOF-7X-bQo.title" = "Toon in verwijderbare volumes";
+"KOF-7X-bQo.title" = "Mostrar em volumes externos";
 
 /* Class = "NSTextFieldCell"; title = "Limit the number of threads per operation:"; ObjectID = "ND5-DN-C1H"; */
-"ND5-DN-C1H.title" = "Limiteer het aantal threads per actie:";
+"ND5-DN-C1H.title" = "Limitar número de threads por operação:";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "NwI-O4-9NI"; */
-"NwI-O4-9NI.title" = "Mac specifieke bestanden uitsluiten (bvb.: .DS_Store)";
+"NwI-O4-9NI.title" = "Excluir arquivos invisíveis do Mac (ex.: .DS_Store)";
 
 /* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder."; ObjectID = "PD2-iW-BGK"; */
-"PD2-iW-BGK.title" = "Activeer toegang tot de thuismap zodat Keka bij de juiste mappen kan, zoals Desktop, Documenten en Download map.";
+"PD2-iW-BGK.title" = "Ative o acesso à pasta pessoal para usar o Keka em todos os seus arquivos de usuário, como arquivos nas pastas Mesa e Downloads.";
 
 /* Class = "NSTextFieldCell"; title = "Default password:"; ObjectID = "Rgr-FP-Kua"; */
-"Rgr-FP-Kua.title" = "Standaard wachtwoord:";
+"Rgr-FP-Kua.title" = "Senha padrão:";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
-"SOL-6U-5P9.title" = "Activeer integratie in Berichtgeving";
+"SOL-6U-5P9.title" = "Ativar integração com a Central de Notificações";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "TLc-Nk-Bps"; */
-"TLc-Nk-Bps.placeholderString" = "Tik hier uw zelfgekozen naam";
+"TLc-Nk-Bps.placeholderString" = "digite o nome";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "WCN-jH-W9J"; */
-"WCN-jH-W9J.placeholderString" = "Tik hier uw zelfgekozen naam...";
+"WCN-jH-W9J.placeholderString" = "digite o nome";
 
 /* Class = "NSButtonCell"; title = "Remove bad password header structure extractions"; ObjectID = "Wd0-yz-M1h"; */
-"Wd0-yz-M1h.title" = "Verwijder onjuiste wachtwoord header structuren";
+"Wd0-yz-M1h.title" = "Remover conteúdo de extrações com senha incorreta";
 
 /* Class = "NSMenuItem"; title = "Automatic"; ObjectID = "XOB-JO-UQT"; */
-"XOB-JO-UQT.title" = "Automatisch";
+"XOB-JO-UQT.title" = "Automaticamente";
 
 /* Class = "NSButtonCell"; title = "Use BZIP2 compression in DMG files (better but slower)"; ObjectID = "Xoi-ui-e7P"; */
-"Xoi-ui-e7P.title" = "Gebruik BZIP2 compressie in DMG bestanden (beter, maar trager)";
+"Xoi-ui-e7P.title" = "Usar compressão BZIP2 em arquivos DMG (melhor, porém mais lento)";
 
 /* Class = "NSTextFieldCell"; title = "Enable full Mac access so Keka can be used on all your Mac."; ObjectID = "ZOx-vr-5o7"; */
-"ZOx-vr-5o7.title" = "Activeer volledige schijftoegang zodat Keka met alle bestanden en mappen kan werken";
+"ZOx-vr-5o7.title" = "Ative o acesso total ao Mac para usar o Keka em qualquer local do Mac.";
 
 /* Class = "NSButtonCell"; title = "Use \"Open with Keka\" as the primary item action"; ObjectID = "a5e-FP-sDv"; */
-"a5e-FP-sDv.title" = "Gebruik \"Open met Keka\" als primaire menu actie";
+"a5e-FP-sDv.title" = "Usar “Abrir com Keka” como ação principal";
 
 /* Class = "NSButtonCell"; title = "Show in plain text"; ObjectID = "aOv-6b-JlO"; */
-"aOv-6b-JlO.title" = "Toon zichtbaar";
+"aOv-6b-JlO.title" = "Mostrar senha";
 
 /* Class = "NSButtonCell"; title = "Use parent folder name when compressing multiple files"; ObjectID = "cDs-NB-2os"; */
-"cDs-NB-2os.title" = "Gebruik de naam van hoofdmap bij inpakken van meerdere bestanden";
+"cDs-NB-2os.title" = "Usar nome da pasta superior ao comprimir vários arquivos";
 
 /* Class = "NSTextFieldCell"; title = "The fallback folder will be used when Keka can't work in the selected folder."; ObjectID = "caX-B6-61f"; */
-"caX-B6-61f.title" = "De terugval map zal gebruikt worden als Keka geen toegang heeft tot de geselecteerde map.";
+"caX-B6-61f.title" = "A pasta alternativa será usada quando o Keka não puder usar a pasta selecionada.";
 
 /* Class = "NSButtonCell"; title = "Maximum threads per operation:"; ObjectID = "cb7-h4-ScP"; */
-"cb7-h4-ScP.title" = "Maximum aantal threads per actie:";
+"cb7-h4-ScP.title" = "Máximo de threads por operação:";
 
 /* Class = "NSButtonCell"; title = "Use short tarball extensions (eg: .tgz instead of .tar.gz)"; ObjectID = "cfd-8g-kiU"; */
-"cfd-8g-kiU.title" = "Gebruik verkorte tarball extensies (vb: .tgz in plaats van .tar.gz)";
+"cfd-8g-kiU.title" = "Usar extensões de TAR curtas (ex.: .tgz em vez de .tar.gz)";
 
 /* Class = "NSButtonCell"; title = "Checking the extension status"; ObjectID = "chn-AV-kXZ"; */
-"chn-AV-kXZ.title" = "Extensie status wordt gecontroleerd";
+"chn-AV-kXZ.title" = "Verificando estado da extensão";
 
 /* Class = "NSButtonCell"; title = "Use squish face when working"; ObjectID = "dOj-2Z-1kb"; */
-"dOj-2Z-1kb.title" = "Gebruik samengeknepen icoon bij actieve taken";
+"dOj-2Z-1kb.title" = "Usar cara de esforço enquanto estiver trabalhando";
 
 /* Class = "NSTextFieldCell"; title = "Compressing multiple files:"; ObjectID = "dhi-qv-weg"; */
-"dhi-qv-weg.title" = "Comprimeren van meerdere bestanden:";
+"dhi-qv-weg.title" = "Compressão de vários arquivos:";
 
 /* Class = "NSButtonCell"; title = "Set folder's modification date to extraction date"; ObjectID = "eBj-1b-wBg"; */
-"eBj-1b-wBg.title" = "Pas de bewerkingsdatum van de map aan naar tijd van uitpakken";
+"eBj-1b-wBg.title" = "Definir data de modificação da pasta com data de extração";
 
 /* Class = "NSButtonCell"; title = "Always tarball non-archiving formats (like GZ or BZIP2) "; ObjectID = "faa-9Y-Axk"; */
-"faa-9Y-Axk.title" = "Gebruik altijd tarball voor 'non-archiving' formaten (zoals GZ of BZIP2) ";
+"faa-9Y-Axk.title" = "Sempre usar TAR em formatos sem arquivamento (como GZ ou BZIP2) ";
 
 /* Class = "NSTextFieldCell"; title = "Queue extraction operations:"; ObjectID = "fhN-DK-edu"; */
-"fhN-DK-edu.title" = "Uitpak acties wachtrij:";
+"fhN-DK-edu.title" = "Operações de extração em fila:";
 
 /* Class = "NSTextFieldCell"; title = "Compressing a single file:"; ObjectID = "hLS-Ut-4fh"; */
-"hLS-Ut-4fh.title" = "Comprimeren van bestand:";
+"hLS-Ut-4fh.title" = "Compressão de um único arquivo:";
 
 /* Class = "NSButtonCell"; title = "Use AES-256 when encrypting ZIP files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
-"hp7-jO-HeV.title" = "Gebruik AES-256 bij versleuteling van ZIP bestanden (slechtere ondersteuning)";
+"hp7-jO-HeV.title" = "Usar criptografia AES-256 em ZIPs (menos compatível)";
 
 /* Class = "NSTextFieldCell"; title = "You can customize where to show the contextual menu below:"; ObjectID = "izC-0G-lvl"; */
-"izC-0G-lvl.title" = "Je kan aanpassen waar het Keka contextmenu weergegeven moet worden:";
+"izC-0G-lvl.title" = "Personalize abaixo onde o menu contextual aparece:";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous operations:"; ObjectID = "o8J-bR-bs6"; */
-"o8J-bR-bs6.title" = "Maximum simultane acties:";
+"o8J-bR-bs6.title" = "Máximo de operações simultâneas:";
 
 /* Class = "NSTextFieldCell"; title = "Queue operations:"; ObjectID = "otI-Pt-BTh"; */
-"otI-Pt-BTh.title" = "Actie wachtrij:";
+"otI-Pt-BTh.title" = "Operações em fila:";
 
 /* Class = "NSTextFieldCell"; title = "Keep source extension:"; ObjectID = "p5F-63-ubE"; */
-"p5F-63-ubE.title" = "Behoud bron extensie:";
+"p5F-63-ubE.title" = "Manter extensão da origem:";
 
 /* Class = "NSButtonCell"; title = "Always extract in a subfolder"; ObjectID = "pXT-7y-9af"; */
-"pXT-7y-9af.title" = "Pak altijd uit in een submap";
+"pXT-7y-9af.title" = "Sempre extrair em subpasta";
 
 /* Class = "NSButtonCell"; title = "Differentiate between active and total tasks in the Dock"; ObjectID = "qrX-WU-mLd"; */
-"qrX-WU-mLd.title" = "Toon actieve taken als afgeleide van totale taken in Dock";
+"qrX-WU-mLd.title" = "Diferenciar entre tarefas ativas e inativas no Dock";
 
 /* Class = "NSButtonCell"; title = "Show Keka actions in Finder's contextual menu"; ObjectID = "rP2-XR-ZQt"; */
-"rP2-XR-ZQt.title" = "Toon Keka acties in Finder's contextmenu (rechtermuisklik)";
+"rP2-XR-ZQt.title" = "Mostrar ações do Keka no menu contextual do Finder";
 
 /* Class = "NSButtonCell"; title = "Show icons in actions"; ObjectID = "s9u-2a-b8X"; */
-"s9u-2a-b8X.title" = "Toon iconen in acties";
+"s9u-2a-b8X.title" = "Mostrar ícones em ações";
 
 /* Class = "NSButtonCell"; title = "Enable external volumes access"; ObjectID = "sgV-AD-k4Q"; */
-"sgV-AD-k4Q.title" = "Activeer toegang tot Verwijderbare volumes";
+"sgV-AD-k4Q.title" = "Ativar Acesso a Volumes Externos";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous compressions:"; ObjectID = "sjA-7B-5U6"; */
-"sjA-7B-5U6.title" = "Maximum simultane inpak (compress) acties:";
+"sjA-7B-5U6.title" = "Máximo de compressões simultâneas:";
 
 /* Class = "NSMenuItem"; title = "Never, when possible"; ObjectID = "tEH-O0-NxO"; */
-"tEH-O0-NxO.title" = "Nooit, wanneer mogelijk";
+"tEH-O0-NxO.title" = "Nunca, quando possível";
 
 /* Class = "NSButtonCell"; title = "Use the default password on new compressions"; ObjectID = "u2R-2w-aOA"; */
-"u2R-2w-aOA.title" = "Gebruik het standaard wachtwoord bij drag-en-drop acties op Keka icoon";
+"u2R-2w-aOA.title" = "Usar senha padrão em novas compressões";
 
 /* Class = "NSTextFieldCell"; title = "You can also use this password from the Finder Extension's menu"; ObjectID = "vWb-gb-JBD"; */
-"vWb-gb-JBD.title" = "Je kan dit wachtwoord ook gebruiken via de Finder Extensie";
+"vWb-gb-JBD.title" = "Você também pode usar esta senha a partir do menu de Extensão do Finder";
 
 /* Class = "NSTextFieldCell"; title = "The Finder Extension needs to be enabled in the  System Preferences, Extensions configuration."; ObjectID = "wgz-2S-eXI"; */
-"wgz-2S-eXI.title" = "De Finder Extensie moet geactiveerd worden in  Systemvoorkeuren, Extensies, Finder-extensies.";
+"wgz-2S-eXI.title" = "A Extensão do Finder precisa ser ativada no painel Extensões das Preferências do Sistema.";
 
 /* Class = "NSTextFieldCell"; title = "Most operations use multiple threads. That means faster operations but also more power consumption and heat."; ObjectID = "xyb-eH-aiy"; */
-"xyb-eH-aiy.title" = "De meeste acties gebruiken meerdere threads. Dat betekent hogere snelheid van in- en uitpakken maar ook meer stroomverbruik en warmte.";
+"xyb-eH-aiy.title" = "A maioria das operações usa threads múltiplos. Isso resulta em operações mais rápidas, mas também em um maior consumo de energia e geração de calor.";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous extractions:"; ObjectID = "yGo-Gm-0zq"; */
-"yGo-Gm-0zq.title" = "Maximum simultane uitpak (extract) acties:";
+"yGo-Gm-0zq.title" = "Máximo de extrações simultâneas:";
 
 /* Class = "NSTextFieldCell"; title = "Queuing usually results in faster operations and a more responsive behaviour."; ObjectID = "zPq-ei-qUb"; */
-"zPq-ei-qUb.title" = "Gebruik maken van de wachtrij zorgt voor snellere acties en een algemene betere stabiliteit.";
+"zPq-ei-qUb.title" = "O uso de uma fila normalmente resulta em operações mais rápidas e um comportamento mais responsivo.";
 
 /* Class = "NSButtonCell"; title = "Try the default password when extracting any file"; ObjectID = "zRi-PC-AW9"; */
-"zRi-PC-AW9.title" = "Probeer het standaard wachtwoord bij het uitpakken van een bestand";
+"zRi-PC-AW9.title" = "Tentar senha padrão ao extrair qualquer arquivo";

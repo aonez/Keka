@@ -14,4 +14,4 @@
 
 /* Software update connection: */
 "SoftwareUpdatePurpose" = "Keka verbindet sich mit u(pdate).keka.io, um nach neuen Versionen zu suchen.";
-"SoftwareUpdateDenyConsequences" = "Falls Sie diese Verbindung untersagen, werden Sie nicht über neue Versionen von Keka informiert.";
+"SoftwareUpdateDenyConsequences" = "Falls du diese Verbindung untersagst, wirst du nicht über neue Versionen von Keka informiert.";
