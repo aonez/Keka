@@ -144,7 +144,7 @@
 "9dE-yV-N3K.title" = "Reservmapp:";
 
 /* Class = "NSButtonCell"; title = "Use the default password on new advanced windows"; ObjectID = "9ul-2H-k9o"; */
-"9ul-2H-k9o.title" = "Använd standardlösenord i nya avancerade fönster";
+"9ul-2H-k9o.title" = "Använd standardlösenordet i nya avancerade fönster";
 
 /* Class = "NSButtonCell"; title = "Show encrypt with default password items"; ObjectID = "AU8-I0-71W"; */
 "AU8-I0-71W.title" = "Visa kryptera objekt med standardlösenord";
