@@ -1,4 +1,4 @@
-﻿
+
 /* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
 "159.title" = "Standardformat:";
 
@@ -144,10 +144,10 @@
 "9dE-yV-N3K.title" = "Reservmapp:";
 
 /* Class = "NSButtonCell"; title = "Use the default password on new advanced windows"; ObjectID = "9ul-2H-k9o"; */
-"9ul-2H-k9o.title" = "Use the default password on new advanced windows";
+"9ul-2H-k9o.title" = "Använd standardlösenordet i nya avancerade fönster";
 
 /* Class = "NSButtonCell"; title = "Show encrypt with default password items"; ObjectID = "AU8-I0-71W"; */
-"AU8-I0-71W.title" = "Show encrypt with default password items";
+"AU8-I0-71W.title" = "Visa kryptera objekt med standardlösenord";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "CWc-wN-FhI"; */
 "CWc-wN-FhI.title" = "Anpassad mapp...";
@@ -201,7 +201,7 @@
 "PD2-iW-BGK.title" = "Aktivera åtkomst till hemmapp så att Keka kan användas för alla dina användarfiler, såsom på ditt Skrivbord eller Hämtade filer-mappen.";
 
 /* Class = "NSTextFieldCell"; title = "Default password:"; ObjectID = "Rgr-FP-Kua"; */
-"Rgr-FP-Kua.title" = "Default password:";
+"Rgr-FP-Kua.title" = "Standardlösenord:";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "Aktivera integration med Notiscenter";
@@ -228,7 +228,7 @@
 "a5e-FP-sDv.title" = "Använd \"Öppna med Keka\" som primär objektsåtgärd";
 
 /* Class = "NSButtonCell"; title = "Show in plain text"; ObjectID = "aOv-6b-JlO"; */
-"aOv-6b-JlO.title" = "Show in plain text";
+"aOv-6b-JlO.title" = "Visa i klartext";
 
 /* Class = "NSButtonCell"; title = "Use parent folder name when compressing multiple files"; ObjectID = "cDs-NB-2os"; */
 "cDs-NB-2os.title" = "Använd namnet från överordnad mapp när flera filer komprimeras";
@@ -300,10 +300,10 @@
 "tEH-O0-NxO.title" = "Aldrig, om möjligt";
 
 /* Class = "NSButtonCell"; title = "Use the default password on new compressions"; ObjectID = "u2R-2w-aOA"; */
-"u2R-2w-aOA.title" = "Use the default password on new compressions";
+"u2R-2w-aOA.title" = "Använd standardlösenordet i nya komprimeringar";
 
 /* Class = "NSTextFieldCell"; title = "You can also use this password from the Finder Extension's menu"; ObjectID = "vWb-gb-JBD"; */
-"vWb-gb-JBD.title" = "You can also use this password from the Finder Extension's menu";
+"vWb-gb-JBD.title" = "Du kan också använda lösenordet från Finder-tilläggets meny";
 
 /* Class = "NSTextFieldCell"; title = "The Finder Extension needs to be enabled in the  System Preferences, Extensions configuration."; ObjectID = "wgz-2S-eXI"; */
 "wgz-2S-eXI.title" = "Finder-tillägget måste vara aktiverat i konfigurationen  Systeminställningar, Tillägg.";
@@ -318,4 +318,4 @@
 "zPq-ei-qUb.title" = "Att köa upp ger vanligtvis snabbare uppgifter och mer responsivt beteende.";
 
 /* Class = "NSButtonCell"; title = "Try the default password when extracting any file"; ObjectID = "zRi-PC-AW9"; */
-"zRi-PC-AW9.title" = "Try the default password when extracting any file";
+"zRi-PC-AW9.title" = "Prova standardlösenordet när någon fil extraheras";

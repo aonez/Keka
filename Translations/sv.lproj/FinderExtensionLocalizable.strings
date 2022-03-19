@@ -1,10 +1,10 @@
 "Open with Keka" = "Öppna med Keka";
 "Compress here" = "Komprimera här";
 "Compress to..." = "Komprimera till...";
-"Compress the contents of the folder here" = "Compress the contents of the folder here";
-"Compress the contents of the folder to..." = "Compress the contents of the folder to...";
-"Encrypt with the default password here" = "Encrypt with the default password here";
-"Encrypt with the default password to..." = "Encrypt with the default password to...";
+"Compress the contents of the folder here" = "Komprimera mappens innehåll här";
+"Compress the contents of the folder to..." = "Komprimera mappens innehåll till...";
+"Encrypt with the default password here" = "Kryptera med standardlösenordet här";
+"Encrypt with the default password to..." = "Kryptera med standardlösenordet till...";
 "Extract here" = "Extrahera här";
 "Extract to..." = "Extrahera till...";
 "Extract to \"%@\"" = "Extrahera till \"%@\"";
