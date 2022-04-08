@@ -117,7 +117,7 @@
 "1TK-Zy-623.title" = "Suffix des Unterordners anpassen";
 
 /* Class = "NSButtonCell"; title = "Use custom tasks counter in the Dock"; ObjectID = "3cf-gN-q24"; */
-"3cf-gN-q24.title" = "Use custom tasks counter in the Dock";
+"3cf-gN-q24.title" = "Verwende den eigenen Vorgangszähler im Dock";
 
 /* Class = "NSButtonCell"; title = "Show icon in primary item"; ObjectID = "47Y-rt-2fG"; */
 "47Y-rt-2fG.title" = "Icon im Kontextmenü anzeigen";
@@ -144,10 +144,10 @@
 "9dE-yV-N3K.title" = "Ausweichordner:";
 
 /* Class = "NSButtonCell"; title = "Use the default password on new advanced windows"; ObjectID = "9ul-2H-k9o"; */
-"9ul-2H-k9o.title" = "Use the default password on new advanced windows";
+"9ul-2H-k9o.title" = "Verwende das Standardpasswort für neue erweiterte Fenster";
 
 /* Class = "NSButtonCell"; title = "Show encrypt with default password items"; ObjectID = "AU8-I0-71W"; */
-"AU8-I0-71W.title" = "Show encrypt with default password items";
+"AU8-I0-71W.title" = "Zeige Einträge zum Verschlüsseln mit dem Standardpasswort";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "CWc-wN-FhI"; */
 "CWc-wN-FhI.title" = "Auswählen …";
@@ -201,7 +201,7 @@
 "PD2-iW-BGK.title" = "Erlaube den Zugriff auf deinen Benutzer:innenordner, falls Keka in jedem deiner persönlichen Ordner, wie z.B. im Schreibtisch- oder im Downloads-Ordner, arbeiten können soll.";
 
 /* Class = "NSTextFieldCell"; title = "Default password:"; ObjectID = "Rgr-FP-Kua"; */
-"Rgr-FP-Kua.title" = "Default password:";
+"Rgr-FP-Kua.title" = "Standardpasswort:";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "Mitteilungszentrale verwenden";
@@ -228,7 +228,7 @@
 "a5e-FP-sDv.title" = "\"Mit Keka öffnen\" als erste Aktion verwenden";
 
 /* Class = "NSButtonCell"; title = "Show in plain text"; ObjectID = "aOv-6b-JlO"; */
-"aOv-6b-JlO.title" = "Show in plain text";
+"aOv-6b-JlO.title" = "Im Klartext anzeigen";
 
 /* Class = "NSButtonCell"; title = "Use parent folder name when compressing multiple files"; ObjectID = "cDs-NB-2os"; */
 "cDs-NB-2os.title" = "Den Namen des übergeordneten Ordners verwenden, wenn mehrere Dateien komprimiert werden";
@@ -246,7 +246,7 @@
 "chn-AV-kXZ.title" = "Überprüfen des Erweiterungsstatus";
 
 /* Class = "NSButtonCell"; title = "Use squish face when working"; ObjectID = "dOj-2Z-1kb"; */
-"dOj-2Z-1kb.title" = "Use squish face when working";
+"dOj-2Z-1kb.title" = "Verwende das eingedrückte Gesicht während aktiver Vorgänge";
 
 /* Class = "NSTextFieldCell"; title = "Compressing multiple files:"; ObjectID = "dhi-qv-weg"; */
 "dhi-qv-weg.title" = "Mehrere Dateien komprimieren:";
@@ -282,7 +282,7 @@
 "pXT-7y-9af.title" = "Immer in einen Unterordner entpacken";
 
 /* Class = "NSButtonCell"; title = "Differentiate between active and total tasks in the Dock"; ObjectID = "qrX-WU-mLd"; */
-"qrX-WU-mLd.title" = "Differentiate between active and total tasks in the Dock";
+"qrX-WU-mLd.title" = "Zeige aktive und gesamte Vorgänge im Dock an";
 
 /* Class = "NSButtonCell"; title = "Show Keka actions in Finder's contextual menu"; ObjectID = "rP2-XR-ZQt"; */
 "rP2-XR-ZQt.title" = "Kekas Aktionen im Kontextmenü des Finders anzeigen";
@@ -300,10 +300,10 @@
 "tEH-O0-NxO.title" = "Nie, wenn möglich";
 
 /* Class = "NSButtonCell"; title = "Use the default password on new compressions"; ObjectID = "u2R-2w-aOA"; */
-"u2R-2w-aOA.title" = "Use the default password on new compressions";
+"u2R-2w-aOA.title" = "Verwende das Standardpasswort bei neuen Komprimierungen";
 
 /* Class = "NSTextFieldCell"; title = "You can also use this password from the Finder Extension's menu"; ObjectID = "vWb-gb-JBD"; */
-"vWb-gb-JBD.title" = "You can also use this password from the Finder Extension's menu";
+"vWb-gb-JBD.title" = "Dieses Passwort kann auch über das Menü der Finder-Erweiterung genutzt werden";
 
 /* Class = "NSTextFieldCell"; title = "The Finder Extension needs to be enabled in the  System Preferences, Extensions configuration."; ObjectID = "wgz-2S-eXI"; */
 "wgz-2S-eXI.title" = "Die Finder-Erweiterung muss in den  Systemeinstellungen, Erweitungen aktiviert werden.";
@@ -318,4 +318,4 @@
 "zPq-ei-qUb.title" = "Das Nutzen der Warteliste erzielt normalerweise schnellere Ergebnise und verbessert das Verhalten.";
 
 /* Class = "NSButtonCell"; title = "Try the default password when extracting any file"; ObjectID = "zRi-PC-AW9"; */
-"zRi-PC-AW9.title" = "Try the default password when extracting any file";
+"zRi-PC-AW9.title" = "Probiere das Standardpasswort beim Entpacken aller Dateien";

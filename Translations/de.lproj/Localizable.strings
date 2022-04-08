@@ -173,7 +173,7 @@
 "In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "Um Keka als Standardanwendung festlegen zu können, muss eine Erweiterung installiert werden. Klicke auf „Weitere Informationen“, um die erforderlichen Schritte auszuführen. \n\nBeachte, dass im Dialogfenster „Informationen“ des Finders zu jeder Zeit Keka als Standardanwendung für ein Format festgelegt werden kann.";
 "Your installed extension is obsolete and you should update it." = "Deine installierte Erweiterung ist veraltet – Du solltest sie aktualisieren.";
 "Update" = "Update";
-"Save" = "Save";
+"Save" = "Sichern";
 "Cannot set Keka as default" = "Keka kann nicht als Standardanwendung festgelegt werden.";
 "The intermediate application failed to launch. There is more information in the Console.app." = "Die Zwischenanwendung konnte nicht gestartet werden. Weitere Informationen findest du im Programm „Konsole“.";
 "The intermediate application returned an undefined code." = "Die Zwischenanwendung lieferte eine unbekannte Fehlernummer zurück.";
@@ -229,8 +229,8 @@
 "Report" = "Ein Problem melden";
 "Report via mail" = "Per E-Mail melden";
 "Review Keka ★★★★★" = "Bewerte Keka ★★★★★";
-"Update the default password" = "Update the default password";
-"Set a default password" = "Set a default password";
+"Update the default password" = "Aktualisiere das Standardpasswort";
+"Set a default password" = "Setze das Standardpasswort";
 
 /*
 // MAS tips
