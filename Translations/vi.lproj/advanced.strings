@@ -56,7 +56,7 @@
 /* Class = "NSTextFieldCell"; placeholderString = "custom name"; ObjectID = "2354"; */
 "2354.placeholderString" = "tên tuỳ chỉnh";
 
-/* Class = "NSTextFieldCell"; title = "You can create a ISO volume that will be read-only and compressed. ISO volumes can be only created from a folder.\n\nSet a volume name to this ISO or use the default name based on the files you compress."; ObjectID = "2363"; */
+/* Class = "NSTextFieldCell"; title = "You can create an ISO volume that will be read-only and compressed. ISO volumes can be only created from a folder.\n\nSet a volume name to this ISO or use the default name based on the files you compress."; ObjectID = "2363"; */
 "2363.title" = "Bạn có thể tạo một đĩa ISO mà nó chỉ-đọc và được nén. Đĩa ISO chỉ có thể tạo được từ một thư mục.\n\nĐặt tên đĩa ISO này hoặc sử dụng tên mặc định dựa trên các tập tin bạn đang nén.";
 
 /* Class = "NSTextFieldCell"; title = "Store"; ObjectID = "2390"; */
