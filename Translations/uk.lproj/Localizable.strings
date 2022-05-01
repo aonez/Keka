@@ -38,8 +38,8 @@
 "Operation not implemented" = "Операція не виконана";
 "Performing operation..." = "Виконання операції...";
 "Waiting..." = "Очікування...";
-"Extracting \"%@\"" = "Розпаковування \"%@\"";
-"Extracting \"%@...\"" = "Розпаковування \"%@...\"";
+"Extracting \"%@\"" = "Розпакування \"%@\"";
+"Extracting \"%@...\"" = "Розпакування \"%@...\"";
 "Creating %@ file..." = "Створення %@ файлу...";
 "Creating file \"%@\"" = "Створення файлу \"%@\"";
 "Creating file \"%@...\"" = "Створення файлу \"%@...\"";
@@ -61,14 +61,14 @@
 "Choose a name and folder to start the compression" = "Виберіть ім'я та папку, щоб розпочати стиск";
 "Creation of \"%@\" failed" = "Створення \"%@\" не вдалося";
 "Creating \"%@\"" = "Створення \"%@\"";
-"Preparing extraction..." = "Підготовка розпаковування…";
+"Preparing extraction..." = "Підготовка розпакування…";
 "Choose a folder to extract this file" = "Виберіть папку, щоб розпакувати цей файл";
 "Choose where do you want to extract \"%@\"" = "Виберіть, куди ви хочете розпакувати \"%@\"";
 "Select all the volumes from \"%@\" or the folder that contains them" = "Виділіть усі томи з \"%@\" або папку, яка їх містить";
 "Select the folder that contains \"%@\"" = "Виберіть папку, яка містить \"%@\"";
 "Extraction of \"%@\" failed" = "Розпакування \"%@\" не вдалося";
-"Extraction of \"%@\" completed" = "Extraction of \"%@\" completed";
-"The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue";
+"Extraction of \"%@\" completed" = "Розпакування \"%@\" завершено";
+"The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "Розпакування завершене, але карантин не застосовано.\nБудь-ласка, перевстановіть Keka, щоб це виправити";
 "Keka - %i on queue" = "Keka - %i на черзі";
 "Keka can't create this %@ image" = "Keka не може створити %@ образ";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "Ви можете лише створити %@ образ. Спробуйте помістити всі ваші файли в папку і помістіть їх у Keka, щоб створити %@ образ";
@@ -107,7 +107,7 @@
 "Slow, more compression" = "Повільно, більше стиснення";
 "Slowest, more compression" = "Найповільніше, більше стиснення";
 "Compression" = "Стиснення";
-"Extraction" = "Розпаковування";
+"Extraction" = "Розпакування";
 "Keka can't use the \"extlx.plist\" list, please get in contact with the developers.\n\nNow Keka will quit." = "Keka не може використовувати список \"extlx.plist\", будь ласка зверніться до розробників.\n\nТепер Keka завершить роботу.";
 "Keka is dying!" = "Keka вмирає!";
 "Ask each time" = "Запитувати кожен раз";
@@ -173,8 +173,8 @@
 "In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "Щоб встановити програму Keka як програму за умовчанням, потрібно встановити розширення. Натисніть на \"Більше інформації\" щоб виконати необхідні кроки.\n\nПам'ятайте, що ви завжди можете встановити Keka як програму за замовчуванням для будь-якого формату за допомогою Finder, панель \"Отримати інформацію\".";
 "Your installed extension is obsolete and you should update it." = "Встановлене вами розширення застаріло, вам слід його оновити.";
 "Update" = "Оновити";
-"Save" = "Save";
-"Cannot set Keka as default" = "Неможливо встановити Keka за умовчанням";
+"Save" = "Зберегти";
+"Cannot set Keka as default" = "Неможливо встановити Keka за замовчуванням";
 "The intermediate application failed to launch. There is more information in the Console.app." = "Не вдалося запустити проміжну програму. Більше інформації в Console.app.";
 "The intermediate application returned an undefined code." = "Проміжний додаток повернув невизначений код.";
 "Keka is now set as the default application for its known formats." = "Keka тепер встановлена як стандартна програма для відомих форматів.";
@@ -185,7 +185,7 @@
 "Show in Finder" = "Показати у Finder";
 "Delete" = "Видалити";
 "Continue without encryption" = "Продовжити без шифрування";
-"The password does not match" = "Паролі не Continue without encryption";
+"The password does not match" = "Пароль не співпадає";
 "The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption." = "Пароль встановлений неправильно, тому файл не можна зашифрувати. Ви можете скасувати та встановити пароль ще раз або продовжити процес без шифрування.";
 "Use legacy encryption" = "Використовувати звичайнe шифрування";
 "Using AES-256 encryption in ZIP" = "Використовувати AES-256 шифрування в ZIP";
@@ -229,8 +229,8 @@
 "Report" = "Звіт";
 "Report via mail" = "Повідомити по електронній пошті";
 "Review Keka ★★★★★" = "Оцінити Keka ★★★★★";
-"Update the default password" = "Update the default password";
-"Set a default password" = "Set a default password";
+"Update the default password" = "Оновити пароль за замовчуванням";
+"Set a default password" = "Задати пароль за замовчуванням";
 
 /*
 // MAS tips
