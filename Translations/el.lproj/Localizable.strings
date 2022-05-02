@@ -9,6 +9,7 @@
 "File Access" = "Πρόσβαση Αρχείου";
 "Performance" = "Επιδόσεις";
 "Finder Extension" = "Επέκταση Finder";
+"Passwords" = "Κωδικοί πρόσβασης";
 "Love" = "Αγάπη";
 "OK" = "Εντάξει";
 "Done" = "Ετοιμο";
@@ -185,8 +186,7 @@
 "Delete" = "Διαγραφή";
 "Continue without encryption" = "Συννέχισε χωρίς την κρυπτογράφηση";
 "The password does not match" = "Ο κωδικός δεν είναι σωστός";
-"The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption." = "Ο κωδικός δεν εισάχθηκε σωστά και το αρχείο δε μπορεί να κρυπτογραφηθεί. Μπορείτε να ακυρώσετε
-και να εισάγετε ξανά τον κωδικό ή συννεχίστε τη διεργασία χωρίς κρυπτογράφιση.";
+"The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption." = "Ο κωδικός δεν εισάχθηκε σωστά και το αρχείο δε μπορεί να κρυπτογραφηθεί. Μπορείτε να ακυρώσετε και να εισάγετε ξανά τον κωδικό ή συννεχίστε τη διεργασία χωρίς κρυπτογράφιση.";
 "Use legacy encryption" = "Χρήση κρυπτογράφησης παλαιότερης έκδοσης";
 "Using AES-256 encryption in ZIP" = "Χρήση κρυπτογράφισης τύπου AES-256 στο ZIP";
 "Note that most modern operating systems such as macOS (before macOS 11.0 Big Sur) or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities." = "Σημείωση: τα περισσότερα σύγχρονα λειτουργικά συστήματα macOS (παλαιότερων εκδόσεων από το OSX 11.0 Big Sur) ή Windows, δεν υποστηρίζουν εξ’ορισμού κρυπτογραφημένα αρχεία ZIP με AES-256.\n\nΜπορείτε να ανοίξετε εύκολα τα αρχεία αυτά με τα προγράμματα αποσυμπίεσης διαφόρων κατασκευαστών.";
@@ -213,7 +213,7 @@
 "If Keka has File Access it will execute the operation near the source file/s, otherwise it will ask for a location. You can set Keka's File Access in the Preferences tab so this option works properly." = "Εαν το Keka έχει δικαίωμα πρόσβασης αρχείων θα εκτελέσει τη λειτουργία του δίπλα στα πηγαία αρχεία, διαφορετικά θα σας ζητήσει μια επιθυμητή τοποθεσία. Ρυθμίστε τα δικαιώματα πρόσβασης αρχείων στην καρτέλα των επιλογών Προτιμήσεων ώστε η επιλογή αυτή να λειτουργήσει σωστά.";
 "Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Το Keka το Keka δεν έχει δικαίωμα πρόσβασης αρχείων στο φάκελο προορισμού οπότε χρειάζεται να σας ρωτήσει για μια τοποθεσία.\nΠροσθέστε πρόσβαση σε αυτό το φάκελο (τοποθεσία) και άλλους φακέλους μέσω των επιλογών Πρόσβασης αρχείων της καρτέλας Προτιμήσεων του Keka.";
 "The characters %@ are not compatible with the %@ format" = "Οι χαρακτήρες %@ δεν είναι συμβατοί με το %@ φορμά (format)";
-"The character %@ are not compatible with the %@ format" = "Ο χαρακτήρaς %@ δεν είναι συμβατός με το %@ φορμά (format)";
+"The character %@ is not compatible with the %@ format" = "Ο χαρακτήρaς %@ δεν είναι συμβατός με το %@ φορμά (format)";
 "Stop compressing" = "Σταμάτησε τη συμπίεση";
 "Stop extracting" = "Σταμάτησε την εξαγωγή";
 "Resume compressing" = "Συννέχισε τη συμπίεση από το σημείο παύσης";
