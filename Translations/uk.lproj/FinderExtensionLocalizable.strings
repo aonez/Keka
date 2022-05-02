@@ -1,10 +1,10 @@
 "Open with Keka" = "Відкрити за допомогою Keka";
 "Compress here" = "Стиснути тут";
 "Compress to..." = "Стиснути в...";
-"Compress the contents of the folder here" = "Compress the contents of the folder here";
-"Compress the contents of the folder to..." = "Compress the contents of the folder to...";
-"Encrypt with the default password here" = "Encrypt with the default password here";
-"Encrypt with the default password to..." = "Encrypt with the default password to...";
+"Compress the contents of the folder here" = "Стиснути вміст папки тут";
+"Compress the contents of the folder to..." = "Стиснути вміст папки в...";
+"Encrypt with the default password here" = "Шифрувати з паролем за замовчуванням тут";
+"Encrypt with the default password to..." = "Шифрувати з паролем за замовчуванням в...";
 "Extract here" = "Розпакувати тут";
 "Extract to..." = "Розпакувати в...";
 "Extract to \"%@\"" = "Розпакувати в \"%@\"";

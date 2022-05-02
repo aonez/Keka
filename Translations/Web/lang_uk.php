@@ -23,13 +23,13 @@ $content_title = "архіватор файлів для macOS";
 
 // Download
 $content_platform = "Потрібна $version_replace або новіше";
-$content_download_text = "Зберігайте більше, ділітесь безпечно";
+$content_download_text = "Зберігайте більше, діліться безпечно";
 $content_download_love = "Сподобалося?";
 $content_download_legacy = "Більш ранні версії";
-$content_download_helper = "Helper";
-$content_downloading = "Downloading ";
-$content_downloading_if_fails = "If the download does not start automatically ";
-$content_downloading_if_fails_click_here = " click here";
+$content_download_helper = "Помічник";
+$content_downloading = "Завантаження ";
+$content_downloading_if_fails = "Якщо завантаження не почнеться автоматично, ";
+$content_downloading_if_fails_click_here = " натисніть тут";
 
 // Like
 $content_donation_button = "пожертвувати";
@@ -39,7 +39,7 @@ $content_donation_paypal = "Якщо вам не подобається MAS аб
 
 // Beta
 $content_platform_beta = "Бета";
-$content_beta_title = "Бета-версия Keka";
+$content_beta_title = "Бета-версія Keka";
 $content_beta_text = "Ви можете протестувати нові можливості Keka перед релізом. <br /> Якщо ви знайдете баг, перейдіть в розділ";
 $content_beta_unavailable = "На даний момент немає доступних бета-версій.";
 $content_beta_up = "Завантажити нову версію";
@@ -60,14 +60,14 @@ $content_info_compression = "Keka може створювати файли ци�
 $content_info_extraction = "І розпаковувати ці формати:";
 
 // Default app
-$content_defaultapp_title = "Set Keka as the default extraction application";
-$content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">needs a helper <i class="far fa-question-circle"></i></a> to set itself as the default application.<br />Simply download and extract it, move it to the desktop and then open it.';
+$content_defaultapp_title = "Задайте Keka як програму для розпаковування за замовчуванням";
+$content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">потребує помічника <i class="far fa-question-circle"></i></a>, щоб стати програмою за замовчуванням.<br />Просто завантажте і розпакуйте його, перемістіть на робочий стіл і відкрийте.';
 
 // Privacy Policy
-$content_privacypolicy_title = 'Privacy Policy';
+$content_privacypolicy_title = 'Політика Приватності';
 
 // Terms of use
-$content_termsofuse_title = 'Terms of Use';
+$content_termsofuse_title = 'Умови Використання';
 
 // Main content of the page
 $content_context_menu = "Контекстне меню";
@@ -83,7 +83,7 @@ $content_404_start = "Вы можете перейти на <a href=\"https://ww
 $content_404_more = "або, може, ви шукаєте це?";
 
 // Maintenance
-$content_maintenance = "Will be back soon";
+$content_maintenance = "Скоро повернуся";
 
 // Bottom info
 $content_bottom_copying = 'Всі права захищені.';
