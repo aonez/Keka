@@ -134,7 +134,7 @@
 /* Class = "NSButtonCell"; title = "Nest actions in a submenu"; ObjectID = "6bh-6N-5PP"; */
 "6bh-6N-5PP.title" = "サブメニューにアクションを入れ込む";
 
-/* Class = "NSTextFieldCell"; title = "You can use this placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n%pb% will be replaced with the clipboard string\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
+/* Class = "NSTextFieldCell"; title = "You can use these placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n%pb% will be replaced with the clipboard string\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
 "8JN-Ub-qkc.title" = "このプレースホルダーを使用することができます。:\n\n%n がファイル名に置き換えられます。\n%e がファイルの拡張子に置き換えられます。\n%p が親フォルダに置き換えられます。\n%c がファイル数に置き換えられます。\n%d が現在の日付に置き換えられます。\n%t が現在の時刻に置き換えられます。\n%s が共有名に置き換えられます。\n%i% は最初の項目名に置き換えられます。\n%ia% は最初にソートされた名前に置き換えられます。\n%pb% はクリップボードの文字列に置き換えられます。\n\n入れ替えは場合によってはスルーされます。";
 
 /* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "8Uc-pg-EyS"; */

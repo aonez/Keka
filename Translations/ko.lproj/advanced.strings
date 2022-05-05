@@ -56,7 +56,7 @@
 /* Class = "NSTextFieldCell"; placeholderString = "custom name"; ObjectID = "2354"; */
 "2354.placeholderString" = "사용자 지정 이름";
 
-/* Class = "NSTextFieldCell"; title = "You can create a ISO volume that will be read-only and compressed. ISO volumes can be only created from a folder.\n\nSet a volume name to this ISO or use the default name based on the files you compress."; ObjectID = "2363"; */
+/* Class = "NSTextFieldCell"; title = "You can create an ISO volume that will be read-only and compressed. ISO volumes can be only created from a folder.\n\nSet a volume name to this ISO or use the default name based on the files you compress."; ObjectID = "2363"; */
 "2363.title" = "압축된 읽기 전용 ISO 볼륨을 만들 수 있습니다. 단일 폴더를 ISO 볼륨으로 만들 수 있습니다.\n\n볼륨 이름을 지정하지 않으면 압축하는 파일에 따른 기본 이름이 사용됩니다.";
 
 /* Class = "NSTextFieldCell"; title = "Store"; ObjectID = "2390"; */

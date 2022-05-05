@@ -1,6 +1,6 @@
 ﻿
 /* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "2221"; */
-"2221.title" = "Αποθήκευση ως μεμονωμένα αρχεία";
+"2221.title" = "Αποθήκευση ως μεμονωμένα (ανεξάρτητα) αρχεία";
 
 /* Class = "NSButtonCell"; title = "Delete file(s) after compression"; ObjectID = "2222"; */
 "2222.title" = "Διαγραφή των αρχείων μετά τη συμπίεση";
@@ -56,8 +56,8 @@
 /* Class = "NSTextFieldCell"; placeholderString = "custom name"; ObjectID = "2354"; */
 "2354.placeholderString" = "Επιθυμητό όνομα";
 
-/* Class = "NSTextFieldCell"; title = "You can create a ISO volume that will be read-only and compressed. ISO volumes can be only created from a folder.\n\nSet a volume name to this ISO or use the default name based on the files you compress."; ObjectID = "2363"; */
-"2363.title" = "Δημιουργία τόμου τύπου ISO, με ιδιότητες μόνο ανάγνωσης, συμπιεσμένου.\n\nΜπορεί να δημιουργηθεί μόνο από ένα φάκελο!\n\nΟνομάστε το αρχείο DMG ή χρησιμοποιήστε ένα προεπιλεγμένο όνομα από τα φάκελο που συμπιέζετε.";
+/* Class = "NSTextFieldCell"; title = "You can create an ISO volume that will be read-only and compressed. ISO volumes can be only created from a folder.\n\nSet a volume name to this ISO or use the default name based on the files you compress."; ObjectID = "2363"; */
+"2363.title" = "Δημιουργία τόμου τύπου ISO, συμπιεσμένου, με ιδιότητες μόνο ανάγνωσης.\n\nΔημιουργείται μόνο από ένα φάκελο!\n\nΟνομάστε τον τόμο ISO ή χρησιμοποιήστε ένα επιθυμητό όνομα όπως το όνομα του φακέλου που συμπιέζετε.";
 
 /* Class = "NSTextFieldCell"; title = "Store"; ObjectID = "2390"; */
 "2390.title" = "Αποθήκευση";
@@ -78,10 +78,10 @@
 "L2I-Q8-zqc.title" = "Κρυπτογράφιση αρχείων";
 
 /* Class = "NSButtonCell"; title = "Use AES-256 encryption"; ObjectID = "Lw7-h9-3Qh"; */
-"Lw7-h9-3Qh.title" = "Χρήση αλγορίθμου AES-256";
+"Lw7-h9-3Qh.title" = "Κρυπτογράφιση τύπου AES-256";
 
 /* Class = "NSButtonCell"; title = "Solid archive"; ObjectID = "UYy-aQ-V1a"; */
-"UYy-aQ-V1a.title" = "Συμπαγές αρχείο";
+"UYy-aQ-V1a.title" = "Συμπαγές αρχείο (μέθοδος συμπίεσης Solid)";
 
 /* Class = "NSButtonCell"; title = "Use BZIP2 compression"; ObjectID = "qhy-NU-Cts"; */
-"qhy-NU-Cts.title" = "Use BZIP2 compression";
+"qhy-NU-Cts.title" = "Χρήση BZIP2 συμπίεσης";

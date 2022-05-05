@@ -14,4 +14,4 @@
 
 /* Software update connection: */
 "SoftwareUpdatePurpose" = "Το Keka ελέγχει για νέες εκδόσεις, συνδέεται στο  u(pdate).keka.io.";
-"SoftwareUpdateDenyConsequences" = "Εάν ακυρώσετε τη σύνδεση αυτή, δε θα ενημερωθείτε για νέες εκδόσεις του Keka.";
+"SoftwareUpdateDenyConsequences" = "Εάν διακόψετε τη σύνδεση αυτή, δε θα ενημερωθείτε για τις νέες Keka εκδόσεις.";

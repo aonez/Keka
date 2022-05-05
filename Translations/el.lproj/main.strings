@@ -27,7 +27,7 @@
 "IkK-ST-X3F.title" = "Enable debug information";
 
 /* Class = "NSMenuItem"; title = "Check for updates"; ObjectID = "K4O-VW-7FA"; */
-"K4O-VW-7FA.title" = "Ελεγχος ενημερώσεων";
+"K4O-VW-7FA.title" = "Ελεγχος νέων ενημερώσεων";
 
 /* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "KcM-nz-gqf"; */
 "KcM-nz-gqf.title" = "Ζούμ";
@@ -57,7 +57,7 @@
 "TTb-AR-olf.title" = "Αρχείο";
 
 /* Class = "NSMenuItem"; title = "Keka Help"; ObjectID = "Uuy-RK-W5n"; */
-"Uuy-RK-W5n.title" = "Βοήθεια ΚΕΚΑ";
+"Uuy-RK-W5n.title" = "Βοήθεια για το ΚΕΚΑ";
 
 /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "W9M-Wy-dHU"; */
 "W9M-Wy-dHU.title" = "Επικόλληση";
@@ -66,7 +66,7 @@
 "YHt-wh-fCp.title" = "Εμφάνιση εργαλειοθήκης";
 
 /* Class = "NSMenuItem"; title = "Debug"; ObjectID = "ZBc-IE-jQG"; */
-"ZBc-IE-jQG.title" = "Debug";
+"ZBc-IE-jQG.title" = "Εξφαλμάτωση";
 
 /* Class = "NSMenuItem"; title = "New"; ObjectID = "bFm-YE-6u3"; */
 "bFm-YE-6u3.title" = "Νέο";
@@ -84,10 +84,10 @@
 "jtN-lL-fdx.title" = "Ανοιγμα πρόσφατων...";
 
 /* Class = "NSMenuItem"; title = "Terms Of Use"; ObjectID = "lmN-Tm-HmZ"; */
-"lmN-Tm-HmZ.title" = "Terms Of Use";
+"lmN-Tm-HmZ.title" = "Οροι Χρήσης";
 
 /* Class = "NSMenuItem"; title = "About Keka"; ObjectID = "maF-B5-Hb6"; */
-"maF-B5-Hb6.title" = "Περί Keka";
+"maF-B5-Hb6.title" = "Περί του Keka";
 
 /* Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "nlc-UW-DRW"; */
 "nlc-UW-DRW.title" = "Επαναφορά αποθήκευσης";
@@ -105,7 +105,7 @@
 "sUB-o8-so9.title" = "Ανοιγμα…";
 
 /* Class = "NSMenuItem"; title = "Hide Keka"; ObjectID = "smC-MI-dLE"; */
-"smC-MI-dLE.title" = "Απόκρυψη Keka";
+"smC-MI-dLE.title" = "Απόκρυψη του Keka";
 
 /* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "sx5-sf-JmW"; */
 "sx5-sf-JmW.title" = "Απόκρυψη υπολοίπων";
@@ -120,10 +120,10 @@
 "v5b-pg-pYC.title" = "Αντιγραφή";
 
 /* Class = "NSMenuItem"; title = "New Window"; ObjectID = "wLf-5U-sSh"; */
-"wLf-5U-sSh.title" = "New window";
+"wLf-5U-sSh.title" = "Νέο παράθυρο";
 
 /* Class = "NSMenuItem"; title = "Select All"; ObjectID = "wbR-ho-uar"; */
 "wbR-ho-uar.title" = "Επιλογή όλων";
 
 /* Class = "NSMenuItem"; title = "Save debug information"; ObjectID = "zWX-XS-wiR"; */
-"zWX-XS-wiR.title" = "Save debug information";
+"zWX-XS-wiR.title" = "Αποθήκευση πληροφοριών εξφαλμάτωσης";
