@@ -113,6 +113,9 @@
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "453"; */
 "453.title" = "无";
 
+/* Class = "NSButtonCell"; title = "Show compress contents of folder items"; ObjectID = "0Am-9a-jtM"; */
+"0Am-9a-jtM.title" = "Show compress contents of folder items";
+
 /* Class = "NSButtonCell"; title = "Rename the recognized extension from the subfolder"; ObjectID = "1TK-Zy-623"; */
 "1TK-Zy-623.title" = "从子文件夹重命名已识别的扩展名";
 
@@ -152,6 +155,9 @@
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "CWc-wN-FhI"; */
 "CWc-wN-FhI.title" = "自定义文件夹...";
 
+/* Class = "NSMenuItem"; title = "Lowest"; ObjectID = "Cz9-7i-oHp"; */
+"Cz9-7i-oHp.title" = "Lowest";
+
 /* Class = "NSTextFieldCell"; title = "Extractions use less power so even using multiple thread you can easily set this limit to two or three. Note that the target disk may suffer."; ObjectID = "DAr-Td-s5W"; */
 "DAr-Td-s5W.title" = "提取使用的能耗较少，因此即使使用多线程，您也可以将此限制设置为 2 或 3。请注意，目标磁盘可能会受影响。";
 
@@ -170,6 +176,12 @@
 /* Class = "NSButtonCell"; title = "Use custom name when compressing multiple files"; ObjectID = "Ei5-Ya-HGI"; */
 "Ei5-Ya-HGI.title" = "压缩多个文件时使用自定义名称";
 
+/* Class = "NSTextFieldCell"; title = "Tasks priority (QoS):"; ObjectID = "G1T-Qd-OZi"; */
+"G1T-Qd-OZi.title" = "Tasks priority (QoS):";
+
+/* Class = "NSButtonCell"; title = "Always use the lowest priority when running on battery"; ObjectID = "GJB-94-NHl"; */
+"GJB-94-NHl.title" = "Always use the lowest priority when running on battery";
+
 /* Class = "NSTextFieldCell"; title = "It is recommended to only do one compression at a time if using multiple threads."; ObjectID = "Hkf-wB-gUj"; */
 "Hkf-wB-gUj.title" = "如果使用多线程，建议不要同时执行多个压缩操作。";
 
@@ -181,6 +193,9 @@
 
 /* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive."; ObjectID = "JxT-Nq-8Z5"; */
 "JxT-Nq-8Z5.title" = "启用外部卷访问，以便 Keka 可以与外部磁盘一起使用，例如 USB 或雷雳驱动器。";
+
+/* Class = "NSTextFieldCell"; title = "Lower priority results in longer times. The lowest priority on Apple Silicon equiped Macs will only use \"Eficiency\" cores, resulting in longer but more energy efficient tasks.\nAlready running tasks priority will not be modified."; ObjectID = "Jyq-vC-L5r"; */
+"Jyq-vC-L5r.title" = "Lower priority results in longer times. The lowest priority on Apple Silicon equiped Macs will only use \"Eficiency\" cores, resulting in longer but more energy efficient tasks.\nAlready running tasks priority will not be modified.";
 
 /* Class = "NSTextFieldCell"; title = "Queue compression operations:"; ObjectID = "K5h-j5-bss"; */
 "K5h-j5-bss.title" = "队列压缩操作：";
@@ -209,6 +224,9 @@
 /* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "TLc-Nk-Bps"; */
 "TLc-Nk-Bps.placeholderString" = "这是您的自定义名称";
 
+/* Class = "NSMenuItem"; title = "Lower"; ObjectID = "Vss-gS-NkP"; */
+"Vss-gS-NkP.title" = "Lower";
+
 /* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "WCN-jH-W9J"; */
 "WCN-jH-W9J.placeholderString" = "这是您的自定义名称";
 
@@ -218,11 +236,17 @@
 /* Class = "NSMenuItem"; title = "Automatic"; ObjectID = "XOB-JO-UQT"; */
 "XOB-JO-UQT.title" = "自动";
 
+/* Class = "NSMenuItem"; title = "Highest"; ObjectID = "Xl7-AN-Kgw"; */
+"Xl7-AN-Kgw.title" = "Highest";
+
 /* Class = "NSButtonCell"; title = "Use BZIP2 compression in DMG files (better but slower)"; ObjectID = "Xoi-ui-e7P"; */
 "Xoi-ui-e7P.title" = "在 DMG 文件中使用 BZIP2 压缩（压缩效果更好但速度慢）";
 
 /* Class = "NSTextFieldCell"; title = "Enable full Mac access so Keka can be used on all your Mac."; ObjectID = "ZOx-vr-5o7"; */
 "ZOx-vr-5o7.title" = "启用完整访问权限，以便可以在整个系统中使用 Keka。";
+
+/* Class = "NSMenuItem"; title = "High"; ObjectID = "ZiK-jD-TLq"; */
+"ZiK-jD-TLq.title" = "High";
 
 /* Class = "NSButtonCell"; title = "Use \"Open with Keka\" as the primary item action"; ObjectID = "a5e-FP-sDv"; */
 "a5e-FP-sDv.title" = "使用“在 Keka 中打开”作为主要操作项";
@@ -268,6 +292,9 @@
 
 /* Class = "NSTextFieldCell"; title = "You can customize where to show the contextual menu below:"; ObjectID = "izC-0G-lvl"; */
 "izC-0G-lvl.title" = "您可以自定义在何处显示上下文菜单：";
+
+/* Class = "NSMenuItem"; title = "Default"; ObjectID = "mfK-Rj-HLz"; */
+"mfK-Rj-HLz.title" = "Default";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous operations:"; ObjectID = "o8J-bR-bs6"; */
 "o8J-bR-bs6.title" = "最大同时操作数量：";

@@ -113,6 +113,9 @@
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "453"; */
 "453.title" = "Ninguno";
 
+/* Class = "NSButtonCell"; title = "Show compress contents of folder items"; ObjectID = "0Am-9a-jtM"; */
+"0Am-9a-jtM.title" = "Mostrar opciones para comprimir el contenido de la carpeta";
+
 /* Class = "NSButtonCell"; title = "Rename the recognized extension from the subfolder"; ObjectID = "1TK-Zy-623"; */
 "1TK-Zy-623.title" = "Renombrar la extensión conocida en la carpeta intermedia";
 
@@ -152,6 +155,9 @@
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "CWc-wN-FhI"; */
 "CWc-wN-FhI.title" = "Carpeta personalizada...";
 
+/* Class = "NSMenuItem"; title = "Lowest"; ObjectID = "Cz9-7i-oHp"; */
+"Cz9-7i-oHp.title" = "Segundo plano";
+
 /* Class = "NSTextFieldCell"; title = "Extractions use less power so even using multiple thread you can easily set this limit to two or three. Note that the target disk may suffer."; ObjectID = "DAr-Td-s5W"; */
 "DAr-Td-s5W.title" = "Las extracciones requieren menos potencia con lo que se pueden realizar dos o tres simultáneamente sin problema. No obstante el disco de destino puede sufrir.";
 
@@ -170,6 +176,12 @@
 /* Class = "NSButtonCell"; title = "Use custom name when compressing multiple files"; ObjectID = "Ei5-Ya-HGI"; */
 "Ei5-Ya-HGI.title" = "Utilizar el nombre personalizado cuando se compriman varios ficheros";
 
+/* Class = "NSTextFieldCell"; title = "Tasks priority (QoS):"; ObjectID = "G1T-Qd-OZi"; */
+"G1T-Qd-OZi.title" = "Prioridad de la operación (QoS):";
+
+/* Class = "NSButtonCell"; title = "Always use the lowest priority when running on battery"; ObjectID = "GJB-94-NHl"; */
+"GJB-94-NHl.title" = "Utilizar segundo plano cuando se trabaje con batería";
+
 /* Class = "NSTextFieldCell"; title = "It is recommended to only do one compression at a time if using multiple threads."; ObjectID = "Hkf-wB-gUj"; */
 "Hkf-wB-gUj.title" = "Se recomienda realizar una sola compresión si se utilizan varios hilos.";
 
@@ -181,6 +193,9 @@
 
 /* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive."; ObjectID = "JxT-Nq-8Z5"; */
 "JxT-Nq-8Z5.title" = "Habilita el acceso a volúmenes externos para que Keka pueda utilizarse en discos externos, tales como USB o Thunderbolt.";
+
+/* Class = "NSTextFieldCell"; title = "Lower priority results in longer times. The lowest priority on Apple Silicon equiped Macs will only use \"Eficiency\" cores, resulting in longer but more energy efficient tasks.\nAlready running tasks priority will not be modified."; ObjectID = "Jyq-vC-L5r"; */
+"Jyq-vC-L5r.title" = "A menor prioridad mayor tiempo de ejecución. La prioridad más baja (segundo plano) en Macs con procesadores de Apple utilizará unicamente los núcleos \"Eficientes\", resultando en operaciones más lentas pero mucho más eficientes energéticamente.\nNo se modificará la prioridad de las operaciones que ya estén en ejecución.";
 
 /* Class = "NSTextFieldCell"; title = "Queue compression operations:"; ObjectID = "K5h-j5-bss"; */
 "K5h-j5-bss.title" = "Cola de compresión:";
@@ -209,6 +224,9 @@
 /* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "TLc-Nk-Bps"; */
 "TLc-Nk-Bps.placeholderString" = "Escribe aquí el nombre personalizado";
 
+/* Class = "NSMenuItem"; title = "Lower"; ObjectID = "Vss-gS-NkP"; */
+"Vss-gS-NkP.title" = "Baja";
+
 /* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "WCN-jH-W9J"; */
 "WCN-jH-W9J.placeholderString" = "Escribe aquí el nombre personalizado";
 
@@ -218,11 +236,17 @@
 /* Class = "NSMenuItem"; title = "Automatic"; ObjectID = "XOB-JO-UQT"; */
 "XOB-JO-UQT.title" = "Automáticamente";
 
+/* Class = "NSMenuItem"; title = "Highest"; ObjectID = "Xl7-AN-Kgw"; */
+"Xl7-AN-Kgw.title" = "Primer plano";
+
 /* Class = "NSButtonCell"; title = "Use BZIP2 compression in DMG files (better but slower)"; ObjectID = "Xoi-ui-e7P"; */
 "Xoi-ui-e7P.title" = "Utilizar BZIP2 para comprimir los archivos DMG (mejor pero más lento)";
 
 /* Class = "NSTextFieldCell"; title = "Enable full Mac access so Keka can be used on all your Mac."; ObjectID = "ZOx-vr-5o7"; */
 "ZOx-vr-5o7.title" = "Habilita el acceso completo a tu Mac para poder utilizar Keka en cualquier lugar.";
+
+/* Class = "NSMenuItem"; title = "High"; ObjectID = "ZiK-jD-TLq"; */
+"ZiK-jD-TLq.title" = "Alta";
 
 /* Class = "NSButtonCell"; title = "Use \"Open with Keka\" as the primary item action"; ObjectID = "a5e-FP-sDv"; */
 "a5e-FP-sDv.title" = "Utilizar \"Abrir con Keka\" como la acción primaria";
@@ -268,6 +292,9 @@
 
 /* Class = "NSTextFieldCell"; title = "You can customize where to show the contextual menu below:"; ObjectID = "izC-0G-lvl"; */
 "izC-0G-lvl.title" = "Puedes personalizar donde mostrar el menú contextual utilizando esta lista:";
+
+/* Class = "NSMenuItem"; title = "Default"; ObjectID = "mfK-Rj-HLz"; */
+"mfK-Rj-HLz.title" = "Normal";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous operations:"; ObjectID = "o8J-bR-bs6"; */
 "o8J-bR-bs6.title" = "Cantidad máxima de operaciones simultáneas:";

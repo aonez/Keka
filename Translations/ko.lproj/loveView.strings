@@ -24,7 +24,7 @@
 "ePd-aV-Xmv.title" = "매월";
 
 /* Class = "NSButtonCell"; title = "Occasionally ask to rate Keka in the Mac App Store"; ObjectID = "h7M-VN-RPh"; */
-"h7M-VN-RPh.title" = "이따금씩  Mac App Store에서의 Keka에 대한 평가를 요청받는 것을 허용합니다.";
+"h7M-VN-RPh.title" = "이따금씩 Mac App Store에서 Keka의 별점을 매겨주도록 묻는 것을 허용합니다";
 
 /* Class = "NSButtonCell"; title = "Restore purchases"; ObjectID = "tV1-R5-wzr"; */
-"tV1-R5-wzr.title" = "Restore purchases";
+"tV1-R5-wzr.title" = "구매 복원";
