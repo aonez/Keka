@@ -186,8 +186,7 @@
 "Delete" = "Διαγραφή";
 "Continue without encryption" = "Συννέχισε χωρίς την κρυπτογράφηση";
 "The password does not match" = "Ο κωδικός δεν είναι σωστός";
-"The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption." = "Ο κωδικός δεν εισάχθηκε σωστά και το αρχείο δε μπορεί να κρυπτογραφηθεί. Μπορείτε να ακυρώσετε
-και να εισάγετε ξανά τον κωδικό ή συννεχίστε τη διεργασία χωρίς κρυπτογράφιση.";
+"The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption." = "Ο κωδικός δεν εισάχθηκε σωστά και το αρχείο δε μπορεί να κρυπτογραφηθεί. Μπορείτε να ακυρώσετε και να εισάγετε ξανά τον κωδικό ή συννεχίστε τη διεργασία χωρίς κρυπτογράφιση.";
 "Use legacy encryption" = "Χρήση κρυπτογράφησης παλαιότερης έκδοσης";
 "Using AES-256 encryption in ZIP" = "Χρήση κρυπτογράφισης τύπου AES-256 στο ZIP";
 "Note that most modern operating systems such as macOS (before macOS 11.0 Big Sur) or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities." = "Σημείωση: τα περισσότερα σύγχρονα λειτουργικά συστήματα macOS (παλαιότερων εκδόσεων από το OSX 11.0 Big Sur) ή Windows, δεν υποστηρίζουν εξ’ορισμού κρυπτογραφημένα αρχεία ZIP με AES-256.\n\nΜπορείτε να ανοίξετε εύκολα τα αρχεία αυτά με τα προγράμματα αποσυμπίεσης διαφόρων κατασκευαστών.";
