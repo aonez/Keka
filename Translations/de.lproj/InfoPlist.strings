@@ -3,8 +3,8 @@
 "NSHumanReadableCopyright" = "Copyright © 2009-2022 aONe";
 
 /* Access request descriptions */
-"NSDesktopFolderUsageDescription" = "Keka benötigt Zugriff auf den Ordner "Schreibtisch", um mit seinen Dateien arbeiten zu können.";
-"NSDocumentsFolderUsageDescription" = "Keka benötigt Zugriff auf den Ordner "Dokumente", um mit seinen Dateien arbeiten zu können.";
+"NSDesktopFolderUsageDescription" = "Keka benötigt Zugriff auf den Ordner \"Schreibtisch\", um mit seinen Dateien arbeiten zu können.";
+"NSDocumentsFolderUsageDescription" = "Keka benötigt Zugriff auf den Ordner \"Dokumente\", um mit seinen Dateien arbeiten zu können.";
 "NSDownloadsFolderUsageDescription" = "Keka benötigt Zugriff auf den Downloads-Ordner, um mit seinen Dateien arbeiten zu können.";
 "NSNetworkVolumesUsageDescription" = "Keka benötigt Zugriff auf Netzwerk-Volumes, um mit seinen Dateien arbeiten zu können.";
 "NSRemovableVolumesUsageDescription" = "Keka benötigt Zugriff auf Entfernbare Volumes, um mit seinen Dateien arbeiten zu können.";
