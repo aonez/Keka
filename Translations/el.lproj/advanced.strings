@@ -75,7 +75,7 @@
 "2426.title" = "Επανάλληψη:";
 
 /* Class = "NSButtonCell"; title = "Encrypt filenames"; ObjectID = "L2I-Q8-zqc"; */
-"L2I-Q8-zqc.title" = "Κρυπτογράφιση αρχείων";
+"L2I-Q8-zqc.title" = "Κρυπτογράφιση ονομάτων αρχείων";
 
 /* Class = "NSButtonCell"; title = "Use AES-256 encryption"; ObjectID = "Lw7-h9-3Qh"; */
 "Lw7-h9-3Qh.title" = "Κρυπτογράφιση τύπου AES-256";
@@ -84,4 +84,4 @@
 "UYy-aQ-V1a.title" = "Συμπαγές αρχείο (μέθοδος συμπίεσης Solid)";
 
 /* Class = "NSButtonCell"; title = "Use BZIP2 compression"; ObjectID = "qhy-NU-Cts"; */
-"qhy-NU-Cts.title" = "Χρήση BZIP2 συμπίεσης";
+"qhy-NU-Cts.title" = "Χρήση BZIP2, τύπου συμπίεσης";
