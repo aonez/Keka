@@ -120,10 +120,10 @@
 "v5b-pg-pYC.title" = "Копирай";
 
 /* Class = "NSMenuItem"; title = "New Window"; ObjectID = "wLf-5U-sSh"; */
-"wLf-5U-sSh.title" = "New window";
+"wLf-5U-sSh.title" = "Нов прозорец";
 
 /* Class = "NSMenuItem"; title = "Select All"; ObjectID = "wbR-ho-uar"; */
 "wbR-ho-uar.title" = "Избери всички";
 
 /* Class = "NSMenuItem"; title = "Save debug information"; ObjectID = "zWX-XS-wiR"; */
-"zWX-XS-wiR.title" = "Save debug information";
+"zWX-XS-wiR.title" = "Запази информацията за отстраняване на грешки";
