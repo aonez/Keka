@@ -13,7 +13,7 @@
 
 Посети сайта на Keka на https://www.keka.io за да получиш последната версия.
 
-Also you can check the history of releases in the [Releases](https://github.com/aonez/Keka/releases) section.
+Можеш и да провериш и историята на нашите [Версии](https://github.com/aonez/Keka/releases).
 
 ### Стари версии
 
@@ -21,7 +21,7 @@ Also you can check the history of releases in the [Releases](https://github.com/
 
 ## Какво още можеш да направиш тук
 
-- [Проблемим](https://github.com/aonez/Keka/issues) - виж за споделените вече такива, или [създай](https://github.com/aonez/Keka/issues/new) нов такъв.
+- [Проблеми](https://github.com/aonez/Keka/issues) - виж за споделените вече такива, или [създай](https://github.com/aonez/Keka/issues/new) нов такъв.
 - [Wiki](https://github.com/aonez/Keka/wiki) - научи и сподели информацията за Keka.
 - [Дискусии](https://github.com/aonez/Keka/discussions) - разговаряй относно Keka с другите и сподели твоите идеи.
 - [Версии](https://github.com/aonez/Keka/releases) - свали специфична версия.
