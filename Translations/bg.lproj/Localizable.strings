@@ -184,7 +184,7 @@
 "The intermediate application can't find Keka." = "Междинното приложение не може да намери Keka.";
 "Show in Finder" = "Покажи в Finder";
 "Delete" = "Изтрий";
-"Continue without encryption" = "Продължи без криптиране;
+"Continue without encryption" = "Продължи без криптиране";
 "The password does not match" = "Паролата не съвпада";
 "The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption." = "Паролата не е правилно зададена и файлът не може да бъде криптиран. Можеш да анулираш и зададеш паролата отново или да продължиш процеса без криптиране.";
 "Use legacy encryption" = "Използвай старо криптиране";

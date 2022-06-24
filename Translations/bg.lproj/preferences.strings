@@ -309,7 +309,7 @@
 "pXT-7y-9af.title" = "Винаги разархивирай в подпапка";
 
 /* Class = "NSButtonCell"; title = "Differentiate between active and total tasks in the Dock"; ObjectID = "qrX-WU-mLd"; */
-"qrX-WU-mLd.title" 
+"qrX-WU-mLd.title"
 "Показвай разлика между активните и общия брой задачи в Dock";
 
 /* Class = "NSButtonCell"; title = "Show Keka actions in Finder's contextual menu"; ObjectID = "rP2-XR-ZQt"; */
@@ -331,7 +331,7 @@
 "u2R-2w-aOA.title" = "Използвай паролата по подразбиране за нови компресирания";
 
 /* Class = "NSTextFieldCell"; title = "You can also use this password from the Finder Extension's menu"; ObjectID = "vWb-gb-JBD"; */
-"vWb-gb-JBD.title" = Можеш също да използваш тази парола от контекстуалното меню на Finder";
+"vWb-gb-JBD.title" = "Можеш също да използваш тази парола от контекстуалното меню на Finder";
 
 /* Class = "NSTextFieldCell"; title = "The Finder Extension needs to be enabled in the  System Preferences, Extensions configuration."; ObjectID = "wgz-2S-eXI"; */
 "wgz-2S-eXI.title" = "Разширението за Finder трябва да бъде активирано в  System Preferences, Extensions configuration.";
