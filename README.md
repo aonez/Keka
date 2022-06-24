@@ -27,7 +27,7 @@
 - [Версии](https://github.com/aonez/Keka/releases) - свали специфична версия.
 - [Преводи](Translations/) - поддържай Keka многоезична и добре разбираема :)
 
-Това хранилище се използва главно за поддръжка [Проблеми](https://github.com/aonez/Keka/issues) и има помагащо [Wiki](https://github.com/aonez/Keka/wiki).
+Това хранилище се използва главно за поддръжка на [Проблеми](https://github.com/aonez/Keka/issues) и има помагащо [Wiki](https://github.com/aonez/Keka/wiki).
 
 Ако имаш [Проблеми](https://github.com/aonez/Keka/issues) потърси за тях или [създай](https://github.com/aonez/Keka/issues/new) нов.
 
