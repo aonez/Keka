@@ -1,6 +1,6 @@
 
 /* Usually leave this one in English */
-"NSHumanReadableCopyright" = "Copyright © 2009-2022 aONe";
+"NSHumanReadableCopyright" = "Авторски права © 2009-2022 aONe";
 
 /* Access request descriptions */
 "NSDesktopFolderUsageDescription" = "Keka изисква достъп до папката Desktop за да работи с файловете ѝ.";
@@ -10,12 +10,12 @@
 "NSRemovableVolumesUsageDescription" = "Keka изисква достъп до Външните дискове за да работи с файловете им..";
 
 /* File types */
-"7Z Archive" = "7Z архив";
-"LZMA Archive" = "LZMA архив";
-"LZOP Archive" = "LZOP архив";
-"LZOP Tarball Archive" = "LZOP Tarball архив";
-"LZIP Archive" = "LZIP архив";
-"LZIP Tarball Archive" = "LZIP Tarball архив";
+"7Z Archive" = "7Z Архив";
+"LZMA Archive" = "LZMA Архив";
+"LZOP Archive" = "LZOP Архив";
+"LZOP Tarball Archive" = "LZOP Tarball Архив";
+"LZIP Archive" = "LZIP Архив";
+"LZIP Tarball Archive" = "LZIP Tarball Архив";
 "ZIP Archive" = "ZIP архив";
 "ZIPX Archive" = "ZIPX архив";
 "XZ Archive" = "XZ архив";
@@ -26,7 +26,7 @@
 "Zstandard Tarball Archive" = "Zstandard Tarball архив";
 "RAR Archive" = "RAR архив";
 "RAR Legacy Archive Volume" = "RAR Legacy архивен том";
-"Generic Archive Volume" = "Generic архивен том";
+"Generic Archive Volume" = "Общ архивен том";
 "BZIP2 Archive" = "BZIP2 архив";
 "BZIP2 Tarball Archive" = "BZIP2 Tarball архив";
 "BZIP Archive" = "BZIP архив";
@@ -51,11 +51,11 @@
 "iOS App" = "iOS приложение";
 "JAR Archive" = "JAR архив";
 "WAR Archive" = "WAR архив";
-"Android Application Package" = "Android Application Package";
-"Cross-Platform Installer Module (XPI)" = "Cross-Platform Installer Module (XPI)";
+"Android Application Package" = "Пакет за приложение на Андроид";
+"Cross-Platform Installer Module (XPI)" = "Кросплатформен модул за инсталиране (XPI)";
 "APPX Archive" = "APPX архив";
-"Safari extension" = "Safari extension";
-"ACE Archive" = "ACE Archive";
+"Safari extension" = "Добавка за Safari";
+"ACE Archive" = "ACE архив";
 "XIP Secure Archive" = "XIP сигурен архив";
 "Electronic Book" = "Електронна книга";
 "Apple Archive" = "Apple архив";
