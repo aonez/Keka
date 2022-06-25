@@ -9,7 +9,7 @@ $content_language_locale = "bg";
 //
 // Set $show_content_bottom_translator as true if you want to appear in the bottom of the page
 $show_content_bottom_translator = true;
-$content_bottom_translator = 'Превод на български: <a href="https://github.com/m-dragoev">Мирослав Драгоев</a>.';
+$content_bottom_translator = 'Превод на български: <a href="https://github.com/m-dragoev">Мирослав Драгоев</a> и <a href="https://github.com/deyanm">Деян Маринов</a>.';
 //
 //
 
