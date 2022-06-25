@@ -231,6 +231,8 @@
 "Review Keka ★★★★★" = "Avaliar Keka ★★★★★";
 "Update the default password" = "Atualizar Senha Padrão";
 "Set a default password" = "Definir Senha Padrão";
+/* Keka preferences for macOS 12.0 and earlier */
+"Preferences…" = "Preferências…";
 
 /*
 // MAS tips

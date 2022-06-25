@@ -231,6 +231,8 @@
 "Review Keka ★★★★★" = "Đánh giá Keka ★★★★★";
 "Update the default password" = "Cập nhật mật khẩu mặt định";
 "Set a default password" = "Cài đặt một mật khẩu mặt định";
+/* Keka preferences for macOS 12.0 and earlier */
+"Preferences…" = "Cài đặt…";
 
 /*
 // MAS tips

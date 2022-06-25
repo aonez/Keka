@@ -231,6 +231,8 @@
 "Review Keka ★★★★★" = "Értékelje a Keka-t ★★★★★";
 "Update the default password" = "Alapértelmezett jelszó frissítése";
 "Set a default password" = "Alapértelmezett jelszó beállítása";
+/* Keka preferences for macOS 12.0 and earlier */
+"Preferences…" = "Beállítások…";
 
 /*
 // MAS tips

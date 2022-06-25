@@ -231,6 +231,8 @@
 "Review Keka ★★★★★" = "Keka에게 리뷰 보내기 ★★★★★";
 "Update the default password" = "기본값 비밀번호 변경";
 "Set a default password" = "기본값 비밀번호 설정";
+/* Keka preferences for macOS 12.0 and earlier */
+"Preferences…" = "환경설정…";
 
 /*
 // MAS tips
