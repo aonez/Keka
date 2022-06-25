@@ -309,8 +309,7 @@
 "pXT-7y-9af.title" = "Винаги разархивирай в подпапка";
 
 /* Class = "NSButtonCell"; title = "Differentiate between active and total tasks in the Dock"; ObjectID = "qrX-WU-mLd"; */
-"qrX-WU-mLd.title"
-"Показвай разлика между активните и общия брой задачи в Dock";
+"qrX-WU-mLd.title" = "Показвай разлика между активните и общия брой задачи в Dock";
 
 /* Class = "NSButtonCell"; title = "Show Keka actions in Finder's contextual menu"; ObjectID = "rP2-XR-ZQt"; */
 "rP2-XR-ZQt.title" = "Показвай действията на Keka в контекстуалното меню на Finder";
