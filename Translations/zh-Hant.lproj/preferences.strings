@@ -252,7 +252,7 @@
 "a5e-FP-sDv.title" = "將「使用 Keka 打開」作為主要項目動作";
 
 /* Class = "NSButtonCell"; title = "Show the password"; ObjectID = "aOv-6b-JlO"; */
-"aOv-6b-JlO.title" = "以明文顯示";
+"aOv-6b-JlO.title" = "顯示密碼";
 
 /* Class = "NSButtonCell"; title = "Use parent folder name when compressing multiple files"; ObjectID = "cDs-NB-2os"; */
 "cDs-NB-2os.title" = "壓縮多個檔案時，使用上層檔案夾的名稱";
