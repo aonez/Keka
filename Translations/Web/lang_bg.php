@@ -5,11 +5,11 @@
 // Language: Bulgarian
 $content_language_locale = "bg";
 // Translated by Deyan Marinov (https://github.com/deyanm)
-//
+// Translated by Miroslav Dragoev (https://github.com/m-dragoev)
 //
 // Set $show_content_bottom_translator as true if you want to appear in the bottom of the page
 $show_content_bottom_translator = true;
-$content_bottom_translator = 'Превод на български: <a href="https://github.com/m-dragoev">Мирослав Драгоев</a> и <a href="https://github.com/deyanm">Деян Маринов</a>.';
+$content_bottom_translator = 'Превод на Български: <a href="https://github.com/m-dragoev">Мирослав Драгоев</a> и <a href="https://github.com/deyanm">Деян Маринов</a>.';
 //
 //
 
@@ -28,7 +28,7 @@ $content_download_love = "Харесва ли ти?";
 $content_download_legacy = "Стари версии";
 $content_download_helper = "Помощник";
 $content_downloading = "Сваляне ";
-$content_downloading_if_fails = "Ако свалянето не започне автоматично ";
+$content_downloading_if_fails = "Ако свалянето не започне автоматично";
 $content_downloading_if_fails_click_here = " кликни тук";
 
 // Like
@@ -57,11 +57,11 @@ $content_info_text1 = "Ти дори няма нужда да отваряш Kek
 $content_info_text2 = "Споделяй сигурно само с парола и създавай криптирани файлове.<br />Използвайки AES-256 криптиране за твоите 7z файлове и<br />Zip 2.0 legacy криптиране за твоите Zip файлове.";
 $content_info_text3 = "Ако файловете са наистина големи и не се събират на твоят имейл или сървър, просто ги раздели на парчета.<br />Не се притеснявай, те все още могат да се обединят в един :)";
 $content_info_compression = "Keka може да създава файлове в следните формати:";
-$content_info_extraction = "И разархивирай всички тези формати:";
+$content_info_extraction = "И разархивира всички тези формати:";
 
 // Default app
 $content_defaultapp_title = "Настрой Keka като програма по подразбиране за разхархивиране";
-$content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Default-application"се нуждае от Помощник <i class="far fa-question-circle"></i></a> за да настрои себе си като програма по подразбиране.<br />Simply download and extract it, move it to the desktop and then open it.';
+$content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">се нуждае от Помощник <i class="far fa-question-circle"></i></a> за да настрои себе си като програма по подразбиране.<br />Просто го изтеглете и разархивирайте, преместете го на работния плот и след това го отворете.';
 
 // Privacy Policy
 $content_privacypolicy_title = 'Политика за поверителност';

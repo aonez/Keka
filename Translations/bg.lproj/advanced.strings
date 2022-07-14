@@ -1,4 +1,4 @@
-﻿
+
 /* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "2221"; */
 "2221.title" = "Архивирай като единични файлове";
 
@@ -39,7 +39,7 @@
 "2271.ibShadowedObjectValues[6]" = "15.6 ГБ Мини Blu-ray (DL)";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[7] = "25 GB Blu-ray (SL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[7]" = "25 GB Blu-ray (SL)";
+"2271.ibShadowedObjectValues[7]" = "25 ГБ Blu-ray (SL)";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[8] = "50 GB Blu-ray (DL)"; ObjectID = "2271"; */
 "2271.ibShadowedObjectValues[8]" = "50 ГБ Blu-ray (DL)";
