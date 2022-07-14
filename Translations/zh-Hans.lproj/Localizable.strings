@@ -231,6 +231,8 @@
 "Review Keka ★★★★★" = "评价 Keka ★★★★★";
 "Update the default password" = "更新默认密码";
 "Set a default password" = "设置默认密码";
+/* Keka preferences for macOS 12.0 and earlier */
+"Preferences…" = "首选项…";
 
 /*
 // MAS tips

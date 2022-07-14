@@ -231,6 +231,8 @@
 "Review Keka ★★★★★" = "Αξιολόγηση του Keka ★★★★★";
 "Update the default password" = "Ενημέρωση του εξ'ορισμού κωδικού";
 "Set a default password" = "Εισαγωγή ενός εξ´ορισμού κωδικού";
+/* Keka preferences for macOS 12.0 and earlier */
+"Preferences…" = "Προτιμήσεις…";
 
 /*
 // MAS tips

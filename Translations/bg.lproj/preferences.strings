@@ -251,7 +251,7 @@
 /* Class = "NSButtonCell"; title = "Use \"Open with Keka\" as the primary item action"; ObjectID = "a5e-FP-sDv"; */
 "a5e-FP-sDv.title" = "Използвай \"Отвори с Keka\" като действие по подразбиране";
 
-/* Class = "NSButtonCell"; title = "Show in plain text"; ObjectID = "aOv-6b-JlO"; */
+/* Class = "NSButtonCell"; title = "Show the password"; ObjectID = "aOv-6b-JlO"; */
 "aOv-6b-JlO.title" = "Покажи като обикновен текст";
 
 /* Class = "NSButtonCell"; title = "Use parent folder name when compressing multiple files"; ObjectID = "cDs-NB-2os"; */
@@ -309,8 +309,7 @@
 "pXT-7y-9af.title" = "Винаги разархивирай в подпапка";
 
 /* Class = "NSButtonCell"; title = "Differentiate between active and total tasks in the Dock"; ObjectID = "qrX-WU-mLd"; */
-"qrX-WU-mLd.title"
-"Показвай разлика между активните и общия брой задачи в Dock";
+"qrX-WU-mLd.title" = "Показвай разлика между активните и общия брой задачи в Dock";
 
 /* Class = "NSButtonCell"; title = "Show Keka actions in Finder's contextual menu"; ObjectID = "rP2-XR-ZQt"; */
 "rP2-XR-ZQt.title" = "Показвай действията на Keka в контекстуалното меню на Finder";

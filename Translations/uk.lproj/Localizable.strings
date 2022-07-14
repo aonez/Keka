@@ -231,6 +231,8 @@
 "Review Keka ★★★★★" = "Оцінити Keka ★★★★★";
 "Update the default password" = "Оновити пароль за замовчуванням";
 "Set a default password" = "Задати пароль за замовчуванням";
+/* Keka preferences for macOS 12.0 and earlier */
+"Preferences…" = "Налаштування";
 
 /*
 // MAS tips

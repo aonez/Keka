@@ -231,6 +231,8 @@
 "Review Keka ★★★★★" = "Recensera Keka ★★★★★";
 "Update the default password" = "Uppdatera standardlösenordet";
 "Set a default password" = "Sätt ett standardlösenord";
+/* Keka preferences for macOS 12.0 and earlier */
+"Preferences…" = "Inställningar…";
 
 /*
 // MAS tips

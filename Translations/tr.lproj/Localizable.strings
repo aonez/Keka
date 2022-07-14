@@ -231,6 +231,8 @@
 "Review Keka ★★★★★" = "Keka'yı değerlendir ★★★★★";
 "Update the default password" = "Varsayılan şifreyi güncelle";
 "Set a default password" = "Varsayılan bir şifre belirleyin";
+/* Keka preferences for macOS 12.0 and earlier */
+"Preferences…" = "Tercihler…";
 
 /*
 // MAS tips

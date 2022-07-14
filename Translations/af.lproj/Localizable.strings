@@ -231,6 +231,8 @@
 "Review Keka ★★★★★" = "Gradeer Keka met ★★★★★";
 "Update the default password" = "Werk die verstekwagwoord by";
 "Set a default password" = "Stel ’n verstekwagwoord in";
+/* Keka preferences for macOS 12.0 and earlier */
+"Preferences…" = "Voorkeure…";
 
 /*
 // MAS tips

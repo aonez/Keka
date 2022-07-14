@@ -251,7 +251,7 @@
 /* Class = "NSButtonCell"; title = "Use \"Open with Keka\" as the primary item action"; ObjectID = "a5e-FP-sDv"; */
 "a5e-FP-sDv.title" = "\"Keka로 열기\"를 기본 항목 작업으로 사용";
 
-/* Class = "NSButtonCell"; title = "Show in plain text"; ObjectID = "aOv-6b-JlO"; */
+/* Class = "NSButtonCell"; title = "Show the password"; ObjectID = "aOv-6b-JlO"; */
 "aOv-6b-JlO.title" = "일반 텍스트로 보기";
 
 /* Class = "NSButtonCell"; title = "Use parent folder name when compressing multiple files"; ObjectID = "cDs-NB-2os"; */

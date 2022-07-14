@@ -231,6 +231,8 @@
 "Review Keka ★★★★★" = "Escriu una ressenya del Keka ★★★★★";
 "Update the default password" = "Actualitza la contrasenya per defecte";
 "Set a default password" = "Crea una contrasenya per defecte";
+/* Keka preferences for macOS 12.0 and earlier */
+"Preferences…" = "Configuració…";
 
 /*
 // MAS tips
