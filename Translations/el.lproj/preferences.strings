@@ -252,7 +252,7 @@
 "a5e-FP-sDv.title" = "Επέλεξε \”Ανοιγμα με Keka\" ως αρχική επιλογή πρός εκτέλεση";
 
 /* Class = "NSButtonCell"; title = "Show the password"; ObjectID = "aOv-6b-JlO"; */
-"aOv-6b-JlO.title" = "Εμφάνιση ως απλό κείμενο (αρχείο)";
+"aOv-6b-JlO.title" = "Εμφάνιση του κωδικού";
 
 /* Class = "NSButtonCell"; title = "Use parent folder name when compressing multiple files"; ObjectID = "cDs-NB-2os"; */
 "cDs-NB-2os.title" = "Χρήση ονόματος παρόντος φακέλου όταν συμπιέζονται πολλά αρχεία, εντός του";
