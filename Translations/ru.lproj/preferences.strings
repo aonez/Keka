@@ -252,7 +252,7 @@
 "a5e-FP-sDv.title" = "Использовать \"Открыть с помощью Keka\" в качестве основного действия";
 
 /* Class = "NSButtonCell"; title = "Show the password"; ObjectID = "aOv-6b-JlO"; */
-"aOv-6b-JlO.title" = "Показать обычным текстом";
+"aOv-6b-JlO.title" = "Показать пароль";
 
 /* Class = "NSButtonCell"; title = "Use parent folder name when compressing multiple files"; ObjectID = "cDs-NB-2os"; */
 "cDs-NB-2os.title" = "Использовать имя родительской папки при сжатии нескольких файлов";
