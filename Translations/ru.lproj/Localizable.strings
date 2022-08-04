@@ -67,8 +67,8 @@
 "Select all the volumes from \"%@\" or the folder that contains them" = "Выберите все тома \"%@\" или содержащую их папку";
 "Select the folder that contains \"%@\"" = "Выберите папку, которая содержит \"%@\"";
 "Extraction of \"%@\" failed" = "Не удалось распаковать \"%@\"";
-"Extraction of \"%@\" completed" = "Extraction of \"%@\" completed";
-"The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue";
+"Extraction of \"%@\" completed" = "Распаковка \"%@\" завершена";
+"The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "Распаковка завершена, но не удалост применить карантин.\nПожалуйста, переустановите Keka чтобы решить эту проблему";
 "Keka - %i on queue" = "Keka - %i в очереди";
 "Keka can't create this %@ image" = "Keka не удалось создать %@-образ";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "%@-образ можно создать только из одной папки. Попробуйте поместить ваши файлы в одну папку и перетащить её в окно Keka.";
