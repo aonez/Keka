@@ -15,7 +15,7 @@
 "2270.title" = "Podziel plik:";
 
 /* Class = "NSComboBoxCell"; placeholderString = "Example: 5 MB"; ObjectID = "2271"; */
-"2271.placeholderString" = "np. 5 MB";
+"2271.placeholderString" = "max. rozmiar 1 pliku - np. 5 MB";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[0] = "1.4 MB Floppy disk"; ObjectID = "2271"; */
 "2271.ibShadowedObjectValues[0]" = "1.4 MB Floppy";
@@ -69,7 +69,7 @@
 "2394.title" = "Wolno";
 
 /* Class = "NSTextFieldCell"; title = "Normal"; ObjectID = "2398"; */
-"2398.title" = "Domyślnie";
+"2398.title" = "Ustawienia domyślne";
 
 /* Class = "NSTextFieldCell"; title = "Repeat:"; ObjectID = "2426"; */
 "2426.title" = "Powtórz:";

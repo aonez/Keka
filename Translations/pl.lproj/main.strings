@@ -6,7 +6,7 @@
 "0Tk-5P-8i2.title" = "Usługi";
 
 /* Class = "NSMenuItem"; title = "Open logs folder"; ObjectID = "52a-zm-Csr"; */
-"52a-zm-Csr.title" = "Otwórz folder logów";
+"52a-zm-Csr.title" = "Otwórz folder z logami";
 
 /* Class = "NSMenu"; title = "Debug"; ObjectID = "6lT-KW-uXA"; */
 "6lT-KW-uXA.title" = "Debuguj";
@@ -24,7 +24,7 @@
 "HpM-0q-Enu.title" = "Pokaż wszystkie";
 
 /* Class = "NSMenuItem"; title = "Enable debug information"; ObjectID = "IkK-ST-X3F"; */
-"IkK-ST-X3F.title" = "Włącz informacje debugowania";
+"IkK-ST-X3F.title" = "Włącz zapis debugowania";
 
 /* Class = "NSMenuItem"; title = "Check for updates"; ObjectID = "K4O-VW-7FA"; */
 "K4O-VW-7FA.title" = "Sprawdź aktualizacje";
