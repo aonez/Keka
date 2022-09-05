@@ -15,7 +15,7 @@
 "2270.title" = "Podziel plik:";
 
 /* Class = "NSComboBoxCell"; placeholderString = "Example: 5 MB"; ObjectID = "2271"; */
-"2271.placeholderString" = "max. rozmiar 1 pliku - np. 5 MB";
+"2271.placeholderString" = "np. 5 MB";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[0] = "1.4 MB Floppy disk"; ObjectID = "2271"; */
 "2271.ibShadowedObjectValues[0]" = "1.4 MB Floppy";
