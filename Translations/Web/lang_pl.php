@@ -8,8 +8,8 @@ $content_language_locale = "pl";
 //
 //
 // Set $show_content_bottom_translator as true if you want to appear in the bottom of the page
-$show_content_bottom_translator = false;
-$content_bottom_translator = 'Translated by <a href="https://yoursite.or.email.or.whatever">Yourself</a>.';
+$show_content_bottom_translator = true;
+$content_bottom_translator = 'Tłumaczenie: <a href="https://github.com/lboratynski">lboratynski</a>.';
 //
 //
 
@@ -19,7 +19,7 @@ $content_issues = "Zgłoś błąd";
 $content_help = "Pomoc";
 $content_forum = "Forum";
 $content_changelog = "Lista zmian";
-$content_title = "Archiwizator plików dla macOS";
+$content_title = "Archiwizator plików dla systemu macOS";
 
 // Download
 $content_platform = "Wymaga $version_replace lub wersji nowszej.";
@@ -27,41 +27,41 @@ $content_download_text = "Przechowuj więcej i udostępniaj dane bezpiecznie.";
 $content_download_love = "Lubisz program Keka?";
 $content_download_legacy = "Poprzednie wersje";
 $content_download_helper = "Aplikacja pomocnicza";
-$content_downloading = "Downloading ";
-$content_downloading_if_fails = "If the download does not start automatically ";
-$content_downloading_if_fails_click_here = " click here";
+$content_downloading = "Pobieranie...";
+$content_downloading_if_fails = "Jeśli pobieranie nie rozpocznie się automatycznie ";
+$content_downloading_if_fails_click_here = " kliknij tutaj.";
 
 // Like
 $content_donation_button = "Wesprzyj projekt";
 $content_donation_title = 'Jeśli lubisz program Keka, rozważ zakup w App Store lub wesprzyj autora przez PayPal!';
-$content_donation_mas = "Kupując program Keka w App Store wspierasz autora i rozwój projektu. <br /> Aplikacja jest identyczna, jak wersja z tej strony. Aktualizacje są jednak pobierane automatycznie z App Store.";
-$content_donation_paypal = "Jeśli nie chcesz kupować w App Store<br />, możesz wesprzeć projekt za pomocą PayPal.";
+$content_donation_mas = "Kupując program Keka w App Store wspierasz autora i rozwój projektu. Aplikacja jest identyczna, jak wersja z tej strony. Aktualizacje są jednak pobierane automatycznie z App Store.";
+$content_donation_paypal = "Jeśli nie chcesz kupować w App Store, możesz wesprzeć projekt za pomocą PayPal.";
 
 // Beta
 $content_platform_beta = "Beta";
 $content_beta_title = "Wersja beta programu Keka";
-$content_beta_text = "Przetestuj najnowsze funkcje programu zanim zostaną wdrożone. <br /> Jeśli znajdziesz błąd lub masz coś do przekazania autorowi: ";
+$content_beta_text = "Przetestuj najnowsze funkcje programu zanim zostaną wdrożone. Jeśli znajdziesz błąd lub masz coś do przekazania autorowi: ";
 $content_beta_unavailable = "Aktualnie wersja Beta nie jest dostępna.";
 $content_beta_up = "Pobierz aktualną wersję";
 
 // Legacy
 $content_platform_legacy =  "Wersja dla $version_replace";
 $content_legacy_title = "Starsza wersja programu Keka";
-$content_legacy_text = "Jeśli z biegiem lat twój Mac nie będzie obsługiwał <br /> najnowszej wersji programu - poprzednie wersje nadal są dostępne tutaj:";
+$content_legacy_text = "Jeśli z biegiem lat twój Mac nie będzie obsługiwał najnowszej wersji programu - poprzednie wersje nadal są dostępne tutaj:";
 
 // Info
 $content_info_title1 = "Tak prosty i zarazem tak silny!";
 $content_info_title2 = "Prywatność jest najważniejsza!";
 $content_info_title3 = "Nadal zbyt duży?";
-$content_info_text1 = "Nie musisz nawet uruchamiać programu, aby skompresować plik. Wystarczy, że Keka będzie przypięty w Dock'u. <br /> Aby skompresować pliki, wystarczy je przeciągnąć na ikonę lub okno programu.";
-$content_info_text2 = "Udostępniaj bezpiecznie dane dzięki zaszyfrowanym plikom. <br /> Wykorzystaj standard AES-256 dla plików 7z i <br /> standard Zip 2.0 dla plików Zip.";
-$content_info_text3 = "Jeśli plik jest zbyt duży, aby np. dołączyć go do poczty elektronicznej, po prostu podziel go na mniejsze archiwa. <br /> Po wyodrębnieniu zawsze uzyskasz swój oryginalny plik.";
+$content_info_text1 = "Nie musisz nawet uruchamiać programu, aby skompresować plik. Wystarczy, że Keka będzie przypięty w Dock'u. Aby skompresować pliki, wystarczy je przeciągnąć na ikonę lub okno programu.";
+$content_info_text2 = "Udostępniaj bezpiecznie dane dzięki zaszyfrowanym plikom. Wykorzystaj standard AES-256 dla plików 7z i standard Zip 2.0 dla plików Zip.";
+$content_info_text3 = "Jeśli plik jest zbyt duży, aby np. dołączyć go do poczty elektronicznej, po prostu podziel go na mniejsze archiwa. Po wyodrębnieniu zawsze uzyskasz swój oryginalny plik.";
 $content_info_compression = "Przy pomocy Keka stworzysz archiwa w następujących formatach:";
 $content_info_extraction = "Keka pozwoli Ci również wyodrębnić pliki:";
 
 // Default app
 $content_defaultapp_title = "Ustaw Keka jako domyślny archiwizator plików";
-$content_defaultapp_text = 'Potrzebujesz <a href="https://github.com/aonez/Keka/wiki/Default-application">programu pomocnicznego<i class="far fa-question-circle"></i></a>, aby ustawić Keka jako domyślny archiwizator plików.<br />Pobierz i wypakuj program, przenieś go na Biurko i uruchom.';
+$content_defaultapp_text = 'Potrzebujesz <a href="https://github.com/aonez/Keka/wiki/Default-application">programu pomocnicznego<i class="far fa-question-circle"></i></a>, aby ustawić Keka jako domyślny archiwizator plików. Pobierz i wypakuj program, przenieś go na Biurko i uruchom.';
 
 // Privacy Policy
 $content_privacypolicy_title = 'Polityka prywatności';
@@ -83,7 +83,7 @@ $content_404_start = "Wróć na <a href=\"https://www.keka.io\">stronę głowną
 $content_404_more = "Sprawdź też:";
 
 // Maintenance
-$content_maintenance = "Will be back soon";
+$content_maintenance = "Wrócamy wkrótce.";
 
 // Bottom info
 $content_bottom_copying = 'Wszystkie prawa zastrzeżone.';
