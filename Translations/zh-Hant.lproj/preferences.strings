@@ -114,7 +114,7 @@
 "453.title" = "無";
 
 /* Class = "NSButtonCell"; title = "Show compress contents of folder items"; ObjectID = "0Am-9a-jtM"; */
-"0Am-9a-jtM.title" = "Show compress contents of folder items";
+"0Am-9a-jtM.title" = "顯示壓縮檔案夾項目的內容";
 
 /* Class = "NSButtonCell"; title = "Rename the recognized extension from the subfolder"; ObjectID = "1TK-Zy-623"; */
 "1TK-Zy-623.title" = "重新命名子資料夾中辨識出的副檔名";
@@ -156,7 +156,7 @@
 "CWc-wN-FhI.title" = "自訂檔案夾⋯";
 
 /* Class = "NSMenuItem"; title = "Lowest"; ObjectID = "Cz9-7i-oHp"; */
-"Cz9-7i-oHp.title" = "Lowest";
+"Cz9-7i-oHp.title" = "最低";
 
 /* Class = "NSTextFieldCell"; title = "Extractions use less power so even using multiple thread you can easily set this limit to two or three. Note that the target disk may suffer."; ObjectID = "DAr-Td-s5W"; */
 "DAr-Td-s5W.title" = "解壓縮較不吃效能，即便使用多執行緒，您都只需把限制設定成 2 或 3。注意：目的地磁碟可能會需要承擔這些壓力。";
@@ -177,10 +177,10 @@
 "Ei5-Ya-HGI.title" = "壓縮多個檔案時，使用自訂名稱";
 
 /* Class = "NSTextFieldCell"; title = "Tasks priority (QoS):"; ObjectID = "G1T-Qd-OZi"; */
-"G1T-Qd-OZi.title" = "Tasks priority (QoS):";
+"G1T-Qd-OZi.title" = "作業優先級（QoS）：";
 
 /* Class = "NSButtonCell"; title = "Always use the lowest priority when running on battery"; ObjectID = "GJB-94-NHl"; */
-"GJB-94-NHl.title" = "Always use the lowest priority when running on battery";
+"GJB-94-NHl.title" = "永遠在使用電池電力執行時，採用最低的優先級";
 
 /* Class = "NSTextFieldCell"; title = "It is recommended to only do one compression at a time if using multiple threads."; ObjectID = "Hkf-wB-gUj"; */
 "Hkf-wB-gUj.title" = "如果使用多執行緒，建議一次只執行一個壓縮動作。";
@@ -195,7 +195,7 @@
 "JxT-Nq-8Z5.title" = "啟用外部卷宗的取用權限後，Keka 即可取用如 USB 或 Thunderbolt 的外接硬碟。";
 
 /* Class = "NSTextFieldCell"; title = "Lower priority results in longer times. The lowest priority on Apple Silicon equiped Macs will only use \"Eficiency\" cores, resulting in longer but more energy efficient tasks.\nAlready running tasks priority will not be modified."; ObjectID = "Jyq-vC-L5r"; */
-"Jyq-vC-L5r.title" = "Lower priority results in longer times. The lowest priority on Apple Silicon equiped Macs will only use \"Eficiency\" cores, resulting in longer but more energy efficient tasks.\nAlready running tasks priority will not be modified.";
+"Jyq-vC-L5r.title" = "優先級愈低，時間愈長。搭載 Apple 晶片之 Mac 上的最低優先級，僅會使用「效率」核心——這樣執行的作業耗時較長，但更節能。\n已在執行的作業，優先級則不受改變。";
 
 /* Class = "NSTextFieldCell"; title = "Queue compression operations:"; ObjectID = "K5h-j5-bss"; */
 "K5h-j5-bss.title" = "佇列壓縮動作：";
@@ -225,7 +225,7 @@
 "TLc-Nk-Bps.placeholderString" = "這是您的自訂名稱";
 
 /* Class = "NSMenuItem"; title = "Lower"; ObjectID = "Vss-gS-NkP"; */
-"Vss-gS-NkP.title" = "Lower";
+"Vss-gS-NkP.title" = "偏低";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "WCN-jH-W9J"; */
 "WCN-jH-W9J.placeholderString" = "自訂名稱";
@@ -237,7 +237,7 @@
 "XOB-JO-UQT.title" = "自動";
 
 /* Class = "NSMenuItem"; title = "Highest"; ObjectID = "Xl7-AN-Kgw"; */
-"Xl7-AN-Kgw.title" = "Highest";
+"Xl7-AN-Kgw.title" = "最高";
 
 /* Class = "NSButtonCell"; title = "Use BZIP2 compression in DMG files (better but slower)"; ObjectID = "Xoi-ui-e7P"; */
 "Xoi-ui-e7P.title" = "在 DMG 檔案使用 BZIP2 壓縮（比較好，但比較慢）";
@@ -246,13 +246,13 @@
 "ZOx-vr-5o7.title" = "啟用完整 Mac 取用權限，這樣 Keka 才能在您整個 Mac 使用";
 
 /* Class = "NSMenuItem"; title = "High"; ObjectID = "ZiK-jD-TLq"; */
-"ZiK-jD-TLq.title" = "High";
+"ZiK-jD-TLq.title" = "偏高";
 
 /* Class = "NSButtonCell"; title = "Use \"Open with Keka\" as the primary item action"; ObjectID = "a5e-FP-sDv"; */
 "a5e-FP-sDv.title" = "將「使用 Keka 打開」作為主要項目動作";
 
-/* Class = "NSButtonCell"; title = "Show in plain text"; ObjectID = "aOv-6b-JlO"; */
-"aOv-6b-JlO.title" = "以明文顯示";
+/* Class = "NSButtonCell"; title = "Show the password"; ObjectID = "aOv-6b-JlO"; */
+"aOv-6b-JlO.title" = "顯示密碼";
 
 /* Class = "NSButtonCell"; title = "Use parent folder name when compressing multiple files"; ObjectID = "cDs-NB-2os"; */
 "cDs-NB-2os.title" = "壓縮多個檔案時，使用上層檔案夾的名稱";
@@ -294,7 +294,7 @@
 "izC-0G-lvl.title" = "您可以自訂在下方何處顯示特色選單：";
 
 /* Class = "NSMenuItem"; title = "Default"; ObjectID = "mfK-Rj-HLz"; */
-"mfK-Rj-HLz.title" = "Default";
+"mfK-Rj-HLz.title" = "預設值";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous operations:"; ObjectID = "o8J-bR-bs6"; */
 "o8J-bR-bs6.title" = "最大同步動作數：";

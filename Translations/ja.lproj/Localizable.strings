@@ -12,7 +12,7 @@
 "Passwords" = "パスワード";
 "Love" = "Love";
 "OK" = "OK";
-"Done" = "OK";
+"Done" = "完了";
 "Yes" = "はい";
 "No" = "いいえ";
 "Don't show again" = "今後表示しない";
@@ -231,6 +231,8 @@
 "Review Keka ★★★★★" = "Kekaをレビュー ★★★★★";
 "Update the default password" = "デフォルトのパスワードの更新";
 "Set a default password" = "デフォルトのパスワードの設定";
+/* Keka preferences for macOS 12.0 and earlier */
+"Preferences…" = "環境設定…";
 
 /*
 // MAS tips

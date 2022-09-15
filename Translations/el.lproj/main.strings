@@ -6,25 +6,25 @@
 "0Tk-5P-8i2.title" = "Υπηρεσίες";
 
 /* Class = "NSMenuItem"; title = "Open logs folder"; ObjectID = "52a-zm-Csr"; */
-"52a-zm-Csr.title" = "Open logs folder";
+"52a-zm-Csr.title" = "Εμφάνιση φακέλου αρχείων αναφοράς (Logs)";
 
 /* Class = "NSMenu"; title = "Debug"; ObjectID = "6lT-KW-uXA"; */
-"6lT-KW-uXA.title" = "Debug";
+"6lT-KW-uXA.title" = "Εκσφαλμάτωση";
 
 /* Class = "NSMenuItem"; title = "Create a debug session"; ObjectID = "B5q-0l-TAK"; */
-"B5q-0l-TAK.title" = "Create a debug session";
+"B5q-0l-TAK.title" = "Δημιουργία περιόδου εκσφαλμάτωσης";
 
 /* Class = "NSMenuItem"; title = "Quit Keka"; ObjectID = "Boj-Hb-G0X"; */
 "Boj-Hb-G0X.title" = "Εξοδος";
 
-/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "FOL-81-NRF"; */
+/* Class = "NSMenuItem"; title = "Settings…"; ObjectID = "FOL-81-NRF"; */
 "FOL-81-NRF.title" = "Προτιμήσεις…";
 
 /* Class = "NSMenuItem"; title = "Show All"; ObjectID = "HpM-0q-Enu"; */
 "HpM-0q-Enu.title" = "Εμφάνιση όλων";
 
 /* Class = "NSMenuItem"; title = "Enable debug information"; ObjectID = "IkK-ST-X3F"; */
-"IkK-ST-X3F.title" = "Enable debug information";
+"IkK-ST-X3F.title" = "Ενεργοποίηση πληροφοριών εκσφ/σης";
 
 /* Class = "NSMenuItem"; title = "Check for updates"; ObjectID = "K4O-VW-7FA"; */
 "K4O-VW-7FA.title" = "Ελεγχος νέων ενημερώσεων";
@@ -42,7 +42,7 @@
 "Qst-Ya-feO.title" = "Αποθήκευση";
 
 /* Class = "NSMenuItem"; title = "Privacy Policy"; ObjectID = "Rkr-d9-A7d"; */
-"Rkr-d9-A7d.title" = "Privacy Policy";
+"Rkr-d9-A7d.title" = "Πολιτική Απορρήτου";
 
 /* Class = "NSMenuItem"; title = "Cut"; ObjectID = "Ro6-g5-CxU"; */
 "Ro6-g5-CxU.title" = "Αποκοπή";
@@ -66,7 +66,7 @@
 "YHt-wh-fCp.title" = "Εμφάνιση εργαλειοθήκης";
 
 /* Class = "NSMenuItem"; title = "Debug"; ObjectID = "ZBc-IE-jQG"; */
-"ZBc-IE-jQG.title" = "Εξφαλμάτωση";
+"ZBc-IE-jQG.title" = "Εκσφαλμάτωση";
 
 /* Class = "NSMenuItem"; title = "New"; ObjectID = "bFm-YE-6u3"; */
 "bFm-YE-6u3.title" = "Νέο";
@@ -126,4 +126,4 @@
 "wbR-ho-uar.title" = "Επιλογή όλων";
 
 /* Class = "NSMenuItem"; title = "Save debug information"; ObjectID = "zWX-XS-wiR"; */
-"zWX-XS-wiR.title" = "Αποθήκευση πληροφοριών εξφαλμάτωσης";
+"zWX-XS-wiR.title" = "Αποθήκευση πληροφοριών εκσφαλμάτωσης";

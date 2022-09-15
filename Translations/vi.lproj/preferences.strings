@@ -156,7 +156,7 @@
 "CWc-wN-FhI.title" = "Thư mục tuỳ chỉnh...";
 
 /* Class = "NSMenuItem"; title = "Lowest"; ObjectID = "Cz9-7i-oHp"; */
-"Cz9-7i-oHp.title" = "Lowest";
+"Cz9-7i-oHp.title" = "Thấp nhất";
 
 /* Class = "NSTextFieldCell"; title = "Extractions use less power so even using multiple thread you can easily set this limit to two or three. Note that the target disk may suffer."; ObjectID = "DAr-Td-s5W"; */
 "DAr-Td-s5W.title" = "Tiến trình giải nén sử dụng ít năng lượng nên khi sử dụng đa luồng xử lý bạn vẫn có thể thiết đặt giới hạn xuống còn hai hoặc ba luồng dễ dàng. Lưu ý rằng ổ đĩa thao tác có thể bị ảnh hưởng.";
@@ -177,10 +177,10 @@
 "Ei5-Ya-HGI.title" = "Sử dụng tên tùy chỉnh khi nén nhiều tệp";
 
 /* Class = "NSTextFieldCell"; title = "Tasks priority (QoS):"; ObjectID = "G1T-Qd-OZi"; */
-"G1T-Qd-OZi.title" = "Tasks priority (QoS):";
+"G1T-Qd-OZi.title" = "Tác vụ ưu tiên (QoS):";
 
 /* Class = "NSButtonCell"; title = "Always use the lowest priority when running on battery"; ObjectID = "GJB-94-NHl"; */
-"GJB-94-NHl.title" = "Always use the lowest priority when running on battery";
+"GJB-94-NHl.title" = "Luôn áp dụng độ ưu tiên thấp nhất khi đang chạy pin";
 
 /* Class = "NSTextFieldCell"; title = "It is recommended to only do one compression at a time if using multiple threads."; ObjectID = "Hkf-wB-gUj"; */
 "Hkf-wB-gUj.title" = "Bạn chỉ nên thực hiện một lần nén trong một thời điểm nếu sử dụng đa luồng.";
@@ -195,7 +195,7 @@
 "JxT-Nq-8Z5.title" = "Bật quyền truy cập ổ đĩa rời để Keka có thể chạy được trên ổ đĩa rời của bạn như trên USB hay ổ Thunderbolt.";
 
 /* Class = "NSTextFieldCell"; title = "Lower priority results in longer times. The lowest priority on Apple Silicon equiped Macs will only use \"Eficiency\" cores, resulting in longer but more energy efficient tasks.\nAlready running tasks priority will not be modified."; ObjectID = "Jyq-vC-L5r"; */
-"Jyq-vC-L5r.title" = "Lower priority results in longer times. The lowest priority on Apple Silicon equiped Macs will only use \"Eficiency\" cores, resulting in longer but more energy efficient tasks.\nAlready running tasks priority will not be modified.";
+"Jyq-vC-L5r.title" = "Mức ưu tiên thấp khiến thời gian hoàn thành lâu hơn. Vi xử lý Apple Silicon được trang bị trên Macs sẽ chỉ dùng các nhân \"Eficiency\" cho mức ưu tiên thấp, do đó tốn nhiều thời gian hơn nhưng tăng hiệu suất năng lượng cho nhiều tác vụ.\nCác tác vụ đang chạy ở các mức ưu tiên trước đó sẽ không bị ảnh hưởng.";
 
 /* Class = "NSTextFieldCell"; title = "Queue compression operations:"; ObjectID = "K5h-j5-bss"; */
 "K5h-j5-bss.title" = "Hàng chờ các tác vụ nén:";
@@ -225,7 +225,7 @@
 "TLc-Nk-Bps.placeholderString" = "Đây là tên tuỳ chỉnh của bạn";
 
 /* Class = "NSMenuItem"; title = "Lower"; ObjectID = "Vss-gS-NkP"; */
-"Vss-gS-NkP.title" = "Lower";
+"Vss-gS-NkP.title" = "Thấp hơn";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "WCN-jH-W9J"; */
 "WCN-jH-W9J.placeholderString" = "Thêm tên tuỳ chỉnh tại đây";
@@ -237,7 +237,7 @@
 "XOB-JO-UQT.title" = "Tự động";
 
 /* Class = "NSMenuItem"; title = "Highest"; ObjectID = "Xl7-AN-Kgw"; */
-"Xl7-AN-Kgw.title" = "Highest";
+"Xl7-AN-Kgw.title" = "Cao nhất";
 
 /* Class = "NSButtonCell"; title = "Use BZIP2 compression in DMG files (better but slower)"; ObjectID = "Xoi-ui-e7P"; */
 "Xoi-ui-e7P.title" = "Dùng dạng BZIP2 với tập tin DMG (tốt hơn nhưng chậm)";
@@ -246,12 +246,12 @@
 "ZOx-vr-5o7.title" = "Bật quyền truy cập đầy đủ trên Mac để Keka có thể chạy được mọi nơi trên Mac của bạn.";
 
 /* Class = "NSMenuItem"; title = "High"; ObjectID = "ZiK-jD-TLq"; */
-"ZiK-jD-TLq.title" = "High";
+"ZiK-jD-TLq.title" = "Cao";
 
 /* Class = "NSButtonCell"; title = "Use \"Open with Keka\" as the primary item action"; ObjectID = "a5e-FP-sDv"; */
 "a5e-FP-sDv.title" = "Dùng \"Mở với Keka\" làm lệnh thực thi mặc định";
 
-/* Class = "NSButtonCell"; title = "Show in plain text"; ObjectID = "aOv-6b-JlO"; */
+/* Class = "NSButtonCell"; title = "Show the password"; ObjectID = "aOv-6b-JlO"; */
 "aOv-6b-JlO.title" = "Hiện dưới dạng văn bản thô";
 
 /* Class = "NSButtonCell"; title = "Use parent folder name when compressing multiple files"; ObjectID = "cDs-NB-2os"; */
@@ -294,7 +294,7 @@
 "izC-0G-lvl.title" = "Bạn có thể tùy chỉnh vị trí hiển thị menu ngữ cảnh bên dưới:";
 
 /* Class = "NSMenuItem"; title = "Default"; ObjectID = "mfK-Rj-HLz"; */
-"mfK-Rj-HLz.title" = "Default";
+"mfK-Rj-HLz.title" = "Mặc định";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous operations:"; ObjectID = "o8J-bR-bs6"; */
 "o8J-bR-bs6.title" = "Số tác vụ thực thi song song tối đa:";

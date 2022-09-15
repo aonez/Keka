@@ -114,7 +114,7 @@
 "453.title" = "なし";
 
 /* Class = "NSButtonCell"; title = "Show compress contents of folder items"; ObjectID = "0Am-9a-jtM"; */
-"0Am-9a-jtM.title" = "Show compress contents of folder items";
+"0Am-9a-jtM.title" = "フォルダ内の圧縮内容を表示する";
 
 /* Class = "NSButtonCell"; title = "Rename the recognized extension from the subfolder"; ObjectID = "1TK-Zy-623"; */
 "1TK-Zy-623.title" = "サブフォルダから認識された拡張子の名前を変更する";
@@ -156,7 +156,7 @@
 "CWc-wN-FhI.title" = "カスタムフォルダ...";
 
 /* Class = "NSMenuItem"; title = "Lowest"; ObjectID = "Cz9-7i-oHp"; */
-"Cz9-7i-oHp.title" = "Lowest";
+"Cz9-7i-oHp.title" = "最も低い";
 
 /* Class = "NSTextFieldCell"; title = "Extractions use less power so even using multiple thread you can easily set this limit to two or three. Note that the target disk may suffer."; ObjectID = "DAr-Td-s5W"; */
 "DAr-Td-s5W.title" = "抽出の方が消費電力が少ないので、複数のスレッドを使用していても、制限を2つや3つにするのは簡単です。ただしターゲットディスクには影響があります。";
@@ -177,10 +177,10 @@
 "Ei5-Ya-HGI.title" = "複数のファイルを圧縮する際にカスタム名を使用する";
 
 /* Class = "NSTextFieldCell"; title = "Tasks priority (QoS):"; ObjectID = "G1T-Qd-OZi"; */
-"G1T-Qd-OZi.title" = "Tasks priority (QoS):";
+"G1T-Qd-OZi.title" = "タスクの優先度 (QoS):";
 
 /* Class = "NSButtonCell"; title = "Always use the lowest priority when running on battery"; ObjectID = "GJB-94-NHl"; */
-"GJB-94-NHl.title" = "Always use the lowest priority when running on battery";
+"GJB-94-NHl.title" = "バッテリー駆動時は常に最低の優先度を使用";
 
 /* Class = "NSTextFieldCell"; title = "It is recommended to only do one compression at a time if using multiple threads."; ObjectID = "Hkf-wB-gUj"; */
 "Hkf-wB-gUj.title" = "複数のスレッドを使用する場合は、一度にひとつの圧縮のみを行うことを推奨します。";
@@ -195,7 +195,7 @@
 "JxT-Nq-8Z5.title" = "外部ボリュームアクセスを有効にする。KekaをUSBやThunderboltドライブの様な外部ディスクで使用することができます.";
 
 /* Class = "NSTextFieldCell"; title = "Lower priority results in longer times. The lowest priority on Apple Silicon equiped Macs will only use \"Eficiency\" cores, resulting in longer but more energy efficient tasks.\nAlready running tasks priority will not be modified."; ObjectID = "Jyq-vC-L5r"; */
-"Jyq-vC-L5r.title" = "Lower priority results in longer times. The lowest priority on Apple Silicon equiped Macs will only use \"Eficiency\" cores, resulting in longer but more energy efficient tasks.\nAlready running tasks priority will not be modified.";
+"Jyq-vC-L5r.title" = "優先度が低いと時間がかかります。Apple Siliconを搭載したMacでは、優先順位を低く設定することで使用するコアが\"Eficiency\"コアのみになり、タスクの実行時間は長くなりますがエネルギーの効率は向上します。\n既に実行中のタスクの優先度は変更されません。";
 
 /* Class = "NSTextFieldCell"; title = "Queue compression operations:"; ObjectID = "K5h-j5-bss"; */
 "K5h-j5-bss.title" = "キューの圧縮操作:";
@@ -225,7 +225,7 @@
 "TLc-Nk-Bps.placeholderString" = "ここにあなたのカスタム名";
 
 /* Class = "NSMenuItem"; title = "Lower"; ObjectID = "Vss-gS-NkP"; */
-"Vss-gS-NkP.title" = "Lower";
+"Vss-gS-NkP.title" = "低い";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "WCN-jH-W9J"; */
 "WCN-jH-W9J.placeholderString" = "ここにあなたのカスタム名";
@@ -237,7 +237,7 @@
 "XOB-JO-UQT.title" = "自動";
 
 /* Class = "NSMenuItem"; title = "Highest"; ObjectID = "Xl7-AN-Kgw"; */
-"Xl7-AN-Kgw.title" = "Highest";
+"Xl7-AN-Kgw.title" = "最も高い";
 
 /* Class = "NSButtonCell"; title = "Use BZIP2 compression in DMG files (better but slower)"; ObjectID = "Xoi-ui-e7P"; */
 "Xoi-ui-e7P.title" = "DMGファイルの圧縮にBZIP2を使用する（より良いが、遅い）";
@@ -246,12 +246,12 @@
 "ZOx-vr-5o7.title" = "すべてのMacでKekaを使用できるように、完全なMacアクセスを有効にします.";
 
 /* Class = "NSMenuItem"; title = "High"; ObjectID = "ZiK-jD-TLq"; */
-"ZiK-jD-TLq.title" = "High";
+"ZiK-jD-TLq.title" = "高い";
 
 /* Class = "NSButtonCell"; title = "Use \"Open with Keka\" as the primary item action"; ObjectID = "a5e-FP-sDv"; */
 "a5e-FP-sDv.title" = "\"Kekaで開く\"を主要なアイテムの動作として使う";
 
-/* Class = "NSButtonCell"; title = "Show in plain text"; ObjectID = "aOv-6b-JlO"; */
+/* Class = "NSButtonCell"; title = "Show the password"; ObjectID = "aOv-6b-JlO"; */
 "aOv-6b-JlO.title" = "プレーンテキストで表示する";
 
 /* Class = "NSButtonCell"; title = "Use parent folder name when compressing multiple files"; ObjectID = "cDs-NB-2os"; */
@@ -294,7 +294,7 @@
 "izC-0G-lvl.title" = "コンテクストメニューを表示する場所は、以下のようにカスタマイズすることができます:";
 
 /* Class = "NSMenuItem"; title = "Default"; ObjectID = "mfK-Rj-HLz"; */
-"mfK-Rj-HLz.title" = "Default";
+"mfK-Rj-HLz.title" = "デフォルト";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous operations:"; ObjectID = "o8J-bR-bs6"; */
 "o8J-bR-bs6.title" = "最大同時処理数:";

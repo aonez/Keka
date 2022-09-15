@@ -67,8 +67,8 @@
 "Select all the volumes from \"%@\" or the folder that contains them" = "Selecione todos os volumes de “%@” ou a pasta que os contém";
 "Select the folder that contains \"%@\"" = "Selecione a pasta que contém “%@”";
 "Extraction of \"%@\" failed" = "A extração de “%@” falhou";
-"Extraction of \"%@\" completed" = "Extraction of \"%@\" completed";
-"The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue";
+"Extraction of \"%@\" completed" = "A extração de “%@” foi concluída";
+"The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "A extração foi concluída, mas a quarentena não foi aplicada.\nReinstale o Keka para corrigir este problema.";
 "Keka - %i on queue" = "Keka - %i na fila";
 "Keka can't create this %@ image" = "O Keka não pode criar esta imagem %@";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "Imagens %@ só podem ser criadas com uma única pasta. Tente colocar todos os arquivos em uma pasta e arraste-a para o Keka para criar a imagem %@.";
@@ -173,7 +173,7 @@
 "In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "Para definir o Keka como o aplicativo padrão, você precisa instalar uma extensão. Clique em “Mais Informações” para seguir os passos necessários.\n\nLembre-se que você pode usar o painel “Obter Informações” do Finder para definir o Keka como o aplicativo padrão para qualquer formato.";
 "Your installed extension is obsolete and you should update it." = "A extensão instalada é obsoleta e você deve atualizá-la.";
 "Update" = "Atualizar";
-"Save" = "Save";
+"Save" = "Salvar";
 "Cannot set Keka as default" = "Não foi possível definir o Keka como padrão.";
 "The intermediate application failed to launch. There is more information in the Console.app." = "Falha ao abrir o aplicativo intermediário. Mais informações estão disponíveis no app Console.";
 "The intermediate application returned an undefined code." = "O aplicativo intermediário retornou um código indefinido.";
@@ -229,8 +229,10 @@
 "Report" = "Comunicar";
 "Report via mail" = "Comunicar por E-mail";
 "Review Keka ★★★★★" = "Avaliar Keka ★★★★★";
-"Update the default password" = "Update the default password";
-"Set a default password" = "Set a default password";
+"Update the default password" = "Atualizar Senha Padrão";
+"Set a default password" = "Definir Senha Padrão";
+/* Keka preferences for macOS 12.0 and earlier */
+"Preferences…" = "Preferências…";
 
 /*
 // MAS tips

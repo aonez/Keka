@@ -10,8 +10,8 @@
 */
 
 /* Top-level, general application description: */
-"ApplicationDescription" = "Keka is a file archiver for macOS.";
+"ApplicationDescription" = "Keka to archiwizator plików dla systemu macOS.";
 
 /* Software update connection: */
-"SoftwareUpdatePurpose" = "Keka checks for new versions connecting to u(pdate).keka.io.";
-"SoftwareUpdateDenyConsequences" = "If you deny this connection, you will not be notified about new versions of Keka.";
+"SoftwareUpdatePurpose" = "Keka sprawdza dostępność nowych wersji łącząc się z następującym adresem: update.keka.io.";
+"SoftwareUpdateDenyConsequences" = "Jeśli odmówisz tego połączenia, nie będziesz powiadamiany o nowych wersjach.";

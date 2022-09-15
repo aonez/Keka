@@ -16,12 +16,12 @@
 "Yes" = "Ναί";
 "No" = "Οχι";
 "Don't show again" = "Να μην εμφανιστεί ξανά";
-"Set as default compressor" = "Ορισε το Keka ώς την προεπιλεγμένη εφαρμογή συμπίεσης";
+"Set as default compressor" = "Να επιλεγεί το Keka, ώς η προεπιλεγμένη εφαρμογή συμπίεσης;";
 "Not now" = "Οχι τώρα";
 "Want to make Keka your default compressor?" = "Να επιλεγεί το Keka, ώς η προεπιλεγμένη εφαρμογή συμπίεσης;";
 "This means that all the compatible files will be extracted with Keka by now. You can set this later in the Keka Preferences." = "Αυτό σημαίνει ότι όλα τα συμβατά αρχεία θα αποσυμπιέζονται πάντα από το Keka. Μπορείτε να το ρυθμίσετε αργότερα στις 'Προτιμήσεις' του Keka";
 "Really want to close Keka?" = "Θέλετε σίγουρα να κλείσετε το Keka;";
-"The current operations will be canceled. If you choose to wait and quit Keka will exit when all work is done." = "Οι τρέχουσες ενέργειες θα ακυρωθούν. Εάν περιμένετε και μετά τερματίσετε το Keka, θα κάνει έξοδο αυτόματα όταν όλες οι εργασίες τελειώσουν.";
+"The current operations will be canceled. If you choose to wait and quit Keka will exit when all work is done." = "Οι τρέχουσες ενέργειες θα ακυρωθούν (Ναί). Εάν περιμένετε να εκτελεστούν πρώτα (Οχι), το Keka θα τερματίσει αυτόματα μετά το τέλος των εργασιών.";
 "Password needed" = "Χρειάζεται η εισαγωγή κωδικού";
 "File \"%@\" needs a password to be extracted" = "Το αρχείο \"%@\" θέλει εισαγωγή του κωδικού για να αποσυμπιεστεί";
 "File \"%@\" needs a special encoding to be extracted" = "Το αρχείο \"%@\" χρειάζεται μια ειδική κωδικοποίηση για την αποσυμπίεσή του";
@@ -188,8 +188,8 @@
 "The password does not match" = "Ο κωδικός δεν είναι σωστός";
 "The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption." = "Ο κωδικός δεν εισάχθηκε σωστά και το αρχείο δε μπορεί να κρυπτογραφηθεί. Μπορείτε να ακυρώσετε και να εισάγετε ξανά τον κωδικό ή συννεχίστε τη διεργασία χωρίς κρυπτογράφιση.";
 "Use legacy encryption" = "Χρήση κρυπτογράφησης παλαιότερης έκδοσης";
-"Using AES-256 encryption in ZIP" = "Χρήση κρυπτογράφισης τύπου AES-256 στο ZIP";
-"Note that most modern operating systems such as macOS (before macOS 11.0 Big Sur) or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities." = "Σημείωση: τα περισσότερα σύγχρονα λειτουργικά συστήματα macOS (παλαιότερων εκδόσεων από το OSX 11.0 Big Sur) ή Windows, δεν υποστηρίζουν εξ’ορισμού κρυπτογραφημένα αρχεία ZIP με AES-256.\n\nΜπορείτε να ανοίξετε εύκολα τα αρχεία αυτά με τα προγράμματα αποσυμπίεσης διαφόρων κατασκευαστών.";
+"Using AES-256 encryption in ZIP" = "Κρυπτογράφιση στο ZIP, με το AES-256 στάνταρντ";
+"Note that most modern operating systems such as macOS (before macOS 11.0 Big Sur) or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities." = "Σημείωση: τα περισσότερα σύγχρονα λειτουργικά συστήματα macOS (παλαιότερων εκδόσεων από το OSX 11.0 Big Sur) ή Windows, δεν υποστηρίζουν εξ’ορισμού κρυπτογραφημένα αρχεία ZIP με το στάνταρντ AES-256.\n\nΜπορείτε να ανοίξετε εύκολα τα αρχεία αυτά με τα προγράμματα αποσυμπίεσης διαφόρων κατασκευαστών.";
 "Cannot create the file" = "Δε μπορώ να δημιουργήσω το αρχείο";
 "Keka has no file access to the source file/s\nGive it access when asked or manually in the Preferences" = "Το Keka δεν έχει άδεια προσπέλασης των πηγαίων αρχείων\nΔώσε άδεια όταν ζητηθεί ή μέσω των επιλογών του μενού ρυθμίσεων";
 "Give access to the source/s folder/s" = "Δώσε άδεια προσπέλασης του/ων πηγαίου/ων φακέλου/ων";
@@ -230,7 +230,9 @@
 "Report via mail" = "αναφορά μέσω email";
 "Review Keka ★★★★★" = "Αξιολόγηση του Keka ★★★★★";
 "Update the default password" = "Ενημέρωση του εξ'ορισμού κωδικού";
-"Set a default password" = "Εισαγωγή ενός επιθυμητού κωδικού";
+"Set a default password" = "Εισαγωγή ενός εξ´ορισμού κωδικού";
+/* Keka preferences for macOS 12.0 and earlier */
+"Preferences…" = "Προτιμήσεις…";
 
 /*
 // MAS tips
@@ -251,10 +253,10 @@
 "Tip a coffee" = "Κέρασε ένα καφέ";
 "Tip Keka a coffee so it can stay awake" = "Κέρασε ένα καφέ στο Keka ώστε να μένει ξύπνιο";
 "Tip a breakfast" = "Δώρησε ένα πρωϊνό";
-"Tip Keka a breakfast so it can start fresh" = "Δώρησε στο Keka ένα πρωϊνό ώστε να ξεκινά φρέσκο";
-"Tip a lunch" = "Δώρησε για το μεσημεριανό δείπνο";
-"Tip Keka a lunch and feed it" = "Δώρησε στο Keka ένα μεσημεριανό δείπνο και ταϊσέ το";
+"Tip Keka a breakfast so it can start fresh" = "Δώρησε στο Keka ένα πρωϊνό να ξεκινά φρέσκο";
+"Tip a lunch" = "Δώρησε το μεσημεριανό δείπνο";
+"Tip Keka a lunch and feed it" = "Δώρησε στο Keka μεσημεριανό και ταϊσέ το";
 "Tip a dinner" = "Δώρησε το βραδυνό δείπνο";
-"Tip Keka a dinner so it keeps rolling" = "Δώρησε ένα βραδυνό δείπνο ώστε το Keka να συννεχίσει να λειτουργεί";
+"Tip Keka a dinner so it keeps rolling" = "Δώρησε ένα βραδυνό στο Keka να λειτουργεί ομαλά";
 "Tip a bunch of food" = "Δώρησε αρκετό φαγητό";
-"Tip Keka a bunch of food to keep rolling" = "Δώρησε στο Keka αρκετό φαγητό ώστε να συννεχίσει να λειτουργεί";
+"Tip Keka a bunch of food to keep rolling" = "Δώρησε πολύ φαγητό στο Keka να λειτουργεί ομαλά";

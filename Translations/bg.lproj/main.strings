@@ -1,30 +1,30 @@
 
 /* Class = "NSMenu"; title = "Window"; ObjectID = "0I7-Eo-098"; */
-"0I7-Eo-098.title" = "Прозорци";
+"0I7-Eo-098.title" = "Прозорец";
 
 /* Class = "NSMenuItem"; title = "Services"; ObjectID = "0Tk-5P-8i2"; */
 "0Tk-5P-8i2.title" = "Услуги";
 
 /* Class = "NSMenuItem"; title = "Open logs folder"; ObjectID = "52a-zm-Csr"; */
-"52a-zm-Csr.title" = "Open logs folder";
+"52a-zm-Csr.title" = "Отвори папката с журнали";
 
 /* Class = "NSMenu"; title = "Debug"; ObjectID = "6lT-KW-uXA"; */
-"6lT-KW-uXA.title" = "Debug";
+"6lT-KW-uXA.title" = "Отстраняване на грешки";
 
 /* Class = "NSMenuItem"; title = "Create a debug session"; ObjectID = "B5q-0l-TAK"; */
-"B5q-0l-TAK.title" = "Create a debug session";
+"B5q-0l-TAK.title" = "Създай сесия за отстраняване на грешки";
 
 /* Class = "NSMenuItem"; title = "Quit Keka"; ObjectID = "Boj-Hb-G0X"; */
 "Boj-Hb-G0X.title" = "Затвори Keka";
 
-/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "FOL-81-NRF"; */
+/* Class = "NSMenuItem"; title = "Settings…"; ObjectID = "FOL-81-NRF"; */
 "FOL-81-NRF.title" = "Настройки…";
 
 /* Class = "NSMenuItem"; title = "Show All"; ObjectID = "HpM-0q-Enu"; */
 "HpM-0q-Enu.title" = "Покажи всички";
 
 /* Class = "NSMenuItem"; title = "Enable debug information"; ObjectID = "IkK-ST-X3F"; */
-"IkK-ST-X3F.title" = "Enable debug information";
+"IkK-ST-X3F.title" = "Активирай информацията за отстраняване на грешки";
 
 /* Class = "NSMenuItem"; title = "Check for updates"; ObjectID = "K4O-VW-7FA"; */
 "K4O-VW-7FA.title" = "Провери за актуализации";
@@ -42,7 +42,7 @@
 "Qst-Ya-feO.title" = "Запази";
 
 /* Class = "NSMenuItem"; title = "Privacy Policy"; ObjectID = "Rkr-d9-A7d"; */
-"Rkr-d9-A7d.title" = "Privacy Policy";
+"Rkr-d9-A7d.title" = "Политика за поверителност";
 
 /* Class = "NSMenuItem"; title = "Cut"; ObjectID = "Ro6-g5-CxU"; */
 "Ro6-g5-CxU.title" = "Изрежи";
@@ -57,7 +57,7 @@
 "TTb-AR-olf.title" = "Файл";
 
 /* Class = "NSMenuItem"; title = "Keka Help"; ObjectID = "Uuy-RK-W5n"; */
-"Uuy-RK-W5n.title" = "Keka Помощ";
+"Uuy-RK-W5n.title" = "Помощ";
 
 /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "W9M-Wy-dHU"; */
 "W9M-Wy-dHU.title" = "Постави";
@@ -66,7 +66,7 @@
 "YHt-wh-fCp.title" = "Покажи лента с инструменти";
 
 /* Class = "NSMenuItem"; title = "Debug"; ObjectID = "ZBc-IE-jQG"; */
-"ZBc-IE-jQG.title" = "Debug";
+"ZBc-IE-jQG.title" = "Отстраняване на грешки";
 
 /* Class = "NSMenuItem"; title = "New"; ObjectID = "bFm-YE-6u3"; */
 "bFm-YE-6u3.title" = "Нов";
@@ -81,10 +81,10 @@
 "gy4-dO-Qdu.title" = "Редактирай";
 
 /* Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "jtN-lL-fdx"; */
-"jtN-lL-fdx.title" = "Отвори Скорошен";
+"jtN-lL-fdx.title" = "Отвори последни";
 
 /* Class = "NSMenuItem"; title = "Terms Of Use"; ObjectID = "lmN-Tm-HmZ"; */
-"lmN-Tm-HmZ.title" = "Terms Of Use";
+"lmN-Tm-HmZ.title" = "Условия за ползване";
 
 /* Class = "NSMenuItem"; title = "About Keka"; ObjectID = "maF-B5-Hb6"; */
 "maF-B5-Hb6.title" = "За Keka";
@@ -120,10 +120,10 @@
 "v5b-pg-pYC.title" = "Копирай";
 
 /* Class = "NSMenuItem"; title = "New Window"; ObjectID = "wLf-5U-sSh"; */
-"wLf-5U-sSh.title" = "New window";
+"wLf-5U-sSh.title" = "Нов прозорец";
 
 /* Class = "NSMenuItem"; title = "Select All"; ObjectID = "wbR-ho-uar"; */
 "wbR-ho-uar.title" = "Избери всички";
 
 /* Class = "NSMenuItem"; title = "Save debug information"; ObjectID = "zWX-XS-wiR"; */
-"zWX-XS-wiR.title" = "Save debug information";
+"zWX-XS-wiR.title" = "Запази информацията за отстраняване на грешки";

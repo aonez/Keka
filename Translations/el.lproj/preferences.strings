@@ -251,8 +251,8 @@
 /* Class = "NSButtonCell"; title = "Use \"Open with Keka\" as the primary item action"; ObjectID = "a5e-FP-sDv"; */
 "a5e-FP-sDv.title" = "Επέλεξε \”Ανοιγμα με Keka\" ως αρχική επιλογή πρός εκτέλεση";
 
-/* Class = "NSButtonCell"; title = "Show in plain text"; ObjectID = "aOv-6b-JlO"; */
-"aOv-6b-JlO.title" = "Εμφάνιση ως απλό κείμενο (αρχείο)";
+/* Class = "NSButtonCell"; title = "Show the password"; ObjectID = "aOv-6b-JlO"; */
+"aOv-6b-JlO.title" = "Εμφάνιση του κωδικού";
 
 /* Class = "NSButtonCell"; title = "Use parent folder name when compressing multiple files"; ObjectID = "cDs-NB-2os"; */
 "cDs-NB-2os.title" = "Χρήση ονόματος παρόντος φακέλου όταν συμπιέζονται πολλά αρχεία, εντός του";
@@ -288,7 +288,7 @@
 "hLS-Ut-4fh.title" = "Συμπίεση μεμονωμένου αρχείου:";
 
 /* Class = "NSButtonCell"; title = "Use AES-256 when encrypting ZIP files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
-"hp7-jO-HeV.title" = "Χρήση αλγορίθμου AES-256 όταν αποκρυπτογραφούνται αρχεία ZIP (λιγότερο συμβατή)";
+"hp7-jO-HeV.title" = "Χρήση του στάνταρντ AES-256 όταν αποκρυπτογραφούνται αρχεία ZIP (λιγότερο συμβατή)";
 
 /* Class = "NSTextFieldCell"; title = "You can customize where to show the contextual menu below:"; ObjectID = "izC-0G-lvl"; */
 "izC-0G-lvl.title" = "Επέλεξε τις τοποθεσίες εμφάνισης του contextual menu (Keka επιλογές εντός μενού Finder που ανοίγει με δεξί κλίκ):";
@@ -327,7 +327,7 @@
 "tEH-O0-NxO.title" = "Ποτέ, όταν υπάρχει η πιθανότητα";
 
 /* Class = "NSButtonCell"; title = "Use the default password on new compressions"; ObjectID = "u2R-2w-aOA"; */
-"u2R-2w-aOA.title" = "Χρήση προεπιλεγμένου κωδικού στε κάθε νέα συμπίεση";
+"u2R-2w-aOA.title" = "Χρήση του προεπιλεγμένου κωδικού σε κάθε νέα συμπίεση";
 
 /* Class = "NSTextFieldCell"; title = "You can also use this password from the Finder Extension's menu"; ObjectID = "vWb-gb-JBD"; */
 "vWb-gb-JBD.title" = "Μπορείς επίσης να χρησιμοποιήσεις τον κωδικό αυτό από το μενού προεκτάσεων (Finder Extensions)";

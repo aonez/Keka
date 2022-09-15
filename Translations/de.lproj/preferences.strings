@@ -39,7 +39,7 @@
 "199.title" = "Aktion automatisch auswählen";
 
 /* Class = "NSButtonCell"; title = "Move original file(s) to Trash after compression"; ObjectID = "262"; */
-"262.title" = "Original(e) nach Komprimierung in Papierkorb legen";
+"262.title" = "Original(e) nach Komprimierung in den Papierkorb legen";
 
 /* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "263"; */
 "263.title" = "Als einzelne Dateien archivieren";
@@ -87,7 +87,7 @@
 "361.title" = "Inhalt nach Entpacken im Finder anzeigen";
 
 /* Class = "NSButtonCell"; title = "Move compressed file(s) to Trash after extraction"; ObjectID = "362"; */
-"362.title" = "Komprimierte Datei(en) nach Entpacken in Papierkorb legen";
+"362.title" = "Komprimierte Datei(en) nach Entpacken in den Papierkorb legen";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "418"; */
 "418.title" = "Keinen";
@@ -114,7 +114,7 @@
 "453.title" = "Keinen";
 
 /* Class = "NSButtonCell"; title = "Show compress contents of folder items"; ObjectID = "0Am-9a-jtM"; */
-"0Am-9a-jtM.title" = "Show compress contents of folder items";
+"0Am-9a-jtM.title" = "Komprimierte Inhalte von Ordnerelementen anzeigen";
 
 /* Class = "NSButtonCell"; title = "Rename the recognized extension from the subfolder"; ObjectID = "1TK-Zy-623"; */
 "1TK-Zy-623.title" = "Suffix des Unterordners anpassen";
@@ -177,10 +177,10 @@
 "Ei5-Ya-HGI.title" = "Eigene Namen verwenden, wenn mehrere Dateien komprimiert werden";
 
 /* Class = "NSTextFieldCell"; title = "Tasks priority (QoS):"; ObjectID = "G1T-Qd-OZi"; */
-"G1T-Qd-OZi.title" = "Tasks priority (QoS):";
+"G1T-Qd-OZi.title" = "Priorität der Aufgaben (QoS):";
 
 /* Class = "NSButtonCell"; title = "Always use the lowest priority when running on battery"; ObjectID = "GJB-94-NHl"; */
-"GJB-94-NHl.title" = "Always use the lowest priority when running on battery";
+"GJB-94-NHl.title" = "Im Batteriebetrieb immer die niedrigste Priorität verwenden";
 
 /* Class = "NSTextFieldCell"; title = "It is recommended to only do one compression at a time if using multiple threads."; ObjectID = "Hkf-wB-gUj"; */
 "Hkf-wB-gUj.title" = "Es wird empfohlen, nur eine Komprimierung gleichzeitig durchzuführen, wenn mehrere Threads verwendet werden.";
@@ -195,7 +195,7 @@
 "JxT-Nq-8Z5.title" = "Erlaube den Zugriff auf externe Volumes, falls Keka auf deinen externen Speichermedien, wie z.B. USB- oder Thunderboltlaufwerken, arbeiten können soll.";
 
 /* Class = "NSTextFieldCell"; title = "Lower priority results in longer times. The lowest priority on Apple Silicon equiped Macs will only use \"Eficiency\" cores, resulting in longer but more energy efficient tasks.\nAlready running tasks priority will not be modified."; ObjectID = "Jyq-vC-L5r"; */
-"Jyq-vC-L5r.title" = "Lower priority results in longer times. The lowest priority on Apple Silicon equiped Macs will only use \"Eficiency\" cores, resulting in longer but more energy efficient tasks.\nAlready running tasks priority will not be modified.";
+"Jyq-vC-L5r.title" = "Eine niedrigere Priorität führt zu längeren Zeiten. Die niedrigste Priorität auf mit Apple Silicon ausgestatteten Macs verwendet nur \"Efficiency\"-Kerne, was zu längeren, aber energieeffizienteren Vorgängen führt.\nBereits laufende Vorgänge werden in ihrer Priorität nicht verändert. ";
 
 /* Class = "NSTextFieldCell"; title = "Queue compression operations:"; ObjectID = "K5h-j5-bss"; */
 "K5h-j5-bss.title" = "Komprimierungsvorgänge auf die Warteliste:";
@@ -251,7 +251,7 @@
 /* Class = "NSButtonCell"; title = "Use \"Open with Keka\" as the primary item action"; ObjectID = "a5e-FP-sDv"; */
 "a5e-FP-sDv.title" = "\"Mit Keka öffnen\" als erste Aktion verwenden";
 
-/* Class = "NSButtonCell"; title = "Show in plain text"; ObjectID = "aOv-6b-JlO"; */
+/* Class = "NSButtonCell"; title = "Show the password"; ObjectID = "aOv-6b-JlO"; */
 "aOv-6b-JlO.title" = "Im Klartext anzeigen";
 
 /* Class = "NSButtonCell"; title = "Use parent folder name when compressing multiple files"; ObjectID = "cDs-NB-2os"; */

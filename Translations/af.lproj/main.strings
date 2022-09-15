@@ -17,7 +17,7 @@
 /* Class = "NSMenuItem"; title = "Quit Keka"; ObjectID = "Boj-Hb-G0X"; */
 "Boj-Hb-G0X.title" = "Stop Keka";
 
-/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "FOL-81-NRF"; */
+/* Class = "NSMenuItem"; title = "Settings…"; ObjectID = "FOL-81-NRF"; */
 "FOL-81-NRF.title" = "Voorkeure…";
 
 /* Class = "NSMenuItem"; title = "Show All"; ObjectID = "HpM-0q-Enu"; */

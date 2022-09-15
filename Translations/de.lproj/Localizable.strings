@@ -12,7 +12,7 @@
 "Passwords" = "Passwörter";
 "Love" = "Liebe";
 "OK" = "OK";
-"Done" = "OK";
+"Done" = "Fertig";
 "Yes" = "Ja";
 "No" = "Nein";
 "Don't show again" = "Nicht erneut anzeigen";
@@ -67,8 +67,8 @@
 "Select all the volumes from \"%@\" or the folder that contains them" = "Wähle alle Volumes in „%@“ oder den Ordner, welcher sie enthält";
 "Select the folder that contains \"%@\"" = "Wähle den Ordner, welcher „%@“ enthält";
 "Extraction of \"%@\" failed" = "Entpacken von „%@“ fehlgeschlagen";
-"Extraction of \"%@\" completed" = "Extraction of \"%@\" completed";
-"The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue";
+"Extraction of \"%@\" completed" = "Entpacken von „%@“ abgeschlossen";
+"The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "Die Entpackung wurde abgeschlossen, aber die Quarantäne wurde nicht angewendet.\nBitte installiere Keka neu, um dieses Problem zu beheben.";
 "Keka - %i on queue" = "Keka – %i Aufträge in Warteschlange";
 "Keka can't create this %@ image" = "Keka kann dieses %@-Image nicht erstellen";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "Ein %@-Image lässt sich nur aus einem einzelnen Ordner erstellen. Lege alle deine Dateien in einen Ordner und ziehe diesen auf Keka, um das %@-Image zu erstellen.";
@@ -231,6 +231,8 @@
 "Review Keka ★★★★★" = "Bewerte Keka ★★★★★";
 "Update the default password" = "Aktualisiere das Standardpasswort";
 "Set a default password" = "Setze das Standardpasswort";
+/* Keka preferences for macOS 12.0 and earlier */
+"Preferences…" = "Einstellungen …";
 
 /*
 // MAS tips

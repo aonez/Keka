@@ -17,7 +17,7 @@
 /* Class = "NSMenuItem"; title = "Quit Keka"; ObjectID = "Boj-Hb-G0X"; */
 "Boj-Hb-G0X.title" = "Keka beenden";
 
-/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "FOL-81-NRF"; */
+/* Class = "NSMenuItem"; title = "Settings…"; ObjectID = "FOL-81-NRF"; */
 "FOL-81-NRF.title" = "Einstellungen …";
 
 /* Class = "NSMenuItem"; title = "Show All"; ObjectID = "HpM-0q-Enu"; */
@@ -63,7 +63,7 @@
 "W9M-Wy-dHU.title" = "Einfügen";
 
 /* Class = "NSMenuItem"; title = "Show Toolbar"; ObjectID = "YHt-wh-fCp"; */
-"YHt-wh-fCp.title" = "Symbolleiste anzeigen";
+"YHt-wh-fCp.title" = "Symbolleiste einblenden";
 
 /* Class = "NSMenuItem"; title = "Debug"; ObjectID = "ZBc-IE-jQG"; */
 "ZBc-IE-jQG.title" = "Debug";
