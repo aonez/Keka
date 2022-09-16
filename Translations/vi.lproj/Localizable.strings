@@ -67,7 +67,7 @@
 "Select all the volumes from \"%@\" or the folder that contains them" = "Chọn tất cả phân vùng từ \"%@\" hoặc thư mục mà nó chứa chúng";
 "Select the folder that contains \"%@\"" = "Chọn thư mục mà nó chứa \"%@\"";
 "Extraction of \"%@\" failed" = "Giải nén cho \"%@\" thất bại";
-"Extraction of \"%@\" completed" = "Extraction of \"%@\" completed";
+"Extraction of \"%@\" completed" = "Giải nén cho \"%@\" hoàn tất";
 "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "Giải nén đã hoàn tất nhưng lệnh cách ly đã không được áp dụng. \nVui lòng cài lại Keka để khắc phục vấn đề này";
 "Keka - %i on queue" = "Keka - %i trong hàng đợi";
 "Keka can't create this %@ image" = "Keka không thể tạo ra %@ ảnh đĩa";
