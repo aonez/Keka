@@ -114,7 +114,7 @@
 "453.title" = "Ingen";
 
 /* Class = "NSButtonCell"; title = "Show compress contents of folder items"; ObjectID = "0Am-9a-jtM"; */
-"0Am-9a-jtM.title" = "Show compress contents of folder items";
+"0Am-9a-jtM.title" = "Visa komprimering av mappinnehåll";
 
 /* Class = "NSButtonCell"; title = "Rename the recognized extension from the subfolder"; ObjectID = "1TK-Zy-623"; */
 "1TK-Zy-623.title" = "Byt namn på igenkänd filändelse från undermappen";
@@ -156,7 +156,7 @@
 "CWc-wN-FhI.title" = "Anpassad mapp...";
 
 /* Class = "NSMenuItem"; title = "Lowest"; ObjectID = "Cz9-7i-oHp"; */
-"Cz9-7i-oHp.title" = "Lowest";
+"Cz9-7i-oHp.title" = "Lägst";
 
 /* Class = "NSTextFieldCell"; title = "Extractions use less power so even using multiple thread you can easily set this limit to two or three. Note that the target disk may suffer."; ObjectID = "DAr-Td-s5W"; */
 "DAr-Td-s5W.title" = "Extraheringar behöver mindre kraft så även med flera trådar kan du lätt sätta gränsen till två eller tre. Notera att måldisken får lida.";
@@ -177,10 +177,10 @@
 "Ei5-Ya-HGI.title" = "Använd anpassat namn när flera filer komprimeras";
 
 /* Class = "NSTextFieldCell"; title = "Tasks priority (QoS):"; ObjectID = "G1T-Qd-OZi"; */
-"G1T-Qd-OZi.title" = "Tasks priority (QoS):";
+"G1T-Qd-OZi.title" = "Aktivitetsprioritet (QoS):";
 
 /* Class = "NSButtonCell"; title = "Always use the lowest priority when running on battery"; ObjectID = "GJB-94-NHl"; */
-"GJB-94-NHl.title" = "Always use the lowest priority when running on battery";
+"GJB-94-NHl.title" = "Använd alltid lägsta prioritet under batteridrift";
 
 /* Class = "NSTextFieldCell"; title = "It is recommended to only do one compression at a time if using multiple threads."; ObjectID = "Hkf-wB-gUj"; */
 "Hkf-wB-gUj.title" = "Det rekommenderas att endast göra en komprimering åt gången ifall flera trådar används.";
@@ -195,7 +195,7 @@
 "JxT-Nq-8Z5.title" = "Aktivera åtkomst till externa volymer så att Keka kan användas på dina externa diskar, såsom en USB eller Thunderbolt-enhet.";
 
 /* Class = "NSTextFieldCell"; title = "Lower priority results in longer times. The lowest priority on Apple Silicon equipped Macs will only use \"Efficiency\" cores, resulting in longer but more energy efficient tasks.\nAlready running tasks priority will not be modified."; ObjectID = "Jyq-vC-L5r"; */
-"Jyq-vC-L5r.title" = "Lower priority results in longer times. The lowest priority on Apple Silicon equipped Macs will only use \"Efficiency\" cores, resulting in longer but more energy efficient tasks.\nAlready running tasks priority will not be modified.";
+"Jyq-vC-L5r.title" = "Lägre prioritet resulterar i längre tid. Lägsta prioritet på Apple Silicon-utrustade Macar kommer endast använda effektivitetskärnor, med längre men mer energieffektiva aktiviteter som resultat.\nPrioritet på aktiviteter som redan körs kommer inte att ändras.";
 
 /* Class = "NSTextFieldCell"; title = "Queue compression operations:"; ObjectID = "K5h-j5-bss"; */
 "K5h-j5-bss.title" = "Köa komprimeringsuppgifter:";
@@ -225,7 +225,7 @@
 "TLc-Nk-Bps.placeholderString" = "Ditt anpassade namn här";
 
 /* Class = "NSMenuItem"; title = "Lower"; ObjectID = "Vss-gS-NkP"; */
-"Vss-gS-NkP.title" = "Lower";
+"Vss-gS-NkP.title" = "Lägre";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "WCN-jH-W9J"; */
 "WCN-jH-W9J.placeholderString" = "Ditt anpassade namn här";
@@ -237,7 +237,7 @@
 "XOB-JO-UQT.title" = "Automatisk";
 
 /* Class = "NSMenuItem"; title = "Highest"; ObjectID = "Xl7-AN-Kgw"; */
-"Xl7-AN-Kgw.title" = "Highest";
+"Xl7-AN-Kgw.title" = "Högst";
 
 /* Class = "NSButtonCell"; title = "Use BZIP2 compression in DMG files (better but slower)"; ObjectID = "Xoi-ui-e7P"; */
 "Xoi-ui-e7P.title" = "Använd BZIP2-komprimering i DMG-filer (bättre men slöare)";
@@ -246,7 +246,7 @@
 "ZOx-vr-5o7.title" = "Aktivera fullständig åtkomst så att Keka kan användas på hela din Mac.";
 
 /* Class = "NSMenuItem"; title = "High"; ObjectID = "ZiK-jD-TLq"; */
-"ZiK-jD-TLq.title" = "High";
+"ZiK-jD-TLq.title" = "Hög";
 
 /* Class = "NSButtonCell"; title = "Use \"Open with Keka\" as the primary item action"; ObjectID = "a5e-FP-sDv"; */
 "a5e-FP-sDv.title" = "Använd \"Öppna med Keka\" som primär objektsåtgärd";
@@ -294,7 +294,7 @@
 "izC-0G-lvl.title" = "Du kan anpassa nedan var kontextmenyn ska synas:";
 
 /* Class = "NSMenuItem"; title = "Default"; ObjectID = "mfK-Rj-HLz"; */
-"mfK-Rj-HLz.title" = "Default";
+"mfK-Rj-HLz.title" = "Standard";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous operations:"; ObjectID = "o8J-bR-bs6"; */
 "o8J-bR-bs6.title" = "Maximalt simultana uppgifter:";
