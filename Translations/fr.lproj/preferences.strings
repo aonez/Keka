@@ -1,4 +1,4 @@
-﻿
+
 /* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
 "159.title" = "Format par défaut :";
 
@@ -194,8 +194,8 @@
 /* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive."; ObjectID = "JxT-Nq-8Z5"; */
 "JxT-Nq-8Z5.title" = " Autoriser l'accès à des volumes externes pour que Keka puisse être utilisé avec vos disques externes, tels qu'un disque USB ou Thunderbolt.";
 
-/* Class = "NSTextFieldCell"; title = "Lower priority results in longer times. The lowest priority on Apple Silicon equiped Macs will only use \"Eficiency\" cores, resulting in longer but more energy efficient tasks.\nAlready running tasks priority will not be modified."; ObjectID = "Jyq-vC-L5r"; */
-"Jyq-vC-L5r.title" = "La priorité la plus basse prend plus de temps. La plus basse priorité sur les Macs équipés de puce Apple n'utilisera que les coeurs \"Eficiency\", ce qui résultera en des tâches plus longues mais plus économes en énergie.\nLa priorité des tâches en cours ne sera pas modifiée.";
+/* Class = "NSTextFieldCell"; title = "Lower priority results in longer times. The lowest priority on Apple Silicon equipped Macs will only use \"Efficiency\" cores, resulting in longer but more energy efficient tasks.\nAlready running tasks priority will not be modified."; ObjectID = "Jyq-vC-L5r"; */
+"Jyq-vC-L5r.title" = "La priorité la plus basse prend plus de temps. La plus basse priorité sur les Macs équipés de puce Apple n'utilisera que les coeurs \"Efficiency\", ce qui résultera en des tâches plus longues mais plus économes en énergie.\nLa priorité des tâches en cours ne sera pas modifiée.";
 
 /* Class = "NSTextFieldCell"; title = "Queue compression operations:"; ObjectID = "K5h-j5-bss"; */
 "K5h-j5-bss.title" = "Opérations de compression en attente:";
