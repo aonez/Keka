@@ -114,7 +114,7 @@
 "453.title" = "Không có";
 
 /* Class = "NSButtonCell"; title = "Show compress contents of folder items"; ObjectID = "0Am-9a-jtM"; */
-"0Am-9a-jtM.title" = "Hiện nội dung đã nén của các mục trong thư mục";
+"0Am-9a-jtM.title" = "Hiện nén nội dung của các mục bên trong thư mục";
 
 /* Class = "NSButtonCell"; title = "Rename the recognized extension from the subfolder"; ObjectID = "1TK-Zy-623"; */
 "1TK-Zy-623.title" = "Đổi tên phần mở rộng đã được nhận diện từ thư mục con";
