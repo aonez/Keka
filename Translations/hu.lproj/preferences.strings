@@ -1,4 +1,4 @@
-﻿
+
 /* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
 "159.title" = "Alapértelmezett formátum:";
 
@@ -194,7 +194,7 @@
 /* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive."; ObjectID = "JxT-Nq-8Z5"; */
 "JxT-Nq-8Z5.title" = "Engedélyezze a külső kötetekez való hozzáférést, hogy ezekkel az eszözökkel, mintpélddául USB, vagy Thunderbolt tároló esetén használhassa a Keka-t.";
 
-/* Class = "NSTextFieldCell"; title = "Lower priority results in longer times. The lowest priority on Apple Silicon equiped Macs will only use \"Eficiency\" cores, resulting in longer but more energy efficient tasks.\nAlready running tasks priority will not be modified."; ObjectID = "Jyq-vC-L5r"; */
+/* Class = "NSTextFieldCell"; title = "Lower priority results in longer times. The lowest priority on Apple Silicon equipped Macs will only use \"Efficiency\" cores, resulting in longer but more energy efficient tasks.\nAlready running tasks priority will not be modified."; ObjectID = "Jyq-vC-L5r"; */
 "Jyq-vC-L5r.title" = "Alacsonyabb prioritás hosszabb futási időhöz vezet. A legalacsonyabb prioritás az Apple szilícium gépeken csak az \"energiatakarékos\" magokat használja, hosszabb, de takarékosabb tömörítést eredményezve.\nMár futó feladat prioritása nem kerül megváltoztatásra.";
 
 /* Class = "NSTextFieldCell"; title = "Queue compression operations:"; ObjectID = "K5h-j5-bss"; */
