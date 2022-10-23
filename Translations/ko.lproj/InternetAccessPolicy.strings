@@ -10,7 +10,7 @@
 */
 
 /* Top-level, general application description: */
-"ApplicationDescription" = "Keka는 macOS를 위한 파일 압축 및 압축해제 프로그램입니다.";
+"ApplicationDescription" = "Keka는 macOS를 위한 파일 압축 및 압축 해제 프로그램입니다.";
 
 /* Software update connection: */
 "SoftwareUpdatePurpose" = "Keka는 u(pdate).keka.io에 연결하여 새로운 버전을 확인합니다.";
