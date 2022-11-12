@@ -9,7 +9,7 @@ $content_language_locale = "ru";
 //
 // Set $show_content_bottom_translator as true if you want to appear in the bottom of the page
 $show_content_bottom_translator = true;
-$content_bottom_translator = 'Перевёл <a href="https://www.kytta.dev/">Никита Карамов</a>.';
+$content_bottom_translator = "Перевёл <a href=\"https://www.kytta.dev/\">Никита Карамов</a>.";
 //
 //
 
@@ -33,7 +33,7 @@ $content_downloading_if_fails_click_here = " click here";
 
 // Like
 $content_donation_button = "Пожертвовать";
-$content_donation_title = 'Если вы <i class="fa fa-heart" aria-hidden="true"></i> Keka,<br />то купите её в App Store или пожертвуйте через PayPal!';
+$content_donation_title = "Если вы <i class=\"fa fa-heart\" aria-hidden=\"true\"></i> Keka,<br />то купите её в App Store или пожертвуйте через PayPal!";
 $content_donation_mas = "Покупая Keka в App Store, вы поддерживаете разработчика,<br />приложение ничем не отличается от версии на сайте, только обновляется через App Store.";
 $content_donation_paypal = "Если вам не нравится MAS или вы просто пробуете Keka,<br />но хотите поддержать проект, вы можете пожертвовать деньги через PayPal.";
 
@@ -47,7 +47,7 @@ $content_beta_up = "Скачать новейшую версию";
 // Legacy
 $content_platform_legacy =  "Для $version_replace";
 $content_legacy_title = "Старые версии Keka";
-$content_legacy_text = 'Рано или поздно ваш Mac устареет и не будет поддерживать<br />новые версии Keka, но не волнуйтесь <i class="fa fa-coffee" aria-hidden="true"></i>, старые версии будут здесь.';
+$content_legacy_text = "Рано или поздно ваш Mac устареет и не будет поддерживать<br />новые версии Keka, но не волнуйтесь <i class=\"fa fa-coffee\" aria-hidden=\"true\"></i>, старые версии будут здесь.";
 
 // Info
 $content_info_title1 = "Простая и мощная";
@@ -61,13 +61,13 @@ $content_info_extraction = "И распаковывать эти форматы:
 
 // Default app
 $content_defaultapp_title = "Установить Keka в качестве приложения для извлечения по умолчанию";
-$content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">нужен помощник <i class="far fa-question-circle"></i></a>, чтобы установить себя в качестве приложения по умолчанию.<br />Просто скачайте и распакуйте его, переместите на рабочий стол и затем откройте.';
+$content_defaultapp_text = "Keka <a href=\"https://github.com/aonez/Keka/wiki/Default-application\">нужен помощник <i class=\"far fa-question-circle\"></i></a>, чтобы установить себя в качестве приложения по умолчанию.<br />Просто скачайте и распакуйте его, переместите на рабочий стол и затем откройте.";
 
 // Privacy Policy
-$content_privacypolicy_title = 'Политика конфиденциальности';
+$content_privacypolicy_title = "Политика конфиденциальности";
 
 // Terms of use
-$content_termsofuse_title = 'Условия пользования';
+$content_termsofuse_title = "Условия пользования";
 
 // Main content of the page
 $content_context_menu = "Контекстное меню";
@@ -86,6 +86,6 @@ $content_404_more = "или, может, вы ищете это?";
 $content_maintenance = "Will be back soon";
 
 // Bottom info
-$content_bottom_copying = 'Все права защищены.';
+$content_bottom_copying = "Все права защищены.";
 
 ?>
