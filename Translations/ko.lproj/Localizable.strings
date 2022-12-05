@@ -197,7 +197,7 @@
 "The extension is enabled" = "확장 프로그램이 활성화 되었습니다";
 "The extension is disabled" = "확장 프로그램이 비활성화 되었습니다";
 "Enable or disable the extension" = "확장 프로그램 활성화 또는 비활성화";
-"Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "Keka는 파일 형식 및 확장명에 따라 압축 또는 압축 해제 여부를 결정합니다. 권장되는 옵션입니다.";
+"Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "Keka가 파일 형식 및 확장자에 따라 압축할지 압축 해제할지 결정합니다. 권장 옵션입니다.";
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka는 모든 파일을 압축합니다. 이미 압축된 파일도 마찬가지입니다. 이미 압축된 파일을 드롭 영역의 맨 아래 부분에 놓아 자동 모드에서 압축할 수 있습니다.";
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka는 모든 파일을 추출하려고 합니다. 알 수 없는 파일을 드롭 영역의 맨 아래에 놓아서 자동 모드에서 추출하려고 할 수 있습니다.";
 "Show the operation log" = "작업 로그 보기";
@@ -212,8 +212,8 @@
 "You'll be asked where to compress each operation." = "각 작업마다 어디에 압축할 것인지 물어볼 것입니다.";
 "If Keka has File Access it will execute the operation near the source file/s, otherwise it will ask for a location. You can set Keka's File Access in the Preferences tab so this option works properly." = "Keka가 파일 액세스 권한을 가진 경우 원본 파일 근처에서 작업을 실행하고, 그렇지 않으면 위치를 물어볼 것입니다. 이 옵션이 제대로 작동하도록 환경설정 탭에서 Keka의 파일 접근 권한을 설정할 수 있습니다.";
 "Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka는 대상 폴더에 대한 파일 접근 권한이 없으므로 위치를 요청해야 합니다.\nKeka의 기본 설정 파일 접근 권한 창에서 이 폴더와 다른 폴더에 대한 접근 권한을 추가할 수 있습니다.";
-"The characters %@ are not compatible with the %@ format" = "%@ 문자는 %@ 포맷과 호환되지 않습니다.";
-"The character %@ is not compatible with the %@ format" = "%@ 문자가 %@ 포맷과 호환되지 않습니다.";
+"The characters %@ are not compatible with the %@ format" = "%@ 문자는 %@ 형식과 호환되지 않습니다.";
+"The character %@ is not compatible with the %@ format" = "%@ 문자가 %@ 형식과 호환되지 않습니다.";
 "Stop compressing" = "압축 중단";
 "Stop extracting" = "압축 해제 중단";
 "Resume compressing" = "압축 재개";
