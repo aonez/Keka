@@ -8,8 +8,8 @@ $content_language_locale = "vn";
 //
 //
 // Set $show_content_bottom_translator as true if you want to appear in the bottom of the page
-$show_content_bottom_translator = false;
-$content_bottom_translator = 'Translated by <a href="https://github.com/mwolfinspace">mwolfinspace</a>.';
+$show_content_bottom_translator = true;
+$content_bottom_translator = 'Được dịch bởi <a href="https://github.com/mwolfinspace">mwolfinspace</a>.';
 //
 //
 
@@ -27,9 +27,9 @@ $content_download_text = "Lưu trữ nhiều hơn, chia sẻ riêng tư hơn";
 $content_download_love = "Bạn thích nó chứ?";
 $content_download_legacy = "Phiên bản cũ";
 $content_download_helper = "Công cụ hỗ trợ";
-$content_downloading = "Downloading ";
-$content_downloading_if_fails = "If the download does not start automatically ";
-$content_downloading_if_fails_click_here = " click here";
+$content_downloading = "Đang tải ";
+$content_downloading_if_fails = "Nếu tác vụ tải về không tự động chạy hãy ";
+$content_downloading_if_fails_click_here = " bấm vào đây";
 
 // Like
 $content_donation_button = "Quyên góp";
@@ -88,7 +88,7 @@ $content_404_start = "Bạn có thể truy cập vào <a href=\"https://www.keka
 $content_404_more = "hay bạn muốn nhìn 404 hoài nhỉ?";
 
 // Maintenance
-$content_maintenance = "Will be back soon";
+$content_maintenance = "Chúng tôi sẽ trở lại sớm thôi";
 
 // Bottom info
 $content_bottom_copying = 'All rights reserved.';
