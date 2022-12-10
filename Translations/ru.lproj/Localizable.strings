@@ -21,7 +21,7 @@
 "Want to make Keka your default compressor?" = "Установить Keka в качестве системного архиватора?";
 "This means that all the compatible files will be extracted with Keka by now. You can set this later in the Keka Preferences." = "Это значит, что все совместимые файлы далее будет распаковывать Keka. Это можно потом изменить в настройках Keka.";
 "Really want to close Keka?" = "Действительно закрыть Keka?";
-"The current operations will be canceled. If you choose to wait and quit Keka will exit when all work is done." = "Текущие операции будут отменены. Если вы выберете подождать и закрыть Keka, программа будет закрыта по завершении работы.";
+"The current operations will be canceled. If you choose to wait and quit Keka will exit when all work is done." = "Текущие операции будут отменены. Если вы выберете подождать и закроете Keka, программа будет закрыта по завершении работы.";
 "Password needed" = "Введите пароль";
 "File \"%@\" needs a password to be extracted" = "Для распаковки файла \"%@\" требуется указать пароль";
 "File \"%@\" needs a special encoding to be extracted" = "Файл \"%@\" требует особой кодировки для распаковки";
@@ -68,7 +68,7 @@
 "Select the folder that contains \"%@\"" = "Выберите папку, которая содержит \"%@\"";
 "Extraction of \"%@\" failed" = "Не удалось распаковать \"%@\"";
 "Extraction of \"%@\" completed" = "Распаковка \"%@\" завершена";
-"The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "Распаковка завершена, но не удалост применить карантин.\nПожалуйста, переустановите Keka чтобы решить эту проблему";
+"The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "Распаковка завершена, но не удалось применить карантин.\nПожалуйста, переустановите Keka чтобы исправить эту проблему";
 "Keka - %i on queue" = "Keka - %i в очереди";
 "Keka can't create this %@ image" = "Keka не удалось создать %@-образ";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "%@-образ можно создать только из одной папки. Попробуйте поместить ваши файлы в одну папку и перетащить её в окно Keka.";
@@ -108,7 +108,7 @@
 "Slowest, more compression" = "Самый медленный (больше сжатие)";
 "Compression" = "Сжатие";
 "Extraction" = "Распаковка";
-"Keka can't use the \"extlx.plist\" list, please get in contact with the developers.\n\nNow Keka will quit." = "Keka не может использовать список \"extlx.plist\"; пожалуйста, обратитесь к разработчикам.\n\nKeka завершает работу.";
+"Keka can't use the \"extlx.plist\" list, please get in contact with the developers.\n\nNow Keka will quit." = "Keka не может использовать список \"extlx.plist\", пожалуйста, обратитесь к разработчикам.\n\nKeka завершает работу.";
 "Keka is dying!" = "Keka умирает!";
 "Ask each time" = "Спрашивать каждый раз";
 "Next to original file" = "В папку с исходным файлом";
@@ -142,7 +142,7 @@
 "Can't open the file, maybe you don't have read permission" = "Невозможно открыть файл. Возможно, у вас нет прав на чтение";
 "Command line error, please contact with the developer" = "Ошибка командной строки. Пожалуйста, обратитесь к разработчику";
 "Not enough memory. Try to close some programs and repeat the operation" = "Недостаточно памяти. Попробуйте закрыть другие программы и повторите операцию";
-"Can't create the file, maybe you don't have permission or free space" = "Невозможно создать файл. Вероятно, у вас отсутствуют права на запись либо нет места на диске";
+"Can't create the file, maybe you don't have permission or free space" = "Невозможно создать файл. Вероятно, у вас отсутствуют права на запись, либо нет места на диске";
 "Canceled manually" = "Принудительно отменена";
 "Bad password, try again" = "Неверный пароль, попробуйте ещё раз";
 "This archive is locked" = "Этот архив заблокирован";
@@ -202,7 +202,7 @@
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka попытается извлечь все файлы. Вы можете попытаться извлечь неизвестный файл в автоматическом режиме, поместив его в нижнюю часть зоны для сброса файлов.";
 "Show the operation log" = "Показать журнал операций";
 "Unable to process tips" = "Невозможно обработать платежи";
-"Already tipping a monthly %@" = "Вы уже даёте жертвуете %@ ежемесячно";
+"Already tipping a monthly %@" = "Вы уже жертвуете %@ ежемесячно";
 "Send a monthly %@ tip" = "Жертвовать %@ ежемесячно";
 "Send a %@ tip" = "Единоразово пожертвовать %@";
 "Give Keka some love ♥" = "Дайте Keka немного своей любви ♥";
