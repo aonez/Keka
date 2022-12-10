@@ -138,13 +138,13 @@
 "6bh-6N-5PP.title" = "Imbriquer les actions dans un sous-menu";
 
 /* Class = "NSTextFieldCell"; title = "You can use these placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n%pb% will be replaced with the clipboard string\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
-"8JN-Ub-qkc.title" = "Vous pouvez utiliser cet espace réservé:\n\n%n sera remplacé par le nom de fichier\n%e sera remplacé par l'extension de fichier\n%p sera remplacé par le dossier parent\n%c sera remplacé par le nombre de fichiers\n%d sera remplacé par la date actuelle\n%t sera remplacé par l'heure actuelle\n%s sera remplacé par le nom partagé\n%i% sera remplacé par le nom du premier élément\n%ia% sera remplacé par le premier nom trié\n%pb% sera remplacé par le contenu du presse-papier\n\nLes remplacements seront vides dans certains cas.";
+"8JN-Ub-qkc.title" = "Vous pouvez utiliser cet espace réservé :\n\n%n sera remplacé par le nom de fichier\n%e sera remplacé par l'extension de fichier\n%p sera remplacé par le dossier parent\n%c sera remplacé par le nombre de fichiers\n%d sera remplacé par la date actuelle\n%t sera remplacé par l'heure actuelle\n%s sera remplacé par le nom partagé\n%i% sera remplacé par le nom du premier élément\n%ia% sera remplacé par le premier nom trié\n%pb% sera remplacé par le contenu du presse-papier\n\nLes remplacements seront vides dans certains cas.";
 
 /* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "8Uc-pg-EyS"; */
 "8Uc-pg-EyS.title" = "Utiliser la barre d'outils unifiée (réinitialise les personalisations)";
 
 /* Class = "NSTextFieldCell"; title = "Fallback folder:"; ObjectID = "9dE-yV-N3K"; */
-"9dE-yV-N3K.title" = "Dossier de secours:";
+"9dE-yV-N3K.title" = "Dossier de secours :";
 
 /* Class = "NSButtonCell"; title = "Use the default password on new advanced windows"; ObjectID = "9ul-2H-k9o"; */
 "9ul-2H-k9o.title" = "Utiliser le mot de passe par défaut dans les nouvelles fenêtres avancées";
@@ -168,7 +168,7 @@
 "DL5-wY-cqc.title" = "Autoriser l'accès au dossier Départ";
 
 /* Class = "NSTextFieldCell"; title = "Default action:"; ObjectID = "EJQ-OL-pMF"; */
-"EJQ-OL-pMF.title" = "Action par défaut:";
+"EJQ-OL-pMF.title" = "Action par défaut :";
 
 /* Class = "NSMenuItem"; title = "Always"; ObjectID = "EOi-2B-eBv"; */
 "EOi-2B-eBv.title" = "Toujours";
@@ -207,7 +207,7 @@
 "KOF-7X-bQo.title" = "Afficher dans les volumes externes";
 
 /* Class = "NSTextFieldCell"; title = "Limit the number of threads per operation:"; ObjectID = "ND5-DN-C1H"; */
-"ND5-DN-C1H.title" = "Limiter le nombre de fils par opération:";
+"ND5-DN-C1H.title" = "Limiter le nombre de fils par opération :";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "NwI-O4-9NI"; */
 "NwI-O4-9NI.title" = "Exclure les fichiers spéciaux Mac (ex : .DS_Store)";
@@ -216,7 +216,7 @@
 "PD2-iW-BGK.title" = "Autoriser l'accès au dossier Départ pour que Keka puisse être utilisé avec tous vos fichiers utilisateur, tels que ceux de votre Bureau ou de votre dossier Téléchargements.";
 
 /* Class = "NSTextFieldCell"; title = "Default password:"; ObjectID = "Rgr-FP-Kua"; */
-"Rgr-FP-Kua.title" = "Mot de passe par défaut:";
+"Rgr-FP-Kua.title" = "Mot de passe par défaut :";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "Autoriser l'intégration au Centre de notifications";
@@ -261,7 +261,7 @@
 "caX-B6-61f.title" = "Le dossier de secours sera utilisé lorsque Keka ne peut pas fonctionner dans le dossier sélectionné.";
 
 /* Class = "NSButtonCell"; title = "Maximum threads per operation:"; ObjectID = "cb7-h4-ScP"; */
-"cb7-h4-ScP.title" = "Nombre maximum de fils par opération:";
+"cb7-h4-ScP.title" = "Nombre maximum de fils par opération :";
 
 /* Class = "NSButtonCell"; title = "Use short tarball extensions (eg: .tgz instead of .tar.gz)"; ObjectID = "cfd-8g-kiU"; */
 "cfd-8g-kiU.title" = "Utiliser les extensions TAR courtes (ex: .tgz à la place de .tar.gz)";
@@ -273,7 +273,7 @@
 "dOj-2Z-1kb.title" = "Utiliser un visage écrasé lors du fonctionnement";
 
 /* Class = "NSTextFieldCell"; title = "Compressing multiple files:"; ObjectID = "dhi-qv-weg"; */
-"dhi-qv-weg.title" = "Compresser plusieurs fichiers:";
+"dhi-qv-weg.title" = "Compresser plusieurs fichiers :";
 
 /* Class = "NSButtonCell"; title = "Set folder's modification date to extraction date"; ObjectID = "eBj-1b-wBg"; */
 "eBj-1b-wBg.title" = "Utiliser la date d'extraction comme date de modification du dossier";
@@ -282,28 +282,28 @@
 "faa-9Y-Axk.title" = "Toujours utiliser TAR pour les formats non archivables (tels que GZ ou BZIP2) ";
 
 /* Class = "NSTextFieldCell"; title = "Queue extraction operations:"; ObjectID = "fhN-DK-edu"; */
-"fhN-DK-edu.title" = "Mettre les opérations d'extraction en file d'attente:";
+"fhN-DK-edu.title" = "Mettre les opérations d'extraction en file d'attente :";
 
 /* Class = "NSTextFieldCell"; title = "Compressing a single file:"; ObjectID = "hLS-Ut-4fh"; */
-"hLS-Ut-4fh.title" = "Compresser un seul fichier:";
+"hLS-Ut-4fh.title" = "Compresser un seul fichier :";
 
 /* Class = "NSButtonCell"; title = "Use AES-256 when encrypting ZIP files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
 "hp7-jO-HeV.title" = "Utiliser AES-256 lors du chiffrement des fichiers ZIP (moins compatible)";
 
 /* Class = "NSTextFieldCell"; title = "You can customize where to show the contextual menu below:"; ObjectID = "izC-0G-lvl"; */
-"izC-0G-lvl.title" = "Vous pouvez personaliser où afficher le menu contextuel ci-dessous:";
+"izC-0G-lvl.title" = "Vous pouvez personaliser où afficher le menu contextuel ci-dessous :";
 
 /* Class = "NSMenuItem"; title = "Default"; ObjectID = "mfK-Rj-HLz"; */
 "mfK-Rj-HLz.title" = "Par défaut";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous operations:"; ObjectID = "o8J-bR-bs6"; */
-"o8J-bR-bs6.title" = "Nombre maximum d'opérations simultanées:";
+"o8J-bR-bs6.title" = "Nombre maximum d'opérations simultanées :";
 
 /* Class = "NSTextFieldCell"; title = "Queue operations:"; ObjectID = "otI-Pt-BTh"; */
 "otI-Pt-BTh.title" = "Mettre les opérations en file d'attente:";
 
 /* Class = "NSTextFieldCell"; title = "Keep source extension:"; ObjectID = "p5F-63-ubE"; */
-"p5F-63-ubE.title" = "Conserver l'extension de la source:";
+"p5F-63-ubE.title" = "Conserver l'extension de la source :";
 
 /* Class = "NSButtonCell"; title = "Always extract in a subfolder"; ObjectID = "pXT-7y-9af"; */
 "pXT-7y-9af.title" = "Toujours extraire dans un sous-dossier";
@@ -321,7 +321,7 @@
 "sgV-AD-k4Q.title" = "Autoriser l'accès aux volumes externes";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous compressions:"; ObjectID = "sjA-7B-5U6"; */
-"sjA-7B-5U6.title" = "Nombre maximum de compressions simultanées:";
+"sjA-7B-5U6.title" = "Nombre maximum de compressions simultanées :";
 
 /* Class = "NSMenuItem"; title = "Never, when possible"; ObjectID = "tEH-O0-NxO"; */
 "tEH-O0-NxO.title" = "Jamais, lorsque possible";
@@ -339,7 +339,7 @@
 "xyb-eH-aiy.title" = "La plupart des opérations utilisent plusieurs fils. Cela signifie des opérations plus rapides mais aussi plus de consommation d'énergie et de chaleur.";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous extractions:"; ObjectID = "yGo-Gm-0zq"; */
-"yGo-Gm-0zq.title" = "Nombre maximum d'extractions simultanées:";
+"yGo-Gm-0zq.title" = "Nombre maximum d'extractions simultanées :";
 
 /* Class = "NSTextFieldCell"; title = "Queuing usually results in faster operations and a more responsive behaviour."; ObjectID = "zPq-ei-qUb"; */
 "zPq-ei-qUb.title" = "La mise en file d'attente entraîne généralement des opérations plus rapides et un comportement plus réactif.";
