@@ -18,7 +18,7 @@
 "Boj-Hb-G0X.title" = "退出 Keka";
 
 /* Class = "NSMenuItem"; title = "Settings…"; ObjectID = "FOL-81-NRF"; */
-"FOL-81-NRF.title" = "首选项…";
+"FOL-81-NRF.title" = "设置…";
 
 /* Class = "NSMenuItem"; title = "Show All"; ObjectID = "HpM-0q-Enu"; */
 "HpM-0q-Enu.title" = "全部显示";
