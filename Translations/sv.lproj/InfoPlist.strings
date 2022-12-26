@@ -1,6 +1,6 @@
 
 /* Usually leave this one in English */
-"NSHumanReadableCopyright" = "Copyright © 2009-2022 aONe";
+"NSHumanReadableCopyright" = "Copyright © 2009-2023 aONe";
 
 /* Access request descriptions */
 "NSDesktopFolderUsageDescription" = "Keka behöver åtkomst till Skrivbord för att jobba med dess filer.";
