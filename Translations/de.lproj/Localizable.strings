@@ -231,6 +231,7 @@
 "Review Keka ★★★★★" = "Bewerte Keka ★★★★★";
 "Update the default password" = "Aktualisiere das Standardpasswort";
 "Set a default password" = "Setze das Standardpasswort";
+"To enable external volumes access go to your main disk and select the \"Volumes\" folder." = "To enable external volumes access go to your main disk and select the \"Volumes\" folder.";
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "Einstellungen …";
 
