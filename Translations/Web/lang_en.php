@@ -13,6 +13,10 @@ $content_bottom_translator = 'Translated by <a href="https://yoursite.or.email.o
 //
 //
 
+// iOS
+$ios_title = "$keka for iOS";
+$ios_content_title = "the iOS file archiver";
+
 // General
 $content_download = "Download";
 $content_issues = "Issues";
@@ -28,6 +32,8 @@ $content_download_love = "Like it?";
 $content_download_legacy = "Legacy";
 $content_download_helper = "Helper";
 $content_downloading = "Downloading ";
+$content_get_platform = "Get it for ";
+$content_testflight = "TestFlight needed to install this build";
 $content_downloading_if_fails = "If the download does not start automatically ";
 $content_downloading_if_fails_click_here = " click here";
 
@@ -41,6 +47,9 @@ $content_donation_paypal = "If you don't like MAS or just want to play around wi
 $content_platform_beta = "Beta";
 $content_beta_title = "Beta version of Keka";
 $content_beta_text = "You can test the newest features of Keka before they are released.<br />If you find a bug or have something to report, head over to ";
+$ios_content_beta_title = "Beta version of Keka for iOS";
+$ios_content_beta_text = "Be the first to try the first public version of Keka for iOS.<br />If you find a bug or have something to report,<br />use <a href=\"https://testflight.apple.com\">TestFlight</a> or head over to ";
+$ios_content_text = 'Unwrap <i class="fas fa-gift"></i> it now on the App Store';
 $content_beta_unavailable = "There is no beta available at the moment.";
 $content_beta_up = "Get the latest version";
 
@@ -58,6 +67,18 @@ $content_info_text2 = "Share safely just setting a password and creating highly 
 $content_info_text3 = "If the files are really huge and they do not fit your mail or server, just split them into pieces.<br />Don't worry, they will still expand to produce your original file :)";
 $content_info_compression = "Keka can create files in these formats:";
 $content_info_extraction = "And extract all of these formats:";
+
+// Info v2 (iOS and future macOS)
+$content_info_v2_title1 = "Store more";
+$content_info_v2_title2 = "Share with privacy";
+$content_info_v2_title3 = "A perfect Browsing experience";
+$content_info_v2_title4 = "Multitasking at its finest";
+$content_info_v2_title5 = "Always at hand";
+$content_info_v2_text1 = "With multiple Compression Formats<br />to choose the Perfect One";
+$content_info_v2_text2 = "Protect your shared files with a Password<br />and Encrypt them with AES-256";
+$content_info_v2_text3 = "Preview, Extract and Share<br />only what You Need";
+$content_info_v2_text4 = "Extract, Compress and Browse<br />without limits";
+$content_info_v2_text5 = "Extract, Compress and Browse<br />from anywhere using the Share Actions";
 
 // Default app
 $content_defaultapp_title = "Set Keka as the default extraction application";
