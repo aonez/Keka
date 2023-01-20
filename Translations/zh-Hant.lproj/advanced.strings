@@ -6,7 +6,7 @@
 "2222.title" = "壓縮完成後刪除檔案";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks"; ObjectID = "2244"; */
-"2244.title" = "排除 Mac 資源 fork";
+"2244.title" = "排除 Mac 資源檔";
 
 /* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "2262"; */
 "2262.title" = "密碼：";
