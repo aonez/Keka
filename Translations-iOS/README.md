@@ -20,6 +20,6 @@ Note this version is not available for free. You can ask for a code to review it
     <note>Compressing, operation running.</note>
   </trans-unit>
   ```
-- Alternatively you can use the [Strings](Strings) contents. Just duplicate the `lproj` forder with your language and translate the right side from the strings pairs in all the `.strings` files.
+- Alternatively you can use the [Alternative-Strings-Files](Alternative-Strings-Files) contents. Just duplicate the `lproj` forder with your language and translate the right side from the strings pairs in all the `.strings` files.
 
 To upload your translation create a pull request or send it via mail.
