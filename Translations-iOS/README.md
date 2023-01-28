@@ -4,7 +4,7 @@ Thanks a lot for your contribution! 😃
 
 ## Keka for iOS translation
 
-Note this version is not available for free. You can ask for a code to review it or download the beta version using the TestFlight link available in the [iOS web](https://ios.keka.io).
+Note this version is not available for free. You can ask for a code to review it or download the beta version using the TestFlight link available at the [iOS web](https://ios.keka.io).
 
 - Fork or download this project.
 - Choose your preferred `xcloc` language ([en.xcloc](en.xcloc) is the base English version).
