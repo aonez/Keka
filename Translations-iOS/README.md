@@ -12,14 +12,14 @@ Note this version is not available for free. You can ask for a code to review it
 - If you prefer to do it without Xcode you can also open the `xcloc` bundle (Right Click - Show Package Contents) and:
   - Locate the `.xliff` file inside `Localized Contents` and open it with your prefered editor.
   - For every `trans-unit` node, translate the `source` into the `target` node. If no `target` exists yet, just create the line.<br />
-    Do not translate the `source`, `note` or any other node except for the `target` one.
-  ```xml
-  <trans-unit id="COMPRESSION_RUNNING" xml:space="preserve">
-    <source>Compressing</source>
-    <target>Comprimiendo</target>
-    <note>Compressing, operation running.</note>
-  </trans-unit>
-  ```
+    Do not translate the `source`, `note` or any other node except for the `target` one.<br /><br />
+    ```xml
+    <trans-unit id="COMPRESSION_RUNNING" xml:space="preserve">
+      <source>Compressing</source>
+      <target>Comprimiendo</target>
+      <note>Compressing, operation running.</note>
+    </trans-unit>
+    ```
 - Alternatively you can use the [Alternative-Strings-Files](Alternative-Strings-Files) contents. Just duplicate the `lproj` forder with your language and translate the right side from the strings pairs in all the `.strings` files.
 
 To upload your translation create a pull request or send it via mail.
