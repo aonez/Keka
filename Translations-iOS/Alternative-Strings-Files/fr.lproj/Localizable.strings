@@ -1,149 +1,149 @@
 /* No comment provided by engineer. */
-"%@ item" = "%@ ítem";
+"%@ item" = "%@ objet";
 
 /* No comment provided by engineer. */
-"%@ items" = "%@ ítems";
+"%@ items" = "%@ objets";
 
 /* No comment provided by engineer. */
-"%@ of %@ item" = "%@ de %@ ítem";
+"%@ of %@ item" = "%@ de %@ objet";
 
 /* No comment provided by engineer. */
-"%@ of %@ items" = "%@ de %@ ítems";
+"%@ of %@ items" = "%@ de %@ objets";
 
 /* No comment provided by engineer. */
-"About" = "Créditos";
+"About" = "A propos";
 
 /* No comment provided by engineer. */
-"Actions" = "Acciones";
+"Actions" = "Actions";
 
 /* No comment provided by engineer. */
-"Add a File" = "Añadir un fichero";
+"Add a File" = "Ajouter un fichier";
 
 /* No comment provided by engineer. */
-"Add a Folder" = "Añadir una carpeta";
+"Add a Folder" = "Ajouter un dossier";
 
 /* No comment provided by engineer. */
-"Add some contents using the %@ button or the %@ and %@ buttons in the toolbar." = "Añade contenido utilizando %@ o %@ en la barra de herramientas.";
+"Add some contents using the %@ button or the %@ and %@ buttons in the toolbar." = "Ajouter du contenu en utilisant le bouton %@ ou les boutons %@ et %@ de la barre d'outils.";
 
 /* No comment provided by engineer. */
-"Allocated size" = "Tamaño asignado";
+"Allocated size" = "Taille allouée";
 
 /* No comment provided by engineer. */
-"Ask" = "Preguntar";
+"Ask" = "Demander";
 
 /* Browse, operation description. */
-"BROWSE_OPERATION" = "Abrir";
+"BROWSE_OPERATION" = "Ouvrir";
 
 /* Browsing, operation running. */
-"BROWSE_RUNNING" = "Abriendo";
+"BROWSE_RUNNING" = "Ouverture";
 
 /* Browsing, tasks section title. */
-"BROWSE_SECTION_TITLE" = "Abiertos";
+"BROWSE_SECTION_TITLE" = "Ouvrir";
 
 /* Browser settings title. */
-"Browser" = "Al abrir";
+"Browser" = "Navigateur";
 
 /* "by aone" part from "Made with love by aone". */
-"by %@" = "por %@";
+"by %@" = "par %@";
 
 /* No comment provided by engineer. */
-"Calculate" = "Calcular";
+"Calculate" = "Calcul";
 
 /* No comment provided by engineer. */
-"Cancel" = "Cancelar";
+"Cancel" = "Annuler";
 
 /* No comment provided by engineer. */
-"Choose" = "Seleccionar";
+"Choose" = "Sélectionner";
 
 /* No comment provided by engineer. */
-"Clear Cache" = "Vaciar el caché";
+"Clear Cache" = "Vider le cache";
 
 /* No comment provided by engineer. */
-"Clear Cache Contents" = "Vaciar el contenido del caché";
+"Clear Cache Contents" = "Vider le contenu du cache";
 
 /* No comment provided by engineer. */
-"Close" = "Cerrar";
+"Close" = "Fermer";
 
 /* No comment provided by engineer. */
-"Compress" = "Comprimir";
+"Compress" = "Compresser";
 
 /* No comment provided by engineer. */
-"compressed" = "comprimido";
+"compressed" = "compressé";
 
 /* No comment provided by engineer. */
-"Compressed size" = "Tamaño comprimido";
+"Compressed size" = "Taille compressée";
 
 /* Compression settings title. */
-"Compression" = "Compresión";
+"Compression" = "Compression";
 
 /* No comment provided by engineer. */
-"compression failed" = "compresión fallida";
+"compression failed" = "compression échouée";
 
 /* No comment provided by engineer. */
-"Compression Level:" = "Nivel de compresión:";
+"Compression Level:" = "Niveau de compression:";
 
 /* Compression, operation description. */
-"COMPRESSION_OPERATION" = "Comprimir";
+"COMPRESSION_OPERATION" = "Compresse";
 
 /* Compressing, operation running. */
-"COMPRESSION_RUNNING" = "Comprimiendo";
+"COMPRESSION_RUNNING" = "Compresse";
 
 /* Compressing, tasks section title. */
-"COMPRESSION_SECTION_TITLE" = "Compresiones";
+"COMPRESSION_SECTION_TITLE" = "Compression";
 
 /* No comment provided by engineer. */
-"Contents" = "Contenido";
+"Contents" = "Contenu";
 
 /* No comment provided by engineer. */
-"Contents: %@, Size: %@" = "Contenido: %@, tamaño: %@";
+"Contents: %@, Size: %@" = "Contenu: %@, taille: %@";
 
 /* No comment provided by engineer. */
-"Created" = "Creación";
+"Created" = "Créé";
 
 /* No comment provided by engineer. */
-"Custom..." = "Personalizado...";
+"Custom..." = "Personnalisé...";
 
 /* No comment provided by engineer. */
-"Date" = "Fecha";
+"Date" = "Date";
 
 /* No comment provided by engineer. */
-"Default Compression Level" = "Nivel de compresión por defecto";
+"Default Compression Level" = "Niveau de compression par défaut";
 
 /* No comment provided by engineer. */
-"Default Destination" = "Destino por defecto";
+"Default Destination" = "Destination par défaut";
 
 /* No comment provided by engineer. */
-"Default Format" = "Formato por defecto";
+"Default Format" = "Format par défaut";
 
 /* No comment provided by engineer. */
-"Default Tap Action" = "Acción por defecto";
+"Default Tap Action" = "Action par défaut";
 
 /* No comment provided by engineer. */
-"Delete" = "Borrar";
+"Delete" = "Supprimer";
 
 /* No comment provided by engineer. */
-"Destination" = "Destino";
+"Destination" = "Destination";
 
 /* No comment provided by engineer. */
-"Disable \"%@\" if you prefer to use a default configuration." = "Desactiva \"%@\" si prefieres utilizar una configuración por defecto.";
+"Disable \"%@\" if you prefer to use a default configuration." = "Désactiver \"%@\" si vous préférez utiliser la compression par défaut.";
 
 /* No comment provided by engineer. */
-"Dismiss" = "Cancelar";
+"Dismiss" = "Annuler";
 
 /* No comment provided by engineer. */
-"done" = "lista";
+"done" = "terminé";
 
 /* No comment provided by engineer. */
-"Done" = "Listo";
+"Done" = "Terminé";
 
 /* No comment provided by engineer. */
-"Edit" = "Editar";
+"Edit" = "Modifier";
 
 /* No comment provided by engineer. */
-"Encrypt Filenames" = "Encriptar los nombres de archivo";
+"Encrypt Filenames" = "Chiffrer les noms des fichiers";
 
 /* No comment provided by engineer. */
-"Encrypt Filenames if Possible" = "Encriptar los nombres de archivo siempre que se pueda";
+"Encrypt Filenames if Possible" = "Chiffrer les noms des fichiers si possible";
 
 /* No comment provided by engineer. */
 "Enter the password for the file\n\"%@\"" = "Introduce la contraseña para el archivo\n\"%@\"";
