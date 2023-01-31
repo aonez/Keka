@@ -95,7 +95,7 @@
 "Contents" = "Contenu";
 
 /* No comment provided by engineer. */
-"Contents: %@, Size: %@" = "Contenu: %@, taille: %@";
+"Contents: %@, Size: %@" = "Contenu: %@, Taille: %@";
 
 /* No comment provided by engineer. */
 "Created" = "Créé";
@@ -185,7 +185,7 @@
 "Feedback" = "Contacter";
 
 /* No comment provided by engineer. */
-"File not informed properly, try again." = "Le fichier n'est pas informé correctement, essayer encore.";
+"File not informed properly, try again." = "Le fichier n'est pas renseigné correctement, essayer encore.";
 
 /* No comment provided by engineer. */
 "Format" = "Format";
