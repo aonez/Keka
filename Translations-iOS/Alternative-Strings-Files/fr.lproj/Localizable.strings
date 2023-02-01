@@ -32,13 +32,13 @@
 "Ask" = "Demander";
 
 /* Browse, operation description. */
-"BROWSE_OPERATION" = "Ouvrir";
+"BROWSE_OPERATION" = "Explorer";
 
 /* Browsing, operation running. */
 "BROWSE_RUNNING" = "Ouverture";
 
 /* Browsing, tasks section title. */
-"BROWSE_SECTION_TITLE" = "Ouvrir";
+"BROWSE_SECTION_TITLE" = "Ouverture";
 
 /* Browser settings title. */
 "Browser" = "Explorateur";
@@ -83,13 +83,13 @@
 "Compression Level:" = "Niveau de compression:";
 
 /* Compression, operation description. */
-"COMPRESSION_OPERATION" = "Compresse";
+"COMPRESSION_OPERATION" = "Compression";
 
 /* Compressing, operation running. */
-"COMPRESSION_RUNNING" = "Compresse";
+"COMPRESSION_RUNNING" = "Compression en cours";
 
 /* Compressing, tasks section title. */
-"COMPRESSION_SECTION_TITLE" = "Compression";
+"COMPRESSION_SECTION_TITLE" = "Compression en cours";
 
 /* No comment provided by engineer. */
 "Contents" = "Contenu";
@@ -164,13 +164,13 @@
 "extraction failed" = "Echec d'extraction";
 
 /* Extraction, operation description. */
-"EXTRACTION_OPERATION" = "Extraire";
+"EXTRACTION_OPERATION" = "Extraction";
 
 /* Extracting, operation running. */
 "EXTRACTION_RUNNING" = "Extraction en cours";
 
 /* Extracting, tasks section title. */
-"EXTRACTION_SECTION_TITLE" = "Extraction";
+"EXTRACTION_SECTION_TITLE" = "Extraction en cours";
 
 /* No comment provided by engineer. */
 "failed" = "échoué";
