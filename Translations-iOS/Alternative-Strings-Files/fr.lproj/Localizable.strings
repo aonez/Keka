@@ -329,7 +329,7 @@
 "The folder is empty" = "Le dossier est vide";
 
 /* No comment provided by engineer. */
-"The slower the level the more compression can be acomplished. The store level does no compression at all, only archives the contents." = "Plus le niveau est lent, plus il y aura de compression. Le niveau \"Non-compressé\" n'effectue aucune compression, il archive seulement le contenu.";
+"The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "Plus le niveau est lent, plus il y aura de compression. Le niveau \"Non-compressé\" n'effectue aucune compression, il archive seulement le contenu.";
 
 /* No comment provided by engineer. */
 "To extract" = "A extraire";

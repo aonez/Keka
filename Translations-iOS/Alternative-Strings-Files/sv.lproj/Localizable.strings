@@ -1,0 +1,384 @@
+/* No comment provided by engineer. */
+"%@ item" = "%@ objekt";
+
+/* No comment provided by engineer. */
+"%@ items" = "%@ objekt";
+
+/* No comment provided by engineer. */
+"%@ of %@ item" = "%@ av %@ objekt";
+
+/* No comment provided by engineer. */
+"%@ of %@ items" = "%@ av %@ objekt";
+
+/* No comment provided by engineer. */
+"About" = "Om";
+
+/* No comment provided by engineer. */
+"Actions" = "Åtgärder";
+
+/* No comment provided by engineer. */
+"Add a File" = "Lägg till Fil";
+
+/* No comment provided by engineer. */
+"Add a Folder" = "Lägg till Mapp";
+
+/* No comment provided by engineer. */
+"Add some contents using the %@ button or the %@ and %@ buttons in the toolbar." = "Lägg till innehåll med knappen %@ eller knapparna %@ och %@ i verktygsraden.";
+
+/* No comment provided by engineer. */
+"Allocated size" = "Allokerad storlek";
+
+/* No comment provided by engineer. */
+"Ask" = "Fråga";
+
+/* Browse, operation description. */
+"BROWSE_OPERATION" = "Bläddra";
+
+/* Browsing, operation running. */
+"BROWSE_RUNNING" = "Bläddrar";
+
+/* Browsing, tasks section title. */
+"BROWSE_SECTION_TITLE" = "Bläddrar";
+
+/* Browser settings title. */
+"Browser" = "Bläddrare";
+
+/* "by aone" part from "Made with love by aone". */
+"by %@" = "av %@";
+
+/* No comment provided by engineer. */
+"Calculate" = "Beräkna";
+
+/* No comment provided by engineer. */
+"Cancel" = "Avbryt";
+
+/* No comment provided by engineer. */
+"Choose" = "Välj";
+
+/* No comment provided by engineer. */
+"Clear Cache" = "Töm cache";
+
+/* No comment provided by engineer. */
+"Clear Cache Contents" = "Töm cache-innehåll";
+
+/* No comment provided by engineer. */
+"Close" = "Stäng";
+
+/* No comment provided by engineer. */
+"Compress" = "Komprimera";
+
+/* No comment provided by engineer. */
+"compressed" = "komprimerad";
+
+/* No comment provided by engineer. */
+"Compressed size" = "Komprimerad storlek";
+
+/* Compression settings title. */
+"Compression" = "Komprimering";
+
+/* No comment provided by engineer. */
+"compression failed" = "komprimering misslyckades";
+
+/* No comment provided by engineer. */
+"Compression Level:" = "Komprimeringsnivå:";
+
+/* Compression, operation description. */
+"COMPRESSION_OPERATION" = "Komprimering";
+
+/* Compressing, operation running. */
+"COMPRESSION_RUNNING" = "Komprimerar";
+
+/* Compressing, tasks section title. */
+"COMPRESSION_SECTION_TITLE" = "Komprimerar";
+
+/* No comment provided by engineer. */
+"Contents" = "Innehåll";
+
+/* No comment provided by engineer. */
+"Contents: %@, Size: %@" = "Innehåll: %@, Storlek: %@";
+
+/* No comment provided by engineer. */
+"Created" = "Skapad";
+
+/* No comment provided by engineer. */
+"Custom..." = "Anpassad...";
+
+/* No comment provided by engineer. */
+"Date" = "Datum";
+
+/* No comment provided by engineer. */
+"Default Compression Level" = "Standard-komprimeringsnivå";
+
+/* No comment provided by engineer. */
+"Default Destination" = "Standarddestination";
+
+/* No comment provided by engineer. */
+"Default Format" = "Standardformat";
+
+/* No comment provided by engineer. */
+"Default Tap Action" = "Standard-tryckåtgärd";
+
+/* No comment provided by engineer. */
+"Delete" = "Radera";
+
+/* No comment provided by engineer. */
+"Destination" = "Destination";
+
+/* No comment provided by engineer. */
+"Disable \"%@\" if you prefer to use a default configuration." = "Inaktivera \"%@\" om du föredrar att använda en standardkonfiguration.";
+
+/* No comment provided by engineer. */
+"Dismiss" = "Avfärda";
+
+/* No comment provided by engineer. */
+"done" = "klar";
+
+/* No comment provided by engineer. */
+"Done" = "Klar";
+
+/* No comment provided by engineer. */
+"Edit" = "Redigera";
+
+/* No comment provided by engineer. */
+"Encrypt Filenames" = "Kryptera filnamn";
+
+/* No comment provided by engineer. */
+"Encrypt Filenames if Possible" = "Kryptera filnamn om möjligt";
+
+/* No comment provided by engineer. */
+"Enter the password for the file\n\"%@\"" = "Ange lösenordet för filen\n\"%@\"";
+
+/* No comment provided by engineer. */
+"Extract" = "Extrahera";
+
+/* No comment provided by engineer. */
+"Extract the file" = "Extrahera filen";
+
+/* No comment provided by engineer. */
+"extracted" = "extraherad";
+
+/* Extraction settings title. */
+"Extraction" = "Extrahering";
+
+/* No comment provided by engineer. */
+"extraction failed" = "extrahering misslyckades";
+
+/* Extraction, operation description. */
+"EXTRACTION_OPERATION" = "Extrahering";
+
+/* Extracting, operation running. */
+"EXTRACTION_RUNNING" = "Extraherar";
+
+/* Extracting, tasks section title. */
+"EXTRACTION_SECTION_TITLE" = "Extraherar";
+
+/* No comment provided by engineer. */
+"failed" = "misslyckades";
+
+/* No comment provided by engineer. */
+"Fast" = "Snabb";
+
+/* No comment provided by engineer. */
+"Fastest" = "Snabbast";
+
+/* No comment provided by engineer. */
+"Feedback" = "Feedback";
+
+/* No comment provided by engineer. */
+"File not informed properly, try again." = "File informerades inte korrekt, försök igen.";
+
+/* No comment provided by engineer. */
+"Format" = "Format";
+
+/* General settings title. */
+"General" = "Allmänt";
+
+/* No comment provided by engineer. */
+"Get Info" = "Visa info";
+
+/* No comment provided by engineer. */
+"Hide Password by Default" = "Dölj lösenord som standard";
+
+/* No comment provided by engineer. */
+"If you got here, please get in touch with the developers." = "Om du ser det här, vänligen kontakta utvecklarna.";
+
+/* No comment provided by engineer. */
+"Information" = "Information";
+
+/* No comment provided by engineer. */
+"Keka's Folder" = "Kekas mapp";
+
+/* No comment provided by engineer. */
+"Keka's icon" = "Kekas ikon";
+
+/* No comment provided by engineer. */
+"Kind" = "Filklass";
+
+/* No comment provided by engineer. */
+"Last opened" = "Senast öppnad";
+
+/* No comment provided by engineer. */
+"Loading" = "Laddar";
+
+/* "Made with" part from "Made with love by aone". */
+"Made with" = "Gjord med";
+
+/* No comment provided by engineer. */
+"Modified" = "Modifierad";
+
+/* No comment provided by engineer. */
+"Name" = "Namn";
+
+/* No comment provided by engineer. */
+"No contents" = "Inget innehåll";
+
+/* No comment provided by engineer. */
+"No contents available" = "Inget tillgängligt innehåll";
+
+/* No comment provided by engineer. */
+"No files to extract" = "Inga filer att extrahera";
+
+/* No comment provided by engineer. */
+"None" = "Inget";
+
+/* No comment provided by engineer. */
+"Normal" = "Normal";
+
+/* No comment provided by engineer. */
+"Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files." = "Inte alla plattformar stöder kryptering med AES-256. Du kan behöva en tredjepartsapplikation (som Keka) för att öppna dessa komprimerade filer.";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Open" = "Öppna";
+
+/* No comment provided by engineer. */
+"Password" = "Lösenord";
+
+/* No comment provided by engineer. */
+"Password needed" = "Lösenord behövs";
+
+/* No comment provided by engineer. */
+"Please enter the password for:" = "Vänligen ange lösenordet för:";
+
+/* No comment provided by engineer. */
+"Please select the encoding for:" = "Vänligen välj kodningen för:";
+
+/* No comment provided by engineer. */
+"Preview" = "Förhandsvisning";
+
+/* No comment provided by engineer. */
+"Quick Look" = "Quick Look";
+
+/* No comment provided by engineer. */
+"Remember Last Used Options" = "Kom ihåg senast använda tillval";
+
+/* No comment provided by engineer. */
+"Remove from cache" = "Ta bort från cache";
+
+/* No comment provided by engineer. */
+"Reset" = "Nollställ";
+
+/* No comment provided by engineer. */
+"Reset All Settings" = "Nollställ alla inställningar";
+
+/* No comment provided by engineer. */
+"Review" = "Granska";
+
+/* No comment provided by engineer. */
+"Save" = "Spara";
+
+/* No comment provided by engineer. */
+"Settings" = "Inställningar";
+
+/* No comment provided by engineer. */
+"Share" = "Dela";
+
+/* No comment provided by engineer. */
+"Size" = "Storlek";
+
+/* No comment provided by engineer. */
+"Slow" = "Långsam";
+
+/* No comment provided by engineer. */
+"Slowest" = "Långsammast";
+
+/* No comment provided by engineer. */
+"Store" = "Lagra";
+
+/* No comment provided by engineer. */
+"The %@ of space available in the destination might not be enough for compressing the estimated %@." = "Det %@ tillgängliga utrymmet i destinationen är kanske inte tillräckligt för att komprimera det beräknade %@.";
+
+/* No comment provided by engineer. */
+"The changes could not be saved" = "Ändringarna kunde inte sparas";
+
+/* No comment provided by engineer. */
+"The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "Komprimeringen kan behöva mer minne än tillgängligt (%@) och kan nog inte slutföras framgångsrikt. Kommer att begränsas till 1 tråd.";
+
+/* No comment provided by engineer. */
+"The compression will be limited to %lld thread/s due to memory constraints." = "Komprimeringen blir begränsad till %lld tråd/ar av minnesbegränsningar.";
+
+/* No comment provided by engineer. */
+"The destination has %@ of space available." = "Destinationen har %@ ledigt utrymme.";
+
+/* No comment provided by engineer. */
+"The file manager for iOS and macOS" = "Filhanteraren för iOS och macOS";
+
+/* No comment provided by engineer. */
+"The folder is empty" = "Mappen är tom";
+
+/* No comment provided by engineer. */
+"The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "Ju långsammare nivå desto mer komprimering kan utföras. Nivån Lagra gör ingen komprimering alls, endast arkivering av innehållet.";
+
+/* No comment provided by engineer. */
+"To extract" = "Att extrahera";
+
+/* No comment provided by engineer. */
+"Total size" = "Total storlek";
+
+/* No comment provided by engineer. */
+"Translated by %@" = "Översatt av %@";
+
+/* The translator link, if any. Can be a mail address or a website. */
+"TRANSLATOR_LINK" = "https://twitter.com/wileryd";
+
+/* The translator name, if any. */
+"TRANSLATOR_NAME" = "Linus Wileryd";
+
+/* No comment provided by engineer. */
+"Type" = "Typ";
+
+/* No comment provided by engineer. */
+"Unable to apply the app icon" = "Kan inte applicera app-ikonen";
+
+/* No comment provided by engineer. */
+"Unable to browse \"%@\"" = "Kan inte bläddra \"%@\"";
+
+/* No comment provided by engineer. */
+"Unable to determine the available space." = "Kan inte avgöra ledigt utrymme.";
+
+/* No comment provided by engineer. */
+"Unable to get encoding data" = "Kan inte hämta kodningsdata";
+
+/* No comment provided by engineer. */
+"Use AES-256 Encryption" = "Använd AES-256-kryptering";
+
+/* No comment provided by engineer. */
+"Use AES-256 if Available" = "Använd AES-256 om tillgängligt";
+
+/* No comment provided by engineer. */
+"Use special coloring for known formats" = "Använd särskild färgning för kända format";
+
+/* No comment provided by engineer. */
+"Use UTF-8 Encoding if Available" = "Använd UTF-8-kodning om tillgängligt";
+
+/* No comment provided by engineer. */
+"Welcome" = "Välkommen";
+
+/* The "Welcome to Keka" title. */
+"Welcome to %@" = "Välkommen till %@";
+
+/* No comment provided by engineer. */
+"Where" = "Var";
+
