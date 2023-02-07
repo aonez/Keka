@@ -1,0 +1,383 @@
+/* No comment provided by engineer. */
+"%@ item" = "%@ 項目";
+
+/* No comment provided by engineer. */
+"%@ items" = "%@ 項目";
+
+/* No comment provided by engineer. */
+"%@ of %@ item" = "%@ 之 %@ 項目";
+
+/* No comment provided by engineer. */
+"%@ of %@ items" = "%@ 之 %@ 項目";
+
+/* No comment provided by engineer. */
+"About" = "關於";
+
+/* No comment provided by engineer. */
+"Actions" = "操作";
+
+/* No comment provided by engineer. */
+"Add a File" = "添加檔案";
+
+/* No comment provided by engineer. */
+"Add a Folder" = "添加資料夾";
+
+/* No comment provided by engineer. */
+"Add some contents using the %@ button or the %@ and %@ buttons in the toolbar." = "使用 %@ 或工具列上的 %@ 和 %@ 按鈕添加內容。";
+
+/* No comment provided by engineer. */
+"Allocated size" = "已分配大小";
+
+/* No comment provided by engineer. */
+"Ask" = "詢問";
+
+/* Browse, operation description. */
+"BROWSE_OPERATION" = "開啟";
+
+/* Browsing, operation running. */
+"BROWSE_RUNNING" = "開啟中";
+
+/* Browsing, tasks section title. */
+"BROWSE_SECTION_TITLE" = "已開啟";
+
+/* Browser settings title. */
+"Browser" = "開啟時";
+
+/* "by aone" part from "Made with love by aone". */
+"by %@" = "由 %@ 提供";
+
+/* No comment provided by engineer. */
+"Calculate" = "計算";
+
+/* No comment provided by engineer. */
+"Cancel" = "取消";
+
+/* No comment provided by engineer. */
+"Choose" = "選擇";
+
+/* No comment provided by engineer. */
+"Clear Cache" = "清除快取";
+
+/* No comment provided by engineer. */
+"Clear Cache Contents" = "清空快取內容";
+
+/* No comment provided by engineer. */
+"Close" = "關閉";
+
+/* No comment provided by engineer. */
+"Compress" = "壓縮";
+
+/* No comment provided by engineer. */
+"compressed" = "已壓縮";
+
+/* No comment provided by engineer. */
+"Compressed size" = "壓縮後大小";
+
+/* Compression settings title. */
+"Compression" = "壓縮設定";
+
+/* No comment provided by engineer. */
+"compression failed" = "壓縮失敗";
+
+/* No comment provided by engineer. */
+"Compression Level:" = "壓縮等級：";
+
+/* Compression, operation description. */
+"COMPRESSION_OPERATION" = "壓縮";
+
+/* Compressing, operation running. */
+"COMPRESSION_RUNNING" = "正在壓縮";
+
+/* Compressing, tasks section title. */
+"COMPRESSION_SECTION_TITLE" = "壓縮任務";
+
+/* No comment provided by engineer. */
+"Contents" = "內容";
+
+/* No comment provided by engineer. */
+"Contents: %@, Size: %@" = "內容：%@，大小：%@";
+
+/* No comment provided by engineer. */
+"Created" = "創建日期";
+
+/* No comment provided by engineer. */
+"Custom..." = "自訂...";
+
+/* No comment provided by engineer. */
+"Date" = "日期";
+
+/* No comment provided by engineer. */
+"Default Compression Level" = "預設壓縮等級";
+
+/* No comment provided by engineer. */
+"Default Destination" = "預設目標位置";
+
+/* No comment provided by engineer. */
+"Default Format" = "預設格式";
+
+/* No comment provided by engineer. */
+"Default Tap Action" = "預設點擊動作";
+
+/* No comment provided by engineer. */
+"Delete" = "刪除";
+
+/* No comment provided by engineer. */
+"Destination" = "目的地";
+
+/* No comment provided by engineer. */
+"Disable \"%@\" if you prefer to use a default configuration." = "如果您希望使用預設設定，請停用\"%@\"。";
+
+/* No comment provided by engineer. */
+"Dismiss" = "取消";
+
+/* No comment provided by engineer. */
+"done" = "完成";
+
+/* No comment provided by engineer. */
+"Done" = "完成";
+
+/* No comment provided by engineer. */
+"Edit" = "編輯";
+
+/* No comment provided by engineer. */
+"Encrypt Filenames" = "加密檔名";
+
+/* No comment provided by engineer. */
+"Encrypt Filenames if Possible" = "如果可以就加密檔名";
+
+/* No comment provided by engineer. */
+"Enter the password for the file\n\"%@\"" = "輸入檔案的密碼\n\"%@\"";
+
+/* No comment provided by engineer. */
+"Extract" = "提取";
+
+/* No comment provided by engineer. */
+"Extract the file" = "提取檔案";
+
+/* No comment provided by engineer. */
+"extracted" = "已提取";
+
+/* Extraction settings title. */
+"Extraction" = "提取";
+
+/* No comment provided by engineer. */
+"extraction failed" = "提取失敗";
+
+/* Extraction, operation description. */
+"EXTRACTION_OPERATION" = "提取";
+
+/* Extracting, operation running. */
+"EXTRACTION_RUNNING" = "正在提取";
+
+/* Extracting, tasks section title. */
+"EXTRACTION_SECTION_TITLE" = "提取任務";
+
+/* No comment provided by engineer. */
+"failed" = "失敗";
+
+/* No comment provided by engineer. */
+"Fast" = "快";
+
+/* No comment provided by engineer. */
+"Fastest" = "最快";
+
+/* No comment provided by engineer. */
+"Feedback" = "回饋";
+
+/* No comment provided by engineer. */
+"File not informed properly, try again." = "檔案沒有正確告知，請再試一次。";
+
+/* No comment provided by engineer. */
+"Format" = "格式";
+
+/* General settings title. */
+"General" = "一般";
+
+/* No comment provided by engineer. */
+"Get Info" = "取得資訊";
+
+/* No comment provided by engineer. */
+"Hide Password by Default" = "預設隱藏密碼";
+
+/* No comment provided by engineer. */
+"If you got here, please get in touch with the developers." = "如果你已到達此處，請與開發人員聯繫。";
+
+/* No comment provided by engineer. */
+"Information" = "資訊";
+
+/* No comment provided by engineer. */
+"Keka's Folder" = "Keka的資料夾";
+
+/* No comment provided by engineer. */
+"Keka's icon" = "Keka的圖示";
+
+/* No comment provided by engineer. */
+"Kind" = "類別";
+
+/* No comment provided by engineer. */
+"Last opened" = "最後開啟";
+
+/* No comment provided by engineer. */
+"Loading" = "載入中";
+
+/* "Made with" part from "Made with love by aone". */
+"Made with" = "製作自";
+
+/* No comment provided by engineer. */
+"Modified" = "修改";
+
+/* No comment provided by engineer. */
+"Name" = "名稱";
+
+/* No comment provided by engineer. */
+"No contents" = "沒有內容";
+
+/* No comment provided by engineer. */
+"No contents available" = "沒有可用的內容";
+
+/* No comment provided by engineer. */
+"No files to extract" = "沒有檔案可以解壓縮";
+
+/* No comment provided by engineer. */
+"None" = "無";
+
+/* No comment provided by engineer. */
+"Normal" = "正常";
+
+/* No comment provided by engineer. */
+"Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files." = "不是所有的平台都支援 AES-256 加密。你可能需要使用第三方應用程式（如 Keka）來開啟這些壓縮檔案。";
+
+/* No comment provided by engineer. */
+"OK" = "完成";
+
+/* No comment provided by engineer. */
+"Open" = "開啟";
+
+/* No comment provided by engineer. */
+"Password" = "密碼";
+
+/* No comment provided by engineer. */
+"Password needed" = "需要密碼";
+
+/* No comment provided by engineer. */
+"Please enter the password for:" = "請輸入密碼：";
+
+/* No comment provided by engineer. */
+"Please select the encoding for:" = "請選擇編碼：";
+
+/* No comment provided by engineer. */
+"Preview" = "預覽";
+
+/* No comment provided by engineer. */
+"Quick Look" = "快速預覽";
+
+/* No comment provided by engineer. */
+"Remember Last Used Options" = "記住上次使用的選項";
+
+/* No comment provided by engineer. */
+"Remove from cache" = "從快取中刪除";
+
+/* No comment provided by engineer. */
+"Reset" = "重設";
+
+/* No comment provided by engineer. */
+"Reset All Settings" = "重設所有設定";
+
+/* No comment provided by engineer. */
+"Review" = "評價";
+
+/* No comment provided by engineer. */
+"Save" = "儲存";
+
+/* No comment provided by engineer. */
+"Settings" = "設定";
+
+/* No comment provided by engineer. */
+"Share" = "分享";
+
+/* No comment provided by engineer. */
+"Size" = "大小";
+
+/* No comment provided by engineer. */
+"Slow" = "慢";
+
+/* No comment provided by engineer. */
+"Slowest" = "最慢";
+
+/* No comment provided by engineer. */
+"Store" = "存儲";
+
+/* No comment provided by engineer. */
+"The %@ of space available in the destination might not be enough for compressing the estimated %@." = "目的地中可用空間的%@可能不足以壓縮估計的%@。";
+
+/* No comment provided by engineer. */
+"The changes could not be saved" = "更改不能被保存";
+
+/* No comment provided by engineer. */
+"The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "壓縮可能需要比可用內存（%@）更多的內存，並且可能無法成功完成。將限制在1個執行緒。";
+
+/* No comment provided by engineer. */
+"The compression will be limited to %lld thread/s due to memory constraints." = "由於內存限制，壓縮將限制在%lld個執行緒/s。";
+
+/* No comment provided by engineer. */
+"The destination has %@ of space available." = "目的地有%@的可用空間。";
+
+/* No comment provided by engineer. */
+"The file manager for iOS and macOS" = "iOS和macOS的文件管理器";
+
+/* No comment provided by engineer. */
+"The folder is empty" = "文件夾是空的";
+
+/* No comment provided by engineer. */
+"The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "压缩级别越低，压缩效果越好。「存储」级别不压缩，仅存档内容。";
+
+/* No comment provided by engineer. */
+"To extract" = "提取";
+
+/* No comment provided by engineer. */
+"Total size" = "总大小";
+
+/* No comment provided by engineer. */
+"Translated by %@" = "翻译者%@";
+
+/* The translator link, if any. Can be a mail address or a website. */
+"TRANSLATOR_LINK" = "https://ios.keka.io";
+
+/* The translator name, if any. */
+"TRANSLATOR_NAME" = "aone";
+
+/* No comment provided by engineer. */
+"Type" = "類型";
+
+/* No comment provided by engineer. */
+"Unable to apply the app icon" = "無法套用應用程式圖示";
+
+/* No comment provided by engineer. */
+"Unable to browse \"%@\"" = "無法瀏覽 \"%@\"";
+
+/* No comment provided by engineer. */
+"Unable to determine the available space." = "無法確定可用空間。";
+
+/* No comment provided by engineer. */
+"Unable to get encoding data" = "無法取得編碼資料";
+
+/* No comment provided by engineer. */
+"Use AES-256 Encryption" = "使用 AES-256 加密";
+
+/* No comment provided by engineer. */
+"Use AES-256 if Available" = "如果可用就使用 AES-256";
+
+/* No comment provided by engineer. */
+"Use special coloring for known formats" = "使用特定的顏色顯示已知格式";
+
+/* No comment provided by engineer. */
+"Use UTF-8 Encoding if Available" = "如果可用就使用 UTF-8 編碼";
+
+/* No comment provided by engineer. */
+"Welcome" = "歡迎";
+
+/* The "Welcome to Keka" title. */
+"Welcome to %@" = "歡迎來到 %@";
+
+/* No comment provided by engineer. */
+"Where" = "在哪裡";
