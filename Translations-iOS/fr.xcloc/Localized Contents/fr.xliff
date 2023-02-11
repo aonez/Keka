@@ -794,7 +794,7 @@
       </trans-unit>
       <trans-unit id="The compression will be limited to %lld thread/s due to memory constraints." xml:space="preserve">
         <source>The compression will be limited to %lld thread/s due to memory constraints.</source>
-        <target>La compression sera limitée à %lld fil/s à cause de contraintes mémoire.</target>
+        <target>La compression sera limitée à %lld fils à cause de contraintes mémoire.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The destination has %@ of space available." xml:space="preserve">
