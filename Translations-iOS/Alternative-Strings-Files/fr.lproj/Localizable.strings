@@ -317,7 +317,7 @@
 "The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "La compression peut nécessiter plus de mémoire que les (%@) disponibles et peut ne pas compléter correctement. Sera limitée à 1 fil";
 
 /* No comment provided by engineer. */
-"The compression will be limited to %lld thread/s due to memory constraints." = "La compression sera limitée à %lld fil/s à cause de contraintes mémoire.";
+"The compression will be limited to %lld thread/s due to memory constraints." = "La compression sera limitée à %lld fils à cause de contraintes mémoire.";
 
 /* No comment provided by engineer. */
 "The destination has %@ of space available." = "La destination a %@ d'espace libre.";
