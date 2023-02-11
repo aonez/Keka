@@ -352,7 +352,7 @@
       </trans-unit>
       <trans-unit id="BROWSE_SECTION_TITLE" xml:space="preserve">
         <source>Browsing</source>
-        <target>Ouverture</target>
+        <target>Exploration</target>
         <note>Browsing, tasks section title.</note>
       </trans-unit>
       <trans-unit id="Browser" xml:space="preserve">
