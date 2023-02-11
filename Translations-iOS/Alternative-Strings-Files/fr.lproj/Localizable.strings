@@ -38,7 +38,7 @@
 "BROWSE_RUNNING" = "Ouverture";
 
 /* Browsing, tasks section title. */
-"BROWSE_SECTION_TITLE" = "Ouverture";
+"BROWSE_SECTION_TITLE" = "Exploration";
 
 /* Browser settings title. */
 "Browser" = "Explorateur";
@@ -293,7 +293,7 @@
 "Settings" = "Paramètres";
 
 /* No comment provided by engineer. */
-"Share" = "Partage";
+"Share" = "Partager";
 
 /* No comment provided by engineer. */
 "Size" = "Taille";
