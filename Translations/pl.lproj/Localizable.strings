@@ -63,9 +63,9 @@
 "Creating \"%@\"" = "Tworzenie pliku \"%@\"";
 "Preparing extraction..." = "Przygotowanie do wyodrębniania";
 "Choose a folder to extract this file" = "Wybierz folder docelowy";
-"Choose where do you want to extract \"%@\"" = "Wybierz, gdzie chcesz wyodrębnić \"%@\"";
-"Select all the volumes from \"%@\" or the folder that contains them" = "Wybierz wszystkie woluminy na \"%@\" lub folder zawierający";
-"Select the folder that contains \"%@\"" = "Wybierz folder zawierający \"%@\"";
+"Choose where do you want to extract \"%@\"." = "Wybierz, gdzie chcesz wyodrębnić \"%@\".";
+"Select all the volumes from \"%@\" or the folder that contains them." = "Wybierz wszystkie woluminy na \"%@\" lub folder zawierający.";
+"Select the folder that contains \"%@\"." = "Wybierz folder zawierający \"%@\".";
 "Extraction of \"%@\" failed" = "Wyodrębnianie \"%@\" zakończone niepowodzeniem";
 "Extraction of \"%@\" completed" = "Wyodrębnianie \"%@\" zakończone";
 "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "Wyodrębnianie zostało zakończone, ale kwarantanna nie została zastosowana.\nZainstaluj ponownie program Keka, aby rozwiązać ten problem.";

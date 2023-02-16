@@ -63,9 +63,9 @@
 "Creating \"%@\"" = "Создание \"%@\"";
 "Preparing extraction..." = "Подготовка распаковки...";
 "Choose a folder to extract this file" = "Укажите папку для распаковки файла";
-"Choose where do you want to extract \"%@\"" = "Выберите, куда распаковать \"%@\"";
-"Select all the volumes from \"%@\" or the folder that contains them" = "Выберите все тома \"%@\" или содержащую их папку";
-"Select the folder that contains \"%@\"" = "Выберите папку, которая содержит \"%@\"";
+"Choose where do you want to extract \"%@\"." = "Выберите, куда распаковать \"%@\".";
+"Select all the volumes from \"%@\" or the folder that contains them." = "Выберите все тома \"%@\" или содержащую их папку.";
+"Select the folder that contains \"%@\"." = "Выберите папку, которая содержит \"%@\".";
 "Extraction of \"%@\" failed" = "Не удалось распаковать \"%@\"";
 "Extraction of \"%@\" completed" = "Распаковка \"%@\" завершена";
 "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "Распаковка завершена, но не удалось применить карантин.\nПожалуйста, переустановите Keka чтобы исправить эту проблему";

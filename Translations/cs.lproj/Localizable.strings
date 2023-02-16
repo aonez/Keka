@@ -63,9 +63,9 @@
 "Creating \"%@\"" = "Vytváření \"%@\"";
 "Preparing extraction..." = "Připravujeme rozbalení...";
 "Choose a folder to extract this file" = "Před rozbalením vyberte složku";
-"Choose where do you want to extract \"%@\"" = "Vyberte složku, do které chcete \"%@\" rozbalit";
-"Select all the volumes from \"%@\" or the folder that contains them" = "Vyberte z \"%@\" všechny svazky, nebo složku, která tyto svazky obsahuje";
-"Select the folder that contains \"%@\"" = "Vyberte složku, ve které se \"%@\" nachází";
+"Choose where do you want to extract \"%@\"." = "Vyberte složku, do které chcete \"%@\" rozbalit.";
+"Select all the volumes from \"%@\" or the folder that contains them." = "Vyberte z \"%@\" všechny svazky, nebo složku, která tyto svazky obsahuje.";
+"Select the folder that contains \"%@\"." = "Vyberte složku, ve které se \"%@\" nachází.";
 "Extraction of \"%@\" failed" = "Rozbalování \"%@\" selhalo";
 "Extraction of \"%@\" completed" = "Extraction of \"%@\" completed";
 "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue";

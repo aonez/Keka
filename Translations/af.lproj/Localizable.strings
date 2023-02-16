@@ -63,9 +63,9 @@
 "Creating \"%@\"" = "Skep tans \“%@\”";
 "Preparing extraction..." = "Ekstrahering word voorberei…";
 "Choose a folder to extract this file" = "Kies ’n vouer om die lêer heen te ekstraheer";
-"Choose where do you want to extract \"%@\"" = "Kies waarheen u \“%@\” wil ekstraheer";
-"Select all the volumes from \"%@\" or the folder that contains them" = "Kies al die volumes van \“%@\” of die vouer waarin hulle is";
-"Select the folder that contains \"%@\"" = "Kies die vouer waarin \“%@\” lê";
+"Choose where do you want to extract \"%@\"." = "Kies waarheen u \“%@\” wil ekstraheer.";
+"Select all the volumes from \"%@\" or the folder that contains them." = "Kies al die volumes van \“%@\” of die vouer waarin hulle is.";
+"Select the folder that contains \"%@\"." = "Kies die vouer waarin \“%@\” lê.";
 "Extraction of \"%@\" failed" = "Ekstraheer van \“%@\” het misluk";
 "Extraction of \"%@\" completed" = "Ekstraheer van \"%@\" voltooi";
 "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "Ekstrahering is voltooi maar kwarantyn kon nie toegepas word nie.\nHerinstalleer Keka asb. om hierdie probleem op te los";

@@ -63,9 +63,9 @@
 "Creating \"%@\"" = "Oppretter \"%@\"";
 "Preparing extraction..." = "Forbereder utpakking…";
 "Choose a folder to extract this file" = "Velg en mappe å pakke ut denne filen til";
-"Choose where do you want to extract \"%@\"" = "Velg hvor du vil pakke ut \"%@\"";
-"Select all the volumes from \"%@\" or the folder that contains them" = "Velg alle volumene fra \"%@\", eller mappen som inneholder dem";
-"Select the folder that contains \"%@\"" = "Velg mappen som inneholder \"%@\"";
+"Choose where do you want to extract \"%@\"." = "Velg hvor du vil pakke ut \"%@\".";
+"Select all the volumes from \"%@\" or the folder that contains them." = "Velg alle volumene fra \"%@\", eller mappen som inneholder dem.";
+"Select the folder that contains \"%@\"." = "Velg mappen som inneholder \"%@\".";
 "Extraction of \"%@\" failed" = "Utpakking av \"%@\" feilet";
 "Extraction of \"%@\" completed" = "Extraction of \"%@\" completed";
 "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue";

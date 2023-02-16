@@ -63,9 +63,9 @@
 "Creating \"%@\"" = "Erstelle „%@“";
 "Preparing extraction..." = "Entpacken vorbereiten …";
 "Choose a folder to extract this file" = "Wähle einen Ordner für die entpackten Dateien, um die Archivdatei zu entpacken";
-"Choose where do you want to extract \"%@\"" = "Wähle, wohin du „%@“ entpacken willst";
-"Select all the volumes from \"%@\" or the folder that contains them" = "Wähle alle Volumes in „%@“ oder den Ordner, welcher sie enthält";
-"Select the folder that contains \"%@\"" = "Wähle den Ordner, welcher „%@“ enthält";
+"Choose where do you want to extract \"%@\"." = "Wähle, wohin du „%@“ entpacken willst.";
+"Select all the volumes from \"%@\" or the folder that contains them." = "Wähle alle Volumes in „%@“ oder den Ordner, welcher sie enthält.";
+"Select the folder that contains \"%@\"." = "Wähle den Ordner, welcher „%@“ enthält.";
 "Extraction of \"%@\" failed" = "Entpacken von „%@“ fehlgeschlagen";
 "Extraction of \"%@\" completed" = "Entpacken von „%@“ abgeschlossen";
 "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "Die Entpackung wurde abgeschlossen, aber die Quarantäne wurde nicht angewendet.\nBitte installiere Keka neu, um dieses Problem zu beheben.";

@@ -63,9 +63,9 @@
 "Creating \"%@\"" = "Aanmaken van \"%@\"";
 "Preparing extraction..." = "Voorbereiden van uitpakken…";
 "Choose a folder to extract this file" = "Kies een map om dit bestand uit te pakken";
-"Choose where do you want to extract \"%@\"" = "Kies waar je uit wil pakken \"%@\"";
-"Select all the volumes from \"%@\" or the folder that contains them" = "Selecteer alle volumen van \"%@\" of die map die ze bevat";
-"Select the folder that contains \"%@\"" = "Selecteer de map die bevat \"%@\"";
+"Choose where do you want to extract \"%@\"." = "Kies waar je uit wil pakken \"%@\".";
+"Select all the volumes from \"%@\" or the folder that contains them." = "Selecteer alle volumen van \"%@\" of die map die ze bevat.";
+"Select the folder that contains \"%@\"." = "Selecteer de map die bevat \"%@\".";
 "Extraction of \"%@\" failed" = "Uitpakken van \"%@\" mislukt";
 "Extraction of \"%@\" completed" = "Uitpakken van \"%@\" voltooid";
 "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "Uitpakken is gelukt maar quarantine kon niet toegepast worden.\nInstalleer Keka alstublieft opnieuw om dit op te lossen";

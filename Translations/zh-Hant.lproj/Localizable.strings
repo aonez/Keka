@@ -63,9 +63,9 @@
 "Creating \"%@\"" = "正在建立「%@」";
 "Preparing extraction..." = "準備解壓縮中⋯⋯";
 "Choose a folder to extract this file" = "選擇此檔案的解壓縮目的檔案夾";
-"Choose where do you want to extract \"%@\"" = "選擇「%@」的解壓縮位置";
-"Select all the volumes from \"%@\" or the folder that contains them" = "選擇「%@」的所有卷宗，或是包含這些卷宗的檔案夾";
-"Select the folder that contains \"%@\"" = "選擇包含「%@」的檔案夾";
+"Choose where do you want to extract \"%@\"." = "選擇「%@」的解壓縮位置。";
+"Select all the volumes from \"%@\" or the folder that contains them." = "選擇「%@」的所有卷宗，或是包含這些卷宗的檔案夾。";
+"Select the folder that contains \"%@\"." = "選擇包含「%@」的檔案夾。";
 "Extraction of \"%@\" failed" = "解壓縮「%@」失敗";
 "Extraction of \"%@\" completed" = "「%@」解壓縮完成";
 "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "解壓縮完成，但未套用 quarantine 屬性。\n請重新安裝 Keka 以解決本問題";

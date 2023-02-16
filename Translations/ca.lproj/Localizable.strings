@@ -63,9 +63,9 @@
 "Creating \"%@\"" = "Creació de: «%@»";
 "Preparing extraction..." = "S'està preparant l'extracció…";
 "Choose a folder to extract this file" = "Trieu la carpeta on extreure l'arxiu";
-"Choose where do you want to extract \"%@\"" = "Trieu la carpeta on extreure l'arxiu \"%@\"";
-"Select all the volumes from \"%@\" or the folder that contains them" = "Trieu tots els volums de \"%@\" o la carpeta que els conté";
-"Select the folder that contains \"%@\"" = "Trieu la carpeta que conté \"%@\"";
+"Choose where do you want to extract \"%@\"." = "Trieu la carpeta on extreure l'arxiu \"%@\".";
+"Select all the volumes from \"%@\" or the folder that contains them." = "Trieu tots els volums de \"%@\" o la carpeta que els conté.";
+"Select the folder that contains \"%@\"." = "Trieu la carpeta que conté \"%@\".";
 "Extraction of \"%@\" failed" = "Ha fallat l'extracció de: «%@»";
 "Extraction of \"%@\" completed" = "Extracció de \"%@\" completa";
 "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "No s'ha pogut aplicar la quarantena.\nReinstal·leu el Keka per solucionar aquest problema";

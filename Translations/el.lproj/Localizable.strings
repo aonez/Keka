@@ -63,9 +63,9 @@
 "Creating \"%@\"" = "Δημιουργία του \"%@\"";
 "Preparing extraction..." = "Προετοιμασία εξαγωγής...";
 "Choose a folder to extract this file" = "Επιλέξτε φάκελο αποθήκευσης για την αποσυμπίεση του αρχείου";
-"Choose where do you want to extract \"%@\"" = "Επιλέξτε την τοποθεσία εξαγωγής \"%@\"";
-"Select all the volumes from \"%@\" or the folder that contains them" = "Επιλέξτε όλους τους τόμους από το \"%@\" ή το φάκελο που τους περιέχει";
-"Select the folder that contains \"%@\"" = "Επέλεξε το φάκελο που περιέχει \"%@\"";
+"Choose where do you want to extract \"%@\"." = "Επιλέξτε την τοποθεσία εξαγωγής \"%@\".";
+"Select all the volumes from \"%@\" or the folder that contains them." = "Επιλέξτε όλους τους τόμους από το \"%@\" ή το φάκελο που τους περιέχει.";
+"Select the folder that contains \"%@\"." = "Επέλεξε το φάκελο που περιέχει \"%@\".";
 "Extraction of \"%@\" failed" = "Η αποσυμπίεση του \"%@\" απέτυχε";
 "Extraction of \"%@\" completed" = "Η αποσυμπίεση του \"%@\" τελείωσε";
 "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "Η εξαγωγή απέτυχε αλλά δεν εφαρμόστηκε η απομόνωση (quarantine).\nΕγκαταστήσατε ξανά από την αρχή το Keka για να διορθώσετε το πρόβλημα αυτό";

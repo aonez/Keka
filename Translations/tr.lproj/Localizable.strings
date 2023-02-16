@@ -63,9 +63,9 @@
 "Creating \"%@\"" = "\"%@\" oluşturuluyor";
 "Preparing extraction..." = "Çıkarma hazırlanıyor…";
 "Choose a folder to extract this file" = "Bu dosyayı çıkarmak için bir klasör seçin";
-"Choose where do you want to extract \"%@\"" = "Nereye çıkarmak istediğinizi seçin \"%@\"";
-"Select all the volumes from \"%@\" or the folder that contains them" = "Tüm birimleri \"%@\" veya onları içeren klasörden seçin";
-"Select the folder that contains \"%@\"" = "\"%@\" içeren klasörü seçin";
+"Choose where do you want to extract \"%@\"." = "Nereye çıkarmak istediğinizi seçin \"%@\".";
+"Select all the volumes from \"%@\" or the folder that contains them." = "Tüm birimleri \"%@\" veya onları içeren klasörden seçin.";
+"Select the folder that contains \"%@\"." = "\"%@\" içeren klasörü seçin.";
 "Extraction of \"%@\" failed" = "\"%@\" çıkarımı başarısız oldu";
 "Extraction of \"%@\" completed" = "Extraction of \"%@\" completed";
 "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue";

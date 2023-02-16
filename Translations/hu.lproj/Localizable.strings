@@ -63,9 +63,9 @@
 "Creating \"%@\"" = "\"%@\" létrehozása";
 "Preparing extraction..." = "A kicsomagolás előkészítése…";
 "Choose a folder to extract this file" = "Válasszon célmappát";
-"Choose where do you want to extract \"%@\"" = "Válasszon célmappát a(z) \"%@\" kicsomagolásához";
-"Select all the volumes from \"%@\" or the folder that contains them" = "Válassza ki az összes kötetet a(z) \"%@\"-ból/ből vagy a mappát, amely tartalmazza";
-"Select the folder that contains \"%@\"" = "Válasszon mappát, ami a következőt tartalmazza: \"%@\"";
+"Choose where do you want to extract \"%@\"." = "Válasszon célmappát a(z) \"%@\" kicsomagolásához.";
+"Select all the volumes from \"%@\" or the folder that contains them." = "Válassza ki az összes kötetet a(z) \"%@\"-ból/ből vagy a mappát, amely tartalmazza.";
+"Select the folder that contains \"%@\"." = "Válasszon mappát, ami a következőt tartalmazza: \"%@\".";
 "Extraction of \"%@\" failed" = "\"%@\" kicsomagolás sikertelen";
 "Extraction of \"%@\" completed" = "A \"%@\" kicsomagolása sikeresen véget ért";
 "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "A kicsomagolás sikeresen véget ért, de a karantén nem lett alkalmazva.\nTelepísd újra a Keka-t a probléma megoldásához";

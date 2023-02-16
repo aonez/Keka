@@ -63,9 +63,9 @@
 "Creating \"%@\"" = "Criando “%@”";
 "Preparing extraction..." = "Preparando extração…";
 "Choose a folder to extract this file" = "Escolha uma pasta para extrair este arquivo comprimido";
-"Choose where do you want to extract \"%@\"" = "Escolha onde deseja extrair “%@”";
-"Select all the volumes from \"%@\" or the folder that contains them" = "Selecione todos os volumes de “%@” ou a pasta que os contém";
-"Select the folder that contains \"%@\"" = "Selecione a pasta que contém “%@”";
+"Choose where do you want to extract \"%@\"." = "Escolha onde deseja extrair “%@”.";
+"Select all the volumes from \"%@\" or the folder that contains them." = "Selecione todos os volumes de “%@” ou a pasta que os contém.";
+"Select the folder that contains \"%@\"." = "Selecione a pasta que contém “%@”.";
 "Extraction of \"%@\" failed" = "A extração de “%@” falhou";
 "Extraction of \"%@\" completed" = "A extração de “%@” foi concluída";
 "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "A extração foi concluída, mas a quarentena não foi aplicada.\nReinstale o Keka para corrigir este problema.";
