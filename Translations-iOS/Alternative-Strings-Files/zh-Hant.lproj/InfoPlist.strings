@@ -1,53 +1,159 @@
+/* (No Comment) */
 "7Z Archive" = "7Z 封存檔";
+
+/* (No Comment) */
 "ACE Archive" = "ACE 封存檔";
+
+/* (No Comment) */
 "ALZip Archive" = "ALZip 封存檔";
-"APPX Archive" = "APPX 封存檔";
-"ARC Archive" = "ARC 封存檔";
-"ARJ Archive" = "ARJ 封存檔";
+
+/* (No Comment) */
 "Amiga DCS Disk Archive" = "Amiga DCS Disk 封存檔";
-"Amiga DMS Disk Archive" = "Amiga DMS Disk 封存檔";
+
+/* (No Comment) */
 "Amiga Disk File" = "Amiga Disk File";
+
+/* (No Comment) */
+"Amiga DMS Disk Archive" = "Amiga DMS Disk 封存檔";
+
+/* (No Comment) */
 "Amiga PackDev Disk Archive" = "Amiga PackDev Disk 封存檔";
+
+/* (No Comment) */
 "Amiga PowerPacker Archive" = "Amiga PowerPacker 封存檔";
-"Amiga Zoom Disk Archive" = "Amiga Zoom Disk 封存檔";
+
+/* (No Comment) */
 "Amiga xMash Disk Archive" = "Amiga xMash Disk 封存檔";
+
+/* (No Comment) */
+"Amiga Zoom Disk Archive" = "Amiga Zoom Disk 封存檔";
+
+/* (No Comment) */
 "Android Application Package" = "Android 應用程式套件";
+
+/* (No Comment) */
+"APPX Archive" = "APPX 封存檔";
+
+/* (No Comment) */
+"ARC Archive" = "ARC 封存檔";
+
+/* (No Comment) */
+"ARJ Archive" = "ARJ 封存檔";
+
+/* (No Comment) */
 "BZIP2 Archive" = "BZIP2 封存檔";
+
+/* (No Comment) */
 "BZIP2 Tarball Archive" = "BZIP2 封存檔";
+
+/* (No Comment) */
 "CAB Archive" = "CAB 封存檔";
+
+/* (No Comment) */
 "CDI Disk Image" = "CDI Disk Image";
+
+/* (No Comment) */
 "Compact Pro Archive" = "Compact Pro 封存檔";
+
+/* (No Comment) */
 "Compressed Amiga Disk File" = "Compressed Amiga Disk File";
+
+/* (No Comment) */
 "Deb Archive" = "Deb 封存檔";
+
+/* (No Comment) */
 "DiskDoubler Archive" = "DiskDoubler 封存檔";
+
+/* (No Comment) */
 "HA Archive" = "HA 封存檔";
+
+/* (No Comment) */
 "Keka Extraction Package" = "Keka 解壓縮套件";
+
+/* (No Comment) */
 "LBR Archive" = "LBR 封存檔";
-"LZMA File" = "LZMA File";
-"LZX Archive" = "LZX 封存檔";
+
+/* (No Comment) */
 "LhA Archive" = "LhA 封存檔";
+
+/* (No Comment) */
 "LhF Archive" = "LhF 封存檔";
+
+/* (No Comment) */
 "Linux RPM Archive" = "Linux RPM 封存檔";
+
+/* (No Comment) */
+"LZMA File" = "LZMA File";
+
+/* (No Comment) */
+"LZX Archive" = "LZX 封存檔";
+
+/* (No Comment) */
 "MDF Disk Image" = "MDF Disk Image";
+
+/* (No Comment) */
 "Microsoft MSI Installer" = "Microsoft MSI Installer";
-"NRG Disk Image" = "NRG Disk Image";
-"NSA Archive" = "NSA 封存檔";
+
+/* (No Comment) */
 "Now Compress Archive" = "Now Compress 封存檔";
-"PMA Archive" = "PMA 封存檔";
+
+/* (No Comment) */
+"NRG Disk Image" = "NRG Disk Image";
+
+/* (No Comment) */
+"NSA Archive" = "NSA 封存檔";
+
+/* (No Comment) */
 "PackIt Archive" = "PackIt 封存檔";
+
+/* (No Comment) */
 "Pax Archive" = "Pax 封存檔";
+
+/* (No Comment) */
+"PMA Archive" = "PMA 封存檔";
+
+/* (No Comment) */
 "RAR Archive" = "RAR 封存檔";
+
+/* (No Comment) */
 "SAR Archive" = "SAR 封存檔";
+
+/* (No Comment) */
 "Self-Extracting Archive" = "Self-Extracting 封存檔";
+
+/* (No Comment) */
 "Unix Compress File" = "Unix Compress File";
+
+/* (No Comment) */
 "Unix Compress Tar Archive" = "Unix Compress Tar 封存檔";
+
+/* (No Comment) */
 "WARC Web Archive" = "WARC Web 封存檔";
+
+/* (No Comment) */
 "XAR Archive" = "XAR 封存檔";
+
+/* (No Comment) */
 "XIP Archive" = "XIP 封存檔";
+
+/* (No Comment) */
 "XZ Archive" = "XZ 封存檔";
+
+/* (No Comment) */
 "XZ Tarball Archive" = "XZ 封存檔";
+
+/* (No Comment) */
 "ZIP Archive" = "ZIP 封存檔";
+
+/* (No Comment) */
 "ZIPX Archive" = "ZIPX 封存檔";
+
+/* (No Comment) */
 "ZOO Archive" = "ZOO 封存檔";
+
+/* (No Comment) */
 "Zstandard Archive" = "Zstandard 封存檔";
+
+/* (No Comment) */
 "Zstandard Tarball Archive" = "Zstandard 封存檔";
+

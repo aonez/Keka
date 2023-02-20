@@ -1,53 +1,159 @@
+/* (No Comment) */
 "7Z Archive" = "Archive 7Z";
+
+/* (No Comment) */
 "ACE Archive" = "Archive ACE";
+
+/* (No Comment) */
 "ALZip Archive" = "Archive ALZip";
-"APPX Archive" = "Archive APPX";
-"ARC Archive" = "Archive ARC";
-"ARJ Archive" = "Archive ARJ";
+
+/* (No Comment) */
 "Amiga DCS Disk Archive" = "Archive disque DCS Amiga";
-"Amiga DMS Disk Archive" = "Archive disque DMS Amiga";
+
+/* (No Comment) */
 "Amiga Disk File" = "Fichier disque Amiga";
+
+/* (No Comment) */
+"Amiga DMS Disk Archive" = "Archive disque DMS Amiga";
+
+/* (No Comment) */
 "Amiga PackDev Disk Archive" = "Archive disque PackDev Amiga";
+
+/* (No Comment) */
 "Amiga PowerPacker Archive" = "Archive PowerPacker Amiga";
-"Amiga Zoom Disk Archive" = "Archive disque Zoom Amiga";
+
+/* (No Comment) */
 "Amiga xMash Disk Archive" = "Archive disque xMash Amiga";
+
+/* (No Comment) */
+"Amiga Zoom Disk Archive" = "Archive disque Zoom Amiga";
+
+/* (No Comment) */
 "Android Application Package" = "Paquet d'application Android";
+
+/* (No Comment) */
+"APPX Archive" = "Archive APPX";
+
+/* (No Comment) */
+"ARC Archive" = "Archive ARC";
+
+/* (No Comment) */
+"ARJ Archive" = "Archive ARJ";
+
+/* (No Comment) */
 "BZIP2 Archive" = "Archive BZIP2";
+
+/* (No Comment) */
 "BZIP2 Tarball Archive" = "Archive BZIP2 compressée au format TAR";
+
+/* (No Comment) */
 "CAB Archive" = "Archive CAB";
+
+/* (No Comment) */
 "CDI Disk Image" = "Image disque CDI";
+
+/* (No Comment) */
 "Compact Pro Archive" = "Archive Compact Pro";
+
+/* (No Comment) */
 "Compressed Amiga Disk File" = "Fichier de disque compressé Amiga";
+
+/* (No Comment) */
 "Deb Archive" = "Archive Deb";
+
+/* (No Comment) */
 "DiskDoubler Archive" = "Archive DiskDoubler";
+
+/* (No Comment) */
 "HA Archive" = "Archive HA";
+
+/* (No Comment) */
 "Keka Extraction Package" = "Paquet d'extraction Keka";
+
+/* (No Comment) */
 "LBR Archive" = "Archive LBR";
-"LZMA File" = "Fichier LZMA";
-"LZX Archive" = "Archive LZX";
+
+/* (No Comment) */
 "LhA Archive" = "Archive LhA";
+
+/* (No Comment) */
 "LhF Archive" = "Archive LhF";
+
+/* (No Comment) */
 "Linux RPM Archive" = "Archive RPM Linux";
+
+/* (No Comment) */
+"LZMA File" = "Fichier LZMA";
+
+/* (No Comment) */
+"LZX Archive" = "Archive LZX";
+
+/* (No Comment) */
 "MDF Disk Image" = "Image disque MDF";
+
+/* (No Comment) */
 "Microsoft MSI Installer" = "Fichier d'installation MSI Microsoft";
-"NRG Disk Image" = "Image disque NRG";
-"NSA Archive" = "Archive NSA";
+
+/* (No Comment) */
 "Now Compress Archive" = "Archive Now Compress";
-"PMA Archive" = "Archive PMA";
+
+/* (No Comment) */
+"NRG Disk Image" = "Image disque NRG";
+
+/* (No Comment) */
+"NSA Archive" = "Archive NSA";
+
+/* (No Comment) */
 "PackIt Archive" = "Archive PackIt";
+
+/* (No Comment) */
 "Pax Archive" = "Archive Pax";
+
+/* (No Comment) */
+"PMA Archive" = "Archive PMA";
+
+/* (No Comment) */
 "RAR Archive" = "Archive RAR";
+
+/* (No Comment) */
 "SAR Archive" = "Archive SAR";
+
+/* (No Comment) */
 "Self-Extracting Archive" = "Archive auto-extractible";
+
+/* (No Comment) */
 "Unix Compress File" = "Fichier compressé Unix";
+
+/* (No Comment) */
 "Unix Compress Tar Archive" = "Archive Tar compressée Unix";
+
+/* (No Comment) */
 "WARC Web Archive" = "Archive Web WARC";
+
+/* (No Comment) */
 "XAR Archive" = "Archive XAR";
+
+/* (No Comment) */
 "XIP Archive" = "Archive XIP";
+
+/* (No Comment) */
 "XZ Archive" = "Archive XZ";
+
+/* (No Comment) */
 "XZ Tarball Archive" = "Archive XZ compressée au format TAR";
+
+/* (No Comment) */
 "ZIP Archive" = "Archive ZIP";
+
+/* (No Comment) */
 "ZIPX Archive" = "Archive ZIPX";
+
+/* (No Comment) */
 "ZOO Archive" = "Archive ZOO";
+
+/* (No Comment) */
 "Zstandard Archive" = "Archive Zstandard";
+
+/* (No Comment) */
 "Zstandard Tarball Archive" = "Archive Zstandard compressée au format TAR";
+
