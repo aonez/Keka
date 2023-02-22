@@ -33,4 +33,4 @@ If you have a problem or a request just search the [Issues](https://github.com/a
 
 If you'll like to chat and you think the [Issues](https://github.com/aonez/Keka/issues) section is not the right place, just head to the [Discussions](https://github.com/aonez/Keka/discussions) section.
 
-Also head to [Releases](https://github.com/aonez/Keka/releases) if you need a concrete version not found on the [Keka website](https://www.keka.io).
+Also head to [Releases](https://github.com/aonez/Keka/releases) if you need a specific version not found on the [Keka website](https://www.keka.io).
