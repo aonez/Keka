@@ -232,6 +232,11 @@
 "Update the default password" = "更新預設密碼";
 "Set a default password" = "設定預設密碼";
 "To enable external volumes access go to your main disk and select the \"Volumes\" folder." = "若要啟用外部卷宗存取權限，請前往主磁碟，然後選取「Volumes」檔案夾。";
+"Verifying..." = "Verifying...";
+"Verification of \"%@\" failed" = "Verification of \"%@\" failed";
+"The compressed data seems to be invalid" = "The compressed data seems to be invalid";
+"Encrypted Apple Archive files are only supported on macOS 12 or newer" = "Encrypted Apple Archive files are only supported on macOS 12 or newer";
+"The password length should be %i or higher" = "The password length should be %i or higher";
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "偏好設定…";
 

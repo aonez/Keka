@@ -83,5 +83,8 @@
 /* Class = "NSButtonCell"; title = "Solid archive"; ObjectID = "UYy-aQ-V1a"; */
 "UYy-aQ-V1a.title" = "Archivio solido";
 
+/* Class = "NSButtonCell"; title = "Verify compression integrity"; ObjectID = "gqN-A9-jPb"; */
+"gqN-A9-jPb.title" = "Verify compression integrity";
+
 /* Class = "NSButtonCell"; title = "Use BZIP2 compression"; ObjectID = "qhy-NU-Cts"; */
 "qhy-NU-Cts.title" = "Utilizza compressione BZIP2";

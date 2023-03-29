@@ -232,6 +232,11 @@
 "Update the default password" = "Actualizar la contraseña por defecto";
 "Set a default password" = "Crear una contraseña por defecto";
 "To enable external volumes access go to your main disk and select the \"Volumes\" folder." = "Para habilitar el acceso a volúmenes externos dirígete a tu disco principal y selecciona la carpeta \"Volumes\".";
+"Verifying..." = "Validando...";
+"Verification of \"%@\" failed" = "La validación del archivo \"%@\" ha fallado";
+"The compressed data seems to be invalid" = "Los datos comprimidos parecen no ser válidos";
+"Encrypted Apple Archive files are only supported on macOS 12 or newer" = "Los archivos encriptados Apple Archive solo son compatibles con macOS 12 o superior";
+"The password length should be %i or higher" = "La contraseña debe ser de %i caracteres como mínimo";
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "Preferencias…";
 
