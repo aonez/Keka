@@ -8,11 +8,12 @@ With Keka you can compress as many files as you want in a bunch of formats. You 
 <div>
   <img src="https://img.shields.io/github/downloads/aonez/keka/total?color=%2300834a" />
   <img src="https://img.shields.io/github/downloads/aonez/keka/latest/total?color=%2300834a&label=latest" />
+  <img src="https://img.shields.io/github/v/release/aonez/keka?color=%2300834a" />
+  <img src="https://img.shields.io/twitter/follow/kekaosx?style=social" />
+  <img src="https://img.shields.io/mastodon/follow/109670517459928421?domain=https%3A%2F%2Ftechhub.social&style=social" />
 </div>
 
 <br />
-
-Follow Keka on Twitter at [@kekaosx](https://twitter.com/kekaosx).
 
 ## Downloads
 
