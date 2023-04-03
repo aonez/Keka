@@ -84,7 +84,7 @@
 "UYy-aQ-V1a.title" = "實體壓縮檔";
 
 /* Class = "NSButtonCell"; title = "Verify compression integrity"; ObjectID = "gqN-A9-jPb"; */
-"gqN-A9-jPb.title" = "Verify compression integrity";
+"gqN-A9-jPb.title" = "驗證壓縮完整性";
 
 /* Class = "NSButtonCell"; title = "Use BZIP2 compression"; ObjectID = "qhy-NU-Cts"; */
 "qhy-NU-Cts.title" = "使用 BZIP2 壓縮";
