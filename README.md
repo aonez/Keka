@@ -1,9 +1,16 @@
-<p align="center">
-  <a href="#"><img width="256" height="256" src="https://www.keka.io/img/Keka-Square-512x512.png" /></a>
-</p>
+<a href="#"><img width="256" height="256" src="https://www.keka.io/img/Keka-Square-512x512.png" align="left" /></a>
 
 # Keka
 The macOS file archiver.
+
+With Keka you can compress as many files as you want in a bunch of formats. You can also encrypt them to store and share securely and with privacy.
+
+<div>
+  <img src="https://img.shields.io/github/downloads/aonez/keka/total?color=%2300834a" />
+  <img src="https://img.shields.io/github/downloads/aonez/keka/latest/total?color=%2300834a&label=latest" />
+</div>
+
+<br />
 
 Follow Keka on Twitter at [@kekaosx](https://twitter.com/kekaosx).
 
