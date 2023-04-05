@@ -349,3 +349,6 @@
 
 /* Class = "NSButtonCell"; title = "Try the default password when extracting any file"; ObjectID = "zRi-PC-AW9"; */
 "zRi-PC-AW9.title" = "Prova la password di default durante l'estrazione di un file";
+
+/* Class = "NSButtonCell"; title = "Automatically install new updates"; ObjectID = "zTa-p3-fHX"; */
+"zTa-p3-fHX.title" = "Automatically install new updates";
