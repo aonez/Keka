@@ -231,12 +231,12 @@
 "Review Keka ★★★★★" = "Đánh giá Keka ★★★★★";
 "Update the default password" = "Cập nhật mật khẩu mặt định";
 "Set a default password" = "Cài đặt một mật khẩu mặt định";
-"To enable external volumes access go to your main disk and select the \"Volumes\" folder." = "To enable external volumes access go to your main disk and select the \"Volumes\" folder.";
-"Verifying..." = "Verifying...";
-"Verification of \"%@\" failed" = "Verification of \"%@\" failed";
-"The compressed data seems to be invalid" = "The compressed data seems to be invalid";
-"Encrypted Apple Archive files are only supported on macOS 12 or newer" = "Encrypted Apple Archive files are only supported on macOS 12 or newer";
-"The password length should be %i or higher" = "The password length should be %i or higher";
+"To enable external volumes access go to your main disk and select the \"Volumes\" folder." = "Để bật quyền truy cập ổ cứng ngoài bạn hãy mở ổ cứng chính rồi chọn thư mục \"Volumes\".";
+"Verifying..." = "Đang xác minh...";
+"Verification of \"%@\" failed" = "Quá trình xác minh \"%@\" thất bại";
+"The compressed data seems to be invalid" = "Dữ liệu được nén có thể đã bị lỗi";
+"Encrypted Apple Archive files are only supported on macOS 12 or newer" = "Các tập tin Encrypted Apple Archive chỉ được hỗ trợ trên macOS 12 hoặc mới hơn";
+"The password length should be %i or higher" = "Độ dài mật khẩu nên từ %i ký tự hoặc cao hơn";
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "Cài đặt…";
 
