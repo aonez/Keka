@@ -237,6 +237,7 @@
 "The compressed data seems to be invalid" = "Los datos comprimidos parecen no ser válidos";
 "Encrypted Apple Archive files are only supported on macOS 12 or newer" = "Los archivos encriptados Apple Archive solo son compatibles con macOS 12 o superior";
 "The password length should be %i or higher" = "La contraseña debe ser de %i caracteres como mínimo";
+" (Entire Device)" = " (Dispositivo entero)";
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "Preferencias…";
 

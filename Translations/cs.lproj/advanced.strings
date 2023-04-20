@@ -83,8 +83,8 @@
 /* Class = "NSButtonCell"; title = "Solid archive"; ObjectID = "UYy-aQ-V1a"; */
 "UYy-aQ-V1a.title" = "Ucelený archiv";
 
+/* Class = "NSTextFieldCell"; title = "Format:"; ObjectID = "dDw-7W-5ff"; */
+"dDw-7W-5ff.title" = "Format:";
+
 /* Class = "NSButtonCell"; title = "Verify compression integrity"; ObjectID = "gqN-A9-jPb"; */
 "gqN-A9-jPb.title" = "Verify compression integrity";
-
-/* Class = "NSButtonCell"; title = "Use BZIP2 compression"; ObjectID = "qhy-NU-Cts"; */
-"qhy-NU-Cts.title" = "Použít kompresi typu BZIP2";
