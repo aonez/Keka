@@ -3,7 +3,7 @@
 "2221.title" = "Položky archivovat samostatně";
 
 /* Class = "NSButtonCell"; title = "Delete file(s) after compression"; ObjectID = "2222"; */
-"2222.title" = "Po kompresi přesunout výchozí soubory do koše";
+"2222.title" = "Po komprimaci přesunout výchozí soubory do koše";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks"; ObjectID = "2244"; */
 "2244.title" = "Přeskočit prostředkové části (např. .DS_Store)";
@@ -84,7 +84,7 @@
 "UYy-aQ-V1a.title" = "Ucelený archiv";
 
 /* Class = "NSTextFieldCell"; title = "Format:"; ObjectID = "dDw-7W-5ff"; */
-"dDw-7W-5ff.title" = "Format:";
+"dDw-7W-5ff.title" = "Formát:";
 
 /* Class = "NSButtonCell"; title = "Verify compression integrity"; ObjectID = "gqN-A9-jPb"; */
-"gqN-A9-jPb.title" = "Verify compression integrity";
+"gqN-A9-jPb.title" = "Ověřit integritu archivu";

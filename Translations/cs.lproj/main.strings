@@ -15,10 +15,10 @@
 "B5q-0l-TAK.title" = "Spustit ladící relaci";
 
 /* Class = "NSMenuItem"; title = "Quit Keka"; ObjectID = "Boj-Hb-G0X"; */
-"Boj-Hb-G0X.title" = "Ukončit Keku";
+"Boj-Hb-G0X.title" = "Ukončit Keka";
 
 /* Class = "NSMenuItem"; title = "Settings…"; ObjectID = "FOL-81-NRF"; */
-"FOL-81-NRF.title" = "Předvolby...";
+"FOL-81-NRF.title" = "Předvolby…";
 
 /* Class = "NSMenuItem"; title = "Show All"; ObjectID = "HpM-0q-Enu"; */
 "HpM-0q-Enu.title" = "Zobrazit vše";
@@ -30,10 +30,10 @@
 "K4O-VW-7FA.title" = "Zkontrolovat aktualizace";
 
 /* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "KcM-nz-gqf"; */
-"KcM-nz-gqf.title" = "Přiblížení";
+"KcM-nz-gqf.title" = "Přepnout velikost";
 
 /* Class = "NSMenuItem"; title = "Print…"; ObjectID = "M2y-gZ-kEG"; */
-"M2y-gZ-kEG.title" = "Tisknout...";
+"M2y-gZ-kEG.title" = "Tisknout…";
 
 /* Class = "NSMenu"; title = "View"; ObjectID = "PwP-KI-Flr"; */
 "PwP-KI-Flr.title" = "Zobrazení";
@@ -57,7 +57,7 @@
 "TTb-AR-olf.title" = "Soubor";
 
 /* Class = "NSMenuItem"; title = "Keka Help"; ObjectID = "Uuy-RK-W5n"; */
-"Uuy-RK-W5n.title" = "Nápověda pro Keku";
+"Uuy-RK-W5n.title" = "Nápověda pro Keka";
 
 /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "W9M-Wy-dHU"; */
 "W9M-Wy-dHU.title" = "Vložit";
@@ -87,7 +87,7 @@
 "lmN-Tm-HmZ.title" = "Podmínky použití";
 
 /* Class = "NSMenuItem"; title = "About Keka"; ObjectID = "maF-B5-Hb6"; */
-"maF-B5-Hb6.title" = "O aplikaci Keka";
+"maF-B5-Hb6.title" = "Co je Keka";
 
 /* Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "nlc-UW-DRW"; */
 "nlc-UW-DRW.title" = "Vrátit se k uloženému";
@@ -102,10 +102,10 @@
 "rHb-df-xAE.title" = "Převést vše do popředí";
 
 /* Class = "NSMenuItem"; title = "Open…"; ObjectID = "sUB-o8-so9"; */
-"sUB-o8-so9.title" = "Otevřít...";
+"sUB-o8-so9.title" = "Otevřít…";
 
 /* Class = "NSMenuItem"; title = "Hide Keka"; ObjectID = "smC-MI-dLE"; */
-"smC-MI-dLE.title" = "Skrýt Keku";
+"smC-MI-dLE.title" = "Skrýt Keka";
 
 /* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "sx5-sf-JmW"; */
 "sx5-sf-JmW.title" = "Skrýt ostatní";
@@ -114,7 +114,7 @@
 "tDe-Bb-f8d.title" = "Minimalizovat";
 
 /* Class = "NSMenuItem"; title = "Page Setup..."; ObjectID = "tjx-uw-4ov"; */
-"tjx-uw-4ov.title" = "Vzhled stránky..."; 
+"tjx-uw-4ov.title" = "Vzhled stránky…"; 
 
 /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "v5b-pg-pYC"; */
 "v5b-pg-pYC.title" = "Kopírovat";
