@@ -1,6 +1,6 @@
 
 /* Usually leave this one in English */
-"NSHumanReadableCopyright" = "Copyright © 2009-2023 aONe";
+"NSHumanReadableCopyright" = "Copyright © 2009–2023 aONe";
 
 /* Access request descriptions */
 "NSDesktopFolderUsageDescription" = "Keka potřebuje přístup ke složce Plocha pro práci s těmito soubory.";
@@ -63,4 +63,4 @@
 "InstallShield 3 Archive" = "InstallShield 3 Archive";
 "Compact Pro Archive" = "Compact Pro Archive";
 "Synology Package Archive" = "Synology Package Archive";
-"Keka Extraction Package" = "Extrakční balíček Keky";
+"Keka Extraction Package" = "Extrakční balíček Keka";
