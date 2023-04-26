@@ -1,6 +1,6 @@
 ﻿
 /* Class = "NSButtonCell"; title = "Automatically save configuration changes"; ObjectID = "9ew-FN-7fK"; */
-"9ew-FN-7fK.title" = "Změny v konfiguracích ukládat automaticky";
+"9ew-FN-7fK.title" = "Změny konfigurace ukládat automaticky";
 
 /* Class = "NSButtonCell"; title = "Remove this configuration"; ObjectID = "OVd-YP-1Rw"; */
 "OVd-YP-1Rw.title" = "Odstranit tuto konfiguraci";

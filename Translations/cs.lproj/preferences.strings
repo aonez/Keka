@@ -93,7 +93,7 @@
 "418.title" = "Žádný";
 
 /* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "419"; */
-"419.title" = "Výchozí pro kompresi";
+"419.title" = "Výchozí pro komprimaci";
 
 /* Class = "NSMenuItem"; title = "Default extraction"; ObjectID = "432"; */
 "432.title" = "Výchozí pro rozbalení";
@@ -102,13 +102,13 @@
 "433.title" = "Po rozbalení přehrát zvuk:";
 
 /* Class = "NSTextFieldCell"; title = "Play a sound after a compression:"; ObjectID = "436"; */
-"436.title" = "Po kompresi přehrát zvuk:";
+"436.title" = "Po komprimaci přehrát zvuk:";
 
 /* Class = "NSMenuItem"; title = "Default extraction"; ObjectID = "439"; */
 "439.title" = "Výchozí pro rozbalení";
 
 /* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "452"; */
-"452.title" = "Výchozí pro kompresi";
+"452.title" = "Výchozí pro komprimaci";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "453"; */
 "453.title" = "Žádný";
@@ -174,7 +174,7 @@
 "EOi-2B-eBv.title" = "Vždy";
 
 /* Class = "NSButtonCell"; title = "Use custom name when compressing multiple files"; ObjectID = "Ei5-Ya-HGI"; */
-"Ei5-Ya-HGI.title" = "Při kompresi více souborů použít vlastní název";
+"Ei5-Ya-HGI.title" = "Při komprimaci více souborů použít vlastní název";
 
 /* Class = "NSTextFieldCell"; title = "Tasks priority (QoS):"; ObjectID = "G1T-Qd-OZi"; */
 "G1T-Qd-OZi.title" = "Priorita úloh (QoS):";
