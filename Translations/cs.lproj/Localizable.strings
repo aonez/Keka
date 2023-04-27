@@ -178,7 +178,7 @@
 "The intermediate application failed to launch. There is more information in the Console.app." = "Zprostředkující aplikaci se nepodařilo spustit. Více informací naleznete v aplikaci Konzola.";
 "The intermediate application returned an undefined code." = "Zprostředkující aplikace vrátila neznámý kód.";
 "Keka is now set as the default application for its known formats." = "Keka je nyní nastavena jako výchozí aplikace pro otevírání archivů.";
-"Keka set as default" = "Nastavit Keka jako výchozí aplikaci";
+"Keka set as default" = "Keka je nastavena jako výchozí aplikace";
 "There were some errors while registering the formats. There is more information in the Console.app." = "Při registraci formátů se vyskytly chyby. Více informací naleznete v aplikaci Konzola.";
 "The intermediate application can't get access to Keka." = "Zprostředkující aplikace nemůže ke Keka získat řístup.";
 "The intermediate application can't find Keka." = "Zprostředkující aplikace nemůže Keka nalézt.";
