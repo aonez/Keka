@@ -242,9 +242,6 @@
 /* Class = "NSMenuItem"; title = "Highest"; ObjectID = "Xl7-AN-Kgw"; */
 "Xl7-AN-Kgw.title" = "가장 높음";
 
-/* Class = "NSButtonCell"; title = "Use BZIP2 compression in DMG files (better but slower)"; ObjectID = "Xoi-ui-e7P"; */
-"Xoi-ui-e7P.title" = "DMG 파일에서 BZIP2 압축 사용 (압축률이 더 높지만 느림)";
-
 /* Class = "NSTextFieldCell"; title = "Enable full Mac access so Keka can be used on all your Mac."; ObjectID = "ZOx-vr-5o7"; */
 "ZOx-vr-5o7.title" = "Keka를 Mac 전체에서 사용할 수 있도록 Mac 전체 접근 권한 허용.";
 

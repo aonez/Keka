@@ -13,5 +13,5 @@
 "ApplicationDescription" = "Keka je archivační aplikace pro macOS.";
 
 /* Software update connection: */
-"SoftwareUpdatePurpose" = "Keka vyhledává aktualizace připojením k u(pdate).keka.io.";
-"SoftwareUpdateDenyConsequences" = "Pokud tomuto připojení zamezíte, nebudete upozornění na dostupné aktualizace.";
+"SoftwareUpdatePurpose" = "Keka vyhledává aktualizace na serverech u.keka.io nebo update.keka.io.";
+"SoftwareUpdateDenyConsequences" = "Pokud těmto připojením zabráníte, nebudete upozornění na dostupné aktualizace.";

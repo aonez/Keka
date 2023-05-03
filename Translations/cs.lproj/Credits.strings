@@ -9,8 +9,8 @@
 "_OPENSOURCE_" = "Keka využívá otevřený kód";
 "_FREEWARE_" = "Keka využívá freeware binární soubory";
 "_ONEMORETHING_" = "A ještě něco";
-"_THANKS_" = "Děkujeme, že používáte Keku!";
-"_SOURCE_" = "Kvůli licenčním problémům nebude zdrojový kód Keka 1.0 zveřejněn. Pokud budete potřebovat jakoukoliv pomoc ohledně licence, obraťte se na info@keka.io nebo na stránku Projekt na oficální stránce aplikace Keka. Uvítáme jakoukoliv pomoc.";
+"_THANKS_" = "Děkujeme, že používáte Keka!";
+"_SOURCE_" = "Kvůli možným licenčním problémům nebude zdrojový kód Keka 1.0 zveřejněn. Pokud budete potřebovat jakoukoliv pomoc ohledně licence, obraťte se na info@keka.io nebo na stránku Issues na oficální stránce aplikace Keka. Uvítáme jakoukoliv pomoc.";
 "_WARRANTY_" = "THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.";
-"_THANKSTOALL_" = "Děkujeme všem těm, kteří přispěli, a díky kterým je Keka na App Store.<br />Děkujeme všem za zpětnou vazvu a všem občasným přispěvatelům.<br />Děkujeme Igoru Pavlovi za tak úžasnou a otevřenou aplikaci, a uživateli 'myspace' za její portnutí na POSIX.<br /><br />Díky vám všem Keka přežívá a stále se vyvíjí.";
-"_APPEARDONATION_" = "If you donated and want to appear here, just <a href=\"mailto:info@keka.io?subject=Keka donation credits\">let me know</a> :)";
+"_THANKSTOALL_" = "Děkujeme všem, kteří přispěli, a díky kterým je Keka na App Store.<br />Děkujeme za každou zpětnou vazbu a všem občasným přispěvatelům.<br />Děkujeme Igoru Pavlovi za tak úžasnou a otevřenou aplikaci, a uživateli 'myspace' za její port na POSIX.<br /><br />Díky vám všem Keka přežívá a stále se vyvíjí.";
+"_APPEARDONATION_" = "Pokud si přejete přispět a chcete se zde objevit, dejte mi <a href=\"mailto:info@keka.io?subject=Keka donation credits\">vědět</a> :)";
