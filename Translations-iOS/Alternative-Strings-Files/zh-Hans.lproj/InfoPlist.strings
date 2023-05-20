@@ -8,25 +8,25 @@
 "ALZip Archive" = "ALZip 归档";
 
 /* (No Comment) */
-"Amiga DCS Disk Archive" = "Amiga DCS Disk 归档";
+"Amiga DCS Disk Archive" = "Amiga DCS 磁盘归档";
 
 /* (No Comment) */
-"Amiga Disk File" = "Amiga Disk File";
+"Amiga Disk File" = "Amiga 磁盘映像";
 
 /* (No Comment) */
-"Amiga DMS Disk Archive" = "Amiga DMS Disk 归档";
+"Amiga DMS Disk Archive" = "Amiga DMS 磁盘归档";
 
 /* (No Comment) */
-"Amiga PackDev Disk Archive" = "Amiga PackDev Disk 归档";
+"Amiga PackDev Disk Archive" = "Amiga PackDev 磁盘归档";
 
 /* (No Comment) */
 "Amiga PowerPacker Archive" = "Amiga PowerPacker 归档";
 
 /* (No Comment) */
-"Amiga xMash Disk Archive" = "Amiga xMash Disk 归档";
+"Amiga xMash Disk Archive" = "Amiga xMash 磁盘归档";
 
 /* (No Comment) */
-"Amiga Zoom Disk Archive" = "Amiga Zoom Disk 归档";
+"Amiga Zoom Disk Archive" = "Amiga Zoom 磁盘归档";
 
 /* (No Comment) */
 "Android Application Package" = "Android 应用程序";
@@ -56,7 +56,7 @@
 "Compact Pro Archive" = "Compact Pro 归档";
 
 /* (No Comment) */
-"Compressed Amiga Disk File" = "Compressed Amiga Disk File";
+"Compressed Amiga Disk File" = "Compressed Amiga 磁盘文件";
 
 /* (No Comment) */
 "Deb Archive" = "Deb 归档";
@@ -83,7 +83,7 @@
 "Linux RPM Archive" = "Linux RPM 归档";
 
 /* (No Comment) */
-"LZMA File" = "LZMA File";
+"LZMA File" = "LZMA 文件";
 
 /* (No Comment) */
 "LZX Archive" = "LZX 归档";
@@ -92,10 +92,10 @@
 "MDF Disk Image" = "MDF 磁盘映像";
 
 /* (No Comment) */
-"Microsoft MSI Installer" = "Microsoft MSI Installer";
+"Microsoft MSI Installer" = "微软 MSI 安装程序";
 
 /* (No Comment) */
-"Now Compress Archive" = "Now Compress 归档";
+"Now Compress Archive" = "当前压缩归档";
 
 /* (No Comment) */
 "NRG Disk Image" = "NRG 磁盘映像";
@@ -119,13 +119,13 @@
 "SAR Archive" = "SAR 归档";
 
 /* (No Comment) */
-"Self-Extracting Archive" = "Self-Extracting 归档";
+"Self-Extracting Archive" = "自提取归档";
 
 /* (No Comment) */
-"Unix Compress File" = "Unix Compress File";
+"Unix Compress File" = "Unix 压缩文件";
 
 /* (No Comment) */
-"Unix Compress Tar Archive" = "Unix Compress Tar 归档";
+"Unix Compress Tar Archive" = "Unix 压缩 Tar 归档";
 
 /* (No Comment) */
 "WARC Web Archive" = "WARC Web 归档";
@@ -140,7 +140,7 @@
 "XZ Archive" = "XZ 归档";
 
 /* (No Comment) */
-"XZ Tarball Archive" = "XZ 压缩 TAR 归档";
+"XZ Tarball Archive" = "XZ 压缩归档";
 
 /* (No Comment) */
 "ZIP Archive" = "ZIP 归档";
@@ -152,8 +152,8 @@
 "ZOO Archive" = "ZOO 归档";
 
 /* (No Comment) */
-"Zstandard Archive" = "Zstandard 归档";
+"Zstandard Archive" = "Zstd 归档";
 
 /* (No Comment) */
-"Zstandard Tarball Archive" = "Zstandard 压缩 TAR 归档";
+"Zstandard Tarball Archive" = "Zstd 压缩归档";
 
