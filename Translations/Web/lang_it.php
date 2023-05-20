@@ -13,6 +13,10 @@ $content_bottom_translator = 'Tradotto da <a href="http://vinboisoft.altervista.
 //
 //
 
+// iOS
+$ios_title = "$keka for iOS";
+$ios_content_title = "the iOS file archiver";
+
 // General
 $content_download = "Scarica";
 $content_issues = "Problemi";
@@ -28,8 +32,10 @@ $content_download_love = "Ti piace?";
 $content_download_legacy = "Legacy";
 $content_download_helper = "Assistente";
 $content_downloading = "Scarico ";
+$content_get_platform = "Get it for ";
+$content_testflight = "TestFlight needed to install this build";
 $content_downloading_if_fails = "Se il download non si avvia automaticamente ";
-$content_downloading_if_fails_click_here = " fai clic qui";
+$content_downloading_if_fails_click_here = "fai clic qui";
 
 // Like
 $content_donation_button = "Donazione";
@@ -58,6 +64,18 @@ $content_info_text2 = "Condividi in sicurezza semplicemente impostando una passw
 $content_info_text3 = "Se i file sono davvero enormi e non si adattano alla tua e-mail o al tuo server, basta dividerli in pezzi.<br />Non ti preoccupare, si ricongiungeranno nuovamente per diventare il tuo file originale :)";
 $content_info_compression = "Keka può creare archivi in questi formati:";
 $content_info_extraction = "Ed estrarre tutti questi formati:";
+
+// Info v2 (iOS and future macOS)
+$content_info_v2_title1 = "Store more";
+$content_info_v2_title2 = "Share with privacy";
+$content_info_v2_title3 = "A perfect Browsing experience";
+$content_info_v2_title4 = "Multitasking at its finest";
+$content_info_v2_title5 = "Always at hand";
+$content_info_v2_text1 = "With multiple Compression Formats<br />to choose the Perfect One";
+$content_info_v2_text2 = "Protect your shared files with a Password<br />and Encrypt them with AES-256";
+$content_info_v2_text3 = "Preview, Extract and Share<br />only what You Need";
+$content_info_v2_text4 = "Extract, Compress and Browse<br />without limits";
+$content_info_v2_text5 = "Extract, Compress and Browse<br />from anywhere using the Share Actions";
 
 // Default app
 $content_defaultapp_title = "Imposta Keka come applicazione di estrazione di default";

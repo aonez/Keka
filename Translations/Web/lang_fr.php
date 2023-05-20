@@ -13,6 +13,10 @@ $content_bottom_translator = 'Translated by <a href="https://yoursite.or.email.o
 //
 //
 
+// iOS
+$ios_title = "$keka for iOS";
+$ios_content_title = "the iOS file archiver";
+
 // General
 $content_download = "Téléchargement";
 $content_issues = "Problèmes";
@@ -28,8 +32,10 @@ $content_download_love = "Vous aimez?";
 $content_download_legacy = "Ancienne";
 $content_download_helper = "Assistant";
 $content_downloading = "Téléchargement ";
+$content_get_platform = "Get it for ";
+$content_testflight = "TestFlight needed to install this build";
 $content_downloading_if_fails = "Si le téléchargement ne commence pas automatiquement ";
-$content_downloading_if_fails_click_here = " cliquer ici";
+$content_downloading_if_fails_click_here = "cliquer ici";
 
 // Like
 $content_donation_button = "Donner";
@@ -58,6 +64,18 @@ $content_info_text2 = "Partagez de façon sûre en ajoutant un mot de passe pour
 $content_info_text3 = "Si les fichiers sont vraiment volumineux et ne tiennent pas dans vos emails ou votre serveur, il suffit de les diviser en morceaux.<br />Ne vous en faites pas, il seront décompressés pour reproduire votre fichier original :)";
 $content_info_compression = "Keka peut créer des fichiers dans ces formats:";
 $content_info_extraction = "Et extraire dans ces formats:";
+
+// Info v2 (iOS and future macOS)
+$content_info_v2_title1 = "Store more";
+$content_info_v2_title2 = "Share with privacy";
+$content_info_v2_title3 = "A perfect Browsing experience";
+$content_info_v2_title4 = "Multitasking at its finest";
+$content_info_v2_title5 = "Always at hand";
+$content_info_v2_text1 = "With multiple Compression Formats<br />to choose the Perfect One";
+$content_info_v2_text2 = "Protect your shared files with a Password<br />and Encrypt them with AES-256";
+$content_info_v2_text3 = "Preview, Extract and Share<br />only what You Need";
+$content_info_v2_text4 = "Extract, Compress and Browse<br />without limits";
+$content_info_v2_text5 = "Extract, Compress and Browse<br />from anywhere using the Share Actions";
 
 // Default app
 $content_defaultapp_title = 'Définissez Keka comme application d\'extraction par défaut';

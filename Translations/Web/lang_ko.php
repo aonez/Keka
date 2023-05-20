@@ -13,6 +13,10 @@ $content_bottom_translator = 'Translated by <a href="https://github.com/youngjin
 //
 //
 
+// iOS
+$ios_title = "$keka for iOS";
+$ios_content_title = "the iOS file archiver";
+
 // General
 $content_download = "다운로드";
 $content_issues = "이슈";
@@ -28,8 +32,10 @@ $content_download_love = "마음에 드신다면?";
 $content_download_legacy = "구 버전";
 $content_download_helper = "도움말";
 $content_downloading = "Downloading ";
+$content_get_platform = "Get it for ";
+$content_testflight = "TestFlight needed to install this build";
 $content_downloading_if_fails = "If the download does not start automatically ";
-$content_downloading_if_fails_click_here = " click here";
+$content_downloading_if_fails_click_here = "click here";
 
 // Like
 $content_donation_button = "후원하기";
@@ -58,6 +64,18 @@ $content_info_text2 = "암호화된 압축 파일을 안전하게 공유하세�
 $content_info_text3 = "만약 파일 크기가 너무 커서 이메일 첨부 또는 서버 업로드가 불가능하다면, <br />분할 압축을 해보세요.<br />압축 해제 시 다시 원본 파일로 복구할 수 있습니다.";
 $content_info_compression = "Keka가 생성할 수 있는 파일 형식은 다음과 같습니다:";
 $content_info_extraction = "Keka가 압축을 해제할 수 있는 파일 형식은 다음과 같습니다:";
+
+// Info v2 (iOS and future macOS)
+$content_info_v2_title1 = "Store more";
+$content_info_v2_title2 = "Share with privacy";
+$content_info_v2_title3 = "A perfect Browsing experience";
+$content_info_v2_title4 = "Multitasking at its finest";
+$content_info_v2_title5 = "Always at hand";
+$content_info_v2_text1 = "With multiple Compression Formats<br />to choose the Perfect One";
+$content_info_v2_text2 = "Protect your shared files with a Password<br />and Encrypt them with AES-256";
+$content_info_v2_text3 = "Preview, Extract and Share<br />only what You Need";
+$content_info_v2_text4 = "Extract, Compress and Browse<br />without limits";
+$content_info_v2_text5 = "Extract, Compress and Browse<br />from anywhere using the Share Actions";
 
 // Default app
 $content_defaultapp_title = "Keka를 기본 압축앱으로 설정해주세요";

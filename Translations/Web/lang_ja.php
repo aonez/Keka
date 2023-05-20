@@ -13,6 +13,10 @@ $content_bottom_translator = '翻訳: <a href="https://github.com/munex-com">mun
 //
 //
 
+// iOS
+$ios_title = "$keka for iOS";
+$ios_content_title = "the iOS file archiver";
+
 // General
 $content_download = "ダウンロード";
 $content_issues = "課題";
@@ -28,8 +32,10 @@ $content_download_love = "気に入りましたか?";
 $content_download_legacy = "過去のバージョン";
 $content_download_helper = "ヘルパー";
 $content_downloading = "ダウンロード中 ";
+$content_get_platform = "Get it for ";
+$content_testflight = "TestFlight needed to install this build";
 $content_downloading_if_fails = "ダウンロードが自動的に開始されない場合は ";
-$content_downloading_if_fails_click_here = " こちらをクリック";
+$content_downloading_if_fails_click_here = "こちらをクリック";
 
 // Like
 $content_donation_button = "寄付する";
@@ -58,6 +64,18 @@ $content_info_text2 = "パスワードを設定して高度に暗号化された
 $content_info_text3 = "ファイルが非常に大きく、メールやサーバーに収まらない場合は、ファイルを分割してください。<br />心配する必要はありません。元のファイルを生成するために拡張されます(^^)";
 $content_info_compression = "Kekaは次の形式のファイルを作成できます:";
 $content_info_extraction = "そして、これらのすべての形式が復元できます:";
+
+// Info v2 (iOS and future macOS)
+$content_info_v2_title1 = "Store more";
+$content_info_v2_title2 = "Share with privacy";
+$content_info_v2_title3 = "A perfect Browsing experience";
+$content_info_v2_title4 = "Multitasking at its finest";
+$content_info_v2_title5 = "Always at hand";
+$content_info_v2_text1 = "With multiple Compression Formats<br />to choose the Perfect One";
+$content_info_v2_text2 = "Protect your shared files with a Password<br />and Encrypt them with AES-256";
+$content_info_v2_text3 = "Preview, Extract and Share<br />only what You Need";
+$content_info_v2_text4 = "Extract, Compress and Browse<br />without limits";
+$content_info_v2_text5 = "Extract, Compress and Browse<br />from anywhere using the Share Actions";
 
 // Default app
 $content_defaultapp_title = "Kekaをデフォルトのアーカイバとして設定する";

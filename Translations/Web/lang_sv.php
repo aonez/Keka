@@ -13,6 +13,10 @@ $content_bottom_translator = 'Översatt av <a href="https://twitter.com/wileryd"
 //
 //
 
+// iOS
+$ios_title = "$keka for iOS";
+$ios_content_title = "the iOS file archiver";
+
 // General
 $content_download = "Ladda ner";
 $content_issues = "Problem";
@@ -28,8 +32,10 @@ $content_download_love = "Gillar du det?";
 $content_download_legacy = "Föråldrad";
 $content_download_helper = "Hjälpverktyg";
 $content_downloading = "Downloading ";
+$content_get_platform = "Get it for ";
+$content_testflight = "TestFlight needed to install this build";
 $content_downloading_if_fails = "If the download does not start automatically ";
-$content_downloading_if_fails_click_here = " click here";
+$content_downloading_if_fails_click_here = "click here";
 
 // Like
 $content_donation_button = "Donera";
@@ -58,6 +64,18 @@ $content_info_text2 = "Dela säkert genom att ställa in ett lösenord och skapa
 $content_info_text3 = "Om filerna är enorma och inte får plats i e-post eller på server, dela bara upp i bitar.<br />Oroa dig inte, de kommer fortfarande att expanderas för att återskapa din originalfil :)";
 $content_info_compression = "Keka kan skapa filer i dessa format:";
 $content_info_extraction = "Samt extrahera alla dessa format:";
+
+// Info v2 (iOS and future macOS)
+$content_info_v2_title1 = "Store more";
+$content_info_v2_title2 = "Share with privacy";
+$content_info_v2_title3 = "A perfect Browsing experience";
+$content_info_v2_title4 = "Multitasking at its finest";
+$content_info_v2_title5 = "Always at hand";
+$content_info_v2_text1 = "With multiple Compression Formats<br />to choose the Perfect One";
+$content_info_v2_text2 = "Protect your shared files with a Password<br />and Encrypt them with AES-256";
+$content_info_v2_text3 = "Preview, Extract and Share<br />only what You Need";
+$content_info_v2_text4 = "Extract, Compress and Browse<br />without limits";
+$content_info_v2_text5 = "Extract, Compress and Browse<br />from anywhere using the Share Actions";
 
 // Default app
 $content_defaultapp_title = "Ställ in Keka som standardprogram för uppackning";

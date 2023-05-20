@@ -13,6 +13,10 @@ $content_bottom_translator = 'Übersetzt von <a href="https://github.com/fabifab
 //
 //
 
+// iOS
+$ios_title = "$keka for iOS";
+$ios_content_title = "the iOS file archiver";
+
 // General
 $content_download = "Download";
 $content_issues = "Probleme";
@@ -28,8 +32,10 @@ $content_download_love = "Gefällt es dir?";
 $content_download_legacy = "Legacy";
 $content_download_helper = "Hilfsprogramm";
 $content_downloading = "Herunterladen ";
+$content_get_platform = "Get it for ";
+$content_testflight = "TestFlight needed to install this build";
 $content_downloading_if_fails = "Falls der Download nicht automatisch startet ";
-$content_downloading_if_fails_click_here = " hier klicken";
+$content_downloading_if_fails_click_here = "hier klicken";
 
 // Like
 $content_donation_button = "Spenden";
@@ -58,6 +64,18 @@ $content_info_text2 = "Teile deine Dateien sicher, indem du ein Passwort festleg
 $content_info_text3 = "Wenn die Dateien wirklich riesig sind und nicht in deine Mail oder auf deinen Server passen, teile sie einfach in mehrere Teile auf.<br />Keine Sorge, sie werden trotzdem expandieren, um die ursprüngliche Datei zu erzeugen :)";
 $content_info_compression = "Keka kann Dateien in diesen Formaten erstellen:";
 $content_info_extraction = "Und all diese Formate entpacken:";
+
+// Info v2 (iOS and future macOS)
+$content_info_v2_title1 = "Store more";
+$content_info_v2_title2 = "Share with privacy";
+$content_info_v2_title3 = "A perfect Browsing experience";
+$content_info_v2_title4 = "Multitasking at its finest";
+$content_info_v2_title5 = "Always at hand";
+$content_info_v2_text1 = "With multiple Compression Formats<br />to choose the Perfect One";
+$content_info_v2_text2 = "Protect your shared files with a Password<br />and Encrypt them with AES-256";
+$content_info_v2_text3 = "Preview, Extract and Share<br />only what You Need";
+$content_info_v2_text4 = "Extract, Compress and Browse<br />without limits";
+$content_info_v2_text5 = "Extract, Compress and Browse<br />from anywhere using the Share Actions";
 
 // Default app
 $content_defaultapp_title = "Lege Keka als Standard-Entpacker fest";

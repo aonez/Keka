@@ -35,7 +35,7 @@ $content_downloading = "Downloading ";
 $content_get_platform = "Get it for ";
 $content_testflight = "TestFlight needed to install this build";
 $content_downloading_if_fails = "If the download does not start automatically ";
-$content_downloading_if_fails_click_here = " click here";
+$content_downloading_if_fails_click_here = "click here";
 
 // Like
 $content_donation_button = "Donate";
@@ -47,9 +47,6 @@ $content_donation_paypal = "If you don't like MAS or just want to play around wi
 $content_platform_beta = "Beta";
 $content_beta_title = "Beta version of Keka";
 $content_beta_text = "You can test the newest features of Keka before they are released.<br />If you find a bug or have something to report, head over to ";
-$ios_content_beta_title = "Beta version of Keka for iOS";
-$ios_content_beta_text = "Be the first to try the first public version of Keka for iOS.<br />If you find a bug or have something to report,<br />use <a href=\"https://testflight.apple.com\">TestFlight</a> or head over to ";
-$ios_content_text = 'Unwrap <i class="fas fa-gift"></i> it now on the App Store';
 $content_beta_unavailable = "There is no beta available at the moment.";
 $content_beta_up = "Get the latest version";
 
