@@ -68,11 +68,11 @@ $content_info_extraction = "Y extraer todos estos formatos:";
 // Info v2 (iOS and future macOS)
 $content_info_v2_title1 = "Almacena más";
 $content_info_v2_title2 = "Comparte con privacidad";
-$content_info_v2_title3 = "Una experiencia de navegación perfecta";
+$content_info_v2_title3 = "Una experiencia de Navegación perfecta";
 $content_info_v2_title4 = "Multitarea al máximo";
 $content_info_v2_title5 = "Siempre a mano";
-$content_info_v2_text1 = "Con múltiples formatos de compresión<br />para escoger el perfecto";
-$content_info_v2_text2 = "Protege tus ficheros compartidos con contraseña<br />y encríptalos con AES-256";
+$content_info_v2_text1 = "Con múltiples formatos de compresión<br />para escoger el Perfecto";
+$content_info_v2_text2 = "Protege tus ficheros compartidos con Contraseña<br />y Encríptalos con AES-256";
 $content_info_v2_text3 = "Previsualiza, Extrae y Comparte<br />solo lo que Necesitas";
 $content_info_v2_text4 = "Extrae, Comprime y Navega<br />sin límites";
 $content_info_v2_text5 = "Extrae, Comprime y Navega<br />desde cualquier parte utilizando las Acciones para Compartir";
