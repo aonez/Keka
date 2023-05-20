@@ -29,9 +29,9 @@ $content_download_text = "Armazene mais, partilhe com privacidade";
 $content_download_love = "Gosta?";
 $content_download_legacy = "Anteriores";
 $content_download_helper = "Auxiliar";
-$content_downloading = "Downloading ";
-$content_downloading_if_fails = "If the download does not start automatically ";
-$content_downloading_if_fails_click_here = " click here";
+$content_downloading = "Baixando ";
+$content_downloading_if_fails = "Se o download não começar automaticamente, ";
+$content_downloading_if_fails_click_here = " clique aqui";
 
 // Like
 $content_donation_button = "Doar";
