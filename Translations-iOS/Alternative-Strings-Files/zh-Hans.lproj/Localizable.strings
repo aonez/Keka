@@ -110,7 +110,7 @@
 "Default Compression Level" = "默认压缩级别";
 
 /* No comment provided by engineer. */
-"Default Destination" = "默认目标";
+"Default Destination" = "默认目标位置";
 
 /* No comment provided by engineer. */
 "Default Format" = "默认格式";
@@ -122,7 +122,7 @@
 "Delete" = "删除";
 
 /* No comment provided by engineer. */
-"Destination" = "目标";
+"Destination" = "目标位置";
 
 /* No comment provided by engineer. */
 "Disable \"%@\" if you prefer to use a default configuration." = "如果你想使用默认设置，请禁用 \"%@\"。";
@@ -221,7 +221,7 @@
 "Loading" = "正在加载";
 
 /* "Made with" part from "Made with love by aone". */
-"Made with" = "用...做成";
+"Made with" = "用";
 
 /* No comment provided by engineer. */
 "Modified" = "修改";
@@ -308,7 +308,7 @@
 "Store" = "存储";
 
 /* No comment provided by engineer. */
-"The %@ of space available in the destination might not be enough for compressing the estimated %@." = "目标可用空间 %@ 小于预估 %@，可能不足以进行压缩。";
+"The %@ of space available in the destination might not be enough for compressing the estimated %@." = "目标位置可用空间 %@ 小于预估 %@，可能不足以进行压缩。";
 
 /* No comment provided by engineer. */
 "The changes could not be saved" = "更改无法保存";
@@ -320,7 +320,7 @@
 "The compression will be limited to %lld thread/s due to memory constraints." = "由于内存限制，压缩将限制为 %lld 个线程/s。";
 
 /* No comment provided by engineer. */
-"The destination has %@ of space available." = "目标有 %@ 可用空间。";
+"The destination has %@ of space available." = "目标位置有 %@ 可用空间。";
 
 /* No comment provided by engineer. */
 "The file manager for iOS and macOS" = "适用于 iOS 和 macOS 的文件管理器";

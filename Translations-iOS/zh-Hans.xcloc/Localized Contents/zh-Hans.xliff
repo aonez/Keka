@@ -457,7 +457,7 @@
       </trans-unit>
       <trans-unit id="Default Destination" xml:space="preserve">
         <source>Default Destination</source>
-        <target>默认目标</target>
+        <target>默认目标位置</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Default Format" xml:space="preserve">
@@ -477,7 +477,7 @@
       </trans-unit>
       <trans-unit id="Destination" xml:space="preserve">
         <source>Destination</source>
-        <target>目标</target>
+        <target>目标位置</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Disable &quot;%@&quot; if you prefer to use a default configuration." xml:space="preserve">
@@ -624,7 +624,7 @@
       </trans-unit>
       <trans-unit id="Made with" xml:space="preserve">
         <source>Made with</source>
-        <target>用...做成</target>
+        <target>用</target>
         <note>"Made with" part from "Made with love by aone".</note>
       </trans-unit>
       <trans-unit id="Modified" xml:space="preserve">
@@ -779,7 +779,7 @@
       </trans-unit>
       <trans-unit id="The %@ of space available in the destination might not be enough for compressing the estimated %@." xml:space="preserve">
         <source>The %@ of space available in the destination might not be enough for compressing the estimated %@.</source>
-        <target>目标可用空间 %@ 小于预估 %@，可能不足以进行压缩。</target>
+        <target>目标位置可用空间 %@ 小于预估 %@，可能不足以进行压缩。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The changes could not be saved" xml:space="preserve">
@@ -799,7 +799,7 @@
       </trans-unit>
       <trans-unit id="The destination has %@ of space available." xml:space="preserve">
         <source>The destination has %@ of space available.</source>
-        <target>目标有 %@ 可用空间。</target>
+        <target>目标位置有 %@ 可用空间。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The file manager for iOS and macOS" xml:space="preserve">
