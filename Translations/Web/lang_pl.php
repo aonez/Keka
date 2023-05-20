@@ -13,6 +13,10 @@ $content_bottom_translator = 'Tłumaczenie: <a href="https://github.com/lboratyn
 //
 //
 
+// iOS
+$ios_title = "$keka for iOS";
+$ios_content_title = "the iOS file archiver";
+
 // General
 $content_download = "Pobierz";
 $content_issues = "Zgłoś błąd";
@@ -28,8 +32,10 @@ $content_download_love = "Lubisz program Keka?";
 $content_download_legacy = "Poprzednie wersje";
 $content_download_helper = "Aplikacja pomocnicza";
 $content_downloading = "Pobieranie...";
+$content_get_platform = "Get it for ";
+$content_testflight = "TestFlight needed to install this build";
 $content_downloading_if_fails = "Jeśli pobieranie nie rozpocznie się automatycznie ";
-$content_downloading_if_fails_click_here = " kliknij tutaj.";
+$content_downloading_if_fails_click_here = "kliknij tutaj.";
 
 // Like
 $content_donation_button = "Wesprzyj projekt";
@@ -58,6 +64,18 @@ $content_info_text2 = "Udostępniaj bezpiecznie dane dzięki zaszyfrowanym pliko
 $content_info_text3 = "Jeśli plik jest zbyt duży, aby np. dołączyć go do poczty elektronicznej, po prostu podziel go na mniejsze archiwa. Po wyodrębnieniu zawsze uzyskasz swój oryginalny plik.";
 $content_info_compression = "Przy pomocy Keka stworzysz archiwa w następujących formatach:";
 $content_info_extraction = "Keka pozwoli Ci również wyodrębnić pliki:";
+
+// Info v2 (iOS and future macOS)
+$content_info_v2_title1 = "Store more";
+$content_info_v2_title2 = "Share with privacy";
+$content_info_v2_title3 = "A perfect Browsing experience";
+$content_info_v2_title4 = "Multitasking at its finest";
+$content_info_v2_title5 = "Always at hand";
+$content_info_v2_text1 = "With multiple Compression Formats<br />to choose the Perfect One";
+$content_info_v2_text2 = "Protect your shared files with a Password<br />and Encrypt them with AES-256";
+$content_info_v2_text3 = "Preview, Extract and Share<br />only what You Need";
+$content_info_v2_text4 = "Extract, Compress and Browse<br />without limits";
+$content_info_v2_text5 = "Extract, Compress and Browse<br />from anywhere using the Share Actions";
 
 // Default app
 $content_defaultapp_title = "Ustaw Keka jako domyślny archiwizator plików";

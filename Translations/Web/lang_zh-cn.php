@@ -13,6 +13,10 @@ $content_bottom_translator = '由 <a href="https://maxsky.cc">Max Sky</a> 翻译
 //
 //
 
+// iOS
+$ios_title = "$keka for iOS";
+$ios_content_title = "the iOS file archiver";
+
 // General
 $content_download = "下载";
 $content_issues = "缺陷";
@@ -28,8 +32,10 @@ $content_download_love = "喜欢吗？";
 $content_download_legacy = "历史版本";
 $content_download_helper = "小工具";
 $content_downloading = "下载中 ";
+$content_get_platform = "Get it for ";
+$content_testflight = "TestFlight needed to install this build";
 $content_downloading_if_fails = "如果下载没有自动开始 ";
-$content_downloading_if_fails_click_here = " 点击此处";
+$content_downloading_if_fails_click_here = "点击此处";
 
 // Like
 $content_donation_button = "捐赠";
@@ -58,6 +64,18 @@ $content_info_text2 = "安全的共享文件只需通过设置密码来创建安
 $content_info_text3 = "如果文件实在太大并且它们不适用于邮件发送或网络传输，请将它们分卷压缩。<br />不用担心，它们依然可以解压出原来的文件 :)";
 $content_info_compression = "Keka 可以创建以下格式的压缩文件：";
 $content_info_extraction = "并支持解压这些格式：";
+
+// Info v2 (iOS and future macOS)
+$content_info_v2_title1 = "Store more";
+$content_info_v2_title2 = "Share with privacy";
+$content_info_v2_title3 = "A perfect Browsing experience";
+$content_info_v2_title4 = "Multitasking at its finest";
+$content_info_v2_title5 = "Always at hand";
+$content_info_v2_text1 = "With multiple Compression Formats<br />to choose the Perfect One";
+$content_info_v2_text2 = "Protect your shared files with a Password<br />and Encrypt them with AES-256";
+$content_info_v2_text3 = "Preview, Extract and Share<br />only what You Need";
+$content_info_v2_text4 = "Extract, Compress and Browse<br />without limits";
+$content_info_v2_text5 = "Extract, Compress and Browse<br />from anywhere using the Share Actions";
 
 // Default app
 $content_defaultapp_title = "设置 Keka 为默认解压应用程序";

@@ -13,6 +13,10 @@ $content_bottom_translator = 'Translated by <a href="https://yoursite.or.email.o
 //
 //
 
+// iOS
+$ios_title = "$keka para iOS";
+$ios_content_title = "el compresor de iOS";
+
 // General
 $content_download = "Descargar";
 $content_issues = "Reportar";
@@ -28,8 +32,10 @@ $content_download_love = "Te gusta?";
 $content_download_legacy = "Antiguas";
 $content_download_helper = "Ayudante";
 $content_downloading = "Descargando ";
+$content_get_platform = "Consíguelo para ";
+$content_testflight = "Se necesita TestFlight para instalar esta versión";
 $content_downloading_if_fails = "Si la descarga no comienza de forma automática ";
-$content_downloading_if_fails_click_here = " haz clic aquí";
+$content_downloading_if_fails_click_here = "haz clic aquí";
 
 // Like
 $content_donation_button = "Donar";
@@ -58,6 +64,18 @@ $content_info_text2 = "Con tan solo una contraseña podrás crear ficheros altam
 $content_info_text3 = "Si tus archivos son inmensamente enormes y no caben en tu correo o servidor, simplemente divídelos en trozos.<br />No te preocupes, volverán a juntarse de nuevo para convertirse en tu fichero original :)";
 $content_info_compression = "Con Keka puedes crear archivos utilizando estos formatos:";
 $content_info_extraction = "Y extraer todos estos formatos:";
+
+// Info v2 (iOS and future macOS)
+$content_info_v2_title1 = "Almacena más";
+$content_info_v2_title2 = "Comparte con privacidad";
+$content_info_v2_title3 = "Una experiencia de Navegación perfecta";
+$content_info_v2_title4 = "Multitarea al máximo";
+$content_info_v2_title5 = "Siempre a mano";
+$content_info_v2_text1 = "Con múltiples formatos de compresión<br />para escoger el Perfecto";
+$content_info_v2_text2 = "Protege tus ficheros compartidos con Contraseña<br />y Encríptalos con AES-256";
+$content_info_v2_text3 = "Previsualiza, Extrae y Comparte<br />solo lo que Necesitas";
+$content_info_v2_text4 = "Extrae, Comprime y Navega<br />sin límites";
+$content_info_v2_text5 = "Extrae, Comprime y Navega<br />desde cualquier parte utilizando las Acciones para Compartir";
 
 // Default app
 $content_defaultapp_title = "Establecer Keka como el descompresor predeterminado";

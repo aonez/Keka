@@ -13,6 +13,10 @@ $content_bottom_translator = 'Превод на Български: <a href="htt
 //
 //
 
+// iOS
+$ios_title = "$keka for iOS";
+$ios_content_title = "the iOS file archiver";
+
 // General
 $content_download = "Свали";
 $content_issues = "Проблеми";
@@ -28,8 +32,10 @@ $content_download_love = "Харесва ли ти?";
 $content_download_legacy = "Стари версии";
 $content_download_helper = "Помощник";
 $content_downloading = "Сваляне ";
+$content_get_platform = "Get it for ";
+$content_testflight = "TestFlight needed to install this build";
 $content_downloading_if_fails = "Ако свалянето не започне автоматично";
-$content_downloading_if_fails_click_here = " кликни тук";
+$content_downloading_if_fails_click_here = "кликни тук";
 
 // Like
 $content_donation_button = "Направи дарение";
@@ -58,6 +64,18 @@ $content_info_text2 = "Споделяй сигурно само с парола 
 $content_info_text3 = "Ако файловете са наистина големи и не се събират на твоят имейл или сървър, просто ги раздели на парчета.<br />Не се притеснявай, те все още могат да се обединят в един :)";
 $content_info_compression = "Keka може да създава файлове в следните формати:";
 $content_info_extraction = "И разархивира всички тези формати:";
+
+// Info v2 (iOS and future macOS)
+$content_info_v2_title1 = "Store more";
+$content_info_v2_title2 = "Share with privacy";
+$content_info_v2_title3 = "A perfect Browsing experience";
+$content_info_v2_title4 = "Multitasking at its finest";
+$content_info_v2_title5 = "Always at hand";
+$content_info_v2_text1 = "With multiple Compression Formats<br />to choose the Perfect One";
+$content_info_v2_text2 = "Protect your shared files with a Password<br />and Encrypt them with AES-256";
+$content_info_v2_text3 = "Preview, Extract and Share<br />only what You Need";
+$content_info_v2_text4 = "Extract, Compress and Browse<br />without limits";
+$content_info_v2_text5 = "Extract, Compress and Browse<br />from anywhere using the Share Actions";
 
 // Default app
 $content_defaultapp_title = "Настрой Keka като програма по подразбиране за разхархивиране";
