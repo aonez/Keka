@@ -9,13 +9,13 @@ $content_language_locale = "fr";
 //
 // Set $show_content_bottom_translator as true if you want to appear in the bottom of the page
 $show_content_bottom_translator = false;
-$content_bottom_translator = 'Translated by <a href="https://yoursite.or.email.or.whatever">Yourself</a>.';
+$content_bottom_translator = 'Traduit par Marc66';
 //
 //
 
 // iOS
-$ios_title = "$keka for iOS";
-$ios_content_title = "the iOS file archiver";
+$ios_title = "$keka pour iOS";
+$ios_content_title = "le compresseur d'iOS";
 
 // General
 $content_download = "Téléchargement";
@@ -32,8 +32,8 @@ $content_download_love = "Vous aimez?";
 $content_download_legacy = "Ancienne";
 $content_download_helper = "Assistant";
 $content_downloading = "Téléchargement ";
-$content_get_platform = "Get it for ";
-$content_testflight = "TestFlight needed to install this build";
+$content_get_platform = "Obtenir pour ";
+$content_testflight = "TestFlight nécessaire pour installer cette version (build)";
 $content_downloading_if_fails = "Si le téléchargement ne commence pas automatiquement ";
 $content_downloading_if_fails_click_here = "cliquer ici";
 
@@ -66,16 +66,16 @@ $content_info_compression = "Keka peut créer des fichiers dans ces formats:";
 $content_info_extraction = "Et extraire dans ces formats:";
 
 // Info v2 (iOS and future macOS)
-$content_info_v2_title1 = "Store more";
-$content_info_v2_title2 = "Share with privacy";
-$content_info_v2_title3 = "A perfect Browsing experience";
-$content_info_v2_title4 = "Multitasking at its finest";
-$content_info_v2_title5 = "Always at hand";
-$content_info_v2_text1 = "With multiple Compression Formats<br />to choose the Perfect One";
-$content_info_v2_text2 = "Protect your shared files with a Password<br />and Encrypt them with AES-256";
-$content_info_v2_text3 = "Preview, Extract and Share<br />only what You Need";
-$content_info_v2_text4 = "Extract, Compress and Browse<br />without limits";
-$content_info_v2_text5 = "Extract, Compress and Browse<br />from anywhere using the Share Actions";
+$content_info_v2_title1 = "Stockez plus";
+$content_info_v2_title2 = "Partagez de façon sûre";
+$content_info_v2_title3 = "Une expérience de navigation parfaite";
+$content_info_v2_title4 = "Le multi-tâche à son meilleur";
+$content_info_v2_title5 = "Toujours disponible";
+$content_info_v2_text1 = "Avec de nombreux formats de compression<br />pour choisir le meilleur";
+$content_info_v2_text2 = "Protégez vos fichiers partagés avec un mot de passe<br />et chiffrez-les avec AES-256";
+$content_info_v2_text3 = "Visualisez, Extrayez et Partagez<br />seulement ce que Vous voulez";
+$content_info_v2_text4 = "Extrayez, Compressez et Explorez<br />sans limite";
+$content_info_v2_text5 = "Extrayez, Compressez et Explorez<br />depuis n'importe où avec les actions de partage";
 
 // Default app
 $content_defaultapp_title = 'Définissez Keka comme application d\'extraction par défaut';
@@ -84,8 +84,8 @@ $content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Def
 // Terms of use
 $content_termsofuse_title = 'Conditions d\'utilisation';
 $content_termsofuse_disclaimer = 'THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.';
-$content_termsofuse_inapp_title = 'In-App Purchases';
-$content_termsofuse_inapp = 'The App Store version of Keka offers In-App purchases as a way to tip and help the development of the project, similar to <a href="https://www.keka.io/#lovekeka">PayPal/Sponsors in the website</a>. Those purchases are optional and do not grant any additional features.';
+$content_termsofuse_inapp_title = 'Achats intégrés à l\'application';
+$content_termsofuse_inapp = 'La version App Store de Keka offre des achats intégrés à l\'application comme méthode de pourboire et pour aider au développement du projet, de façon similaire à <a href="https://www.keka.io/#lovekeka">PayPal/Parrainage sur le site Web</a>. Ces achats sont facultatifs et n\'offrent aucune fonctionnalités supplémentaires.';
 
 // Privacy Policy
 $content_privacypolicy_title = 'Politique de confidentialité';
