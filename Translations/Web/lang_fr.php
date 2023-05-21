@@ -15,7 +15,7 @@ $content_bottom_translator = 'Traduit par Marc66';
 
 // iOS
 $ios_title = "$keka pour iOS";
-$ios_content_title = "le compresseur d'iOS";
+$ios_content_title = "le compresseur pour iOS";
 
 // General
 $content_download = "Téléchargement";
