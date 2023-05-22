@@ -37,22 +37,22 @@
       </trans-unit>
       <trans-unit id="Amiga DCS Disk Archive" xml:space="preserve">
         <source>Amiga DCS Disk Archive</source>
-        <target>Amiga DCS Disk 归档</target>
+        <target>Amiga DCS 磁盘归档</target>
         <note/>
       </trans-unit>
       <trans-unit id="Amiga DMS Disk Archive" xml:space="preserve">
         <source>Amiga DMS Disk Archive</source>
-        <target>Amiga DMS Disk 归档</target>
+        <target>Amiga DMS 磁盘归档</target>
         <note/>
       </trans-unit>
       <trans-unit id="Amiga Disk File" xml:space="preserve">
         <source>Amiga Disk File</source>
-        <target>Amiga Disk File</target>
+        <target>Amiga 磁盘文件</target>
         <note/>
       </trans-unit>
       <trans-unit id="Amiga PackDev Disk Archive" xml:space="preserve">
         <source>Amiga PackDev Disk Archive</source>
-        <target>Amiga PackDev Disk 归档</target>
+        <target>Amiga PackDev 磁盘归档</target>
         <note/>
       </trans-unit>
       <trans-unit id="Amiga PowerPacker Archive" xml:space="preserve">
@@ -62,12 +62,12 @@
       </trans-unit>
       <trans-unit id="Amiga Zoom Disk Archive" xml:space="preserve">
         <source>Amiga Zoom Disk Archive</source>
-        <target>Amiga Zoom Disk 归档</target>
+        <target>Amiga Zoom 磁盘归档</target>
         <note/>
       </trans-unit>
       <trans-unit id="Amiga xMash Disk Archive" xml:space="preserve">
         <source>Amiga xMash Disk Archive</source>
-        <target>Amiga xMash Disk 归档</target>
+        <target>Amiga xMash 磁盘归档</target>
         <note/>
       </trans-unit>
       <trans-unit id="Android Application Package" xml:space="preserve">
@@ -102,7 +102,7 @@
       </trans-unit>
       <trans-unit id="Compressed Amiga Disk File" xml:space="preserve">
         <source>Compressed Amiga Disk File</source>
-        <target>Compressed Amiga Disk File</target>
+        <target>Compressed Amiga 磁盘文件</target>
         <note/>
       </trans-unit>
       <trans-unit id="Deb Archive" xml:space="preserve">
@@ -132,7 +132,7 @@
       </trans-unit>
       <trans-unit id="LZMA File" xml:space="preserve">
         <source>LZMA File</source>
-        <target>LZMA File</target>
+        <target>LZMA 文件</target>
         <note/>
       </trans-unit>
       <trans-unit id="LZX Archive" xml:space="preserve">
@@ -162,7 +162,7 @@
       </trans-unit>
       <trans-unit id="Microsoft MSI Installer" xml:space="preserve">
         <source>Microsoft MSI Installer</source>
-        <target>Microsoft MSI Installer</target>
+        <target>微软 MSI 安装程序</target>
         <note/>
       </trans-unit>
       <trans-unit id="NRG Disk Image" xml:space="preserve">
@@ -177,7 +177,7 @@
       </trans-unit>
       <trans-unit id="Now Compress Archive" xml:space="preserve">
         <source>Now Compress Archive</source>
-        <target>Now Compress 归档</target>
+        <target>当前压缩归档</target>
         <note/>
       </trans-unit>
       <trans-unit id="PMA Archive" xml:space="preserve">
@@ -207,17 +207,17 @@
       </trans-unit>
       <trans-unit id="Self-Extracting Archive" xml:space="preserve">
         <source>Self-Extracting Archive</source>
-        <target>Self-Extracting 归档</target>
+        <target>自提取归档</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unix Compress File" xml:space="preserve">
         <source>Unix Compress File</source>
-        <target>Unix Compress File</target>
+        <target>Unix 压缩文件</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unix Compress Tar Archive" xml:space="preserve">
         <source>Unix Compress Tar Archive</source>
-        <target>Unix Compress Tar 归档</target>
+        <target>Unix 压缩 Tar 归档</target>
         <note/>
       </trans-unit>
       <trans-unit id="WARC Web Archive" xml:space="preserve">
@@ -242,7 +242,7 @@
       </trans-unit>
       <trans-unit id="XZ Tarball Archive" xml:space="preserve">
         <source>XZ Tarball Archive</source>
-        <target>XZ 压缩 TAR 归档</target>
+        <target>XZ 压缩归档</target>
         <note/>
       </trans-unit>
       <trans-unit id="ZIP Archive" xml:space="preserve">
@@ -262,12 +262,12 @@
       </trans-unit>
       <trans-unit id="Zstandard Archive" xml:space="preserve">
         <source>Zstandard Archive</source>
-        <target>Zstandard 归档</target>
+        <target>Zstd 归档</target>
         <note/>
       </trans-unit>
       <trans-unit id="Zstandard Tarball Archive" xml:space="preserve">
         <source>Zstandard Tarball Archive</source>
-        <target>Zstandard 压缩 TAR 归档</target>
+        <target>Zstd 压缩归档</target>
         <note/>
       </trans-unit>
     </body>
@@ -342,22 +342,22 @@
       </trans-unit>
       <trans-unit id="BROWSE_OPERATION" xml:space="preserve">
         <source>Browse</source>
-        <target>打开</target>
+        <target>浏览</target>
         <note>Browse, operation description.</note>
       </trans-unit>
       <trans-unit id="BROWSE_RUNNING" xml:space="preserve">
         <source>Browsing</source>
-        <target>正在打开</target>
+        <target>正在浏览</target>
         <note>Browsing, operation running.</note>
       </trans-unit>
       <trans-unit id="BROWSE_SECTION_TITLE" xml:space="preserve">
         <source>Browsing</source>
-        <target>已打开</target>
+        <target>正在浏览</target>
         <note>Browsing, tasks section title.</note>
       </trans-unit>
       <trans-unit id="Browser" xml:space="preserve">
         <source>Browser</source>
-        <target>浏览器设置</target>
+        <target>浏览器</target>
         <note>Browser settings title.</note>
       </trans-unit>
       <trans-unit id="COMPRESSION_OPERATION" xml:space="preserve">
@@ -372,7 +372,7 @@
       </trans-unit>
       <trans-unit id="COMPRESSION_SECTION_TITLE" xml:space="preserve">
         <source>Compressing</source>
-        <target>压缩任务</target>
+        <target>正在压缩</target>
         <note>Compressing, tasks section title.</note>
       </trans-unit>
       <trans-unit id="Calculate" xml:space="preserve">
@@ -437,7 +437,7 @@
       </trans-unit>
       <trans-unit id="Created" xml:space="preserve">
         <source>Created</source>
-        <target>创建日期</target>
+        <target>已创建</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Custom..." xml:space="preserve">
@@ -457,7 +457,7 @@
       </trans-unit>
       <trans-unit id="Default Destination" xml:space="preserve">
         <source>Default Destination</source>
-        <target>默认目标地址</target>
+        <target>默认目标位置</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Default Format" xml:space="preserve">
@@ -477,7 +477,7 @@
       </trans-unit>
       <trans-unit id="Destination" xml:space="preserve">
         <source>Destination</source>
-        <target>目标地址</target>
+        <target>目标位置</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Disable &quot;%@&quot; if you prefer to use a default configuration." xml:space="preserve">
@@ -487,7 +487,7 @@
       </trans-unit>
       <trans-unit id="Dismiss" xml:space="preserve">
         <source>Dismiss</source>
-        <target>取消</target>
+        <target>撤销</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
@@ -507,7 +507,7 @@
       </trans-unit>
       <trans-unit id="EXTRACTION_SECTION_TITLE" xml:space="preserve">
         <source>Extracting</source>
-        <target>提取任务</target>
+        <target>正在提取</target>
         <note>Extracting, tasks section title.</note>
       </trans-unit>
       <trans-unit id="Edit" xml:space="preserve">
@@ -544,7 +544,7 @@
       </trans-unit>
       <trans-unit id="Extraction" xml:space="preserve">
         <source>Extraction</source>
-        <target>提取设置</target>
+        <target>提取</target>
         <note>Extraction settings title.</note>
       </trans-unit>
       <trans-unit id="Fast" xml:space="preserve">
@@ -599,12 +599,12 @@
       </trans-unit>
       <trans-unit id="Keka's Folder" xml:space="preserve">
         <source>Keka's Folder</source>
-        <target>Keka的文件夹</target>
+        <target>Keka 的文件夹</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Keka's icon" xml:space="preserve">
         <source>Keka's icon</source>
-        <target>Keka的图标</target>
+        <target>Keka 的图标</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Kind" xml:space="preserve">
@@ -624,7 +624,7 @@
       </trans-unit>
       <trans-unit id="Made with" xml:space="preserve">
         <source>Made with</source>
-        <target>用...做成</target>
+        <target>用</target>
         <note>"Made with" part from "Made with love by aone".</note>
       </trans-unit>
       <trans-unit id="Modified" xml:space="preserve">
@@ -649,7 +649,7 @@
       </trans-unit>
       <trans-unit id="No files to extract" xml:space="preserve">
         <source>No files to extract</source>
-        <target>没有文件可提取</target>
+        <target>无可提取文件</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="None" xml:space="preserve">
@@ -704,7 +704,7 @@
       </trans-unit>
       <trans-unit id="Quick Look" xml:space="preserve">
         <source>Quick Look</source>
-        <target>快速预览</target>
+        <target>快速查看</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Remember Last Used Options" xml:space="preserve">
@@ -769,17 +769,17 @@
       </trans-unit>
       <trans-unit id="TRANSLATOR_LINK" xml:space="preserve">
         <source>TRANSLATOR_LINK</source>
-        <target>https://ios.keka.io</target>
+        <target>https://maxsky.cc</target>
         <note>The translator link, if any. Can be a mail address or a website.</note>
       </trans-unit>
       <trans-unit id="TRANSLATOR_NAME" xml:space="preserve">
         <source>TRANSLATOR_NAME</source>
-        <target>aone</target>
+        <target>Max Sky</target>
         <note>The translator name, if any.</note>
       </trans-unit>
       <trans-unit id="The %@ of space available in the destination might not be enough for compressing the estimated %@." xml:space="preserve">
         <source>The %@ of space available in the destination might not be enough for compressing the estimated %@.</source>
-        <target>目标地可用空间为 %@，可能不足以压缩预估的 %@。</target>
+        <target>目标位置可用空间 %@ 小于预估 %@，可能不足以进行压缩。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The changes could not be saved" xml:space="preserve">
@@ -789,17 +789,17 @@
       </trans-unit>
       <trans-unit id="The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." xml:space="preserve">
         <source>The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread.</source>
-        <target>压缩可能需要比可用内存（%@）更多的内存，并且可能不能成功完成。将仅限于一个线程。</target>
+        <target>压缩可能需要比可用内存（%@）更多的内存，并且可能无法成功完成。将被限制为一个线程。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The compression will be limited to %lld thread/s due to memory constraints." xml:space="preserve">
         <source>The compression will be limited to %lld thread/s due to memory constraints.</source>
-        <target>由于内存限制，压缩将仅限于 %lld 个线程/s。</target>
+        <target>由于内存限制，压缩将限制为 %lld 个线程/s。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The destination has %@ of space available." xml:space="preserve">
         <source>The destination has %@ of space available.</source>
-        <target>目标地有 %@ 的空间。</target>
+        <target>目标位置有 %@ 可用空间。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The file manager for iOS and macOS" xml:space="preserve">
@@ -839,7 +839,7 @@
       </trans-unit>
       <trans-unit id="Unable to apply the app icon" xml:space="preserve">
         <source>Unable to apply the app icon</source>
-        <target>无法应用应用图标</target>
+        <target>无法应用该应用图标</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Unable to browse &quot;%@&quot;" xml:space="preserve">
@@ -874,7 +874,7 @@
       </trans-unit>
       <trans-unit id="Use special coloring for known formats" xml:space="preserve">
         <source>Use special coloring for known formats</source>
-        <target>对于已知格式使用特殊颜色</target>
+        <target>对于已知格式使用专用颜色</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Welcome" xml:space="preserve">
@@ -899,7 +899,7 @@
       </trans-unit>
       <trans-unit id="compressed" xml:space="preserve">
         <source>compressed</source>
-        <target>已压</target>
+        <target>已压缩</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="compression failed" xml:space="preserve">
@@ -960,7 +960,7 @@
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>Extract using Keka</source>
-        <target>使用 Keka 解压</target>
+        <target>使用 Keka 提取</target>
         <note>Bundle display name</note>
       </trans-unit>
     </body>

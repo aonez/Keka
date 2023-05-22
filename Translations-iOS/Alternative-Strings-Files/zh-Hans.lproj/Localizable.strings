@@ -32,16 +32,16 @@
 "Ask" = "询问";
 
 /* Browse, operation description. */
-"BROWSE_OPERATION" = "打开";
+"BROWSE_OPERATION" = "浏览";
 
 /* Browsing, operation running. */
-"BROWSE_RUNNING" = "正在打开";
+"BROWSE_RUNNING" = "正在浏览";
 
 /* Browsing, tasks section title. */
-"BROWSE_SECTION_TITLE" = "已打开";
+"BROWSE_SECTION_TITLE" = "正在浏览";
 
 /* Browser settings title. */
-"Browser" = "浏览器设置";
+"Browser" = "浏览器";
 
 /* "by aone" part from "Made with love by aone". */
 "by %@" = "%@ 制作";
@@ -68,7 +68,7 @@
 "Compress" = "压缩";
 
 /* No comment provided by engineer. */
-"compressed" = "已压";
+"compressed" = "已压缩";
 
 /* No comment provided by engineer. */
 "Compressed size" = "压缩大小";
@@ -89,7 +89,7 @@
 "COMPRESSION_RUNNING" = "正在压缩";
 
 /* Compressing, tasks section title. */
-"COMPRESSION_SECTION_TITLE" = "压缩任务";
+"COMPRESSION_SECTION_TITLE" = "正在压缩";
 
 /* No comment provided by engineer. */
 "Contents" = "内容";
@@ -98,7 +98,7 @@
 "Contents: %@, Size: %@" = "内容：%@，大小：%@";
 
 /* No comment provided by engineer. */
-"Created" = "创建日期";
+"Created" = "已创建";
 
 /* No comment provided by engineer. */
 "Custom..." = "自定义...";
@@ -110,7 +110,7 @@
 "Default Compression Level" = "默认压缩级别";
 
 /* No comment provided by engineer. */
-"Default Destination" = "默认目标地址";
+"Default Destination" = "默认目标位置";
 
 /* No comment provided by engineer. */
 "Default Format" = "默认格式";
@@ -122,13 +122,13 @@
 "Delete" = "删除";
 
 /* No comment provided by engineer. */
-"Destination" = "目标地址";
+"Destination" = "目标位置";
 
 /* No comment provided by engineer. */
 "Disable \"%@\" if you prefer to use a default configuration." = "如果你想使用默认设置，请禁用 \"%@\"。";
 
 /* No comment provided by engineer. */
-"Dismiss" = "取消";
+"Dismiss" = "撤销";
 
 /* No comment provided by engineer. */
 "done" = "完成";
@@ -158,7 +158,7 @@
 "extracted" = "已提取";
 
 /* Extraction settings title. */
-"Extraction" = "提取设置";
+"Extraction" = "提取";
 
 /* No comment provided by engineer. */
 "extraction failed" = "提取失败";
@@ -170,7 +170,7 @@
 "EXTRACTION_RUNNING" = "正在提取";
 
 /* Extracting, tasks section title. */
-"EXTRACTION_SECTION_TITLE" = "提取任务";
+"EXTRACTION_SECTION_TITLE" = "正在提取";
 
 /* No comment provided by engineer. */
 "failed" = "失败";
@@ -206,10 +206,10 @@
 "Information" = "信息";
 
 /* No comment provided by engineer. */
-"Keka's Folder" = "Keka的文件夹";
+"Keka's Folder" = "Keka 的文件夹";
 
 /* No comment provided by engineer. */
-"Keka's icon" = "Keka的图标";
+"Keka's icon" = "Keka 的图标";
 
 /* No comment provided by engineer. */
 "Kind" = "种类";
@@ -221,7 +221,7 @@
 "Loading" = "正在加载";
 
 /* "Made with" part from "Made with love by aone". */
-"Made with" = "用...做成";
+"Made with" = "用";
 
 /* No comment provided by engineer. */
 "Modified" = "修改";
@@ -236,7 +236,7 @@
 "No contents available" = "无可用内容";
 
 /* No comment provided by engineer. */
-"No files to extract" = "没有文件可提取";
+"No files to extract" = "无可提取文件";
 
 /* No comment provided by engineer. */
 "None" = "无";
@@ -269,7 +269,7 @@
 "Preview" = "预览";
 
 /* No comment provided by engineer. */
-"Quick Look" = "快速预览";
+"Quick Look" = "快速查看";
 
 /* No comment provided by engineer. */
 "Remember Last Used Options" = "记住上次使用的选项";
@@ -308,19 +308,19 @@
 "Store" = "存储";
 
 /* No comment provided by engineer. */
-"The %@ of space available in the destination might not be enough for compressing the estimated %@." = "目标地可用空间为 %@，可能不足以压缩预估的 %@。";
+"The %@ of space available in the destination might not be enough for compressing the estimated %@." = "目标位置可用空间 %@ 小于预估 %@，可能不足以进行压缩。";
 
 /* No comment provided by engineer. */
 "The changes could not be saved" = "更改无法保存";
 
 /* No comment provided by engineer. */
-"The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "压缩可能需要比可用内存（%@）更多的内存，并且可能不能成功完成。将仅限于一个线程。";
+"The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "压缩可能需要比可用内存（%@）更多的内存，并且可能无法成功完成。将被限制为一个线程。";
 
 /* No comment provided by engineer. */
-"The compression will be limited to %lld thread/s due to memory constraints." = "由于内存限制，压缩将仅限于 %lld 个线程/s。";
+"The compression will be limited to %lld thread/s due to memory constraints." = "由于内存限制，压缩将限制为 %lld 个线程/s。";
 
 /* No comment provided by engineer. */
-"The destination has %@ of space available." = "目标地有 %@ 的空间。";
+"The destination has %@ of space available." = "目标位置有 %@ 可用空间。";
 
 /* No comment provided by engineer. */
 "The file manager for iOS and macOS" = "适用于 iOS 和 macOS 的文件管理器";
@@ -341,16 +341,16 @@
 "Translated by %@" = "翻译者：%@";
 
 /* The translator link, if any. Can be a mail address or a website. */
-"TRANSLATOR_LINK" = "https://ios.keka.io";
+"TRANSLATOR_LINK" = "https://maxsky.cc";
 
 /* The translator name, if any. */
-"TRANSLATOR_NAME" = "aone";
+"TRANSLATOR_NAME" = "Max Sky";
 
 /* No comment provided by engineer. */
 "Type" = "类型";
 
 /* No comment provided by engineer. */
-"Unable to apply the app icon" = "无法应用应用图标";
+"Unable to apply the app icon" = "无法应用该应用图标";
 
 /* No comment provided by engineer. */
 "Unable to browse \"%@\"" = "无法浏览 \"%@\"";
@@ -368,7 +368,7 @@
 "Use AES-256 if Available" = "如果可用，使用 AES-256 加密";
 
 /* No comment provided by engineer. */
-"Use special coloring for known formats" = "对于已知格式使用特殊颜色";
+"Use special coloring for known formats" = "对于已知格式使用专用颜色";
 
 /* No comment provided by engineer. */
 "Use UTF-8 Encoding if Available" = "如果可用，使用 UTF-8 编码";
