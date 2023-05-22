@@ -1,0 +1,390 @@
+/* No comment provided by engineer. */
+"\"%@\"" = "\"%@\"";
+
+/* No comment provided by engineer. */
+"%@" = "%@";
+
+/* No comment provided by engineer. */
+"%@ item" = "%@ đơn vị";
+
+/* No comment provided by engineer. */
+"%@ items" = "%@ đơn vị";
+
+/* No comment provided by engineer. */
+"%@ of %@ item" = "%@ trên %@ đơn vị";
+
+/* No comment provided by engineer. */
+"%@ of %@ items" = "%@ trên %@ đơn vị";
+
+/* No comment provided by engineer. */
+"About" = "Thông tin thêm";
+
+/* No comment provided by engineer. */
+"Actions" = "Các hành động";
+
+/* No comment provided by engineer. */
+"Add a File" = "Thêm một tập tin";
+
+/* No comment provided by engineer. */
+"Add a Folder" = "Thêm một thư mục";
+
+/* No comment provided by engineer. */
+"Add some contents using the %@ button or the %@ and %@ buttons in the toolbar." = "Thêm một số nội dung bằng nút %@ hoặc các nút %@ và %@ trên thanh công cụ.";
+
+/* No comment provided by engineer. */
+"Allocated size" = "Kích thước được phân bổ";
+
+/* No comment provided by engineer. */
+"Ask" = "Hỏi";
+
+/* Browse, operation description. */
+"BROWSE_OPERATION" = "Duyệt";
+
+/* Browsing, operation running. */
+"BROWSE_RUNNING" = "Đang duyệt";
+
+/* Browsing, tasks section title. */
+"BROWSE_SECTION_TITLE" = "Đang duyệt";
+
+/* Browser settings title. */
+"Browser" = "Bộ duyệt";
+
+/* "by aone" part from "Made with love by aone". */
+"by %@" = "bởi %@";
+
+/* No comment provided by engineer. */
+"Calculate" = "Tính toán";
+
+/* No comment provided by engineer. */
+"Cancel" = "Huỷ bỏ";
+
+/* No comment provided by engineer. */
+"Choose" = "Chọn";
+
+/* No comment provided by engineer. */
+"Clear Cache" = "Dọn bộ nhớ tạm";
+
+/* No comment provided by engineer. */
+"Clear Cache Contents" = "Dọn nội dung bộ nhớ tạm";
+
+/* No comment provided by engineer. */
+"Close" = "Đóng";
+
+/* No comment provided by engineer. */
+"Compress" = "Nén";
+
+/* No comment provided by engineer. */
+"compressed" = "đã nén";
+
+/* No comment provided by engineer. */
+"Compressed size" = "Kích thước đã nén";
+
+/* Compression settings title. */
+"Compression" = "Quá trình nén";
+
+/* No comment provided by engineer. */
+"compression failed" = "quá trình nén thất bại";
+
+/* No comment provided by engineer. */
+"Compression Level:" = "Mức độ nén:";
+
+/* Compression, operation description. */
+"COMPRESSION_OPERATION" = "Quá trình nén";
+
+/* Compressing, operation running. */
+"COMPRESSION_RUNNING" = "Đang nén";
+
+/* Compressing, tasks section title. */
+"COMPRESSION_SECTION_TITLE" = "Đang nén";
+
+/* No comment provided by engineer. */
+"Contents" = "Nội dung";
+
+/* No comment provided by engineer. */
+"Contents: %@, Size: %@" = "Nội dung: %@, Kích thước: %@";
+
+/* No comment provided by engineer. */
+"Created" = "Đã tạo";
+
+/* No comment provided by engineer. */
+"Custom..." = "Tuỳ chỉnh...";
+
+/* No comment provided by engineer. */
+"Date" = "Ngày";
+
+/* No comment provided by engineer. */
+"Default Compression Level" = "Mức độ nén mặc định";
+
+/* No comment provided by engineer. */
+"Default Destination" = "Nơi xuất mặc định";
+
+/* No comment provided by engineer. */
+"Default Format" = "Định dạng mặc định";
+
+/* No comment provided by engineer. */
+"Default Tap Action" = "Lệnh chạm mặc định";
+
+/* No comment provided by engineer. */
+"Delete" = "Xoá";
+
+/* No comment provided by engineer. */
+"Destination" = "Nơi lưu";
+
+/* No comment provided by engineer. */
+"Disable \"%@\" if you prefer to use a default configuration." = "Tắt \"%@\" nếu bạn muốn dùng tuỳ chỉnh mặc định.";
+
+/* No comment provided by engineer. */
+"Dismiss" = "Bỏ qua";
+
+/* No comment provided by engineer. */
+"done" = "hoàn thành";
+
+/* No comment provided by engineer. */
+"Done" = "Hoàn thành";
+
+/* No comment provided by engineer. */
+"Edit" = "Sửa";
+
+/* No comment provided by engineer. */
+"Encrypt Filenames" = "Mã hoá tên tập tin";
+
+/* No comment provided by engineer. */
+"Encrypt Filenames if Possible" = "Mã hoá tên tập tin nếu có thể";
+
+/* No comment provided by engineer. */
+"Enter the password for the file\n\"%@\"" = "Nhập mật khẩu cho tập tin\n\"%@\"";
+
+/* No comment provided by engineer. */
+"Extract" = "Giải nén";
+
+/* No comment provided by engineer. */
+"Extract the file" = "Giải nén tập tin";
+
+/* No comment provided by engineer. */
+"extracted" = "đã giải nén";
+
+/* Extraction settings title. */
+"Extraction" = "Quá trình giải nén";
+
+/* No comment provided by engineer. */
+"extraction failed" = "giải nén thất bại";
+
+/* Extraction, operation description. */
+"EXTRACTION_OPERATION" = "Quá trình giải nén";
+
+/* Extracting, operation running. */
+"EXTRACTION_RUNNING" = "Đang giải nén";
+
+/* Extracting, tasks section title. */
+"EXTRACTION_SECTION_TITLE" = "Đang giải nén";
+
+/* No comment provided by engineer. */
+"failed" = "thất bại";
+
+/* No comment provided by engineer. */
+"Fast" = "Nhanh";
+
+/* No comment provided by engineer. */
+"Fastest" = "Nhanh nhất";
+
+/* No comment provided by engineer. */
+"Feedback" = "Góp ý";
+
+/* No comment provided by engineer. */
+"File not informed properly, try again." = "Tập tin chưa đọc hết, hãy thử lại";
+
+/* No comment provided by engineer. */
+"Format" = "Định dạng";
+
+/* General settings title. */
+"General" = "Chung";
+
+/* No comment provided by engineer. */
+"Get Info" = "Lấy thông tin";
+
+/* No comment provided by engineer. */
+"Hide Password by Default" = "Mặc định ẩn đi mật khẩu";
+
+/* No comment provided by engineer. */
+"If you got here, please get in touch with the developers." = "Nếu bạn đọc được dòng này. Vui lòng liên hệ với lập trình viên ứng dụng này.";
+
+/* No comment provided by engineer. */
+"Information" = "Thông tin";
+
+/* No comment provided by engineer. */
+"Keka's Folder" = "Thư mục của Keka";
+
+/* No comment provided by engineer. */
+"Keka's icon" = "Biểu tượng của Keka";
+
+/* No comment provided by engineer. */
+"Kind" = "Loại";
+
+/* No comment provided by engineer. */
+"Last opened" = "Đã mở gần đây";
+
+/* No comment provided by engineer. */
+"Loading" = "Đang tải";
+
+/* "Made with" part from "Made with love by aone". */
+"Made with" = "Được tạo bởi";
+
+/* No comment provided by engineer. */
+"Modified" = "Sửa đổi";
+
+/* No comment provided by engineer. */
+"Name" = "Tên";
+
+/* No comment provided by engineer. */
+"No contents" = "Không có nội dung";
+
+/* No comment provided by engineer. */
+"No contents available" = "Không có nội dung khả dụng";
+
+/* No comment provided by engineer. */
+"No files to extract" = "Không có tập tin để giải nén";
+
+/* No comment provided by engineer. */
+"None" = "Không có";
+
+/* No comment provided by engineer. */
+"Normal" = "Bình thường";
+
+/* No comment provided by engineer. */
+"Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files." = "Không phải tất cả các nền tảng đều hỗ trợ mã hoá AES-256. Bạn cần ứng dụng bên thứ ba (như Keka) để mở các tập tin đã nén này.";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Open" = "Mở";
+
+/* No comment provided by engineer. */
+"Password" = "Mật khẩu";
+
+/* No comment provided by engineer. */
+"Password needed" = "Yêu cầu mật khẩu";
+
+/* No comment provided by engineer. */
+"Please enter the password for:" = "Vui lòng nhập mật khẩu cho:";
+
+/* No comment provided by engineer. */
+"Please select the encoding for:" = "Vui lòng chọn dạng mã hoá cho:";
+
+/* No comment provided by engineer. */
+"Preview" = "Xem trước";
+
+/* No comment provided by engineer. */
+"Quick Look" = "Xem nhanh";
+
+/* No comment provided by engineer. */
+"Remember Last Used Options" = "Ghi nhớ tuỳ chọn đã dùng trước đó";
+
+/* No comment provided by engineer. */
+"Remove from cache" = "Gỡ bỏ khỏi bộ nhớ tạm";
+
+/* No comment provided by engineer. */
+"Reset" = "Đặt lại";
+
+/* No comment provided by engineer. */
+"Reset All Settings" = "Đặt lại tất cả tuỳ chỉnh cài đặt";
+
+/* No comment provided by engineer. */
+"Review" = "Đánh giá";
+
+/* No comment provided by engineer. */
+"Save" = "Lưu";
+
+/* No comment provided by engineer. */
+"Settings" = "Cài đặt";
+
+/* No comment provided by engineer. */
+"Share" = "Chia sẻ";
+
+/* No comment provided by engineer. */
+"Size" = "Kích thước";
+
+/* No comment provided by engineer. */
+"Slow" = "Chậm";
+
+/* No comment provided by engineer. */
+"Slowest" = "Chậm nhất";
+
+/* No comment provided by engineer. */
+"Store" = "Lưu trữ";
+
+/* No comment provided by engineer. */
+"The %@ of space available in the destination might not be enough for compressing the estimated %@." = "Chỉ còn %@ dung lượng trống ở nơi lưu nên sẽ không đủ để thực hiện nén cho khoảng %@.";
+
+/* No comment provided by engineer. */
+"The changes could not be saved" = "Không thể lưu lại các thay đổi";
+
+/* No comment provided by engineer. */
+"The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "Quá trình nén cần (%@) bộ nhớ tạm hoặc nhiều hơn và có thể không thành công. Ứng dụng sẽ giới hạn xuống còn 1 luồng xử lý.";
+
+/* No comment provided by engineer. */
+"The compression will be limited to %lld thread/s due to memory constraints." = "Quá trình nén sẽ giới hạn xuống %lld luồng xử lý do thiếu bộ nhớ tạm.";
+
+/* No comment provided by engineer. */
+"The destination has %@ of space available." = "Nơi lưu có %@ dung lượng trống khả dụng.";
+
+/* No comment provided by engineer. */
+"The file manager for iOS and macOS" = "Trình quản lý tập tin cho iOS và macOS";
+
+/* No comment provided by engineer. */
+"The folder is empty" = "Thư mục này trống rỗng";
+
+/* No comment provided by engineer. */
+"The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "Mức độ nén càng chậm thì tỉ lệ nén càng cao. Ở mức nén lưu trữ, nội dung không hề bị nén mà chỉ được đóng gói nhanh thành tập tin nén.";
+
+/* No comment provided by engineer. */
+"To extract" = "Đến giải nén";
+
+/* No comment provided by engineer. */
+"Total size" = "Tổng dung lượng";
+
+/* No comment provided by engineer. */
+"Translated by %@" = "Được phiên dịch bởi %@";
+
+/* The translator link, if any. Can be a mail address or a website. */
+"TRANSLATOR_LINK" = "https://twitter.com/mwolfinspace";
+
+/* The translator name, if any. */
+"TRANSLATOR_NAME" = "mwolfinspace";
+
+/* No comment provided by engineer. */
+"Type" = "Loại";
+
+/* No comment provided by engineer. */
+"Unable to apply the app icon" = "Không thể áp dụng biểu tượng của ứng dụng";
+
+/* No comment provided by engineer. */
+"Unable to browse \"%@\"" = "Không thể duyệt đến \"%@\"";
+
+/* No comment provided by engineer. */
+"Unable to determine the available space." = "Không thể xác định dung lượng khoảng trống khả dụng";
+
+/* No comment provided by engineer. */
+"Unable to get encoding data" = "Không thể lấy dữ liệu mã hoá";
+
+/* No comment provided by engineer. */
+"Use AES-256 Encryption" = "Sử dụng mã hoá AES-256";
+
+/* No comment provided by engineer. */
+"Use AES-256 if Available" = "Sử dụng mã hoá AES-256 nếu có";
+
+/* No comment provided by engineer. */
+"Use special coloring for known formats" = "Sử dụng màu sắc đặc trưng cho các định dạng đã biết";
+
+/* No comment provided by engineer. */
+"Use UTF-8 Encoding if Available" = "Sử dụng mã hoá UTF-8 nếu có";
+
+/* No comment provided by engineer. */
+"Welcome" = "Chào mừng";
+
+/* The "Welcome to Keka" title. */
+"Welcome to %@" = "Chào mừng đến %@";
+
+/* No comment provided by engineer. */
+"Where" = "Ở đâu";
+
