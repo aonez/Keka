@@ -112,157 +112,157 @@
       </trans-unit>
       <trans-unit id="Deb Archive" xml:space="preserve">
         <source>Deb Archive</source>
-        <target>Deb Archive</target>
+        <target>Arquivo Deb</target>
         <note/>
       </trans-unit>
       <trans-unit id="DiskDoubler Archive" xml:space="preserve">
         <source>DiskDoubler Archive</source>
-        <target>DiskDoubler Archive</target>
+        <target>Arquivo de imagem DiskDoubler (DD)</target>
         <note/>
       </trans-unit>
       <trans-unit id="HA Archive" xml:space="preserve">
         <source>HA Archive</source>
-        <target>HA Archive</target>
+        <target>Arquivo HA</target>
         <note/>
       </trans-unit>
       <trans-unit id="Keka Extraction Package" xml:space="preserve">
         <source>Keka Extraction Package</source>
-        <target>Keka Extraction Package</target>
+        <target>Pacote de extração do Keka </target>
         <note/>
       </trans-unit>
       <trans-unit id="LBR Archive" xml:space="preserve">
         <source>LBR Archive</source>
-        <target>LBR Archive</target>
+        <target>Arquivo LBR</target>
         <note/>
       </trans-unit>
       <trans-unit id="LZMA File" xml:space="preserve">
         <source>LZMA File</source>
-        <target>LZMA File</target>
+        <target>Ficheiro LZMA</target>
         <note/>
       </trans-unit>
       <trans-unit id="LZX Archive" xml:space="preserve">
         <source>LZX Archive</source>
-        <target>LZX Archive</target>
+        <target>Arquivo LZX</target>
         <note/>
       </trans-unit>
       <trans-unit id="LhA Archive" xml:space="preserve">
         <source>LhA Archive</source>
-        <target>LhA Archive</target>
+        <target>Arquivo LhA</target>
         <note/>
       </trans-unit>
       <trans-unit id="LhF Archive" xml:space="preserve">
         <source>LhF Archive</source>
-        <target>LhF Archive</target>
+        <target>Arquivo LhF</target>
         <note/>
       </trans-unit>
       <trans-unit id="Linux RPM Archive" xml:space="preserve">
         <source>Linux RPM Archive</source>
-        <target>Linux RPM Archive</target>
+        <target>Arquivo Linux RPM</target>
         <note/>
       </trans-unit>
       <trans-unit id="MDF Disk Image" xml:space="preserve">
         <source>MDF Disk Image</source>
-        <target>MDF Disk Image</target>
+        <target>Imagem de Disco MDF</target>
         <note/>
       </trans-unit>
       <trans-unit id="Microsoft MSI Installer" xml:space="preserve">
         <source>Microsoft MSI Installer</source>
-        <target>Microsoft MSI Installer</target>
+        <target>Instalador de Windows*</target>
         <note/>
       </trans-unit>
       <trans-unit id="NRG Disk Image" xml:space="preserve">
         <source>NRG Disk Image</source>
-        <target>NRG Disk Image</target>
+        <target>Imagem de Disco NRG</target>
         <note/>
       </trans-unit>
       <trans-unit id="NSA Archive" xml:space="preserve">
         <source>NSA Archive</source>
-        <target>NSA Archive</target>
+        <target>Arquivo NSA</target>
         <note/>
       </trans-unit>
       <trans-unit id="Now Compress Archive" xml:space="preserve">
         <source>Now Compress Archive</source>
-        <target>Now Compress Archive</target>
+        <target>Arquivo Now Compress</target>
         <note/>
       </trans-unit>
       <trans-unit id="PMA Archive" xml:space="preserve">
         <source>PMA Archive</source>
-        <target>PMA Archive</target>
+        <target>Arquivo PMA</target>
         <note/>
       </trans-unit>
       <trans-unit id="PackIt Archive" xml:space="preserve">
         <source>PackIt Archive</source>
-        <target>PackIt Archive</target>
+        <target>Arquivo PackIt</target>
         <note/>
       </trans-unit>
       <trans-unit id="Pax Archive" xml:space="preserve">
         <source>Pax Archive</source>
-        <target>Pax Archive</target>
+        <target>Arquivo Pax</target>
         <note/>
       </trans-unit>
       <trans-unit id="RAR Archive" xml:space="preserve">
         <source>RAR Archive</source>
-        <target>RAR Archive</target>
+        <target>Arquivo RAR</target>
         <note/>
       </trans-unit>
       <trans-unit id="SAR Archive" xml:space="preserve">
         <source>SAR Archive</source>
-        <target>SAR Archive</target>
+        <target>Arquivo SAR</target>
         <note/>
       </trans-unit>
       <trans-unit id="Self-Extracting Archive" xml:space="preserve">
         <source>Self-Extracting Archive</source>
-        <target>Self-Extracting Archive</target>
+        <target>Arquivo Auto-extraível</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unix Compress File" xml:space="preserve">
         <source>Unix Compress File</source>
-        <target>Unix Compress File</target>
+        <target>Ficheiro Unix Compress</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unix Compress Tar Archive" xml:space="preserve">
         <source>Unix Compress Tar Archive</source>
-        <target>Unix Compress Tar Archive</target>
+        <target>Arquivo TAR comprimido com Unix Compress</target>
         <note/>
       </trans-unit>
       <trans-unit id="WARC Web Archive" xml:space="preserve">
         <source>WARC Web Archive</source>
-        <target>WARC Web Archive</target>
+        <target>Arquivo web WARC</target>
         <note/>
       </trans-unit>
       <trans-unit id="XAR Archive" xml:space="preserve">
         <source>XAR Archive</source>
-        <target>XAR Archive</target>
+        <target>Arquivo XAR</target>
         <note/>
       </trans-unit>
       <trans-unit id="XIP Archive" xml:space="preserve">
         <source>XIP Archive</source>
-        <target>XIP Archive</target>
+        <target>Arquivo XIP</target>
         <note/>
       </trans-unit>
       <trans-unit id="XZ Archive" xml:space="preserve">
         <source>XZ Archive</source>
-        <target>XZ Archive</target>
+        <target>Arquivo XZ</target>
         <note/>
       </trans-unit>
       <trans-unit id="XZ Tarball Archive" xml:space="preserve">
         <source>XZ Tarball Archive</source>
-        <target>XZ Tarball Archive</target>
+        <target> Arquivo TAR comprimido com XZ</target>
         <note/>
       </trans-unit>
       <trans-unit id="ZIP Archive" xml:space="preserve">
         <source>ZIP Archive</source>
-        <target>ZIP Archive</target>
+        <target>Arquivo ZIP</target>
         <note/>
       </trans-unit>
       <trans-unit id="ZIPX Archive" xml:space="preserve">
         <source>ZIPX Archive</source>
-        <target>ZIPX Archive</target>
+        <target>Arquivo ZIPX</target>
         <note/>
       </trans-unit>
       <trans-unit id="ZOO Archive" xml:space="preserve">
         <source>ZOO Archive</source>
-        <target>ZOO Archive</target>
+        <target>Arquivo ZOO</target>
         <note/>
       </trans-unit>
       <trans-unit id="Zstandard Archive" xml:space="preserve">
