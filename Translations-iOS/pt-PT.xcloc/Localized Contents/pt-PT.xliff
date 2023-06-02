@@ -267,12 +267,12 @@
       </trans-unit>
       <trans-unit id="Zstandard Archive" xml:space="preserve">
         <source>Zstandard Archive</source>
-        <target>Zstandard Archive</target>
+        <target>Arquivo Zstandard</target>
         <note/>
       </trans-unit>
       <trans-unit id="Zstandard Tarball Archive" xml:space="preserve">
         <source>Zstandard Tarball Archive</source>
-        <target>Zstandard Tarball Archive</target>
+        <target>Arquivo TAR comprimido com Zstandard</target>
         <note/>
       </trans-unit>
     </body>
