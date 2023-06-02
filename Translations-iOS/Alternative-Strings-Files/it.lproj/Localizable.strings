@@ -119,6 +119,9 @@
 "Default Tap Action" = "Azione di default";
 
 /* No comment provided by engineer. */
+"Default Volume Unit" = "Unità di volume di default";
+
+/* No comment provided by engineer. */
 "Delete" = "Elimina";
 
 /* No comment provided by engineer. */
@@ -305,6 +308,9 @@
 "Slowest" = "Lentissimo";
 
 /* No comment provided by engineer. */
+"Split in volumes" = "Dividi in volumi";
+
+/* No comment provided by engineer. */
 "Store" = "Non compresso";
 
 /* No comment provided by engineer. */
@@ -341,7 +347,7 @@
 "Translated by %@" = "Tradotto da %@";
 
 /* The translator link, if any. Can be a mail address or a website. */
-"TRANSLATOR_LINK" = "http://vinboisoft.altervista.org/";
+"TRANSLATOR_LINK" = "https://vinboisoft.altervista.org/";
 
 /* The translator name, if any. */
 "TRANSLATOR_NAME" = "VinBoiSoft";
@@ -372,6 +378,9 @@
 
 /* No comment provided by engineer. */
 "Use UTF-8 Encoding if Available" = "Utilizza codifica UTF-8 se disponibile";
+
+/* No comment provided by engineer. */
+"Volume Size" = "Dimensioni del volume";
 
 /* No comment provided by engineer. */
 "Welcome" = "Benvenuti";
