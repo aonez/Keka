@@ -119,6 +119,9 @@
 "Default Tap Action" = "Acción por defecto";
 
 /* No comment provided by engineer. */
+"Default Volume Unit" = "Unidad de volumen por defecto";
+
+/* No comment provided by engineer. */
 "Delete" = "Borrar";
 
 /* No comment provided by engineer. */
@@ -305,6 +308,9 @@
 "Slowest" = "Más lento";
 
 /* No comment provided by engineer. */
+"Split in volumes" = "Dividir en volúmenes";
+
+/* No comment provided by engineer. */
 "Store" = "Almacenar";
 
 /* No comment provided by engineer. */
@@ -372,6 +378,9 @@
 
 /* No comment provided by engineer. */
 "Use UTF-8 Encoding if Available" = "Utilizar la codificación UTF-8 si está disponible";
+
+/* No comment provided by engineer. */
+"Volume Size" = "Tamaño";
 
 /* No comment provided by engineer. */
 "Welcome" = "Bienvenid@";

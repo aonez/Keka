@@ -115,6 +115,10 @@
         <target>Archivio DiskDoubler</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Generic Archive Volume" xml:space="preserve">
+        <source>Generic Archive Volume</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="HA Archive" xml:space="preserve">
         <source>HA Archive</source>
         <target>Archivio HA</target>

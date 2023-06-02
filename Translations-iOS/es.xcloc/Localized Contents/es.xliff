@@ -115,6 +115,11 @@
         <target>Archivo DiskDoubler</target>
         <note/>
       </trans-unit>
+      <trans-unit id="Generic Archive Volume" xml:space="preserve">
+        <source>Generic Archive Volume</source>
+        <target>Archivo de volumen genérico</target>
+        <note/>
+      </trans-unit>
       <trans-unit id="HA Archive" xml:space="preserve">
         <source>HA Archive</source>
         <target>Archivo HA</target>
@@ -476,6 +481,7 @@
       </trans-unit>
       <trans-unit id="Default Volume Unit" xml:space="preserve">
         <source>Default Volume Unit</source>
+        <target>Unidad de volumen por defecto</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete" xml:space="preserve">
@@ -772,6 +778,7 @@
       </trans-unit>
       <trans-unit id="Split in volumes" xml:space="preserve">
         <source>Split in volumes</source>
+        <target>Dividir en volúmenes</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Store" xml:space="preserve">
@@ -891,6 +898,7 @@
       </trans-unit>
       <trans-unit id="Volume Size" xml:space="preserve">
         <source>Volume Size</source>
+        <target>Tamaño</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Welcome" xml:space="preserve">
