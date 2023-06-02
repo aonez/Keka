@@ -47,7 +47,7 @@
       </trans-unit>
       <trans-unit id="Amiga Disk File" xml:space="preserve">
         <source>Amiga Disk File</source>
-        <target>Arquivo do Disco Amiga </target>
+        <target>Ficheiro do Disco Amiga </target>
         <note/>
       </trans-unit>
       <trans-unit id="Amiga PackDev Disk Archive" xml:space="preserve">
@@ -72,27 +72,27 @@
       </trans-unit>
       <trans-unit id="Android Application Package" xml:space="preserve">
         <source>Android Application Package</source>
-        <target>Android Application Package</target>
+        <target>Pacote de Aplicativo Android</target>
         <note/>
       </trans-unit>
       <trans-unit id="BZIP2 Archive" xml:space="preserve">
         <source>BZIP2 Archive</source>
-        <target>BZIP2 Archive</target>
+        <target>Arquivo BZIP2</target>
         <note/>
       </trans-unit>
       <trans-unit id="BZIP2 Tarball Archive" xml:space="preserve">
         <source>BZIP2 Tarball Archive</source>
-        <target>BZIP2 Tarball Archive</target>
+        <target>Arquivo Tarball (TAR) comprimido com BZIP2 </target>
         <note/>
       </trans-unit>
       <trans-unit id="CAB Archive" xml:space="preserve">
         <source>CAB Archive</source>
-        <target>CAB Archive</target>
+        <target>Arquivo CAB</target>
         <note/>
       </trans-unit>
       <trans-unit id="CDI Disk Image" xml:space="preserve">
         <source>CDI Disk Image</source>
-        <target>CDI Disk Image</target>
+        <target>Imagem de Disco CDI (ISO)</target>
         <note/>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -102,12 +102,12 @@
       </trans-unit>
       <trans-unit id="Compact Pro Archive" xml:space="preserve">
         <source>Compact Pro Archive</source>
-        <target>Compact Pro Archive</target>
+        <target>Arquivo Compact Pro</target>
         <note/>
       </trans-unit>
       <trans-unit id="Compressed Amiga Disk File" xml:space="preserve">
         <source>Compressed Amiga Disk File</source>
-        <target>Compressed Amiga Disk File</target>
+        <target>Ficheiro comprimido do Disco Amiga</target>
         <note/>
       </trans-unit>
       <trans-unit id="Deb Archive" xml:space="preserve">
