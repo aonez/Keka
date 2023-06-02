@@ -299,7 +299,7 @@
       </trans-unit>
       <trans-unit id="%@ of %@ item" xml:space="preserve">
         <source>%@ of %@ item</source>
-        <target>%@ of %@ item</target>
+        <target>%@ de %@ item</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ of %@ items" xml:space="preserve">
@@ -334,7 +334,7 @@
       </trans-unit>
       <trans-unit id="Allocated size" xml:space="preserve">
         <source>Allocated size</source>
-        <target>tamanho alocado</target>
+        <target>Tamanho alocado</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Ask" xml:space="preserve">
@@ -419,7 +419,7 @@
       </trans-unit>
       <trans-unit id="Compressed size" xml:space="preserve">
         <source>Compressed size</source>
-        <target>tamanho depois de comprimido</target>
+        <target>Tamanho depois de comprimido</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Compression" xml:space="preserve">
