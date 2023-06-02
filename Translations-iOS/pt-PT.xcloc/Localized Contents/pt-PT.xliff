@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="Keka/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+  <file original="Keka/en.lproj/InfoPlist.strings" source-language="en" target-language="pt" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.3" build-num="14E222b"/>
     </header>
     <body>
       <trans-unit id="7Z Archive" xml:space="preserve">
         <source>7Z Archive</source>
-        <target>7Z Archive</target>
+        <target>Arquivo 7Z</target>
         <note/>
       </trans-unit>
       <trans-unit id="ACE Archive" xml:space="preserve">
         <source>ACE Archive</source>
-        <target>ACE Archive</target>
+        <target>Arquivo ACE</target>
         <note/>
       </trans-unit>
       <trans-unit id="ALZip Archive" xml:space="preserve">
         <source>ALZip Archive</source>
-        <target>ALZip Archive</target>
+        <target>Arquivo ALZip</target>
         <note/>
       </trans-unit>
       <trans-unit id="APPX Archive" xml:space="preserve">
@@ -27,47 +27,47 @@
       </trans-unit>
       <trans-unit id="ARC Archive" xml:space="preserve">
         <source>ARC Archive</source>
-        <target>ARC Archive</target>
+        <target>Arquivo ARC</target>
         <note/>
       </trans-unit>
       <trans-unit id="ARJ Archive" xml:space="preserve">
         <source>ARJ Archive</source>
-        <target>ARJ Archive</target>
+        <target>Arquivo ARJ</target>
         <note/>
       </trans-unit>
       <trans-unit id="Amiga DCS Disk Archive" xml:space="preserve">
         <source>Amiga DCS Disk Archive</source>
-        <target>Amiga DCS Disk Archive</target>
+        <target>Arquivo do Disco Amiga DCS</target>
         <note/>
       </trans-unit>
       <trans-unit id="Amiga DMS Disk Archive" xml:space="preserve">
         <source>Amiga DMS Disk Archive</source>
-        <target>Amiga DMS Disk Archive</target>
+        <target>Arquivo do Disco Amiga DMS</target>
         <note/>
       </trans-unit>
       <trans-unit id="Amiga Disk File" xml:space="preserve">
         <source>Amiga Disk File</source>
-        <target>Amiga Disk File</target>
+        <target>Arquivo do Disco Amiga </target>
         <note/>
       </trans-unit>
       <trans-unit id="Amiga PackDev Disk Archive" xml:space="preserve">
         <source>Amiga PackDev Disk Archive</source>
-        <target>Amiga PackDev Disk Archive</target>
+        <target>Arquivo do Disco Amiga PackDev</target>
         <note/>
       </trans-unit>
       <trans-unit id="Amiga PowerPacker Archive" xml:space="preserve">
         <source>Amiga PowerPacker Archive</source>
-        <target>Amiga PowerPacker Archive</target>
+        <target> Arquivo do PowerPacker Amiga</target>
         <note/>
       </trans-unit>
       <trans-unit id="Amiga Zoom Disk Archive" xml:space="preserve">
         <source>Amiga Zoom Disk Archive</source>
-        <target>Amiga Zoom Disk Archive</target>
+        <target>Arcquivo do Disco Amiga Zoom </target>
         <note/>
       </trans-unit>
       <trans-unit id="Amiga xMash Disk Archive" xml:space="preserve">
         <source>Amiga xMash Disk Archive</source>
-        <target>Amiga xMash Disk Archive</target>
+        <target>Arquivo do Disco Amiga xMash</target>
         <note/>
       </trans-unit>
       <trans-unit id="Android Application Package" xml:space="preserve">
