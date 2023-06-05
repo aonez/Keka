@@ -117,6 +117,7 @@
       </trans-unit>
       <trans-unit id="Generic Archive Volume" xml:space="preserve">
         <source>Generic Archive Volume</source>
+        <target>Archivio volume generico</target>
         <note/>
       </trans-unit>
       <trans-unit id="HA Archive" xml:space="preserve">
@@ -480,6 +481,7 @@
       </trans-unit>
       <trans-unit id="Default Volume Unit" xml:space="preserve">
         <source>Default Volume Unit</source>
+        <target>Unità di volume di default</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete" xml:space="preserve">
@@ -776,6 +778,7 @@
       </trans-unit>
       <trans-unit id="Split in volumes" xml:space="preserve">
         <source>Split in volumes</source>
+        <target>Dividi in volumi</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Store" xml:space="preserve">
@@ -785,7 +788,7 @@
       </trans-unit>
       <trans-unit id="TRANSLATOR_LINK" xml:space="preserve">
         <source>TRANSLATOR_LINK</source>
-        <target>http://vinboisoft.altervista.org/</target>
+        <target>https://vinboisoft.altervista.org/</target>
         <note>The translator link, if any. Can be a mail address or a website.</note>
       </trans-unit>
       <trans-unit id="TRANSLATOR_NAME" xml:space="preserve">
@@ -830,7 +833,7 @@
       </trans-unit>
       <trans-unit id="The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." xml:space="preserve">
         <source>The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents.</source>
-        <target>Più lento è il livello, maggiore è la compressione che si può ottenere. Il livello "Non compresso" non esegue alcuna compressione, ma archivia solo i contenuti</target>
+        <target>Più lento è il livello, maggiore è la compressione che si può ottenere. Il livello "Non compresso" non esegue alcuna compressione, ma archivia solo i contenuti.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="To extract" xml:space="preserve">
@@ -895,6 +898,7 @@
       </trans-unit>
       <trans-unit id="Volume Size" xml:space="preserve">
         <source>Volume Size</source>
+        <target>Dimensioni del volume</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Welcome" xml:space="preserve">

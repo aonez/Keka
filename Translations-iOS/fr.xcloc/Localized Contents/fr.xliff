@@ -116,7 +116,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="Generic Archive Volume" xml:space="preserve">
-        <source>Volume d'archive générique</source>
+        <source>Generic Archive Volume</source>
+        <target>Volume d'archive générique</target>
         <note/>
       </trans-unit>
       <trans-unit id="HA Archive" xml:space="preserve">
@@ -480,6 +481,7 @@
       </trans-unit>
       <trans-unit id="Default Volume Unit" xml:space="preserve">
         <source>Default Volume Unit</source>
+        <target>Unité de volume par défaut</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete" xml:space="preserve">
@@ -776,6 +778,7 @@
       </trans-unit>
       <trans-unit id="Split in volumes" xml:space="preserve">
         <source>Split in volumes</source>
+        <target>Diviser en volumes</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Store" xml:space="preserve">
@@ -895,6 +898,7 @@
       </trans-unit>
       <trans-unit id="Volume Size" xml:space="preserve">
         <source>Volume Size</source>
+        <target>Dimension du volume</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Welcome" xml:space="preserve">
