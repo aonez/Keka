@@ -119,6 +119,9 @@
 "Default Tap Action" = "Azione di default";
 
 /* No comment provided by engineer. */
+"Default Volume Unit" = "Unità di volume di default";
+
+/* No comment provided by engineer. */
 "Delete" = "Elimina";
 
 /* No comment provided by engineer. */
@@ -305,6 +308,9 @@
 "Slowest" = "Lentissimo";
 
 /* No comment provided by engineer. */
+"Split in volumes" = "Dividi in volumi";
+
+/* No comment provided by engineer. */
 "Store" = "Non compresso";
 
 /* No comment provided by engineer. */
@@ -329,7 +335,7 @@
 "The folder is empty" = "La cartella è vuota";
 
 /* No comment provided by engineer. */
-"The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "Più lento è il livello, maggiore è la compressione che si può ottenere. Il livello \"Non compresso\" non esegue alcuna compressione, ma archivia solo i contenuti";
+"The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "Più lento è il livello, maggiore è la compressione che si può ottenere. Il livello \"Non compresso\" non esegue alcuna compressione, ma archivia solo i contenuti.";
 
 /* No comment provided by engineer. */
 "To extract" = "Per estrarre";
@@ -341,7 +347,7 @@
 "Translated by %@" = "Tradotto da %@";
 
 /* The translator link, if any. Can be a mail address or a website. */
-"TRANSLATOR_LINK" = "http://vinboisoft.altervista.org/";
+"TRANSLATOR_LINK" = "https://vinboisoft.altervista.org/";
 
 /* The translator name, if any. */
 "TRANSLATOR_NAME" = "VinBoiSoft";
@@ -372,6 +378,9 @@
 
 /* No comment provided by engineer. */
 "Use UTF-8 Encoding if Available" = "Utilizza codifica UTF-8 se disponibile";
+
+/* No comment provided by engineer. */
+"Volume Size" = "Dimensioni del volume";
 
 /* No comment provided by engineer. */
 "Welcome" = "Benvenuti";
