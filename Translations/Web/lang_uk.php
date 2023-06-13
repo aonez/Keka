@@ -14,16 +14,16 @@ $content_bottom_translator = 'Переклав <a href="https://fsnot.es">Оле
 //
 
 // iOS
-$ios_title = "$keka for iOS";
-$ios_content_title = "the iOS file archiver";
+$ios_title = "$keka для iOS";
+$ios_content_title = "архіватор файлів для iOS";
 
 // General
 $content_download = "Завантажити";
 $content_issues = "Знайшли баг?";
-$content_help = "Допомога";
+$content_help = "Довідка";
 $content_forum = "Форум";
 $content_changelog = "Журнал змін";
-$content_title = "архіватор файлів для macOS";
+$content_title = "Архіватор файлів для macOS";
 
 // Download
 $content_platform = "Потрібна $version_replace або новіше";

@@ -3,8 +3,8 @@
 "Compress to..." = "Стиснути в...";
 "Compress the contents of the folder here" = "Стиснути вміст папки тут";
 "Compress the contents of the folder to..." = "Стиснути вміст папки в...";
-"Encrypt with the default password here" = "Шифрувати з паролем за замовчуванням тут";
-"Encrypt with the default password to..." = "Шифрувати з паролем за замовчуванням в...";
+"Encrypt with the default password here" = "Заифрувати типовим паролем тут";
+"Encrypt with the default password to..." = "Зашифрувати типовим паролем в...";
 "Extract here" = "Розпакувати тут";
 "Extract to..." = "Розпакувати в...";
 "Extract to \"%@\"" = "Розпакувати в \"%@\"";
