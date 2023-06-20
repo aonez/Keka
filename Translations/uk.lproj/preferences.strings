@@ -48,7 +48,7 @@
 "264.title" = "Показати файл у Finder після стиснення";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "265"; */
-"265.title" = "Виключити ресурси Mac (наприклад: .DS_Store)";
+"265.title" = "Вилучити ресурси Mac (наприклад: .DS_Store)";
 
 /* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "279"; */
 "279.title" = "Запитувати кожен раз";
@@ -213,7 +213,7 @@
 "ND5-DN-C1H.title" = "Обмеження кількості потоків за операцію:";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "NwI-O4-9NI"; */
-"NwI-O4-9NI.title" = "Виключити ресурси Mac (наприклад: .DS_Store)";
+"NwI-O4-9NI.title" = "Вилучити ресурси Mac (наприклад: .DS_Store)";
 
 /* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder."; ObjectID = "PD2-iW-BGK"; */
 "PD2-iW-BGK.title" = "Увімкніть домашній доступ, тоді Keka може використовуватися на всіх ваших файлах користувача, наприклад у вашій папці Робочий стіл або Викачане.";
@@ -342,10 +342,10 @@
 "yGo-Gm-0zq.title" = "Максимум одночасних розпакувань:";
 
 /* Class = "NSTextFieldCell"; title = "Queuing usually results in faster operations and a more responsive behaviour."; ObjectID = "zPq-ei-qUb"; */
-"zPq-ei-qUb.title" = "Чергування зазвичай призводить до швидшого виконання завдань і більш передбачуваної поведінки програми.";
+"zPq-ei-qUb.title" = "Чергування зазвичай призводить до швидшого виконання завдань та їх більш передбачуваної поведінки.";
 
 /* Class = "NSButtonCell"; title = "Try the default password when extracting any file"; ObjectID = "zRi-PC-AW9"; */
 "zRi-PC-AW9.title" = "Пробувати стандартний пароль при розпакуванні будь-якого файла";
 
 /* Class = "NSButtonCell"; title = "Automatically install new updates"; ObjectID = "zTa-p3-fHX"; */
-"zTa-p3-fHX.title" = "Automatically install new updates";
+"zTa-p3-fHX.title" = "Автоматично інсталювати нові оновлення";
