@@ -605,7 +605,7 @@
       </trans-unit>
       <trans-unit id="If you got here, please get in touch with the developers." xml:space="preserve">
         <source>If you got here, please get in touch with the developers.</source>
-        <target>Se chegou até aqui, por favor contacte os desenvolvedores.</target>
+        <target>Por favor entre em contacto com os desenvolvedores.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Information" xml:space="preserve">
@@ -790,17 +790,17 @@
       </trans-unit>
       <trans-unit id="TRANSLATOR_LINK" xml:space="preserve">
         <source>TRANSLATOR_LINK</source>
-        <target>Link do tradutor </target>
+        <target>https://twitter.com/jram15_ </target>
         <note>The translator link, if any. Can be a mail address or a website.</note>
       </trans-unit>
       <trans-unit id="TRANSLATOR_NAME" xml:space="preserve">
         <source>TRANSLATOR_NAME</source>
-        <target>Nome do tradutor</target>
+        <target>Jose R.A. Mota</target>
         <note>The translator name, if any.</note>
       </trans-unit>
       <trans-unit id="The %@ of space available in the destination might not be enough for compressing the estimated %@." xml:space="preserve">
         <source>The %@ of space available in the destination might not be enough for compressing the estimated %@.</source>
-        <target>The %@ of space available in the destination might not be enough for compressing the estimated %@.</target>
+        <target>O %@ de espaço disponível no destino pode não ser suficiente para compactar o %@ estimado.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The changes could not be saved" xml:space="preserve">
@@ -946,7 +946,7 @@
       </trans-unit>
       <trans-unit id="extraction failed" xml:space="preserve">
         <source>extraction failed</source>
-        <target>extração failhou</target>
+        <target>extração falhou</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="failed" xml:space="preserve">
@@ -963,22 +963,22 @@
     <body>
       <trans-unit id="Enabled" xml:space="preserve">
         <source>Enabled</source>
-        <target>Enabled</target>
+        <target>Activado</target>
         <note/>
       </trans-unit>
       <trans-unit id="Group" xml:space="preserve">
         <source>Group</source>
-        <target>Group</target>
+        <target>Grupo</target>
         <note>A single strings file, whose title is specified in your preferences schema. The strings files provide the localized content to display to the user for each of your preferences.</note>
       </trans-unit>
       <trans-unit id="Name" xml:space="preserve">
         <source>Name</source>
-        <target>Name</target>
+        <target>Nome</target>
         <note/>
       </trans-unit>
       <trans-unit id="none given" xml:space="preserve">
         <source>none given</source>
-        <target>none given</target>
+        <target>nenhum dado</target>
         <note/>
       </trans-unit>
     </body>
@@ -990,7 +990,7 @@
     <body>
       <trans-unit id="ObA-dk-sSI.title" xml:space="preserve">
         <source>Image</source>
-        <target>Image</target>
+        <target>Imagem</target>
         <note>Class = "UIViewController"; title = "Image"; ObjectID = "ObA-dk-sSI";</note>
       </trans-unit>
     </body>
@@ -1002,7 +1002,7 @@
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>Browse with Keka</source>
-        <target>Browse with Keka</target>
+        <target>Abrir com Keka</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -1039,7 +1039,7 @@
       </trans-unit>
       <trans-unit id="%@ items" xml:space="preserve">
         <source>%@ items</source>
-        <target>%@ items</target>
+        <target>%@ itens</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ of %@ item" xml:space="preserve">
@@ -1049,97 +1049,97 @@
       </trans-unit>
       <trans-unit id="%@ of %@ items" xml:space="preserve">
         <source>%@ of %@ items</source>
-        <target>%@ of %@ items</target>
+        <target>%@ of %@ itens</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Allocated size" xml:space="preserve">
         <source>Allocated size</source>
-        <target>Allocated size</target>
+        <target>Tamanho alocado</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Ask" xml:space="preserve">
         <source>Ask</source>
-        <target>Ask</target>
+        <target>Perguntar</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="BROWSE_OPERATION" xml:space="preserve">
         <source>BROWSE_OPERATION</source>
-        <target>BROWSE_OPERATION</target>
+        <target>Abrir</target>
         <note>Browse, operation description.</note>
       </trans-unit>
       <trans-unit id="BROWSE_RUNNING" xml:space="preserve">
         <source>BROWSE_RUNNING</source>
-        <target>BROWSE_RUNNING</target>
+        <target>A abrir</target>
         <note>Browsing, operation running.</note>
       </trans-unit>
       <trans-unit id="BROWSE_SECTION_TITLE" xml:space="preserve">
         <source>BROWSE_SECTION_TITLE</source>
-        <target>BROWSE_SECTION_TITLE</target>
+        <target>Aberto</target>
         <note>Browsing, tasks section title.</note>
       </trans-unit>
       <trans-unit id="COMPRESSION_OPERATION" xml:space="preserve">
         <source>COMPRESSION_OPERATION</source>
-        <target>COMPRESSION_OPERATION</target>
+        <target>Comprimir</target>
         <note>Compression, operation description.</note>
       </trans-unit>
       <trans-unit id="COMPRESSION_RUNNING" xml:space="preserve">
         <source>COMPRESSION_RUNNING</source>
-        <target>COMPRESSION_RUNNING</target>
+        <target>A comprimir</target>
         <note>Compressing, operation running.</note>
       </trans-unit>
       <trans-unit id="COMPRESSION_SECTION_TITLE" xml:space="preserve">
         <source>COMPRESSION_SECTION_TITLE</source>
-        <target>COMPRESSION_SECTION_TITLE</target>
+        <target>Compressões</target>
         <note>Compressing, tasks section title.</note>
       </trans-unit>
       <trans-unit id="Calculate" xml:space="preserve">
         <source>Calculate</source>
-        <target>Calculate</target>
+        <target>Calcular</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
-        <target>Cancel</target>
+        <target>Cancelar</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Choose" xml:space="preserve">
         <source>Choose</source>
-        <target>Choose</target>
+        <target>Escolher</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Close" xml:space="preserve">
         <source>Close</source>
-        <target>Close</target>
+        <target>Fechar</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Comments" xml:space="preserve">
         <source>Comments</source>
-        <target>Comments</target>
+        <target>Comentários</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Compressed size" xml:space="preserve">
         <source>Compressed size</source>
-        <target>Compressed size</target>
+        <target>tamanho comprimido</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Created" xml:space="preserve">
         <source>Created</source>
-        <target>Created</target>
+        <target>Criado</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Custom..." xml:space="preserve">
         <source>Custom...</source>
-        <target>Custom...</target>
+        <target>Customizar...</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Date" xml:space="preserve">
         <source>Date</source>
-        <target>Date</target>
+        <target>Data</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
-        <target>Done</target>
+        <target>Feito</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="EXTRACTION_OPERATION" xml:space="preserve">
@@ -1149,7 +1149,7 @@
       </trans-unit>
       <trans-unit id="EXTRACTION_RUNNING" xml:space="preserve">
         <source>EXTRACTION_RUNNING</source>
-        <target>EXTRACTION_RUNNING</target>
+        <target>Extraindo_Ficheiro</target>
         <note>Extracting, operation running.</note>
       </trans-unit>
       <trans-unit id="EXTRACTION_SECTION_TITLE" xml:space="preserve">
@@ -1159,34 +1159,34 @@
       </trans-unit>
       <trans-unit id="Edit" xml:space="preserve">
         <source>Edit</source>
-        <target>Edit</target>
+        <target>Editar</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Enter the password for the file&#10;&quot;%@&quot;" xml:space="preserve">
         <source>Enter the password for the file
 "%@"</source>
-        <target>Enter the password for the file
+        <target>Digite a palavra-passe para o ficheiro
 "%@"</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Extract" xml:space="preserve">
         <source>Extract</source>
-        <target>Extract</target>
+        <target>Extrair</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Extract the file" xml:space="preserve">
         <source>Extract the file</source>
-        <target>Extract the file</target>
+        <target>Extrair o ficheiro</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Fast" xml:space="preserve">
         <source>Fast</source>
-        <target>Fast</target>
+        <target>Rápido</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Fastest" xml:space="preserve">
         <source>Fastest</source>
-        <target>Fastest</target>
+        <target>Mais rápido</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Feedback" xml:space="preserve">
@@ -1201,57 +1201,57 @@
       </trans-unit>
       <trans-unit id="Get Info" xml:space="preserve">
         <source>Get Info</source>
-        <target>Get Info</target>
+        <target>Obter Informação</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="If you got here, please get in touch with the developers." xml:space="preserve">
         <source>If you got here, please get in touch with the developers.</source>
-        <target>If you got here, please get in touch with the developers.</target>
+        <target>Por favor entre em contacto com os desenvolvedores.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Information" xml:space="preserve">
         <source>Information</source>
-        <target>Information</target>
+        <target>Informação</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Keka's Folder" xml:space="preserve">
         <source>Keka's Folder</source>
-        <target>Keka's Folder</target>
+        <target>Pasta do Keka</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Kind" xml:space="preserve">
         <source>Kind</source>
-        <target>Kind</target>
+        <target>Tipo</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Last opened" xml:space="preserve">
         <source>Last opened</source>
-        <target>Last opened</target>
+        <target>Aberto a última vez</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Loading" xml:space="preserve">
         <source>Loading</source>
-        <target>Loading</target>
+        <target>A carregar</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Made with" xml:space="preserve">
         <source>Made with</source>
-        <target>Made with</target>
+        <target>Feito com</target>
         <note>"Made with" part from "Made with love by aone".</note>
       </trans-unit>
       <trans-unit id="Modified" xml:space="preserve">
         <source>Modified</source>
-        <target>Modified</target>
+        <target>Modificado</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Name" xml:space="preserve">
         <source>Name</source>
-        <target>Name</target>
+        <target>Nome</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No contents available" xml:space="preserve">
         <source>No contents available</source>
-        <target>No contents available</target>
+        <target>Sem conteúdos disponíveis</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Normal" xml:space="preserve">
@@ -1266,122 +1266,122 @@
       </trans-unit>
       <trans-unit id="Open" xml:space="preserve">
         <source>Open</source>
-        <target>Open</target>
+        <target>Abrir</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Password" xml:space="preserve">
         <source>Password</source>
-        <target>Password</target>
+        <target>Palavra-passe</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Password needed" xml:space="preserve">
         <source>Password needed</source>
-        <target>Password needed</target>
+        <target>Requer Palavra-passe</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please enter the password for:" xml:space="preserve">
         <source>Please enter the password for:</source>
-        <target>Please enter the password for:</target>
+        <target>Por favor digite a palavra-passe:</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please select the encoding for:" xml:space="preserve">
         <source>Please select the encoding for:</source>
-        <target>Please select the encoding for:</target>
+        <target>Por favor escolha a codificação desejada para:</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Preview" xml:space="preserve">
         <source>Preview</source>
-        <target>Preview</target>
+        <target>Pré-vizualização</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Quick Look" xml:space="preserve">
         <source>Quick Look</source>
-        <target>Quick Look</target>
+        <target>Pré-vizualização</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Remove from cache" xml:space="preserve">
         <source>Remove from cache</source>
-        <target>Remove from cache</target>
+        <target>Remover da cache</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Review" xml:space="preserve">
         <source>Review</source>
-        <target>Review</target>
+        <target>Avaliação</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Save" xml:space="preserve">
         <source>Save</source>
-        <target>Save</target>
+        <target>Salvar</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Share" xml:space="preserve">
         <source>Share</source>
-        <target>Share</target>
+        <target>Partilhar</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Size" xml:space="preserve">
         <source>Size</source>
-        <target>Size</target>
+        <target>Tamanho</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Slow" xml:space="preserve">
         <source>Slow</source>
-        <target>Slow</target>
+        <target>Lento</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Slowest" xml:space="preserve">
         <source>Slowest</source>
-        <target>Slowest</target>
+        <target>Mais Lento</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Store" xml:space="preserve">
         <source>Store</source>
-        <target>Store</target>
+        <target>Armazenar</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="TRANSLATOR_LINK" xml:space="preserve">
         <source>TRANSLATOR_LINK</source>
-        <target>TRANSLATOR_LINK</target>
+        <target>https://twitter.com/jram15_</target>
         <note>The translator link, if any. Can be a mail address or a website.</note>
       </trans-unit>
       <trans-unit id="TRANSLATOR_NAME" xml:space="preserve">
         <source>TRANSLATOR_NAME</source>
-        <target>TRANSLATOR_NAME</target>
+        <target>Jose R.A. Mota</target>
         <note>The translator name, if any.</note>
       </trans-unit>
       <trans-unit id="The changes could not be saved" xml:space="preserve">
         <source>The changes could not be saved</source>
-        <target>The changes could not be saved</target>
+        <target>As alterações não foram guardadas</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The file manager for iOS and macOS" xml:space="preserve">
         <source>The file manager for iOS and macOS</source>
-        <target>The file manager for iOS and macOS</target>
+        <target>Gestor de ficheiros para iOS e macOS</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The folder is empty" xml:space="preserve">
         <source>The folder is empty</source>
-        <target>The folder is empty</target>
+        <target>A pasta está vazia</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Total size" xml:space="preserve">
         <source>Total size</source>
-        <target>Total size</target>
+        <target>Tamanho total</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Translated by %@" xml:space="preserve">
         <source>Translated by %@</source>
-        <target>Translated by %@</target>
+        <target>Traduzido por %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Type" xml:space="preserve">
         <source>Type</source>
-        <target>Type</target>
+        <target>Tipo</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Unable to browse &quot;%@&quot;" xml:space="preserve">
         <source>Unable to browse "%@"</source>
-        <target>Unable to browse "%@"</target>
+        <target>Não foi possível abrir "%@"</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Unable to get encoding data" xml:space="preserve">
@@ -1391,47 +1391,47 @@
       </trans-unit>
       <trans-unit id="Welcome to %@" xml:space="preserve">
         <source>Welcome to %@</source>
-        <target>Welcome to %@</target>
+        <target>Bem-Vindo a %@</target>
         <note>The "Welcome to Keka" title.</note>
       </trans-unit>
       <trans-unit id="Where" xml:space="preserve">
         <source>Where</source>
-        <target>Where</target>
+        <target>Onde</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="by %@" xml:space="preserve">
         <source>by %@</source>
-        <target>by %@</target>
+        <target>por %@</target>
         <note>"by aone" part from "Made with love by aone".</note>
       </trans-unit>
       <trans-unit id="compressed" xml:space="preserve">
         <source>compressed</source>
-        <target>compressed</target>
+        <target>comprimido</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="compression failed" xml:space="preserve">
         <source>compression failed</source>
-        <target>compression failed</target>
+        <target>compressão falhada</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="done" xml:space="preserve">
         <source>done</source>
-        <target>done</target>
+        <target>feito</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="extracted" xml:space="preserve">
         <source>extracted</source>
-        <target>extracted</target>
+        <target>extraído</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="extraction failed" xml:space="preserve">
         <source>extraction failed</source>
-        <target>extraction failed</target>
+        <target>extração falhada</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="failed" xml:space="preserve">
         <source>failed</source>
-        <target>failed</target>
+        <target>falhada</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
@@ -1443,7 +1443,7 @@
     <body>
       <trans-unit id="ObA-dk-sSI.title" xml:space="preserve">
         <source>Image</source>
-        <target>Image</target>
+        <target>Imagem</target>
         <note>Class = "UIViewController"; title = "Image"; ObjectID = "ObA-dk-sSI";</note>
       </trans-unit>
     </body>
@@ -1455,7 +1455,7 @@
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>Compress using Keka</source>
-        <target>Compress using Keka</target>
+        <target>Comprimir com Keka</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -1487,172 +1487,172 @@
       </trans-unit>
       <trans-unit id="Add a File" xml:space="preserve">
         <source>Add a File</source>
-        <target>Add a File</target>
+        <target>Adicionar Ficheiro</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Add a Folder" xml:space="preserve">
         <source>Add a Folder</source>
-        <target>Add a Folder</target>
+        <target>Adicionar Pasta</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Add some contents using the %@ button or the %@ and %@ buttons in the toolbar." xml:space="preserve">
         <source>Add some contents using the %@ button or the %@ and %@ buttons in the toolbar.</source>
-        <target>Add some contents using the %@ button or the %@ and %@ buttons in the toolbar.</target>
+        <target>Adicionar conteúdo usando %@ ou %@ e %@ na barra de ferramentas.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Allocated size" xml:space="preserve">
         <source>Allocated size</source>
-        <target>Allocated size</target>
+        <target>Tamanho alocado</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Ask" xml:space="preserve">
         <source>Ask</source>
-        <target>Ask</target>
+        <target>Perguntar</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="BROWSE_OPERATION" xml:space="preserve">
         <source>BROWSE_OPERATION</source>
-        <target>BROWSE_OPERATION</target>
+        <target>Abrir</target>
         <note>Browse, operation description.</note>
       </trans-unit>
       <trans-unit id="BROWSE_RUNNING" xml:space="preserve">
         <source>BROWSE_RUNNING</source>
-        <target>BROWSE_RUNNING</target>
+        <target>A Abrir</target>
         <note>Browsing, operation running.</note>
       </trans-unit>
       <trans-unit id="BROWSE_SECTION_TITLE" xml:space="preserve">
         <source>BROWSE_SECTION_TITLE</source>
-        <target>BROWSE_SECTION_TITLE</target>
+        <target>Aberto</target>
         <note>Browsing, tasks section title.</note>
       </trans-unit>
       <trans-unit id="COMPRESSION_OPERATION" xml:space="preserve">
         <source>COMPRESSION_OPERATION</source>
-        <target>COMPRESSION_OPERATION</target>
+        <target>Comprimir</target>
         <note>Compression, operation description.</note>
       </trans-unit>
       <trans-unit id="COMPRESSION_RUNNING" xml:space="preserve">
         <source>COMPRESSION_RUNNING</source>
-        <target>COMPRESSION_RUNNING</target>
+        <target>A Comprimir</target>
         <note>Compressing, operation running.</note>
       </trans-unit>
       <trans-unit id="COMPRESSION_SECTION_TITLE" xml:space="preserve">
         <source>COMPRESSION_SECTION_TITLE</source>
-        <target>COMPRESSION_SECTION_TITLE</target>
+        <target>Compressões</target>
         <note>Compressing, tasks section title.</note>
       </trans-unit>
       <trans-unit id="Calculate" xml:space="preserve">
         <source>Calculate</source>
-        <target>Calculate</target>
+        <target>Calcular</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
-        <target>Cancel</target>
+        <target>Cancelar</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Choose" xml:space="preserve">
         <source>Choose</source>
-        <target>Choose</target>
+        <target>Escolher</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Close" xml:space="preserve">
         <source>Close</source>
-        <target>Close</target>
+        <target>Fechar</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Comments" xml:space="preserve">
         <source>Comments</source>
-        <target>Comments</target>
+        <target>Comentários</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Compress" xml:space="preserve">
         <source>Compress</source>
-        <target>Compress</target>
+        <target>Comprimir</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Compressed size" xml:space="preserve">
         <source>Compressed size</source>
-        <target>Compressed size</target>
+        <target>Tamanho comprimido</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Compression Level:" xml:space="preserve">
         <source>Compression Level:</source>
-        <target>Compression Level:</target>
+        <target>Nivel de compresssão:</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Contents" xml:space="preserve">
         <source>Contents</source>
-        <target>Contents</target>
+        <target>Conteúdo</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Contents: %@, Size: %@" xml:space="preserve">
         <source>Contents: %@, Size: %@</source>
-        <target>Contents: %@, Size: %@</target>
+        <target>Conteúdo: %@, Tamanho: %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Created" xml:space="preserve">
         <source>Created</source>
-        <target>Created</target>
+        <target>Criado</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Custom..." xml:space="preserve">
         <source>Custom...</source>
-        <target>Custom...</target>
+        <target>Personalizado...</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Date" xml:space="preserve">
         <source>Date</source>
-        <target>Date</target>
+        <target>Data</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete" xml:space="preserve">
         <source>Delete</source>
-        <target>Delete</target>
+        <target>Apagar</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Destination" xml:space="preserve">
         <source>Destination</source>
-        <target>Destination</target>
+        <target>Destino</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
-        <target>Done</target>
+        <target>Feito</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="EXTRACTION_OPERATION" xml:space="preserve">
         <source>EXTRACTION_OPERATION</source>
-        <target>EXTRACTION_OPERATION</target>
+        <target>Extrair</target>
         <note>Extraction, operation description.</note>
       </trans-unit>
       <trans-unit id="EXTRACTION_RUNNING" xml:space="preserve">
         <source>EXTRACTION_RUNNING</source>
-        <target>EXTRACTION_RUNNING</target>
+        <target>A extrair</target>
         <note>Extracting, operation running.</note>
       </trans-unit>
       <trans-unit id="EXTRACTION_SECTION_TITLE" xml:space="preserve">
         <source>EXTRACTION_SECTION_TITLE</source>
-        <target>EXTRACTION_SECTION_TITLE</target>
+        <target>Extraído</target>
         <note>Extracting, tasks section title.</note>
       </trans-unit>
       <trans-unit id="Edit" xml:space="preserve">
         <source>Edit</source>
-        <target>Edit</target>
+        <target>Editar</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Encrypt Filenames" xml:space="preserve">
         <source>Encrypt Filenames</source>
-        <target>Encrypt Filenames</target>
+        <target>Encriptar nome do ficheiro </target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Fast" xml:space="preserve">
         <source>Fast</source>
-        <target>Fast</target>
+        <target>Rápido</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Fastest" xml:space="preserve">
         <source>Fastest</source>
-        <target>Fastest</target>
+        <target>Mais Rápido</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Feedback" xml:space="preserve">
@@ -1662,62 +1662,62 @@
       </trans-unit>
       <trans-unit id="Format" xml:space="preserve">
         <source>Format</source>
-        <target>Format</target>
+        <target>Formato</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Get Info" xml:space="preserve">
         <source>Get Info</source>
-        <target>Get Info</target>
+        <target>Obter Informação</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="If you got here, please get in touch with the developers." xml:space="preserve">
         <source>If you got here, please get in touch with the developers.</source>
-        <target>If you got here, please get in touch with the developers.</target>
+        <target>Por favor entre em contacto com os desenvolvedores.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Information" xml:space="preserve">
         <source>Information</source>
-        <target>Information</target>
+        <target>Informação</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Keka's Folder" xml:space="preserve">
         <source>Keka's Folder</source>
-        <target>Keka's Folder</target>
+        <target>Pasta do Keka</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Kind" xml:space="preserve">
         <source>Kind</source>
-        <target>Kind</target>
+        <target>Tipo</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Last opened" xml:space="preserve">
         <source>Last opened</source>
-        <target>Last opened</target>
+        <target>Aberto por último</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Made with" xml:space="preserve">
         <source>Made with</source>
-        <target>Made with</target>
+        <target>Feito com</target>
         <note>"Made with" part from "Made with love by aone".</note>
       </trans-unit>
       <trans-unit id="Modified" xml:space="preserve">
         <source>Modified</source>
-        <target>Modified</target>
+        <target>Modificado</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Name" xml:space="preserve">
         <source>Name</source>
-        <target>Name</target>
+        <target>Nome</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No contents" xml:space="preserve">
         <source>No contents</source>
-        <target>No contents</target>
+        <target>Sem conteúdo</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="None" xml:space="preserve">
         <source>None</source>
-        <target>None</target>
+        <target>Nenhum</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Normal" xml:space="preserve">
@@ -1727,7 +1727,7 @@
       </trans-unit>
       <trans-unit id="Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files." xml:space="preserve">
         <source>Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files.</source>
-        <target>Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files.</target>
+        <target>Nem todas as plataformas suportam encriptação AES-256. Será preciso uma aplicação de terceiros (como Keka) para abrir estes ficheiros comprimidos.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
@@ -1737,187 +1737,187 @@
       </trans-unit>
       <trans-unit id="Open" xml:space="preserve">
         <source>Open</source>
-        <target>Open</target>
+        <target>Abrir</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Password" xml:space="preserve">
         <source>Password</source>
-        <target>Password</target>
+        <target>Palavra-passe</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please enter the password for:" xml:space="preserve">
         <source>Please enter the password for:</source>
-        <target>Please enter the password for:</target>
+        <target>Digite a palavra-passe para:</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please select the encoding for:" xml:space="preserve">
         <source>Please select the encoding for:</source>
-        <target>Please select the encoding for:</target>
+        <target>Por favor seleccione a codificação desejada:</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Preview" xml:space="preserve">
         <source>Preview</source>
-        <target>Preview</target>
+        <target>Pré-vizualização</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Review" xml:space="preserve">
         <source>Review</source>
-        <target>Review</target>
+        <target>Avaliação</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Save" xml:space="preserve">
         <source>Save</source>
-        <target>Save</target>
+        <target>Guardar</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Size" xml:space="preserve">
         <source>Size</source>
-        <target>Size</target>
+        <target>Tamanho</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Slow" xml:space="preserve">
         <source>Slow</source>
-        <target>Slow</target>
+        <target>Lento</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Slowest" xml:space="preserve">
         <source>Slowest</source>
-        <target>Slowest</target>
+        <target>Mais Lento</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Split in volumes" xml:space="preserve">
         <source>Split in volumes</source>
-        <target>Split in volumes</target>
+        <target>Dividir em volumes</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Store" xml:space="preserve">
         <source>Store</source>
-        <target>Store</target>
+        <target>Armazenar</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="TRANSLATOR_LINK" xml:space="preserve">
         <source>TRANSLATOR_LINK</source>
-        <target>TRANSLATOR_LINK</target>
+        <target>https://twitter.com/jram15_</target>
         <note>The translator link, if any. Can be a mail address or a website.</note>
       </trans-unit>
       <trans-unit id="TRANSLATOR_NAME" xml:space="preserve">
         <source>TRANSLATOR_NAME</source>
-        <target>TRANSLATOR_NAME</target>
+        <target>Jose R.A. Mota</target>
         <note>The translator name, if any.</note>
       </trans-unit>
       <trans-unit id="The %@ of space available in the destination might not be enough for compressing the estimated %@." xml:space="preserve">
         <source>The %@ of space available in the destination might not be enough for compressing the estimated %@.</source>
-        <target>The %@ of space available in the destination might not be enough for compressing the estimated %@.</target>
+        <target>O %@ de espaço disponível no destino pode não ser suficiente para compactar o %@ estimado.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The changes could not be saved" xml:space="preserve">
         <source>The changes could not be saved</source>
-        <target>The changes could not be saved</target>
+        <target>Não foi possível guardar as alterações</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." xml:space="preserve">
         <source>The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread.</source>
-        <target>The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread.</target>
+        <target>A compressão pode precisar de mais memória do que a disponível (%@) e pode não ser concluída com êxito. Será limitado a 1 thread.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The compression will be limited to %lld thread/s due to memory constraints." xml:space="preserve">
         <source>The compression will be limited to %lld thread/s due to memory constraints.</source>
-        <target>The compression will be limited to %lld thread/s due to memory constraints.</target>
+        <target>A compressão será limitada a %lld thread/s devido as restrições de memória.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The destination has %@ of space available." xml:space="preserve">
         <source>The destination has %@ of space available.</source>
-        <target>The destination has %@ of space available.</target>
+        <target>O destino tem %@ de espaço disponível.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The file manager for iOS and macOS" xml:space="preserve">
         <source>The file manager for iOS and macOS</source>
-        <target>The file manager for iOS and macOS</target>
+        <target>O gerenciador de ficheiros para iOS e macOS</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." xml:space="preserve">
         <source>The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents.</source>
-        <target>The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents.</target>
+        <target>Quanto mais lento for o nível, maior compressão pode ser alcançada. O nível de armazenamento nenhuma comprime, apenas armazena o conteúdo.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Total size" xml:space="preserve">
         <source>Total size</source>
-        <target>Total size</target>
+        <target>Tamanho total</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Translated by %@" xml:space="preserve">
         <source>Translated by %@</source>
-        <target>Translated by %@</target>
+        <target>Traduzido por %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Type" xml:space="preserve">
         <source>Type</source>
-        <target>Type</target>
+        <target>Tipo</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Unable to determine the available space." xml:space="preserve">
         <source>Unable to determine the available space.</source>
-        <target>Unable to determine the available space.</target>
+        <target>Não foi possível determinar o espaço disponível.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Unable to get encoding data" xml:space="preserve">
         <source>Unable to get encoding data</source>
-        <target>Unable to get encoding data</target>
+        <target>Não foi possível obter a data codificada</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Use AES-256 Encryption" xml:space="preserve">
         <source>Use AES-256 Encryption</source>
-        <target>Use AES-256 Encryption</target>
+        <target>Usar Encriptação AES-256</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Volume Size" xml:space="preserve">
         <source>Volume Size</source>
-        <target>Volume Size</target>
+        <target>Tamanho do volume</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Welcome to %@" xml:space="preserve">
         <source>Welcome to %@</source>
-        <target>Welcome to %@</target>
+        <target>Bem-Vindo ao %@</target>
         <note>The "Welcome to Keka" title.</note>
       </trans-unit>
       <trans-unit id="Where" xml:space="preserve">
         <source>Where</source>
-        <target>Where</target>
+        <target>Onde</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="by %@" xml:space="preserve">
         <source>by %@</source>
-        <target>by %@</target>
+        <target>por %@</target>
         <note>"by aone" part from "Made with love by aone".</note>
       </trans-unit>
       <trans-unit id="compressed" xml:space="preserve">
         <source>compressed</source>
-        <target>compressed</target>
+        <target>comprimido</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="compression failed" xml:space="preserve">
         <source>compression failed</source>
-        <target>compression failed</target>
+        <target>compressão falhada</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="done" xml:space="preserve">
         <source>done</source>
-        <target>done</target>
+        <target>feito</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="extracted" xml:space="preserve">
         <source>extracted</source>
-        <target>extracted</target>
+        <target>extraído</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="extraction failed" xml:space="preserve">
         <source>extraction failed</source>
-        <target>extraction failed</target>
+        <target>extração falhada</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="failed" xml:space="preserve">
         <source>failed</source>
-        <target>failed</target>
+        <target>falhada</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
@@ -1929,7 +1929,7 @@
     <body>
       <trans-unit id="ObA-dk-sSI.title" xml:space="preserve">
         <source>Image</source>
-        <target>Image</target>
+        <target>Imagem</target>
         <note>Class = "UIViewController"; title = "Image"; ObjectID = "ObA-dk-sSI";</note>
       </trans-unit>
     </body>
@@ -1941,7 +1941,7 @@
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>Extract using Keka</source>
-        <target>Extract using Keka</target>
+        <target>Extrair usando Keka</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -1968,102 +1968,102 @@
       </trans-unit>
       <trans-unit id="Ask" xml:space="preserve">
         <source>Ask</source>
-        <target>Ask</target>
+        <target>Perguntar</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="BROWSE_OPERATION" xml:space="preserve">
         <source>BROWSE_OPERATION</source>
-        <target>BROWSE_OPERATION</target>
+        <target>Abrir</target>
         <note>Browse, operation description.</note>
       </trans-unit>
       <trans-unit id="BROWSE_RUNNING" xml:space="preserve">
         <source>BROWSE_RUNNING</source>
-        <target>BROWSE_RUNNING</target>
+        <target>A abrir</target>
         <note>Browsing, operation running.</note>
       </trans-unit>
       <trans-unit id="BROWSE_SECTION_TITLE" xml:space="preserve">
         <source>BROWSE_SECTION_TITLE</source>
-        <target>BROWSE_SECTION_TITLE</target>
+        <target>Aberto</target>
         <note>Browsing, tasks section title.</note>
       </trans-unit>
       <trans-unit id="COMPRESSION_OPERATION" xml:space="preserve">
         <source>COMPRESSION_OPERATION</source>
-        <target>COMPRESSION_OPERATION</target>
+        <target>Comprimir</target>
         <note>Compression, operation description.</note>
       </trans-unit>
       <trans-unit id="COMPRESSION_RUNNING" xml:space="preserve">
         <source>COMPRESSION_RUNNING</source>
-        <target>COMPRESSION_RUNNING</target>
+        <target>A comprimir</target>
         <note>Compressing, operation running.</note>
       </trans-unit>
       <trans-unit id="COMPRESSION_SECTION_TITLE" xml:space="preserve">
         <source>COMPRESSION_SECTION_TITLE</source>
-        <target>COMPRESSION_SECTION_TITLE</target>
+        <target>Compressões</target>
         <note>Compressing, tasks section title.</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
-        <target>Cancel</target>
+        <target>Cancelar</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Choose" xml:space="preserve">
         <source>Choose</source>
-        <target>Choose</target>
+        <target>Escolher</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Close" xml:space="preserve">
         <source>Close</source>
-        <target>Close</target>
+        <target>Fechar</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Custom..." xml:space="preserve">
         <source>Custom...</source>
-        <target>Custom...</target>
+        <target>Personalizado...</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Date" xml:space="preserve">
         <source>Date</source>
-        <target>Date</target>
+        <target>Data</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Destination" xml:space="preserve">
         <source>Destination</source>
-        <target>Destination</target>
+        <target>Destino</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
-        <target>Done</target>
+        <target>Feito</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="EXTRACTION_OPERATION" xml:space="preserve">
         <source>EXTRACTION_OPERATION</source>
-        <target>EXTRACTION_OPERATION</target>
+        <target>Extrair</target>
         <note>Extraction, operation description.</note>
       </trans-unit>
       <trans-unit id="EXTRACTION_RUNNING" xml:space="preserve">
         <source>EXTRACTION_RUNNING</source>
-        <target>EXTRACTION_RUNNING</target>
+        <target>A extrair</target>
         <note>Extracting, operation running.</note>
       </trans-unit>
       <trans-unit id="EXTRACTION_SECTION_TITLE" xml:space="preserve">
         <source>EXTRACTION_SECTION_TITLE</source>
-        <target>EXTRACTION_SECTION_TITLE</target>
+        <target>Extrações</target>
         <note>Extracting, tasks section title.</note>
       </trans-unit>
       <trans-unit id="Extract" xml:space="preserve">
         <source>Extract</source>
-        <target>Extract</target>
+        <target>Extrair</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Fast" xml:space="preserve">
         <source>Fast</source>
-        <target>Fast</target>
+        <target>Rápido</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Fastest" xml:space="preserve">
         <source>Fastest</source>
-        <target>Fastest</target>
+        <target>Mais Rápido</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Feedback" xml:space="preserve">
@@ -2073,37 +2073,37 @@
       </trans-unit>
       <trans-unit id="If you got here, please get in touch with the developers." xml:space="preserve">
         <source>If you got here, please get in touch with the developers.</source>
-        <target>If you got here, please get in touch with the developers.</target>
+        <target>Por favor entre em contacto com os desenvolvedores.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Information" xml:space="preserve">
         <source>Information</source>
-        <target>Information</target>
+        <target>Informação</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Keka's Folder" xml:space="preserve">
         <source>Keka's Folder</source>
-        <target>Keka's Folder</target>
+        <target>Pasta do Keka</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Kind" xml:space="preserve">
         <source>Kind</source>
-        <target>Kind</target>
+        <target>Tipo</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Made with" xml:space="preserve">
         <source>Made with</source>
-        <target>Made with</target>
+        <target>Feito com</target>
         <note>"Made with" part from "Made with love by aone".</note>
       </trans-unit>
       <trans-unit id="Name" xml:space="preserve">
         <source>Name</source>
-        <target>Name</target>
+        <target>Nome</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No files to extract" xml:space="preserve">
         <source>No files to extract</source>
-        <target>No files to extract</target>
+        <target>Sem ficheiros para extrair</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Normal" xml:space="preserve">
@@ -2113,127 +2113,127 @@
       </trans-unit>
       <trans-unit id="Password" xml:space="preserve">
         <source>Password</source>
-        <target>Password</target>
+        <target>Palavra-passe</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please enter the password for:" xml:space="preserve">
         <source>Please enter the password for:</source>
-        <target>Please enter the password for:</target>
+        <target>Digite a palavra-passe para:</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please select the encoding for:" xml:space="preserve">
         <source>Please select the encoding for:</source>
-        <target>Please select the encoding for:</target>
+        <target>Por favor seleccione a codificação para:</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Preview" xml:space="preserve">
         <source>Preview</source>
-        <target>Preview</target>
+        <target>Pré-vizualização</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Review" xml:space="preserve">
         <source>Review</source>
-        <target>Review</target>
+        <target>Avaliação</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Size" xml:space="preserve">
         <source>Size</source>
-        <target>Size</target>
+        <target>Tamanho</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Slow" xml:space="preserve">
         <source>Slow</source>
-        <target>Slow</target>
+        <target>Lento</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Slowest" xml:space="preserve">
         <source>Slowest</source>
-        <target>Slowest</target>
+        <target>Mais Lento</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Store" xml:space="preserve">
         <source>Store</source>
-        <target>Store</target>
+        <target>Armazenar</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="TRANSLATOR_LINK" xml:space="preserve">
         <source>TRANSLATOR_LINK</source>
-        <target>TRANSLATOR_LINK</target>
+        <target>https://twitter.com/jram15_</target>
         <note>The translator link, if any. Can be a mail address or a website.</note>
       </trans-unit>
       <trans-unit id="TRANSLATOR_NAME" xml:space="preserve">
         <source>TRANSLATOR_NAME</source>
-        <target>TRANSLATOR_NAME</target>
+        <target>Jose R.A. Mota</target>
         <note>The translator name, if any.</note>
       </trans-unit>
       <trans-unit id="The destination has %@ of space available." xml:space="preserve">
         <source>The destination has %@ of space available.</source>
-        <target>The destination has %@ of space available.</target>
+        <target>O destino tem %@ de espaço disponível.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The file manager for iOS and macOS" xml:space="preserve">
         <source>The file manager for iOS and macOS</source>
-        <target>The file manager for iOS and macOS</target>
+        <target>O gerenciador de ficheiros iOS e macOS</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="To extract" xml:space="preserve">
         <source>To extract</source>
-        <target>To extract</target>
+        <target>Para extrair</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Translated by %@" xml:space="preserve">
         <source>Translated by %@</source>
-        <target>Translated by %@</target>
+        <target>Traduzido por %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Unable to determine the available space." xml:space="preserve">
         <source>Unable to determine the available space.</source>
-        <target>Unable to determine the available space.</target>
+        <target>Não foi possível determinar o espaço disponível.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Unable to get encoding data" xml:space="preserve">
         <source>Unable to get encoding data</source>
-        <target>Unable to get encoding data</target>
+        <target>Não foi possível obter a data codificada</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Welcome to %@" xml:space="preserve">
         <source>Welcome to %@</source>
-        <target>Welcome to %@</target>
+        <target>Bem-Vindo ao %@</target>
         <note>The "Welcome to Keka" title.</note>
       </trans-unit>
       <trans-unit id="by %@" xml:space="preserve">
         <source>by %@</source>
-        <target>by %@</target>
+        <target>por %@</target>
         <note>"by aone" part from "Made with love by aone".</note>
       </trans-unit>
       <trans-unit id="compressed" xml:space="preserve">
         <source>compressed</source>
-        <target>compressed</target>
+        <target>comprimido</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="compression failed" xml:space="preserve">
         <source>compression failed</source>
-        <target>compression failed</target>
+        <target>compressão falhada</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="done" xml:space="preserve">
         <source>done</source>
-        <target>done</target>
+        <target>feito</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="extracted" xml:space="preserve">
         <source>extracted</source>
-        <target>extracted</target>
+        <target>extraído</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="extraction failed" xml:space="preserve">
         <source>extraction failed</source>
-        <target>extraction failed</target>
+        <target>extração falhada</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="failed" xml:space="preserve">
         <source>failed</source>
-        <target>failed</target>
+        <target>falhada</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
