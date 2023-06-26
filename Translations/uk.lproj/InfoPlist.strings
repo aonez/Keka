@@ -3,7 +3,7 @@
 "NSHumanReadableCopyright" = "Copyright © 2009-2023 aONe";
 
 /* Access request descriptions */
-"NSDesktopFolderUsageDescription" = "Keka вимагає доступу до робочого столу для роботи з його файлами.";
+"NSDesktopFolderUsageDescription" = "Keka вимагає доступу до робочого столу для роботи з файлами.";
 "NSDocumentsFolderUsageDescription" = "Keka вимагає доступу до документів для роботи з файлами.";
 "NSDownloadsFolderUsageDescription" = "Keka вимагає доступу до завантажень для роботи з файлами.";
 "NSNetworkVolumesUsageDescription" = "Keka вимагає доступу до мережевих дисків для роботи з файлами.";
@@ -26,7 +26,7 @@
 "Zstandard Tarball Archive" = "Zstandard Tarball Archive";
 "RAR Archive" = "RAR Архів";
 "RAR Legacy Archive Volume" = "RAR Архів Старого Формату";
-"Generic Archive Volume" = "Том Архіву";
+"Generic Archive Volume" = "Образ архіву";
 "BZIP2 Archive" = "BZIP2 Архів";
 "BZIP2 Tarball Archive" = "BZIP2 Tarball Архів";
 "BZIP Archive" = "BZIP Архів";
@@ -39,13 +39,13 @@
 "CPIO Archive" = "CPIO Архів";
 "CPGZ Archive" = "CPGZ Архів";
 "PAX Archive" = "PAX Архів";
-"DMG Disk Image" = "DMG Образ Диску";
-"ISO Disk Image" = "ISO Образ Диску";
+"DMG Disk Image" = "DMG Образ диска";
+"ISO Disk Image" = "ISO Образ диска";
 "LHA Archive" = "LHA Архів";
 "Windows EXE File" = "Файл Windows EXE";
 "Windows Cabinet File" = "Файл Windows Cabinet";
 "Windows Installer Package" = "Пакет Windows Installer";
-"WIM Disk Image" = "WIM Образ Диску";
+"WIM Disk Image" = "WIM Образ диска";
 "Comic Book RAR Archive" = "Comic Book RAR Архів";
 "Comic Book ZIP Archive" = "Comic Book ZIP Архів";
 "iOS App" = "iOS Програма";

@@ -15,25 +15,25 @@
 "B5q-0l-TAK.title" = "Створити сеанс налагодження";
 
 /* Class = "NSMenuItem"; title = "Quit Keka"; ObjectID = "Boj-Hb-G0X"; */
-"Boj-Hb-G0X.title" = "Завершити роботу Keka";
+"Boj-Hb-G0X.title" = "Завершити Keka";
 
 /* Class = "NSMenuItem"; title = "Settings…"; ObjectID = "FOL-81-NRF"; */
-"FOL-81-NRF.title" = "Налаштування";
+"FOL-81-NRF.title" = "Параметри…";
 
 /* Class = "NSMenuItem"; title = "Show All"; ObjectID = "HpM-0q-Enu"; */
-"HpM-0q-Enu.title" = "Показати все";
+"HpM-0q-Enu.title" = "Показати всі";
 
 /* Class = "NSMenuItem"; title = "Enable debug information"; ObjectID = "IkK-ST-X3F"; */
 "IkK-ST-X3F.title" = "Увімкнути інформацію про налагодження";
 
 /* Class = "NSMenuItem"; title = "Check for updates"; ObjectID = "K4O-VW-7FA"; */
-"K4O-VW-7FA.title" = "Перевірити оновлення";
+"K4O-VW-7FA.title" = "Перевірити наявність оновлень";
 
 /* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "KcM-nz-gqf"; */
 "KcM-nz-gqf.title" = "Наблизити";
 
 /* Class = "NSMenuItem"; title = "Print…"; ObjectID = "M2y-gZ-kEG"; */
-"M2y-gZ-kEG.title" = "Роздрукувати";
+"M2y-gZ-kEG.title" = "Друкувати...";
 
 /* Class = "NSMenu"; title = "View"; ObjectID = "PwP-KI-Flr"; */
 "PwP-KI-Flr.title" = "Вигляд";
@@ -51,13 +51,13 @@
 "S12-mL-KLt.title" = "Закрити";
 
 /* Class = "NSMenu"; title = "Help"; ObjectID = "S6s-Is-TM3"; */
-"S6s-Is-TM3.title" = "Допомога";
+"S6s-Is-TM3.title" = "Довідка";
 
 /* Class = "NSMenu"; title = "File"; ObjectID = "TTb-AR-olf"; */
 "TTb-AR-olf.title" = "Файл";
 
 /* Class = "NSMenuItem"; title = "Keka Help"; ObjectID = "Uuy-RK-W5n"; */
-"Uuy-RK-W5n.title" = "Допомога Keka";
+"Uuy-RK-W5n.title" = "Довідка Keka";
 
 /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "W9M-Wy-dHU"; */
 "W9M-Wy-dHU.title" = "Вставити";
@@ -78,7 +78,7 @@
 "f7N-ob-xwH.title" = "Вигляд";
 
 /* Class = "NSMenu"; title = "Edit"; ObjectID = "gy4-dO-Qdu"; */
-"gy4-dO-Qdu.title" = "Редактор";
+"gy4-dO-Qdu.title" = "Редагування";
 
 /* Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "jtN-lL-fdx"; */
 "jtN-lL-fdx.title" = "Відкрити останні";
@@ -93,7 +93,7 @@
 "nlc-UW-DRW.title" = "Повернути збережене";
 
 /* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "nvz-UK-KlM"; */
-"nvz-UK-KlM.title" = "Зберігти Як…";
+"nvz-UK-KlM.title" = "Зберігти як…";
 
 /* Class = "NSMenuItem"; title = "Customize Toolbar…"; ObjectID = "p3U-PZ-hC3"; */
 "p3U-PZ-hC3.title" = "Налаштувати панель інструментів";
@@ -108,19 +108,19 @@
 "smC-MI-dLE.title" = "Сховати Keka";
 
 /* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "sx5-sf-JmW"; */
-"sx5-sf-JmW.title" = "Приховати інші";
+"sx5-sf-JmW.title" = "Сховати решту";
 
 /* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "tDe-Bb-f8d"; */
 "tDe-Bb-f8d.title" = "Приховати";
 
 /* Class = "NSMenuItem"; title = "Page Setup..."; ObjectID = "tjx-uw-4ov"; */
-"tjx-uw-4ov.title" = "Налаштування сторінки...";
+"tjx-uw-4ov.title" = "Параметри сторінки…";
 
 /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "v5b-pg-pYC"; */
 "v5b-pg-pYC.title" = "Скопіювати";
 
 /* Class = "NSMenuItem"; title = "New Window"; ObjectID = "wLf-5U-sSh"; */
-"wLf-5U-sSh.title" = "Нове Вікно";
+"wLf-5U-sSh.title" = "Нове вікно";
 
 /* Class = "NSMenuItem"; title = "Select All"; ObjectID = "wbR-ho-uar"; */
 "wbR-ho-uar.title" = "Вибрати все";
