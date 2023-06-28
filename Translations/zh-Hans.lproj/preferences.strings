@@ -192,7 +192,7 @@
 "IHj-ac-103.title" = "启用完整访问权限（推荐）";
 
 /* Class = "NSButtonCell"; title = "Verify compression integrity"; ObjectID = "IL6-a6-uik"; */
-"IL6-a6-uik.title" = "Verify compression integrity";
+"IL6-a6-uik.title" = "检查压缩完整性";
 
 /* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive."; ObjectID = "JxT-Nq-8Z5"; */
 "JxT-Nq-8Z5.title" = "启用外部卷访问，以便 Keka 可以与外部磁盘一起使用，例如 USB 或雷雳驱动器。";
@@ -348,4 +348,4 @@
 "zRi-PC-AW9.title" = "提取时使用默认密码";
 
 /* Class = "NSButtonCell"; title = "Automatically install new updates"; ObjectID = "zTa-p3-fHX"; */
-"zTa-p3-fHX.title" = "Automatically install new updates";
+"zTa-p3-fHX.title" = "自动安装更新";
