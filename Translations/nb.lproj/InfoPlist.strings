@@ -3,11 +3,11 @@
 "NSHumanReadableCopyright" = "Copyright © 2009-2023 aONe";
 
 /* Access request descriptions */
-"NSDesktopFolderUsageDescription" = "Keka requires Desktop access to work with it's files.";
-"NSDocumentsFolderUsageDescription" = "Keka requires Documents access to work with it's files.";
-"NSDownloadsFolderUsageDescription" = "Keka requires Downloads access to work with it's files.";
-"NSNetworkVolumesUsageDescription" = "Keka requires Network volumes access to work with it's files.";
-"NSRemovableVolumesUsageDescription" = "Keka requires removable volumes access to work with it's files.";
+"NSDesktopFolderUsageDescription" = "Keka trenger tilgang til Skrivebord for å behandle filer.";
+"NSDocumentsFolderUsageDescription" = "Keka trenger tilgang til Dokumenter for å behandle filer.";
+"NSDownloadsFolderUsageDescription" = "Keka trenger tilgang til Nedlastinger for å behandle filer.";
+"NSNetworkVolumesUsageDescription" = "Keka trenger tilgang til Nettverksmapper for å behandle filer.";
+"NSRemovableVolumesUsageDescription" = "Keka trenger tilgang til Flyttbare volumer for å behandle filer.";
 
 /* File types */
 "7Z Archive" = "7Z-arkiv";
@@ -57,10 +57,10 @@
 "Safari extension" = "Safari-utvidelse";
 "ACE Archive" = "ACE-arkiv";
 "XIP Secure Archive" = "Sikkert XIP-arkiv";
-"Electronic Book" = "Electronic Book";
-"Apple Archive" = "Apple Archive";
-"WordPress All-in-One Backup" = "WordPress All-in-One Backup";
-"InstallShield 3 Archive" = "InstallShield 3 Archive";
-"Compact Pro Archive" = "Compact Pro Archive";
-"Synology Package Archive" = "Synology Package Archive";
+"Electronic Book" = "Elektronisk bok";
+"Apple Archive" = "Apple-arkiv";
+"WordPress All-in-One Backup" = "WordPress All-in-One-arkiv";
+"InstallShield 3 Archive" = "InstallShield 3-arkiv";
+"Compact Pro Archive" = "Compact Pro-arkiv";
+"Synology Package Archive" = "Synology pakkearkiv";
 "Keka Extraction Package" = "Keka-utpakkingspakke";
