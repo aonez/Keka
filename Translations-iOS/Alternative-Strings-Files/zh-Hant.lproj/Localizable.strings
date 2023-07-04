@@ -28,6 +28,9 @@
 /* No comment provided by engineer. */
 "Allocated size" = "已分配大小";
 
+/* Default compression file name. */
+"ARCHIVE_DEFAULT_NAME" = "文件";
+
 /* No comment provided by engineer. */
 "Ask" = "詢問";
 

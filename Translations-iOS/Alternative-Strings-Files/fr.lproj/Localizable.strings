@@ -28,6 +28,9 @@
 /* No comment provided by engineer. */
 "Allocated size" = "Taille allouée";
 
+/* Default compression file name. */
+"ARCHIVE_DEFAULT_NAME" = "Archive";
+
 /* No comment provided by engineer. */
 "Ask" = "Demander";
 

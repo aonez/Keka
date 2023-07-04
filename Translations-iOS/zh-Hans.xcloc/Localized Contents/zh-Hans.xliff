@@ -309,6 +309,11 @@
         <target>%@ 的 %@ 项</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="ARCHIVE_DEFAULT_NAME" xml:space="preserve">
+        <source>Archive</source>
+        <target>文件</target>
+        <note>Default compression file name.</note>
+      </trans-unit>
       <trans-unit id="About" xml:space="preserve">
         <source>About</source>
         <target>关于</target>

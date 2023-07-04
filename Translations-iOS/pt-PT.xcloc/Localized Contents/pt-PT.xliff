@@ -311,6 +311,11 @@
         <target>%@ de %@ itens</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="ARCHIVE_DEFAULT_NAME" xml:space="preserve">
+        <source>Archive</source>
+        <target>Arquivo</target>
+        <note>Default compression file name.</note>
+      </trans-unit>
       <trans-unit id="About" xml:space="preserve">
         <source>About</source>
         <target>Sobre</target>

@@ -28,6 +28,9 @@
 /* No comment provided by engineer. */
 "Allocated size" = "Allokerad storlek";
 
+/* Default compression file name. */
+"ARCHIVE_DEFAULT_NAME" = "Arkiv";
+
 /* No comment provided by engineer. */
 "Ask" = "Fråga";
 

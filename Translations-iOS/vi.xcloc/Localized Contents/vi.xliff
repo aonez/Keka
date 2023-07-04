@@ -311,6 +311,11 @@
         <target>%@ trên %@ đơn vị</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="ARCHIVE_DEFAULT_NAME" xml:space="preserve">
+        <source>Archive</source>
+        <target>Tệp tin nén</target>
+        <note>Default compression file name.</note>
+      </trans-unit>
       <trans-unit id="About" xml:space="preserve">
         <source>About</source>
         <target>Thông tin thêm</target>
