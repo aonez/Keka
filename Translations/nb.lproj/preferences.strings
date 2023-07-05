@@ -240,19 +240,19 @@
 "XOB-JO-UQT.title" = "Automatisk";
 
 /* Class = "NSMenuItem"; title = "Highest"; ObjectID = "Xl7-AN-Kgw"; */
-"Xl7-AN-Kgw.title" = "Highest";
+"Xl7-AN-Kgw.title" = "Høyeste";
 
 /* Class = "NSTextFieldCell"; title = "Enable full Mac access so Keka can be used on all your Mac."; ObjectID = "ZOx-vr-5o7"; */
 "ZOx-vr-5o7.title" = "Aktiver full Mac-tilgang så Keka kan brukes overalt på Macen.";
 
 /* Class = "NSMenuItem"; title = "High"; ObjectID = "ZiK-jD-TLq"; */
-"ZiK-jD-TLq.title" = "High";
+"ZiK-jD-TLq.title" = "Høy";
 
 /* Class = "NSButtonCell"; title = "Use \"Open with Keka\" as the primary item action"; ObjectID = "a5e-FP-sDv"; */
 "a5e-FP-sDv.title" = "Bruk \"Åpne med Keka\" som primærhandling";
 
 /* Class = "NSButtonCell"; title = "Show the password"; ObjectID = "aOv-6b-JlO"; */
-"aOv-6b-JlO.title" = "Show the password";
+"aOv-6b-JlO.title" = "Vis passordet";
 
 /* Class = "NSButtonCell"; title = "Use parent folder name when compressing multiple files"; ObjectID = "cDs-NB-2os"; */
 "cDs-NB-2os.title" = "Bruk foreldremappe som navn ved komprimering av flere filer";
@@ -264,22 +264,22 @@
 "cb7-h4-ScP.title" = "Maks antall tråder per operasjon:";
 
 /* Class = "NSButtonCell"; title = "Use short tarball extensions (eg: .tgz instead of .tar.gz)"; ObjectID = "cfd-8g-kiU"; */
-"cfd-8g-kiU.title" = "Use short tarball extensions (eg: .tgz instead of .tar.gz)";
+"cfd-8g-kiU.title" = "Bruk korte tarball-filetternavn (eg: .tgz instead of .tar.gz)";
 
 /* Class = "NSButtonCell"; title = "Checking the extension status"; ObjectID = "chn-AV-kXZ"; */
-"chn-AV-kXZ.title" = "Checking the extension status";
+"chn-AV-kXZ.title" = "Sjekker status for utvidelsen";
 
 /* Class = "NSButtonCell"; title = "Use squish face when working"; ObjectID = "dOj-2Z-1kb"; */
-"dOj-2Z-1kb.title" = "Use squish face when working";
+"dOj-2Z-1kb.title" = "Bruk strammet ansikt under jobbing";
 
 /* Class = "NSTextFieldCell"; title = "Compressing multiple files:"; ObjectID = "dhi-qv-weg"; */
 "dhi-qv-weg.title" = "Komprimerer flere filer:";
 
 /* Class = "NSButtonCell"; title = "Set folder's modification date to extraction date"; ObjectID = "eBj-1b-wBg"; */
-"eBj-1b-wBg.title" = "Set mappens endringsdato til utpakkingsdatoen";
+"eBj-1b-wBg.title" = "Sett mappens endringsdato til utpakkingsdatoen";
 
 /* Class = "NSButtonCell"; title = "Always tarball non-archiving formats (like GZ or BZIP2) "; ObjectID = "faa-9Y-Axk"; */
-"faa-9Y-Axk.title" = "Always tarball non-archiving formats (like GZ or BZIP2) ";
+"faa-9Y-Axk.title" = "Alltid bruk tarball for ikke-komprimerte formater (som GZ ellerBZIP2) ";
 
 /* Class = "NSTextFieldCell"; title = "Queue extraction operations:"; ObjectID = "fhN-DK-edu"; */
 "fhN-DK-edu.title" = "Kø for utpakkingsoperasjoner:";
@@ -291,10 +291,10 @@
 "hp7-jO-HeV.title" = "Bruk AES-256 for kryptering av ZIP-filer (mindre kompatibelt)";
 
 /* Class = "NSTextFieldCell"; title = "You can customize where to show the contextual menu below:"; ObjectID = "izC-0G-lvl"; */
-"izC-0G-lvl.title" = "You can customize where to show the contextual menu below:";
+"izC-0G-lvl.title" = "Du kan tilpasse hvor kontekstmenyen skal vises under:";
 
 /* Class = "NSMenuItem"; title = "Default"; ObjectID = "mfK-Rj-HLz"; */
-"mfK-Rj-HLz.title" = "Default";
+"mfK-Rj-HLz.title" = "Standard";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous operations:"; ObjectID = "o8J-bR-bs6"; */
 "o8J-bR-bs6.title" = "Maks antall samtidige operasjoner:";
@@ -309,7 +309,7 @@
 "pXT-7y-9af.title" = "Pakk alltid ut i en undermappe";
 
 /* Class = "NSButtonCell"; title = "Differentiate between active and total tasks in the Dock"; ObjectID = "qrX-WU-mLd"; */
-"qrX-WU-mLd.title" = "Differentiate between active and total tasks in the Dock";
+"qrX-WU-mLd.title" = "Differensier mellom aktive og totalt antall oppgaver i Dock";
 
 /* Class = "NSButtonCell"; title = "Show Keka actions in Finder's contextual menu"; ObjectID = "rP2-XR-ZQt"; */
 "rP2-XR-ZQt.title" = "Vis Keka-handlinger i Finders kontekstmeny";
@@ -327,10 +327,10 @@
 "tEH-O0-NxO.title" = "Aldri, hvis mulig";
 
 /* Class = "NSButtonCell"; title = "Use the default password on new compressions"; ObjectID = "u2R-2w-aOA"; */
-"u2R-2w-aOA.title" = "Use the default password on new compressions";
+"u2R-2w-aOA.title" = "Bruk standardpassordet for nye komprimeringer";
 
 /* Class = "NSTextFieldCell"; title = "You can also use this password from the Finder Extension's menu"; ObjectID = "vWb-gb-JBD"; */
-"vWb-gb-JBD.title" = "You can also use this password from the Finder Extension's menu";
+"vWb-gb-JBD.title" = "Du kan også bruke dette passordet fra Finders utvidelsesmeny";
 
 /* Class = "NSTextFieldCell"; title = "The Finder Extension needs to be enabled in the  System Preferences, Extensions configuration."; ObjectID = "wgz-2S-eXI"; */
 "wgz-2S-eXI.title" = "Finder-utvidelsen må aktiveres i Utivdelser-panelet i  Systemvalg.";
@@ -345,7 +345,7 @@
 "zPq-ei-qUb.title" = "Bruk av kø fører vanligvis til raskere operasjoner og mer responsiv oppførsel.";
 
 /* Class = "NSButtonCell"; title = "Try the default password when extracting any file"; ObjectID = "zRi-PC-AW9"; */
-"zRi-PC-AW9.title" = "Try the default password when extracting any file";
+"zRi-PC-AW9.title" = "Prøv standardpassordet ved utpakking av enhver fil";
 
 /* Class = "NSButtonCell"; title = "Automatically install new updates"; ObjectID = "zTa-p3-fHX"; */
-"zTa-p3-fHX.title" = "Automatically install new updates";
+"zTa-p3-fHX.title" = "Installer nye oppdateringer automatisk";
