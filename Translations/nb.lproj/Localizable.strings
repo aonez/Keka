@@ -219,7 +219,7 @@
 "Resume compressing" = "Gjenoppta komprimering";
 "Resume extracting" = "Gjenoppta utpakking";
 "Pause compressing" = "Sett komprimering på pause";
-"Pause utpakking" = "Sett extracting på pause";
+"Pause extracting" = "Sett utpakking på pause";
 "Compression paused" = "Komprimering pauset";
 "Extraction paused" = "Utpakking pauset";
 "Waiting for password" = "Venter på passord";
