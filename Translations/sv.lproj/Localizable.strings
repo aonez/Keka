@@ -67,8 +67,8 @@
 "Select all the volumes from \"%@\" or the folder that contains them." = "Välj alla volymer från \"%@\" eller mappen som innehåller dem.";
 "Select the folder that contains \"%@\"." = "Välj mappen som innehåller \"%@\".";
 "Extraction of \"%@\" failed" = "Extrahering av \"%@\" misslyckades";
-"Extraction of \"%@\" completed" = "Extraction of \"%@\" completed";
-"The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue";
+"Extraction of \"%@\" completed" = "Extrahering av \"%@\" slutfördes";
+"The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "Extraheringen slutfördes men karantänen applicerades inte.\nVänligen installera om Keka för att lösa problemet";
 "Keka - %i on queue" = "Keka - %i i kö";
 "Keka can't create this %@ image" = "Keka kan inte skapa denna %@-avbild";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "Du kan endast skapa %@-avbilder med en enstaka mapp. Prova att lägga alla dina filer i en mapp och släpp den på Keka för att skapa %@-avbilden.";
@@ -135,7 +135,7 @@
 "Keka was unable to create the extraction package" = "Keka kunde inte skapa extraheringspaketet";
 "No errors found" = "Inga fel hittades";
 "Minor error, the operation may be done well" = "Mindre fel. Åtgärden har kanske genomförts";
-"Fatal error" = "Ödesdigert fel";
+"Fatal error" = "Allvarligt fel";
 "CRC error occurred, maybe the file is corrupt" = "CRC-fel inträffade. Filen kanske är skadad";
 "Attempt to modify an archive previously locked" = "Försök att ändra ett arkiv som tidigare var låst";
 "Maybe you don't have permission to write or your disk is full" = "Kanske saknar du behörighet att skriva eller disken är full";
@@ -232,12 +232,12 @@
 "Update the default password" = "Uppdatera standardlösenordet";
 "Set a default password" = "Sätt ett standardlösenord";
 "To enable external volumes access go to your main disk and select the \"Volumes\" folder." = "För att aktivera åtkomst till externa volymer, gå till din huvuddisk och välj mappen \"Volumes\".";
-"Verifying..." = "Verifying...";
-"Verification of \"%@\" failed" = "Verification of \"%@\" failed";
-"The compressed data seems to be invalid" = "The compressed data seems to be invalid";
-"Encrypted Apple Archive files are only supported on macOS 12 or newer" = "Encrypted Apple Archive files are only supported on macOS 12 or newer";
-"The password length should be %i or higher" = "The password length should be %i or higher";
-" (Entire Device)" = " (Entire Device)";
+"Verifying..." = "Verifierar...";
+"Verification of \"%@\" failed" = "Verifieringen av \"%@\" misslyckades";
+"The compressed data seems to be invalid" = "Den komprimerade datan verkar vara ogiltig";
+"Encrypted Apple Archive files are only supported on macOS 12 or newer" = "Krypterade Apple-arkivfiler stöds enbart på macOS 12 eller senare";
+"The password length should be %i or higher" = "Lösenordslängden ska vara %i eller högre";
+" (Entire Device)" = " (Hela enheten)";
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "Inställningar…";
 
