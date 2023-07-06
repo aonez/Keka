@@ -192,7 +192,7 @@
 "IHj-ac-103.title" = "Aktivera fullständig åtkomst (Rekommenderas)";
 
 /* Class = "NSButtonCell"; title = "Verify compression integrity"; ObjectID = "IL6-a6-uik"; */
-"IL6-a6-uik.title" = "Verify compression integrity";
+"IL6-a6-uik.title" = "Verifiera komprimeringsintegritet";
 
 /* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive."; ObjectID = "JxT-Nq-8Z5"; */
 "JxT-Nq-8Z5.title" = "Aktivera åtkomst till externa volymer så att Keka kan användas på dina externa diskar, såsom en USB eller Thunderbolt-enhet.";
@@ -348,4 +348,4 @@
 "zRi-PC-AW9.title" = "Prova standardlösenordet när någon fil extraheras";
 
 /* Class = "NSButtonCell"; title = "Automatically install new updates"; ObjectID = "zTa-p3-fHX"; */
-"zTa-p3-fHX.title" = "Automatically install new updates";
+"zTa-p3-fHX.title" = "Installera nya uppdateringar automatiskt";
