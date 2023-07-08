@@ -84,7 +84,7 @@
 "UYy-aQ-V1a.title" = "固实归档";
 
 /* Class = "NSTextFieldCell"; title = "Format:"; ObjectID = "dDw-7W-5ff"; */
-"dDw-7W-5ff.title" = "Format:";
+"dDw-7W-5ff.title" = "格式：";
 
 /* Class = "NSButtonCell"; title = "Verify compression integrity"; ObjectID = "gqN-A9-jPb"; */
-"gqN-A9-jPb.title" = "Verify compression integrity";
+"gqN-A9-jPb.title" = "检查压缩完整性";
