@@ -1,0 +1,90 @@
+
+/* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "2221"; */
+"2221.title" = "Arkistoi kohteet erilleen";
+
+/* Class = "NSButtonCell"; title = "Delete file(s) after compression"; ObjectID = "2222"; */
+"2222.title" = "Poista tiedosto(t) pakkauksen jälkeen";
+
+/* Class = "NSButtonCell"; title = "Exclude Mac resource forks"; ObjectID = "2244"; */
+"2244.title" = "Jätä lukuunottamatta Mac-resurssihaarukat";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "2262"; */
+"2262.title" = "Salasana:";
+
+/* Class = "NSTextFieldCell"; title = "Split:"; ObjectID = "2270"; */
+"2270.title" = "Jaa osiin:";
+
+/* Class = "NSComboBoxCell"; placeholderString = "Example: 5 MB"; ObjectID = "2271"; */
+"2271.placeholderString" = "Esimerkki: 5 Mt";
+
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[0] = "1.4 MB Floppy disk"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[0]" = "1.4 Mt levyke";
+
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[1] = "650 MB CD"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[1]" = "650 Mt CD";
+
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[2] = "700 MB CD"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[2]" = "700 Mt CD";
+
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[3] = "4.7 GB DVD"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[3]" = "4.7 Gt DVD";
+
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[4] = "8.5 GB DVD (DL)"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[4]" = "8.5 Gt DVD (DL)";
+
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[5] = "7.8 GB Mini Blu-ray (SL)"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[5]" = "7.8 Gt Mini Blu-ray (SL)";
+
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[6] = "15.6 GB Mini Blu-ray (DL)"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[6]" = "15.6 Gt Mini Blu-ray (DL)";
+
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[7] = "25 GB Blu-ray (SL)"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[7]" = "25 Gt Blu-ray (SL)";
+
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[8] = "50 GB Blu-ray (DL)"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[8]" = "50 Gt Blu-ray (DL)";
+
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[9] = "100 GB Blu-ray XL (TL)"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[9]" = "100 Gt Blu-ray XL (TL)";
+
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[10] = "128 GB Blu-ray XL (QL)"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[10]" = "128 Gt Blu-ray XL (QL)";
+
+/* Class = "NSTextFieldCell"; title = "Volume name:"; ObjectID = "2343"; */
+"2343.title" = "Taltion nimi:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "custom name"; ObjectID = "2354"; */
+"2354.placeholderString" = "mukautettu nimi";
+
+/* Class = "NSTextFieldCell"; title = "You can create an ISO volume that will be read-only and compressed. ISO volumes can be only created from a folder.\n\nSet a volume name to this ISO or use the default name based on the files you compress."; ObjectID = "2363"; */
+"2363.title" = "Pystyt luomaan ISO-taltion, joka on vain-luku muodossa ja pakattu. ISO-taltioita voi vain luoda kansioista.\n\nAseta taltion nimi tälle ISO:lle, tai käytä oletusnimeä pakattujen tiedostojen mukaisesti.";
+
+/* Class = "NSTextFieldCell"; title = "Store"; ObjectID = "2390"; */
+"2390.title" = "Varastoi";
+
+/* Class = "NSTextFieldCell"; title = "Fast"; ObjectID = "2392"; */
+"2392.title" = "Nopea";
+
+/* Class = "NSTextFieldCell"; title = "Slow"; ObjectID = "2394"; */
+"2394.title" = "Hidas";
+
+/* Class = "NSTextFieldCell"; title = "Normal"; ObjectID = "2398"; */
+"2398.title" = "Normaali";
+
+/* Class = "NSTextFieldCell"; title = "Repeat:"; ObjectID = "2426"; */
+"2426.title" = "Toista:";
+
+/* Class = "NSButtonCell"; title = "Encrypt filenames"; ObjectID = "L2I-Q8-zqc"; */
+"L2I-Q8-zqc.title" = "Salaa tiedostonimet";
+
+/* Class = "NSButtonCell"; title = "Use AES-256 encryption"; ObjectID = "Lw7-h9-3Qh"; */
+"Lw7-h9-3Qh.title" = "Käytä AES-256 salausta";
+
+/* Class = "NSButtonCell"; title = "Solid archive"; ObjectID = "UYy-aQ-V1a"; */
+"UYy-aQ-V1a.title" = "Kiinteä arkisto";
+
+/* Class = "NSTextFieldCell"; title = "Format:"; ObjectID = "dDw-7W-5ff"; */
+"dDw-7W-5ff.title" = "Muoto:";
+
+/* Class = "NSButtonCell"; title = "Verify compression integrity"; ObjectID = "gqN-A9-jPb"; */
+"gqN-A9-jPb.title" = "Tarkista pakkauksen eheys";

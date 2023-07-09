@@ -1,0 +1,66 @@
+
+/* Usually leave this one in English */
+"NSHumanReadableCopyright" = "Copyright © 2009-2023 aONe";
+
+/* Access request descriptions */
+"NSDesktopFolderUsageDescription" = "Keka tarvitsee pääsyn Työpöydälle, jotta voi työskennellä sen tiedostoilla.";
+"NSDocumentsFolderUsageDescription" = "Keka tarvitsee pääsyn Dokumentteihin, jotta voi työskennellä sen tiedostoilla.";
+"NSDownloadsFolderUsageDescription" = "Keka tarvitsee pääsyn Latauksiin, jotta voi työskennellä sen tiedostoilla.";
+"NSNetworkVolumesUsageDescription" = "Keka tarvitsee pääsyn verkkolevyihin, jotta voi työskennellä sen tiedostoilla.";
+"NSRemovableVolumesUsageDescription" = "Keka tarvitsee pääsyn ulkoisille levyille, jotta voi työskennellä sen tiedostoilla.";
+
+/* File types */
+"7Z Archive" = "7Z-arkisto";
+"LZMA Archive" = "LZMA-arkisto";
+"LZOP Archive" = "LZOP-arkisto";
+"LZOP Tarball Archive" = "LZOP Tarball-arkisto";
+"LZIP Archive" = "LZIP-arkisto";
+"LZIP Tarball Archive" = "LZIP Tarball-arkisto";
+"ZIP Archive" = "ZIP-arkisto";
+"ZIPX Archive" = "ZIPX-arkisto";
+"XZ Archive" = "XZ-arkisto";
+"XZ Tarball Archive" = "XZ Tarball-arkisto";
+"Brotli Archive" = "Brotli-arkisto";
+"Brotli Tarball Archive" = "Brotli Tarball-arkisto";
+"Zstandard Archive" = "Zstandard-arkisto";
+"Zstandard Tarball Archive" = "Zstandard Tarball-arkisto";
+"RAR Archive" = "RAR-arkisto";
+"RAR Legacy Archive Volume" = "RAR-perinteinen arkistotaltio";
+"Generic Archive Volume" = "Yleinen arkistotaltio";
+"BZIP2 Archive" = "BZIP2-arkisto";
+"BZIP2 Tarball Archive" = "BZIP2 Tarball-arkisto";
+"BZIP Archive" = "BZIP-arkisto";
+"BZIP Tarball Archive" = "BZIP Tarball-arkisto";
+"GZIP Archive" = "GZIP-arkisto";
+"GZIP Tarball Archive" = "GZIP Tarball-arkisto";
+"TAR Archive" = "TAR-arkisto";
+"LRZIP Archive" = "LRZIP-arkisto";
+"LRZIP Tarball Archive" = "LRZIP Tarball-arkisto";
+"CPIO Archive" = "CPIO-arkisto";
+"CPGZ Archive" = "CPGZ-arkisto";
+"PAX Archive" = "PAX-arkisto";
+"DMG Disk Image" = "DMG-levytiedosto";
+"ISO Disk Image" = "ISO-levytiedosto";
+"LHA Archive" = "LHA-arkisto";
+"Windows EXE File" = "Windows EXE-tiedosto";
+"Windows Cabinet File" = "Windows Cabinet-tiedosto";
+"Windows Installer Package" = "Windows Installer-paketti";
+"WIM Disk Image" = "WIM-levytiedosto";
+"Comic Book RAR Archive" = "Comic Book RAR-arkisto";
+"Comic Book ZIP Archive" = "Comic Book ZIP-arkisto";
+"iOS App" = "iOS-appi";
+"JAR Archive" = "JAR-arkisto";
+"WAR Archive" = "WAR-arkisto";
+"Android Application Package" = "Android-sovelluspaketti";
+"Cross-Platform Installer Module (XPI)" = "Cross-Platform-asentajamoduuli (XPI)";
+"APPX Archive" = "APPX-arkisto";
+"Safari extension" = "Safari-laajennus";
+"ACE Archive" = "ACE-arkisto";
+"XIP Secure Archive" = "XIP-turvattu arkisto";
+"Electronic Book" = "Elektroninen kirja";
+"Apple Archive" = "Apple-arkisto";
+"WordPress All-in-One Backup" = "WordPress All-in-One-varmuuskopio";
+"InstallShield 3 Archive" = "InstallShield 3-arkisto";
+"Compact Pro Archive" = "Compact Pro-arkisto";
+"Synology Package Archive" = "Synology-pakettirkisto";
+"Keka Extraction Package" = "Keka-purkupaketti";
