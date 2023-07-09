@@ -1,0 +1,16 @@
+
+"_PROJECTTITLE_" = "Keka-projekti";
+"_PROGRAMMER_" = "Ohjelmoija, suunnittelija &amp; ylläpitäjä";
+"_ARTWORK_" = "Kuvamateriaalin suunnitelija";
+"_TRANSLATIONS_" = "Kääntäjät";
+"_TRANSLATIONSOLD_" = "Kääntäjät (0.1 - 0.1.4.3)";
+"_TESTERS_" = "Satunnaiset testaajat";
+"_DONATIONS_" = "Lahjoitukset (suurinosa lajiteltu päivän mukaan)";
+"_OPENSOURCE_" = "Keka käyttää avointa lähdekoodia";
+"_FREEWARE_" = "Keka käyttää ilmaisia binaareja";
+"_ONEMORETHING_" = "Vielä yksi asia";
+"_THANKS_" = "Kiitos kun käytit Kekaa!";
+"_SOURCE_" = "Keka 1.0:n avoin lähdekoodi ei ole julkinen oikeudellisista ongelmista. Oikeudellinen apu olisi tarpeellinen. Mikäli pystyt auttamaan projektia, olethan yhteydessä sähköpostitse info@keka.io, tai virallisen Keka-projektin verkkosivujen kautta. Kaikki apu on tervetullutta.";
+"_WARRANTY_" = "THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.";
+"_THANKSTOALL_" = "Kiitos kaikille lahjoittaneille ja kaikille, ketkä ovat ostaneet Kekan App Storesta.<br />Kiitos kaikesta palautteesta ja satunnaisista osallistuneista.<br />Kiitos Igor Pavloville todellä hyvästä avoimen lähdekoodin sovelluksesta, sekä kiitos 'myspace' sovelluksen porttaamisesta POSIXiin.<br /><br />Te kaikki pidätte Kekan yllä ja kehitätte sovellusta.";
+"_APPEARDONATION_" = "Jos olet lahjoittanut ja haluat näkyä tässä, laitathan sähköpostia <a href=\"mailto:info@keka.io?subject=Keka donation credits\"</a> :)";
