@@ -96,7 +96,7 @@
 "419.title" = "Oletuspakkaus";
 
 /* Class = "NSMenuItem"; title = "Default extraction"; ObjectID = "432"; */
-"432.title" = "Oletuspurku";
+"432.title" = "Oletuspurkaminen";
 
 /* Class = "NSTextFieldCell"; title = "Play a sound after an extraction:"; ObjectID = "433"; */
 "433.title" = "Soita ääni purkamisen jälkeen:";
@@ -105,7 +105,7 @@
 "436.title" = "Soita ääni pakkauksen jälkeen:";
 
 /* Class = "NSMenuItem"; title = "Default extraction"; ObjectID = "439"; */
-"439.title" = "Oletuspurku";
+"439.title" = "Oletuspurkaminen";
 
 /* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "452"; */
 "452.title" = "Oletuspakkaus";
@@ -276,7 +276,7 @@
 "dhi-qv-weg.title" = "Pakataan useaa tiedostoa:";
 
 /* Class = "NSButtonCell"; title = "Set folder's modification date to extraction date"; ObjectID = "eBj-1b-wBg"; */
-"eBj-1b-wBg.title" = "Aseta kansion muokkauspäivämäärä purku-päivään";
+"eBj-1b-wBg.title" = "Aseta kansion muokkauspäivämäärä purkamispäivään";
 
 /* Class = "NSButtonCell"; title = "Always tarball non-archiving formats (like GZ or BZIP2) "; ObjectID = "faa-9Y-Axk"; */
 "faa-9Y-Axk.title" = "Tarballaa aina ei-arkistoivat muodot (kuten GZ tai BZIP2) ";
@@ -336,7 +336,7 @@
 "wgz-2S-eXI.title" = "Finder-laajennus täytyy ottaa käyttöön  Järjestelmäasetuksista, Laajennuksien konfiguraatio.";
 
 /* Class = "NSTextFieldCell"; title = "Most operations use multiple threads. That means faster operations but also more power consumption and heat."; ObjectID = "xyb-eH-aiy"; */
-"xyb-eH-aiy.title" = "Useat operaatiot käyttävät monta säijettä. Tämä tarkoittaa nopeita operaatioita, mutta myös enemmän energian kulutusta ja kuumuutta.";
+"xyb-eH-aiy.title" = "Useat operaatiot käyttävät monta säijettä. Tämä tarkoittaa nopeita operaatioita, mutta myös enemmän energian kulutusta ja lämpöä.";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous extractions:"; ObjectID = "yGo-Gm-0zq"; */
 "yGo-Gm-0zq.title" = "Suurin sallittu samanaikaisten purkujen määrä:";

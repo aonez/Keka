@@ -14,4 +14,4 @@
 
 /* Software update connection: */
 "SoftwareUpdatePurpose" = "Keka tarkistaa uusia päivityksiä osoitteesta u(pdate).keka.io.";
-"SoftwareUpdateDenyConsequences" = "Jos et hyväksy tätä yhteyttä, et saa ilmoitusta uusista Kekan versioista.";
+"SoftwareUpdateDenyConsequences" = "Jos et hyväksy tätä yhteyttä, et saa ilmoitusta Kekan uusista versioista.";
