@@ -57,7 +57,7 @@
 "TTb-AR-olf.title" = "ファイル";
 
 /* Class = "NSMenuItem"; title = "Keka Help"; ObjectID = "Uuy-RK-W5n"; */
-"Uuy-RK-W5n.title" = "Kekaのヘルプ";
+"Uuy-RK-W5n.title" = "Keka のヘルプ";
 
 /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "W9M-Wy-dHU"; */
 "W9M-Wy-dHU.title" = "ペースト";
@@ -114,7 +114,7 @@
 "tDe-Bb-f8d.title" = "しまう";
 
 /* Class = "NSMenuItem"; title = "Page Setup..."; ObjectID = "tjx-uw-4ov"; */
-"tjx-uw-4ov.title" = "ページ設定…";
+"tjx-uw-4ov.title" = "ページ設定...";
 
 /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "v5b-pg-pYC"; */
 "v5b-pg-pYC.title" = "コピー";

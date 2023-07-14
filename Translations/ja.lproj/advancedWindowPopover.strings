@@ -1,6 +1,6 @@
-﻿
+
 /* Class = "NSButtonCell"; title = "Automatically save configuration changes"; ObjectID = "9ew-FN-7fK"; */
-"9ew-FN-7fK.title" = "設定変更を自動的に保存";
+"9ew-FN-7fK.title" = "変更した設定を自動的に保存";
 
 /* Class = "NSButtonCell"; title = "Remove this configuration"; ObjectID = "OVd-YP-1Rw"; */
 "OVd-YP-1Rw.title" = "この設定を削除";

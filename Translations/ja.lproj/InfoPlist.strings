@@ -3,11 +3,11 @@
 "NSHumanReadableCopyright" = "Copyright © 2009-2023 aONe";
 
 /* Access request descriptions */
-"NSDesktopFolderUsageDescription" = "Kekaがファイルを操作するには、デスクトップへのアクセス権が必要です。";
-"NSDocumentsFolderUsageDescription" = "Kekaがファイルを操作するには、ドキュメントへのアクセス権が必要です。";
-"NSDownloadsFolderUsageDescription" = "Kekaがファイルを操作するには、ダウンロードへのアクセス権が必要です。";
-"NSNetworkVolumesUsageDescription" = "Kekaがファイルを操作するには、ネットワークボリュームへのアクセス権が必要です。";
-"NSRemovableVolumesUsageDescription" = "Kekaがファイルを操作するには、リムーバブルボリュームへのアクセス権が必要です。";
+"NSDesktopFolderUsageDescription" = "Keka がファイルを操作するには、デスクトップへのアクセス権が必要です。";
+"NSDocumentsFolderUsageDescription" = "Keka がファイルを操作するには、ドキュメントへのアクセス権が必要です。";
+"NSDownloadsFolderUsageDescription" = "Keka がファイルを操作するには、ダウンロードへのアクセス権が必要です。";
+"NSNetworkVolumesUsageDescription" = "Keka がファイルを操作するには、ネットワークボリュームへのアクセス権が必要です。";
+"NSRemovableVolumesUsageDescription" = "Keka がファイルを操作するには、リムーバブルボリュームへのアクセス権が必要です。";
 
 /* File types */
 "7Z Archive" = "7Z アーカイブ";
@@ -43,7 +43,7 @@
 "ISO Disk Image" = "ISO ディスクイメージ";
 "LHA Archive" = "LHA アーカイブ";
 "Windows EXE File" = "Windows EXE ファイル";
-"Windows Cabinet File" = "Windows Cabinet Filファイルe";
+"Windows Cabinet File" = "Windows Cabinet ファイル";
 "Windows Installer Package" = "Windows インストーラーパッケージ";
 "WIM Disk Image" = "WIM ディスクイメージ";
 "Comic Book RAR Archive" = "Comic Book RAR アーカイブ";
@@ -63,4 +63,4 @@
 "InstallShield 3 Archive" = "InstallShield 3 アーカイブ";
 "Compact Pro Archive" = "Compact Pro アーカイブ";
 "Synology Package Archive" = "Synology パッケージ アーカイブ";
-"Keka Extraction Package" = "Keka Extraction Package";
+"Keka Extraction Package" = "Keka 抽出パッケージ";

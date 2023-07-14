@@ -1,5 +1,5 @@
-﻿
-"_PROJECTTITLE_" = "Kekaのプロジェクト";
+
+"_PROJECTTITLE_" = "Keka のプロジェクト";
 "_PROGRAMMER_" = "開発者、デザイナー、メンテナ";
 "_ARTWORK_" = "アートワークデザイナー";
 "_TRANSLATIONS_" = "ローカライゼーション";
@@ -7,9 +7,9 @@
 "_TESTERS_" = "テスター";
 "_DONATIONS_" = "寄付者（日付順に記載されています）";
 "_OPENSOURCE_" = "Kekaは下記オープンソースコードを利用します";
-"_FREEWARE_" = "Kekaは下記の無料のバイナリを利用します";
+"_FREEWARE_" = "Keka は下記の無料のバイナリを利用します";
 "_ONEMORETHING_" = "そして";
-"_THANKS_" = "Kekaをご利用いただきありがとうございます";
+"_THANKS_" = "Keka をご利用いただきありがとうございます";
 "_SOURCE_" = "法的問題のため Keka 1.0 のソースコードが提供できません。<br />法的支援を求めています。もし本プロジェクトに手助けいただけるのであれば info@keka.io かKekaの公式にあるプロジェクトページまでご連絡ください。どんな助けでも大歓迎です。";
 "_WARRANTY_" = "THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.";
 "_THANKSTOALL_" = "寄付者また App Store で購入した方に感謝致します。<br />色々なフィードバックや時折の貢献を感謝致します。<br />Igor Pavlov氏には優れたオープンソースソフトと「myspace」にはPOSIXへの移植を感謝しています。<br /><br />皆様はプロジェックトを維持させて、より良いことへと変ぼうさせます。";
