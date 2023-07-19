@@ -1,0 +1,408 @@
+/* No comment provided by engineer. */
+"\"%@\"" = "\"%@\"";
+
+/* No comment provided by engineer. */
+"%@" = "%@";
+
+/* No comment provided by engineer. */
+"%@ item" = "%@ kohde";
+
+/* No comment provided by engineer. */
+"%@ items" = "%@ kohdetta";
+
+/* No comment provided by engineer. */
+"%@ of %@ item" = "%@ / %@ kohteesta";
+
+/* No comment provided by engineer. */
+"%@ of %@ items" = "%@ / %@ kohteista";
+
+/* No comment provided by engineer. */
+"About" = "Tietoja";
+
+/* No comment provided by engineer. */
+"Actions" = "Toiminnot";
+
+/* No comment provided by engineer. */
+"Add a File" = "Lisää tiedosto";
+
+/* No comment provided by engineer. */
+"Add a Folder" = "Lisää kansio";
+
+/* No comment provided by engineer. */
+"Add some contents using the %@ button or the %@ and %@ buttons in the toolbar." = "Lisää sisältöä käyttämällä %@-nappia, tai %@- ja %@-nappeja työkalupalkissa.";
+
+/* No comment provided by engineer. */
+"Allocated size" = "Varattu koko";
+
+/* Default compression file name. */
+"ARCHIVE_DEFAULT_NAME" = "Arkisto";
+
+/* No comment provided by engineer. */
+"Ask" = "Kysy";
+
+/* Browse, operation description. */
+"BROWSE_OPERATION" = "Selaa";
+
+/* Browsing, operation running. */
+"BROWSE_RUNNING" = "Selataan";
+
+/* Browsing, tasks section title. */
+"BROWSE_SECTION_TITLE" = "Selataan";
+
+/* Browser settings title. */
+"Browser" = "Selain";
+
+/* "by aone" part from "Made with love by aone". */
+"by %@" = ", %@";
+
+/* No comment provided by engineer. */
+"Calculate" = "Laske";
+
+/* No comment provided by engineer. */
+"Cancel" = "Kumoa";
+
+/* No comment provided by engineer. */
+"Choose" = "Valitse";
+
+/* No comment provided by engineer. */
+"Clear Cache" = "Tyhjennä välimuisti";
+
+/* No comment provided by engineer. */
+"Clear Cache Contents" = "Tyhjennä välimuistin sisältö";
+
+/* No comment provided by engineer. */
+"Close" = "Sulje";
+
+/* No comment provided by engineer. */
+"Comments" = "Kommentit";
+
+/* No comment provided by engineer. */
+"Compress" = "Pakkaa";
+
+/* No comment provided by engineer. */
+"compressed" = "pakattu";
+
+/* No comment provided by engineer. */
+"Compressed size" = "Pakattu koko";
+
+/* Compression settings title. */
+"Compression" = "Pakkaus";
+
+/* No comment provided by engineer. */
+"compression failed" = "pakkaus epäonnistui";
+
+/* No comment provided by engineer. */
+"Compression Level:" = "Pakkaustaso:";
+
+/* Compression, operation description. */
+"COMPRESSION_OPERATION" = "Pakkaus";
+
+/* Compressing, operation running. */
+"COMPRESSION_RUNNING" = "Pakataan";
+
+/* Compressing, tasks section title. */
+"COMPRESSION_SECTION_TITLE" = "Pakataan";
+
+/* No comment provided by engineer. */
+"Contents" = "Sisältö";
+
+/* No comment provided by engineer. */
+"Contents: %@, Size: %@" = "Sisältö: %@, Koko: %@";
+
+/* No comment provided by engineer. */
+"Created" = "Luotu";
+
+/* No comment provided by engineer. */
+"Custom..." = "Mukautettu...";
+
+/* No comment provided by engineer. */
+"Date" = "Päivämäärä";
+
+/* No comment provided by engineer. */
+"Default Compression Level" = "Oletus pakkaustaso";
+
+/* No comment provided by engineer. */
+"Default Destination" = "Oletus kohde";
+
+/* No comment provided by engineer. */
+"Default Format" = "Oletus muoto";
+
+/* No comment provided by engineer. */
+"Default Tap Action" = "Oletus napautustoiminto";
+
+/* No comment provided by engineer. */
+"Default Volume Unit" = "Taltion oletusyksikkö";
+
+/* No comment provided by engineer. */
+"Delete" = "Poista";
+
+/* No comment provided by engineer. */
+"Destination" = "Kohde";
+
+/* No comment provided by engineer. */
+"Disable \"%@\" if you prefer to use a default configuration." = "Poista käytöstä \"%@\", mikäli mielummin käytät oletuskonfiguraatiota";
+
+/* No comment provided by engineer. */
+"Dismiss" = "Hylkää";
+
+/* No comment provided by engineer. */
+"Document" = "Asiakirja";
+
+/* No comment provided by engineer. */
+"done" = "valmis";
+
+/* No comment provided by engineer. */
+"Done" = "Valmis";
+
+/* No comment provided by engineer. */
+"Edit" = "Muokkaa";
+
+/* No comment provided by engineer. */
+"Encrypt Filenames" = "Salaa tiedostonimet";
+
+/* No comment provided by engineer. */
+"Encrypt Filenames if Possible" = "Salaa tiedostonimet jos mahdollista";
+
+/* No comment provided by engineer. */
+"Enter the password for the file\n\"%@\"" = "Syötä salasana tiedostolle\n\"%@\"";
+
+/* No comment provided by engineer. */
+"Extract" = "Pura";
+
+/* No comment provided by engineer. */
+"Extract the file" = "Pura tiedosto";
+
+/* No comment provided by engineer. */
+"extracted" = "purettu";
+
+/* Extraction settings title. */
+"Extraction" = "Purkaminen";
+
+/* No comment provided by engineer. */
+"extraction failed" = "purkaminen epäonnistui";
+
+/* Extraction, operation description. */
+"EXTRACTION_OPERATION" = "Purkaminen";
+
+/* Extracting, operation running. */
+"EXTRACTION_RUNNING" = "Puretaan";
+
+/* Extracting, tasks section title. */
+"EXTRACTION_SECTION_TITLE" = "Puretaan";
+
+/* No comment provided by engineer. */
+"failed" = "epäonnistui";
+
+/* No comment provided by engineer. */
+"Fast" = "Nopea";
+
+/* No comment provided by engineer. */
+"Fastest" = "Nopein";
+
+/* No comment provided by engineer. */
+"Feedback" = "Palaute";
+
+/* No comment provided by engineer. */
+"File not informed properly, try again." = "Tiedostoa ei ilmoitettu oikein, yritä uudelleen.";
+
+/* No comment provided by engineer. */
+"Format" = "Muoto";
+
+/* General settings title. */
+"General" = "Yleiset";
+
+/* No comment provided by engineer. */
+"Get Info" = "Näytä tietoja";
+
+/* No comment provided by engineer. */
+"Hide Password by Default" = "Piilota salasana oletuksena";
+
+/* No comment provided by engineer. */
+"If you got here, please get in touch with the developers." = "Jos pääsit tänne, olethan yhteydessä sovelluskehittäjiin.";
+
+/* No comment provided by engineer. */
+"Information" = "Tiedot";
+
+/* No comment provided by engineer. */
+"Keka's Folder" = "Kekan kansio";
+
+/* No comment provided by engineer. */
+"Keka's icon" = "Kekan kuvake";
+
+/* No comment provided by engineer. */
+"Kind" = "Laji";
+
+/* No comment provided by engineer. */
+"Last opened" = "Avattu viimeksi";
+
+/* No comment provided by engineer. */
+"Loading" = "Lataa";
+
+/* "Made with" part from "Made with love by aone". */
+"Made with" = "Tehty";
+
+/* No comment provided by engineer. */
+"Modified" = "Muokattu";
+
+/* No comment provided by engineer. */
+"Name" = "Nimi";
+
+/* No comment provided by engineer. */
+"No contents" = "Ei sisältöä";
+
+/* No comment provided by engineer. */
+"No contents available" = "Sisältöä ei ole saatavilla";
+
+/* No comment provided by engineer. */
+"No files to extract" = "Ei tiedostoja purettavaksi";
+
+/* No comment provided by engineer. */
+"None" = "Ei mitään";
+
+/* No comment provided by engineer. */
+"Normal" = "Normaali";
+
+/* No comment provided by engineer. */
+"Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files." = "Kaikki alustat ei tue AES-256-salausta. Saatat tarvita kolmannen osapuolen ohjelman (kuten Kekan) avataksesi nämä pakatut tiedostot.";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Open" = "Avaa";
+
+/* No comment provided by engineer. */
+"Password" = "Salasana";
+
+/* No comment provided by engineer. */
+"Password needed" = "Salasana tarvitaan";
+
+/* No comment provided by engineer. */
+"Please enter the password for:" = "Syötä salasana kohteelle:";
+
+/* No comment provided by engineer. */
+"Please select the encoding for:" = "Valitse enkoodaus kohteelle:";
+
+/* No comment provided by engineer. */
+"Preview" = "Esikatselu";
+
+/* No comment provided by engineer. */
+"Quick Look" = "Pikakatselu";
+
+/* No comment provided by engineer. */
+"Remember Last Used Options" = "Muista aikaisemmin käytetyt asetukset";
+
+/* No comment provided by engineer. */
+"Remove from cache" = "Poista välimuistista";
+
+/* No comment provided by engineer. */
+"Reset" = "Nollaa";
+
+/* No comment provided by engineer. */
+"Reset All Settings" = "Nollaa kaikki asetukset";
+
+/* No comment provided by engineer. */
+"Review" = "Tarkista";
+
+/* No comment provided by engineer. */
+"Save" = "Tallenna";
+
+/* No comment provided by engineer. */
+"Settings" = "Asetukset";
+
+/* No comment provided by engineer. */
+"Share" = "Jaa";
+
+/* No comment provided by engineer. */
+"Size" = "Koko";
+
+/* No comment provided by engineer. */
+"Slow" = "Hidas";
+
+/* No comment provided by engineer. */
+"Slowest" = "Hitain";
+
+/* No comment provided by engineer. */
+"Split in volumes" = "Jaa taltioina";
+
+/* No comment provided by engineer. */
+"Store" = "Varastoi";
+
+/* No comment provided by engineer. */
+"The %@ of space available in the destination might not be enough for compressing the estimated %@." = "%@ saatavilla olevasta tilasta kohteessa ei välttämättä riitä pakkaamaan arvioitua %@.";
+
+/* No comment provided by engineer. */
+"The changes could not be saved" = "Muutoksia ei voitu tallentaa";
+
+/* No comment provided by engineer. */
+"The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "Pakkaus saattaa vaatia enemmän muistia kuin mitä on saatavilla (%@), ja ei välttämättä suoriudu onnistuneesti. Rajoitetaan yhteen säikeeseen.";
+
+/* No comment provided by engineer. */
+"The compression will be limited to %lld thread/s due to memory constraints." = "Pakkausta tullaan rahoittamaan %lld säikeeseen, muistirajoituksista johtuen.";
+
+/* No comment provided by engineer. */
+"The destination has %@ of space available." = "Kohteessa on %@ tilaa saatavilla.";
+
+/* No comment provided by engineer. */
+"The file manager for iOS and macOS" = "Tiedostonhallinta-ohjelmisto iOS:lle ja macOS:lle";
+
+/* No comment provided by engineer. */
+"The folder is empty" = "Kansio on tyhjä";
+
+/* No comment provided by engineer. */
+"The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "Hitaammalla tasolla voidaan saavuttaa enemmän pakkausta. Varastointi-taso ei pakkaa ollenkaan, se vain arkistoi sisällön.";
+
+/* No comment provided by engineer. */
+"To extract" = "Purkaa";
+
+/* No comment provided by engineer. */
+"Total size" = "Kokonaiskoko";
+
+/* No comment provided by engineer. */
+"Translated by %@" = "Kääntänyt %@";
+
+/* The translator link, if any. Can be a mail address or a website. */
+"TRANSLATOR_LINK" = "https://github.com/Piipperi";
+
+/* The translator name, if any. */
+"TRANSLATOR_NAME" = "Piipperi";
+
+/* No comment provided by engineer. */
+"Type" = "Tyyppi";
+
+/* No comment provided by engineer. */
+"Unable to apply the app icon" = "Apin kuvaketta ei voitu asettaa";
+
+/* No comment provided by engineer. */
+"Unable to browse \"%@\"" = "Kohdetta \"%@\" ei pystytty selaamaan";
+
+/* No comment provided by engineer. */
+"Unable to determine the available space." = "Saatavilla olevaa tilaa ei voitu määrittää";
+
+/* No comment provided by engineer. */
+"Unable to get encoding data" = "Enkoodausdataa ei voitu hakea";
+
+/* No comment provided by engineer. */
+"Use AES-256 Encryption" = "Käytä AES-256-salausta";
+
+/* No comment provided by engineer. */
+"Use AES-256 if Available" = "Käytä AES-256-salausta jos saatavilla";
+
+/* No comment provided by engineer. */
+"Use special coloring for known formats" = "Käytä erityistä väritystä tunnetuille muodoille";
+
+/* No comment provided by engineer. */
+"Use UTF-8 Encoding if Available" = "Käytä UTF-8 enkoodausta jos saatavilla";
+
+/* No comment provided by engineer. */
+"Volume Size" = "Taltion koko";
+
+/* No comment provided by engineer. */
+"Welcome" = "Tervetuloa";
+
+/* The "Welcome to Keka" title. */
+"Welcome to %@" = "Tervetuloa %@an";
+
+/* No comment provided by engineer. */
+"Where" = "Minne";
+

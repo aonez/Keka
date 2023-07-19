@@ -1,0 +1,162 @@
+/* (No Comment) */
+"7Z Archive" = "7Z-arkisto";
+
+/* (No Comment) */
+"ACE Archive" = "ACE-levyarkisto";
+
+/* (No Comment) */
+"ALZip Archive" = "ALZip-levyarkisto";
+
+/* (No Comment) */
+"Amiga DCS Disk Archive" = "Amiga DCS-levyarkisto";
+
+/* (No Comment) */
+"Amiga Disk File" = "Amiga-levytiedosto";
+
+/* (No Comment) */
+"Amiga DMS Disk Archive" = "Amiga DMS-levyarkisto";
+
+/* (No Comment) */
+"Amiga PackDev Disk Archive" = "Amiga PackDev-levyarkisto";
+
+/* (No Comment) */
+"Amiga PowerPacker Archive" = "Amiga PowerPacker-arkisto";
+
+/* (No Comment) */
+"Amiga xMash Disk Archive" = "Amiga xMash-levyarkisto";
+
+/* (No Comment) */
+"Amiga Zoom Disk Archive" = "Amiga Zoom-levyarkisto";
+
+/* (No Comment) */
+"Android Application Package" = "Android-sovelluspaketti";
+
+/* (No Comment) */
+"APPX Archive" = "APPX-arkisto";
+
+/* (No Comment) */
+"ARC Archive" = "ARC-arkisto";
+
+/* (No Comment) */
+"ARJ Archive" = "ARJ-arkisto";
+
+/* (No Comment) */
+"BZIP2 Archive" = "BZIP2-arkisto";
+
+/* (No Comment) */
+"BZIP2 Tarball Archive" = "BZIP2 Tarball-arkisto";
+
+/* (No Comment) */
+"CAB Archive" = "CAB-arkisto";
+
+/* (No Comment) */
+"CDI Disk Image" = "CDI-levytiedosto";
+
+/* (No Comment) */
+"Compact Pro Archive" = "Compact Pro-arkisto";
+
+/* (No Comment) */
+"Compressed Amiga Disk File" = "Pakattu Amiga-levytiedosto";
+
+/* (No Comment) */
+"Deb Archive" = "Deb-arkisto";
+
+/* (No Comment) */
+"DiskDoubler Archive" = "DiskDoubler-arkisto";
+
+/* (No Comment) */
+"Generic Archive Volume" = "Yleinen arkistointitaltio";
+
+/* (No Comment) */
+"HA Archive" = "HA-arkisto";
+
+/* (No Comment) */
+"Keka Extraction Package" = "Keka-purkupaketti";
+
+/* (No Comment) */
+"LBR Archive" = "LBR-arkisto";
+
+/* (No Comment) */
+"LhA Archive" = "LhA-arkisto";
+
+/* (No Comment) */
+"LhF Archive" = "LhF-arkisto";
+
+/* (No Comment) */
+"Linux RPM Archive" = "Linux RPM-arkisto";
+
+/* (No Comment) */
+"LZMA File" = "LZMA-tiedosto";
+
+/* (No Comment) */
+"LZX Archive" = "LZX-arkisto";
+
+/* (No Comment) */
+"MDF Disk Image" = "MDF-levytiedosto";
+
+/* (No Comment) */
+"Microsoft MSI Installer" = "Microsoft MSI-asentaja";
+
+/* (No Comment) */
+"Now Compress Archive" = "Now Compress-arkisto";
+
+/* (No Comment) */
+"NRG Disk Image" = "NRG-levytiedosto";
+
+/* (No Comment) */
+"NSA Archive" = "NSA-arkisto";
+
+/* (No Comment) */
+"PackIt Archive" = "PackIt-arkisto";
+
+/* (No Comment) */
+"Pax Archive" = "Pax-arkisto";
+
+/* (No Comment) */
+"PMA Archive" = "PMA-arkisto";
+
+/* (No Comment) */
+"RAR Archive" = "RAR-arkisto";
+
+/* (No Comment) */
+"SAR Archive" = "SAR-arkisto";
+
+/* (No Comment) */
+"Self-Extracting Archive" = "Itsestäänpurkautuva-arkisto";
+
+/* (No Comment) */
+"Unix Compress File" = "Unix Compress-tiedosto";
+
+/* (No Comment) */
+"Unix Compress Tar Archive" = "Unix Compress Tar-arkisto";
+
+/* (No Comment) */
+"WARC Web Archive" = "WARC-verkkoarkisto";
+
+/* (No Comment) */
+"XAR Archive" = "XAR-arkisto";
+
+/* (No Comment) */
+"XIP Archive" = "XIP-arkisto";
+
+/* (No Comment) */
+"XZ Archive" = "XZ-arkisto";
+
+/* (No Comment) */
+"XZ Tarball Archive" = "XZ Tarball-arkisto";
+
+/* (No Comment) */
+"ZIP Archive" = "ZIP-arkisto";
+
+/* (No Comment) */
+"ZIPX Archive" = "ZIPX-arkisto";
+
+/* (No Comment) */
+"ZOO Archive" = "ZOO-arkisto";
+
+/* (No Comment) */
+"Zstandard Archive" = "Zstandard-arkisto";
+
+/* (No Comment) */
+"Zstandard Tarball Archive" = "Zstandard Tarball-arkisto";
+
