@@ -96,7 +96,7 @@
 "419.title" = "Oletuspakkaus";
 
 /* Class = "NSMenuItem"; title = "Default extraction"; ObjectID = "432"; */
-"432.title" = "Oletuspurku";
+"432.title" = "Oletuspurkaminen";
 
 /* Class = "NSTextFieldCell"; title = "Play a sound after an extraction:"; ObjectID = "433"; */
 "433.title" = "Soita ääni purkamisen jälkeen:";
@@ -105,7 +105,7 @@
 "436.title" = "Soita ääni pakkauksen jälkeen:";
 
 /* Class = "NSMenuItem"; title = "Default extraction"; ObjectID = "439"; */
-"439.title" = "Oletuspurku";
+"439.title" = "Oletuspurkaminen";
 
 /* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "452"; */
 "452.title" = "Oletuspakkaus";
@@ -129,7 +129,7 @@
 "5B7-Sc-wp0.title" = "Voit myös mukkauttaa pääsyä alla:";
 
 /* Class = "NSButtonCell"; title = "Automatically check for updates"; ObjectID = "63y-ct-DNM"; */
-"63y-ct-DNM.title" = "Tarkista päivitykset automaattisesti";
+"63y-ct-DNM.title" = "Etsi päivityksiä automaattisesti";
 
 /* Class = "NSMenuItem"; title = "Desktop"; ObjectID = "67Z-kB-INb"; */
 "67Z-kB-INb.title" = "Työpöytä";
@@ -180,7 +180,7 @@
 "G1T-Qd-OZi.title" = "Tehtävien prioriteetti (QoS):";
 
 /* Class = "NSButtonCell"; title = "Always use the lowest priority when running on battery"; ObjectID = "GJB-94-NHl"; */
-"GJB-94-NHl.title" = "Käytä aina alhaisinta prioriteettia, kun käytetään akkua";
+"GJB-94-NHl.title" = "Käytä aina alhaisinta prioriteettia akkua käyttäessä";
 
 /* Class = "NSTextFieldCell"; title = "It is recommended to only do one compression at a time if using multiple threads."; ObjectID = "Hkf-wB-gUj"; */
 "Hkf-wB-gUj.title" = "On suositeltavaa, että tehdään vain yksi pakkaus kerrallaan kun käytetään useaa säijettä.";
@@ -216,13 +216,13 @@
 "NwI-O4-9NI.title" = "Jätä lukuunottamatta Mac-resurssihaarukat (esim: .DS_Store)";
 
 /* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder."; ObjectID = "PD2-iW-BGK"; */
-"PD2-iW-BGK.title" = "Salli pääsy kotikansioon, jotta Kekaa voidaan käyttää kaikilla käyttäjätiedostoillasi, esimerkiksi kohteet Työpöydälläsi tai Lataukset-kansiossasi";
+"PD2-iW-BGK.title" = "Salli pääsy kotikansioon, jotta Kekaa voidaan käyttää kaikilla käyttäjätiedostoillasi, esimerkiksi Työpöytäsi tai Lataukset-kansiosi kohteilla";
 
 /* Class = "NSTextFieldCell"; title = "Default password:"; ObjectID = "Rgr-FP-Kua"; */
 "Rgr-FP-Kua.title" = "Oletussalasana:";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
-"SOL-6U-5P9.title" = "Ota käyttöön Ilmoituskeskus-integraatio";
+"SOL-6U-5P9.title" = "Ota Ilmoituskeskus-integraatio käyttöön";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "TLc-Nk-Bps"; */
 "TLc-Nk-Bps.placeholderString" = "Tässä on mukautettu nimesi";
@@ -234,7 +234,7 @@
 "WCN-jH-W9J.placeholderString" = "Tässä on mukautettu nimesi";
 
 /* Class = "NSButtonCell"; title = "Remove bad password header structure extractions"; ObjectID = "Wd0-yz-M1h"; */
-"Wd0-yz-M1h.title" = "Poista huono salasana tiedoston alkuosa-struktuuri purkamiset";
+"Wd0-yz-M1h.title" = "Poista huonot salasanan alkuosarakenteen poiminnat";
 
 /* Class = "NSMenuItem"; title = "Automatic"; ObjectID = "XOB-JO-UQT"; */
 "XOB-JO-UQT.title" = "Automaattinen";
@@ -270,16 +270,16 @@
 "chn-AV-kXZ.title" = "Tarkistetaan laajennuksen tilaa";
 
 /* Class = "NSButtonCell"; title = "Use squish face when working"; ObjectID = "dOj-2Z-1kb"; */
-"dOj-2Z-1kb.title" = "Käytä litistettyjö kasvoja työskennellessä";
+"dOj-2Z-1kb.title" = "Käytä litistettyjä kasvoja työskennellessä";
 
 /* Class = "NSTextFieldCell"; title = "Compressing multiple files:"; ObjectID = "dhi-qv-weg"; */
 "dhi-qv-weg.title" = "Pakataan useaa tiedostoa:";
 
 /* Class = "NSButtonCell"; title = "Set folder's modification date to extraction date"; ObjectID = "eBj-1b-wBg"; */
-"eBj-1b-wBg.title" = "Aseta kansion muokkauspäivämäärä purku-päivään";
+"eBj-1b-wBg.title" = "Aseta kansion muokkauspäivämäärä purkamispäivään";
 
 /* Class = "NSButtonCell"; title = "Always tarball non-archiving formats (like GZ or BZIP2) "; ObjectID = "faa-9Y-Axk"; */
-"faa-9Y-Axk.title" = "Aina tarballaa ei-arkistoivat muodot (kuten GZ tai BZIP2) ";
+"faa-9Y-Axk.title" = "Tarballaa aina ei-arkistoivat muodot (kuten GZ tai BZIP2) ";
 
 /* Class = "NSTextFieldCell"; title = "Queue extraction operations:"; ObjectID = "fhN-DK-edu"; */
 "fhN-DK-edu.title" = "Jonota purkuoperaatioita:";
@@ -306,7 +306,7 @@
 "p5F-63-ubE.title" = "Pidä lähteen tarkenne:";
 
 /* Class = "NSButtonCell"; title = "Always extract in a subfolder"; ObjectID = "pXT-7y-9af"; */
-"pXT-7y-9af.title" = "Aina pura alikansioon";
+"pXT-7y-9af.title" = "Pura aina alikansioon";
 
 /* Class = "NSButtonCell"; title = "Differentiate between active and total tasks in the Dock"; ObjectID = "qrX-WU-mLd"; */
 "qrX-WU-mLd.title" = "Erottele tehtävien aktiivinen ja kokonaismäärä Dockissa";
@@ -336,7 +336,7 @@
 "wgz-2S-eXI.title" = "Finder-laajennus täytyy ottaa käyttöön  Järjestelmäasetuksista, Laajennuksien konfiguraatio.";
 
 /* Class = "NSTextFieldCell"; title = "Most operations use multiple threads. That means faster operations but also more power consumption and heat."; ObjectID = "xyb-eH-aiy"; */
-"xyb-eH-aiy.title" = "Useat operaatiot käyttävät monta säijettä. Tämä tarkoittaa nopeita operaatioita, mutta myös enemmän energian kulutusta ja kuumuutta.";
+"xyb-eH-aiy.title" = "Useat operaatiot käyttävät monta säijettä. Tämä tarkoittaa nopeita operaatioita, mutta myös enemmän energian kulutusta ja lämpöä.";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous extractions:"; ObjectID = "yGo-Gm-0zq"; */
 "yGo-Gm-0zq.title" = "Suurin sallittu samanaikaisten purkujen määrä:";
@@ -345,7 +345,7 @@
 "zPq-ei-qUb.title" = "Jonottaminen yleensä johtaa nopeampiin operaatioihin ja reagoivampaan käyttäytymiseen.";
 
 /* Class = "NSButtonCell"; title = "Try the default password when extracting any file"; ObjectID = "zRi-PC-AW9"; */
-"zRi-PC-AW9.title" = "Kokeile oletussalasanaa purettaessa mitä tahansa tiedostoa";
+"zRi-PC-AW9.title" = "Kokeile oletussalasanaa, purettaessa mitä tahansa tiedostoa";
 
 /* Class = "NSButtonCell"; title = "Automatically install new updates"; ObjectID = "zTa-p3-fHX"; */
-"zTa-p3-fHX.title" = "Automaattisesti asenna uudet päivitykset";
+"zTa-p3-fHX.title" = "Asenna uudet päivitykset automaattisesti";
