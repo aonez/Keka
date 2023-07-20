@@ -1,4 +1,4 @@
-﻿
+
 /* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "2221"; */
 "2221.title" = "個別の圧縮ファイルを作成する";
 
@@ -84,7 +84,7 @@
 "UYy-aQ-V1a.title" = "ソリッド圧縮";
 
 /* Class = "NSTextFieldCell"; title = "Format:"; ObjectID = "dDw-7W-5ff"; */
-"dDw-7W-5ff.title" = "Format:";
+"dDw-7W-5ff.title" = "フォーマット:";
 
 /* Class = "NSButtonCell"; title = "Verify compression integrity"; ObjectID = "gqN-A9-jPb"; */
-"gqN-A9-jPb.title" = "Verify compression integrity";
+"gqN-A9-jPb.title" = "圧縮の完全性を検証する";

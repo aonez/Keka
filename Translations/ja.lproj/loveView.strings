@@ -1,4 +1,4 @@
-﻿
+
 /* Class = "NSTextFieldCell"; title = "Privacy Policy"; ObjectID = "272-yr-FLe"; */
 "272-yr-FLe.title" = "プライバシーポリシー";
 
@@ -6,7 +6,7 @@
 "3fa-7X-tbT.title" = "チップの量:";
 
 /* Class = "NSTextFieldCell"; title = "If you like Keka and want to support its development feel free to send a tip."; ObjectID = "8XN-ZG-0jV"; */
-"8XN-ZG-0jV.title" = "Kekaを気に入っていただき、開発を支援したいと思った方は、遠慮なくチップをお送りください。";
+"8XN-ZG-0jV.title" = "Keka を気に入っていただき、開発を支援したいと思った方は、遠慮なくチップをお送りください。";
 
 /* Class = "NSTextFieldCell"; title = "and"; ObjectID = "OE7-1P-wlg"; */
 "OE7-1P-wlg.title" = " と ";
@@ -24,7 +24,7 @@
 "ePd-aV-Xmv.title" = "毎月";
 
 /* Class = "NSButtonCell"; title = "Occasionally ask to rate Keka in the Mac App Store"; ObjectID = "h7M-VN-RPh"; */
-"h7M-VN-RPh.title" = "Mac App StoreでKekaの評価のお願いを許可する";
+"h7M-VN-RPh.title" = "Mac App Store で Keka の評価依頼を許可する";
 
 /* Class = "NSButtonCell"; title = "Restore purchases"; ObjectID = "tV1-R5-wzr"; */
 "tV1-R5-wzr.title" = "購入済み権利の復元";
