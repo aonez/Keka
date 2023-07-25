@@ -1,6 +1,6 @@
 ﻿
 /* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "2221"; */
-"2221.title" = "Položky archivovat samostatně";
+"2221.title" = "Každý soubor archivovat samostatně";
 
 /* Class = "NSButtonCell"; title = "Delete file(s) after compression"; ObjectID = "2222"; */
 "2222.title" = "Po komprimaci přesunout původní soubory do koše";
