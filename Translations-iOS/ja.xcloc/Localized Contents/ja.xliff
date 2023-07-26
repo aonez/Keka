@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Keka/en.lproj/InfoPlist.strings" source-language="en" target-language="ja" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.3" build-num="14E222b"/>
+    </header>
+    <body>
+      <trans-unit id="7Z Archive" xml:space="preserve">
+        <source>7Z Archive</source>
+        <target>7Z アーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ACE Archive" xml:space="preserve">
+        <source>ACE Archive</source>
+        <target>ACE アーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ALZip Archive" xml:space="preserve">
+        <source>ALZip Archive</source>
+        <target>ALZip アーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="APPX Archive" xml:space="preserve">
+        <source>APPX Archive</source>
+        <target>APPX アーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ARC Archive" xml:space="preserve">
+        <source>ARC Archive</source>
+        <target>ARC アーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ARJ Archive" xml:space="preserve">
+        <source>ARJ Archive</source>
+        <target>ARJ アーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Amiga DCS Disk Archive" xml:space="preserve">
+        <source>Amiga DCS Disk Archive</source>
+        <target>Amiga DCS ディスクアーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Amiga DMS Disk Archive" xml:space="preserve">
+        <source>Amiga DMS Disk Archive</source>
+        <target>Amiga DMS ディスクアーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Amiga Disk File" xml:space="preserve">
+        <source>Amiga Disk File</source>
+        <target>Amiga ディスクファイル</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Amiga PackDev Disk Archive" xml:space="preserve">
+        <source>Amiga PackDev Disk Archive</source>
+        <target>Amiga PackDev ディスクアーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Amiga PowerPacker Archive" xml:space="preserve">
+        <source>Amiga PowerPacker Archive</source>
+        <target>Amiga PowerPacker アーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Amiga Zoom Disk Archive" xml:space="preserve">
+        <source>Amiga Zoom Disk Archive</source>
+        <target>Amiga Zoom ディスクアーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Amiga xMash Disk Archive" xml:space="preserve">
+        <source>Amiga xMash Disk Archive</source>
+        <target>Amiga xMash ディスクアーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Android Application Package" xml:space="preserve">
+        <source>Android Application Package</source>
+        <target>Android アプリケーションパッケージ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="BZIP2 Archive" xml:space="preserve">
+        <source>BZIP2 Archive</source>
+        <target>BZIP2 アーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="BZIP2 Tarball Archive" xml:space="preserve">
+        <source>BZIP2 Tarball Archive</source>
+        <target>BZIP2 Tarball アーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="CAB Archive" xml:space="preserve">
+        <source>CAB Archive</source>
+        <target>CAB アーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="CDI Disk Image" xml:space="preserve">
+        <source>CDI Disk Image</source>
+        <target>CDI ディスクイメージ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Compact Pro Archive" xml:space="preserve">
+        <source>Compact Pro Archive</source>
+        <target>Compact Pro アーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Compressed Amiga Disk File" xml:space="preserve">
+        <source>Compressed Amiga Disk File</source>
+        <target>Amiga 圧縮ディスクイメージ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Deb Archive" xml:space="preserve">
+        <source>Deb Archive</source>
+        <target>Deb アーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="DiskDoubler Archive" xml:space="preserve">
+        <source>DiskDoubler Archive</source>
+        <target>DiskDoubler アーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Generic Archive Volume" xml:space="preserve">
+        <source>Generic Archive Volume</source>
+        <target>Generic アーカイブボリューム</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="HA Archive" xml:space="preserve">
+        <source>HA Archive</source>
+        <target>HA アーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Keka Extraction Package" xml:space="preserve">
+        <source>Keka Extraction Package</source>
+        <target>Keka 展開パッケージ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="LBR Archive" xml:space="preserve">
+        <source>LBR Archive</source>
+        <target>LBR アーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="LZMA File" xml:space="preserve">
+        <source>LZMA File</source>
+        <target>LZMA ファイル</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="LZX Archive" xml:space="preserve">
+        <source>LZX Archive</source>
+        <target>LZX アーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="LhA Archive" xml:space="preserve">
+        <source>LhA Archive</source>
+        <target>LhA アーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="LhF Archive" xml:space="preserve">
+        <source>LhF Archive</source>
+        <target>LhF アーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Linux RPM Archive" xml:space="preserve">
+        <source>Linux RPM Archive</source>
+        <target>Linux RPM アーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="MDF Disk Image" xml:space="preserve">
+        <source>MDF Disk Image</source>
+        <target>MDF ディスクイメージ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Microsoft MSI Installer" xml:space="preserve">
+        <source>Microsoft MSI Installer</source>
+        <target>Microsoft MSI インストーラー</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="NRG Disk Image" xml:space="preserve">
+        <source>NRG Disk Image</source>
+        <target>NRG ディスクイメージ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="NSA Archive" xml:space="preserve">
+        <source>NSA Archive</source>
+        <target>NSA アーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Now Compress Archive" xml:space="preserve">
+        <source>Now Compress Archive</source>
+        <target>Now 圧縮アーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="PMA Archive" xml:space="preserve">
+        <source>PMA Archive</source>
+        <target>PMA アーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="PackIt Archive" xml:space="preserve">
+        <source>PackIt Archive</source>
+        <target>PackIt アーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Pax Archive" xml:space="preserve">
+        <source>Pax Archive</source>
+        <target>Pax アーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="RAR Archive" xml:space="preserve">
+        <source>RAR Archive</source>
+        <target>RAR アーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="SAR Archive" xml:space="preserve">
+        <source>SAR Archive</source>
+        <target>SAR アーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Self-Extracting Archive" xml:space="preserve">
+        <source>Self-Extracting Archive</source>
+        <target>自己展開アーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Unix Compress File" xml:space="preserve">
+        <source>Unix Compress File</source>
+        <target>Unix 圧縮ファイル</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Unix Compress Tar Archive" xml:space="preserve">
+        <source>Unix Compress Tar Archive</source>
+        <target>Unix 圧縮 Tar アーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="WARC Web Archive" xml:space="preserve">
+        <source>WARC Web Archive</source>
+        <target>WARC Web アーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="XAR Archive" xml:space="preserve">
+        <source>XAR Archive</source>
+        <target>XAR アーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="XIP Archive" xml:space="preserve">
+        <source>XIP Archive</source>
+        <target>XIP アーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="XZ Archive" xml:space="preserve">
+        <source>XZ Archive</source>
+        <target>XZ アーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="XZ Tarball Archive" xml:space="preserve">
+        <source>XZ Tarball Archive</source>
+        <target>XZ Tarball アーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ZIP Archive" xml:space="preserve">
+        <source>ZIP Archive</source>
+        <target>ZIP アーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ZIPX Archive" xml:space="preserve">
+        <source>ZIPX Archive</source>
+        <target>ZIPX アーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ZOO Archive" xml:space="preserve">
+        <source>ZOO Archive</source>
+        <target>ZOO アーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Zstandard Archive" xml:space="preserve">
+        <source>Zstandard Archive</source>
+        <target>Zstandard アーカイブ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Zstandard Tarball Archive" xml:space="preserve">
+        <source>Zstandard Tarball Archive</source>
+        <target>Zstandard Tarball アーカイブ</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Keka/en.lproj/Localizable.strings" source-language="en" target-language="ja" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.3" build-num="14E222b"/>
+    </header>
+    <body>
+      <trans-unit id="&quot;%@&quot;" xml:space="preserve">
+        <source>"%@"</source>
+        <target>"%@"</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@" xml:space="preserve">
+        <source>%@</source>
+        <target>%@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ item" xml:space="preserve">
+        <source>%@ item</source>
+        <target>%@ 項目</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ items" xml:space="preserve">
+        <source>%@ items</source>
+        <target>%@ 項目</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ of %@ item" xml:space="preserve">
+        <source>%@ of %@ item</source>
+        <target>%@ の %@ 項目</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ of %@ items" xml:space="preserve">
+        <source>%@ of %@ items</source>
+        <target>%@ の %@ 項目</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ARCHIVE_DEFAULT_NAME" xml:space="preserve">
+        <source>Archive</source>
+        <target>圧縮ファイル</target>
+        <note>Default compression file name.</note>
+      </trans-unit>
+      <trans-unit id="About" xml:space="preserve">
+        <source>About</source>
+        <target>情報</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Actions" xml:space="preserve">
+        <source>Actions</source>
+        <target>アクション</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add a File" xml:space="preserve">
+        <source>Add a File</source>
+        <target>ファイルを追加</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add a Folder" xml:space="preserve">
+        <source>Add a Folder</source>
+        <target>フォルダを追加</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add some contents using the %@ button or the %@ and %@ buttons in the toolbar." xml:space="preserve">
+        <source>Add some contents using the %@ button or the %@ and %@ buttons in the toolbar.</source>
+        <target>ツールバーの %@ ボタン、または %@ ボタンと %@ ボタンを使って内容を追加します。</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Allocated size" xml:space="preserve">
+        <source>Allocated size</source>
+        <target>割り当てサイズ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Ask" xml:space="preserve">
+        <source>Ask</source>
+        <target>確認</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="BROWSE_OPERATION" xml:space="preserve">
+        <source>Browse</source>
+        <target>開く</target>
+        <note>Browse, operation description.</note>
+      </trans-unit>
+      <trans-unit id="BROWSE_RUNNING" xml:space="preserve">
+        <source>Browsing</source>
+        <target>開く</target>
+        <note>Browsing, operation running.</note>
+      </trans-unit>
+      <trans-unit id="BROWSE_SECTION_TITLE" xml:space="preserve">
+        <source>Browsing</source>
+        <target>開く</target>
+        <note>Browsing, tasks section title.</note>
+      </trans-unit>
+      <trans-unit id="Browser" xml:space="preserve">
+        <source>Browser</source>
+        <target>ブラウザ</target>
+        <note>Browser settings title.</note>
+      </trans-unit>
+      <trans-unit id="COMPRESSION_OPERATION" xml:space="preserve">
+        <source>Compression</source>
+        <target>圧縮</target>
+        <note>Compression, operation description.</note>
+      </trans-unit>
+      <trans-unit id="COMPRESSION_RUNNING" xml:space="preserve">
+        <source>Compressing</source>
+        <target>圧縮中</target>
+        <note>Compressing, operation running.</note>
+      </trans-unit>
+      <trans-unit id="COMPRESSION_SECTION_TITLE" xml:space="preserve">
+        <source>Compressing</source>
+        <target>圧縮</target>
+        <note>Compressing, tasks section title.</note>
+      </trans-unit>
+      <trans-unit id="Calculate" xml:space="preserve">
+        <source>Calculate</source>
+        <target>計算する</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cancel" xml:space="preserve">
+        <source>Cancel</source>
+        <target>キャンセル</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Choose" xml:space="preserve">
+        <source>Choose</source>
+        <target>選択</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Clear Cache" xml:space="preserve">
+        <source>Clear Cache</source>
+        <target>キャッシュを消去</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Clear Cache Contents" xml:space="preserve">
+        <source>Clear Cache Contents</source>
+        <target>キャッシュ内容を消去</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Close" xml:space="preserve">
+        <source>Close</source>
+        <target>閉じる</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Comments" xml:space="preserve">
+        <source>Comments</source>
+        <target>注釈</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Compress" xml:space="preserve">
+        <source>Compress</source>
+        <target>圧縮</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Compressed size" xml:space="preserve">
+        <source>Compressed size</source>
+        <target>圧縮後のサイズ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Compression" xml:space="preserve">
+        <source>Compression</source>
+        <target>ファイルの圧縮</target>
+        <note>Compression settings title.</note>
+      </trans-unit>
+      <trans-unit id="Compression Level:" xml:space="preserve">
+        <source>Compression Level:</source>
+        <target>圧縮レベル:</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Contents" xml:space="preserve">
+        <source>Contents</source>
+        <target>内容</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Contents: %@, Size: %@" xml:space="preserve">
+        <source>Contents: %@, Size: %@</source>
+        <target>内容: %@ 、サイズ: %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Created" xml:space="preserve">
+        <source>Created</source>
+        <target>作成済み</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Custom..." xml:space="preserve">
+        <source>Custom...</source>
+        <target>場所を指定...</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Date" xml:space="preserve">
+        <source>Date</source>
+        <target>日付</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Default Compression Level" xml:space="preserve">
+        <source>Default Compression Level</source>
+        <target>デフォルトの圧縮レベル</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Default Destination" xml:space="preserve">
+        <source>Default Destination</source>
+        <target>デフォルトの出力先</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Default Format" xml:space="preserve">
+        <source>Default Format</source>
+        <target>デフォルトの形式</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Default Tap Action" xml:space="preserve">
+        <source>Default Tap Action</source>
+        <target>タップ時のデフォルトのアクション</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Default Volume Unit" xml:space="preserve">
+        <source>Default Volume Unit</source>
+        <target>デフォルトの単位</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete" xml:space="preserve">
+        <source>Delete</source>
+        <target>削除</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Destination" xml:space="preserve">
+        <source>Destination</source>
+        <target>出力先</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Disable &quot;%@&quot; if you prefer to use a default configuration." xml:space="preserve">
+        <source>Disable "%@" if you prefer to use a default configuration.</source>
+        <target>デフォルトの設定を使用する場合は "%@" を無効にする。</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Dismiss" xml:space="preserve">
+        <source>Dismiss</source>
+        <target>中止する</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Done" xml:space="preserve">
+        <source>Done</source>
+        <target>完了</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="EXTRACTION_OPERATION" xml:space="preserve">
+        <source>Extraction</source>
+        <target>展開</target>
+        <note>Extraction, operation description.</note>
+      </trans-unit>
+      <trans-unit id="EXTRACTION_RUNNING" xml:space="preserve">
+        <source>Extracting</source>
+        <target>展開中</target>
+        <note>Extracting, operation running.</note>
+      </trans-unit>
+      <trans-unit id="EXTRACTION_SECTION_TITLE" xml:space="preserve">
+        <source>Extracting</source>
+        <target>展開</target>
+        <note>Extracting, tasks section title.</note>
+      </trans-unit>
+      <trans-unit id="Edit" xml:space="preserve">
+        <source>Edit</source>
+        <target>編集</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Encrypt Filenames" xml:space="preserve">
+        <source>Encrypt Filenames</source>
+        <target>ファイル名を暗号化する</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Encrypt Filenames if Possible" xml:space="preserve">
+        <source>Encrypt Filenames if Possible</source>
+        <target>可能であればファイル名を暗号化する</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Enter the password for the file&#10;&quot;%@&quot;" xml:space="preserve">
+        <source>Enter the password for the file
+"%@"</source>
+        <target>"%@" のファイル パスワードを入力</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Extract" xml:space="preserve">
+        <source>Extract</source>
+        <target>展開</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Extract the file" xml:space="preserve">
+        <source>Extract the file</source>
+        <target>ファイルを展開</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Extraction" xml:space="preserve">
+        <source>Extraction</source>
+        <target>ファイルの展開</target>
+        <note>Extraction settings title.</note>
+      </trans-unit>
+      <trans-unit id="Fast" xml:space="preserve">
+        <source>Fast</source>
+        <target>早い</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Fastest" xml:space="preserve">
+        <source>Fastest</source>
+        <target>最も早い</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Feedback" xml:space="preserve">
+        <source>Feedback</source>
+        <target>フィードバック</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="File not informed properly, try again." xml:space="preserve">
+        <source>File not informed properly, try again.</source>
+        <target>ファイル情報が正しくありません、再度試してください。</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Format" xml:space="preserve">
+        <source>Format</source>
+        <target>形式</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="General" xml:space="preserve">
+        <source>General</source>
+        <target>一般</target>
+        <note>General settings title.</note>
+      </trans-unit>
+      <trans-unit id="Get Info" xml:space="preserve">
+        <source>Get Info</source>
+        <target>詳細を見る</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Hide Password by Default" xml:space="preserve">
+        <source>Hide Password by Default</source>
+        <target>デフォルトでパスワードを隠す</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="If you got here, please get in touch with the developers." xml:space="preserve">
+        <source>If you got here, please get in touch with the developers.</source>
+        <target>もしここれをご覧になった場合、開発者に連絡してください。</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Information" xml:space="preserve">
+        <source>Information</source>
+        <target>情報</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Keka's Folder" xml:space="preserve">
+        <source>Keka's Folder</source>
+        <target>Keka フォルダ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Keka's icon" xml:space="preserve">
+        <source>Keka's icon</source>
+        <target>Keka アイコン</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Kind" xml:space="preserve">
+        <source>Kind</source>
+        <target>種類</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Last opened" xml:space="preserve">
+        <source>Last opened</source>
+        <target>最後に開いた</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Loading" xml:space="preserve">
+        <source>Loading</source>
+        <target>ローディング</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Made with" xml:space="preserve">
+        <source>Made with</source>
+        <target>制作</target>
+        <note>"Made with" part from "Made with love by aone".</note>
+      </trans-unit>
+      <trans-unit id="Modified" xml:space="preserve">
+        <source>Modified</source>
+        <target>変更</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Name" xml:space="preserve">
+        <source>Name</source>
+        <target>名称</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No contents" xml:space="preserve">
+        <source>No contents</source>
+        <target>内容がありません</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No contents available" xml:space="preserve">
+        <source>No contents available</source>
+        <target>内容が指定されていません</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No files to extract" xml:space="preserve">
+        <source>No files to extract</source>
+        <target>展開するファイルがありません</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="None" xml:space="preserve">
+        <source>None</source>
+        <target>なし</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Normal" xml:space="preserve">
+        <source>Normal</source>
+        <target>通常</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files." xml:space="preserve">
+        <source>Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files.</source>
+        <target>すべてのプラットフォームがAES-256暗号化をサポートしているわけではありません。これらの圧縮ファイルを開くには、サードパーティ製アプリケーション（Keka など）が必要な場合があります。</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="OK" xml:space="preserve">
+        <source>OK</source>
+        <target>OK</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Open" xml:space="preserve">
+        <source>Open</source>
+        <target>開く</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Password" xml:space="preserve">
+        <source>Password</source>
+        <target>パスワード</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Password needed" xml:space="preserve">
+        <source>Password needed</source>
+        <target>パスワードが必要です</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please enter the password for:" xml:space="preserve">
+        <source>Please enter the password for:</source>
+        <target>パスワードを入力してください:</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please select the encoding for:" xml:space="preserve">
+        <source>Please select the encoding for:</source>
+        <target>エンコーディングを選択してください:</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Preview" xml:space="preserve">
+        <source>Preview</source>
+        <target>プレビュー</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Quick Look" xml:space="preserve">
+        <source>Quick Look</source>
+        <target>クイックルック</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Remember Last Used Options" xml:space="preserve">
+        <source>Remember Last Used Options</source>
+        <target>最後に使用した設定を記憶する</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Remove from cache" xml:space="preserve">
+        <source>Remove from cache</source>
+        <target>キャッシュから削除する</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Reset" xml:space="preserve">
+        <source>Reset</source>
+        <target>設定の初期化</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Reset All Settings" xml:space="preserve">
+        <source>Reset All Settings</source>
+        <target>すべての設定を初期化する</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Review" xml:space="preserve">
+        <source>Review</source>
+        <target>評価</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Save" xml:space="preserve">
+        <source>Save</source>
+        <target>保存</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Settings" xml:space="preserve">
+        <source>Settings</source>
+        <target>設定</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Share" xml:space="preserve">
+        <source>Share</source>
+        <target>共有</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Size" xml:space="preserve">
+        <source>Size</source>
+        <target>容量</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Slow" xml:space="preserve">
+        <source>Slow</source>
+        <target>遅い</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Slowest" xml:space="preserve">
+        <source>Slowest</source>
+        <target>最も遅い</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Split in volumes" xml:space="preserve">
+        <source>Split in volumes</source>
+        <target>指定の容量で分割</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Store" xml:space="preserve">
+        <source>Store</source>
+        <target>ストア</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="TRANSLATOR_LINK" xml:space="preserve">
+        <source>TRANSLATOR_LINK</source>
+        <target>https://ios.keka.io</target>
+        <note>The translator link, if any. Can be a mail address or a website.</note>
+      </trans-unit>
+      <trans-unit id="TRANSLATOR_NAME" xml:space="preserve">
+        <source>TRANSLATOR_NAME</source>
+        <target>tedSW</target>
+        <note>The translator name, if any.</note>
+      </trans-unit>
+      <trans-unit id="The %@ of space available in the destination might not be enough for compressing the estimated %@." xml:space="preserve">
+        <source>The %@ of space available in the destination might not be enough for compressing the estimated %@.</source>
+        <target>出力先の空き容量 %@ では、想定される %@ を圧縮するのに十分な空きがありません。</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The changes could not be saved" xml:space="preserve">
+        <source>The changes could not be saved</source>
+        <target>変更を保存できませんでした</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." xml:space="preserve">
+        <source>The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread.</source>
+        <target>圧縮には使用可能なメモリ (%@) よりも多くのメモリが必要になっており、正常に完了しない可能性があるため1スレッドに制限されます。</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The compression will be limited to %lld thread/s due to memory constraints." xml:space="preserve">
+        <source>The compression will be limited to %lld thread/s due to memory constraints.</source>
+        <target>圧縮はメモリの制約のため %lld スレッドに制限されます。</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The destination has %@ of space available." xml:space="preserve">
+        <source>The destination has %@ of space available.</source>
+        <target>出力先には %@ の空き容量があります。</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The file manager for iOS and macOS" xml:space="preserve">
+        <source>The file manager for iOS and macOS</source>
+        <target>iOS と macOS のファイルマネージャー</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The folder is empty" xml:space="preserve">
+        <source>The folder is empty</source>
+        <target>フォルダは空です</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." xml:space="preserve">
+        <source>The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents.</source>
+        <target>圧縮レベルが遅いほど、高い圧縮率になります。ストアレベルは圧縮をおこなわず、内容をアーカイブするのみになります。</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="To extract" xml:space="preserve">
+        <source>To extract</source>
+        <target>展開する</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Total size" xml:space="preserve">
+        <source>Total size</source>
+        <target>総容量</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Translated by %@" xml:space="preserve">
+        <source>Translated by %@</source>
+        <target>%@ により翻訳</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Type" xml:space="preserve">
+        <source>Type</source>
+        <target>形式</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unable to apply the app icon" xml:space="preserve">
+        <source>Unable to apply the app icon</source>
+        <target>APP アイコンを適用できません</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unable to browse &quot;%@&quot;" xml:space="preserve">
+        <source>Unable to browse "%@"</source>
+        <target>"%@" を閲覧できません</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unable to determine the available space." xml:space="preserve">
+        <source>Unable to determine the available space.</source>
+        <target>使用可能なスペースを決定できません。</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unable to get encoding data" xml:space="preserve">
+        <source>Unable to get encoding data</source>
+        <target>エンコーディングデータが取得できません</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Use AES-256 Encryption" xml:space="preserve">
+        <source>Use AES-256 Encryption</source>
+        <target>AES-256 暗号化を使用する</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Use AES-256 if Available" xml:space="preserve">
+        <source>Use AES-256 if Available</source>
+        <target>可能であれば AES-256 暗号化を使用する</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Use UTF-8 Encoding if Available" xml:space="preserve">
+        <source>Use UTF-8 Encoding if Available</source>
+        <target>可能であれば UTF-8 エンコーディングを使用する</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Use special coloring for known formats" xml:space="preserve">
+        <source>Use special coloring for known formats</source>
+        <target>既知の形式には特別なカラーを使用する</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Volume Size" xml:space="preserve">
+        <source>Volume Size</source>
+        <target>ボリューム容量</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Welcome" xml:space="preserve">
+        <source>Welcome</source>
+        <target>ようこそ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Welcome to %@" xml:space="preserve">
+        <source>Welcome to %@</source>
+        <target>%@ にようこそ</target>
+        <note>The "Welcome to Keka" title.</note>
+      </trans-unit>
+      <trans-unit id="Where" xml:space="preserve">
+        <source>Where</source>
+        <target>何処に</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="by %@" xml:space="preserve">
+        <source>by %@</source>
+        <target>%@ によって</target>
+        <note>"by aone" part from "Made with love by aone".</note>
+      </trans-unit>
+      <trans-unit id="compressed" xml:space="preserve">
+        <source>compressed</source>
+        <target>圧縮完了</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="compression failed" xml:space="preserve">
+        <source>compression failed</source>
+        <target>圧縮できませんでした</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="done" xml:space="preserve">
+        <source>done</source>
+        <target>完了</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="extracted" xml:space="preserve">
+        <source>extracted</source>
+        <target>展開完了</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="extraction failed" xml:space="preserve">
+        <source>extraction failed</source>
+        <target>展開できませんでした</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="failed" xml:space="preserve">
+        <source>failed</source>
+        <target>失敗</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="KekaBrowseAction/en.lproj/InfoPlist.strings" source-language="en" target-language="ja" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.3" build-num="14E222b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Browse with Keka</source>
+        <target>Keka で閲覧</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="KekaCompressionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="ja" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.3" build-num="14E222b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Compress using Keka</source>
+        <target>Keka で圧縮</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="KekaExtractionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="ja" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.3" build-num="14E222b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Extract using Keka</source>
+        <target>Keka で展開</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
