@@ -116,7 +116,8 @@
         <note/>
       </trans-unit>
       <trans-unit id="Generic Archive Volume" xml:space="preserve">
-        <source>通用归档卷</source>
+        <source>Generic Archive Volume</source>
+        <target>通用归档卷</target>
         <note/>
       </trans-unit>
       <trans-unit id="HA Archive" xml:space="preserve">
