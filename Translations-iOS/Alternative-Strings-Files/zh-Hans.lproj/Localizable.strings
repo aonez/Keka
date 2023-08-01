@@ -29,7 +29,7 @@
 "Allocated size" = "分配大小";
 
 /* Default compression file name. */
-"ARCHIVE_DEFAULT_NAME" = "文件";
+"ARCHIVE_DEFAULT_NAME" = "归档";
 
 /* No comment provided by engineer. */
 "Ask" = "询问";
@@ -134,7 +134,7 @@
 "Dismiss" = "撤销";
 
 /* No comment provided by engineer. */
-"Document" = "文件";
+"Document" = "文档";
 
 /* No comment provided by engineer. */
 "done" = "完成";
@@ -215,7 +215,7 @@
 "Keka's Folder" = "Keka 的文件夹";
 
 /* No comment provided by engineer. */
-"Keka's icon" = "Keka 的图标";
+"Keka's icon" = "Keka 图标";
 
 /* No comment provided by engineer. */
 "Kind" = "种类";

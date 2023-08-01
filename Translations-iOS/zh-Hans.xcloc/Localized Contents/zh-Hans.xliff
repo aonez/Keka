@@ -116,7 +116,7 @@
         <note/>
       </trans-unit>
       <trans-unit id="Generic Archive Volume" xml:space="preserve">
-        <source>Generic Archive Volume</source>
+        <source>通用归档卷</source>
         <note/>
       </trans-unit>
       <trans-unit id="HA Archive" xml:space="preserve">
@@ -311,7 +311,7 @@
       </trans-unit>
       <trans-unit id="ARCHIVE_DEFAULT_NAME" xml:space="preserve">
         <source>Archive</source>
-        <target>文件</target>
+        <target>归档</target>
         <note>Default compression file name.</note>
       </trans-unit>
       <trans-unit id="About" xml:space="preserve">
@@ -416,6 +416,7 @@
       </trans-unit>
       <trans-unit id="Comments" xml:space="preserve">
         <source>Comments</source>
+        <target>评论</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Compress" xml:space="preserve">
@@ -485,6 +486,7 @@
       </trans-unit>
       <trans-unit id="Default Volume Unit" xml:space="preserve">
         <source>Default Volume Unit</source>
+        <target>默认卷单位</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete" xml:space="preserve">
@@ -509,7 +511,7 @@
       </trans-unit>
       <trans-unit id="Document" xml:space="preserve">
         <source>Document</source>
-        <target>文件</target>
+        <target>文档</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
@@ -544,7 +546,7 @@
       </trans-unit>
       <trans-unit id="Encrypt Filenames if Possible" xml:space="preserve">
         <source>Encrypt Filenames if Possible</source>
-        <target>如果可以，加密文件名</target>
+        <target>如果可用，加密文件名</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Enter the password for the file&#10;&quot;%@&quot;" xml:space="preserve">
@@ -786,6 +788,7 @@
       </trans-unit>
       <trans-unit id="Split in volumes" xml:space="preserve">
         <source>Split in volumes</source>
+        <target>分卷</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Store" xml:space="preserve">
@@ -905,6 +908,7 @@
       </trans-unit>
       <trans-unit id="Volume Size" xml:space="preserve">
         <source>Volume Size</source>
+        <target>卷大小</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Welcome" xml:space="preserve">
