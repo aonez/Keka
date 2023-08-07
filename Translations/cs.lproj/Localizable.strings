@@ -105,7 +105,7 @@
 "Fast, less compression" = "Rychlá, větší archiv";
 "Normal" = "Výchozí";
 "Slow, more compression" = "Pomalá, menší archiv";
-"Slowest, more compression" = "Nejpomalejší komprimace, nejmenší archiv";
+"Slowest, more compression" = "Nejpomalejší, nejmenší archiv";
 "Compression" = "Komprimace";
 "Extraction" = "Rozbalení";
 "Keka can't use the \"extlx.plist\" list, please get in contact with the developers.\n\nNow Keka will quit." = "Keka nemůže  \"extlx.plist\" přečíst, kontaktujte vývojáře.\n\nKeka bude ukončena.";
@@ -210,7 +210,7 @@
 "All compressions will be stored at this location." = "Všechny soubory zkomprimujeme do této složky.";
 "You'll be asked where to extract each operation." = "Před každým rozbalením se vás zeptáme na cílovou složku.";
 "You'll be asked where to compress each operation." = "Před každou komprimací se vás zeptáme na cílovou složku.";
-"If Keka has File Access it will execute the operation near the source file/s, otherwise it will ask for a location. You can set Keka's File Access in the Preferences tab so this option works properly." = "Pokud má Keka přístup k souborům, pokusí se všechny opperace provádět tam, kde se nacházejí výchozí soubory. Aby tato funkce fungovala správně, nastavte přístup k souborům v příslušném panelu v předvolbách.";
+"If Keka has File Access it will execute the operation near the source file/s, otherwise it will ask for a location. You can set Keka's File Access in the Preferences tab so this option works properly." = "Pokud má Keka přístup k souborům, pokusí se všechny opperace provádět tam, kde se nacházejí výchozí soubory. Aby tato funkce pracovala správně, nastavte přístup k souborům v příslušném panelu v předvolbách.";
 "Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Protože Keka nemá přístup k výchozí složce, zeptá se vás na jinou.\nPřístup k této a dalším složkám můžete nastavit v předvolbách v kartě Přístup k souborům.";
 "The characters %@ are not compatible with the %@ format" = "Znaky %@ nejsou s formátem %@ kompatibilní";
 "The character %@ is not compatible with the %@ format" = "Znak %@ není s formátem %@ kompatibilní";
