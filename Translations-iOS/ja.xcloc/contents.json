@@ -1,0 +1,12 @@
+{
+  "developmentRegion" : "en",
+  "project" : "Keka.xcodeproj",
+  "targetLocale" : "ja",
+  "toolInfo" : {
+    "toolBuildNumber" : "14E222b",
+    "toolID" : "com.apple.dt.xcode",
+    "toolName" : "Xcode",
+    "toolVersion" : "14.3"
+  },
+  "version" : "1.0"
+}

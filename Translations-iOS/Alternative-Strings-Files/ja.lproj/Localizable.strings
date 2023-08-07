@@ -1,0 +1,395 @@
+/* No comment provided by engineer. */
+"%@ item" = "%@ 項目";
+
+/* No comment provided by engineer. */
+"%@ items" = "%@ 項目";
+
+/* No comment provided by engineer. */
+"%@ of %@ item" = "%@ の %@ 項目";
+
+/* No comment provided by engineer. */
+"%@ of %@ items" = "%@ の %@ 項目";
+
+/* No comment provided by engineer. */
+"About" = "情報";
+
+/* No comment provided by engineer. */
+"Actions" = "アクション";
+
+/* No comment provided by engineer. */
+"Add a File" = "ファイルを追加";
+
+/* No comment provided by engineer. */
+"Add a Folder" = "フォルダを追加";
+
+/* No comment provided by engineer. */
+"Add some contents using the %@ button or the %@ and %@ buttons in the toolbar." = "ツールバーの %@ ボタン、または %@ ボタンと %@ ボタンを使って内容を追加します。";
+
+/* No comment provided by engineer. */
+"Allocated size" = "割り当てサイズ";
+
+/* Default compression file name. */
+"ARCHIVE_DEFAULT_NAME" = "圧縮ファイル";
+
+/* No comment provided by engineer. */
+"Ask" = "確認";
+
+/* Browse, operation description. */
+"BROWSE_OPERATION" = "開く";
+
+/* Browsing, operation running. */
+"BROWSE_RUNNING" = "開く";
+
+/* Browsing, tasks section title. */
+"BROWSE_SECTION_TITLE" = "開く";
+
+/* Browser settings title. */
+"Browser" = "ブラウザ";
+
+/* "by aone" part from "Made with love by aone". */
+"by %@" = "%@ によって";
+
+/* No comment provided by engineer. */
+"Calculate" = "計算する";
+
+/* No comment provided by engineer. */
+"Cancel" = "キャンセル";
+
+/* No comment provided by engineer. */
+"Choose" = "選択";
+
+/* No comment provided by engineer. */
+"Clear Cache" = "キャッシュを消去";
+
+/* No comment provided by engineer. */
+"Clear Cache Contents" = "キャッシュ内容を消去";
+
+/* No comment provided by engineer. */
+"Close" = "閉じる";
+
+/* No comment provided by engineer. */
+"Compress" = "圧縮";
+
+/* No comment provided by engineer. */
+"compressed" = "圧縮完了";
+
+/* No comment provided by engineer. */
+"Compressed size" = "圧縮後のサイズ";
+
+/* Compression settings title. */
+"Compression" = "ファイルの圧縮";
+
+/* No comment provided by engineer. */
+"compression failed" = "圧縮できませんでした";
+
+/* No comment provided by engineer. */
+"Compression Level:" = "圧縮レベル:";
+
+/* Compression, operation description. */
+"COMPRESSION_OPERATION" = "圧縮";
+
+/* Compressing, operation running. */
+"COMPRESSION_RUNNING" = "圧縮中";
+
+/* Compressing, tasks section title. */
+"COMPRESSION_SECTION_TITLE" = "圧縮する";
+
+/* No comment provided by engineer. */
+"Contents" = "内容";
+
+/* No comment provided by engineer. */
+"Contents: %@, Size: %@" = "内容: %@ 、サイズ: %@";
+
+/* No comment provided by engineer. */
+"Created" = "作成済み";
+
+/* No comment provided by engineer. */
+"Custom..." = "場所を指定...";
+
+/* No comment provided by engineer. */
+"Date" = "日付";
+
+/* No comment provided by engineer. */
+"Default Compression Level" = "デフォルトの圧縮レベル";
+
+/* No comment provided by engineer. */
+"Default Destination" = "デフォルトの出力先";
+
+/* No comment provided by engineer. */
+"Default Format" = "デフォルトの形式";
+
+/* No comment provided by engineer. */
+"Default Tap Action" = "タップ時のデフォルトのアクション";
+
+/* No comment provided by engineer. */
+"Default Volume Unit" = "デフォルトの単位";
+
+/* No comment provided by engineer. */
+"Delete" = "削除";
+
+/* No comment provided by engineer. */
+"Destination" = "出力先";
+
+/* No comment provided by engineer. */
+"Disable \"%@\" if you prefer to use a default configuration." = "デフォルトの設定を使用する場合は \"%@\" を無効にする。";
+
+/* No comment provided by engineer. */
+"Dismiss" = "中止する";
+
+/* No comment provided by engineer. */
+"done" = "完了";
+
+/* No comment provided by engineer. */
+"Done" = "完了";
+
+/* No comment provided by engineer. */
+"Edit" = "編集";
+
+/* No comment provided by engineer. */
+"Encrypt Filenames" = "ファイル名を暗号化する";
+
+/* No comment provided by engineer. */
+"Encrypt Filenames if Possible" = "可能であればファイル名を暗号化する";
+
+/* No comment provided by engineer. */
+"Enter the password for the file\n\"%@\"" = "ファイルのパスワードを入力\n\"%@\"";
+
+/* No comment provided by engineer. */
+"Extract" = "展開";
+
+/* No comment provided by engineer. */
+"Extract the file" = "ファイルを展開";
+
+/* No comment provided by engineer. */
+"extracted" = "展開完了";
+
+/* Extraction settings title. */
+"Extraction" = "ファイルの展開";
+
+/* No comment provided by engineer. */
+"extraction failed" = "展開できませんでした";
+
+/* Extraction, operation description. */
+"EXTRACTION_OPERATION" = "展開する";
+
+/* Extracting, operation running. */
+"EXTRACTION_RUNNING" = "展開中";
+
+/* Extracting, tasks section title. */
+"EXTRACTION_SECTION_TITLE" = "ファイルの展開";
+
+/* No comment provided by engineer. */
+"failed" = "失敗";
+
+/* No comment provided by engineer. */
+"Fast" = "早い";
+
+/* No comment provided by engineer. */
+"Fastest" = "最も早い";
+
+/* No comment provided by engineer. */
+"Feedback" = "フィードバック";
+
+/* No comment provided by engineer. */
+"File not informed properly, try again." = "ファイル情報が正しくありません、再度試してください。";
+
+/* No comment provided by engineer. */
+"Format" = "形式";
+
+/* General settings title. */
+"General" = "一般";
+
+/* No comment provided by engineer. */
+"Get Info" = "詳細を見る";
+
+/* No comment provided by engineer. */
+"Hide Password by Default" = "デフォルトでパスワードを隠す";
+
+/* No comment provided by engineer. */
+"If you got here, please get in touch with the developers." = "もしここれをご覧になった場合、開発者に連絡してください。";
+
+/* No comment provided by engineer. */
+"Information" = "情報";
+
+/* No comment provided by engineer. */
+"Keka's Folder" = "Keka フォルダ";
+
+/* No comment provided by engineer. */
+"Keka's icon" = "Keka アイコン";
+
+/* No comment provided by engineer. */
+"Kind" = "種類";
+
+/* No comment provided by engineer. */
+"Last opened" = "最後に開いた";
+
+/* No comment provided by engineer. */
+"Loading" = "ローディング";
+
+/* "Made with" part from "Made with love by aone". */
+"Made with" = "制作";
+
+/* No comment provided by engineer. */
+"Modified" = "変更";
+
+/* No comment provided by engineer. */
+"Name" = "名称";
+
+/* No comment provided by engineer. */
+"No contents" = "内容がありません";
+
+/* No comment provided by engineer. */
+"No contents available" = "内容が指定されていません";
+
+/* No comment provided by engineer. */
+"No files to extract" = "展開するファイルがありません";
+
+/* No comment provided by engineer. */
+"None" = "なし";
+
+/* No comment provided by engineer. */
+"Normal" = "通常";
+
+/* No comment provided by engineer. */
+"Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files." = "すべてのプラットフォームがAES-256暗号化をサポートしているわけではありません。これらの圧縮ファイルを開くには、サードパーティ製アプリケーション（Keka など）が必要な場合があります。";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Open" = "開く";
+
+/* No comment provided by engineer. */
+"Password" = "パスワード";
+
+/* No comment provided by engineer. */
+"Password needed" = "パスワードが必要です";
+
+/* No comment provided by engineer. */
+"Please enter the password for:" = "パスワードを入力してください:";
+
+/* No comment provided by engineer. */
+"Please select the encoding for:" = "エンコーディングを選択してください:";
+
+/* No comment provided by engineer. */
+"Preview" = "プレビュー";
+
+/* No comment provided by engineer. */
+"Quick Look" = "クイックルック";
+
+/* No comment provided by engineer. */
+"Remember Last Used Options" = "最後に使用した設定を記憶する";
+
+/* No comment provided by engineer. */
+"Remove from cache" = "キャッシュから削除する";
+
+/* No comment provided by engineer. */
+"Reset" = "設定の初期化";
+
+/* No comment provided by engineer. */
+"Reset All Settings" = "すべての設定を初期化する";
+
+/* No comment provided by engineer. */
+"Review" = "評価";
+
+/* No comment provided by engineer. */
+"Save" = "保存";
+
+/* No comment provided by engineer. */
+"Settings" = "設定";
+
+/* No comment provided by engineer. */
+"Share" = "共有";
+
+/* No comment provided by engineer. */
+"Size" = "容量";
+
+/* No comment provided by engineer. */
+"Slow" = "遅い";
+
+/* No comment provided by engineer. */
+"Slowest" = "最も遅い";
+
+/* No comment provided by engineer. */
+"Split in volumes" = "指定の容量で分割";
+
+/* No comment provided by engineer. */
+"Store" = "ストア";
+
+/* No comment provided by engineer. */
+"The %@ of space available in the destination might not be enough for compressing the estimated %@." = "出力先の空き容量 %@ では、想定される %@ を圧縮するのに十分な空きがありません。";
+
+/* No comment provided by engineer. */
+"The changes could not be saved" = "変更を保存できませんでした";
+
+/* No comment provided by engineer. */
+"The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "圧縮には使用可能なメモリ (%@) よりも多くのメモリが必要になっており、正常に完了しない可能性があるため1スレッドに制限されます。";
+
+/* No comment provided by engineer. */
+"The compression will be limited to %lld thread/s due to memory constraints." = "圧縮はメモリの制約のため %lld スレッドに制限されます。";
+
+/* No comment provided by engineer. */
+"The destination has %@ of space available." = "出力先には %@ の空き容量があります。";
+
+/* No comment provided by engineer. */
+"The file manager for iOS and macOS" = "iOS と macOS のファイルマネージャー";
+
+/* No comment provided by engineer. */
+"The folder is empty" = "フォルダは空です";
+
+/* No comment provided by engineer. */
+"The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "圧縮レベルが遅いほど、高い圧縮率になります。ストアレベルは圧縮をおこなわず、内容をアーカイブするのみになります。";
+
+/* No comment provided by engineer. */
+"To extract" = "展開する";
+
+/* No comment provided by engineer. */
+"Total size" = "総容量";
+
+/* No comment provided by engineer. */
+"Translated by %@" = "%@ により翻訳";
+
+/* The translator link, if any. Can be a mail address or a website. */
+"TRANSLATOR_LINK" = "https://ios.keka.io";
+
+/* The translator name, if any. */
+"TRANSLATOR_NAME" = "tedSW";
+
+/* No comment provided by engineer. */
+"Type" = "形式";
+
+/* No comment provided by engineer. */
+"Unable to apply the app icon" = "APP アイコンを適用できません";
+
+/* No comment provided by engineer. */
+"Unable to browse \"%@\"" = "\"%@\"を閲覧できません";
+
+/* No comment provided by engineer. */
+"Unable to determine the available space." = "使用可能なスペースを決定できません。";
+
+/* No comment provided by engineer. */
+"Unable to get encoding data" = "エンコーディングデータが取得できません";
+
+/* No comment provided by engineer. */
+"Use AES-256 Encryption" = "AES-256 暗号化を使用する";
+
+/* No comment provided by engineer. */
+"Use AES-256 if Available" = "可能であれば AES-256 暗号化を使用する";
+
+/* No comment provided by engineer. */
+"Use special coloring for known formats" = "既知の形式には特別なカラーを使用する";
+
+/* No comment provided by engineer. */
+"Use UTF-8 Encoding if Available" = "可能であれば UTF-8 エンコーディングを使用する";
+
+/* No comment provided by engineer. */
+"Volume Size" = "ボリューム容量";
+
+/* No comment provided by engineer. */
+"Welcome" = "ようこそ";
+
+/* The "Welcome to Keka" title. */
+"Welcome to %@" = "%@ にようこそ";
+
+/* No comment provided by engineer. */
+"Where" = "何処に";

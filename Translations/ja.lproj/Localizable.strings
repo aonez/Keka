@@ -22,7 +22,7 @@
 "This means that all the compatible files will be extracted with Keka by now. You can set this later in the Keka Preferences." = "今後すべてのサポートしている圧縮ファイルは Keka で展開されます。後で Keka の環境設定で変更できます。";
 "Really want to close Keka?" = "Keka を終了してもよろしいですか？";
 "The current operations will be canceled. If you choose to wait and quit Keka will exit when all work is done." = "実行中の動作は中止されます。「待機」を選ぶと操作が完了する時に Keka は終了します。";
-"Password needed" = "パスワードは必要";
+"Password needed" = "パスワードが必要です";
 "File \"%@\" needs a password to be extracted" = "\"%@\" を展開できるようにパスワードを使用する必要があります。";
 "File \"%@\" needs a special encoding to be extracted" = "ファイル \"%@\" の抽出には特殊なエンコーディングが必要です";
 "Extraction of \"%@\" done" = "\"%@\" は展開されました。";
