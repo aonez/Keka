@@ -6,22 +6,22 @@
 "160.title" = "Метод по подразбиране:";
 
 /* Class = "NSMenuItem"; title = "No compression"; ObjectID = "164"; */
-"164.title" = "Без компресиране";
+"164.title" = "Без архивиране";
 
 /* Class = "NSMenuItem"; title = "Fast, less compression"; ObjectID = "165"; */
-"165.title" = "Бързо, по-малко компресиране";
+"165.title" = "Бързо, по-малко архивиране";
 
 /* Class = "NSMenuItem"; title = "Normal"; ObjectID = "166"; */
 "166.title" = "Нормално";
 
 /* Class = "NSMenuItem"; title = "Fastest, less compression"; ObjectID = "167"; */
-"167.title" = "Най-бързо, по-малко компресиране";
+"167.title" = "Най-бързо, по-малко архивиране";
 
 /* Class = "NSMenuItem"; title = "Slowest, more compression"; ObjectID = "168"; */
-"168.title" = "Най-бавно, повече компресиране";
+"168.title" = "Най-бавно, повече архивиране";
 
 /* Class = "NSMenuItem"; title = "Slow, more compression"; ObjectID = "169"; */
-"169.title" = "Бавно, повече компресиране";
+"169.title" = "Бавно, повече архивиране";
 
 /* Class = "NSButtonCell"; title = "Set Keka as the default uncompressor"; ObjectID = "184"; */
 "184.title" = "Направи Keka разархиватор по подразбиране";
@@ -33,19 +33,19 @@
 "197.title" = "Винаги разархивирай";
 
 /* Class = "NSMenuItem"; title = "Always compress"; ObjectID = "198"; */
-"198.title" = "Винаги компресирай";
+"198.title" = "Винаги архивирай";
 
 /* Class = "NSMenuItem"; title = "Perform automatic action"; ObjectID = "199"; */
 "199.title" = "Изпълни автоматично действие";
 
 /* Class = "NSButtonCell"; title = "Move original file(s) to Trash after compression"; ObjectID = "262"; */
-"262.title" = "Премести оригиналния/те файл(ове) в Кошчето след компресиране";
+"262.title" = "Премести оригиналния/те файл(ове) в Кошчето след архивиране";
 
 /* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "263"; */
 "263.title" = "Архивирай като единични файлове";
 
 /* Class = "NSButtonCell"; title = "Show file in Finder after compression"; ObjectID = "264"; */
-"264.title" = "Покажи файла във Finder след компресирането";
+"264.title" = "Покажи файла във Finder след архивирането";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "265"; */
 "265.title" = "Изключи Mac ресурсите (като: .DS_Store)";
@@ -87,13 +87,13 @@
 "361.title" = "Покажи съдържанието във Finder след разархивиране";
 
 /* Class = "NSButtonCell"; title = "Move compressed file(s) to Trash after extraction"; ObjectID = "362"; */
-"362.title" = "Премести компресираните файл(ове) в Кошчето след разархивирането";
+"362.title" = "Премести архивираните файл(ове) в Кошчето след разархивирането";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "418"; */
 "418.title" = "Няма";
 
 /* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "419"; */
-"419.title" = "Компресиране по подразбиране";
+"419.title" = "Архивиране по подразбиране";
 
 /* Class = "NSMenuItem"; title = "Default extraction"; ObjectID = "432"; */
 "432.title" = "Разархивиране по подразбиране";
@@ -102,19 +102,19 @@
 "433.title" = "Изпълни звук след разархивирането:";
 
 /* Class = "NSTextFieldCell"; title = "Play a sound after a compression:"; ObjectID = "436"; */
-"436.title" = "Изпълни звук след компресирането:";
+"436.title" = "Изпълни звук след архивирането:";
 
 /* Class = "NSMenuItem"; title = "Default extraction"; ObjectID = "439"; */
 "439.title" = "Разархивиране по подразбиране";
 
 /* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "452"; */
-"452.title" = "Компресиране по подразбиране";
+"452.title" = "Архивиране по подразбиране";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "453"; */
 "453.title" = "Няма";
 
 /* Class = "NSButtonCell"; title = "Show compress contents of folder items"; ObjectID = "0Am-9a-jtM"; */
-"0Am-9a-jtM.title" = "Показвай компресираното съдържание на елементи от папките";
+"0Am-9a-jtM.title" = "Показвай архивираното съдържание на елементи от папките";
 
 /* Class = "NSButtonCell"; title = "Rename the recognized extension from the subfolder"; ObjectID = "1TK-Zy-623"; */
 "1TK-Zy-623.title" = "Преименувай познатото разширение от подпапката";
@@ -174,7 +174,7 @@
 "EOi-2B-eBv.title" = "Винаги";
 
 /* Class = "NSButtonCell"; title = "Use custom name when compressing multiple files"; ObjectID = "Ei5-Ya-HGI"; */
-"Ei5-Ya-HGI.title" = "Използвай име по избор когато компресираш няколко файла";
+"Ei5-Ya-HGI.title" = "Използвай име по избор когато архивираш няколко файла";
 
 /* Class = "NSTextFieldCell"; title = "Tasks priority (QoS):"; ObjectID = "G1T-Qd-OZi"; */
 "G1T-Qd-OZi.title" = "Приоритет на задачите (QoS):";
@@ -183,7 +183,7 @@
 "GJB-94-NHl.title" = "Винаги използвай най-ниският приоритет когато съм на батерия";
 
 /* Class = "NSTextFieldCell"; title = "It is recommended to only do one compression at a time if using multiple threads."; ObjectID = "Hkf-wB-gUj"; */
-"Hkf-wB-gUj.title" = "Препоръчително е да се извършва само едно компресиране когато се използват няколко нишки.";
+"Hkf-wB-gUj.title" = "Препоръчително е да се извършва само едно архивиране когато се използват няколко нишки.";
 
 /* Class = "NSTextFieldCell"; title = "Those are only applied when Keka is not open"; ObjectID = "Hx2-S1-j7m"; */
 "Hx2-S1-j7m.title" = "Тези са приложени, когато Keka не е отворена.";
@@ -201,7 +201,7 @@
 "Jyq-vC-L5r.title" = "По-ниският приоритет води до по-дълги времена. Най-ниският приоритет на вашия Mac, оборудван с Apple Silicon (M процесори), ще използва само \"Efficiency\", което води до по-дълги, но по-енергийно ефективни задачи.";
 
 /* Class = "NSTextFieldCell"; title = "Queue compression operations:"; ObjectID = "K5h-j5-bss"; */
-"K5h-j5-bss.title" = "Задачи за компресия на опашка:";
+"K5h-j5-bss.title" = "Задачи за архивиране на опашка:";
 
 /* Class = "NSButtonCell"; title = "Inherit quarantine from downloaded files"; ObjectID = "KDR-ag-bll"; */
 "KDR-ag-bll.title" = "Наследяване на карантина от изтеглени файлове";
@@ -255,7 +255,7 @@
 "aOv-6b-JlO.title" = "Покажи като обикновен текст";
 
 /* Class = "NSButtonCell"; title = "Use parent folder name when compressing multiple files"; ObjectID = "cDs-NB-2os"; */
-"cDs-NB-2os.title" = "Използвай името на родителската папка когато компресираш няколко файла";
+"cDs-NB-2os.title" = "Използвай името на родителската папка когато архивираш няколко файла";
 
 /* Class = "NSTextFieldCell"; title = "The fallback folder will be used when Keka can't work in the selected folder."; ObjectID = "caX-B6-61f"; */
 "caX-B6-61f.title" = "Резервната папка ще бъде използвана ако Keka няма достъп до избраната папка.";
@@ -273,7 +273,7 @@
 "dOj-2Z-1kb.title" = "Използвай намръщено лице на иконката в Dock по време на работа";
 
 /* Class = "NSTextFieldCell"; title = "Compressing multiple files:"; ObjectID = "dhi-qv-weg"; */
-"dhi-qv-weg.title" = "Компресиране на няколко файла:";
+"dhi-qv-weg.title" = "Архивиране на няколко файла:";
 
 /* Class = "NSButtonCell"; title = "Set folder's modification date to extraction date"; ObjectID = "eBj-1b-wBg"; */
 "eBj-1b-wBg.title" = "Задай датата на промяна на папката на датата на извличане";
@@ -285,7 +285,7 @@
 "fhN-DK-edu.title" = "Задачи заизвличане на опашка:";
 
 /* Class = "NSTextFieldCell"; title = "Compressing a single file:"; ObjectID = "hLS-Ut-4fh"; */
-"hLS-Ut-4fh.title" = "Компресиране на единичен файл:";
+"hLS-Ut-4fh.title" = "Архивиране на единичен файл:";
 
 /* Class = "NSButtonCell"; title = "Use AES-256 when encrypting ZIP files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
 "hp7-jO-HeV.title" = "Използвай AES-256 когато криптираш ZIP файлове (по-малко съвместимо)";
@@ -321,13 +321,13 @@
 "sgV-AD-k4Q.title" = "Активирай достъп до външни дискове";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous compressions:"; ObjectID = "sjA-7B-5U6"; */
-"sjA-7B-5U6.title" = "Максимум компресии едновременно:";
+"sjA-7B-5U6.title" = "Максимум архивирания едновременно:";
 
 /* Class = "NSMenuItem"; title = "Never, when possible"; ObjectID = "tEH-O0-NxO"; */
 "tEH-O0-NxO.title" = "Никога, ако е възможно";
 
 /* Class = "NSButtonCell"; title = "Use the default password on new compressions"; ObjectID = "u2R-2w-aOA"; */
-"u2R-2w-aOA.title" = "Използвай паролата по подразбиране за нови компресирания";
+"u2R-2w-aOA.title" = "Използвай паролата по подразбиране за нови архивирания";
 
 /* Class = "NSTextFieldCell"; title = "You can also use this password from the Finder Extension's menu"; ObjectID = "vWb-gb-JBD"; */
 "vWb-gb-JBD.title" = "Можеш също да използваш тази парола от контекстуалното меню на Finder";
@@ -348,4 +348,4 @@
 "zRi-PC-AW9.title" = "Пробвай паролата по подразбиране когато разархивираш всеки файл с парола";
 
 /* Class = "NSButtonCell"; title = "Automatically install new updates"; ObjectID = "zTa-p3-fHX"; */
-"zTa-p3-fHX.title" = "Automatically install new updates";
+"zTa-p3-fHX.title" = "Автоматично инсталирай нови актуализации";

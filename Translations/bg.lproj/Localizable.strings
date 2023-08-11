@@ -24,7 +24,7 @@
 "The current operations will be canceled. If you choose to wait and quit Keka will exit when all work is done." = "Текущите операции ще бъдат отказани. Ако избереш на чакаш и да излезеш, Keka ще се затвори когато всичката работа е свършена.";
 "Password needed" = "Нужна е парола";
 "File \"%@\" needs a password to be extracted" = "Файл \"%@\" иска парола, за да бъде разархивиран";
-"File \"%@\" needs a special encoding to be extracted" = "File \"%@\" needs a special encoding to be extracted";
+"File \"%@\" needs a special encoding to be extracted" = "Файлът \"%@\" се нуждае от специално кодиране за да бъде разархивиран";
 "Extraction of \"%@\" done" = "Разархивирането на \"%@\" е готово";
 "Extraction of \"%@\" failed." = "Разархивирането на \"%@\" се провали.";
 "Extraction of %i files done" = "Разархивирането на %i файлове е готово";
@@ -67,7 +67,7 @@
 "Select all the volumes from \"%@\" or the folder that contains them." = "Избери всичките томове от \"%@\" или папката, която съдържа файла.";
 "Select the folder that contains \"%@\"." = "Избери папката, която съдържа \"%@\".";
 "Extraction of \"%@\" failed" = "Разархивирането на \"%@\" се провали";
-"Extraction of \"%@\" completed" = "Extraction of \"%@\" completed";
+"Extraction of \"%@\" completed" = "Разархивирането на \"%@\" привърши";
 "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "Извличането завърши, но карантината не беше приложена.\nМоля, инсталирайте отново Keka, за да коригирате този проблем";
 "Keka - %i on queue" = "Keka - %i на опашка";
 "Keka can't create this %@ image" = "Keka не може да направи това %@ изображение";
@@ -125,7 +125,7 @@
 "700 MB CD" = "700 МБ компактдиск";
 "4.7 GB DVD" = "4.7 ГБ DVD";
 "Drop here to extract" = "Пусни тук, за да разархивираш";
-"Drop here to compress" = "Пусни тук, за да компресираш";
+"Drop here to compress" = "Пусни тук, за да архивираш";
 "Binary \"%@\" is not accessible" = "Бинарен файл \"%@\" не е достъпен";
 "The first part \"%@\" can't be found" = "Първата част \"%@\" не може да бъде намерена";
 "Unable to extract a folder" = "Не може да се извлече папката";
@@ -159,7 +159,7 @@
 "Customize" = "Персонализиране";
 "Keka needs access to the source file/s." = "Keka се нуждае от достъп до изходния файл (изходните файлове).";
 "In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "За да работите безпроблемно с твоите файлове, Keka се нуждае от локален достъп до Mac диска.";
-"\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\nПросто натисни на \"Give access to Keka\", твояъ диск трябва да е избран предварително.";
+"\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\nПросто натисни на \"Give access to Keka\", твоят диск трябва да е избран предварително.";
 "Give access to Keka" = "Позволи достъп на Keka";
 "Full Mac access (Recommended)" = "Full Mac access (Препоръчително)";
 "Home folder access" = "Достъп до папката Home";
@@ -193,12 +193,12 @@
 "Cannot create the file" = "Файлът не може да бъде създаден";
 "Keka has no file access to the source file/s\nGive it access when asked or manually in the Preferences" = "Keka няма достъп до началния файл(началните файлове)\nДай му достъп, когато се поиска или ръчно в Настройки";
 "Give access to the source/s folder/s" = "Дай достъп до началната папка (началните папки)";
-"Give access to the compressed file" = "Дай достъп до компресирания файл";
+"Give access to the compressed file" = "Дай достъп до архивирания файл";
 "The extension is enabled" = "Разширението е активирано";
 "The extension is disabled" = "Разширението е деактивирано";
 "Enable or disable the extension" = "Активирай или деактивирай разширението";
-"Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "Keka ще реши дали да компресира или да се компресира въз основа на формата и разширението на файла. Това е препоръчителният вариант.";
-"Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka ще компресира всички файлове, дори и тези, които вече са компресирани. Можеш да компресираш вече компресиран файл в автоматичен режим, като го пуснеш в долната част на полето за провлачване.";
+"Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "Keka ще реши дали да архивира или да разархивира въз основа на формата и разширението на файла. Това е препоръчителният вариант.";
+"Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka ще архивира всички файлове, дори и тези, които вече са архивирани. Можеш да архивираш вече архивиран файл в автоматичен режим, като го пуснеш в долната част на полето за провлачване.";
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka ще се опита да извлече всички файлове. Можеш да опиташ да извлечеш неизвестен файл в автоматичен режим, като го пуснеш в долната част на полето за провлачване.";
 "Show the operation log" = "Покажи журнала на операциите";
 "Unable to process tips" = "Не може да се обработят бакшишите";
@@ -207,20 +207,20 @@
 "Send a %@ tip" = "Изпрати %@ бакшиш";
 "Give Keka some love ♥" = "Дай на Keka малко любов ♥";
 "All extractions will be expanded at this location." = "Всички разархивирания ще бъдат разширени на това място.";
-"All compressions will be stored at this location." = "Всички компресирания ще се съхраняват на това място.";
+"All compressions will be stored at this location." = "Всички архивирания ще се съхраняват на това място.";
 "You'll be asked where to extract each operation." = "Ще бъдеш попитан(а) къде да извлечеш всяка операция.";
-"You'll be asked where to compress each operation." = "Ще бъдеш попитан(а) къде да компресираш всяка операция.";
+"You'll be asked where to compress each operation." = "Ще бъдеш попитан(а) къде да архивираш всяка операция.";
 "If Keka has File Access it will execute the operation near the source file/s, otherwise it will ask for a location. You can set Keka's File Access in the Preferences tab so this option works properly." = "Ако Keka има достъп до файлове, той ще изпълни операцията в близост до изходния файл/и, в противен случай тя ще поиска място. Можеш да зададеш достъпа на файлове на Keka в Настройки, така че тази опция да работи правилно.";
 "Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Keka няма достъп до файлове до папката за местоназначение, така че трябва да поиска местоположение.\nМожеш да добавиш достъп до тази и други папки в панела за достъп в Настройки на Keka.";
 "The characters %@ are not compatible with the %@ format" = "Символите %@ не са съвместими с формата %@";
 "The character %@ is not compatible with the %@ format" = "Символът %@ не е съвместим с формата %@";
-"Stop compressing" = "Спри компресирането";
+"Stop compressing" = "Спри архивирането";
 "Stop extracting" = "Спри разархивирането";
-"Resume compressing" = "Продължи компресирането";
+"Resume compressing" = "Продължи архивирането";
 "Resume extracting" = "Продължи разархивирането";
-"Pause compressing" = "Пауза на компресирането";
+"Pause compressing" = "Пауза на архивирането";
 "Pause extracting" = "Пауза на разархивирането";
-"Compression paused" = "Компресирането е на пауза";
+"Compression paused" = "Архивирането е на пауза";
 "Extraction paused" = "Разархивирането е на пауза";
 "Waiting for password" = "Изчакване за парола";
 "On queue" = "На опашката";
@@ -232,12 +232,12 @@
 "Update the default password" = "Актуализирай паролата по подразбиране";
 "Set a default password" = "Настрой парола по подразбиране";
 "To enable external volumes access go to your main disk and select the \"Volumes\" folder." = "To enable external volumes access go to your main disk and select the \"Volumes\" folder.";
-"Verifying..." = "Verifying...";
-"Verification of \"%@\" failed" = "Verification of \"%@\" failed";
-"The compressed data seems to be invalid" = "The compressed data seems to be invalid";
+"Verifying..." = "Проверка...";
+"Verification of \"%@\" failed" = "Проверката на \"%@\" се провали";
+"The compressed data seems to be invalid" = "Архивираните данни изглеждат невалидни";
 "Encrypted Apple Archive files are only supported on macOS 12 or newer" = "Encrypted Apple Archive files are only supported on macOS 12 or newer";
-"The password length should be %i or higher" = "The password length should be %i or higher";
-" (Entire Device)" = " (Entire Device)";
+"The password length should be %i or higher" = "Дължината на паролата трябва да е минимум %i символа или повече";
+" (Entire Device)" = " (Цялото устройство)";
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "Настройки…";
 
