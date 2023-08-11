@@ -14,8 +14,8 @@ $content_bottom_translator = 'Превод на Български: <a href="htt
 //
 
 // iOS
-$ios_title = "$keka for iOS";
-$ios_content_title = "the iOS file archiver";
+$ios_title = "$keka за iOS";
+$ios_content_title = "файловия архиватор за";
 
 // General
 $content_download = "Свали";
@@ -32,8 +32,8 @@ $content_download_love = "Харесва ли ти?";
 $content_download_legacy = "Стари версии";
 $content_download_helper = "Помощник";
 $content_downloading = "Сваляне ";
-$content_get_platform = "Get it for ";
-$content_testflight = "TestFlight needed to install this build";
+$content_get_platform = "Вземи за ";
+$content_testflight = "TestFlight е нужен за инсталирането на този build";
 $content_downloading_if_fails = "Ако свалянето не започне автоматично";
 $content_downloading_if_fails_click_here = "кликни тук";
 
@@ -66,16 +66,16 @@ $content_info_compression = "Keka може да създава файлове в
 $content_info_extraction = "И разархивира всички тези формати:";
 
 // Info v2 (iOS and future macOS)
-$content_info_v2_title1 = "Store more";
-$content_info_v2_title2 = "Share with privacy";
-$content_info_v2_title3 = "A perfect Browsing experience";
-$content_info_v2_title4 = "Multitasking at its finest";
-$content_info_v2_title5 = "Always at hand";
-$content_info_v2_text1 = "With multiple Compression Formats<br />to choose the Perfect One";
-$content_info_v2_text2 = "Protect your shared files with a Password<br />and Encrypt them with AES-256";
-$content_info_v2_text3 = "Preview, Extract and Share<br />only what You Need";
-$content_info_v2_text4 = "Extract, Compress and Browse<br />without limits";
-$content_info_v2_text5 = "Extract, Compress and Browse<br />from anywhere using the Share Actions";
+$content_info_v2_title1 = "Съхрани повече";
+$content_info_v2_title2 = "Сподели с поверителност";
+$content_info_v2_title3 = "Най-доброто изживяване";
+$content_info_v2_title4 = "Мултитаскинг в най-добрия си вид";
+$content_info_v2_title5 = "Винаги под ръка";
+$content_info_v2_text1 = "С множество формати на компресия <br />за да изберете перфектния";
+$content_info_v2_text2 = "Защити твоите споделени файлове с парола<br />и ги шифровай с AES-256";
+$content_info_v2_text3 = "Визуализирай, архивирай и споделяй <br />Само това, от което се нуждаеш";
+$content_info_v2_text4 = "Разархивирай, архивирай и разглеждай <br />без ограничения";
+$content_info_v2_text5 = "Разархивирай, архивирай и разглеждай<br />отвсякъде като използваш опциите за Споделяне";
 
 // Default app
 $content_defaultapp_title = "Настрой Keka като програма по подразбиране за разхархивиране";
