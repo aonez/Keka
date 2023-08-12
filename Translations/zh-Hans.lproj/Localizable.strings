@@ -231,13 +231,13 @@
 "Review Keka ★★★★★" = "评价 Keka ★★★★★";
 "Update the default password" = "更新默认密码";
 "Set a default password" = "设置默认密码";
-"To enable external volumes access go to your main disk and select the \"Volumes\" folder." = "To enable external volumes access go to your main disk and select the \"Volumes\" folder.";
-"Verifying..." = "Verifying...";
-"Verification of \"%@\" failed" = "Verification of \"%@\" failed";
-"The compressed data seems to be invalid" = "The compressed data seems to be invalid";
-"Encrypted Apple Archive files are only supported on macOS 12 or newer" = "Encrypted Apple Archive files are only supported on macOS 12 or newer";
-"The password length should be %i or higher" = "The password length should be %i or higher";
-" (Entire Device)" = " (Entire Device)";
+"To enable external volumes access go to your main disk and select the \"Volumes\" folder." = 要启用外部卷访问，请进入主磁盘并选择 \"Volumes\" 文件夹。";
+"Verifying..." = "正在验证...";
+"Verification of \"%@\" failed" = "\"%@\" 验证失败";
+"The compressed data seems to be invalid" = "压缩数据似乎无效";
+"Encrypted Apple Archive files are only supported on macOS 12 or newer" = "加密的 Apple Archive 文件仅在 macOS 12 或更新版本上受支持";
+"The password length should be %i or higher" = "密码长度应为 %i 位或更长";
+" (Entire Device)" = "（整个设备）";
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "首选项…";
 
