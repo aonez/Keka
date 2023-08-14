@@ -15,7 +15,7 @@ $content_bottom_translator = 'Превод на Български: <a href="htt
 
 // iOS
 $ios_title = "$keka за iOS";
-$ios_content_title = "файловия архиватор за";
+$ios_content_title = "файловият архиватор за iOS";
 
 // General
 $content_download = "Свали";
@@ -23,7 +23,7 @@ $content_issues = "Проблеми";
 $content_help = "Помощ";
 $content_forum = "Форум";
 $content_changelog = "Промени";
-$content_title = "macOS файлов архиватор";
+$content_title = "файловият архиватор за macOS";
 
 // Download
 $content_platform = "Изисква $version_replace или по-нова";
