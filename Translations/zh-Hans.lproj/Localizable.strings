@@ -231,7 +231,7 @@
 "Review Keka ★★★★★" = "评价 Keka ★★★★★";
 "Update the default password" = "更新默认密码";
 "Set a default password" = "设置默认密码";
-"To enable external volumes access go to your main disk and select the \"Volumes\" folder." = 要启用外部卷访问，请进入主磁盘并选择 \"Volumes\" 文件夹。";
+"To enable external volumes access go to your main disk and select the \"Volumes\" folder." = "要启用外部卷访问，请进入主磁盘并选择 \"Volumes\" 文件夹。";
 "Verifying..." = "正在验证...";
 "Verification of \"%@\" failed" = "\"%@\" 验证失败";
 "The compressed data seems to be invalid" = "压缩数据似乎无效";
