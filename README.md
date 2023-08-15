@@ -1,44 +1,44 @@
-<a href="#"><img width="256" height="256" src="https://www.keka.io/img/Keka-Square-512x512.png" align="left" /></a>
+<a href="#"><img width="256" height="256" src="https://www.keka.io/img/Keka-Square-512x512.png" align="left" /> </a>
 
-# Keka
-The macOS file archiver.
+# Кека
+Файловият архиватор на macOS.
 
-With Keka you can compress as many files as you want in a bunch of formats. You can also encrypt them to store and share securely and with privacy.
+С Keka можете да компресирате колкото искате файлове в куп формати. Можете също така да ги шифровате, за да ги съхранявате и споделяте сигурно и с поверителност.
 
 <div>
   <a href="https://github.com/aonez/Keka/releases"><img src="https://img.shields.io/github/downloads/aonez/keka/total?color=%2300834a" /></a>
-  <a href="https://github.com/aonez/Keka/releases/latest"><img src="https://img.shields.io/github/downloads/aonez/keka/latest/total?color=%2300834a&label=latest" /></a>
-  <a href="https://github.com/aonez/Keka/releases/latest"><img src="https://img.shields.io/github/v/release/aonez/keka?color=%2300834a" /></a>
+  <a href="https://github.com/aonez/Keka/releases/latest"><img src="https://img.shields.io/github/downloads/aonez/keka/latest/total?color =%2300834a&label=latest" /></a>
+  <a href="https://github.com/aonez/Keka/releases/latest"><img src="https://img.shields.io/github/v/release/aonez/keka?color=% 2300834a" /></a>
   <a href="https://twitter.com/kekaosx"><img src="https://img.shields.io/twitter/follow/kekaosx?style=social" /></a>
-  <a href="https://techhub.social/@keka"><img src="https://img.shields.io/mastodon/follow/109670517459928421?domain=https%3A%2F%2Ftechhub.social&style=social" /></a>
+  <a href="https://techhub.social/@keka"><img src="https://img.shields.io/mastodon/follow/109670517459928421?domain=https%3A%2F%2Ftechhub.social&style= социални“ /></a>
 </div>
 
 <br />
 
-## Downloads
+## Изтегляния
 
-### Current version
+### Сегашна версия
 
-Go to the Keka website at https://www.keka.io to get the latest version.
+Отидете на уебсайта на Keka на адрес https://www.keka.io, за да получите най-новата версия.
 
-Also you can check the history of releases in the [Releases](https://github.com/aonez/Keka/releases) section.
+Също така можете да проверите историята на изданията в секцията [Издания](https://github.com/aonez/Keka/releases).
 
-### Legacy versions
+### Наследени версии
 
-You will find the updated list of legacy versions in the Keka website at https://www.keka.io/#legacy
+Ще намерите актуализирания списък с наследени версии в уебсайта на Keka на адрес https://www.keka.io/#legacy
 
-## What more to do here
+## Какво още мога да правя тук
 
-- [Issues](https://github.com/aonez/Keka/issues) - look for open ones, [create](https://github.com/aonez/Keka/issues/new) a new one.
-- [Wiki](https://github.com/aonez/Keka/wiki) - learn and share Keka knowledge.
-- [Discussions](https://github.com/aonez/Keka/discussions) - chat about Keka with others and share your ideas.
-- [Releases](https://github.com/aonez/Keka/releases) - download a specific version.
-- [Translations](Translations/) - keep Keka multilingual and well spoken :)
+- [Проблеми](https://github.com/aonez/Keka/issues) - потърсете отворен вече проблем или [създайте](https://github.com/aonez/Keka/issues/new) нов.
+- [Wiki](https://github.com/aonez/Keka/wiki) - научете и споделете знания за Keka.
+- [Дискусии](https://github.com/aonez/Keka/discussions) - разговаряйте за Keka с други и споделяйте идеите си.
+- [Издания](https://github.com/aonez/Keka/releases) - изтеглете конкретна версия.
+- [Преводи](Преводи/) - поддържайте Кека многоезичен и добре преведен :)
 
-This repository is used mainly to take care of [Issues](https://github.com/aonez/Keka/issues) and have a collaborative [Wiki](https://github.com/aonez/Keka/wiki).
+Това хранилище се използва главно за справяне с [проблеми](https://github.com/aonez/Keka/issues) и за създаване на съвместна [Wiki](https://github.com/aonez/Keka/wiki).
 
-If you have a problem or a request just search the [Issues](https://github.com/aonez/Keka/issues) for similar ones or [create](https://github.com/aonez/Keka/issues/new) a new one.
+Ако имате проблем или заявка, просто потърсете в [Проблеми](https://github.com/aonez/Keka/issues) за подобни или [създайте](https://github.com/aonez/Keka/issues /нов) нов.
 
-If you'll like to chat and you think the [Issues](https://github.com/aonez/Keka/issues) section is not the right place, just head to the [Discussions](https://github.com/aonez/Keka/discussions) section.
+Ако искате да разговаряте и смятате, че разделът [Проблеми](https://github.com/aonez/Keka/issues) не е правилното място, просто се насочете към  раздел [Дискусии](https://github. com/aonez/Keka/discussions).
 
-Also head to [Releases](https://github.com/aonez/Keka/releases) if you need a specific version not found on the [Keka website](https://www.keka.io).
+Насочете се също към [Издания](https://github.com/aonez/Keka/releases), ако имате нужда от конкретна версия, която не е намерена на [уебсайта на Keka](https://www.keka.io).
