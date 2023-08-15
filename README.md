@@ -1,4 +1,4 @@
-<a href="#"><img width="256" height="256" src="https://www.keka.io/img/Keka-Square-512x512.png" align="left" /> </a>
+<a href=“#”><img width=“256” height=“256” src=“https://www.keka.io/img/Keka-Square-512x512.png” align=“left” /></a>
 
 # Кека
 Файловият архиватор на macOS.
