@@ -72,7 +72,7 @@
 "Keka - %i on queue" = "Keka - %i je ve frontě";
 "Keka can't create this %@ image" = "Keka nemůže vytvořit tento %@ obraz";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "Obrazy %@ lze vytvořit pouze z jedné složky. Zkuste soubory umístit do jedné složky, kterou přetáhněte do Keka.";
-"Keka can't create this @% tarball" = "Keka nemůže vytvořit tento @% tarball";
+"Keka can't create this @% tarball" = "Keka nemůže vytvořit tento tarball @%";
 "This operation is not supported on %@." = "%@ tuto operaci nepodporuje";
 "Compress \"%@\" in %@ to..." = "Komprimovat „%@“ v %@ do…";
 "Compress in %@ to..." = "Komprimovat v %@ do…";
@@ -197,7 +197,7 @@
 "The extension is enabled" = "Rozšíření je povoleno";
 "The extension is disabled" = "Rozšíření je zakázáno";
 "Enable or disable the extension" = "Povolit nebo zakázat rozšíření";
-"Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "Keka se rozhodne mezi komprimací a rozbalením podle formátu a přípony souboru. Doporučujeme.";
+"Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "Keka se rozhodne mezi komprimací a rozbalením podle formátu/přípony souboru. Tato volba je doporučená.";
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka komprimuje všechny soubory, včetně již komprimovaných souborů. Soubory můžete znovu komprimovat přetažením do spodní částí Keka.";
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka se pokusí všechny soubory rozbalit. Soubory neznámeho typu můžete zkusit rozbalit přetažením do spodní části Keka.";
 "Show the operation log" = "Zobrazit operační protokol";
