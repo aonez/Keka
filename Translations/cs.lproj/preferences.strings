@@ -198,7 +198,7 @@
 "JxT-Nq-8Z5.title" = "Pokud chcete Keka používat s externími disky připojenými přes rozhraní USB nebo Thunderbolt, udělte přístup k externím diskům.";
 
 /* Class = "NSTextFieldCell"; title = "Lower priority results in longer times. The lowest priority on Apple Silicon equipped Macs will only use \"Efficiency\" cores, resulting in longer but more energy efficient tasks.\nAlready running tasks priority will not be modified."; ObjectID = "Jyq-vC-L5r"; */
-"Jyq-vC-L5r.title" = "Nízká priorita = delší čas. Nejnižší priorita na počítačích s Apple Silicon použije pouze \"Úsporná\" jádra, výsledkem bude delší čas, ale efektivnější využítí energie.\nPrioritu již běžících procesů nelze měnit.";
+"Jyq-vC-L5r.title" = "Nízká priorita = delší čas. Nejnižší priorita na počítačích s procesory Apple Silicon použije pouze „úsporná“ jádra, výsledkem bude delší čas, ale efektivnější využítí energie.\nPrioritu již běžících procesů nelze měnit.";
 
 /* Class = "NSTextFieldCell"; title = "Queue compression operations:"; ObjectID = "K5h-j5-bss"; */
 "K5h-j5-bss.title" = "Řadit operace do fronty:";
