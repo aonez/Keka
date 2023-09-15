@@ -277,7 +277,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Keka/en.lproj/Localizable.strings" source-language="en" target-language="en" datatype="plaintext">
+  <file original="Keka/en.lproj/Localizable.strings" source-language="en" target-language="bg" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.3.1" build-num="14E300c"/>
     </header>
@@ -966,7 +966,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="KekaBrowseAction/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+  <file original="KekaBrowseAction/en.lproj/InfoPlist.strings" source-language="en" target-language="bg" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.3.1" build-num="14E300c"/>
     </header>
@@ -978,7 +978,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="KekaCompressionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+  <file original="KekaCompressionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="bg" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.3.1" build-num="14E300c"/>
     </header>
@@ -990,7 +990,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="KekaExtractionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+  <file original="KekaExtractionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="bg" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.3.1" build-num="14E300c"/>
     </header>
