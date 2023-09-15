@@ -1,4 +1,10 @@
 /* No comment provided by engineer. */
+"\"%@\"" = "\"%@\"";
+
+/* No comment provided by engineer. */
+"%@" = "%@";
+
+/* No comment provided by engineer. */
 "%@ item" = "%@ 項目";
 
 /* No comment provided by engineer. */
@@ -68,6 +74,9 @@
 "Close" = "閉じる";
 
 /* No comment provided by engineer. */
+"Comments" = "注釈";
+
+/* No comment provided by engineer. */
 "Compress" = "圧縮";
 
 /* No comment provided by engineer. */
@@ -92,7 +101,7 @@
 "COMPRESSION_RUNNING" = "圧縮中";
 
 /* Compressing, tasks section title. */
-"COMPRESSION_SECTION_TITLE" = "圧縮する";
+"COMPRESSION_SECTION_TITLE" = "圧縮";
 
 /* No comment provided by engineer. */
 "Contents" = "内容";
@@ -152,7 +161,7 @@
 "Encrypt Filenames if Possible" = "可能であればファイル名を暗号化する";
 
 /* No comment provided by engineer. */
-"Enter the password for the file\n\"%@\"" = "ファイルのパスワードを入力\n\"%@\"";
+"Enter the password for the file\n\"%@\"" = "\"%@\" のファイル パスワードを入力";
 
 /* No comment provided by engineer. */
 "Extract" = "展開";
@@ -170,13 +179,13 @@
 "extraction failed" = "展開できませんでした";
 
 /* Extraction, operation description. */
-"EXTRACTION_OPERATION" = "展開する";
+"EXTRACTION_OPERATION" = "展開";
 
 /* Extracting, operation running. */
 "EXTRACTION_RUNNING" = "展開中";
 
 /* Extracting, tasks section title. */
-"EXTRACTION_SECTION_TITLE" = "ファイルの展開";
+"EXTRACTION_SECTION_TITLE" = "展開";
 
 /* No comment provided by engineer. */
 "failed" = "失敗";
@@ -362,7 +371,7 @@
 "Unable to apply the app icon" = "APP アイコンを適用できません";
 
 /* No comment provided by engineer. */
-"Unable to browse \"%@\"" = "\"%@\"を閲覧できません";
+"Unable to browse \"%@\"" = "\"%@\" を閲覧できません";
 
 /* No comment provided by engineer. */
 "Unable to determine the available space." = "使用可能なスペースを決定できません。";
@@ -393,3 +402,4 @@
 
 /* No comment provided by engineer. */
 "Where" = "何処に";
+

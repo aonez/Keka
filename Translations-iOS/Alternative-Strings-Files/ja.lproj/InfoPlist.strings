@@ -1,54 +1,162 @@
+/* (No Comment) */
 "7Z Archive" = "7Z アーカイブ";
+
+/* (No Comment) */
 "ACE Archive" = "ACE アーカイブ";
+
+/* (No Comment) */
 "ALZip Archive" = "ALZip アーカイブ";
-"APPX Archive" = "APPX アーカイブ";
-"ARC Archive" = "ARC アーカイブ";
-"ARJ Archive" = "ARJ アーカイブ";
+
+/* (No Comment) */
 "Amiga DCS Disk Archive" = "Amiga DCS ディスクアーカイブ";
-"Amiga DMS Disk Archive" = "Amiga DMS ディスクアーカイブ";
+
+/* (No Comment) */
 "Amiga Disk File" = "Amiga ディスクファイル";
-"Amiga PackDev Disk Archive" = "Amiga PackDev Disk アーカイブ";
+
+/* (No Comment) */
+"Amiga DMS Disk Archive" = "Amiga DMS ディスクアーカイブ";
+
+/* (No Comment) */
+"Amiga PackDev Disk Archive" = "Amiga PackDev ディスクアーカイブ";
+
+/* (No Comment) */
 "Amiga PowerPacker Archive" = "Amiga PowerPacker アーカイブ";
-"Amiga Zoom Disk Archive" = "Amiga Zoom ディスクアーカイブ";
+
+/* (No Comment) */
 "Amiga xMash Disk Archive" = "Amiga xMash ディスクアーカイブ";
+
+/* (No Comment) */
+"Amiga Zoom Disk Archive" = "Amiga Zoom ディスクアーカイブ";
+
+/* (No Comment) */
 "Android Application Package" = "Android アプリケーションパッケージ";
+
+/* (No Comment) */
+"APPX Archive" = "APPX アーカイブ";
+
+/* (No Comment) */
+"ARC Archive" = "ARC アーカイブ";
+
+/* (No Comment) */
+"ARJ Archive" = "ARJ アーカイブ";
+
+/* (No Comment) */
 "BZIP2 Archive" = "BZIP2 アーカイブ";
+
+/* (No Comment) */
 "BZIP2 Tarball Archive" = "BZIP2 Tarball アーカイブ";
+
+/* (No Comment) */
 "CAB Archive" = "CAB アーカイブ";
+
+/* (No Comment) */
 "CDI Disk Image" = "CDI ディスクイメージ";
+
+/* (No Comment) */
 "Compact Pro Archive" = "Compact Pro アーカイブ";
+
+/* (No Comment) */
 "Compressed Amiga Disk File" = "Amiga 圧縮ディスクイメージ";
+
+/* (No Comment) */
 "Deb Archive" = "Deb アーカイブ";
+
+/* (No Comment) */
 "DiskDoubler Archive" = "DiskDoubler アーカイブ";
+
+/* (No Comment) */
 "Generic Archive Volume" = "Generic アーカイブボリューム";
+
+/* (No Comment) */
 "HA Archive" = "HA アーカイブ";
+
+/* (No Comment) */
 "Keka Extraction Package" = "Keka 展開パッケージ";
+
+/* (No Comment) */
 "LBR Archive" = "LBR アーカイブ";
-"LZMA File" = "LZMA ファイル";
-"LZX Archive" = "LZX アーカイブ";
+
+/* (No Comment) */
 "LhA Archive" = "LhA アーカイブ";
+
+/* (No Comment) */
 "LhF Archive" = "LhF アーカイブ";
+
+/* (No Comment) */
 "Linux RPM Archive" = "Linux RPM アーカイブ";
+
+/* (No Comment) */
+"LZMA File" = "LZMA ファイル";
+
+/* (No Comment) */
+"LZX Archive" = "LZX アーカイブ";
+
+/* (No Comment) */
 "MDF Disk Image" = "MDF ディスクイメージ";
+
+/* (No Comment) */
 "Microsoft MSI Installer" = "Microsoft MSI インストーラー";
-"NRG Disk Image" = "NRG ディスクイメージ";
-"NSA Archive" = "NSA アーカイブ";
+
+/* (No Comment) */
 "Now Compress Archive" = "Now 圧縮アーカイブ";
-"PMA Archive" = "PMA アーカイブ";
+
+/* (No Comment) */
+"NRG Disk Image" = "NRG ディスクイメージ";
+
+/* (No Comment) */
+"NSA Archive" = "NSA アーカイブ";
+
+/* (No Comment) */
 "PackIt Archive" = "PackIt アーカイブ";
+
+/* (No Comment) */
 "Pax Archive" = "Pax アーカイブ";
+
+/* (No Comment) */
+"PMA Archive" = "PMA アーカイブ";
+
+/* (No Comment) */
 "RAR Archive" = "RAR アーカイブ";
+
+/* (No Comment) */
 "SAR Archive" = "SAR アーカイブ";
+
+/* (No Comment) */
 "Self-Extracting Archive" = "自己展開アーカイブ";
+
+/* (No Comment) */
 "Unix Compress File" = "Unix 圧縮ファイル";
+
+/* (No Comment) */
 "Unix Compress Tar Archive" = "Unix 圧縮 Tar アーカイブ";
+
+/* (No Comment) */
 "WARC Web Archive" = "WARC Web アーカイブ";
+
+/* (No Comment) */
 "XAR Archive" = "XAR アーカイブ";
+
+/* (No Comment) */
 "XIP Archive" = "XIP アーカイブ";
+
+/* (No Comment) */
 "XZ Archive" = "XZ アーカイブ";
+
+/* (No Comment) */
 "XZ Tarball Archive" = "XZ Tarball アーカイブ";
+
+/* (No Comment) */
 "ZIP Archive" = "ZIP アーカイブ";
+
+/* (No Comment) */
 "ZIPX Archive" = "ZIPX アーカイブ";
+
+/* (No Comment) */
 "ZOO Archive" = "ZOO アーカイブ";
+
+/* (No Comment) */
 "Zstandard Archive" = "Zstandard アーカイブ";
+
+/* (No Comment) */
 "Zstandard Tarball Archive" = "Zstandard Tarball アーカイブ";
+

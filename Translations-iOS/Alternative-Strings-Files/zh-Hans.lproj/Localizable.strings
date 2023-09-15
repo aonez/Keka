@@ -68,6 +68,9 @@
 "Close" = "关闭";
 
 /* No comment provided by engineer. */
+"Comments" = "评论";
+
+/* No comment provided by engineer. */
 "Compress" = "压缩";
 
 /* No comment provided by engineer. */
@@ -122,6 +125,9 @@
 "Default Tap Action" = "默认点击动作";
 
 /* No comment provided by engineer. */
+"Default Volume Unit" = "默认卷单位";
+
+/* No comment provided by engineer. */
 "Delete" = "删除";
 
 /* No comment provided by engineer. */
@@ -149,7 +155,7 @@
 "Encrypt Filenames" = "加密文件名";
 
 /* No comment provided by engineer. */
-"Encrypt Filenames if Possible" = "如果可以，加密文件名";
+"Encrypt Filenames if Possible" = "如果可用，加密文件名";
 
 /* No comment provided by engineer. */
 "Enter the password for the file\n\"%@\"" = "输入文件的密码\n\"%@\"";
@@ -215,7 +221,7 @@
 "Keka's Folder" = "Keka 的文件夹";
 
 /* No comment provided by engineer. */
-"Keka's icon" = "Keka 图标";
+"Keka's icon" = "Keka 的图标";
 
 /* No comment provided by engineer. */
 "Kind" = "种类";
@@ -311,6 +317,9 @@
 "Slowest" = "最慢";
 
 /* No comment provided by engineer. */
+"Split in volumes" = "分卷";
+
+/* No comment provided by engineer. */
 "Store" = "存储";
 
 /* No comment provided by engineer. */
@@ -378,6 +387,9 @@
 
 /* No comment provided by engineer. */
 "Use UTF-8 Encoding if Available" = "如果可用，使用 UTF-8 编码";
+
+/* No comment provided by engineer. */
+"Volume Size" = "卷大小";
 
 /* No comment provided by engineer. */
 "Welcome" = "欢迎";
