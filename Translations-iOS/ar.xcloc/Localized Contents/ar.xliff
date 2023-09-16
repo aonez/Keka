@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="Keka/en.lproj/InfoPlist.strings" source-language="en" target-language="ar" datatype="plaintext">
+  <file original="Keka/ar.lproj/InfoPlist.strings" source-language="ar" target-language="ar" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.3.1" build-num="14E300c"/>
     </header>
     <body>
       <trans-unit id="7Z Archive" xml:space="preserve">
         <source>7Z Archive</source>
-        <target>أرشيف</target>
+        <target>7Z أرشيف</target>
         <note/>
       </trans-unit>
       <trans-unit id="ACE Archive" xml:space="preserve">
         <source>ACE Archive</source>
-        <target>أرشيف</target>
+        <target>ACE أرشيف</target>
         <note/>
       </trans-unit>
       <trans-unit id="ALZip Archive" xml:space="preserve">
         <source>ALZip Archive</source>
-        <target>أرشيف</target>
+        <target>ALZip أرشيف</target>
         <note/>
       </trans-unit>
       <trans-unit id="APPX Archive" xml:space="preserve">
         <source>APPX Archive</source>
-        <target>أرشيف</target>
+        <target>APPX أرشيف</target>
         <note/>
       </trans-unit>
       <trans-unit id="ARC Archive" xml:space="preserve">
         <source>ARC Archive</source>
-        <target>أرشيف</target>
+        <target>ARC أرشيف</target>
         <note/>
       </trans-unit>
       <trans-unit id="ARJ Archive" xml:space="preserve">
         <source>ARJ Archive</source>
-        <target>أرشيف</target>
+        <target>ARJ أرشيف</target>
         <note/>
       </trans-unit>
       <trans-unit id="Amiga DCS Disk Archive" xml:space="preserve">
         <source>Amiga DCS Disk Archive</source>
-        <target>أرشيف</target>
+        <target>Amiga DCS Disk أرشيف</target>
         <note/>
       </trans-unit>
       <trans-unit id="Amiga DMS Disk Archive" xml:space="preserve">
         <source>Amiga DMS Disk Archive</source>
-        <target>أرشيف</target>
+        <target>Amiga DMS Disk أرشيف</target>
         <note/>
       </trans-unit>
       <trans-unit id="Amiga Disk File" xml:space="preserve">
         <source>Amiga Disk File</source>
-        <target>قرص  ملفات</target>
+        <target>Amiga قرص  ملفات</target>
         <note/>
       </trans-unit>
       <trans-unit id="Amiga PackDev Disk Archive" xml:space="preserve">
         <source>Amiga PackDev Disk Archive</source>
-        <target>أرشيف</target>
+        <target>Amiga PackDev Disk أرشيف</target>
         <note/>
       </trans-unit>
       <trans-unit id="Amiga PowerPacker Archive" xml:space="preserve">
         <source>Amiga PowerPacker Archive</source>
-        <target>أرشيف</target>
+        <target>Amiga PowerPacker أرشيف</target>
         <note/>
       </trans-unit>
       <trans-unit id="Amiga Zoom Disk Archive" xml:space="preserve">
         <source>Amiga Zoom Disk Archive</source>
-        <target>أرشيف</target>
+        <target>Amiga Zoom Disk أرشيف</target>
         <note/>
       </trans-unit>
       <trans-unit id="Amiga xMash Disk Archive" xml:space="preserve">
         <source>Amiga xMash Disk Archive</source>
-        <target>أرشيف</target>
+        <target>Amiga xMash Disk أرشيف</target>
         <note/>
       </trans-unit>
       <trans-unit id="Android Application Package" xml:space="preserve">
@@ -77,17 +77,17 @@
       </trans-unit>
       <trans-unit id="BZIP2 Archive" xml:space="preserve">
         <source>BZIP2 Archive</source>
-        <target>أرشيف</target>
+        <target>BZIP2 أرشيف</target>
         <note/>
       </trans-unit>
       <trans-unit id="BZIP2 Tarball Archive" xml:space="preserve">
         <source>BZIP2 Tarball Archive</source>
-        <target>أرشيف</target>
+        <target>BZIP2 Tarball أرشيف</target>
         <note/>
       </trans-unit>
       <trans-unit id="CAB Archive" xml:space="preserve">
         <source>CAB Archive</source>
-        <target>أرشيف</target>
+        <target>CAB أرشيف</target>
         <note/>
       </trans-unit>
       <trans-unit id="CDI Disk Image" xml:space="preserve">
@@ -97,7 +97,7 @@
       </trans-unit>
       <trans-unit id="Compact Pro Archive" xml:space="preserve">
         <source>Compact Pro Archive</source>
-        <target>أرشيف</target>
+        <target>Compact Pro أرشيف</target>
         <note/>
       </trans-unit>
       <trans-unit id="Compressed Amiga Disk File" xml:space="preserve">
@@ -107,57 +107,57 @@
       </trans-unit>
       <trans-unit id="Deb Archive" xml:space="preserve">
         <source>Deb Archive</source>
-        <target>أرشيف</target>
+        <target>Deb أرشيف</target>
         <note/>
       </trans-unit>
       <trans-unit id="DiskDoubler Archive" xml:space="preserve">
         <source>DiskDoubler Archive</source>
-        <target>أرشيف</target>
+        <target>DiskDoubler أرشيف</target>
         <note/>
       </trans-unit>
       <trans-unit id="Generic Archive Volume" xml:space="preserve">
         <source>Generic Archive Volume</source>
-        <target>أرشيف مجلد</target>
+        <target>Generic أرشيف مجلد</target>
         <note/>
       </trans-unit>
       <trans-unit id="HA Archive" xml:space="preserve">
         <source>HA Archive</source>
-        <target>أرشيف</target>
+        <target>HA أرشيف</target>
         <note/>
       </trans-unit>
       <trans-unit id="Keka Extraction Package" xml:space="preserve">
         <source>Keka Extraction Package</source>
-        <target>الاستخراج حزمة</target>
+        <target>Keka الاستخراج حزمة</target>
         <note/>
       </trans-unit>
       <trans-unit id="LBR Archive" xml:space="preserve">
         <source>LBR Archive</source>
-        <target>مجلد</target>
+        <target>LBR مجلد</target>
         <note/>
       </trans-unit>
       <trans-unit id="LZMA File" xml:space="preserve">
         <source>LZMA File</source>
-        <target>ملف</target>
+        <target>LZMA ملف</target>
         <note/>
       </trans-unit>
       <trans-unit id="LZX Archive" xml:space="preserve">
         <source>LZX Archive</source>
-        <target>أرشيف</target>
+        <target>LZX أرشيف</target>
         <note/>
       </trans-unit>
       <trans-unit id="LhA Archive" xml:space="preserve">
         <source>LhA Archive</source>
-        <target>أرشيف</target>
+        <target>LhA أرشيف</target>
         <note/>
       </trans-unit>
       <trans-unit id="LhF Archive" xml:space="preserve">
         <source>LhF Archive</source>
-        <target>أرشيف</target>
+        <target>LhF أرشيف</target>
         <note/>
       </trans-unit>
       <trans-unit id="Linux RPM Archive" xml:space="preserve">
         <source>Linux RPM Archive</source>
-        <target>أرشيف</target>
+        <target>Linux RPM أرشيف</target>
         <note/>
       </trans-unit>
       <trans-unit id="MDF Disk Image" xml:space="preserve">
@@ -177,7 +177,7 @@
       </trans-unit>
       <trans-unit id="NSA Archive" xml:space="preserve">
         <source>NSA Archive</source>
-        <target>أرشيف</target>
+        <target>NSA أرشيف</target>
         <note/>
       </trans-unit>
       <trans-unit id="Now Compress Archive" xml:space="preserve">
@@ -187,27 +187,27 @@
       </trans-unit>
       <trans-unit id="PMA Archive" xml:space="preserve">
         <source>PMA Archive</source>
-        <target>أرشيف</target>
+        <target>PMA أرشيف</target>
         <note/>
       </trans-unit>
       <trans-unit id="PackIt Archive" xml:space="preserve">
         <source>PackIt Archive</source>
-        <target>أرشيف</target>
+        <target>PackIt أرشيف</target>
         <note/>
       </trans-unit>
       <trans-unit id="Pax Archive" xml:space="preserve">
         <source>Pax Archive</source>
-        <target>أرشيف</target>
+        <target>Pax أرشيف</target>
         <note/>
       </trans-unit>
       <trans-unit id="RAR Archive" xml:space="preserve">
         <source>RAR Archive</source>
-        <target>أرشيف</target>
+        <target>RAR أرشيف</target>
         <note/>
       </trans-unit>
       <trans-unit id="SAR Archive" xml:space="preserve">
         <source>SAR Archive</source>
-        <target>أرشيف</target>
+        <target>SAR أرشيف</target>
         <note/>
       </trans-unit>
       <trans-unit id="Self-Extracting Archive" xml:space="preserve">
@@ -217,67 +217,67 @@
       </trans-unit>
       <trans-unit id="Unix Compress File" xml:space="preserve">
         <source>Unix Compress File</source>
-        <target>ضغط ملف</target>
+        <target>Unix ضغط ملف</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unix Compress Tar Archive" xml:space="preserve">
         <source>Unix Compress Tar Archive</source>
-        <target>ضغط Tar أرشيف</target>
+        <target>Unix ضغط Tar أرشيف</target>
         <note/>
       </trans-unit>
       <trans-unit id="WARC Web Archive" xml:space="preserve">
         <source>WARC Web Archive</source>
-        <target>أرشيف</target>
+        <target>WARC Web أرشيف</target>
         <note/>
       </trans-unit>
       <trans-unit id="XAR Archive" xml:space="preserve">
         <source>XAR Archive</source>
-        <target>أرشيف</target>
+        <target>XAR أرشيف</target>
         <note/>
       </trans-unit>
       <trans-unit id="XIP Archive" xml:space="preserve">
         <source>XIP Archive</source>
-        <target>أرشيف</target>
+        <target>XIP أرشيف</target>
         <note/>
       </trans-unit>
       <trans-unit id="XZ Archive" xml:space="preserve">
         <source>XZ Archive</source>
-        <target>أرشيف</target>
+        <target>XZ أرشيف</target>
         <note/>
       </trans-unit>
       <trans-unit id="XZ Tarball Archive" xml:space="preserve">
         <source>XZ Tarball Archive</source>
-        <target>أرشيف</target>
+        <target>XZ Tarball أرشيف</target>
         <note/>
       </trans-unit>
       <trans-unit id="ZIP Archive" xml:space="preserve">
         <source>ZIP Archive</source>
-        <target>أرشيف</target>
+        <target>ZIP أرشيف</target>
         <note/>
       </trans-unit>
       <trans-unit id="ZIPX Archive" xml:space="preserve">
         <source>ZIPX Archive</source>
-        <target>أرشيف</target>
+        <target>ZIPX أرشيف</target>
         <note/>
       </trans-unit>
       <trans-unit id="ZOO Archive" xml:space="preserve">
         <source>ZOO Archive</source>
-        <target>أرشيف</target>
+        <target>ZOO أرشيف</target>
         <note/>
       </trans-unit>
       <trans-unit id="Zstandard Archive" xml:space="preserve">
         <source>Zstandard Archive</source>
-        <target>أرشيف</target>
+        <target>Zstandard أرشيف</target>
         <note/>
       </trans-unit>
       <trans-unit id="Zstandard Tarball Archive" xml:space="preserve">
         <source>Zstandard Tarball Archive</source>
-        <target>أرشيف</target>
+        <target>Zstandard Tarball أرشيف</target>
         <note/>
       </trans-unit>
     </body>
   </file>
-  <file original="Keka/en.lproj/Localizable.strings" source-language="en" target-language="ar" datatype="plaintext">
+  <file original="Keka/ar.lproj/Localizable.strings" source-language="ar" target-language="ar" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.3.1" build-num="14E300c"/>
     </header>
@@ -294,28 +294,28 @@
       </trans-unit>
       <trans-unit id="%@ item" xml:space="preserve">
         <source>%@ item</source>
-        <target>عنصر</target>
+        <target>%@ عنصر</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ items" xml:space="preserve">
         <source>%@ items</source>
-        <target>عناصر</target>
+        <target>%@ عناصر</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ of %@ item" xml:space="preserve">
         <source>%@ of %@ item</source>
-        <target>عنصر</target>
+        <target>%@ of %@ عنصر</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ of %@ items" xml:space="preserve">
         <source>%@ of %@ items</source>
-        <target>عناصر</target>
+        <target>%@ of %@ عناصر</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="ARCHIVE_DEFAULT_NAME" xml:space="preserve">
         <source>Archive</source>
         <target>Archive</target>
-        <note>Default compression file name.</note>
+        <note>إسم ملف الضغط الإفتراضي.</note>
       </trans-unit>
       <trans-unit id="About" xml:space="preserve">
         <source>About</source>
@@ -626,12 +626,12 @@
       </trans-unit>
       <trans-unit id="Keka's Folder" xml:space="preserve">
         <source>Keka's Folder</source>
-        <target>مجلد</target>
+        <target>Keka مجلد</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Keka's icon" xml:space="preserve">
         <source>Keka's icon</source>
-        <target>أيقونة</target>
+        <target>Keka's أيقونة</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Kind" xml:space="preserve">
@@ -966,7 +966,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="KekaBrowseAction/en.lproj/InfoPlist.strings" source-language="en" target-language="ar" datatype="plaintext">
+  <file original="KekaBrowseAction/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.3.1" build-num="14E300c"/>
     </header>
@@ -978,7 +978,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="KekaCompressionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="ar" datatype="plaintext">
+  <file original="KekaCompressionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.3.1" build-num="14E300c"/>
     </header>
@@ -990,7 +990,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="KekaExtractionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="ar" datatype="plaintext">
+  <file original="KekaExtractionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.3.1" build-num="14E300c"/>
     </header>
