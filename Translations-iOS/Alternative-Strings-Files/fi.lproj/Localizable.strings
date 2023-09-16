@@ -1,10 +1,4 @@
 /* No comment provided by engineer. */
-"\"%@\"" = "\"%@\"";
-
-/* No comment provided by engineer. */
-"%@" = "%@";
-
-/* No comment provided by engineer. */
 "%@ item" = "%@ kohde";
 
 /* No comment provided by engineer. */
@@ -149,10 +143,10 @@
 "Document" = "Asiakirja";
 
 /* No comment provided by engineer. */
-"done" = "valmis";
+"Done" = "Valmis";
 
 /* No comment provided by engineer. */
-"Done" = "Valmis";
+"done" = "valmis";
 
 /* No comment provided by engineer. */
 "Edit" = "Muokkaa";

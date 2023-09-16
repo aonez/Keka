@@ -1,162 +1,162 @@
-/* No comment provided by engineer. */
-"7Z Archive" = "أرشيف";
+/* (No Comment) */
+"7Z Archive" = "7Z أرشيف";
 
-/* No comment provided by engineer. */
-"ACE Archive" = "أرشيف";
+/* (No Comment) */
+"ACE Archive" = "ACE أرشيف";
 
-/* No comment provided by engineer. */
-"ALZip Archive" = "أرشيف";
+/* (No Comment) */
+"ALZip Archive" = "ALZip أرشيف";
 
-/* No comment provided by engineer. */
-"APPX Archive" = "أرشيف";
+/* (No Comment) */
+"Amiga DCS Disk Archive" = "Amiga DCS Disk أرشيف";
 
-/* No comment provided by engineer. */
-"ARC Archive" = "أرشيف";
+/* (No Comment) */
+"Amiga Disk File" = "Amiga قرص  ملفات";
 
-/* No comment provided by engineer. */
-"ARJ Archive" = "أرشيف";
+/* (No Comment) */
+"Amiga DMS Disk Archive" = "Amiga DMS Disk أرشيف";
 
-/* No comment provided by engineer. */
-"Amiga DCS Disk Archive" = "أرشيف";
+/* (No Comment) */
+"Amiga PackDev Disk Archive" = "Amiga PackDev Disk أرشيف";
 
-/* No comment provided by engineer. */
-"Amiga DMS Disk Archive" = "أرشيف";
+/* (No Comment) */
+"Amiga PowerPacker Archive" = "Amiga PowerPacker أرشيف";
 
-/* No comment provided by engineer. */
-"Amiga Disk File" = "قرص  ملفات";
+/* (No Comment) */
+"Amiga xMash Disk Archive" = "Amiga xMash Disk أرشيف";
 
-/* No comment provided by engineer. */
-"Amiga PackDev Disk Archive" = "أرشيف";
+/* (No Comment) */
+"Amiga Zoom Disk Archive" = "Amiga Zoom Disk أرشيف";
 
-/* No comment provided by engineer. */
-"Amiga PowerPacker Archive" = "أرشيف";
-
-/* No comment provided by engineer. */
-"Amiga Zoom Disk Archive" = "أرشيف";
-
-/* No comment provided by engineer. */
-"Amiga xMash Disk Archive" = "أرشيف";
-
-/* No comment provided by engineer. */
+/* (No Comment) */
 "Android Application Package" = "حزمة تطبيق الاندرويد";
 
-/* No comment provided by engineer. */
-"BZIP2 Archive" = "أرشيف";
+/* (No Comment) */
+"APPX Archive" = "APPX أرشيف";
 
-/* No comment provided by engineer. */
-"BZIP2 Tarball Archive" = "أرشيف";
+/* (No Comment) */
+"ARC Archive" = "ARC أرشيف";
 
-/* No comment provided by engineer. */
-"CAB Archive" = "أرشيف";
+/* (No Comment) */
+"ARJ Archive" = "ARJ أرشيف";
 
-/* No comment provided by engineer. */
+/* (No Comment) */
+"BZIP2 Archive" = "BZIP2 أرشيف";
+
+/* (No Comment) */
+"BZIP2 Tarball Archive" = "BZIP2 Tarball أرشيف";
+
+/* (No Comment) */
+"CAB Archive" = "CAB أرشيف";
+
+/* (No Comment) */
 "CDI Disk Image" = "CDI Disk Image";
 
-/* No comment provided by engineer. */
-"Compact Pro Archive" = "أرشيف";
+/* (No Comment) */
+"Compact Pro Archive" = "Compact Pro أرشيف";
 
-/* No comment provided by engineer. */
+/* (No Comment) */
 "Compressed Amiga Disk File" = "مضغوط Amiga قرص ملف";
 
-/* No comment provided by engineer. */
-"Deb Archive" = "أرشيف";
+/* (No Comment) */
+"Deb Archive" = "Deb أرشيف";
 
-/* No comment provided by engineer. */
-"DiskDoubler Archive" = "أرشيف";
+/* (No Comment) */
+"DiskDoubler Archive" = "DiskDoubler أرشيف";
 
-/* No comment provided by engineer. */
-"Generic Archive Volume" = "أرشيف مجلد";
+/* (No Comment) */
+"Generic Archive Volume" = "Generic أرشيف مجلد";
 
-/* No comment provided by engineer. */
-"HA Archive" = "أرشيف";
+/* (No Comment) */
+"HA Archive" = "HA أرشيف";
 
-/* No comment provided by engineer. */
-"Keka Extraction Package" = "الاستخراج حزمة";
+/* (No Comment) */
+"Keka Extraction Package" = "Keka الاستخراج حزمة";
 
-/* No comment provided by engineer. */
-"LBR Archive" = "مجلد";
+/* (No Comment) */
+"LBR Archive" = "LBR مجلد";
 
-/* No comment provided by engineer. */
-"LZMA File" = "ملف";
+/* (No Comment) */
+"LhA Archive" = "LhA أرشيف";
 
-/* No comment provided by engineer. */
-"LZX Archive" = "أرشيف";
+/* (No Comment) */
+"LhF Archive" = "LhF أرشيف";
 
-/* No comment provided by engineer. */
-"LhA Archive" = "أرشيف";
+/* (No Comment) */
+"Linux RPM Archive" = "Linux RPM أرشيف";
 
-/* No comment provided by engineer. */
-"LhF Archive" = "أرشيف";
+/* (No Comment) */
+"LZMA File" = "LZMA ملف";
 
-/* No comment provided by engineer. */
-"Linux RPM Archive" = "أرشيف";
+/* (No Comment) */
+"LZX Archive" = "LZX أرشيف";
 
-/* No comment provided by engineer. */
+/* (No Comment) */
 "MDF Disk Image" = "MDF Disk Image";
 
-/* No comment provided by engineer. */
+/* (No Comment) */
 "Microsoft MSI Installer" = "مايكروسوفت MSI مثبت";
 
-/* No comment provided by engineer. */
-"NRG Disk Image" = "NRG Disk Image";
-
-/* No comment provided by engineer. */
-"NSA Archive" = "أرشيف";
-
-/* No comment provided by engineer. */
+/* (No Comment) */
 "Now Compress Archive" = "الان إضغط الأرشيف";
 
-/* No comment provided by engineer. */
-"PMA Archive" = "أرشيف";
+/* (No Comment) */
+"NRG Disk Image" = "NRG Disk Image";
 
-/* No comment provided by engineer. */
-"PackIt Archive" = "أرشيف";
+/* (No Comment) */
+"NSA Archive" = "NSA أرشيف";
 
-/* No comment provided by engineer. */
-"Pax Archive" = "أرشيف";
+/* (No Comment) */
+"PackIt Archive" = "PackIt أرشيف";
 
-/* No comment provided by engineer. */
-"RAR Archive" = "أرشيف";
+/* (No Comment) */
+"Pax Archive" = "Pax أرشيف";
 
-/* No comment provided by engineer. */
-"SAR Archive" = "أرشيف";
+/* (No Comment) */
+"PMA Archive" = "PMA أرشيف";
 
-/* No comment provided by engineer. */
+/* (No Comment) */
+"RAR Archive" = "RAR أرشيف";
+
+/* (No Comment) */
+"SAR Archive" = "SAR أرشيف";
+
+/* (No Comment) */
 "Self-Extracting Archive" = "استخراج ذاتي أرشيف";
 
-/* No comment provided by engineer. */
-"Unix Compress File" = "ضغط ملف";
+/* (No Comment) */
+"Unix Compress File" = "Unix ضغط ملف";
 
-/* No comment provided by engineer. */
-"Unix Compress Tar Archive" = "ضغط Tar أرشيف";
+/* (No Comment) */
+"Unix Compress Tar Archive" = "Unix ضغط Tar أرشيف";
 
-/* No comment provided by engineer. */
-"WARC Web Archive" = "أرشيف";
+/* (No Comment) */
+"WARC Web Archive" = "WARC Web أرشيف";
 
-/* No comment provided by engineer. */
-"XAR Archive" = "أرشيف";
+/* (No Comment) */
+"XAR Archive" = "XAR أرشيف";
 
-/* No comment provided by engineer. */
-"XIP Archive" = "أرشيف";
+/* (No Comment) */
+"XIP Archive" = "XIP أرشيف";
 
-/* No comment provided by engineer. */
-"XZ Archive" = "أرشيف";
+/* (No Comment) */
+"XZ Archive" = "XZ أرشيف";
 
-/* No comment provided by engineer. */
-"XZ Tarball Archive" = "أرشيف";
+/* (No Comment) */
+"XZ Tarball Archive" = "XZ Tarball أرشيف";
 
-/* No comment provided by engineer. */
-"ZIP Archive" = "أرشيف";
+/* (No Comment) */
+"ZIP Archive" = "ZIP أرشيف";
 
-/* No comment provided by engineer. */
-"ZIPX Archive" = "أرشيف";
+/* (No Comment) */
+"ZIPX Archive" = "ZIPX أرشيف";
 
-/* No comment provided by engineer. */
-"ZOO Archive" = "أرشيف";
+/* (No Comment) */
+"ZOO Archive" = "ZOO أرشيف";
 
-/* No comment provided by engineer. */
-"Zstandard Archive" = "أرشيف";
+/* (No Comment) */
+"Zstandard Archive" = "Zstandard أرشيف";
 
-/* No comment provided by engineer. */
-"Zstandard Tarball Archive" = "أرشيف";
+/* (No Comment) */
+"Zstandard Tarball Archive" = "Zstandard Tarball أرشيف";
 

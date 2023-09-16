@@ -1,10 +1,4 @@
 /* No comment provided by engineer. */
-"\"%@\"" = "\"%@\"";
-
-/* No comment provided by engineer. */
-"%@" = "%@";
-
-/* No comment provided by engineer. */
 "%@ item" = "%@ đơn vị";
 
 /* No comment provided by engineer. */
@@ -143,10 +137,10 @@
 "Document" = "Văn thư";
 
 /* No comment provided by engineer. */
-"done" = "hoàn thành";
+"Done" = "Hoàn thành";
 
 /* No comment provided by engineer. */
-"Done" = "Hoàn thành";
+"done" = "hoàn thành";
 
 /* No comment provided by engineer. */
 "Edit" = "Sửa";

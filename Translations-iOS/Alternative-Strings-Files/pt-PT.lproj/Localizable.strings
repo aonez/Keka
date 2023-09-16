@@ -1,10 +1,4 @@
 /* No comment provided by engineer. */
-"\"%@\"" = "\"%@\"";
-
-/* No comment provided by engineer. */
-"%@" = "%@";
-
-/* No comment provided by engineer. */
 "%@ item" = "%@ item";
 
 /* No comment provided by engineer. */
@@ -149,10 +143,10 @@
 "Document" = "Documento";
 
 /* No comment provided by engineer. */
-"done" = "concluída";
+"Done" = "Concluído";
 
 /* No comment provided by engineer. */
-"Done" = "Concluído";
+"done" = "concluída";
 
 /* No comment provided by engineer. */
 "Edit" = "Editar";

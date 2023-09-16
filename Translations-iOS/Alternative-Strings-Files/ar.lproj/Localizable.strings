@@ -1,23 +1,14 @@
 /* No comment provided by engineer. */
-"\"%@\"" = "\"%@\"";
+"%@ item" = "%@ عنصر";
 
 /* No comment provided by engineer. */
-"%@" = "%@";
+"%@ items" = "%@ عناصر";
 
 /* No comment provided by engineer. */
-"%@ item" = "عنصر";
+"%@ of %@ item" = "%@ of %@ عنصر";
 
 /* No comment provided by engineer. */
-"%@ items" = "عناصر";
-
-/* No comment provided by engineer. */
-"%@ of %@ item" = "عنصر";
-
-/* No comment provided by engineer. */
-"%@ of %@ items" = "عناصر";
-
-/* إسم ملف الضغط الإفتراضي. */
-"ARCHIVE_DEFAULT_NAME" = "Archive";
+"%@ of %@ items" = "%@ of %@ عناصر";
 
 /* No comment provided by engineer. */
 "About" = "حول";
@@ -37,6 +28,9 @@
 /* No comment provided by engineer. */
 "Allocated size" = "الحجم المخصص";
 
+/* إسم ملف الضغط الإفتراضي. */
+"ARCHIVE_DEFAULT_NAME" = "Archive";
+
 /* No comment provided by engineer. */
 "Ask" = "إسأل";
 
@@ -52,14 +46,8 @@
 /* Browser settings title. */
 "Browser" = "متصفح";
 
-/* Compression, operation description. */
-"COMPRESSION_OPERATION" = "ضغط";
-
-/* Compressing, operation running. */
-"COMPRESSION_RUNNING" = "جاري الضغط";
-
-/* Compressing, tasks section title. */
-"COMPRESSION_SECTION_TITLE" = "ضغط";
+/* "by aone" part from "Made with love by aone". */
+"by %@" = "بواسطة %@";
 
 /* No comment provided by engineer. */
 "Calculate" = "إحسب";
@@ -86,13 +74,28 @@
 "Compress" = "ضغط";
 
 /* No comment provided by engineer. */
+"compressed" = "مضغوط";
+
+/* No comment provided by engineer. */
 "Compressed size" = "ملف مضغوط";
 
 /* Compression settings title. */
 "Compression" = "ضغط";
 
 /* No comment provided by engineer. */
+"compression failed" = "فشل الضغط";
+
+/* No comment provided by engineer. */
 "Compression Level:" = "مستوى الضغط:";
+
+/* Compression, operation description. */
+"COMPRESSION_OPERATION" = "ضغط";
+
+/* Compressing, operation running. */
+"COMPRESSION_RUNNING" = "جاري الضغط";
+
+/* Compressing, tasks section title. */
+"COMPRESSION_SECTION_TITLE" = "ضغط";
 
 /* No comment provided by engineer. */
 "Contents" = "محتويات";
@@ -142,14 +145,8 @@
 /* No comment provided by engineer. */
 "Done" = "تم";
 
-/* Extraction, operation description. */
-"EXTRACTION_OPERATION" = "فك الضغط";
-
-/* Extracting, operation running. */
-"EXTRACTION_RUNNING" = "جاري فك الضغط";
-
-/* Extracting, tasks section title. */
-"EXTRACTION_SECTION_TITLE" = "فك الضغط";
+/* No comment provided by engineer. */
+"done" = "تم";
 
 /* No comment provided by engineer. */
 "Edit" = "تعديل";
@@ -169,8 +166,26 @@
 /* No comment provided by engineer. */
 "Extract the file" = "فك ضغط الملف";
 
+/* No comment provided by engineer. */
+"extracted" = "المفكوك عنها الضغط";
+
 /* Extraction settings title. */
 "Extraction" = "فك الضغط";
+
+/* No comment provided by engineer. */
+"extraction failed" = "فشل فك الضغط";
+
+/* Extraction, operation description. */
+"EXTRACTION_OPERATION" = "فك الضغط";
+
+/* Extracting, operation running. */
+"EXTRACTION_RUNNING" = "جاري فك الضغط";
+
+/* Extracting, tasks section title. */
+"EXTRACTION_SECTION_TITLE" = "فك الضغط";
+
+/* No comment provided by engineer. */
+"failed" = "فشل";
 
 /* No comment provided by engineer. */
 "Fast" = "سريع";
@@ -203,10 +218,10 @@
 "Information" = "معلومات";
 
 /* No comment provided by engineer. */
-"Keka's Folder" = "مجلد";
+"Keka's Folder" = "Keka مجلد";
 
 /* No comment provided by engineer. */
-"Keka's icon" = "أيقونة";
+"Keka's icon" = "Keka's أيقونة";
 
 /* No comment provided by engineer. */
 "Kind" = "نوع";
@@ -307,12 +322,6 @@
 /* No comment provided by engineer. */
 "Store" = "تخزين";
 
-/* The translator link, if any. Can be a mail address or a website. */
-"TRANSLATOR_LINK" = "https://x.com/mr_thamer";
-
-/* The translator name, if any. */
-"TRANSLATOR_NAME" = "Thamer AlGhali";
-
 /* No comment provided by engineer. */
 "The %@ of space available in the destination might not be enough for compressing the estimated %@." = "الـ %@ المساحة المتوفرة في الوجهة قد لا تكون كافية لضغط المساحة المقدرة %@.";
 
@@ -346,6 +355,12 @@
 /* No comment provided by engineer. */
 "Translated by %@" = "تم ترجمته بواسطة %@";
 
+/* The translator link, if any. Can be a mail address or a website. */
+"TRANSLATOR_LINK" = "https://x.com/mr_thamer";
+
+/* The translator name, if any. */
+"TRANSLATOR_NAME" = "Thamer AlGhali";
+
 /* No comment provided by engineer. */
 "Type" = "نوع";
 
@@ -368,10 +383,10 @@
 "Use AES-256 if Available" = "استخدم AES-256 ان كان متاحاً";
 
 /* No comment provided by engineer. */
-"Use UTF-8 Encoding if Available" = "استخدم ترميز UTF-8 ترميز ان كان متاحاً";
+"Use special coloring for known formats" = "استخدم تلوينًا خاصًا للتنسيقات المعروفة";
 
 /* No comment provided by engineer. */
-"Use special coloring for known formats" = "استخدم تلوينًا خاصًا للتنسيقات المعروفة";
+"Use UTF-8 Encoding if Available" = "استخدم ترميز UTF-8 ترميز ان كان متاحاً";
 
 /* No comment provided by engineer. */
 "Volume Size" = "حجم وحدة التخزيم";
@@ -384,25 +399,4 @@
 
 /* No comment provided by engineer. */
 "Where" = "أين";
-
-/* "by aone" part from "Made with love by aone". */
-"by %@" = "بواسطة %@";
-
-/* No comment provided by engineer. */
-"compressed" = "مضغوط";
-
-/* No comment provided by engineer. */
-"compression failed" = "فشل الضغط";
-
-/* No comment provided by engineer. */
-"done" = "تم";
-
-/* No comment provided by engineer. */
-"extracted" = "المفكوك عنها الضغط";
-
-/* No comment provided by engineer. */
-"extraction failed" = "فشل فك الضغط";
-
-/* No comment provided by engineer. */
-"failed" = "فشل";
 

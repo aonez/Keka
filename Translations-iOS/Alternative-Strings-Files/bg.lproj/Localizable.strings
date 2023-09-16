@@ -1,10 +1,4 @@
 /* No comment provided by engineer. */
-"\"%@\"" = "\"%@\"";
-
-/* No comment provided by engineer. */
-"%@" = "%@";
-
-/* No comment provided by engineer. */
 "%@ item" = "%@ елемент";
 
 /* No comment provided by engineer. */
@@ -149,10 +143,10 @@
 "Document" = "Документ";
 
 /* No comment provided by engineer. */
-"done" = "готово";
+"Done" = "Готово";
 
 /* No comment provided by engineer. */
-"Done" = "Готово";
+"done" = "готово";
 
 /* No comment provided by engineer. */
 "Edit" = "Редактиране";
