@@ -65,6 +65,9 @@
 "DiskDoubler Archive" = "DiskDoubler-arkiv";
 
 /* (No Comment) */
+"Generic Archive Volume" = "Generic Archive Volume"; // THIS IS NOT LOCALIZED
+
+/* (No Comment) */
 "HA Archive" = "HA-arkiv";
 
 /* (No Comment) */

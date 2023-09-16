@@ -68,6 +68,9 @@
 "Close" = "Cerrar";
 
 /* No comment provided by engineer. */
+"Comments" = "Comments"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Compress" = "Comprimir";
 
 /* No comment provided by engineer. */

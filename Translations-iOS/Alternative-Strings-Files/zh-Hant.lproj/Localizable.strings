@@ -68,6 +68,9 @@
 "Close" = "關閉";
 
 /* No comment provided by engineer. */
+"Comments" = "Comments"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Compress" = "壓縮";
 
 /* No comment provided by engineer. */
@@ -120,6 +123,9 @@
 
 /* No comment provided by engineer. */
 "Default Tap Action" = "預設點擊動作";
+
+/* No comment provided by engineer. */
+"Default Volume Unit" = "Default Volume Unit"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Delete" = "刪除";
@@ -311,6 +317,9 @@
 "Slowest" = "最慢";
 
 /* No comment provided by engineer. */
+"Split in volumes" = "Split in volumes"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Store" = "存儲";
 
 /* No comment provided by engineer. */
@@ -378,6 +387,9 @@
 
 /* No comment provided by engineer. */
 "Use UTF-8 Encoding if Available" = "如果可用就使用 UTF-8 編碼";
+
+/* No comment provided by engineer. */
+"Volume Size" = "Volume Size"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Welcome" = "歡迎";

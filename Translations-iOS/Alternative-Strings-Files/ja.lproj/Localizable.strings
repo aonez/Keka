@@ -140,10 +140,13 @@
 "Dismiss" = "中止する";
 
 /* No comment provided by engineer. */
-"done" = "完了";
+"Document" = "Document"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Done" = "完了";
+
+/* No comment provided by engineer. */
+"done" = "完了";
 
 /* No comment provided by engineer. */
 "Edit" = "編集";

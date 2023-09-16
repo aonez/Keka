@@ -68,6 +68,9 @@
 "Close" = "Stäng";
 
 /* No comment provided by engineer. */
+"Comments" = "Comments"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Compress" = "Komprimera";
 
 /* No comment provided by engineer. */
@@ -120,6 +123,9 @@
 
 /* No comment provided by engineer. */
 "Default Tap Action" = "Standard-tryckåtgärd";
+
+/* No comment provided by engineer. */
+"Default Volume Unit" = "Default Volume Unit"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Delete" = "Radera";
@@ -311,6 +317,9 @@
 "Slowest" = "Långsammast";
 
 /* No comment provided by engineer. */
+"Split in volumes" = "Split in volumes"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Store" = "Lagra";
 
 /* No comment provided by engineer. */
@@ -378,6 +387,9 @@
 
 /* No comment provided by engineer. */
 "Use UTF-8 Encoding if Available" = "Använd UTF-8-kodning om tillgängligt";
+
+/* No comment provided by engineer. */
+"Volume Size" = "Volume Size"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Welcome" = "Välkommen";
