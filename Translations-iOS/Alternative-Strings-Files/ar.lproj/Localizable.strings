@@ -28,7 +28,7 @@
 /* No comment provided by engineer. */
 "Allocated size" = "الحجم المخصص";
 
-/* إسم ملف الضغط الإفتراضي. */
+/* Default compression file name. */
 "ARCHIVE_DEFAULT_NAME" = "Archive";
 
 /* No comment provided by engineer. */

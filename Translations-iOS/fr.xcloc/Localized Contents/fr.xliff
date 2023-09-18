@@ -417,6 +417,7 @@
       </trans-unit>
       <trans-unit id="Comments" xml:space="preserve">
         <source>Comments</source>
+        <target>Commentaires</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Compress" xml:space="preserve">

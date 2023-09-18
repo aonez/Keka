@@ -284,12 +284,10 @@
     <body>
       <trans-unit id="&quot;%@&quot;" xml:space="preserve">
         <source>"%@"</source>
-        <target>"%@"</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@" xml:space="preserve">
         <source>%@</source>
-        <target>%@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ item" xml:space="preserve">
@@ -315,7 +313,7 @@
       <trans-unit id="ARCHIVE_DEFAULT_NAME" xml:space="preserve">
         <source>Archive</source>
         <target>Archive</target>
-        <note>إسم ملف الضغط الإفتراضي.</note>
+        <note>Default compression file name.</note>
       </trans-unit>
       <trans-unit id="About" xml:space="preserve">
         <source>About</source>
