@@ -283,12 +283,10 @@
     <body>
       <trans-unit id="&quot;%@&quot;" xml:space="preserve">
         <source>"%@"</source>
-        <target>"%@"</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@" xml:space="preserve">
         <source>%@</source>
-        <target>%@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ item" xml:space="preserve">
@@ -513,7 +511,6 @@
       </trans-unit>
       <trans-unit id="Document" xml:space="preserve">
         <source>Document</source>
-        <target>Documento</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
@@ -614,7 +611,7 @@
       </trans-unit>
       <trans-unit id="If you got here, please get in touch with the developers." xml:space="preserve">
         <source>If you got here, please get in touch with the developers.</source>
-        <target>Se chegou até aqui, por favor contacte os desenvolvedores.</target>
+        <target>Por favor entre em contacto com os desenvolvedores.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Information" xml:space="preserve">
@@ -799,17 +796,17 @@
       </trans-unit>
       <trans-unit id="TRANSLATOR_LINK" xml:space="preserve">
         <source>TRANSLATOR_LINK</source>
-        <target>Link do tradutor </target>
+        <target>https://twitter.com/jram15_ </target>
         <note>The translator link, if any. Can be a mail address or a website.</note>
       </trans-unit>
       <trans-unit id="TRANSLATOR_NAME" xml:space="preserve">
         <source>TRANSLATOR_NAME</source>
-        <target>Nome do tradutor</target>
+        <target>Jose R.A. Mota</target>
         <note>The translator name, if any.</note>
       </trans-unit>
       <trans-unit id="The %@ of space available in the destination might not be enough for compressing the estimated %@." xml:space="preserve">
         <source>The %@ of space available in the destination might not be enough for compressing the estimated %@.</source>
-        <target>The %@ of space available in the destination might not be enough for compressing the estimated %@.</target>
+        <target>O %@ de espaço disponível no destino pode não ser suficiente para compactar o %@ estimado.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The changes could not be saved" xml:space="preserve">
@@ -955,7 +952,7 @@
       </trans-unit>
       <trans-unit id="extraction failed" xml:space="preserve">
         <source>extraction failed</source>
-        <target>extração failhou</target>
+        <target>extração falhou</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="failed" xml:space="preserve">
@@ -972,7 +969,7 @@
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>Browse with Keka</source>
-        <target>Browse with Keka</target>
+        <target>Abrir com Keka</target>
         <note>Bundle display name</note>
       </trans-unit>
     </body>
@@ -984,7 +981,7 @@
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>Compress using Keka</source>
-        <target>Compress using Keka</target>
+        <target>Comprimir com Keka</target>
         <note>Bundle display name</note>
       </trans-unit>
     </body>
@@ -996,7 +993,7 @@
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>Extract using Keka</source>
-        <target>Extract using Keka</target>
+        <target>Extrair usando Keka</target>
         <note>Bundle display name</note>
       </trans-unit>
     </body>
