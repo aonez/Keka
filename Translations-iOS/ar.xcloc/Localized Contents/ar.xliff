@@ -312,7 +312,7 @@
       </trans-unit>
       <trans-unit id="ARCHIVE_DEFAULT_NAME" xml:space="preserve">
         <source>Archive</source>
-        <target>Archive</target>
+        <target>أرشيف</target>
         <note>Default compression file name.</note>
       </trans-unit>
       <trans-unit id="About" xml:space="preserve">
@@ -322,7 +322,7 @@
       </trans-unit>
       <trans-unit id="Actions" xml:space="preserve">
         <source>Actions</source>
-        <target>أوضاع</target>
+        <target>الأوضاع</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Add a File" xml:space="preserve">
@@ -352,7 +352,7 @@
       </trans-unit>
       <trans-unit id="BROWSE_OPERATION" xml:space="preserve">
         <source>Browse</source>
-        <target>إستعراض</target>
+        <target>معاينة</target>
         <note>Browse, operation description.</note>
       </trans-unit>
       <trans-unit id="BROWSE_RUNNING" xml:space="preserve">
@@ -367,12 +367,12 @@
       </trans-unit>
       <trans-unit id="Browser" xml:space="preserve">
         <source>Browser</source>
-        <target>متصفح</target>
+        <target>التصفح</target>
         <note>Browser settings title.</note>
       </trans-unit>
       <trans-unit id="COMPRESSION_OPERATION" xml:space="preserve">
         <source>Compression</source>
-        <target>ضغط</target>
+        <target>ضغط الملفات</target>
         <note>Compression, operation description.</note>
       </trans-unit>
       <trans-unit id="COMPRESSION_RUNNING" xml:space="preserve">
@@ -382,7 +382,7 @@
       </trans-unit>
       <trans-unit id="COMPRESSION_SECTION_TITLE" xml:space="preserve">
         <source>Compressing</source>
-        <target>ضغط</target>
+        <target>ضغط الملفات</target>
         <note>Compressing, tasks section title.</note>
       </trans-unit>
       <trans-unit id="Calculate" xml:space="preserve">
@@ -402,12 +402,12 @@
       </trans-unit>
       <trans-unit id="Clear Cache" xml:space="preserve">
         <source>Clear Cache</source>
-        <target>مسح ذاكرة التخزين المؤقت</target>
+        <target>مسح ذاكرة التخزين المؤقتة</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Clear Cache Contents" xml:space="preserve">
         <source>Clear Cache Contents</source>
-        <target>مسح محتويات ذاكرة التخزين المؤقت</target>
+        <target>مسح محتويات ذاكرة التخزين المؤقتة</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Close" xml:space="preserve">
@@ -432,7 +432,7 @@
       </trans-unit>
       <trans-unit id="Compression" xml:space="preserve">
         <source>Compression</source>
-        <target>ضغط</target>
+        <target>الضغط</target>
         <note>Compression settings title.</note>
       </trans-unit>
       <trans-unit id="Compression Level:" xml:space="preserve">
@@ -442,7 +442,7 @@
       </trans-unit>
       <trans-unit id="Contents" xml:space="preserve">
         <source>Contents</source>
-        <target>محتويات</target>
+        <target>المحتويات</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Contents: %@, Size: %@" xml:space="preserve">
@@ -457,7 +457,7 @@
       </trans-unit>
       <trans-unit id="Custom..." xml:space="preserve">
         <source>Custom...</source>
-        <target>مخصص...</target>
+        <target>تخصيص...</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Date" xml:space="preserve">
@@ -472,7 +472,7 @@
       </trans-unit>
       <trans-unit id="Default Destination" xml:space="preserve">
         <source>Default Destination</source>
-        <target>الوجهة الافتراضية</target>
+        <target>مجلد الوجهة الافتراضية</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Default Format" xml:space="preserve">
@@ -497,12 +497,12 @@
       </trans-unit>
       <trans-unit id="Destination" xml:space="preserve">
         <source>Destination</source>
-        <target>وجهة</target>
+        <target>الوجهة</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Disable &quot;%@&quot; if you prefer to use a default configuration." xml:space="preserve">
         <source>Disable "%@" if you prefer to use a default configuration.</source>
-        <target>عطّل "%@" إذا كنت تفضل استخدام التكوين الافتراضي.</target>
+        <target>عطّل "%@" إن كنت تفضل استخدام التكوين الافتراضي.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Dismiss" xml:space="preserve">
@@ -522,7 +522,7 @@
       </trans-unit>
       <trans-unit id="EXTRACTION_OPERATION" xml:space="preserve">
         <source>Extraction</source>
-        <target>فك الضغط</target>
+        <target>فك ضغط الملفات</target>
         <note>Extraction, operation description.</note>
       </trans-unit>
       <trans-unit id="EXTRACTION_RUNNING" xml:space="preserve">
@@ -569,7 +569,7 @@
       </trans-unit>
       <trans-unit id="Extraction" xml:space="preserve">
         <source>Extraction</source>
-        <target>فك الضغط</target>
+        <target>فك ضغط الملفات</target>
         <note>Extraction settings title.</note>
       </trans-unit>
       <trans-unit id="Fast" xml:space="preserve">
@@ -594,7 +594,7 @@
       </trans-unit>
       <trans-unit id="Format" xml:space="preserve">
         <source>Format</source>
-        <target>صيغة</target>
+        <target>الصيغة</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="General" xml:space="preserve">
@@ -749,7 +749,7 @@
       </trans-unit>
       <trans-unit id="Reset All Settings" xml:space="preserve">
         <source>Reset All Settings</source>
-        <target>إستعادة كل الإعدادات</target>
+        <target>إستعادة جميع الإعدادات</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Review" xml:space="preserve">
@@ -789,7 +789,7 @@
       </trans-unit>
       <trans-unit id="Split in volumes" xml:space="preserve">
         <source>Split in volumes</source>
-        <target>تقسيم في وحدات تخزين</target>
+        <target>التقسيم في وحدات تخزين</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Store" xml:space="preserve">
@@ -817,6 +817,14 @@
         <target>التغييرات قد لاتحفظ</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="The character %@ is not compatilbe with the %@ format." xml:space="preserve">
+        <source>The character %@ is not compatilbe with the %@ format.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The characters %@ are not compatilbe with the %@ format." xml:space="preserve">
+        <source>The characters %@ are not compatilbe with the %@ format.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." xml:space="preserve">
         <source>The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread.</source>
         <target>قد يحتاج الضغط إلى ذاكرة أكبر من المتوفرة (%@) وربما لا تكتمل بنجاح. سيقتصر على سلسلة واحدة.</target>
@@ -829,7 +837,7 @@
       </trans-unit>
       <trans-unit id="The destination has %@ of space available." xml:space="preserve">
         <source>The destination has %@ of space available.</source>
-        <target>الوجهة لديها %@ من المساحة المتاحة.</target>
+        <target>الوجهة المحددة لديها %@ من المساحة المتاحة.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The file manager for iOS and macOS" xml:space="preserve">
@@ -840,6 +848,10 @@
       <trans-unit id="The folder is empty" xml:space="preserve">
         <source>The folder is empty</source>
         <target>المجلد فارغ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The password length should be %lld or higher." xml:space="preserve">
+        <source>The password length should be %lld or higher.</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." xml:space="preserve">
@@ -899,7 +911,7 @@
       </trans-unit>
       <trans-unit id="Use UTF-8 Encoding if Available" xml:space="preserve">
         <source>Use UTF-8 Encoding if Available</source>
-        <target>استخدم ترميز UTF-8 ترميز ان كان متاحاً</target>
+        <target>استخدم ترميز UTF-8 ان كان متاحاً</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Use special coloring for known formats" xml:space="preserve">
@@ -909,7 +921,7 @@
       </trans-unit>
       <trans-unit id="Volume Size" xml:space="preserve">
         <source>Volume Size</source>
-        <target>حجم وحدة التخزيم</target>
+        <target>وحدة التخزين</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Welcome" xml:space="preserve">
@@ -934,7 +946,7 @@
       </trans-unit>
       <trans-unit id="compressed" xml:space="preserve">
         <source>compressed</source>
-        <target>مضغوط</target>
+        <target>تم الضغط</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="compression failed" xml:space="preserve">
@@ -949,7 +961,7 @@
       </trans-unit>
       <trans-unit id="extracted" xml:space="preserve">
         <source>extracted</source>
-        <target>المفكوك عنها الضغط</target>
+        <target>تم فك الضغط</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="extraction failed" xml:space="preserve">
