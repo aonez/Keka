@@ -14,7 +14,7 @@
 "About" = "حول";
 
 /* No comment provided by engineer. */
-"Actions" = "أوضاع";
+"Actions" = "الأوضاع";
 
 /* No comment provided by engineer. */
 "Add a File" = "أضف ملف";
@@ -29,13 +29,13 @@
 "Allocated size" = "الحجم المخصص";
 
 /* Default compression file name. */
-"ARCHIVE_DEFAULT_NAME" = "Archive";
+"ARCHIVE_DEFAULT_NAME" = "أرشيف";
 
 /* No comment provided by engineer. */
 "Ask" = "إسأل";
 
 /* Browse, operation description. */
-"BROWSE_OPERATION" = "إستعراض";
+"BROWSE_OPERATION" = "معاينة";
 
 /* Browsing, operation running. */
 "BROWSE_RUNNING" = "تصفح";
@@ -44,7 +44,7 @@
 "BROWSE_SECTION_TITLE" = "تصفح";
 
 /* Browser settings title. */
-"Browser" = "متصفح";
+"Browser" = "التصفح";
 
 /* "by aone" part from "Made with love by aone". */
 "by %@" = "بواسطة %@";
@@ -59,10 +59,10 @@
 "Choose" = "إختر";
 
 /* No comment provided by engineer. */
-"Clear Cache" = "مسح ذاكرة التخزين المؤقت";
+"Clear Cache" = "مسح ذاكرة التخزين المؤقتة";
 
 /* No comment provided by engineer. */
-"Clear Cache Contents" = "مسح محتويات ذاكرة التخزين المؤقت";
+"Clear Cache Contents" = "مسح محتويات ذاكرة التخزين المؤقتة";
 
 /* No comment provided by engineer. */
 "Close" = "إغلاق";
@@ -74,13 +74,13 @@
 "Compress" = "ضغط";
 
 /* No comment provided by engineer. */
-"compressed" = "مضغوط";
+"compressed" = "تم الضغط";
 
 /* No comment provided by engineer. */
 "Compressed size" = "ملف مضغوط";
 
 /* Compression settings title. */
-"Compression" = "ضغط";
+"Compression" = "الضغط";
 
 /* No comment provided by engineer. */
 "compression failed" = "فشل الضغط";
@@ -89,16 +89,16 @@
 "Compression Level:" = "مستوى الضغط:";
 
 /* Compression, operation description. */
-"COMPRESSION_OPERATION" = "ضغط";
+"COMPRESSION_OPERATION" = "ضغط الملفات";
 
 /* Compressing, operation running. */
 "COMPRESSION_RUNNING" = "جاري الضغط";
 
 /* Compressing, tasks section title. */
-"COMPRESSION_SECTION_TITLE" = "ضغط";
+"COMPRESSION_SECTION_TITLE" = "ضغط الملفات";
 
 /* No comment provided by engineer. */
-"Contents" = "محتويات";
+"Contents" = "المحتويات";
 
 /* No comment provided by engineer. */
 "Contents: %@, Size: %@" = "محتويات: %@, حجم: %@";
@@ -107,7 +107,7 @@
 "Created" = "تم إنشاؤها";
 
 /* No comment provided by engineer. */
-"Custom..." = "مخصص...";
+"Custom..." = "تخصيص...";
 
 /* No comment provided by engineer. */
 "Date" = "اليوم";
@@ -116,7 +116,7 @@
 "Default Compression Level" = "مستوى الضغط الإفتراضي";
 
 /* No comment provided by engineer. */
-"Default Destination" = "الوجهة الافتراضية";
+"Default Destination" = "مجلد الوجهة الافتراضية";
 
 /* No comment provided by engineer. */
 "Default Format" = "الصيغة الإفتراضية";
@@ -131,10 +131,10 @@
 "Delete" = "حذف";
 
 /* No comment provided by engineer. */
-"Destination" = "وجهة";
+"Destination" = "الوجهة";
 
 /* No comment provided by engineer. */
-"Disable \"%@\" if you prefer to use a default configuration." = "عطّل \"%@\" إذا كنت تفضل استخدام التكوين الافتراضي.";
+"Disable \"%@\" if you prefer to use a default configuration." = "عطّل \"%@\" إن كنت تفضل استخدام التكوين الافتراضي.";
 
 /* No comment provided by engineer. */
 "Dismiss" = "إلغاء";
@@ -167,16 +167,16 @@
 "Extract the file" = "فك ضغط الملف";
 
 /* No comment provided by engineer. */
-"extracted" = "المفكوك عنها الضغط";
+"extracted" = "تم فك الضغط";
 
 /* Extraction settings title. */
-"Extraction" = "فك الضغط";
+"Extraction" = "فك ضغط الملفات";
 
 /* No comment provided by engineer. */
 "extraction failed" = "فشل فك الضغط";
 
 /* Extraction, operation description. */
-"EXTRACTION_OPERATION" = "فك الضغط";
+"EXTRACTION_OPERATION" = "فك ضغط الملفات";
 
 /* Extracting, operation running. */
 "EXTRACTION_RUNNING" = "جاري فك الضغط";
@@ -200,7 +200,7 @@
 "File not informed properly, try again." = "الملف لم يبلغ بشكل صحيح, حاول مرة أخرى.";
 
 /* No comment provided by engineer. */
-"Format" = "صيغة";
+"Format" = "الصيغة";
 
 /* General settings title. */
 "General" = "عام";
@@ -293,7 +293,7 @@
 "Reset" = "إعادة تعيين";
 
 /* No comment provided by engineer. */
-"Reset All Settings" = "إستعادة كل الإعدادات";
+"Reset All Settings" = "إستعادة جميع الإعدادات";
 
 /* No comment provided by engineer. */
 "Review" = "مراجعة";
@@ -317,7 +317,7 @@
 "Slowest" = "أبطأ";
 
 /* No comment provided by engineer. */
-"Split in volumes" = "تقسيم في وحدات تخزين";
+"Split in volumes" = "التقسيم في وحدات تخزين";
 
 /* No comment provided by engineer. */
 "Store" = "تخزين";
@@ -335,7 +335,7 @@
 "The compression will be limited to %lld thread/s due to memory constraints." = "سيقتصر الضغط على %lld سلسلة لكل ثانية بسبب قيود الذاكرة.";
 
 /* No comment provided by engineer. */
-"The destination has %@ of space available." = "الوجهة لديها %@ من المساحة المتاحة.";
+"The destination has %@ of space available." = "الوجهة المحددة لديها %@ من المساحة المتاحة.";
 
 /* No comment provided by engineer. */
 "The file manager for iOS and macOS" = "مدير الملفات للـ iOS و macOS";
@@ -386,10 +386,10 @@
 "Use special coloring for known formats" = "استخدم تلوينًا خاصًا للتنسيقات المعروفة";
 
 /* No comment provided by engineer. */
-"Use UTF-8 Encoding if Available" = "استخدم ترميز UTF-8 ترميز ان كان متاحاً";
+"Use UTF-8 Encoding if Available" = "استخدم ترميز UTF-8 ان كان متاحاً";
 
 /* No comment provided by engineer. */
-"Volume Size" = "حجم وحدة التخزيم";
+"Volume Size" = "وحدة التخزين";
 
 /* No comment provided by engineer. */
 "Welcome" = "مرحباً";
