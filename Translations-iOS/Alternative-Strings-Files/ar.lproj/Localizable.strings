@@ -329,6 +329,12 @@
 "The changes could not be saved" = "التغييرات قد لاتحفظ";
 
 /* No comment provided by engineer. */
+"The character %@ is not compatilbe with the %@ format." = "The character %@ is not compatilbe with the %@ format."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"The characters %@ are not compatilbe with the %@ format." = "The characters %@ are not compatilbe with the %@ format."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "قد يحتاج الضغط إلى ذاكرة أكبر من المتوفرة (%@) وربما لا تكتمل بنجاح. سيقتصر على سلسلة واحدة.";
 
 /* No comment provided by engineer. */
@@ -342,6 +348,9 @@
 
 /* No comment provided by engineer. */
 "The folder is empty" = "المجلد فارغ";
+
+/* No comment provided by engineer. */
+"The password length should be %lld or higher." = "The password length should be %lld or higher."; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "كلما كان المستوى أبطأ، كلما أمكن تحقيق المزيد من الضغط. لا يقوم مستوى التخزين بعملية الضغط على الإطلاق، بل يقوم فقط بأرشفة المحتويات.";

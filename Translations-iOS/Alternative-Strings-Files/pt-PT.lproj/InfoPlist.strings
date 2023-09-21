@@ -65,7 +65,7 @@
 "DiskDoubler Archive" = "Arquivo de imagem DiskDoubler (DD)";
 
 /* (No Comment) */
-"Generic Archive Volume" = "Generic Archive Volume"; // THIS IS NOT LOCALIZED
+"Generic Archive Volume" = "Volume de arquivo comprimido genérico";
 
 /* (No Comment) */
 "HA Archive" = "Arquivo HA";

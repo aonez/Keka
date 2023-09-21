@@ -117,6 +117,7 @@
       </trans-unit>
       <trans-unit id="Generic Archive Volume" xml:space="preserve">
         <source>Generic Archive Volume</source>
+        <target>Volume de arquivo comprimido genérico</target>
         <note/>
       </trans-unit>
       <trans-unit id="HA Archive" xml:space="preserve">
@@ -511,6 +512,7 @@
       </trans-unit>
       <trans-unit id="Document" xml:space="preserve">
         <source>Document</source>
+        <target>Documento</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
@@ -814,6 +816,16 @@
         <target>As alterções não podem ser guardadas</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="The character %@ is not compatilbe with the %@ format." xml:space="preserve">
+        <source>The character %@ is not compatilbe with the %@ format.</source>
+        <target>O caractere %@ não é compatível com o formato %@.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The characters %@ are not compatilbe with the %@ format." xml:space="preserve">
+        <source>The characters %@ are not compatilbe with the %@ format.</source>
+        <target>Os caracteres %@ não são compatíveis com o formato %@.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." xml:space="preserve">
         <source>The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread.</source>
         <target>A compressão pode precisar de mais memória do que a disponível (%@) e pode não ser concluída com êxito. Será limitado a 1 thread.</target>
@@ -837,6 +849,11 @@
       <trans-unit id="The folder is empty" xml:space="preserve">
         <source>The folder is empty</source>
         <target>A pasta está vazia</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The password length should be %lld or higher." xml:space="preserve">
+        <source>The password length should be %lld or higher.</source>
+        <target>O comprimento da senha deve ser %lld ou maior.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." xml:space="preserve">

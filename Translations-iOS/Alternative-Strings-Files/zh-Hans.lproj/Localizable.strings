@@ -329,6 +329,12 @@
 "The changes could not be saved" = "更改无法保存";
 
 /* No comment provided by engineer. */
+"The character %@ is not compatilbe with the %@ format." = "字符 %@ 与 %@ 格式不兼容。";
+
+/* No comment provided by engineer. */
+"The characters %@ are not compatilbe with the %@ format." = "字符 %@ 与 %@ 格式不兼容。";
+
+/* No comment provided by engineer. */
 "The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "压缩可能需要比可用内存（%@）更多的内存，并且可能无法成功完成。将被限制为一个线程。";
 
 /* No comment provided by engineer. */
@@ -342,6 +348,9 @@
 
 /* No comment provided by engineer. */
 "The folder is empty" = "文件夹为空";
+
+/* No comment provided by engineer. */
+"The password length should be %lld or higher." = "密码长度应为 %lld 位或更长。";
 
 /* No comment provided by engineer. */
 "The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "越慢的级别压缩效果越好。存储级别不进行任何压缩，只归档内容。";

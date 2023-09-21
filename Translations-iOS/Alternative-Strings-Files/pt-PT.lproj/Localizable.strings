@@ -140,7 +140,7 @@
 "Dismiss" = "Dispensar";
 
 /* No comment provided by engineer. */
-"Document" = "Document"; // THIS IS NOT LOCALIZED
+"Document" = "Documento";
 
 /* No comment provided by engineer. */
 "Done" = "Concluído";
@@ -329,6 +329,12 @@
 "The changes could not be saved" = "As alterções não podem ser guardadas";
 
 /* No comment provided by engineer. */
+"The character %@ is not compatilbe with the %@ format." = "O caractere %@ não é compatível com o formato %@.";
+
+/* No comment provided by engineer. */
+"The characters %@ are not compatilbe with the %@ format." = "Os caracteres %@ não são compatíveis com o formato %@.";
+
+/* No comment provided by engineer. */
 "The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "A compressão pode precisar de mais memória do que a disponível (%@) e pode não ser concluída com êxito. Será limitado a 1 thread.";
 
 /* No comment provided by engineer. */
@@ -342,6 +348,9 @@
 
 /* No comment provided by engineer. */
 "The folder is empty" = "A pasta está vazia";
+
+/* No comment provided by engineer. */
+"The password length should be %lld or higher." = "O comprimento da senha deve ser %lld ou maior.";
 
 /* No comment provided by engineer. */
 "The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "Quanto mais lento for o nível, maior compressão pode ser alcançada. O nível de armazenamento nenhuma comprime, apenas armazena o conteúdo.\n";
