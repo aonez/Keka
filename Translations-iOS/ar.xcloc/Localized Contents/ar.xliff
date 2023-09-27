@@ -337,7 +337,7 @@
       </trans-unit>
       <trans-unit id="Add some contents using the %@ button or the %@ and %@ buttons in the toolbar." xml:space="preserve">
         <source>Add some contents using the %@ button or the %@ and %@ buttons in the toolbar.</source>
-        <target>أضف بعض المحتويات باستخدام %@ زر or the %@ و %@ زر في الشريط العلوي.</target>
+        <target>أضف بعض المحتويات بإستخدام زر %@ أو شعار الـ %@  و %@ في الشريط العلوي.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Allocated size" xml:space="preserve">
