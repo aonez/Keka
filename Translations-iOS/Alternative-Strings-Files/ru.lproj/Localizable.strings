@@ -257,7 +257,7 @@
 "Normal" = "Обычный";
 
 /* No comment provided by engineer. */
-"Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files." = "Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files."; // THIS IS NOT LOCALIZED
+"Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files." = "Не все платформы поддерживают шифрование AES-256. Вам может понадобиться стороннее приложение (например, Keka) для открытия этих сжатых файлов.";
 
 /* No comment provided by engineer. */
 "OK" = "OK";
@@ -302,7 +302,7 @@
 "Save" = "Сохранить";
 
 /* No comment provided by engineer. */
-"Settings" = "Settings"; // THIS IS NOT LOCALIZED
+"Settings" = "Настройки";
 
 /* No comment provided by engineer. */
 "Share" = "Поделиться";

@@ -689,6 +689,7 @@
       </trans-unit>
       <trans-unit id="Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files." xml:space="preserve">
         <source>Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files.</source>
+        <target>Не все платформы поддерживают шифрование AES-256. Вам может понадобиться стороннее приложение (например, Keka) для открытия этих сжатых файлов.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
@@ -763,6 +764,7 @@
       </trans-unit>
       <trans-unit id="Settings" xml:space="preserve">
         <source>Settings</source>
+        <target>Настройки</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Share" xml:space="preserve">
