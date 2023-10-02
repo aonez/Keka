@@ -1,399 +1,411 @@
 /* No comment provided by engineer. */
-"%@ item" = "%@ ítem";
+"%@ item" = "%@ item";
 
 /* No comment provided by engineer. */
-"%@ items" = "%@ ítems";
+"%@ items" = "%@ items";
 
 /* No comment provided by engineer. */
-"%@ of %@ item" = "%@ de %@ ítem";
+"%@ of %@ item" = "%@ of %@ item";
 
 /* No comment provided by engineer. */
-"%@ of %@ items" = "%@ de %@ ítems";
+"%@ of %@ items" = "%@ of %@ items";
 
 /* No comment provided by engineer. */
-"About" = "Créditos";
+"About" = "About";
 
 /* No comment provided by engineer. */
-"Actions" = "Acciones";
+"Actions" = "Actions";
 
 /* No comment provided by engineer. */
-"Add a File" = "Añadir un fichero";
+"Add a File" = "Add a File";
 
 /* No comment provided by engineer. */
-"Add a Folder" = "Añadir una carpeta";
+"Add a Folder" = "Add a Folder";
 
 /* No comment provided by engineer. */
-"Add some contents using the %@ button or the %@ and %@ buttons in the toolbar." = "Añade contenido utilizando %@ o %@ en la barra de herramientas.";
+"Add some contents using the %@ button or the %@ and %@ buttons in the toolbar." = "Add some contents using the %@ button or the %@ and %@ buttons in the toolbar.";
 
 /* No comment provided by engineer. */
-"Allocated size" = "Tamaño asignado";
+"Allocated size" = "Allocated size";
 
 /* Default compression file name. */
-"ARCHIVE_DEFAULT_NAME" = "Archivo";
+"ARCHIVE_DEFAULT_NAME" = "Archive";
 
 /* No comment provided by engineer. */
-"Ask" = "Preguntar";
+"Ask" = "Ask";
 
 /* Browse, operation description. */
-"BROWSE_OPERATION" = "Abrir";
+"BROWSE_OPERATION" = "Browse";
 
 /* Browsing, operation running. */
-"BROWSE_RUNNING" = "Abriendo";
+"BROWSE_RUNNING" = "Browsing";
 
 /* Browsing, tasks section title. */
-"BROWSE_SECTION_TITLE" = "Abiertos";
+"BROWSE_SECTION_TITLE" = "Browsing";
 
 /* Browser settings title. */
-"Browser" = "Al abrir";
+"Browser" = "Browser";
 
 /* "by aone" part from "Made with love by aone". */
-"by %@" = "por %@";
+"by %@" = "by %@";
 
 /* No comment provided by engineer. */
-"Calculate" = "Calcular";
+"Calculate" = "Calculate";
 
 /* No comment provided by engineer. */
-"Cancel" = "Cancelar";
+"Cancel" = "Cancel";
 
 /* No comment provided by engineer. */
-"Choose" = "Seleccionar";
+"Choose" = "Choose";
 
 /* No comment provided by engineer. */
-"Clear Cache" = "Vaciar el caché";
+"Clear Cache" = "Clear Cache";
 
 /* No comment provided by engineer. */
-"Clear Cache Contents" = "Vaciar el contenido del caché";
+"Clear Cache Contents" = "Clear Cache Contents";
 
 /* No comment provided by engineer. */
-"Close" = "Cerrar";
+"Close" = "Close";
 
 /* No comment provided by engineer. */
-"Compress" = "Comprimir";
+"Comments" = "Comments";
 
 /* No comment provided by engineer. */
-"compressed" = "comprimido";
+"Compress" = "Compress";
 
 /* No comment provided by engineer. */
-"Compressed size" = "Tamaño comprimido";
+"compressed" = "compressed";
+
+/* No comment provided by engineer. */
+"Compressed size" = "Compressed size";
 
 /* Compression settings title. */
-"Compression" = "Compresión";
+"Compression" = "Compression";
 
 /* No comment provided by engineer. */
-"compression failed" = "compresión fallida";
+"compression failed" = "compression failed";
 
 /* No comment provided by engineer. */
-"Compression Level:" = "Nivel de compresión:";
+"Compression Level:" = "Compression Level:";
 
 /* Compression, operation description. */
-"COMPRESSION_OPERATION" = "Comprimir";
+"COMPRESSION_OPERATION" = "Compression";
 
 /* Compressing, operation running. */
-"COMPRESSION_RUNNING" = "Comprimiendo";
+"COMPRESSION_RUNNING" = "Compressing";
 
 /* Compressing, tasks section title. */
-"COMPRESSION_SECTION_TITLE" = "Compresiones";
+"COMPRESSION_SECTION_TITLE" = "Compressing";
 
 /* No comment provided by engineer. */
-"Contents" = "Contenido";
+"Contents" = "Contents";
 
 /* No comment provided by engineer. */
-"Contents: %@, Size: %@" = "Contenido: %@, tamaño: %@";
+"Contents: %@, Size: %@" = "Contents: %@, Size: %@";
 
 /* No comment provided by engineer. */
-"Created" = "Creación";
+"Created" = "Created";
 
 /* No comment provided by engineer. */
-"Custom..." = "Personalizado...";
+"Custom..." = "Custom...";
 
 /* No comment provided by engineer. */
-"Date" = "Fecha";
+"Date" = "Date";
 
 /* No comment provided by engineer. */
-"Default Compression Level" = "Nivel de compresión por defecto";
+"Default Compression Level" = "Default Compression Level";
 
 /* No comment provided by engineer. */
-"Default Destination" = "Destino por defecto";
+"Default Destination" = "Default Destination";
 
 /* No comment provided by engineer. */
-"Default Format" = "Formato por defecto";
+"Default Format" = "Default Format";
 
 /* No comment provided by engineer. */
-"Default Tap Action" = "Acción por defecto";
+"Default Tap Action" = "Default Tap Action";
 
 /* No comment provided by engineer. */
-"Default Volume Unit" = "Unidad de volumen por defecto";
+"Default Volume Unit" = "Default Volume Unit";
 
 /* No comment provided by engineer. */
-"Delete" = "Borrar";
+"Delete" = "Delete";
 
 /* No comment provided by engineer. */
-"Destination" = "Destino";
+"Destination" = "Destination";
 
 /* No comment provided by engineer. */
-"Disable \"%@\" if you prefer to use a default configuration." = "Desactiva \"%@\" si prefieres utilizar una configuración por defecto.";
+"Disable \"%@\" if you prefer to use a default configuration." = "Disable \"%@\" if you prefer to use a default configuration.";
 
 /* No comment provided by engineer. */
-"Dismiss" = "Cancelar";
+"Dismiss" = "Dismiss";
 
 /* No comment provided by engineer. */
-"Document" = "Documento";
+"Document" = "Document";
 
 /* No comment provided by engineer. */
-"done" = "lista";
+"Done" = "Done";
 
 /* No comment provided by engineer. */
-"Done" = "Listo";
+"done" = "done";
 
 /* No comment provided by engineer. */
-"Edit" = "Editar";
+"Edit" = "Edit";
 
 /* No comment provided by engineer. */
-"Encrypt Filenames" = "Encriptar los nombres de archivo";
+"Encrypt Filenames" = "Encrypt Filenames";
 
 /* No comment provided by engineer. */
-"Encrypt Filenames if Possible" = "Encriptar los nombres de archivo siempre que se pueda";
+"Encrypt Filenames if Possible" = "Encrypt Filenames if Possible";
 
 /* No comment provided by engineer. */
-"Enter the password for the file\n\"%@\"" = "Introduce la contraseña para el archivo\n\"%@\"";
+"Enter the password for the file\n\"%@\"" = "Enter the password for the file\n\"%@\"";
 
 /* No comment provided by engineer. */
-"Extract" = "Extraer";
+"Extract" = "Extract";
 
 /* No comment provided by engineer. */
-"Extract the file" = "Extraer el archivo";
+"Extract the file" = "Extract the file";
 
 /* No comment provided by engineer. */
-"extracted" = "extraído";
+"extracted" = "extracted";
 
 /* Extraction settings title. */
-"Extraction" = "Extracción";
+"Extraction" = "Extraction";
 
 /* No comment provided by engineer. */
-"extraction failed" = "extracción fallida";
+"extraction failed" = "extraction failed";
 
 /* Extraction, operation description. */
-"EXTRACTION_OPERATION" = "Extraer";
+"EXTRACTION_OPERATION" = "Extraction";
 
 /* Extracting, operation running. */
-"EXTRACTION_RUNNING" = "Extrayendo";
+"EXTRACTION_RUNNING" = "Extracting";
 
 /* Extracting, tasks section title. */
-"EXTRACTION_SECTION_TITLE" = "Extracciones";
+"EXTRACTION_SECTION_TITLE" = "Extracting";
 
 /* No comment provided by engineer. */
-"failed" = "fallida";
+"failed" = "failed";
 
 /* No comment provided by engineer. */
-"Fast" = "Rápido";
+"Fast" = "Fast";
 
 /* No comment provided by engineer. */
-"Fastest" = "Más rápido";
+"Fastest" = "Fastest";
 
 /* No comment provided by engineer. */
-"Feedback" = "Contactar";
+"Feedback" = "Feedback";
 
 /* No comment provided by engineer. */
-"File not informed properly, try again." = "El archivo no se ha informado correctamente, inténtalo de nuevo.";
+"File not informed properly, try again." = "File not informed properly, try again.";
 
 /* No comment provided by engineer. */
-"Format" = "Formato";
+"Format" = "Format";
 
 /* General settings title. */
 "General" = "General";
 
 /* No comment provided by engineer. */
-"Get Info" = "Obtener información";
+"Get Info" = "Get Info";
 
 /* No comment provided by engineer. */
-"Hide Password by Default" = "Ocultar la contraseña por defecto";
+"Hide Password by Default" = "Hide Password by Default";
 
 /* No comment provided by engineer. */
-"If you got here, please get in touch with the developers." = "Por favor ponte en contacto con los desarrolladores.";
+"If you got here, please get in touch with the developers." = "If you got here, please get in touch with the developers.";
 
 /* No comment provided by engineer. */
-"Information" = "Información";
+"Information" = "Information";
 
 /* No comment provided by engineer. */
-"Keka's Folder" = "Carpeta de Keka";
+"Keka's Folder" = "Keka's Folder";
 
 /* No comment provided by engineer. */
-"Keka's icon" = "Icono de Keka";
+"Keka's icon" = "Keka's icon";
 
 /* No comment provided by engineer. */
-"Kind" = "Clase";
+"Kind" = "Kind";
 
 /* No comment provided by engineer. */
-"Last opened" = "Abierto por última vez";
+"Last opened" = "Last opened";
 
 /* No comment provided by engineer. */
-"Loading" = "Cargando";
+"Loading" = "Loading";
 
 /* "Made with" part from "Made with love by aone". */
-"Made with" = "Hecho con";
+"Made with" = "Made with";
 
 /* No comment provided by engineer. */
-"Modified" = "Modificación";
+"Modified" = "Modified";
 
 /* No comment provided by engineer. */
-"Name" = "Nombre";
+"Name" = "Name";
 
 /* No comment provided by engineer. */
-"No contents" = "Sin contenido";
+"No contents" = "No contents";
 
 /* No comment provided by engineer. */
-"No contents available" = "No hay contenido disponible";
+"No contents available" = "No contents available";
 
 /* No comment provided by engineer. */
-"No files to extract" = "Nada que extraer";
+"No files to extract" = "No files to extract";
 
 /* No comment provided by engineer. */
-"None" = "Ninguna";
+"None" = "None";
 
 /* No comment provided by engineer. */
 "Normal" = "Normal";
 
 /* No comment provided by engineer. */
-"Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files." = "No todas las plataformas soportan la encriptación AES-256 por defecto. Puede que necesites una aplicación de terceros (como Keka) para abrir estos archivos.";
+"Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files." = "Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files.";
 
 /* No comment provided by engineer. */
-"OK" = "Listo";
+"OK" = "OK";
 
 /* No comment provided by engineer. */
-"Open" = "Abrir";
+"Open" = "Open";
 
 /* No comment provided by engineer. */
-"Password" = "Contraseña";
+"Password" = "Password";
 
 /* No comment provided by engineer. */
-"Password needed" = "Contraseña necesaria";
+"Password needed" = "Password needed";
 
 /* No comment provided by engineer. */
-"Please enter the password for:" = "Por favor introduce la contraseña para:";
+"Please enter the password for:" = "Please enter the password for:";
 
 /* No comment provided by engineer. */
-"Please select the encoding for:" = "Por favor selecciona la codificación para:";
+"Please select the encoding for:" = "Please select the encoding for:";
 
 /* No comment provided by engineer. */
-"Preview" = "Vista previa";
+"Preview" = "Preview";
 
 /* No comment provided by engineer. */
-"Quick Look" = "Vista previa";
+"Quick Look" = "Quick Look";
 
 /* No comment provided by engineer. */
-"Remember Last Used Options" = "Recordar la última configuración utilizada";
+"Remember Last Used Options" = "Remember Last Used Options";
 
 /* No comment provided by engineer. */
-"Remove from cache" = "Eliminar del caché";
+"Remove from cache" = "Remove from cache";
 
 /* No comment provided by engineer. */
-"Reset" = "Reiniciar";
+"Reset" = "Reset";
 
 /* No comment provided by engineer. */
-"Reset All Settings" = "Reiniciar todos los ajustes";
+"Reset All Settings" = "Reset All Settings";
 
 /* No comment provided by engineer. */
-"Review" = "Valorar";
+"Review" = "Review";
 
 /* No comment provided by engineer. */
-"Save" = "Guardar";
+"Save" = "Save";
 
 /* No comment provided by engineer. */
-"Settings" = "Ajustes";
+"Settings" = "Settings";
 
 /* No comment provided by engineer. */
-"Share" = "Compartir";
+"Share" = "Share";
 
 /* No comment provided by engineer. */
-"Size" = "Tamaño";
+"Size" = "Size";
 
 /* No comment provided by engineer. */
-"Slow" = "Lento";
+"Slow" = "Slow";
 
 /* No comment provided by engineer. */
-"Slowest" = "Más lento";
+"Slowest" = "Slowest";
 
 /* No comment provided by engineer. */
-"Split in volumes" = "Dividir en volúmenes";
+"Split in volumes" = "Split in volumes";
 
 /* No comment provided by engineer. */
-"Store" = "Almacenar";
+"Store" = "Store";
 
 /* No comment provided by engineer. */
-"The %@ of space available in the destination might not be enough for compressing the estimated %@." = "El espacio disponible en el destino es de %@ y puede no ser suficiente para comprimir la estimación de %@.";
+"The %@ of space available in the destination might not be enough for compressing the estimated %@." = "The %@ of space available in the destination might not be enough for compressing the estimated %@.";
 
 /* No comment provided by engineer. */
-"The changes could not be saved" = "Los cambios no se han podido guardar";
+"The changes could not be saved" = "The changes could not be saved";
 
 /* No comment provided by engineer. */
-"The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "Puede que la compresión requiera más memoria de la que está disponible (%@) y que no se pueda realizar correctamente. Se limitará a un hilo.";
+"The character %@ is not compatilbe with the %@ format." = "The character %@ is not compatilbe with the %@ format.";
 
 /* No comment provided by engineer. */
-"The compression will be limited to %lld thread/s due to memory constraints." = "La compresión se limitara a %lld hilo/s para no sobrepasar la memoria disponible.";
+"The characters %@ are not compatilbe with the %@ format." = "The characters %@ are not compatilbe with the %@ format.";
 
 /* No comment provided by engineer. */
-"The destination has %@ of space available." = "El destino tiene %@ de espacio libre.";
+"The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread.";
 
 /* No comment provided by engineer. */
-"The file manager for iOS and macOS" = "El compresor de archivos para iOS y macOS";
+"The compression will be limited to %lld thread/s due to memory constraints." = "The compression will be limited to %lld thread/s due to memory constraints.";
 
 /* No comment provided by engineer. */
-"The folder is empty" = "La carpeta está vacía";
+"The destination has %@ of space available." = "The destination has %@ of space available.";
 
 /* No comment provided by engineer. */
-"The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "Cuanto más lento sea el nivel de compresión más reducción del tamaño podrá conseguirse. El nivel \"Almacenar\" no comprime, únicamente almacena.";
+"The file manager for iOS and macOS" = "The file manager for iOS and macOS";
 
 /* No comment provided by engineer. */
-"To extract" = "A extraer";
+"The folder is empty" = "The folder is empty";
 
 /* No comment provided by engineer. */
-"Total size" = "Tamaño total";
+"The password length should be %lld or higher." = "The password length should be %lld or higher.";
 
 /* No comment provided by engineer. */
-"Translated by %@" = "Traducido por %@";
+"The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents.";
+
+/* No comment provided by engineer. */
+"To extract" = "To extract";
+
+/* No comment provided by engineer. */
+"Total size" = "Total size";
+
+/* No comment provided by engineer. */
+"Translated by %@" = "Translated by %@";
 
 /* The translator link, if any. Can be a mail address or a website. */
-"TRANSLATOR_LINK" = "https://ios.keka.io";
+"TRANSLATOR_LINK" = "TRANSLATOR_LINK";
 
 /* The translator name, if any. */
-"TRANSLATOR_NAME" = "aone";
+"TRANSLATOR_NAME" = "TRANSLATOR_NAME";
 
 /* No comment provided by engineer. */
-"Type" = "Tipo";
+"Type" = "Type";
 
 /* No comment provided by engineer. */
-"Unable to apply the app icon" = "No se ha podido aplicar el icono";
+"Unable to apply the app icon" = "Unable to apply the app icon";
 
 /* No comment provided by engineer. */
-"Unable to browse \"%@\"" = "No se ha podido abrir \"%@\"";
+"Unable to browse \"%@\"" = "Unable to browse \"%@\"";
 
 /* No comment provided by engineer. */
-"Unable to determine the available space." = "No se ha podido determinar el espacio disponible.";
+"Unable to determine the available space." = "Unable to determine the available space.";
 
 /* No comment provided by engineer. */
-"Unable to get encoding data" = "No se ha podido obtener la información de codificación";
+"Unable to get encoding data" = "Unable to get encoding data";
 
 /* No comment provided by engineer. */
-"Use AES-256 Encryption" = "Utilizar la encriptación AES-256";
+"Use AES-256 Encryption" = "Use AES-256 Encryption";
 
 /* No comment provided by engineer. */
-"Use AES-256 if Available" = "Utilizar la encriptación AES-256 si está disponible";
+"Use AES-256 if Available" = "Use AES-256 if Available";
 
 /* No comment provided by engineer. */
-"Use special coloring for known formats" = "Utilizar colores específicos para los formatos conocidos";
+"Use special coloring for known formats" = "Use special coloring for known formats";
 
 /* No comment provided by engineer. */
-"Use UTF-8 Encoding if Available" = "Utilizar la codificación UTF-8 si está disponible";
+"Use UTF-8 Encoding if Available" = "Use UTF-8 Encoding if Available";
 
 /* No comment provided by engineer. */
-"Volume Size" = "Tamaño";
+"Volume Size" = "Volume Size";
 
 /* No comment provided by engineer. */
-"Welcome" = "Bienvenid@";
+"Welcome" = "Welcome";
 
 /* The "Welcome to Keka" title. */
-"Welcome to %@" = "Bienvenid@ a %@";
+"Welcome to %@" = "Welcome to %@";
 
 /* No comment provided by engineer. */
-"Where" = "Donde";
+"Where" = "Where";
 

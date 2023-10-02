@@ -329,8 +329,8 @@
 /* Class = "NSButtonCell"; title = "Use the default password on new compressions"; ObjectID = "u2R-2w-aOA"; */
 "u2R-2w-aOA.title" = "Utilizar la contraseña por defecto en las compresiones";
 
-/* Class = "NSTextFieldCell"; title = "You can also use this password from the Finder Extension's menu"; ObjectID = "vWb-gb-JBD"; */
-"vWb-gb-JBD.title" = "También puedes utilizar esta contraseña desde el menú de la Extensión del Finder";
+/* Class = "NSTextFieldCell"; title = "You can also use this password from the Finder Extension's menu."; ObjectID = "vWb-gb-JBD"; */
+"vWb-gb-JBD.title" = "También puedes utilizar esta contraseña desde el menú de la Extensión del Finder.";
 
 /* Class = "NSTextFieldCell"; title = "The Finder Extension needs to be enabled in the  System Preferences, Extensions configuration."; ObjectID = "wgz-2S-eXI"; */
 "wgz-2S-eXI.title" = "La extensión del Finder se tiene que activar en las Preferencias del Sistema de , configuración de extensiones.";

@@ -68,6 +68,9 @@
 "Close" = "閉じる";
 
 /* No comment provided by engineer. */
+"Comments" = "注釈";
+
+/* No comment provided by engineer. */
 "Compress" = "圧縮";
 
 /* No comment provided by engineer. */
@@ -92,7 +95,7 @@
 "COMPRESSION_RUNNING" = "圧縮中";
 
 /* Compressing, tasks section title. */
-"COMPRESSION_SECTION_TITLE" = "圧縮する";
+"COMPRESSION_SECTION_TITLE" = "圧縮";
 
 /* No comment provided by engineer. */
 "Contents" = "内容";
@@ -137,10 +140,13 @@
 "Dismiss" = "中止する";
 
 /* No comment provided by engineer. */
-"done" = "完了";
+"Document" = "ドキュメント";
 
 /* No comment provided by engineer. */
 "Done" = "完了";
+
+/* No comment provided by engineer. */
+"done" = "完了";
 
 /* No comment provided by engineer. */
 "Edit" = "編集";
@@ -152,7 +158,7 @@
 "Encrypt Filenames if Possible" = "可能であればファイル名を暗号化する";
 
 /* No comment provided by engineer. */
-"Enter the password for the file\n\"%@\"" = "ファイルのパスワードを入力\n\"%@\"";
+"Enter the password for the file\n\"%@\"" = "\"%@\" のファイル パスワードを入力";
 
 /* No comment provided by engineer. */
 "Extract" = "展開";
@@ -170,13 +176,13 @@
 "extraction failed" = "展開できませんでした";
 
 /* Extraction, operation description. */
-"EXTRACTION_OPERATION" = "展開する";
+"EXTRACTION_OPERATION" = "展開";
 
 /* Extracting, operation running. */
 "EXTRACTION_RUNNING" = "展開中";
 
 /* Extracting, tasks section title. */
-"EXTRACTION_SECTION_TITLE" = "ファイルの展開";
+"EXTRACTION_SECTION_TITLE" = "展開";
 
 /* No comment provided by engineer. */
 "failed" = "失敗";
@@ -323,6 +329,12 @@
 "The changes could not be saved" = "変更を保存できませんでした";
 
 /* No comment provided by engineer. */
+"The character %@ is not compatilbe with the %@ format." = "%@ の文字は %@ のフォーマットと互換性がありません。";
+
+/* No comment provided by engineer. */
+"The characters %@ are not compatilbe with the %@ format." = "%@ の文字たちは %@ のフォーマットと互換性がありません。";
+
+/* No comment provided by engineer. */
 "The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "圧縮には使用可能なメモリ (%@) よりも多くのメモリが必要になっており、正常に完了しない可能性があるため1スレッドに制限されます。";
 
 /* No comment provided by engineer. */
@@ -336,6 +348,9 @@
 
 /* No comment provided by engineer. */
 "The folder is empty" = "フォルダは空です";
+
+/* No comment provided by engineer. */
+"The password length should be %lld or higher." = "パスワードは %lld 文字以上必要です。";
 
 /* No comment provided by engineer. */
 "The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "圧縮レベルが遅いほど、高い圧縮率になります。ストアレベルは圧縮をおこなわず、内容をアーカイブするのみになります。";
@@ -362,7 +377,7 @@
 "Unable to apply the app icon" = "APP アイコンを適用できません";
 
 /* No comment provided by engineer. */
-"Unable to browse \"%@\"" = "\"%@\"を閲覧できません";
+"Unable to browse \"%@\"" = "\"%@\" を閲覧できません";
 
 /* No comment provided by engineer. */
 "Unable to determine the available space." = "使用可能なスペースを決定できません。";
@@ -393,3 +408,4 @@
 
 /* No comment provided by engineer. */
 "Where" = "何処に";
+

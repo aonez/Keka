@@ -156,7 +156,7 @@
 "CWc-wN-FhI.title" = "Auswählen …";
 
 /* Class = "NSMenuItem"; title = "Lowest"; ObjectID = "Cz9-7i-oHp"; */
-"Cz9-7i-oHp.title" = "Lowest";
+"Cz9-7i-oHp.title" = "Niedrigste";
 
 /* Class = "NSTextFieldCell"; title = "Extractions use less power so even using multiple thread you can easily set this limit to two or three. Note that the target disk may suffer."; ObjectID = "DAr-Td-s5W"; */
 "DAr-Td-s5W.title" = "Entpackungen benötigen weniger Strom, daher kannst du dieses Limit auch bei Nutzung mehrerer Threads auf zwei oder drei setzen. Beachte, dass das Ziellaufwerk darunter leiden kann.";
@@ -192,7 +192,7 @@
 "IHj-ac-103.title" = "Zugriff auf den gesamten Mac erlauben (empfohlen)";
 
 /* Class = "NSButtonCell"; title = "Verify compression integrity"; ObjectID = "IL6-a6-uik"; */
-"IL6-a6-uik.title" = "Verify compression integrity";
+"IL6-a6-uik.title" = "Integrität der Komprimierung prüfen";
 
 /* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive."; ObjectID = "JxT-Nq-8Z5"; */
 "JxT-Nq-8Z5.title" = "Erlaube den Zugriff auf externe Volumes, falls Keka auf deinen externen Speichermedien, wie z.B. USB- oder Thunderboltlaufwerken, arbeiten können soll.";
@@ -228,7 +228,7 @@
 "TLc-Nk-Bps.placeholderString" = "Namen eingeben";
 
 /* Class = "NSMenuItem"; title = "Lower"; ObjectID = "Vss-gS-NkP"; */
-"Vss-gS-NkP.title" = "Lower";
+"Vss-gS-NkP.title" = "Niedriger";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "WCN-jH-W9J"; */
 "WCN-jH-W9J.placeholderString" = "Namen eingeben";
@@ -240,13 +240,13 @@
 "XOB-JO-UQT.title" = "Automatisch";
 
 /* Class = "NSMenuItem"; title = "Highest"; ObjectID = "Xl7-AN-Kgw"; */
-"Xl7-AN-Kgw.title" = "Highest";
+"Xl7-AN-Kgw.title" = "Höchste";
 
 /* Class = "NSTextFieldCell"; title = "Enable full Mac access so Keka can be used on all your Mac."; ObjectID = "ZOx-vr-5o7"; */
 "ZOx-vr-5o7.title" = "Erlaube den Zugriff auf deinen gesamten Mac, falls Keka in jedem Ordner deines Macs arbeiten können soll.";
 
 /* Class = "NSMenuItem"; title = "High"; ObjectID = "ZiK-jD-TLq"; */
-"ZiK-jD-TLq.title" = "High";
+"ZiK-jD-TLq.title" = "Hoch";
 
 /* Class = "NSButtonCell"; title = "Use \"Open with Keka\" as the primary item action"; ObjectID = "a5e-FP-sDv"; */
 "a5e-FP-sDv.title" = "\"Mit Keka öffnen\" als erste Aktion verwenden";
@@ -294,7 +294,7 @@
 "izC-0G-lvl.title" = "Hier kannst du festlegen, wo das Kontextmenü angezeigt werden soll:";
 
 /* Class = "NSMenuItem"; title = "Default"; ObjectID = "mfK-Rj-HLz"; */
-"mfK-Rj-HLz.title" = "Default";
+"mfK-Rj-HLz.title" = "Standard";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous operations:"; ObjectID = "o8J-bR-bs6"; */
 "o8J-bR-bs6.title" = "Maximale gleichzeitige Vorgänge:";
@@ -329,8 +329,8 @@
 /* Class = "NSButtonCell"; title = "Use the default password on new compressions"; ObjectID = "u2R-2w-aOA"; */
 "u2R-2w-aOA.title" = "Verwende das Standardpasswort bei neuen Komprimierungen";
 
-/* Class = "NSTextFieldCell"; title = "You can also use this password from the Finder Extension's menu"; ObjectID = "vWb-gb-JBD"; */
-"vWb-gb-JBD.title" = "Dieses Passwort kann auch über das Menü der Finder-Erweiterung genutzt werden";
+/* Class = "NSTextFieldCell"; title = "You can also use this password from the Finder Extension's menu."; ObjectID = "vWb-gb-JBD"; */
+"vWb-gb-JBD.title" = "Dieses Passwort kann auch über das Menü der Finder-Erweiterung genutzt werden.";
 
 /* Class = "NSTextFieldCell"; title = "The Finder Extension needs to be enabled in the  System Preferences, Extensions configuration."; ObjectID = "wgz-2S-eXI"; */
 "wgz-2S-eXI.title" = "Die Finder-Erweiterung muss in den  Systemeinstellungen, Erweitungen aktiviert werden.";
@@ -348,4 +348,4 @@
 "zRi-PC-AW9.title" = "Probiere das Standardpasswort beim Entpacken aller Dateien";
 
 /* Class = "NSButtonCell"; title = "Automatically install new updates"; ObjectID = "zTa-p3-fHX"; */
-"zTa-p3-fHX.title" = "Automatically install new updates";
+"zTa-p3-fHX.title" = "Neue Updates automatisch installieren";

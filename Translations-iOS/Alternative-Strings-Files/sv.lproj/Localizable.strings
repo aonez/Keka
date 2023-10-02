@@ -68,6 +68,9 @@
 "Close" = "Stäng";
 
 /* No comment provided by engineer. */
+"Comments" = "Comments"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Compress" = "Komprimera";
 
 /* No comment provided by engineer. */
@@ -122,6 +125,9 @@
 "Default Tap Action" = "Standard-tryckåtgärd";
 
 /* No comment provided by engineer. */
+"Default Volume Unit" = "Default Volume Unit"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Delete" = "Radera";
 
 /* No comment provided by engineer. */
@@ -137,10 +143,10 @@
 "Document" = "Dokument";
 
 /* No comment provided by engineer. */
-"done" = "klar";
+"Done" = "Klar";
 
 /* No comment provided by engineer. */
-"Done" = "Klar";
+"done" = "klar";
 
 /* No comment provided by engineer. */
 "Edit" = "Redigera";
@@ -311,6 +317,9 @@
 "Slowest" = "Långsammast";
 
 /* No comment provided by engineer. */
+"Split in volumes" = "Split in volumes"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Store" = "Lagra";
 
 /* No comment provided by engineer. */
@@ -318,6 +327,12 @@
 
 /* No comment provided by engineer. */
 "The changes could not be saved" = "Ändringarna kunde inte sparas";
+
+/* No comment provided by engineer. */
+"The character %@ is not compatilbe with the %@ format." = "Tecknet %@ är inte kompatibelt med formatet %@.";
+
+/* No comment provided by engineer. */
+"The characters %@ are not compatilbe with the %@ format." = "Tecknen %@ är inte kompatibelt med formatet %@.";
 
 /* No comment provided by engineer. */
 "The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "Komprimeringen kan behöva mer minne än tillgängligt (%@) och kan nog inte slutföras framgångsrikt. Kommer att begränsas till 1 tråd.";
@@ -333,6 +348,9 @@
 
 /* No comment provided by engineer. */
 "The folder is empty" = "Mappen är tom";
+
+/* No comment provided by engineer. */
+"The password length should be %lld or higher." = "Lösenordslängden ska vara %lld eller högre.";
 
 /* No comment provided by engineer. */
 "The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "Ju långsammare nivå desto mer komprimering kan utföras. Nivån Lagra gör ingen komprimering alls, endast arkivering av innehållet.";
@@ -378,6 +396,9 @@
 
 /* No comment provided by engineer. */
 "Use UTF-8 Encoding if Available" = "Använd UTF-8-kodning om tillgängligt";
+
+/* No comment provided by engineer. */
+"Volume Size" = "Volume Size"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Welcome" = "Välkommen";

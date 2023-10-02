@@ -180,7 +180,7 @@
 "G1T-Qd-OZi.title" = "Priorita úloh (QoS):";
 
 /* Class = "NSButtonCell"; title = "Always use the lowest priority when running on battery"; ObjectID = "GJB-94-NHl"; */
-"GJB-94-NHl.title" = "Při běhu na baterii vždy použít nějnižší prioritu";
+"GJB-94-NHl.title" = "Při běhu na baterii vždy použít nejnižší prioritu";
 
 /* Class = "NSTextFieldCell"; title = "It is recommended to only do one compression at a time if using multiple threads."; ObjectID = "Hkf-wB-gUj"; */
 "Hkf-wB-gUj.title" = "Při použití více jader doporučujeme souběžně komprimovat pouze jeden soubor.";
@@ -198,10 +198,10 @@
 "JxT-Nq-8Z5.title" = "Pokud chcete Keka používat s externími disky připojenými přes rozhraní USB nebo Thunderbolt, udělte přístup k externím diskům.";
 
 /* Class = "NSTextFieldCell"; title = "Lower priority results in longer times. The lowest priority on Apple Silicon equipped Macs will only use \"Efficiency\" cores, resulting in longer but more energy efficient tasks.\nAlready running tasks priority will not be modified."; ObjectID = "Jyq-vC-L5r"; */
-"Jyq-vC-L5r.title" = "Nízká priorita = delší čas. Nejnižší priorita na počítačích s Apple Silicon použije pouze \"Úsporná\" jádra, výsledkem bude delší čas, ale efektivnější využítí energie.\nPrioritu již běžících procesů nelze měnit.";
+"Jyq-vC-L5r.title" = "Nízká priorita = delší čas. Nejnižší priorita na počítačích s procesory Apple Silicon použije pouze „úsporná“ jádra, výsledkem bude delší čas, ale efektivnější využítí energie.\nPrioritu již běžících procesů nelze měnit.";
 
 /* Class = "NSTextFieldCell"; title = "Queue compression operations:"; ObjectID = "K5h-j5-bss"; */
-"K5h-j5-bss.title" = "Řadit operace do fronty:";
+"K5h-j5-bss.title" = "Řazení komprimace do fronty operací:";
 
 /* Class = "NSButtonCell"; title = "Inherit quarantine from downloaded files"; ObjectID = "KDR-ag-bll"; */
 "KDR-ag-bll.title" = "Zachovat stav karantény stažených souborů";
@@ -210,7 +210,7 @@
 "KOF-7X-bQo.title" = "Zobrazovat ve výměnných svazcích";
 
 /* Class = "NSTextFieldCell"; title = "Limit the number of threads per operation:"; ObjectID = "ND5-DN-C1H"; */
-"ND5-DN-C1H.title" = "Omezit počet vláken na operaci:";
+"ND5-DN-C1H.title" = "Omezení počtu vláken na operaci:";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "NwI-O4-9NI"; */
 "NwI-O4-9NI.title" = "Přeskočit prostředkové části (např. .DS_Store)";
@@ -282,7 +282,7 @@
 "faa-9Y-Axk.title" = "Při vytváření tarball nepoužívat archivační formáty (GZ a BZIP2) ";
 
 /* Class = "NSTextFieldCell"; title = "Queue extraction operations:"; ObjectID = "fhN-DK-edu"; */
-"fhN-DK-edu.title" = "Řadit rozbalování do fronty:";
+"fhN-DK-edu.title" = "Řazení rozbalování do fronty operací:";
 
 /* Class = "NSTextFieldCell"; title = "Compressing a single file:"; ObjectID = "hLS-Ut-4fh"; */
 "hLS-Ut-4fh.title" = "Komprimace jednoho souboru:";
@@ -300,7 +300,7 @@
 "o8J-bR-bs6.title" = "Nejvyšší počet souběžných operací:";
 
 /* Class = "NSTextFieldCell"; title = "Queue operations:"; ObjectID = "otI-Pt-BTh"; */
-"otI-Pt-BTh.title" = "Řadit operace do fronty:";
+"otI-Pt-BTh.title" = "Řazení do fronty operací:";
 
 /* Class = "NSTextFieldCell"; title = "Keep source extension:"; ObjectID = "p5F-63-ubE"; */
 "p5F-63-ubE.title" = "Použít výchozí příponu souboru:";
@@ -329,11 +329,11 @@
 /* Class = "NSButtonCell"; title = "Use the default password on new compressions"; ObjectID = "u2R-2w-aOA"; */
 "u2R-2w-aOA.title" = "Pro novou komprimaci, použít výchozí heslo";
 
-/* Class = "NSTextFieldCell"; title = "You can also use this password from the Finder Extension's menu"; ObjectID = "vWb-gb-JBD"; */
-"vWb-gb-JBD.title" = "Toto heslo lze také použít v kontextové nabídce Finderu";
+/* Class = "NSTextFieldCell"; title = "You can also use this password from the Finder Extension's menu."; ObjectID = "vWb-gb-JBD"; */
+"vWb-gb-JBD.title" = "Toto heslo lze také použít v kontextové nabídce Finderu.";
 
 /* Class = "NSTextFieldCell"; title = "The Finder Extension needs to be enabled in the  System Preferences, Extensions configuration."; ObjectID = "wgz-2S-eXI"; */
-"wgz-2S-eXI.title" = "Rozšíření Finderu musíte povolit v  Předvolbách systému → Rozšíření.";
+"wgz-2S-eXI.title" = "Rozšíření Finderu musíte povolit v  → Předvolby systému → Rozšíření.";
 
 /* Class = "NSTextFieldCell"; title = "Most operations use multiple threads. That means faster operations but also more power consumption and heat."; ObjectID = "xyb-eH-aiy"; */
 "xyb-eH-aiy.title" = "Pro většinu operací se kvůli výkonu používá více vláken. To ale může vést k vyšší spotřebě energie.";
@@ -345,7 +345,7 @@
 "zPq-ei-qUb.title" = "Řazení většinou vede k rychlejším operacím a lepší odezvě.";
 
 /* Class = "NSButtonCell"; title = "Try the default password when extracting any file"; ObjectID = "zRi-PC-AW9"; */
-"zRi-PC-AW9.title" = "Pro rozbalování každého souboru zkusit použít výchozí heslo.";
+"zRi-PC-AW9.title" = "Při rozbalování každého souboru zkusit použít výchozí heslo";
 
 /* Class = "NSButtonCell"; title = "Automatically install new updates"; ObjectID = "zTa-p3-fHX"; */
-"zTa-p3-fHX.title" = "Aktualizace instalovat automaticky";
+"zTa-p3-fHX.title" = "Automaticky instalovat aktualizace";

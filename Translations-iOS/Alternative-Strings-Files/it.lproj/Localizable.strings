@@ -68,6 +68,9 @@
 "Close" = "Chiudi";
 
 /* No comment provided by engineer. */
+"Comments" = "Commenti";
+
+/* No comment provided by engineer. */
 "Compress" = "Comprimi";
 
 /* No comment provided by engineer. */
@@ -140,10 +143,10 @@
 "Document" = "Documento";
 
 /* No comment provided by engineer. */
-"done" = "effettuato";
+"Done" = "Effettuato";
 
 /* No comment provided by engineer. */
-"Done" = "Effettuato";
+"done" = "effettuato";
 
 /* No comment provided by engineer. */
 "Edit" = "Modifica";
@@ -326,6 +329,12 @@
 "The changes could not be saved" = "Non è stato possibile salvare le modifiche";
 
 /* No comment provided by engineer. */
+"The character %@ is not compatilbe with the %@ format." = "Il carattere %@ non è compatibile con il formato %@.";
+
+/* No comment provided by engineer. */
+"The characters %@ are not compatilbe with the %@ format." = "I caratteri %@ non sono compatibili con il formato %@.";
+
+/* No comment provided by engineer. */
 "The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "La compressione potrebbe richiedere più memoria di quella (%@) disponibile e potrebbe non essere completata con successo. Sarà limitata a 1 thread.";
 
 /* No comment provided by engineer. */
@@ -339,6 +348,9 @@
 
 /* No comment provided by engineer. */
 "The folder is empty" = "La cartella è vuota";
+
+/* No comment provided by engineer. */
+"The password length should be %lld or higher." = "La password deve essere lunga almeno %lld caratteri.";
 
 /* No comment provided by engineer. */
 "The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "Più lento è il livello, maggiore è la compressione che si può ottenere. Il livello \"Non compresso\" non esegue alcuna compressione, ma archivia solo i contenuti.";

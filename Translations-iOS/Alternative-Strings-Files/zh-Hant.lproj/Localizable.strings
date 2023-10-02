@@ -68,6 +68,9 @@
 "Close" = "關閉";
 
 /* No comment provided by engineer. */
+"Comments" = "評論";
+
+/* No comment provided by engineer. */
 "Compress" = "壓縮";
 
 /* No comment provided by engineer. */
@@ -122,6 +125,9 @@
 "Default Tap Action" = "預設點擊動作";
 
 /* No comment provided by engineer. */
+"Default Volume Unit" = "預設容量單位";
+
+/* No comment provided by engineer. */
 "Delete" = "刪除";
 
 /* No comment provided by engineer. */
@@ -137,10 +143,10 @@
 "Document" = "文件";
 
 /* No comment provided by engineer. */
-"done" = "完成";
+"Done" = "完成";
 
 /* No comment provided by engineer. */
-"Done" = "完成";
+"done" = "完成";
 
 /* No comment provided by engineer. */
 "Edit" = "編輯";
@@ -311,6 +317,9 @@
 "Slowest" = "最慢";
 
 /* No comment provided by engineer. */
+"Split in volumes" = "分割成多個卷";
+
+/* No comment provided by engineer. */
 "Store" = "存儲";
 
 /* No comment provided by engineer. */
@@ -318,6 +327,12 @@
 
 /* No comment provided by engineer. */
 "The changes could not be saved" = "更改不能被保存";
+
+/* No comment provided by engineer. */
+"The character %@ is not compatilbe with the %@ format." = "「%@」字元與 %@ 格式不相容。";
+
+/* No comment provided by engineer. */
+"The characters %@ are not compatilbe with the %@ format." = "「%@」字元與 %@ 格式不相容。";
 
 /* No comment provided by engineer. */
 "The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "壓縮可能需要比可用內存（%@）更多的內存，並且可能無法成功完成。將限制在1個執行緒。";
@@ -333,6 +348,9 @@
 
 /* No comment provided by engineer. */
 "The folder is empty" = "文件夾是空的";
+
+/* No comment provided by engineer. */
+"The password length should be %lld or higher." = "密碼應至少有 %lld 個字元長。";
 
 /* No comment provided by engineer. */
 "The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "压缩级别越低，压缩效果越好。「存储」级别不压缩，仅存档内容。";
@@ -378,6 +396,9 @@
 
 /* No comment provided by engineer. */
 "Use UTF-8 Encoding if Available" = "如果可用就使用 UTF-8 編碼";
+
+/* No comment provided by engineer. */
+"Volume Size" = "卷大小";
 
 /* No comment provided by engineer. */
 "Welcome" = "歡迎";

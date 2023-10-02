@@ -1,10 +1,4 @@
 /* No comment provided by engineer. */
-"\"%@\"" = "\"%@\"";
-
-/* No comment provided by engineer. */
-"%@" = "%@";
-
-/* No comment provided by engineer. */
 "%@ item" = "%@ item";
 
 /* No comment provided by engineer. */
@@ -149,10 +143,10 @@
 "Document" = "Documento";
 
 /* No comment provided by engineer. */
-"done" = "concluída";
+"Done" = "Concluído";
 
 /* No comment provided by engineer. */
-"Done" = "Concluído";
+"done" = "concluída";
 
 /* No comment provided by engineer. */
 "Edit" = "Editar";
@@ -179,7 +173,7 @@
 "Extraction" = "Extração";
 
 /* No comment provided by engineer. */
-"extraction failed" = "extração failhou";
+"extraction failed" = "extração falhou";
 
 /* Extraction, operation description. */
 "EXTRACTION_OPERATION" = "Extracão";
@@ -218,7 +212,7 @@
 "Hide Password by Default" = "Ocultar palavra-passe por padrão";
 
 /* No comment provided by engineer. */
-"If you got here, please get in touch with the developers." = "Se chegou até aqui, por favor contacte os desenvolvedores.";
+"If you got here, please get in touch with the developers." = "Por favor entre em contacto com os desenvolvedores.";
 
 /* No comment provided by engineer. */
 "Information" = "Informação";
@@ -329,10 +323,16 @@
 "Store" = "Armazenar";
 
 /* No comment provided by engineer. */
-"The %@ of space available in the destination might not be enough for compressing the estimated %@." = "The %@ of space available in the destination might not be enough for compressing the estimated %@.";
+"The %@ of space available in the destination might not be enough for compressing the estimated %@." = "O %@ de espaço disponível no destino pode não ser suficiente para compactar o %@ estimado.";
 
 /* No comment provided by engineer. */
 "The changes could not be saved" = "As alterções não podem ser guardadas";
+
+/* No comment provided by engineer. */
+"The character %@ is not compatilbe with the %@ format." = "O caractere %@ não é compatível com o formato %@.";
+
+/* No comment provided by engineer. */
+"The characters %@ are not compatilbe with the %@ format." = "Os caracteres %@ não são compatíveis com o formato %@.";
 
 /* No comment provided by engineer. */
 "The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "A compressão pode precisar de mais memória do que a disponível (%@) e pode não ser concluída com êxito. Será limitado a 1 thread.";
@@ -350,6 +350,9 @@
 "The folder is empty" = "A pasta está vazia";
 
 /* No comment provided by engineer. */
+"The password length should be %lld or higher." = "O comprimento da senha deve ser %lld ou maior.";
+
+/* No comment provided by engineer. */
 "The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "Quanto mais lento for o nível, maior compressão pode ser alcançada. O nível de armazenamento nenhuma comprime, apenas armazena o conteúdo.\n";
 
 /* No comment provided by engineer. */
@@ -362,10 +365,10 @@
 "Translated by %@" = "Traduzido por %@";
 
 /* The translator link, if any. Can be a mail address or a website. */
-"TRANSLATOR_LINK" = "Link do tradutor ";
+"TRANSLATOR_LINK" = "https://twitter.com/jram15_ ";
 
 /* The translator name, if any. */
-"TRANSLATOR_NAME" = "Nome do tradutor";
+"TRANSLATOR_NAME" = "Jose R.A. Mota";
 
 /* No comment provided by engineer. */
 "Type" = "Tipo";

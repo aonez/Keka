@@ -1,10 +1,4 @@
 /* No comment provided by engineer. */
-"\"%@\"" = "\"%@\"";
-
-/* No comment provided by engineer. */
-"%@" = "%@";
-
-/* No comment provided by engineer. */
 "%@ item" = "%@ kohde";
 
 /* No comment provided by engineer. */
@@ -149,10 +143,10 @@
 "Document" = "Asiakirja";
 
 /* No comment provided by engineer. */
-"done" = "valmis";
+"Done" = "Valmis";
 
 /* No comment provided by engineer. */
-"Done" = "Valmis";
+"done" = "valmis";
 
 /* No comment provided by engineer. */
 "Edit" = "Muokkaa";
@@ -335,6 +329,12 @@
 "The changes could not be saved" = "Muutoksia ei voitu tallentaa";
 
 /* No comment provided by engineer. */
+"The character %@ is not compatilbe with the %@ format." = "Kirjainmerkki %@ ei ole yhteensopiva %@-muodon kanssa.";
+
+/* No comment provided by engineer. */
+"The characters %@ are not compatilbe with the %@ format." = "Kirjainmerkit %@ eivät ole yhteensopivia %@-muodon kanssa.";
+
+/* No comment provided by engineer. */
 "The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "Pakkaus saattaa vaatia enemmän muistia kuin mitä on saatavilla (%@), ja ei välttämättä suoriudu onnistuneesti. Rajoitetaan yhteen säikeeseen.";
 
 /* No comment provided by engineer. */
@@ -348,6 +348,9 @@
 
 /* No comment provided by engineer. */
 "The folder is empty" = "Kansio on tyhjä";
+
+/* No comment provided by engineer. */
+"The password length should be %lld or higher." = "Salasanan pituuden tulisi olla %lld tai pidempi.";
 
 /* No comment provided by engineer. */
 "The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "Hitaammalla tasolla voidaan saavuttaa enemmän pakkausta. Varastointi-taso ei pakkaa ollenkaan, se vain arkistoi sisällön.";

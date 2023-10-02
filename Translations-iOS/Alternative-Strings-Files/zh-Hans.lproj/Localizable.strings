@@ -68,6 +68,9 @@
 "Close" = "关闭";
 
 /* No comment provided by engineer. */
+"Comments" = "评论";
+
+/* No comment provided by engineer. */
 "Compress" = "压缩";
 
 /* No comment provided by engineer. */
@@ -122,6 +125,9 @@
 "Default Tap Action" = "默认点击动作";
 
 /* No comment provided by engineer. */
+"Default Volume Unit" = "默认卷单位";
+
+/* No comment provided by engineer. */
 "Delete" = "删除";
 
 /* No comment provided by engineer. */
@@ -137,10 +143,10 @@
 "Document" = "文档";
 
 /* No comment provided by engineer. */
-"done" = "完成";
+"Done" = "完成";
 
 /* No comment provided by engineer. */
-"Done" = "完成";
+"done" = "完成";
 
 /* No comment provided by engineer. */
 "Edit" = "编辑";
@@ -149,7 +155,7 @@
 "Encrypt Filenames" = "加密文件名";
 
 /* No comment provided by engineer. */
-"Encrypt Filenames if Possible" = "如果可以，加密文件名";
+"Encrypt Filenames if Possible" = "如果可用，加密文件名";
 
 /* No comment provided by engineer. */
 "Enter the password for the file\n\"%@\"" = "输入文件的密码\n\"%@\"";
@@ -215,7 +221,7 @@
 "Keka's Folder" = "Keka 的文件夹";
 
 /* No comment provided by engineer. */
-"Keka's icon" = "Keka 图标";
+"Keka's icon" = "Keka 的图标";
 
 /* No comment provided by engineer. */
 "Kind" = "种类";
@@ -311,6 +317,9 @@
 "Slowest" = "最慢";
 
 /* No comment provided by engineer. */
+"Split in volumes" = "分卷";
+
+/* No comment provided by engineer. */
 "Store" = "存储";
 
 /* No comment provided by engineer. */
@@ -318,6 +327,12 @@
 
 /* No comment provided by engineer. */
 "The changes could not be saved" = "更改无法保存";
+
+/* No comment provided by engineer. */
+"The character %@ is not compatilbe with the %@ format." = "字符 %@ 与 %@ 格式不兼容。";
+
+/* No comment provided by engineer. */
+"The characters %@ are not compatilbe with the %@ format." = "字符 %@ 与 %@ 格式不兼容。";
 
 /* No comment provided by engineer. */
 "The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "压缩可能需要比可用内存（%@）更多的内存，并且可能无法成功完成。将被限制为一个线程。";
@@ -333,6 +348,9 @@
 
 /* No comment provided by engineer. */
 "The folder is empty" = "文件夹为空";
+
+/* No comment provided by engineer. */
+"The password length should be %lld or higher." = "密码长度应为 %lld 位或更长。";
 
 /* No comment provided by engineer. */
 "The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "越慢的级别压缩效果越好。存储级别不进行任何压缩，只归档内容。";
@@ -378,6 +396,9 @@
 
 /* No comment provided by engineer. */
 "Use UTF-8 Encoding if Available" = "如果可用，使用 UTF-8 编码";
+
+/* No comment provided by engineer. */
+"Volume Size" = "卷大小";
 
 /* No comment provided by engineer. */
 "Welcome" = "欢迎";

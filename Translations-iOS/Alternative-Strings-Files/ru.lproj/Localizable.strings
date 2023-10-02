@@ -1,0 +1,411 @@
+/* No comment provided by engineer. */
+"%@ item" = "%@ элемент";
+
+/* No comment provided by engineer. */
+"%@ items" = "%@ элементов";
+
+/* No comment provided by engineer. */
+"%@ of %@ item" = "%@ из %@ элемента";
+
+/* No comment provided by engineer. */
+"%@ of %@ items" = "%@ из %@ элементов";
+
+/* No comment provided by engineer. */
+"About" = "О программе";
+
+/* No comment provided by engineer. */
+"Actions" = "Действия";
+
+/* No comment provided by engineer. */
+"Add a File" = "Добавить файл";
+
+/* No comment provided by engineer. */
+"Add a Folder" = "Добавить папку";
+
+/* No comment provided by engineer. */
+"Add some contents using the %@ button or the %@ and %@ buttons in the toolbar." = "Добавьте содержимое с помощью кнопки %@ или кнопок %@ и %@ на панели инструментов.";
+
+/* No comment provided by engineer. */
+"Allocated size" = "Выделенный размер";
+
+/* Default compression file name. */
+"ARCHIVE_DEFAULT_NAME" = "Архив";
+
+/* No comment provided by engineer. */
+"Ask" = "Спросить";
+
+/* Browse, operation description. */
+"BROWSE_OPERATION" = "Открыть";
+
+/* Browsing, operation running. */
+"BROWSE_RUNNING" = "Открытие";
+
+/* Browsing, tasks section title. */
+"BROWSE_SECTION_TITLE" = "Открыть";
+
+/* Browser settings title. */
+"Browser" = "Открыть";
+
+/* "by aone" part from "Made with love by aone". */
+"by %@" = "от %@";
+
+/* No comment provided by engineer. */
+"Calculate" = "Рассчитать";
+
+/* No comment provided by engineer. */
+"Cancel" = "Отменить";
+
+/* No comment provided by engineer. */
+"Choose" = "Выбрать";
+
+/* No comment provided by engineer. */
+"Clear Cache" = "Очистить кэш";
+
+/* No comment provided by engineer. */
+"Clear Cache Contents" = "Очистить содержимое кэша";
+
+/* No comment provided by engineer. */
+"Close" = "Закрыть";
+
+/* No comment provided by engineer. */
+"Comments" = "Комментарии";
+
+/* No comment provided by engineer. */
+"Compress" = "Сжать";
+
+/* No comment provided by engineer. */
+"compressed" = "сжато";
+
+/* No comment provided by engineer. */
+"Compressed size" = "Сжатый размер";
+
+/* Compression settings title. */
+"Compression" = "Сжатие";
+
+/* No comment provided by engineer. */
+"compression failed" = "сжатие не удалось";
+
+/* No comment provided by engineer. */
+"Compression Level:" = "Уровень сжатия:";
+
+/* Compression, operation description. */
+"COMPRESSION_OPERATION" = "Сжатие";
+
+/* Compressing, operation running. */
+"COMPRESSION_RUNNING" = "Сжатие";
+
+/* Compressing, tasks section title. */
+"COMPRESSION_SECTION_TITLE" = "Сжатие";
+
+/* No comment provided by engineer. */
+"Contents" = "Содержимое";
+
+/* No comment provided by engineer. */
+"Contents: %@, Size: %@" = "Содержимое: %@, Размер: %@";
+
+/* No comment provided by engineer. */
+"Created" = "Создано";
+
+/* No comment provided by engineer. */
+"Custom..." = "Настроить...";
+
+/* No comment provided by engineer. */
+"Date" = "Дата";
+
+/* No comment provided by engineer. */
+"Default Compression Level" = "Уровень сжатия по умолчанию";
+
+/* No comment provided by engineer. */
+"Default Destination" = "Место сохранения по умолчанию";
+
+/* No comment provided by engineer. */
+"Default Format" = "Формат по умолчанию";
+
+/* No comment provided by engineer. */
+"Default Tap Action" = "Действие при нажатии по умолчанию";
+
+/* No comment provided by engineer. */
+"Default Volume Unit" = "Единица объема по умолчанию";
+
+/* No comment provided by engineer. */
+"Delete" = "Удалить";
+
+/* No comment provided by engineer. */
+"Destination" = "Место назначения";
+
+/* No comment provided by engineer. */
+"Disable \"%@\" if you prefer to use a default configuration." = "Отключите \"%@\", если вы предпочитаете использовать конфигурацию по умолчанию.";
+
+/* No comment provided by engineer. */
+"Dismiss" = "Отклонить";
+
+/* No comment provided by engineer. */
+"Document" = "Документ";
+
+/* No comment provided by engineer. */
+"Done" = "Готово";
+
+/* No comment provided by engineer. */
+"done" = "завершено";
+
+/* No comment provided by engineer. */
+"Edit" = "Редактировать";
+
+/* No comment provided by engineer. */
+"Encrypt Filenames" = "Зашифровать имена файлов";
+
+/* No comment provided by engineer. */
+"Encrypt Filenames if Possible" = "Зашифровать имена файлов, если возможно";
+
+/* No comment provided by engineer. */
+"Enter the password for the file\n\"%@\"" = "Введите пароль для файла\n\"%@\"";
+
+/* No comment provided by engineer. */
+"Extract" = "Извлечь";
+
+/* No comment provided by engineer. */
+"Extract the file" = "Извлечь файл";
+
+/* No comment provided by engineer. */
+"extracted" = "извлечено";
+
+/* Extraction settings title. */
+"Extraction" = "Извлечение";
+
+/* No comment provided by engineer. */
+"extraction failed" = "извлечение не удалось";
+
+/* Extraction, operation description. */
+"EXTRACTION_OPERATION" = "Извлечение";
+
+/* Extracting, operation running. */
+"EXTRACTION_RUNNING" = "Извлечение";
+
+/* Extracting, tasks section title. */
+"EXTRACTION_SECTION_TITLE" = "Извлечение";
+
+/* No comment provided by engineer. */
+"failed" = "не удалось";
+
+/* No comment provided by engineer. */
+"Fast" = "Быстро";
+
+/* No comment provided by engineer. */
+"Fastest" = "Самый быстрый";
+
+/* No comment provided by engineer. */
+"Feedback" = "Обратная связь";
+
+/* No comment provided by engineer. */
+"File not informed properly, try again." = "Файл не указан правильно, попробуйте снова.";
+
+/* No comment provided by engineer. */
+"Format" = "Формат";
+
+/* General settings title. */
+"General" = "Общие";
+
+/* No comment provided by engineer. */
+"Get Info" = "Информация";
+
+/* No comment provided by engineer. */
+"Hide Password by Default" = "Скрывать пароль по умолчанию";
+
+/* No comment provided by engineer. */
+"If you got here, please get in touch with the developers." = "Если вы попали сюда, пожалуйста, свяжитесь с разработчиками.";
+
+/* No comment provided by engineer. */
+"Information" = "Информация";
+
+/* No comment provided by engineer. */
+"Keka's Folder" = "Папка Keka";
+
+/* No comment provided by engineer. */
+"Keka's icon" = "Значок Keka";
+
+/* No comment provided by engineer. */
+"Kind" = "Тип";
+
+/* No comment provided by engineer. */
+"Last opened" = "Последнее открытие";
+
+/* No comment provided by engineer. */
+"Loading" = "Загрузка";
+
+/* "Made with" part from "Made with love by aone". */
+"Made with" = "Сделано с";
+
+/* No comment provided by engineer. */
+"Modified" = "Изменено";
+
+/* No comment provided by engineer. */
+"Name" = "Имя";
+
+/* No comment provided by engineer. */
+"No contents" = "Нет содержимого";
+
+/* No comment provided by engineer. */
+"No contents available" = "Нет доступного содержимого";
+
+/* No comment provided by engineer. */
+"No files to extract" = "Нет файлов для извлечения";
+
+/* No comment provided by engineer. */
+"None" = "Нет";
+
+/* No comment provided by engineer. */
+"Normal" = "Обычный";
+
+/* No comment provided by engineer. */
+"Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files." = "Не все платформы поддерживают шифрование AES-256. Вам может понадобиться стороннее приложение (например, Keka) для открытия этих сжатых файлов.";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Open" = "Открыть";
+
+/* No comment provided by engineer. */
+"Password" = "Пароль";
+
+/* No comment provided by engineer. */
+"Password needed" = "Требуется пароль";
+
+/* No comment provided by engineer. */
+"Please enter the password for:" = "Пожалуйста, введите пароль для:";
+
+/* No comment provided by engineer. */
+"Please select the encoding for:" = "Пожалуйста, выберите кодировку для:";
+
+/* No comment provided by engineer. */
+"Preview" = "Просмотр";
+
+/* No comment provided by engineer. */
+"Quick Look" = "Быстрый просмотр";
+
+/* No comment provided by engineer. */
+"Remember Last Used Options" = "Запомнить последние настройки";
+
+/* No comment provided by engineer. */
+"Remove from cache" = "Удалить из кэша";
+
+/* No comment provided by engineer. */
+"Reset" = "Сбросить";
+
+/* No comment provided by engineer. */
+"Reset All Settings" = "Сбросить все настройки";
+
+/* No comment provided by engineer. */
+"Review" = "Обзор";
+
+/* No comment provided by engineer. */
+"Save" = "Сохранить";
+
+/* No comment provided by engineer. */
+"Settings" = "Настройки";
+
+/* No comment provided by engineer. */
+"Share" = "Поделиться";
+
+/* No comment provided by engineer. */
+"Size" = "Размер";
+
+/* No comment provided by engineer. */
+"Slow" = "Медленно";
+
+/* No comment provided by engineer. */
+"Slowest" = "Самое медленное";
+
+/* No comment provided by engineer. */
+"Split in volumes" = "Разбить на тома";
+
+/* No comment provided by engineer. */
+"Store" = "Сохранить";
+
+/* No comment provided by engineer. */
+"The %@ of space available in the destination might not be enough for compressing the estimated %@." = "Доступное место в месте назначения (%@) возможно, не хватит для сжатия оцененного %@.";
+
+/* No comment provided by engineer. */
+"The changes could not be saved" = "Изменения не могут быть сохранены";
+
+/* No comment provided by engineer. */
+"The character %@ is not compatilbe with the %@ format." = "Символ %@ не совместим с форматом %@.";
+
+/* No comment provided by engineer. */
+"The characters %@ are not compatilbe with the %@ format." = "Символы %@ не совместимы с форматом %@.";
+
+/* No comment provided by engineer. */
+"The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "Для сжатия может потребоваться больше памяти, чем доступно (%@), и оно может завершиться неудачно. Будет ограничено 1 потоком.";
+
+/* No comment provided by engineer. */
+"The compression will be limited to %lld thread/s due to memory constraints." = "Сжатие будет ограничено %lld потоками из-за ограничений памяти.";
+
+/* No comment provided by engineer. */
+"The destination has %@ of space available." = "В месте назначения доступно %@ места.";
+
+/* No comment provided by engineer. */
+"The file manager for iOS and macOS" = "Файловый менеджер для iOS и macOS";
+
+/* No comment provided by engineer. */
+"The folder is empty" = "Папка пуста";
+
+/* No comment provided by engineer. */
+"The password length should be %lld or higher." = "Длина пароля должна быть %lld или больше.";
+
+/* No comment provided by engineer. */
+"The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "Чем медленнее уровень, тем больше можно достичь сжатия. Уровень хранения вообще не выполняет сжатие, только архивирует содержимое.";
+
+/* No comment provided by engineer. */
+"To extract" = "Извлечь";
+
+/* No comment provided by engineer. */
+"Total size" = "Общий размер";
+
+/* No comment provided by engineer. */
+"Translated by %@" = "Переведено %@";
+
+/* The translator link, if any. Can be a mail address or a website. */
+"TRANSLATOR_LINK" = "TRANSLATOR_LINK"; // THIS IS NOT LOCALIZED
+
+/* The translator name, if any. */
+"TRANSLATOR_NAME" = "TRANSLATOR_NAME"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Type" = "Тип";
+
+/* No comment provided by engineer. */
+"Unable to apply the app icon" = "Не удалось применить значок приложения";
+
+/* No comment provided by engineer. */
+"Unable to browse \"%@\"" = "Не удалось просмотреть \"%@\"";
+
+/* No comment provided by engineer. */
+"Unable to determine the available space." = "Не удалось определить доступное место.";
+
+/* No comment provided by engineer. */
+"Unable to get encoding data" = "Не удалось получить данные о кодировке";
+
+/* No comment provided by engineer. */
+"Use AES-256 Encryption" = "Использовать шифрование AES-256";
+
+/* No comment provided by engineer. */
+"Use AES-256 if Available" = "Использовать AES-256, если доступно";
+
+/* No comment provided by engineer. */
+"Use special coloring for known formats" = "Использовать специальную окраску для известных форматов";
+
+/* No comment provided by engineer. */
+"Use UTF-8 Encoding if Available" = "Использовать кодировку UTF-8, если доступно";
+
+/* No comment provided by engineer. */
+"Volume Size" = "Размер тома";
+
+/* No comment provided by engineer. */
+"Welcome" = "Добро пожаловать";
+
+/* The "Welcome to Keka" title. */
+"Welcome to %@" = "Добро пожаловать в %@";
+
+/* No comment provided by engineer. */
+"Where" = "Где";
+

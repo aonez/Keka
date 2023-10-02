@@ -1,10 +1,4 @@
 /* No comment provided by engineer. */
-"\"%@\"" = "\"%@\"";
-
-/* No comment provided by engineer. */
-"%@" = "%@";
-
-/* No comment provided by engineer. */
 "%@ item" = "%@ đơn vị";
 
 /* No comment provided by engineer. */
@@ -74,6 +68,9 @@
 "Close" = "Đóng";
 
 /* No comment provided by engineer. */
+"Comments" = "Comments"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Compress" = "Nén";
 
 /* No comment provided by engineer. */
@@ -128,6 +125,9 @@
 "Default Tap Action" = "Lệnh chạm mặc định";
 
 /* No comment provided by engineer. */
+"Default Volume Unit" = "Default Volume Unit"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Delete" = "Xoá";
 
 /* No comment provided by engineer. */
@@ -143,10 +143,10 @@
 "Document" = "Văn thư";
 
 /* No comment provided by engineer. */
-"done" = "hoàn thành";
+"Done" = "Hoàn thành";
 
 /* No comment provided by engineer. */
-"Done" = "Hoàn thành";
+"done" = "hoàn thành";
 
 /* No comment provided by engineer. */
 "Edit" = "Sửa";
@@ -317,6 +317,9 @@
 "Slowest" = "Chậm nhất";
 
 /* No comment provided by engineer. */
+"Split in volumes" = "Split in volumes"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Store" = "Lưu trữ";
 
 /* No comment provided by engineer. */
@@ -324,6 +327,12 @@
 
 /* No comment provided by engineer. */
 "The changes could not be saved" = "Không thể lưu lại các thay đổi";
+
+/* No comment provided by engineer. */
+"The character %@ is not compatilbe with the %@ format." = "Ký tự %@ không tương thích với định dạng %@.";
+
+/* No comment provided by engineer. */
+"The characters %@ are not compatilbe with the %@ format." = "Các ký tự %@ không tương thích với định dạng %@.";
 
 /* No comment provided by engineer. */
 "The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "Quá trình nén cần (%@) bộ nhớ tạm hoặc nhiều hơn và có thể không thành công. Ứng dụng sẽ giới hạn xuống còn 1 luồng xử lý.";
@@ -339,6 +348,9 @@
 
 /* No comment provided by engineer. */
 "The folder is empty" = "Thư mục này trống rỗng";
+
+/* No comment provided by engineer. */
+"The password length should be %lld or higher." = "Độ dài mật khẩu nên từ %lld ký tự hoặc cao hơn.";
 
 /* No comment provided by engineer. */
 "The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "Mức độ nén càng chậm thì tỉ lệ nén càng cao. Ở mức nén lưu trữ, nội dung không hề bị nén mà chỉ được đóng gói nhanh thành tập tin nén.";
@@ -384,6 +396,9 @@
 
 /* No comment provided by engineer. */
 "Use UTF-8 Encoding if Available" = "Sử dụng mã hoá UTF-8 nếu có";
+
+/* No comment provided by engineer. */
+"Volume Size" = "Volume Size"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Welcome" = "Chào mừng";

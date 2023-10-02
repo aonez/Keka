@@ -417,6 +417,7 @@
       </trans-unit>
       <trans-unit id="Comments" xml:space="preserve">
         <source>Comments</source>
+        <target>Commenti</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Compress" xml:space="preserve">
@@ -816,6 +817,16 @@
         <target>Non è stato possibile salvare le modifiche</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="The character %@ is not compatilbe with the %@ format." xml:space="preserve">
+        <source>The character %@ is not compatilbe with the %@ format.</source>
+        <target>Il carattere %@ non è compatibile con il formato %@.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The characters %@ are not compatilbe with the %@ format." xml:space="preserve">
+        <source>The characters %@ are not compatilbe with the %@ format.</source>
+        <target>I caratteri %@ non sono compatibili con il formato %@.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." xml:space="preserve">
         <source>The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread.</source>
         <target>La compressione potrebbe richiedere più memoria di quella (%@) disponibile e potrebbe non essere completata con successo. Sarà limitata a 1 thread.</target>
@@ -839,6 +850,11 @@
       <trans-unit id="The folder is empty" xml:space="preserve">
         <source>The folder is empty</source>
         <target>La cartella è vuota</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The password length should be %lld or higher." xml:space="preserve">
+        <source>The password length should be %lld or higher.</source>
+        <target>La password deve essere lunga almeno %lld caratteri.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." xml:space="preserve">

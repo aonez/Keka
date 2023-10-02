@@ -277,19 +277,17 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Keka/en.lproj/Localizable.strings" source-language="en" target-language="en" datatype="plaintext">
+  <file original="Keka/en.lproj/Localizable.strings" source-language="en" target-language="bg" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.3.1" build-num="14E300c"/>
     </header>
     <body>
       <trans-unit id="&quot;%@&quot;" xml:space="preserve">
         <source>"%@"</source>
-        <target>"%@"</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@" xml:space="preserve">
         <source>%@</source>
-        <target>%@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ item" xml:space="preserve">
@@ -819,6 +817,16 @@
         <target>Промените не могат да бъдат запазени</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="The character %@ is not compatilbe with the %@ format." xml:space="preserve">
+        <source>The character %@ is not compatilbe with the %@ format.</source>
+        <target>Символът %@ не е съвместим с формата %@.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The characters %@ are not compatilbe with the %@ format." xml:space="preserve">
+        <source>The characters %@ are not compatilbe with the %@ format.</source>
+        <target>Символите %@ не са съвместими с формата %@.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." xml:space="preserve">
         <source>The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread.</source>
         <target>Архивирането може да изисква повече памет от наличната (%@) и може да не бъде завършено успешно. Ще бъде ограничено до 1 нишка.</target>
@@ -842,6 +850,11 @@
       <trans-unit id="The folder is empty" xml:space="preserve">
         <source>The folder is empty</source>
         <target>Папката е празна</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The password length should be %lld or higher." xml:space="preserve">
+        <source>The password length should be %lld or higher.</source>
+        <target>Дължината на паролата трябва да е минимум %lld символа или повече.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." xml:space="preserve">
@@ -966,7 +979,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="KekaBrowseAction/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+  <file original="KekaBrowseAction/en.lproj/InfoPlist.strings" source-language="en" target-language="bg" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.3.1" build-num="14E300c"/>
     </header>
@@ -978,7 +991,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="KekaCompressionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+  <file original="KekaCompressionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="bg" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.3.1" build-num="14E300c"/>
     </header>
@@ -990,7 +1003,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="KekaExtractionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+  <file original="KekaExtractionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="bg" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.3.1" build-num="14E300c"/>
     </header>

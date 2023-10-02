@@ -1,0 +1,411 @@
+/* No comment provided by engineer. */
+"%@ item" = "%@ елемент";
+
+/* No comment provided by engineer. */
+"%@ items" = "%@ елемента";
+
+/* No comment provided by engineer. */
+"%@ of %@ item" = "%@ от %@ елемент";
+
+/* No comment provided by engineer. */
+"%@ of %@ items" = "%@ от %@ елемента";
+
+/* No comment provided by engineer. */
+"About" = "Относно";
+
+/* No comment provided by engineer. */
+"Actions" = "Действия";
+
+/* No comment provided by engineer. */
+"Add a File" = "Добавяне на файл";
+
+/* No comment provided by engineer. */
+"Add a Folder" = "Добавяне на папка";
+
+/* No comment provided by engineer. */
+"Add some contents using the %@ button or the %@ and %@ buttons in the toolbar." = "Добавете малко съдържание с помощта на бутона %@ или бутоните %@ и %@ в лентата с инструменти.";
+
+/* No comment provided by engineer. */
+"Allocated size" = "Разпределен размер";
+
+/* Default compression file name. */
+"ARCHIVE_DEFAULT_NAME" = "Архив";
+
+/* No comment provided by engineer. */
+"Ask" = "Питай";
+
+/* Browse, operation description. */
+"BROWSE_OPERATION" = "Прегледай";
+
+/* Browsing, operation running. */
+"BROWSE_RUNNING" = "Преглеждане";
+
+/* Browsing, tasks section title. */
+"BROWSE_SECTION_TITLE" = "Преглеждане";
+
+/* Browser settings title. */
+"Browser" = "Браузър";
+
+/* "by aone" part from "Made with love by aone". */
+"by %@" = "от %@";
+
+/* No comment provided by engineer. */
+"Calculate" = "Изчисляване";
+
+/* No comment provided by engineer. */
+"Cancel" = "Отказ";
+
+/* No comment provided by engineer. */
+"Choose" = "Избор";
+
+/* No comment provided by engineer. */
+"Clear Cache" = "Изчистване на кеша";
+
+/* No comment provided by engineer. */
+"Clear Cache Contents" = "Изчистване на елементите в кеша";
+
+/* No comment provided by engineer. */
+"Close" = "Затваряне";
+
+/* No comment provided by engineer. */
+"Comments" = "Коментари";
+
+/* No comment provided by engineer. */
+"Compress" = "Архивирай";
+
+/* No comment provided by engineer. */
+"compressed" = "архивирани";
+
+/* No comment provided by engineer. */
+"Compressed size" = "Архивиран размер";
+
+/* Compression settings title. */
+"Compression" = "Архивиране";
+
+/* No comment provided by engineer. */
+"compression failed" = "архивирането е провалено";
+
+/* No comment provided by engineer. */
+"Compression Level:" = "Ниво на архивиране:";
+
+/* Compression, operation description. */
+"COMPRESSION_OPERATION" = "Архивиране";
+
+/* Compressing, operation running. */
+"COMPRESSION_RUNNING" = "Архивиране";
+
+/* Compressing, tasks section title. */
+"COMPRESSION_SECTION_TITLE" = "Архивиране";
+
+/* No comment provided by engineer. */
+"Contents" = "Съдържание";
+
+/* No comment provided by engineer. */
+"Contents: %@, Size: %@" = "Съдържание: %@, Размер: %@";
+
+/* No comment provided by engineer. */
+"Created" = "Създадено";
+
+/* No comment provided by engineer. */
+"Custom..." = "Персонализирано...";
+
+/* No comment provided by engineer. */
+"Date" = "Дата";
+
+/* No comment provided by engineer. */
+"Default Compression Level" = "Ниво на архивиране по подразбиране";
+
+/* No comment provided by engineer. */
+"Default Destination" = "Място по подразбиране";
+
+/* No comment provided by engineer. */
+"Default Format" = "Формат по подразбиранеt";
+
+/* No comment provided by engineer. */
+"Default Tap Action" = "Действие по подразбиране";
+
+/* No comment provided by engineer. */
+"Default Volume Unit" = "Единица за обем по подразбиране";
+
+/* No comment provided by engineer. */
+"Delete" = "Изтриване";
+
+/* No comment provided by engineer. */
+"Destination" = "Местоположение";
+
+/* No comment provided by engineer. */
+"Disable \"%@\" if you prefer to use a default configuration." = "Деактивирайте \"%@\", ако предпочитате да използвате конфигурация по подразбиране.";
+
+/* No comment provided by engineer. */
+"Dismiss" = "Отказ";
+
+/* No comment provided by engineer. */
+"Document" = "Документ";
+
+/* No comment provided by engineer. */
+"Done" = "Готово";
+
+/* No comment provided by engineer. */
+"done" = "готово";
+
+/* No comment provided by engineer. */
+"Edit" = "Редактиране";
+
+/* No comment provided by engineer. */
+"Encrypt Filenames" = "Криптиране на файловите имена";
+
+/* No comment provided by engineer. */
+"Encrypt Filenames if Possible" = "Криптиране на файловите имена ако е възможно";
+
+/* No comment provided by engineer. */
+"Enter the password for the file\n\"%@\"" = "Въведете паролата за файла\n\"%@\"";
+
+/* No comment provided by engineer. */
+"Extract" = "Разархивиране";
+
+/* No comment provided by engineer. */
+"Extract the file" = "Разархивиране на файла";
+
+/* No comment provided by engineer. */
+"extracted" = "разархивирани";
+
+/* Extraction settings title. */
+"Extraction" = "Разархиване";
+
+/* No comment provided by engineer. */
+"extraction failed" = "разархивирането е провалено";
+
+/* Extraction, operation description. */
+"EXTRACTION_OPERATION" = "Разархивиране";
+
+/* Extracting, operation running. */
+"EXTRACTION_RUNNING" = "Разархивиране";
+
+/* Extracting, tasks section title. */
+"EXTRACTION_SECTION_TITLE" = "Разархивиране";
+
+/* No comment provided by engineer. */
+"failed" = "провалено";
+
+/* No comment provided by engineer. */
+"Fast" = "Бързо";
+
+/* No comment provided by engineer. */
+"Fastest" = "Най-бързо";
+
+/* No comment provided by engineer. */
+"Feedback" = "Обратна връзка";
+
+/* No comment provided by engineer. */
+"File not informed properly, try again." = "Файлът не е информиран правилно, опитайте отново.";
+
+/* No comment provided by engineer. */
+"Format" = "Формат";
+
+/* General settings title. */
+"General" = "Общи";
+
+/* No comment provided by engineer. */
+"Get Info" = "Информация";
+
+/* No comment provided by engineer. */
+"Hide Password by Default" = "Скриване на паролата по подразбиране";
+
+/* No comment provided by engineer. */
+"If you got here, please get in touch with the developers." = "Ако попаднете тук, моля, свържете се с разработчиците.";
+
+/* No comment provided by engineer. */
+"Information" = "Информация";
+
+/* No comment provided by engineer. */
+"Keka's Folder" = "Папка на Keka";
+
+/* No comment provided by engineer. */
+"Keka's icon" = "Икона на Keka";
+
+/* No comment provided by engineer. */
+"Kind" = "Вид";
+
+/* No comment provided by engineer. */
+"Last opened" = "Последно отворено";
+
+/* No comment provided by engineer. */
+"Loading" = "Зареждане";
+
+/* "Made with" part from "Made with love by aone". */
+"Made with" = "Направено с";
+
+/* No comment provided by engineer. */
+"Modified" = "Променено";
+
+/* No comment provided by engineer. */
+"Name" = "Име";
+
+/* No comment provided by engineer. */
+"No contents" = "Без коментари";
+
+/* No comment provided by engineer. */
+"No contents available" = "Няма налично съдържание";
+
+/* No comment provided by engineer. */
+"No files to extract" = "Няма файлове за разархивиране";
+
+/* No comment provided by engineer. */
+"None" = "Нищо";
+
+/* No comment provided by engineer. */
+"Normal" = "Нормално";
+
+/* No comment provided by engineer. */
+"Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files." = "Не всички платформи поддържат криптиране на AES-256. Може да се нуждаете от приложение на трета страна (като Keka), за да отворите тези компресирани файлове.";
+
+/* No comment provided by engineer. */
+"OK" = "Добре";
+
+/* No comment provided by engineer. */
+"Open" = "Отваряне";
+
+/* No comment provided by engineer. */
+"Password" = "Парола";
+
+/* No comment provided by engineer. */
+"Password needed" = "Нужна е парола";
+
+/* No comment provided by engineer. */
+"Please enter the password for:" = "Моля, въведете паролата за:";
+
+/* No comment provided by engineer. */
+"Please select the encoding for:" = "Моля, изберете кодировката за:";
+
+/* No comment provided by engineer. */
+"Preview" = "Преглед";
+
+/* No comment provided by engineer. */
+"Quick Look" = "Бърз преглед";
+
+/* No comment provided by engineer. */
+"Remember Last Used Options" = "Запомняне на последно използваните настройки";
+
+/* No comment provided by engineer. */
+"Remove from cache" = "Премахване от кеша";
+
+/* No comment provided by engineer. */
+"Reset" = "Нулиране";
+
+/* No comment provided by engineer. */
+"Reset All Settings" = "Нулиране на всички настройки";
+
+/* No comment provided by engineer. */
+"Review" = "Разглеждане";
+
+/* No comment provided by engineer. */
+"Save" = "Запазване";
+
+/* No comment provided by engineer. */
+"Settings" = "Настройки";
+
+/* No comment provided by engineer. */
+"Share" = "Споделяне";
+
+/* No comment provided by engineer. */
+"Size" = "Размер";
+
+/* No comment provided by engineer. */
+"Slow" = "Бавно";
+
+/* No comment provided by engineer. */
+"Slowest" = "Най-бавно";
+
+/* No comment provided by engineer. */
+"Split in volumes" = "Разделяне на томове";
+
+/* No comment provided by engineer. */
+"Store" = "Само запазване";
+
+/* No comment provided by engineer. */
+"The %@ of space available in the destination might not be enough for compressing the estimated %@." = "%@ наличното пространство в местоназначението може да не е достатъчно за компресиране на прогнозните %@.";
+
+/* No comment provided by engineer. */
+"The changes could not be saved" = "Промените не могат да бъдат запазени";
+
+/* No comment provided by engineer. */
+"The character %@ is not compatilbe with the %@ format." = "Символът %@ не е съвместим с формата %@.";
+
+/* No comment provided by engineer. */
+"The characters %@ are not compatilbe with the %@ format." = "Символите %@ не са съвместими с формата %@.";
+
+/* No comment provided by engineer. */
+"The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "Архивирането може да изисква повече памет от наличната (%@) и може да не бъде завършено успешно. Ще бъде ограничено до 1 нишка.";
+
+/* No comment provided by engineer. */
+"The compression will be limited to %lld thread/s due to memory constraints." = "Компресията ще бъде ограничена до %lld нишка/и поради ограничения на паметта.";
+
+/* No comment provided by engineer. */
+"The destination has %@ of space available." = "Дестинацията има %@ свободно място.";
+
+/* No comment provided by engineer. */
+"The file manager for iOS and macOS" = "Файловият мениджър за iOS и macOS";
+
+/* No comment provided by engineer. */
+"The folder is empty" = "Папката е празна";
+
+/* No comment provided by engineer. */
+"The password length should be %lld or higher." = "Дължината на паролата трябва да е минимум %lld символа или повече.";
+
+/* No comment provided by engineer. */
+"The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "Колкото по-бавно е нивото, толкова по-голяма компресия може да се постигне. Нивото само на запазване изобщо не компресира, а само архивира съдържанието.";
+
+/* No comment provided by engineer. */
+"To extract" = "Да разархивира";
+
+/* No comment provided by engineer. */
+"Total size" = "Общ размер";
+
+/* No comment provided by engineer. */
+"Translated by %@" = "Преведено от %@";
+
+/* The translator link, if any. Can be a mail address or a website. */
+"TRANSLATOR_LINK" = "miroslav.dragoev@icloud.com";
+
+/* The translator name, if any. */
+"TRANSLATOR_NAME" = "Мирослав Драгоев";
+
+/* No comment provided by engineer. */
+"Type" = "Тип";
+
+/* No comment provided by engineer. */
+"Unable to apply the app icon" = "Не може да се приложи иконата на приложението";
+
+/* No comment provided by engineer. */
+"Unable to browse \"%@\"" = "Не може да се разгледа \"%@\"";
+
+/* No comment provided by engineer. */
+"Unable to determine the available space." = "Не може да се определи наличното пространство.";
+
+/* No comment provided by engineer. */
+"Unable to get encoding data" = "Не може да се получат данни за кодиране";
+
+/* No comment provided by engineer. */
+"Use AES-256 Encryption" = "Използване на AES-256 кодиране";
+
+/* No comment provided by engineer. */
+"Use AES-256 if Available" = "Използване на AES-256 ако е възможно";
+
+/* No comment provided by engineer. */
+"Use special coloring for known formats" = "Използване на специално оцветяване за известни формати";
+
+/* No comment provided by engineer. */
+"Use UTF-8 Encoding if Available" = "Използване на UTF-8 кодиране ако е възможно";
+
+/* No comment provided by engineer. */
+"Volume Size" = "Размер на тома";
+
+/* No comment provided by engineer. */
+"Welcome" = "Добре дошли";
+
+/* The "Welcome to Keka" title. */
+"Welcome to %@" = "Добре дошли в %@";
+
+/* No comment provided by engineer. */
+"Where" = "Къде";
+

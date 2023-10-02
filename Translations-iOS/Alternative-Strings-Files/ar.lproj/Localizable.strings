@@ -1,0 +1,411 @@
+/* No comment provided by engineer. */
+"%@ item" = "%@ عنصر";
+
+/* No comment provided by engineer. */
+"%@ items" = "%@ عناصر";
+
+/* No comment provided by engineer. */
+"%@ of %@ item" = "%@ of %@ عنصر";
+
+/* No comment provided by engineer. */
+"%@ of %@ items" = "%@ of %@ عناصر";
+
+/* No comment provided by engineer. */
+"About" = "حول";
+
+/* No comment provided by engineer. */
+"Actions" = "الأوضاع";
+
+/* No comment provided by engineer. */
+"Add a File" = "أضف ملف";
+
+/* No comment provided by engineer. */
+"Add a Folder" = "أضف مجلد";
+
+/* No comment provided by engineer. */
+"Add some contents using the %@ button or the %@ and %@ buttons in the toolbar." = "أضف بعض المحتويات بإستخدام زر %@ أو شعار الـ %@  و %@ في الشريط العلوي.";
+
+/* No comment provided by engineer. */
+"Allocated size" = "الحجم المخصص";
+
+/* Default compression file name. */
+"ARCHIVE_DEFAULT_NAME" = "أرشيف";
+
+/* No comment provided by engineer. */
+"Ask" = "إسأل";
+
+/* Browse, operation description. */
+"BROWSE_OPERATION" = "معاينة";
+
+/* Browsing, operation running. */
+"BROWSE_RUNNING" = "تصفح";
+
+/* Browsing, tasks section title. */
+"BROWSE_SECTION_TITLE" = "تصفح";
+
+/* Browser settings title. */
+"Browser" = "التصفح";
+
+/* "by aone" part from "Made with love by aone". */
+"by %@" = "بواسطة %@";
+
+/* No comment provided by engineer. */
+"Calculate" = "إحسب";
+
+/* No comment provided by engineer. */
+"Cancel" = "إلغاء";
+
+/* No comment provided by engineer. */
+"Choose" = "إختر";
+
+/* No comment provided by engineer. */
+"Clear Cache" = "مسح ذاكرة التخزين المؤقتة";
+
+/* No comment provided by engineer. */
+"Clear Cache Contents" = "مسح محتويات ذاكرة التخزين المؤقتة";
+
+/* No comment provided by engineer. */
+"Close" = "إغلاق";
+
+/* No comment provided by engineer. */
+"Comments" = "ملاحظات";
+
+/* No comment provided by engineer. */
+"Compress" = "ضغط";
+
+/* No comment provided by engineer. */
+"compressed" = "تم الضغط";
+
+/* No comment provided by engineer. */
+"Compressed size" = "ملف مضغوط";
+
+/* Compression settings title. */
+"Compression" = "الضغط";
+
+/* No comment provided by engineer. */
+"compression failed" = "فشل الضغط";
+
+/* No comment provided by engineer. */
+"Compression Level:" = "مستوى الضغط:";
+
+/* Compression, operation description. */
+"COMPRESSION_OPERATION" = "ضغط الملفات";
+
+/* Compressing, operation running. */
+"COMPRESSION_RUNNING" = "جاري الضغط";
+
+/* Compressing, tasks section title. */
+"COMPRESSION_SECTION_TITLE" = "ضغط الملفات";
+
+/* No comment provided by engineer. */
+"Contents" = "المحتويات";
+
+/* No comment provided by engineer. */
+"Contents: %@, Size: %@" = "محتويات: %@, حجم: %@";
+
+/* No comment provided by engineer. */
+"Created" = "تم إنشاؤها";
+
+/* No comment provided by engineer. */
+"Custom..." = "تخصيص...";
+
+/* No comment provided by engineer. */
+"Date" = "اليوم";
+
+/* No comment provided by engineer. */
+"Default Compression Level" = "مستوى الضغط الإفتراضي";
+
+/* No comment provided by engineer. */
+"Default Destination" = "مجلد الوجهة الافتراضية";
+
+/* No comment provided by engineer. */
+"Default Format" = "الصيغة الإفتراضية";
+
+/* No comment provided by engineer. */
+"Default Tap Action" = "إجراء النقر الافتراضي";
+
+/* No comment provided by engineer. */
+"Default Volume Unit" = "وحدة التخزين الافتراضية";
+
+/* No comment provided by engineer. */
+"Delete" = "حذف";
+
+/* No comment provided by engineer. */
+"Destination" = "الوجهة";
+
+/* No comment provided by engineer. */
+"Disable \"%@\" if you prefer to use a default configuration." = "عطّل \"%@\" إن كنت تفضل استخدام التكوين الافتراضي.";
+
+/* No comment provided by engineer. */
+"Dismiss" = "إلغاء";
+
+/* No comment provided by engineer. */
+"Document" = "مستند";
+
+/* No comment provided by engineer. */
+"Done" = "تم";
+
+/* No comment provided by engineer. */
+"done" = "تم";
+
+/* No comment provided by engineer. */
+"Edit" = "تعديل";
+
+/* No comment provided by engineer. */
+"Encrypt Filenames" = "شفّر إسم الملف";
+
+/* No comment provided by engineer. */
+"Encrypt Filenames if Possible" = "شفّر اسم الملف إن كان متاحاً";
+
+/* No comment provided by engineer. */
+"Enter the password for the file\n\"%@\"" = "أدخل الرقم السري للملف\n\"%@\"";
+
+/* No comment provided by engineer. */
+"Extract" = "فك الضغط";
+
+/* No comment provided by engineer. */
+"Extract the file" = "فك ضغط الملف";
+
+/* No comment provided by engineer. */
+"extracted" = "تم فك الضغط";
+
+/* Extraction settings title. */
+"Extraction" = "فك ضغط الملفات";
+
+/* No comment provided by engineer. */
+"extraction failed" = "فشل فك الضغط";
+
+/* Extraction, operation description. */
+"EXTRACTION_OPERATION" = "فك ضغط الملفات";
+
+/* Extracting, operation running. */
+"EXTRACTION_RUNNING" = "جاري فك الضغط";
+
+/* Extracting, tasks section title. */
+"EXTRACTION_SECTION_TITLE" = "فك الضغط";
+
+/* No comment provided by engineer. */
+"failed" = "فشل";
+
+/* No comment provided by engineer. */
+"Fast" = "سريع";
+
+/* No comment provided by engineer. */
+"Fastest" = "أسرع";
+
+/* No comment provided by engineer. */
+"Feedback" = "تعليق";
+
+/* No comment provided by engineer. */
+"File not informed properly, try again." = "الملف لم يبلغ بشكل صحيح, حاول مرة أخرى.";
+
+/* No comment provided by engineer. */
+"Format" = "الصيغة";
+
+/* General settings title. */
+"General" = "عام";
+
+/* No comment provided by engineer. */
+"Get Info" = "الحصول على معلومات";
+
+/* No comment provided by engineer. */
+"Hide Password by Default" = "إخفِ الرقم السري بشكل إفتراضي";
+
+/* No comment provided by engineer. */
+"If you got here, please get in touch with the developers." = "إذا وصلت إلى هنا، يرجى التواصل مع المطورين.";
+
+/* No comment provided by engineer. */
+"Information" = "معلومات";
+
+/* No comment provided by engineer. */
+"Keka's Folder" = "Keka مجلد";
+
+/* No comment provided by engineer. */
+"Keka's icon" = "Keka's أيقونة";
+
+/* No comment provided by engineer. */
+"Kind" = "نوع";
+
+/* No comment provided by engineer. */
+"Last opened" = "فُتح مؤخراً";
+
+/* No comment provided by engineer. */
+"Loading" = "تحميل";
+
+/* "Made with" part from "Made with love by aone". */
+"Made with" = "صنع بـ";
+
+/* No comment provided by engineer. */
+"Modified" = "معدل";
+
+/* No comment provided by engineer. */
+"Name" = "إسم";
+
+/* No comment provided by engineer. */
+"No contents" = "لايوجد محتوى";
+
+/* No comment provided by engineer. */
+"No contents available" = "لايوجد محتوى متاح";
+
+/* No comment provided by engineer. */
+"No files to extract" = "لايوجد ملف لفك الضغط عنه";
+
+/* No comment provided by engineer. */
+"None" = "لاشيء";
+
+/* No comment provided by engineer. */
+"Normal" = "عادي";
+
+/* No comment provided by engineer. */
+"Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files." = "ليس كل المنصات تدعم تشفير AES-256. قد تحتاج إلى تطبيق طرف ثالث (مثل Keka) لفتح هذه الملفات المضغوطة.";
+
+/* No comment provided by engineer. */
+"OK" = "تم";
+
+/* No comment provided by engineer. */
+"Open" = "فتح";
+
+/* No comment provided by engineer. */
+"Password" = "الرقم السري";
+
+/* No comment provided by engineer. */
+"Password needed" = "الرقم السري مطلوب";
+
+/* No comment provided by engineer. */
+"Please enter the password for:" = "فضلاً أدخل الرقم السري:";
+
+/* No comment provided by engineer. */
+"Please select the encoding for:" = "فضلاً إختر الترميز لـ:";
+
+/* No comment provided by engineer. */
+"Preview" = "مشاهدة";
+
+/* No comment provided by engineer. */
+"Quick Look" = "نظرة سريعة";
+
+/* No comment provided by engineer. */
+"Remember Last Used Options" = "تذكر العمليات المستخدمة مؤخراً";
+
+/* No comment provided by engineer. */
+"Remove from cache" = "إزالة من الذاكرة المؤقتة";
+
+/* No comment provided by engineer. */
+"Reset" = "إعادة تعيين";
+
+/* No comment provided by engineer. */
+"Reset All Settings" = "إستعادة جميع الإعدادات";
+
+/* No comment provided by engineer. */
+"Review" = "مراجعة";
+
+/* No comment provided by engineer. */
+"Save" = "حفظ";
+
+/* No comment provided by engineer. */
+"Settings" = "إعدادات";
+
+/* No comment provided by engineer. */
+"Share" = "مشاركة";
+
+/* No comment provided by engineer. */
+"Size" = "حجم";
+
+/* No comment provided by engineer. */
+"Slow" = "بطيء";
+
+/* No comment provided by engineer. */
+"Slowest" = "أبطأ";
+
+/* No comment provided by engineer. */
+"Split in volumes" = "التقسيم في وحدات تخزين";
+
+/* No comment provided by engineer. */
+"Store" = "تخزين";
+
+/* No comment provided by engineer. */
+"The %@ of space available in the destination might not be enough for compressing the estimated %@." = "الـ %@ المساحة المتوفرة في الوجهة قد لا تكون كافية لضغط المساحة المقدرة %@.";
+
+/* No comment provided by engineer. */
+"The changes could not be saved" = "التغييرات قد لاتحفظ";
+
+/* No comment provided by engineer. */
+"The character %@ is not compatilbe with the %@ format." = "الحرف %@ غير متوافق مع صيغة %@.";
+
+/* No comment provided by engineer. */
+"The characters %@ are not compatilbe with the %@ format." = "الأحرف %@ غير متوافقة مع صيغة %@.";
+
+/* No comment provided by engineer. */
+"The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "قد يحتاج الضغط إلى ذاكرة أكبر من المتوفرة (%@) وربما لا تكتمل بنجاح. سيقتصر على سلسلة واحدة.";
+
+/* No comment provided by engineer. */
+"The compression will be limited to %lld thread/s due to memory constraints." = "سيقتصر الضغط على %lld سلسلة لكل ثانية بسبب قيود الذاكرة.";
+
+/* No comment provided by engineer. */
+"The destination has %@ of space available." = "الوجهة المحددة لديها %@ من المساحة المتاحة.";
+
+/* No comment provided by engineer. */
+"The file manager for iOS and macOS" = "مدير الملفات للـ iOS و macOS";
+
+/* No comment provided by engineer. */
+"The folder is empty" = "المجلد فارغ";
+
+/* No comment provided by engineer. */
+"The password length should be %lld or higher." = "عدد أحرف الرقم السري يجب أن تكون %lld أو أكثر.";
+
+/* No comment provided by engineer. */
+"The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "كلما كان المستوى أبطأ، كلما أمكن تحقيق المزيد من الضغط. لا يقوم مستوى التخزين بعملية الضغط على الإطلاق، بل يقوم فقط بأرشفة المحتويات.";
+
+/* No comment provided by engineer. */
+"To extract" = "لفك الضغط";
+
+/* No comment provided by engineer. */
+"Total size" = "الحجم الكلي";
+
+/* No comment provided by engineer. */
+"Translated by %@" = "تم ترجمته بواسطة %@";
+
+/* The translator link, if any. Can be a mail address or a website. */
+"TRANSLATOR_LINK" = "https://x.com/mr_thamer";
+
+/* The translator name, if any. */
+"TRANSLATOR_NAME" = "Thamer AlGhali";
+
+/* No comment provided by engineer. */
+"Type" = "نوع";
+
+/* No comment provided by engineer. */
+"Unable to apply the app icon" = "غير قادر على تطبيق أيقونة التطبيق";
+
+/* No comment provided by engineer. */
+"Unable to browse \"%@\"" = "لايمكن تصفح \"%@\"";
+
+/* No comment provided by engineer. */
+"Unable to determine the available space." = "غير قادر على تحديد المساحة المتوفرة.";
+
+/* No comment provided by engineer. */
+"Unable to get encoding data" = "غير قادر على الحصول على بيانات الترميز";
+
+/* No comment provided by engineer. */
+"Use AES-256 Encryption" = "استخدم تشفير AES-256";
+
+/* No comment provided by engineer. */
+"Use AES-256 if Available" = "استخدم AES-256 ان كان متاحاً";
+
+/* No comment provided by engineer. */
+"Use special coloring for known formats" = "استخدم تلوينًا خاصًا للتنسيقات المعروفة";
+
+/* No comment provided by engineer. */
+"Use UTF-8 Encoding if Available" = "استخدم ترميز UTF-8 ان كان متاحاً";
+
+/* No comment provided by engineer. */
+"Volume Size" = "وحدة التخزين";
+
+/* No comment provided by engineer. */
+"Welcome" = "مرحباً";
+
+/* The "Welcome to Keka" title. */
+"Welcome to %@" = "مرحباً بك في %@";
+
+/* No comment provided by engineer. */
+"Where" = "أين";
+
