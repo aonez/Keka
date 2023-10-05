@@ -312,7 +312,7 @@
       </trans-unit>
       <trans-unit id="ARCHIVE_DEFAULT_NAME" xml:space="preserve">
         <source>Archive</source>
-        <target>文件</target>
+        <target>封存檔</target>
         <note>Default compression file name.</note>
       </trans-unit>
       <trans-unit id="About" xml:space="preserve">
@@ -327,17 +327,17 @@
       </trans-unit>
       <trans-unit id="Add a File" xml:space="preserve">
         <source>Add a File</source>
-        <target>添加檔案</target>
+        <target>新增檔案</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Add a Folder" xml:space="preserve">
         <source>Add a Folder</source>
-        <target>添加資料夾</target>
+        <target>新增資料夾</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Add some contents using the %@ button or the %@ and %@ buttons in the toolbar." xml:space="preserve">
         <source>Add some contents using the %@ button or the %@ and %@ buttons in the toolbar.</source>
-        <target>使用 %@ 或工具列上的 %@ 和 %@ 按鈕添加內容。</target>
+        <target>使用 %@ 或工具列上的 %@ 和 %@ 按鈕新增內容。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Allocated size" xml:space="preserve">
@@ -452,7 +452,7 @@
       </trans-unit>
       <trans-unit id="Created" xml:space="preserve">
         <source>Created</source>
-        <target>創建日期</target>
+        <target>建立日期</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Custom..." xml:space="preserve">
@@ -482,7 +482,7 @@
       </trans-unit>
       <trans-unit id="Default Tap Action" xml:space="preserve">
         <source>Default Tap Action</source>
-        <target>預設點擊動作</target>
+        <target>預設點選動作</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Default Volume Unit" xml:space="preserve">
@@ -614,7 +614,7 @@
       </trans-unit>
       <trans-unit id="If you got here, please get in touch with the developers." xml:space="preserve">
         <source>If you got here, please get in touch with the developers.</source>
-        <target>如果你已到達此處，請與開發人員聯繫。</target>
+        <target>如果你已到達此處，請與開發人員聯絡。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Information" xml:space="preserve">
@@ -794,7 +794,7 @@
       </trans-unit>
       <trans-unit id="Store" xml:space="preserve">
         <source>Store</source>
-        <target>存儲</target>
+        <target>儲存</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="TRANSLATOR_LINK" xml:space="preserve">
@@ -829,12 +829,12 @@
       </trans-unit>
       <trans-unit id="The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." xml:space="preserve">
         <source>The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread.</source>
-        <target>壓縮可能需要比可用內存（%@）更多的內存，並且可能無法成功完成。將限制在1個執行緒。</target>
+        <target>壓縮可能需要比可用記憶體（%@）更多的記憶體，並且可能無法成功完成。將限制在1個執行緒。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The compression will be limited to %lld thread/s due to memory constraints." xml:space="preserve">
         <source>The compression will be limited to %lld thread/s due to memory constraints.</source>
-        <target>由於內存限制，壓縮將限制在%lld個執行緒/s。</target>
+        <target>由於記憶體限制，壓縮將限制在每秒%lld個執行緒。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The destination has %@ of space available." xml:space="preserve">
@@ -844,12 +844,12 @@
       </trans-unit>
       <trans-unit id="The file manager for iOS and macOS" xml:space="preserve">
         <source>The file manager for iOS and macOS</source>
-        <target>iOS和macOS的文件管理器</target>
+        <target>iOS和macOS的檔案管理器</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The folder is empty" xml:space="preserve">
         <source>The folder is empty</source>
-        <target>文件夾是空的</target>
+        <target>資料夾是空的</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The password length should be %lld or higher." xml:space="preserve">
@@ -859,7 +859,7 @@
       </trans-unit>
       <trans-unit id="The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." xml:space="preserve">
         <source>The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents.</source>
-        <target>压缩级别越低，压缩效果越好。「存储」级别不压缩，仅存档内容。</target>
+        <target>壓縮級別越低，壓縮效果越好。「儲存」級別不壓縮，僅封存內容。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="To extract" xml:space="preserve">
@@ -869,12 +869,12 @@
       </trans-unit>
       <trans-unit id="Total size" xml:space="preserve">
         <source>Total size</source>
-        <target>总大小</target>
+        <target>全部大小</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Translated by %@" xml:space="preserve">
         <source>Translated by %@</source>
-        <target>翻译者%@</target>
+        <target>譯者%@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Type" xml:space="preserve">
