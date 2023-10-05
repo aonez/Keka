@@ -34,6 +34,7 @@
 "File \"%@\" created" = "\"%@\" létrehozva";
 "Compression fail" = "A tömörítés során hiba lépett fel";
 "File \"%@\" cannot be created" = "\"%@\" nem hozható létre";
+"Set as fallback folder" = "Set as fallback folder";
 "\n(using fallback folder)" = "\n(tartalék mappát használva)";
 "Operation not implemented" = "A funkció még nincs a programban";
 "Performing operation..." = "Művelet előkészítése...";

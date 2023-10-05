@@ -34,6 +34,7 @@
 "File \"%@\" created" = "\"%@\" 파일이 생성되었습니다";
 "Compression fail" = "압축 실패";
 "File \"%@\" cannot be created" = "\"%@\" 파일을 생성할 수 없습니다";
+"Set as fallback folder" = "Set as fallback folder";
 "\n(using fallback folder)" = "\n(대체 폴더 사용)";
 "Operation not implemented" = "작업 구현되지 않음";
 "Performing operation..." = "작업 진행 중...";

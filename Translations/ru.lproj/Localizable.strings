@@ -34,6 +34,7 @@
 "File \"%@\" created" = "Файл \"%@\" создан";
 "Compression fail" = "Сжатие не удалось";
 "File \"%@\" cannot be created" = "Не удалось создать файл \"%@\" ";
+"Set as fallback folder" = "Set as fallback folder";
 "\n(using fallback folder)" = "\n(используя резервную папку)";
 "Operation not implemented" = "Операция не реализована";
 "Performing operation..." = "Выполнение операции...";

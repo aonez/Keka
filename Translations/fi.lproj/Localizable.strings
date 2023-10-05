@@ -34,6 +34,7 @@
 "File \"%@\" created" = "Tiedosto \"%@\" luotu";
 "Compression fail" = "Pakkaus epäonnistui";
 "File \"%@\" cannot be created" = "Tiedostoa \"%@\" ei voitu luoda";
+"Set as fallback folder" = "Set as fallback folder";
 "\n(using fallback folder)" = "\n(käytetään varakansiota)";
 "Operation not implemented" = "Operaatiota ei ole toteutettu";
 "Performing operation..." = "Suoritetaan operaatiota...";

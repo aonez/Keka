@@ -34,6 +34,7 @@
 "File \"%@\" created" = "ファイル \"%@\" は作成されました";
 "Compression fail" = "圧縮できませんでした";
 "File \"%@\" cannot be created" = "ファイル \"%@\" は作成できません。";
+"Set as fallback folder" = "Set as fallback folder";
 "\n(using fallback folder)" = "\n(代替フォルダの使用)";
 "Operation not implemented" = "機能が実装されていません。";
 "Performing operation..." = "操作中...";

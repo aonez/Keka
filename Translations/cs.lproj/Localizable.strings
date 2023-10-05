@@ -34,6 +34,7 @@
 "File \"%@\" created" = "Soubor „%@“ vytvořen";
 "Compression fail" = "Komprimace selhala";
 "File \"%@\" cannot be created" = "Soubor „%@“ nelze vytvořit";
+"Set as fallback folder" = "Set as fallback folder";
 "\n(using fallback folder)" = "\n(používá nouzovou složku)";
 "Operation not implemented" = "Operace není implementována";
 "Performing operation..." = "Provádíme operaci…";

@@ -34,6 +34,7 @@
 "File \"%@\" created" = "Το αρχείο \"%@\" δημιουργήθηκε";
 "Compression fail" = "Η συμπίεση απέτυχε";
 "File \"%@\" cannot be created" = "Το αρχείο \"%@\" δε μπορεί να δημιουργηθεί";
+"Set as fallback folder" = "Set as fallback folder";
 "\n(using fallback folder)" = "\n(χρησιμοποιώντας το εναλλακτικό ευρετήριο)";
 "Operation not implemented" = "Η λειτουργία αυτή δεν εκτελέστηκε";
 "Performing operation..." = "Εκτέλεση λειτουργίας...";
