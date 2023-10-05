@@ -34,6 +34,7 @@
 "File \"%@\" created" = "Bestand \"%@\" aangemaakt";
 "Compression fail" = "Inpakken mislukt";
 "File \"%@\" cannot be created" = "Bestand \"%@\" kan niet worden aangemaakt";
+"Set as fallback folder" = "Set as fallback folder";
 "\n(using fallback folder)" = "\n(terugval map wordt gebruikt)";
 "Operation not implemented" = "Actie niet ingebouwd";
 "Performing operation..." = "Actie wordt uitgevoerd...";

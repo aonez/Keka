@@ -34,6 +34,7 @@
 "File \"%@\" created" = "S'ha creat l'arxiu «%@»";
 "Compression fail" = "Compressió fallida";
 "File \"%@\" cannot be created" = "No es pot crear l'arxiu «%@»";
+"Set as fallback folder" = "Estableix com a carpeta de suport";
 "\n(using fallback folder)" = "\n(fent servir la carpeta de suport)";
 "Operation not implemented" = "Operació no implementada";
 "Performing operation..." = "Operació en curs...";

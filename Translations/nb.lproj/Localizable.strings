@@ -34,6 +34,7 @@
 "File \"%@\" created" = "Filen \"%@\" ble opprettet";
 "Compression fail" = "Komprimering feilet";
 "File \"%@\" cannot be created" = "Filen \"%@\" kan ikke opprettes";
+"Set as fallback folder" = "Set as fallback folder";
 "\n(using fallback folder)" = "\n(bruker reservemappe)";
 "Operation not implemented" = "Operasjonen er ikke implementert";
 "Performing operation..." = "Utfører operasjon...";

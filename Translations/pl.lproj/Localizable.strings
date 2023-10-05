@@ -34,6 +34,7 @@
 "File \"%@\" created" = "\"%@\" - plik został utworzony";
 "Compression fail" = "Archiwizacja zakończona niepowodzeniem";
 "File \"%@\" cannot be created" = "\"%@\" - nie można utworzyć pliku";
+"Set as fallback folder" = "Set as fallback folder";
 "\n(using fallback folder)" = "\n(przy użyciu folderu awaryjnego)";
 "Operation not implemented" = "Operacja nie została wykonana";
 "Performing operation..." = "Wykonywanie operacji...";

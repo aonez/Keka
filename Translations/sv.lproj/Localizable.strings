@@ -34,6 +34,7 @@
 "File \"%@\" created" = "Filen \"%@\" skapades";
 "Compression fail" = "Komprimering misslyckades";
 "File \"%@\" cannot be created" = "Filen \"%@\" kan inte skapas";
+"Set as fallback folder" = "Set as fallback folder";
 "\n(using fallback folder)" = "\n(använder reservmapp)";
 "Operation not implemented" = "Åtgärden är inte implementerad";
 "Performing operation..." = "Genomför åtgärd...";

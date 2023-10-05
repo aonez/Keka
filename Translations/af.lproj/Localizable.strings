@@ -34,6 +34,7 @@
 "File \"%@\" created" = "Lêer \“%@\” is geskep";
 "Compression fail" = "Samepersing het misluk";
 "File \"%@\" cannot be created" = "Lêer \“%@\” kan nie geskep word nie";
+"Set as fallback folder" = "Set as fallback folder";
 "\n(using fallback folder)" = "\n(terugvalvouer word gebruik)";
 "Operation not implemented" = "Aksie nie geïmplementeer";
 "Performing operation..." = "Aksie word uitgevoer...";

@@ -34,6 +34,7 @@
 "File \"%@\" created" = "File \"%@\" created";
 "Compression fail" = "Compression failed";
 "File \"%@\" cannot be created" = "File \"%@\" cannot be created";
+"Set as fallback folder" = "Set as fallback folder";
 "\n(using fallback folder)" = "\n(using fallback folder)";
 "Operation not implemented" = "Operation not implemented";
 "Performing operation..." = "Performing operation...";

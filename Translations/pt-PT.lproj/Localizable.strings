@@ -34,6 +34,7 @@
 "File \"%@\" created" = "Foi criado o ficheiro comprimido “%@”";
 "Compression fail" = "A compressão falhou";
 "File \"%@\" cannot be created" = "Não foi possível criar o ficheiro comprimido “%@”";
+"Set as fallback folder" = "Set as fallback folder";
 "\n(using fallback folder)" = "\n(usando pasta alternativa)";
 "Operation not implemented" = "Operação não implementada";
 "Performing operation..." = "A executar a operação…";
