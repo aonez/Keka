@@ -168,7 +168,7 @@
 "Full Mac" = "Todo o Mac";
 "Home folder" = "Pasta pessoal";
 "External volumes" = "Volumes externos";
-"Show in context menu" = "Mostrar no menu contextual";
+"Show in context menu" = "Mostrar no Menu Contextual";
 "External disk: %@" = "Disco externo: %@";
 "An extension is required" = "É necessário uma extensão";
 "In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "Para definir o Keka como o aplicativo padrão, você precisa instalar uma extensão. Clique em “Mais Informações” para seguir os passos necessários.\n\nLembre-se que você pode usar o painel “Obter Informações” do Finder para definir o Keka como o aplicativo padrão para qualquer formato.";
@@ -232,13 +232,13 @@
 "Review Keka ★★★★★" = "Avaliar Keka ★★★★★";
 "Update the default password" = "Atualizar Senha Padrão";
 "Set a default password" = "Definir Senha Padrão";
-"To enable external volumes access go to your main disk and select the \"Volumes\" folder." = "To enable external volumes access go to your main disk and select the \"Volumes\" folder.";
-"Verifying..." = "Verifying...";
-"Verification of \"%@\" failed" = "Verification of \"%@\" failed";
-"The compressed data seems to be invalid" = "The compressed data seems to be invalid";
-"Encrypted Apple Archive files are only supported on macOS 12 or newer" = "Encrypted Apple Archive files are only supported on macOS 12 or newer";
-"The password length should be %i or higher" = "The password length should be %i or higher";
-" (Entire Device)" = " (Entire Device)";
+"To enable external volumes access go to your main disk and select the \"Volumes\" folder." = "Para ativar o acesso a volumes externos, acesse o disco principal e selecione a pasta Volumes.";
+"Verifying..." = "Verificando...";
+"Verification of \"%@\" failed" = "A verificação de “%@” falhou";
+"The compressed data seems to be invalid" = "Os dados comprimidos parecem ser inválidos";
+"Encrypted Apple Archive files are only supported on macOS 12 or newer" = "Arquivos Criptografados da Apple são compatíveis apenas com o macOS 12 ou mais recente";
+"The password length should be %i or higher" = "A senha deve ter %i ou mais caracteres";
+" (Entire Device)" = " (Dispositivo Completo)";
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "Preferências…";
 
