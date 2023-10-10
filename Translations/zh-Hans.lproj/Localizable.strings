@@ -34,7 +34,7 @@
 "File \"%@\" created" = "文件“%@”已创建";
 "Compression fail" = "压缩失败";
 "File \"%@\" cannot be created" = "文件“%@”不能被创建";
-"Set as fallback folder" = "Set as fallback folder";
+"Set as fallback folder" = "设置为备选文件夹";
 "\n(using fallback folder)" = "\n（使用备选文件夹）";
 "Operation not implemented" = "操作未实现";
 "Performing operation..." = "正在执行操作…";
