@@ -1,0 +1,162 @@
+/* (No Comment) */
+"7Z Archive" = "Arquivo Comprimido 7Z";
+
+/* (No Comment) */
+"ACE Archive" = "Arquivo Comprimido ACE";
+
+/* (No Comment) */
+"ALZip Archive" = "Arquivo Comprimido ALZip";
+
+/* (No Comment) */
+"Amiga DCS Disk Archive" = "Arquivo Comprimido de Disco DCS Amiga";
+
+/* (No Comment) */
+"Amiga Disk File" = "Arquivo Comprimido de Disco Amiga";
+
+/* (No Comment) */
+"Amiga DMS Disk Archive" = "Arquivo Comprimido de Disco DMS Amiga";
+
+/* (No Comment) */
+"Amiga PackDev Disk Archive" = "Arquivo Comprimido de Disco PackDev Amiga";
+
+/* (No Comment) */
+"Amiga PowerPacker Archive" = "Arquivo Comprimido PowerPacker Amiga";
+
+/* (No Comment) */
+"Amiga xMash Disk Archive" = "Arquivo Comprimido de Disco xMash Amiga";
+
+/* (No Comment) */
+"Amiga Zoom Disk Archive" = "Arquivo Comprimido de Disco Zoom Amiga";
+
+/* (No Comment) */
+"Android Application Package" = "Pacote de Aplicativo Android";
+
+/* (No Comment) */
+"APPX Archive" = "Arquivo Comprimido APPX";
+
+/* (No Comment) */
+"ARC Archive" = "Arquivo Comprimido ARC";
+
+/* (No Comment) */
+"ARJ Archive" = "Arquivo Comprimido ARJ";
+
+/* (No Comment) */
+"BZIP2 Archive" = "Arquivo Comprimido BZIP2";
+
+/* (No Comment) */
+"BZIP2 Tarball Archive" = "Arquivo Comprimido TAR BZIP2";
+
+/* (No Comment) */
+"CAB Archive" = "Arquivo Comprimido CAB";
+
+/* (No Comment) */
+"CDI Disk Image" = "Imagem de Disco CDI";
+
+/* (No Comment) */
+"Compact Pro Archive" = "Arquivo Comprimido Compact Pro";
+
+/* (No Comment) */
+"Compressed Amiga Disk File" = "Arquivo de Disco Comprimido Amiga";
+
+/* (No Comment) */
+"Deb Archive" = "Arquivo Comprimido Deb";
+
+/* (No Comment) */
+"DiskDoubler Archive" = "Arquivo Comprimido DiskDoubler";
+
+/* (No Comment) */
+"Generic Archive Volume" = "Volume de Arquivo Comprimido Genérico";
+
+/* (No Comment) */
+"HA Archive" = "Arquivo Comprimido HA";
+
+/* (No Comment) */
+"Keka Extraction Package" = "Pacote de Extração do Keka";
+
+/* (No Comment) */
+"LBR Archive" = "Arquivo Comprimido LBR";
+
+/* (No Comment) */
+"LhA Archive" = "Arquivo Comprimido LhA";
+
+/* (No Comment) */
+"LhF Archive" = "Arquivo Comprimido LhF";
+
+/* (No Comment) */
+"Linux RPM Archive" = "Arquivo Comprimido RPM Linux";
+
+/* (No Comment) */
+"LZMA File" = "Arquivo Comprimido LZMA";
+
+/* (No Comment) */
+"LZX Archive" = "Arquivo Comprimido LZX";
+
+/* (No Comment) */
+"MDF Disk Image" = "Imagem de Disco MDF";
+
+/* (No Comment) */
+"Microsoft MSI Installer" = "Instalador MSI da Microsoft";
+
+/* (No Comment) */
+"Now Compress Archive" = "Arquivo Comprimido Now Compress";
+
+/* (No Comment) */
+"NRG Disk Image" = "Imagem de Disco NRG";
+
+/* (No Comment) */
+"NSA Archive" = "Arquivo Comprimido NSA";
+
+/* (No Comment) */
+"PackIt Archive" = "Arquivo Comprimido PackIt";
+
+/* (No Comment) */
+"Pax Archive" = "Arquivo Comprimido Pax";
+
+/* (No Comment) */
+"PMA Archive" = "Arquivo Comprimido PMA";
+
+/* (No Comment) */
+"RAR Archive" = "Arquivo Comprimido RAR";
+
+/* (No Comment) */
+"SAR Archive" = "Arquivo Comprimido SAR";
+
+/* (No Comment) */
+"Self-Extracting Archive" = "Arquivo Comprimido Autoextraível";
+
+/* (No Comment) */
+"Unix Compress File" = "Arquivo Comprimido Unix Compress";
+
+/* (No Comment) */
+"Unix Compress Tar Archive" = "Arquivo Comprimido Tar com Unix Compress";
+
+/* (No Comment) */
+"WARC Web Archive" = "Arquivo Comprimido Web WARC";
+
+/* (No Comment) */
+"XAR Archive" = "Arquivo Comprimido XAR";
+
+/* (No Comment) */
+"XIP Archive" = "Arquivo Comprimido XIP";
+
+/* (No Comment) */
+"XZ Archive" = "Arquivo Comprimido XZ";
+
+/* (No Comment) */
+"XZ Tarball Archive" = "Arquivo Comprimido TAR XZ";
+
+/* (No Comment) */
+"ZIP Archive" = "Arquivo Comprimido ZIP";
+
+/* (No Comment) */
+"ZIPX Archive" = "Arquivo Comprimido ZIPX";
+
+/* (No Comment) */
+"ZOO Archive" = "Arquivo Comprimido ZOO";
+
+/* (No Comment) */
+"Zstandard Archive" = "Arquivo Comprimido Zstandard";
+
+/* (No Comment) */
+"Zstandard Tarball Archive" = "Arquivo Comprimido TAR Zstandard";
+
