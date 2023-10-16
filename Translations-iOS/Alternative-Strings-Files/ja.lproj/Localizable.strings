@@ -158,7 +158,7 @@
 "Encrypt Filenames if Possible" = "可能であればファイル名を暗号化する";
 
 /* No comment provided by engineer. */
-"Enter the password for the file\n\"%@\"" = "\"%@\" のファイル パスワードを入力";
+"Enter the password for the file\n\"%@\"" = "\"%@\"\nのファイル パスワードを入力";
 
 /* No comment provided by engineer. */
 "Extract" = "展開";

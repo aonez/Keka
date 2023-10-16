@@ -553,7 +553,8 @@
       <trans-unit id="Enter the password for the file&#10;&quot;%@&quot;" xml:space="preserve">
         <source>Enter the password for the file
 "%@"</source>
-        <target> Digite a palavra-passe do ficheiro "%@"</target>
+        <target> Digite a palavra-passe do ficheiro
+"%@"</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Extract" xml:space="preserve">
