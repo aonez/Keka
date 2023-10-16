@@ -332,7 +332,7 @@
       </trans-unit>
       <trans-unit id="Add a Folder" xml:space="preserve">
         <source>Add a Folder</source>
-        <target>新增資料夾</target>
+        <target>新增檔案夾</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Add some contents using the %@ button or the %@ and %@ buttons in the toolbar." xml:space="preserve">
@@ -624,7 +624,7 @@
       </trans-unit>
       <trans-unit id="Keka's Folder" xml:space="preserve">
         <source>Keka's Folder</source>
-        <target>Keka的資料夾</target>
+        <target>Keka的檔案夾</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Keka's icon" xml:space="preserve">
@@ -849,7 +849,7 @@
       </trans-unit>
       <trans-unit id="The folder is empty" xml:space="preserve">
         <source>The folder is empty</source>
-        <target>資料夾是空的</target>
+        <target>檔案夾是空的</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The password length should be %lld or higher." xml:space="preserve">

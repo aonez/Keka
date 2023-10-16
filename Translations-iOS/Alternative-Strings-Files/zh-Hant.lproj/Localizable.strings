@@ -17,19 +17,19 @@
 "Actions" = "操作";
 
 /* No comment provided by engineer. */
-"Add a File" = "添加檔案";
+"Add a File" = "新增檔案";
 
 /* No comment provided by engineer. */
-"Add a Folder" = "添加資料夾";
+"Add a Folder" = "新增檔案夾";
 
 /* No comment provided by engineer. */
-"Add some contents using the %@ button or the %@ and %@ buttons in the toolbar." = "使用 %@ 或工具列上的 %@ 和 %@ 按鈕添加內容。";
+"Add some contents using the %@ button or the %@ and %@ buttons in the toolbar." = "使用 %@ 或工具列上的 %@ 和 %@ 按鈕新增內容。";
 
 /* No comment provided by engineer. */
 "Allocated size" = "已分配大小";
 
 /* Default compression file name. */
-"ARCHIVE_DEFAULT_NAME" = "文件";
+"ARCHIVE_DEFAULT_NAME" = "封存檔";
 
 /* No comment provided by engineer. */
 "Ask" = "詢問";
@@ -104,7 +104,7 @@
 "Contents: %@, Size: %@" = "內容：%@，大小：%@";
 
 /* No comment provided by engineer. */
-"Created" = "創建日期";
+"Created" = "建立日期";
 
 /* No comment provided by engineer. */
 "Custom..." = "自訂...";
@@ -122,7 +122,7 @@
 "Default Format" = "預設格式";
 
 /* No comment provided by engineer. */
-"Default Tap Action" = "預設點擊動作";
+"Default Tap Action" = "預設點選動作";
 
 /* No comment provided by engineer. */
 "Default Volume Unit" = "預設容量單位";
@@ -212,13 +212,13 @@
 "Hide Password by Default" = "預設隱藏密碼";
 
 /* No comment provided by engineer. */
-"If you got here, please get in touch with the developers." = "如果你已到達此處，請與開發人員聯繫。";
+"If you got here, please get in touch with the developers." = "如果你已到達此處，請與開發人員聯絡。";
 
 /* No comment provided by engineer. */
 "Information" = "資訊";
 
 /* No comment provided by engineer. */
-"Keka's Folder" = "Keka的資料夾";
+"Keka's Folder" = "Keka的檔案夾";
 
 /* No comment provided by engineer. */
 "Keka's icon" = "Keka的圖示";
@@ -320,7 +320,7 @@
 "Split in volumes" = "分割成多個卷";
 
 /* No comment provided by engineer. */
-"Store" = "存儲";
+"Store" = "儲存";
 
 /* No comment provided by engineer. */
 "The %@ of space available in the destination might not be enough for compressing the estimated %@." = "目的地中可用空間的%@可能不足以壓縮估計的%@。";
@@ -335,34 +335,34 @@
 "The characters %@ are not compatilbe with the %@ format." = "「%@」字元與 %@ 格式不相容。";
 
 /* No comment provided by engineer. */
-"The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "壓縮可能需要比可用內存（%@）更多的內存，並且可能無法成功完成。將限制在1個執行緒。";
+"The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "壓縮可能需要比可用記憶體（%@）更多的記憶體，並且可能無法成功完成。將限制在1個執行緒。";
 
 /* No comment provided by engineer. */
-"The compression will be limited to %lld thread/s due to memory constraints." = "由於內存限制，壓縮將限制在%lld個執行緒/s。";
+"The compression will be limited to %lld thread/s due to memory constraints." = "由於記憶體限制，壓縮將限制在每秒%lld個執行緒。";
 
 /* No comment provided by engineer. */
 "The destination has %@ of space available." = "目的地有%@的可用空間。";
 
 /* No comment provided by engineer. */
-"The file manager for iOS and macOS" = "iOS和macOS的文件管理器";
+"The file manager for iOS and macOS" = "iOS和macOS的檔案管理器";
 
 /* No comment provided by engineer. */
-"The folder is empty" = "文件夾是空的";
+"The folder is empty" = "檔案夾是空的";
 
 /* No comment provided by engineer. */
 "The password length should be %lld or higher." = "密碼應至少有 %lld 個字元長。";
 
 /* No comment provided by engineer. */
-"The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "压缩级别越低，压缩效果越好。「存储」级别不压缩，仅存档内容。";
+"The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "壓縮級別越低，壓縮效果越好。「儲存」級別不壓縮，僅封存內容。";
 
 /* No comment provided by engineer. */
 "To extract" = "提取";
 
 /* No comment provided by engineer. */
-"Total size" = "总大小";
+"Total size" = "全部大小";
 
 /* No comment provided by engineer. */
-"Translated by %@" = "翻译者%@";
+"Translated by %@" = "譯者%@";
 
 /* The translator link, if any. Can be a mail address or a website. */
 "TRANSLATOR_LINK" = "https://ios.keka.io";
