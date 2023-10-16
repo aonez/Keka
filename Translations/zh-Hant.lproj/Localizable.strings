@@ -34,7 +34,7 @@
 "File \"%@\" created" = "已建立「%@」檔案";
 "Compression fail" = "壓縮失敗";
 "File \"%@\" cannot be created" = "無法建立檔案：「%@」";
-"Set as fallback folder" = "Set as fallback folder";
+"Set as fallback folder" = "設為備用檔案夾";
 "\n(using fallback folder)" = "\n（使用備用檔案夾）";
 "Operation not implemented" = "動作尚未實作";
 "Performing operation..." = "正在執行動作⋯⋯";
