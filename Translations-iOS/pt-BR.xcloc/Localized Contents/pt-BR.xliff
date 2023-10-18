@@ -556,7 +556,7 @@
         <source>Enter the password for the file
 "%@"</source>
         <target>Digite a senha do arquivo
-"%@"</target>
+“%@“</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Extract" xml:space="preserve">
