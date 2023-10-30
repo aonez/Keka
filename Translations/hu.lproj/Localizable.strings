@@ -74,6 +74,7 @@
 "Keka can't create this %@ image" = "A Keka nem tudja elkészíteni ezt az %@ fájlt";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "Csak egyetlen mappáról tud %@ lemezképfájlt készíteni. Próbálja az összes fájlt egy mappába rendezni, majd azt az egy mappát a Keka-ra húzni.";
 "Keka can't create this @% tarball" = "A Keka nem tudja elkészíteni ezt a(z) @% tömörített TAR archívumot";
+"Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it." = "Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it.";
 "This operation is not supported on %@." = "Ez a művelet nem támogatott a %@-on.";
 "Compress \"%@\" in %@ to..." = "\"%@\" tömörítése, %@ formátumban...";
 "Compress in %@ to..." = "Tömörítés %@ formátumban...";

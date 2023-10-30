@@ -74,6 +74,7 @@
 "Keka can't create this %@ image" = "Keka kan nie hierdie %@-beeld skep nie";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "U kan slegs %@-beeld met ’n enkele vouer skep. Probeer om al u lêers in ’n vouer te plaas en dit na Keka te sleep om die %@-beeld te skep.";
 "Keka can't create this @% tarball" = "Keka kan nie hierdie @%-tarball skep nie";
+"Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it." = "Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it.";
 "This operation is not supported on %@." = "Hierdie aksie word nie op %@ ondersteun nie.";
 "Compress \"%@\" in %@ to..." = "Pers \“%@\” saam in %@ na...";
 "Compress in %@ to..." = "Pers saam in %@ na...";

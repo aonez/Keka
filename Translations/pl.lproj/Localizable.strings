@@ -74,6 +74,7 @@
 "Keka can't create this %@ image" = "Tworzenie archiwum %@ zakończone niepowodzeniem";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "Pliki do archiwum %@ powinny znajdować się w jednym folderze.";
 "Keka can't create this @% tarball" = "Keka nie może utworzyć archiwum @% tarball";
+"Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it." = "Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it.";
 "This operation is not supported on %@." = "Operacja nie jest wspierana przez %@.";
 "Compress \"%@\" in %@ to..." = "Archiwizuj \"%@\" w %@ do...";
 "Compress in %@ to..." = "Archiwizuj %@ do...";
