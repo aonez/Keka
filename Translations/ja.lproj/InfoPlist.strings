@@ -51,6 +51,8 @@
 "iOS App" = "iOSアプリ";
 "JAR Archive" = "JAR アーカイブ";
 "WAR Archive" = "WAR アーカイブ";
+"Compact Pro Archive" = "Compact Pro アーカイブ";
+"Synology Package Archive" = "Synology パッケージ アーカイブ";
 "Android Application Package" = "Android アプリケーションパッケージ";
 "Cross-Platform Installer Module (XPI)" = "クロスプラットフォーム インストーラーモジュール (XPI)";
 "APPX Archive" = "APPX アーカイブ";
@@ -63,6 +65,4 @@
 "Squashfs Filesystem Archive" = "Squashfs Filesystem Archive";
 "WordPress All-in-One Backup" = "WordPress All-in-One バックアップ";
 "InstallShield 3 Archive" = "InstallShield 3 アーカイブ";
-"Compact Pro Archive" = "Compact Pro アーカイブ";
-"Synology Package Archive" = "Synology パッケージ アーカイブ";
 "Keka Extraction Package" = "Keka 抽出パッケージ";

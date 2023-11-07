@@ -51,6 +51,8 @@
 "iOS App" = "iOS приложение";
 "JAR Archive" = "JAR архив";
 "WAR Archive" = "WAR архив";
+"Compact Pro Archive" = "Compact Pro архив";
+"Synology Package Archive" = "Synology Package архив";
 "Android Application Package" = "Пакет за приложение на Андроид";
 "Cross-Platform Installer Module (XPI)" = "Кросплатформен модул за инсталиране (XPI)";
 "APPX Archive" = "APPX архив";
@@ -63,6 +65,4 @@
 "Squashfs Filesystem Archive" = "Squashfs Filesystem Archive";
 "WordPress All-in-One Backup" = "WordPress Всичко-в-едно Бекъп";
 "InstallShield 3 Archive" = "InstallShield 3 архив";
-"Compact Pro Archive" = "Compact Pro архив";
-"Synology Package Archive" = "Synology Package архив";
 "Keka Extraction Package" = "Keka пакет за извличане";

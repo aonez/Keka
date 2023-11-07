@@ -51,6 +51,8 @@
 "iOS App" = "iOS-alkalmazás";
 "JAR Archive" = "JAR archívum";
 "WAR Archive" = "WAR archívum";
+"Compact Pro Archive" = "Compact Pro archívum";
+"Synology Package Archive" = "Synology csomag archívum";
 "Android Application Package" = "Android Alkalmazás Csomag";
 "Cross-Platform Installer Module (XPI)" = "Keresztplatformos Telepítő Csomag (XPI)";
 "APPX Archive" = "APPX archívum";
@@ -63,6 +65,4 @@
 "Squashfs Filesystem Archive" = "Squashfs Filesystem Archive";
 "WordPress All-in-One Backup" = "WordPress mentési archívum";
 "InstallShield 3 Archive" = "InstallShield 3 archívum";
-"Compact Pro Archive" = "Compact Pro archívum";
-"Synology Package Archive" = "Synology csomag archívum";
 "Keka Extraction Package" = "Keka Kicsomagoló Csomag";

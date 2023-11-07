@@ -51,6 +51,8 @@
 "iOS App" = "iOS 应用";
 "JAR Archive" = "JAR 归档";
 "WAR Archive" = "WAR 归档";
+"Compact Pro Archive" = "Compact Pro 归档";
+"Synology Package Archive" = "Synology 包归档";
 "Android Application Package" = "Android 应用程序";
 "Cross-Platform Installer Module (XPI)" = "跨平台安装模块（XPI）";
 "APPX Archive" = "APPX 归档";
@@ -63,6 +65,4 @@
 "Squashfs Filesystem Archive" = "Squashfs 文件系统归档";
 "WordPress All-in-One Backup" = "WordPress 一站式备份";
 "InstallShield 3 Archive" = "InstallShield 3 归档";
-"Compact Pro Archive" = "Compact Pro 归档";
-"Synology Package Archive" = "Synology 包归档";
 "Keka Extraction Package" = "Keka 提取包";

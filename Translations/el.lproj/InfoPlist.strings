@@ -51,6 +51,8 @@
 "iOS App" = "Εφαρμογή iOS";
 "JAR Archive" = "Αρχείο JAR";
 "WAR Archive" = "Αρχείο WAR";
+"Compact Pro Archive" = "Aρχείο Compact Pro";
+"Synology Package Archive" = "Αρχείο Synology Package";
 "Android Application Package" = "Πακέτο εφαρμογής Android";
 "Cross-Platform Installer Module (XPI)" = "Τμήμα Εγκαταστάτη Cross-Platform (XPI) module";
 "APPX Archive" = "Αρχείο APPX";
@@ -63,6 +65,4 @@
 "Squashfs Filesystem Archive" = "Squashfs Filesystem Archive";
 "WordPress All-in-One Backup" = "Εφεδρικό αντίγραφο WordPress All-in-One";
 "InstallShield 3 Archive" = "Aρχείο InstallShield 3";
-"Compact Pro Archive" = "Aρχείο Compact Pro";
-"Synology Package Archive" = "Αρχείο Synology Package";
 "Keka Extraction Package" = "Πακέτο Αποσυμπίεσης του Keka";

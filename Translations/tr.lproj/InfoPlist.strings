@@ -51,6 +51,8 @@
 "iOS App" = "iOS Uygulaması";
 "JAR Archive" = "JAR Arşivi";
 "WAR Archive" = "WAR Arşivi";
+"Compact Pro Archive" = "Kompakt Profesyonel Arşiv";
+"Synology Package Archive" = "Synology Paket Arşivi";
 "Android Application Package" = "Android Uygulama Paketi";
 "Cross-Platform Installer Module (XPI)" = "Platformlar Arası Yükleyici Modülü (XPI)";
 "APPX Archive" = "APPX Arşivi";
@@ -63,6 +65,4 @@
 "Squashfs Filesystem Archive" = "Squashfs Filesystem Archive";
 "WordPress All-in-One Backup" = "WordPress Hepsi-Bir-Arada Yedekleme";
 "InstallShield 3 Archive" = "InstallShield 3 Arşivi";
-"Compact Pro Archive" = "Kompakt Profesyonel Arşiv";
-"Synology Package Archive" = "Synology Paket Arşivi";
 "Keka Extraction Package" = "Keka Çıkarma Paketi";
