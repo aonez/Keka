@@ -68,13 +68,13 @@
 "Select all the volumes from \"%@\" or the folder that contains them." = "Tüm birimleri \"%@\" veya onları içeren klasörden seçin.";
 "Select the folder that contains \"%@\"." = "\"%@\" içeren klasörü seçin.";
 "Extraction of \"%@\" failed" = "\"%@\" çıkarımı başarısız oldu";
-"Extraction of \"%@\" completed" = "Extraction of \"%@\" completed";
-"The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue";
+"Extraction of \"%@\" completed" = "Çıkarımın \"%@\" tamamlandı";
+"The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "Çıkarma tamamlandı ancak karantina uygulanmadı.\nBu sorunu çözmek için lütfen Keka'yı yeniden yükleyin";
 "Keka - %i on queue" = "Keka - %i kuyrukta";
 "Keka can't create this %@ image" = "Keka bu %@ imajını oluşturamıyor";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "Sadece %@ imajını tek bir klasörle oluşturabilirsiniz. %@ imajını oluşturmak için tüm dosyalarınızı bir klasöre koyun ve bunu sürükleyerek Keka'ya bırakın.";
 "Keka can't create this @% tarball" = "Keka bu @% tarball'ı oluşturamıyor";
-"Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it." = "Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it.";
+"Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it." = "Keka yalnızca tek bir dosya ile şifrelenmiş LRZIP arşivleri oluşturabilir. Lütfen önce dosyalarınızla bir TAR arşivi oluşturun ve ardından şifreleyin.";
 "This operation is not supported on %@." = "Bu işlem %@ de desteklenmiyor.";
 "Compress \"%@\" in %@ to..." = "\"%@\" 'yi %@ 'nin içinde sıkıştır...";
 "Compress in %@ to..." = "%@ içinde sıkıştır ...";
@@ -130,7 +130,7 @@
 "Drop here to compress" = "Sıkıştırmak için buraya bırakın";
 "Binary \"%@\" is not accessible" = "Binary \"%@\" ulaşılabilir değil";
 "The first part \"%@\" can't be found" = "İlk bölüm \"%@\" bulunamadı";
-"Unable to extract a folder" = "Unable to extract a folder";
+"Unable to extract a folder" = "Bir klasöre çıkarılamıyor";
 "unknown" = "bilinmeyen";
 "Unknown error" = "Bilinmeyen hata";
 "Error code %d using \"%@\"\n%@" = "Hata kodu %d \"%@\"\n%@ kullanıyor";
@@ -175,7 +175,7 @@
 "In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "Keka'yı varsayılan uygulama olarak ayarlamak için bir eklenti yüklemeniz gerekiyor. Gerekli adımları takip etmek için \"Daha fazla bilgi\" ye tıklayın.\n\nKeka'yi her zaman Finder'ın \"Bilgi Al\" panelini kullanarak herhangi bir format için varsayılan uygulama olarak ayarlayabileceğinizi unutmayın.";
 "Your installed extension is obsolete and you should update it." = "Yüklü uzantınız eski ve güncellemelisiniz.";
 "Update" = "Güncelle";
-"Save" = "Save";
+"Save" = "Kaydet";
 "Cannot set Keka as default" = "Keka varsayılan olarak ayarlanamaz";
 "The intermediate application failed to launch. There is more information in the Console.app." = "Ara uygulama başlatılamadı. Console.app içinde daha fazla bilgi var.";
 "The intermediate application returned an undefined code." = "Ara uygulama tanımlanmamış bir kod döndürdü.";
@@ -233,13 +233,13 @@
 "Review Keka ★★★★★" = "Keka'yı değerlendir ★★★★★";
 "Update the default password" = "Varsayılan şifreyi güncelle";
 "Set a default password" = "Varsayılan bir şifre belirleyin";
-"To enable external volumes access go to your main disk and select the \"Volumes\" folder." = "To enable external volumes access go to your main disk and select the \"Volumes\" folder.";
-"Verifying..." = "Verifying...";
-"Verification of \"%@\" failed" = "Verification of \"%@\" failed";
-"The compressed data seems to be invalid" = "The compressed data seems to be invalid";
-"Encrypted Apple Archive files are only supported on macOS 12 or newer" = "Encrypted Apple Archive files are only supported on macOS 12 or newer";
-"The password length should be %i or higher" = "The password length should be %i or higher";
-" (Entire Device)" = " (Entire Device)";
+"To enable external volumes access go to your main disk and select the \"Volumes\" folder." = "Harici birimlere erişimi etkinleştirmek için ana diskinize gidin ve \"Volumes\" klasörünü seçin.";
+"Verifying..." = "Doğrulanıyor...";
+"Verification of \"%@\" failed" = "\"%@\"'nin doğrulanması yapılamadı.";
+"The compressed data seems to be invalid" = "Sıkıştırılmış veriler geçersiz görünüyor";
+"Encrypted Apple Archive files are only supported on macOS 12 or newer" = "Şifrelenmiş Apple Arşiv dosyaları yalnızca macOS 12 veya daha yeni sürümlerde desteklenir";
+"The password length should be %i or higher" = "Şifre uzunluğu %i karakter veya daha yüksek olmalıdır";
+" (Entire Device)" = " (Cihazın tamamı)";
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "Tercihler…";
 

@@ -114,7 +114,7 @@
 "453.title" = "Yok";
 
 /* Class = "NSButtonCell"; title = "Show compress contents of folder items"; ObjectID = "0Am-9a-jtM"; */
-"0Am-9a-jtM.title" = "Show compress contents of folder items";
+"0Am-9a-jtM.title" = "Klasör öğelerinin sıkıştırılmış içeriğini göster";
 
 /* Class = "NSButtonCell"; title = "Rename the recognized extension from the subfolder"; ObjectID = "1TK-Zy-623"; */
 "1TK-Zy-623.title" = "Tanınan uzantıyı alt klasörden yeniden adlandırın";
@@ -147,16 +147,16 @@
 "9dE-yV-N3K.title" = "Yedek klasör:";
 
 /* Class = "NSButtonCell"; title = "Use the default password on new advanced windows"; ObjectID = "9ul-2H-k9o"; */
-"9ul-2H-k9o.title" = "Use the default password on new advanced windows";
+"9ul-2H-k9o.title" = "Yeni gelişmiş pencerelerde varsayılan şifreyi kullanın";
 
 /* Class = "NSButtonCell"; title = "Show encrypt with default password items"; ObjectID = "AU8-I0-71W"; */
-"AU8-I0-71W.title" = "Show encrypt with default password items";
+"AU8-I0-71W.title" = "Varsayılan parola öğeleriyle şifrelemeyi göster";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "CWc-wN-FhI"; */
 "CWc-wN-FhI.title" = "Özel klasör...";
 
 /* Class = "NSMenuItem"; title = "Lowest"; ObjectID = "Cz9-7i-oHp"; */
-"Cz9-7i-oHp.title" = "Lowest";
+"Cz9-7i-oHp.title" = "En düşük";
 
 /* Class = "NSTextFieldCell"; title = "Extractions use less power so even using multiple thread you can easily set this limit to two or three. Note that the target disk may suffer."; ObjectID = "DAr-Td-s5W"; */
 "DAr-Td-s5W.title" = "Çıkarmalar daha az güç kullanır, bu nedenle birden çok iş parçacığı kullanırken bile bu sınırı kolayca iki veya üçe ayarlayabilirsiniz. Hedef diskin zarar görebileceğini unutmayın.";
@@ -177,10 +177,10 @@
 "Ei5-Ya-HGI.title" = "Birden çok dosyayı sıkıştırırken özel ad kullanın";
 
 /* Class = "NSTextFieldCell"; title = "Tasks priority (QoS):"; ObjectID = "G1T-Qd-OZi"; */
-"G1T-Qd-OZi.title" = "Tasks priority (QoS):";
+"G1T-Qd-OZi.title" = "Görev önceliği (QoS):";
 
 /* Class = "NSButtonCell"; title = "Always use the lowest priority when running on battery"; ObjectID = "GJB-94-NHl"; */
-"GJB-94-NHl.title" = "Always use the lowest priority when running on battery";
+"GJB-94-NHl.title" = "Pille çalışırken her zaman en düşük önceliği kullanın";
 
 /* Class = "NSTextFieldCell"; title = "It is recommended to only do one compression at a time if using multiple threads."; ObjectID = "Hkf-wB-gUj"; */
 "Hkf-wB-gUj.title" = "Birden çok iş parçacığı kullanılıyorsa, bir seferde yalnızca bir sıkıştırma yapılması önerilir.";
@@ -192,13 +192,13 @@
 "IHj-ac-103.title" = "Tam Mac erişimini etkinleştir (Önerilen)";
 
 /* Class = "NSButtonCell"; title = "Verify compression integrity"; ObjectID = "IL6-a6-uik"; */
-"IL6-a6-uik.title" = "Verify compression integrity";
+"IL6-a6-uik.title" = "Sıkıştırma bütünlüğünü doğrulayın";
 
 /* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive."; ObjectID = "JxT-Nq-8Z5"; */
 "JxT-Nq-8Z5.title" = "Harici birimlere erişimi etkinleştirin, böylece Keka USB veya Thunderbolt gibi harici disklerinizle kullanılabilir.";
 
 /* Class = "NSTextFieldCell"; title = "Lower priority results in longer times. The lowest priority on Apple Silicon equipped Macs will only use \"Efficiency\" cores, resulting in longer but more energy efficient tasks.\nAlready running tasks priority will not be modified."; ObjectID = "Jyq-vC-L5r"; */
-"Jyq-vC-L5r.title" = "Lower priority results in longer times. The lowest priority on Apple Silicon equipped Macs will only use \"Efficiency\" cores, resulting in longer but more energy efficient tasks.\nAlready running tasks priority will not be modified.";
+"Jyq-vC-L5r.title" = "Daha düşük öncelik daha uzun sürelerle sonuçlanır. Apple Silicon donanımlı Mac'lerdeki en düşük öncelik yalnızca \"Efficiency\" çekirdeklerini kullanır, bu da görevlerin daha uzun ancak enerji verimliliği açısından daha verimli olmasını sağlar.\nHalihazırda çalışan görevlerin önceliği değiştirilmeyecektir.";
 
 /* Class = "NSTextFieldCell"; title = "Queue compression operations:"; ObjectID = "K5h-j5-bss"; */
 "K5h-j5-bss.title" = "Sıra sıkıştırma işlemleri:";
@@ -219,7 +219,7 @@
 "PD2-iW-BGK.title" = "Ev erişimini etkinleştirin, böylece Keka Masaüstü veya İndirilenler klasörünüzdeki tüm kullanıcı dosyalarınızda kullanılabilir.";
 
 /* Class = "NSTextFieldCell"; title = "Default password:"; ObjectID = "Rgr-FP-Kua"; */
-"Rgr-FP-Kua.title" = "Default password:";
+"Rgr-FP-Kua.title" = "Varsayılan şifre:";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "Bildirim Merkezi entegrasyonunu etkinleştir";
@@ -228,7 +228,7 @@
 "TLc-Nk-Bps.placeholderString" = "İşte özel adınız";
 
 /* Class = "NSMenuItem"; title = "Lower"; ObjectID = "Vss-gS-NkP"; */
-"Vss-gS-NkP.title" = "Lower";
+"Vss-gS-NkP.title" = "Daha düşük";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "WCN-jH-W9J"; */
 "WCN-jH-W9J.placeholderString" = "İşte özel adınız";
@@ -240,19 +240,19 @@
 "XOB-JO-UQT.title" = "Otomatik";
 
 /* Class = "NSMenuItem"; title = "Highest"; ObjectID = "Xl7-AN-Kgw"; */
-"Xl7-AN-Kgw.title" = "Highest";
+"Xl7-AN-Kgw.title" = "En yüksek";
 
 /* Class = "NSTextFieldCell"; title = "Enable full Mac access so Keka can be used on all your Mac."; ObjectID = "ZOx-vr-5o7"; */
 "ZOx-vr-5o7.title" = "Tam Mac erişimini etkinleştirin, böylece Keka tüm Mac'inizde kullanılabilir.";
 
 /* Class = "NSMenuItem"; title = "High"; ObjectID = "ZiK-jD-TLq"; */
-"ZiK-jD-TLq.title" = "High";
+"ZiK-jD-TLq.title" = "Yüksek";
 
 /* Class = "NSButtonCell"; title = "Use \"Open with Keka\" as the primary item action"; ObjectID = "a5e-FP-sDv"; */
 "a5e-FP-sDv.title" = "Birincil öğe eylemi olarak \"Keka ile Aç\"ı kullanın";
 
 /* Class = "NSButtonCell"; title = "Show the password"; ObjectID = "aOv-6b-JlO"; */
-"aOv-6b-JlO.title" = "Show the password";
+"aOv-6b-JlO.title" = "Şifreyi göster";
 
 /* Class = "NSButtonCell"; title = "Use parent folder name when compressing multiple files"; ObjectID = "cDs-NB-2os"; */
 "cDs-NB-2os.title" = "Birden çok dosyayı sıkıştırırken üst klasör adını kullanın";
@@ -294,7 +294,7 @@
 "izC-0G-lvl.title" = "Aşağıdaki durum menüsünde nerede gösterileceğini özelleştirebilirsiniz:";
 
 /* Class = "NSMenuItem"; title = "Default"; ObjectID = "mfK-Rj-HLz"; */
-"mfK-Rj-HLz.title" = "Default";
+"mfK-Rj-HLz.title" = "Varsayılan";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous operations:"; ObjectID = "o8J-bR-bs6"; */
 "o8J-bR-bs6.title" = "Maksimum eşzamanlı operasyonlar:";
@@ -327,10 +327,10 @@
 "tEH-O0-NxO.title" = "Asla, mümkün olduğunda";
 
 /* Class = "NSButtonCell"; title = "Use the default password on new compressions"; ObjectID = "u2R-2w-aOA"; */
-"u2R-2w-aOA.title" = "Use the default password on new compressions";
+"u2R-2w-aOA.title" = "Yeni sıkıştırmalarda varsayılan şifreyi kullanın";
 
 /* Class = "NSTextFieldCell"; title = "You can also use this password from the Finder Extension's menu."; ObjectID = "vWb-gb-JBD"; */
-"vWb-gb-JBD.title" = "You can also use this password from the Finder Extension's menu.";
+"vWb-gb-JBD.title" = "Bu şifreyi Finder Uzantısının menüsünden de kullanabilirsiniz.";
 
 /* Class = "NSTextFieldCell"; title = "The Finder Extension needs to be enabled in the  System Preferences, Extensions configuration."; ObjectID = "wgz-2S-eXI"; */
 "wgz-2S-eXI.title" = "Finder Uzantısının  Sistem Tercihleri, Uzantılar yapılandırmasında etkinleştirilmesi gerekir.";
@@ -348,4 +348,4 @@
 "zRi-PC-AW9.title" = "Herhangi bir dosyayı çıkarırken varsayılan şifreyi deneyin";
 
 /* Class = "NSButtonCell"; title = "Automatically install new updates"; ObjectID = "zTa-p3-fHX"; */
-"zTa-p3-fHX.title" = "Automatically install new updates";
+"zTa-p3-fHX.title" = "Yeni güncellemeleri otomatik olarak yükle";
