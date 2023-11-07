@@ -51,6 +51,8 @@
 "iOS App" = "iOS App";
 "JAR Archive" = "JAR Archive";
 "WAR Archive" = "WAR Archive";
+"Compact Pro Archive" = "Compact Pro Archive";
+"Synology Package Archive" = "Synology Package Archive";
 "Android Application Package" = "Android Application Package";
 "Cross-Platform Installer Module (XPI)" = "Cross-Platform Installer Module (XPI)";
 "APPX Archive" = "APPX Archive";
@@ -59,9 +61,8 @@
 "XIP Secure Archive" = "XIP Secure Archive";
 "Electronic Book" = "Electronic Book";
 "Apple Archive" = "Apple Archive";
+"Apple Encrypted Archive" = "Apple Encrypted Archive";
 "Squashfs Filesystem Archive" = "Squashfs Filesystem Archive";
 "WordPress All-in-One Backup" = "WordPress All-in-One Backup";
 "InstallShield 3 Archive" = "InstallShield 3 Archive";
-"Compact Pro Archive" = "Compact Pro Archive";
-"Synology Package Archive" = "Synology Package Archive";
 "Keka Extraction Package" = "Keka Extraction Package";

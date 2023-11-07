@@ -51,6 +51,8 @@
 "iOS App" = "iOS-appi";
 "JAR Archive" = "JAR-arkisto";
 "WAR Archive" = "WAR-arkisto";
+"Compact Pro Archive" = "Compact Pro-arkisto";
+"Synology Package Archive" = "Synology-pakettirkisto";
 "Android Application Package" = "Android-sovelluspaketti";
 "Cross-Platform Installer Module (XPI)" = "Cross-Platform-asentajamoduuli (XPI)";
 "APPX Archive" = "APPX-arkisto";
@@ -59,9 +61,8 @@
 "XIP Secure Archive" = "XIP-turvattu arkisto";
 "Electronic Book" = "Elektroninen kirja";
 "Apple Archive" = "Apple-arkisto";
+"Apple Encrypted Archive" = "Applen salattu arkisto";
 "Squashfs Filesystem Archive" = "Squashfs Filesystem Archive";
 "WordPress All-in-One Backup" = "WordPress All-in-One-varmuuskopio";
 "InstallShield 3 Archive" = "InstallShield 3-arkisto";
-"Compact Pro Archive" = "Compact Pro-arkisto";
-"Synology Package Archive" = "Synology-pakettirkisto";
 "Keka Extraction Package" = "Keka-purkupaketti";

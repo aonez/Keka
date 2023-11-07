@@ -51,6 +51,8 @@
 "iOS App" = "iOS 應用程式";
 "JAR Archive" = "JAR 封存檔";
 "WAR Archive" = "WAR 封存檔";
+"Compact Pro Archive" = "Compact Pro 封存檔";
+"Synology Package Archive" = "Synology Package 封存檔";
 "Android Application Package" = "Android 應用程式套件";
 "Cross-Platform Installer Module (XPI)" = "跨平台安裝程式模組 (XPI)";
 "APPX Archive" = "APPX 封存檔";
@@ -59,9 +61,8 @@
 "XIP Secure Archive" = "XIP 安全封存檔";
 "Electronic Book" = "電子書";
 "Apple Archive" = "Apple 封存檔";
+"Apple Encrypted Archive" = "Apple 加密的封存檔";
 "Squashfs Filesystem Archive" = "Squashfs 檔案系統封存檔";
 "WordPress All-in-One Backup" = "WordPress All-in-One 備份檔";
 "InstallShield 3 Archive" = "InstallShield 3 封存檔";
-"Compact Pro Archive" = "Compact Pro 封存檔";
-"Synology Package Archive" = "Synology Package 封存檔";
 "Keka Extraction Package" = "Keka 解壓縮套件";
