@@ -58,7 +58,8 @@
 "ACE Archive" = "ACE Archive";
 "XIP Secure Archive" = "XIP Secure Archive";
 "Electronic Book" = "Electronic Book";
-"Apple Archive" = "Apple Archive";
+"Apple Archive" = "Tệp lưu trữ Apple";
+"Apple Encrypted Archive" = "Tệp lưu trữ được mã hóa của Apple";
 "Squashfs Filesystem Archive" = "Squashfs Filesystem Archive";
 "WordPress All-in-One Backup" = "WordPress All-in-One Backup";
 "InstallShield 3 Archive" = "InstallShield 3 Archive";
