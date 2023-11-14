@@ -56,7 +56,7 @@
 "Compact Pro Archive" = "Compact Pro 归档";
 
 /* (No Comment) */
-"Compressed Amiga Disk File" = "Compressed Amiga 磁盘文件";
+"Compressed Amiga Disk File" = "Amiga 已压缩磁盘文件";
 
 /* (No Comment) */
 "Deb Archive" = "Deb 归档";
@@ -159,4 +159,3 @@
 
 /* (No Comment) */
 "Zstandard Tarball Archive" = "Zstd 压缩归档";
-

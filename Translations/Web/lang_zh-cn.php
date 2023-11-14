@@ -66,14 +66,14 @@ $content_info_compression = "Keka 可以创建以下格式的压缩文件：";
 $content_info_extraction = "并支持解压这些格式：";
 
 // Info v2 (iOS and future macOS)
-$content_info_v2_title1 = "存得更多";
-$content_info_v2_title2 = "私密分享";
+$content_info_v2_title1 = "存得更多了";
+$content_info_v2_title2 = "分享更安全";
 $content_info_v2_title3 = "完美的浏览体验";
 $content_info_v2_title4 = "优秀的多任务处理";
 $content_info_v2_title5 = "随时随地";
 $content_info_v2_text1 = "支持多种压缩格式<br />选择最佳的那个";
-$content_info_v2_text2 = "添加密码来保护您分享的文件<br />文件将使用 AES-256 加密";
-$content_info_v2_text3 = "预览，提取和分享<br />你需要的都在这儿";
+$content_info_v2_text2 = "使用密码来保护您分享的文件<br />同时可以使用 AES-256 对其加密";
+$content_info_v2_text3 = "预览，提取和分享<br />您需要的都在这儿";
 $content_info_v2_text4 = "提取，压缩和浏览<br />无限制";
 $content_info_v2_text5 = "提取，压缩和浏览<br />任何地方都能够分享";
 
