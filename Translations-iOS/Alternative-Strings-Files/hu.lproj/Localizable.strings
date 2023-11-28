@@ -1,0 +1,411 @@
+/* No comment provided by engineer. */
+"%@ item" = "%@ tétel";
+
+/* No comment provided by engineer. */
+"%@ items" = "%@ tételek";
+
+/* No comment provided by engineer. */
+"%@ of %@ item" = "%@ a(z) %@ tételből";
+
+/* No comment provided by engineer. */
+"%@ of %@ items" = "%@ a(z) %@ tételből";
+
+/* No comment provided by engineer. */
+"About" = "A Kekáról";
+
+/* No comment provided by engineer. */
+"Actions" = "Műveletek";
+
+/* No comment provided by engineer. */
+"Add a File" = "Fájl hozzáadása";
+
+/* No comment provided by engineer. */
+"Add a Folder" = "Mappa hozzáadása";
+
+/* No comment provided by engineer. */
+"Add some contents using the %@ button or the %@ and %@ buttons in the toolbar." = "Adj hozzá tartalmat a %@ gomb, vagy a %@ és %@ gombok segítségével az eszköztárban.";
+
+/* No comment provided by engineer. */
+"Allocated size" = "Kiosztott méret";
+
+/* Default compression file name. */
+"ARCHIVE_DEFAULT_NAME" = "Archívum";
+
+/* No comment provided by engineer. */
+"Ask" = "Kérdezz";
+
+/* Browse, operation description. */
+"BROWSE_OPERATION" = "Tallózás";
+
+/* Browsing, operation running. */
+"BROWSE_RUNNING" = "Tallózás";
+
+/* Browsing, tasks section title. */
+"BROWSE_SECTION_TITLE" = "Tallózás";
+
+/* Browser settings title. */
+"Browser" = "Böngésző";
+
+/* "by aone" part from "Made with love by aone". */
+"by %@" = "készítette: %@";
+
+/* No comment provided by engineer. */
+"Calculate" = "Számítás";
+
+/* No comment provided by engineer. */
+"Cancel" = "Mégse";
+
+/* No comment provided by engineer. */
+"Choose" = "Válassz";
+
+/* No comment provided by engineer. */
+"Clear Cache" = "Gyorsítótár ürítése";
+
+/* No comment provided by engineer. */
+"Clear Cache Contents" = "Gyorsítótár tartalmának ürítése";
+
+/* No comment provided by engineer. */
+"Close" = "Bezárás";
+
+/* No comment provided by engineer. */
+"Comments" = "Megjegyzések";
+
+/* No comment provided by engineer. */
+"Compress" = "Tömörítés";
+
+/* No comment provided by engineer. */
+"compressed" = "tömörített";
+
+/* No comment provided by engineer. */
+"Compressed size" = "Tömörített méret";
+
+/* Compression settings title. */
+"Compression" = "Tömörítés";
+
+/* No comment provided by engineer. */
+"compression failed" = "a tömörítés nem sikerült";
+
+/* No comment provided by engineer. */
+"Compression Level:" = "Tömörítési szint:";
+
+/* Compression, operation description. */
+"COMPRESSION_OPERATION" = "Tömörítés";
+
+/* Compressing, operation running. */
+"COMPRESSION_RUNNING" = "Tömörítés";
+
+/* Compressing, tasks section title. */
+"COMPRESSION_SECTION_TITLE" = "Tömörítés";
+
+/* No comment provided by engineer. */
+"Contents" = "Tartalom";
+
+/* No comment provided by engineer. */
+"Contents: %@, Size: %@" = "Tartalom: %@, Méret: %@";
+
+/* No comment provided by engineer. */
+"Created" = "Készült";
+
+/* No comment provided by engineer. */
+"Custom..." = "Egyéni...";
+
+/* No comment provided by engineer. */
+"Date" = "Dátum";
+
+/* No comment provided by engineer. */
+"Default Compression Level" = "Alapértelmezett tömörítési szint";
+
+/* No comment provided by engineer. */
+"Default Destination" = "Alapértelmezett cél";
+
+/* No comment provided by engineer. */
+"Default Format" = "Alapértelmezett formátum";
+
+/* No comment provided by engineer. */
+"Default Tap Action" = "Alapértelmezett érintési művelet";
+
+/* No comment provided by engineer. */
+"Default Volume Unit" = "Alapértelmezett kötet";
+
+/* No comment provided by engineer. */
+"Delete" = "Törlés";
+
+/* No comment provided by engineer. */
+"Destination" = "Cél";
+
+/* No comment provided by engineer. */
+"Disable \"%@\" if you prefer to use a default configuration." = "Kapcsold ki a \"%@\" funkciót ha alapértelmezett beállításokat szeretnél használni.";
+
+/* No comment provided by engineer. */
+"Dismiss" = "Bezárás";
+
+/* No comment provided by engineer. */
+"Document" = "Dokumentum";
+
+/* No comment provided by engineer. */
+"Done" = "Kész";
+
+/* No comment provided by engineer. */
+"done" = "kész";
+
+/* No comment provided by engineer. */
+"Edit" = "Szerkesztés";
+
+/* No comment provided by engineer. */
+"Encrypt Filenames" = "Fájlnevek titkosítása";
+
+/* No comment provided by engineer. */
+"Encrypt Filenames if Possible" = "Fájlnevek titkosítása, ha lehetséges";
+
+/* No comment provided by engineer. */
+"Enter the password for the file\n\"%@\"" = "Írd be a jelszót a\n\"%@\" fájlhoz";
+
+/* No comment provided by engineer. */
+"Extract" = "Kibontás";
+
+/* No comment provided by engineer. */
+"Extract the file" = "Fájl kibontása";
+
+/* No comment provided by engineer. */
+"extracted" = "kibontva";
+
+/* Extraction settings title. */
+"Extraction" = "Kibontás";
+
+/* No comment provided by engineer. */
+"extraction failed" = "a kibontás nem sikerült";
+
+/* Extraction, operation description. */
+"EXTRACTION_OPERATION" = "Kibontás";
+
+/* Extracting, operation running. */
+"EXTRACTION_RUNNING" = "Kibontás";
+
+/* Extracting, tasks section title. */
+"EXTRACTION_SECTION_TITLE" = "Kibontás";
+
+/* No comment provided by engineer. */
+"failed" = "nem sikerült";
+
+/* No comment provided by engineer. */
+"Fast" = "Gyors";
+
+/* No comment provided by engineer. */
+"Fastest" = "Leggyorsabb";
+
+/* No comment provided by engineer. */
+"Feedback" = "Visszajelzés";
+
+/* No comment provided by engineer. */
+"File not informed properly, try again." = "A fájl nincs megfelelően informálva, próbáld újra.";
+
+/* No comment provided by engineer. */
+"Format" = "Formátum";
+
+/* General settings title. */
+"General" = "Általános";
+
+/* No comment provided by engineer. */
+"Get Info" = "Infó megjelenítése";
+
+/* No comment provided by engineer. */
+"Hide Password by Default" = "Jelszó elrejtése alapértelmezettként";
+
+/* No comment provided by engineer. */
+"If you got here, please get in touch with the developers." = "Ha ide jutottál, kérünk, vedd fel a kapcsolatot a fejlesztőkkel.";
+
+/* No comment provided by engineer. */
+"Information" = "Információ";
+
+/* No comment provided by engineer. */
+"Keka's Folder" = "A Keka mappája";
+
+/* No comment provided by engineer. */
+"Keka's icon" = "A Keka ikonja";
+
+/* No comment provided by engineer. */
+"Kind" = "Fajta";
+
+/* No comment provided by engineer. */
+"Last opened" = "Legutoljára megnyitva";
+
+/* No comment provided by engineer. */
+"Loading" = "Betöltés";
+
+/* "Made with" part from "Made with love by aone". */
+"Made with" = "Készítette";
+
+/* No comment provided by engineer. */
+"Modified" = "Szerkesztve";
+
+/* No comment provided by engineer. */
+"Name" = "Név";
+
+/* No comment provided by engineer. */
+"No contents" = "Nincs tartalom";
+
+/* No comment provided by engineer. */
+"No contents available" = "Nincs elérhető tartalom";
+
+/* No comment provided by engineer. */
+"No files to extract" = "Nincsenek kibontandó fájlok";
+
+/* No comment provided by engineer. */
+"None" = "Semmi";
+
+/* No comment provided by engineer. */
+"Normal" = "Normális";
+
+/* No comment provided by engineer. */
+"Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files." = "Nem minden platform támogatja az AES-256 titkosítást. Lehet, hogy szükséged lesz harmadik féltől származó alkalmazásokra (mint a Keka), hogy meg tudd nyitni ezeket a tömörített fájlokat.";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Open" = "Megnyitás";
+
+/* No comment provided by engineer. */
+"Password" = "Jelszó";
+
+/* No comment provided by engineer. */
+"Password needed" = "Jelszó szükséges";
+
+/* No comment provided by engineer. */
+"Please enter the password for:" = "Kérlek, írd be a jelszót ehhez:";
+
+/* No comment provided by engineer. */
+"Please select the encoding for:" = "Kérlek, válaszd ki a kódolást ehhez:";
+
+/* No comment provided by engineer. */
+"Preview" = "Előnézet";
+
+/* No comment provided by engineer. */
+"Quick Look" = "Gyorsnézet";
+
+/* No comment provided by engineer. */
+"Remember Last Used Options" = "Emlékezzen a legutoljára használt beállításokra";
+
+/* No comment provided by engineer. */
+"Remove from cache" = "Eltávolítás a gyorsítótárból";
+
+/* No comment provided by engineer. */
+"Reset" = "Visszaállítás";
+
+/* No comment provided by engineer. */
+"Reset All Settings" = "Minden beállítás visszaállítása alapértelmezettre";
+
+/* No comment provided by engineer. */
+"Review" = "Értékelés";
+
+/* No comment provided by engineer. */
+"Save" = "Mentés";
+
+/* No comment provided by engineer. */
+"Settings" = "Beállítások";
+
+/* No comment provided by engineer. */
+"Share" = "Megosztás";
+
+/* No comment provided by engineer. */
+"Size" = "Méret";
+
+/* No comment provided by engineer. */
+"Slow" = "Lassú";
+
+/* No comment provided by engineer. */
+"Slowest" = "Leglassabb";
+
+/* No comment provided by engineer. */
+"Split in volumes" = "Szétosztás kötetekre";
+
+/* No comment provided by engineer. */
+"Store" = "Eltárolás";
+
+/* No comment provided by engineer. */
+"The %@ of space available in the destination might not be enough for compressing the estimated %@." = "Az elérhető %@ tárhely a célnál lehetséges, hogy nem lesz elég a becsült %@ tömörítéséhez.";
+
+/* No comment provided by engineer. */
+"The changes could not be saved" = "A változtatásokat nem lehetett elmenteni";
+
+/* No comment provided by engineer. */
+"The character %@ is not compatilbe with the %@ format." = "A %@ karakter nem kompatibilis a(z) %@ formátummal.";
+
+/* No comment provided by engineer. */
+"The characters %@ are not compatilbe with the %@ format." = "A %@ karakterek nem kompatibilisek a(z) %@ formátummal.";
+
+/* No comment provided by engineer. */
+"The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "A tömörítéshez több memóriára lehet szükség, mint amennyi elérhető (%@), és lehetséges, hogy nem tud sikeresen végbemenni. 1 szálra lesz korlátozva.";
+
+/* No comment provided by engineer. */
+"The compression will be limited to %lld thread/s due to memory constraints." = "A tömörítés %lld szálra lesz korlátozva memóriabeli korlátok miatt.";
+
+/* No comment provided by engineer. */
+"The destination has %@ of space available." = "A célban %@ tárhely érhető el.";
+
+/* No comment provided by engineer. */
+"The file manager for iOS and macOS" = "A fájlkezelő iOS-re és macOS-re";
+
+/* No comment provided by engineer. */
+"The folder is empty" = "A mappa üres";
+
+/* No comment provided by engineer. */
+"The password length should be %lld or higher." = "A jelszó hossza minimum %lld karakter kell, hogy legyen.";
+
+/* No comment provided by engineer. */
+"The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "Minél lassabb a szint, annál nagyobb mértékű tömörítés lehetséges. A tárolási szint nem végez tömörítést, csak archiválja a tartalmakat.";
+
+/* No comment provided by engineer. */
+"To extract" = "Kibontandó";
+
+/* No comment provided by engineer. */
+"Total size" = "Teljes méret";
+
+/* No comment provided by engineer. */
+"Translated by %@" = "Fordította: %@";
+
+/* The translator link, if any. Can be a mail address or a website. */
+"TRANSLATOR_LINK" = "www.zetenynagy.com";
+
+/* The translator name, if any. */
+"TRANSLATOR_NAME" = "Nagy Zétény";
+
+/* No comment provided by engineer. */
+"Type" = "Típus";
+
+/* No comment provided by engineer. */
+"Unable to apply the app icon" = "Nem sikerült megváltoztatni az alkalmazás ikonját";
+
+/* No comment provided by engineer. */
+"Unable to browse \"%@\"" = "Nem tallózható: \"%@\"";
+
+/* No comment provided by engineer. */
+"Unable to determine the available space." = "Nem lehet megállapítani az elérhető tárhely mennyiségét.";
+
+/* No comment provided by engineer. */
+"Unable to get encoding data" = "Nem sikerült kódolási adatokat szerezni";
+
+/* No comment provided by engineer. */
+"Use AES-256 Encryption" = "AES-256 titkosítás használata";
+
+/* No comment provided by engineer. */
+"Use AES-256 if Available" = "AES-256 titkosítás használata, ha elérhető";
+
+/* No comment provided by engineer. */
+"Use special coloring for known formats" = "Különleges színezés használata az ismert formátumokhoz";
+
+/* No comment provided by engineer. */
+"Use UTF-8 Encoding if Available" = "UTF-8 kódolás használata, ha elérhető";
+
+/* No comment provided by engineer. */
+"Volume Size" = "Kötet mérete";
+
+/* No comment provided by engineer. */
+"Welcome" = "Üdv";
+
+/* The "Welcome to Keka" title. */
+"Welcome to %@" = "Üdvözöl a %@";
+
+/* No comment provided by engineer. */
+"Where" = "Hol";
+
