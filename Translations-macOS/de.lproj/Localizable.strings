@@ -234,9 +234,9 @@
 "Update the default password" = "Aktualisiere das Standardpasswort";
 "Set a default password" = "Setze das Standardpasswort";
 "To enable external volumes access go to your main disk and select the \"Volumes\" folder." = "To enable external volumes access go to your main disk and select the \"Volumes\" folder.";
-"Verifying..." = "Verifizieren...";
-"Verification of \"%@\" failed" = "Verifizierung von \"%@\" fehlgeschlagen";
-"The compressed data seems to be invalid" = "Die komprimierten Daten scheinen ungültig zu sein";
+"Verifying..." = "Überprüfen...";
+"Verification of \"%@\" failed" = "Überprüfung von \"%@\" fehlgeschlagen";
+"The compressed data seems to be invalid" = "Die komprimierten Daten scheinen fehlerhaft zu sein";
 "Encrypted Apple Archive files are only supported on macOS 12 or newer" = "Verschlüsselte Apple Archiv Dateien werden nur auf macOS 12 oder neuer unterstützt";
 "The password length should be %i or higher" = "Die Länge des Passworts sollte %i Stellen oder mehr haben";
 " (Entire Device)" = " (Gesamtes Gerät)";
