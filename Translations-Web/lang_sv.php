@@ -9,7 +9,7 @@ $content_language_locale = "sv";
 //
 // Set $show_content_bottom_translator as true if you want to appear in the bottom of the page
 $show_content_bottom_translator = false;
-$content_bottom_translator = 'Översatt av <a href="https://twitter.com/wileryd">Linus Wileryd</a>.';
+$content_bottom_translator = 'Översatt av <a href="https://www.threads.net/@wileryd">Linus Wileryd</a>.';
 //
 //
 
