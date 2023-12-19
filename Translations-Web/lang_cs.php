@@ -8,8 +8,8 @@ $content_language_locale = "cs";
 //
 //
 // Set $show_content_bottom_translator as true if you want to appear in the bottom of the page
-$show_content_bottom_translator = false;
-$content_bottom_translator = 'Přeloženo <a href="mailto:">Františkem Erbenem</a>.';
+$show_content_bottom_translator = true;
+$content_bottom_translator = 'Přeložil <a href="https://github.com/ferben">František Erben</a>.';
 //
 //
 
@@ -18,7 +18,7 @@ $ios_title = "$keka pro iOS";
 $ios_content_title = "archivační pomůcka pro iOS";
 
 // General
-$content_download = "Zkopírovat";
+$content_download = "Získat";
 $content_issues = "Problémy";
 $content_help = "Nápověda";
 $content_forum = "Diskuse";
@@ -39,12 +39,12 @@ $content_downloading_if_fails_click_here = "klepněte zde";
 
 // Like
 $content_donation_button = "Přispět";
-$content_donation_title = 'Pokud se Vám aplikace Keka líbí můžete ji ohodnotit <i class="fa fa-heart" aria-hidden="true"></i>, <br />stáhnout si ji z App Store nebo poslat drobný obnos přes PayPal!';
-$content_donation_mas = "Pokud si zakoupíte aplikaci Keka z App Store podpoříte tím její vývoj,<br />aplikace je zcela stejná jako verze z tohoto webu pouze aktualizace probíhají pomocí App Store.";
+$content_donation_title = 'Pokud se Vám aplikace Keka líbí můžete ji ohodnotit <i class="fa fa-heart" aria-hidden="true"></i>, <br />zkopírovat z App Store nebo poslat drobný obnos přes PayPal!';
+$content_donation_mas = "Pokud si zakoupíte aplikaci Keka na App Store podpoříte tím její vývoj,<br />aplikace je zcela stejná jako verze z tohoto webu pouze aktualizace zajišťuje App Store.";
 $content_donation_paypal = "Pokud nemáte rádi App Store nebo se chcete s aplikací Keka jen pohrát,<br />ale projekt se Vám přesto líbí a chcete ho podpořit, můžete poslat drobný obnos přes PayPal.";
 
 // Beta
-$content_platform_beta = "Beta";
+$content_platform_beta = "Zkušební verze";
 $content_beta_title = "Zkušební verze Keka";
 $content_beta_text = "Můžete testovat nejnovější vlastnosti Keka před oficiálním zveřejněním.<br />Pokud najdete chybu nebo chcete nahlásit neobvyklé chování, přejděte na ";
 $content_beta_unavailable = "Nyní není k dispozici žádná zkušební verze.";
@@ -53,17 +53,17 @@ $content_beta_up = "Získat nejnovější verzi";
 // Legacy
 $content_platform_legacy =  "Pro $version_replace";
 $content_legacy_title = "Starší verze aplikace Keka";
-$content_legacy_text = 'V průběhu let váš Mac stárne a nebude podporovat<br />poslední verzi aplikace Keka, ale klid <i class="fa fa-coffee" aria-hidden="true"></i>, starší verze naleznete zde.';
+$content_legacy_text = 'V průběhu let váš Mac stárne a může ztratit podporu<br />nejnovější verze aplikace Keka, ale klid <i class="fa fa-coffee" aria-hidden="true"></i>, starší verze naleznete zde.';
 
 // Info
 $content_info_title1 = "V jednoduchosti je síla";
 $content_info_title2 = "Vaše soukromí je pro nás důležité";
 $content_info_title3 = "Stále příliš velké…";
-$content_info_text1 = "Kvůli komprimaci souboru ani nemusíte otevírat aplikaci Keka ani ji udržovat v Doku.<br />Prostě přetáhněte soubory a složky na ikonu aplikace Keka v Doku nebo na okno otevřené aplikace.";
-$content_info_text2 = "Sdílejte soubory bezpečněji, chraňte je heslem a vytvářejte zašifrované soubory.<br />Používejte šifrovací metodu AES-256 pro vaše archivy 7z<br />a starší metody šifrování Zip 2.0 pro vaše Zip archivy.";
-$content_info_text3 = "Pokud jsou soubory skutečně velké a přesahují limity e-mailu, prostě je rozdělte na více částí.<br />Nemějte obavy stále půjdou spojit a dekomprimovat do původní podoby :)";
-$content_info_compression = "Keka umí vytvářet tyto typy archivů:";
-$content_info_extraction = "Keka umí rozbalit tyto typy archivů:";
+$content_info_text1 = "Kvůli komprimaci souboru ani nemusíte otevírat aplikaci Keka ani ji držet v Doku.<br />Jednoduše přetáhněte soubory a složky na ikonu nebo otevřené okno aplikace Keka.";
+$content_info_text2 = "Sdílejte soubory bezpečněji, chraňte je heslem a šifrujte soubory.<br />Používejte šifrovací metodu AES-256 pro vaše archivy 7z<br />a starší metody šifrování Zip 2.0 pro Zip archivy.";
+$content_info_text3 = "Pokud jsou soubory skutečně velké a přesahují limity e-mailu, prostě je rozdělte na více částí.<br />Nemějte obavy stále půjdou sestavit do původní podoby :)";
+$content_info_compression = "Keka umí vytvářet tyto archivy:";
+$content_info_extraction = "Keka umí otevřít tyto archivy:";
 
 // Info v2 (iOS and future macOS)
 $content_info_v2_title1 = "Ukládejte více";
@@ -75,7 +75,7 @@ $content_info_v2_text1 = "S větším výběrem komprimačních formátů<br />s
 $content_info_v2_text2 = "Zabezpečte vaše sdílené soubory heslem<br />a šifrováním AES-256";
 $content_info_v2_text3 = "Náhled, dekomprimace a sdílení<br />pouze pokud je třeba";
 $content_info_v2_text4 = "Dekomprimace, komprimace a procházení<br />bez omezení";
-$content_info_v2_text5 = "Dekomprimace, komprimace a procházen<br />odkudkoliv pomocí akce Sdílení";
+$content_info_v2_text5 = "Dekomprimace, komprimace a procházení<br />odkudkoliv pomocí akce Sdílení";
 
 // Default app
 $content_defaultapp_title = "Nastavte si aplikaci Keka jako výchozí pro práci s archivy";
@@ -91,7 +91,7 @@ $content_termsofuse_inapp = 'Verze aplikace Keka pro App Store nabízí nákupy 
 $content_privacypolicy_title = 'Ochrana soukromí';
 $content_privacypolicy_content = 'Aplikace Keka neodesílá žádná uložená data z vašeho počítače.';
 $content_privacypolicy_MAS = 'Verze App Store nemá přístup síťovým rozhraním.';
-$content_privacypolicy_WEB = 'Webová verze používá pro aktualizaci Sparkle (lze vypnout), tato součást přistupuje k Internetu. Slouží výhradně k ověření dostupnosti nové verze a jejímu zkopírování. Tato součást nikdy neukládá ani nesdílí žádné informace, dokonce ani <a href="https://sparkle-project.org/documentation/system-profiling/">anonymní data profilu systému</a>, která byla povolena ve velmi ranných verzích (starší než 1.0.0), ale nikdy použita.';
+$content_privacypolicy_WEB = 'Webová verze používá pro aktualizaci Sparkle (lze vypnout), tato součást přistupuje k Internetu. Slouží výhradně k ověření dostupnosti nové verze a jejímu získání. Tato součást nikdy neukládá ani nesdílí žádné informace, dokonce ani <a href="https://sparkle-project.org/documentation/system-profiling/">anonymní data profilu systému</a>, která byla povolena ve velmi ranných verzích (starší než 1.0.0), ale nikdy použita.';
 
 // Main content of the page
 $content_context_menu = "Kontextová nabídka";
