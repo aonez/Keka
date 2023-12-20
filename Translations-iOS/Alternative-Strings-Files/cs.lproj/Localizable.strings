@@ -1,0 +1,411 @@
+/* No comment provided by engineer. */
+"%@ item" = "%@ položka";
+
+/* No comment provided by engineer. */
+"%@ items" = "%@ položek";
+
+/* No comment provided by engineer. */
+"%@ of %@ item" = "%@ z %@ položky";
+
+/* No comment provided by engineer. */
+"%@ of %@ items" = "%@ z %@ položek";
+
+/* No comment provided by engineer. */
+"About" = "Co je";
+
+/* No comment provided by engineer. */
+"Actions" = "Akce";
+
+/* No comment provided by engineer. */
+"Add a File" = "Přidat soubor";
+
+/* No comment provided by engineer. */
+"Add a Folder" = "Přidat složku";
+
+/* No comment provided by engineer. */
+"Add some contents using the %@ button or the %@ and %@ buttons in the toolbar." = "Přidat nějaký obsah pomocí tlačítka %@ nebo tlačítek %@ a %@ z lišty nabídek.";
+
+/* No comment provided by engineer. */
+"Allocated size" = "Přidělená velikost";
+
+/* Default compression file name. */
+"ARCHIVE_DEFAULT_NAME" = "Archiv";
+
+/* No comment provided by engineer. */
+"Ask" = "Dotázat se";
+
+/* Browse, operation description. */
+"BROWSE_OPERATION" = "Procházet";
+
+/* Browsing, operation running. */
+"BROWSE_RUNNING" = "Prochází se";
+
+/* Browsing, tasks section title. */
+"BROWSE_SECTION_TITLE" = "Prochází se";
+
+/* Browser settings title. */
+"Browser" = "Prohlížeč";
+
+/* "by aone" part from "Made with love by aone". */
+"by %@" = "od %@";
+
+/* No comment provided by engineer. */
+"Calculate" = "Spočítat";
+
+/* No comment provided by engineer. */
+"Cancel" = "Zrušit";
+
+/* No comment provided by engineer. */
+"Choose" = "Vybrat";
+
+/* No comment provided by engineer. */
+"Clear Cache" = "Vymazat vyrovnávací paměť";
+
+/* No comment provided by engineer. */
+"Clear Cache Contents" = "Vymazat obsah vyrovnávací paměti";
+
+/* No comment provided by engineer. */
+"Close" = "Zavřít";
+
+/* No comment provided by engineer. */
+"Comments" = "Poznámky";
+
+/* No comment provided by engineer. */
+"Compress" = "Komprimace";
+
+/* No comment provided by engineer. */
+"compressed" = "komprimováno";
+
+/* No comment provided by engineer. */
+"Compressed size" = "Komprimovaná velikost";
+
+/* Compression settings title. */
+"Compression" = "Komprimace";
+
+/* No comment provided by engineer. */
+"compression failed" = "komprimace selhala";
+
+/* No comment provided by engineer. */
+"Compression Level:" = "Úroveň komprimace:";
+
+/* Compression, operation description. */
+"COMPRESSION_OPERATION" = "Komprimace";
+
+/* Compressing, operation running. */
+"COMPRESSION_RUNNING" = "Komprimuje se";
+
+/* Compressing, tasks section title. */
+"COMPRESSION_SECTION_TITLE" = "Komprimování";
+
+/* No comment provided by engineer. */
+"Contents" = "Obsah";
+
+/* No comment provided by engineer. */
+"Contents: %@, Size: %@" = "Obsahuje: %@, velikost: %@";
+
+/* No comment provided by engineer. */
+"Created" = "Vytvořeno";
+
+/* No comment provided by engineer. */
+"Custom..." = "Vlastní…";
+
+/* No comment provided by engineer. */
+"Date" = "Datum";
+
+/* No comment provided by engineer. */
+"Default Compression Level" = "Výchozí úroveň komprimace";
+
+/* No comment provided by engineer. */
+"Default Destination" = "Výchozí cílové umístění";
+
+/* No comment provided by engineer. */
+"Default Format" = "Výchozí formát";
+
+/* No comment provided by engineer. */
+"Default Tap Action" = "Výchozí akce (dotyk)";
+
+/* No comment provided by engineer. */
+"Default Volume Unit" = "Výchozí jednotka";
+
+/* No comment provided by engineer. */
+"Delete" = "Smazat";
+
+/* No comment provided by engineer. */
+"Destination" = "Cíl";
+
+/* No comment provided by engineer. */
+"Disable \"%@\" if you prefer to use a default configuration." = "Vypněte „%@“ pokud si přejete použít výchozí konfiguraci.";
+
+/* No comment provided by engineer. */
+"Dismiss" = "Nepovolit";
+
+/* No comment provided by engineer. */
+"Document" = "Dokument";
+
+/* No comment provided by engineer. */
+"Done" = "Hotovo";
+
+/* No comment provided by engineer. */
+"done" = "hotovo";
+
+/* No comment provided by engineer. */
+"Edit" = "Úpravy";
+
+/* No comment provided by engineer. */
+"Encrypt Filenames" = "Zašifrovat jména souborů";
+
+/* No comment provided by engineer. */
+"Encrypt Filenames if Possible" = "Pokud je to možné zašifrovat jména souborů";
+
+/* No comment provided by engineer. */
+"Enter the password for the file\n\"%@\"" = "Zadejte heslo k souboru\n„%@“";
+
+/* No comment provided by engineer. */
+"Extract" = "Dekomprimovat";
+
+/* No comment provided by engineer. */
+"Extract the file" = "Dekomprimovat soubor";
+
+/* No comment provided by engineer. */
+"extracted" = "dekomprimováno";
+
+/* Extraction settings title. */
+"Extraction" = "Dekomprimace";
+
+/* No comment provided by engineer. */
+"extraction failed" = "dekomprimace selhala";
+
+/* Extraction, operation description. */
+"EXTRACTION_OPERATION" = "Dekomprimace";
+
+/* Extracting, operation running. */
+"EXTRACTION_RUNNING" = "Dekomprimuje se";
+
+/* Extracting, tasks section title. */
+"EXTRACTION_SECTION_TITLE" = "Dekomprimovat";
+
+/* No comment provided by engineer. */
+"failed" = "selhalo";
+
+/* No comment provided by engineer. */
+"Fast" = "Rychlá";
+
+/* No comment provided by engineer. */
+"Fastest" = "Nejrychlejší";
+
+/* No comment provided by engineer. */
+"Feedback" = "Odezva";
+
+/* No comment provided by engineer. */
+"File not informed properly, try again." = "Soubor nebyl správně určen, zkuste to znovu.";
+
+/* No comment provided by engineer. */
+"Format" = "Formát";
+
+/* General settings title. */
+"General" = "Hlavní";
+
+/* No comment provided by engineer. */
+"Get Info" = "Informace";
+
+/* No comment provided by engineer. */
+"Hide Password by Default" = "Ve výchozím stavu skrýt heslo";
+
+/* No comment provided by engineer. */
+"If you got here, please get in touch with the developers." = "Pokud jste se dostali až sem, obraťte se prosím na vývojáře aplikace.";
+
+/* No comment provided by engineer. */
+"Information" = "Informace";
+
+/* No comment provided by engineer. */
+"Keka's Folder" = "Složka Keka";
+
+/* No comment provided by engineer. */
+"Keka's icon" = "Ikona Keka";
+
+/* No comment provided by engineer. */
+"Kind" = "Druh";
+
+/* No comment provided by engineer. */
+"Last opened" = "Naposledy otevřeno";
+
+/* No comment provided by engineer. */
+"Loading" = "Načítá se";
+
+/* "Made with" part from "Made with love by aone". */
+"Made with" = "Vytvořeno pomocí";
+
+/* No comment provided by engineer. */
+"Modified" = "Změněno";
+
+/* No comment provided by engineer. */
+"Name" = "Jméno";
+
+/* No comment provided by engineer. */
+"No contents" = "Žádný obsah";
+
+/* No comment provided by engineer. */
+"No contents available" = "Není k dispozici žádný obsah";
+
+/* No comment provided by engineer. */
+"No files to extract" = "Žádné soubory k dekomprimaci";
+
+/* No comment provided by engineer. */
+"None" = "Nic";
+
+/* No comment provided by engineer. */
+"Normal" = "Normální";
+
+/* No comment provided by engineer. */
+"Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files." = "Ne všechny platformy podporují šifrování AES-256. Možná budete potřebovat další aplikaci (jako Keka) pro otevření komprimovaného souboru.";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Open" = "Otevřít";
+
+/* No comment provided by engineer. */
+"Password" = "Heslo";
+
+/* No comment provided by engineer. */
+"Password needed" = "Je třeba heslo";
+
+/* No comment provided by engineer. */
+"Please enter the password for:" = "Zadejte prosím heslo:";
+
+/* No comment provided by engineer. */
+"Please select the encoding for:" = "Zadejte prosím kódování pro:";
+
+/* No comment provided by engineer. */
+"Preview" = "Náhled";
+
+/* No comment provided by engineer. */
+"Quick Look" = "Quick Look";
+
+/* No comment provided by engineer. */
+"Remember Last Used Options" = "Zapamatovat naposledy použité volby";
+
+/* No comment provided by engineer. */
+"Remove from cache" = "Odstranit z vyrovnávací paměti";
+
+/* No comment provided by engineer. */
+"Reset" = "Obnovit";
+
+/* No comment provided by engineer. */
+"Reset All Settings" = "Obnovit všechny nastavení";
+
+/* No comment provided by engineer. */
+"Review" = "Posouzení";
+
+/* No comment provided by engineer. */
+"Save" = "Uložit";
+
+/* No comment provided by engineer. */
+"Settings" = "Nastavení";
+
+/* No comment provided by engineer. */
+"Share" = "Sdílet";
+
+/* No comment provided by engineer. */
+"Size" = "Velikost";
+
+/* No comment provided by engineer. */
+"Slow" = "Pomalu";
+
+/* No comment provided by engineer. */
+"Slowest" = "Nejpomaleji";
+
+/* No comment provided by engineer. */
+"Split in volumes" = "Rozdělit na svazky";
+
+/* No comment provided by engineer. */
+"Store" = "Bez komprimace";
+
+/* No comment provided by engineer. */
+"The %@ of space available in the destination might not be enough for compressing the estimated %@." = "Dostupné místo %@ na cílovém úložišti možná nebude stačit pro dekomprimaci %@.";
+
+/* No comment provided by engineer. */
+"The changes could not be saved" = "Změny nemohly být uloženy";
+
+/* No comment provided by engineer. */
+"The character %@ is not compatilbe with the %@ format." = "Znak %@ není kompatibilní s formátem %@.";
+
+/* No comment provided by engineer. */
+"The characters %@ are not compatilbe with the %@ format." = "Znaky %@ nejsou kompatibilní s formátem %@.";
+
+/* No comment provided by engineer. */
+"The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "Komprimace bude možná vyžadovat více paměti než je volné (%@) a možná selže. Proces bude omezen jen na 1 vlákno.";
+
+/* No comment provided by engineer. */
+"The compression will be limited to %lld thread/s due to memory constraints." = "Kvůli paměťovým omezením bude komprimace bude omezena na %lld vlákno/vláken.";
+
+/* No comment provided by engineer. */
+"The destination has %@ of space available." = "Cílové umístění má %@ volného místa.";
+
+/* No comment provided by engineer. */
+"The file manager for iOS and macOS" = "Správce souborů pro iOS a macOS";
+
+/* No comment provided by engineer. */
+"The folder is empty" = "Složka se prázdná";
+
+/* No comment provided by engineer. */
+"The password length should be %lld or higher." = "Délka hesla by měla být %lld nebo více.";
+
+/* No comment provided by engineer. */
+"The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "Čím pomalejší rychlost, tím vyšší komprimaci (menší soubor) lze dosáhnout. Režim bez komprimace nezmenšuje velikost souboru, pouze sloučí obsah do jednoho souboru.";
+
+/* No comment provided by engineer. */
+"To extract" = "Dekomprimovat";
+
+/* No comment provided by engineer. */
+"Total size" = "Celková velikost";
+
+/* No comment provided by engineer. */
+"Translated by %@" = "Přeložil %@";
+
+/* The translator link, if any. Can be a mail address or a website. */
+"TRANSLATOR_LINK" = "TRANSLATOR_LINK";
+
+/* The translator name, if any. */
+"TRANSLATOR_NAME" = "TRANSLATOR_NAME";
+
+/* No comment provided by engineer. */
+"Type" = "Typ";
+
+/* No comment provided by engineer. */
+"Unable to apply the app icon" = "Nelze aplikovat ikonu aplikace";
+
+/* No comment provided by engineer. */
+"Unable to browse \"%@\"" = "Nelze procházet „%@“";
+
+/* No comment provided by engineer. */
+"Unable to determine the available space." = "Nelze zjistit volné místo.";
+
+/* No comment provided by engineer. */
+"Unable to get encoding data" = "Nelze zjistit kódování";
+
+/* No comment provided by engineer. */
+"Use AES-256 Encryption" = "Použít šifrování AES-256";
+
+/* No comment provided by engineer. */
+"Use AES-256 if Available" = "Pokud je to možné použít šifrování AES-256";
+
+/* No comment provided by engineer. */
+"Use special coloring for known formats" = "Pro známé formáty použít zvláštní barvu";
+
+/* No comment provided by engineer. */
+"Use UTF-8 Encoding if Available" = "Pokud je to možné použít kódování UTF-8";
+
+/* No comment provided by engineer. */
+"Volume Size" = "Velikost svazku";
+
+/* No comment provided by engineer. */
+"Welcome" = "Vítejte";
+
+/* The "Welcome to Keka" title. */
+"Welcome to %@" = "Vítá Vás %@";
+
+/* No comment provided by engineer. */
+"Where" = "Umístění";
+

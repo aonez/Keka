@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="Keka/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+  <file original="Keka/en.lproj/InfoPlist.strings" source-language="en" target-language="cs" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0.1" build-num="15A507"/>
     </header>
     <body>
       <trans-unit id="7Z Archive" xml:space="preserve">
@@ -277,9 +277,9 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Keka/en.lproj/Localizable.strings" source-language="en" target-language="en" datatype="plaintext">
+  <file original="Keka/en.lproj/Localizable.strings" source-language="en" target-language="cs" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0.1" build-num="15A507"/>
     </header>
     <body>
       <trans-unit id="&quot;%@&quot;" xml:space="preserve">
@@ -981,9 +981,9 @@
       </trans-unit>
     </body>
   </file>
-  <file original="KekaBrowseAction/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+  <file original="KekaBrowseAction/en.lproj/InfoPlist.strings" source-language="en" target-language="cs" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0.1" build-num="15A507"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -993,9 +993,9 @@
       </trans-unit>
     </body>
   </file>
-  <file original="KekaCompressionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+  <file original="KekaCompressionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="cs" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0.1" build-num="15A507"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -1005,9 +1005,9 @@
       </trans-unit>
     </body>
   </file>
-  <file original="KekaExtractionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+  <file original="KekaExtractionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="cs" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A240d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0.1" build-num="15A507"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
