@@ -365,7 +365,7 @@
 "Translated by %@" = "Översatt av %@";
 
 /* The translator link, if any. Can be a mail address or a website. */
-"TRANSLATOR_LINK" = "https://twitter.com/wileryd";
+"TRANSLATOR_LINK" = "https://www.threads.net/@wileryd";
 
 /* The translator name, if any. */
 "TRANSLATOR_NAME" = "Linus Wileryd";

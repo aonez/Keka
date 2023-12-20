@@ -9,7 +9,7 @@ $content_language_locale = "sv";
 //
 // Set $show_content_bottom_translator as true if you want to appear in the bottom of the page
 $show_content_bottom_translator = false;
-$content_bottom_translator = 'Översatt av <a href="https://twitter.com/wileryd">Linus Wileryd</a>.';
+$content_bottom_translator = 'Översatt av <a href="https://www.threads.net/@wileryd">Linus Wileryd</a>.';
 //
 //
 
@@ -66,16 +66,16 @@ $content_info_compression = "Keka kan skapa filer i dessa format:";
 $content_info_extraction = "Samt extrahera alla dessa format:";
 
 // Info v2 (iOS and future macOS)
-$content_info_v2_title1 = "Store more";
-$content_info_v2_title2 = "Share with privacy";
-$content_info_v2_title3 = "A perfect Browsing experience";
-$content_info_v2_title4 = "Multitasking at its finest";
-$content_info_v2_title5 = "Always at hand";
-$content_info_v2_text1 = "With multiple Compression Formats<br />to choose the Perfect One";
-$content_info_v2_text2 = "Protect your shared files with a Password<br />and Encrypt them with AES-256";
-$content_info_v2_text3 = "Preview, Extract and Share<br />only what You Need";
-$content_info_v2_text4 = "Extract, Compress and Browse<br />without limits";
-$content_info_v2_text5 = "Extract, Compress and Browse<br />from anywhere using the Share Actions";
+$content_info_v2_title1 = "Lagra mer";
+$content_info_v2_title2 = "Dela med integritet";
+$content_info_v2_title3 = "En perfekt bläddringsupplevelse";
+$content_info_v2_title4 = "Multitasking när det är som bäst";
+$content_info_v2_title5 = "Alltid tillgängligt";
+$content_info_v2_text1 = "Med många komprimeringsformat<br />för att välja den perfekta";
+$content_info_v2_text2 = "Skydda dina delade filer med ett lösenord<br />och kryptera dem med AES-256";
+$content_info_v2_text3 = "Förhandsgranska, extrahera och dela<br />bara det du behöver";
+$content_info_v2_text4 = "Extrahera, komprimera och bläddra<br />utan begränsningar";
+$content_info_v2_text5 = "Extrahera, komprimera och bläddra<br />från vart som helst med Dela-åtgärder";
 
 // Default app
 $content_defaultapp_title = "Ställ in Keka som standardprogram för uppackning";
@@ -107,7 +107,7 @@ $content_404_start = "Du kan gå till <a href=\"https://www.keka.io\">startsidan
 $content_404_more = "eller vill du ha det här?";
 
 // Maintenance
-$content_maintenance = "Will be back soon";
+$content_maintenance = "Strax tillbaka";
 
 // Bottom info
 $content_bottom_copying = 'Alla rättigheter reserverade.';
