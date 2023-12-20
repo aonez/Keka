@@ -1,4 +1,4 @@
-﻿
+
 /* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
 "159.title" = "Формат по умолчанию:";
 
@@ -120,7 +120,7 @@
 "1TK-Zy-623.title" = "Переименовать распознанное расширение из вложенной папки";
 
 /* Class = "NSButtonCell"; title = "Use custom tasks counter in the Dock"; ObjectID = "3cf-gN-q24"; */
-"3cf-gN-q24.title" = "Использовать пользовательский счётчик задач в Dock";
+"3cf-gN-q24.title" = "Использовать пользовательский счетчик задач в Dock";
 
 /* Class = "NSButtonCell"; title = "Show icon in primary item"; ObjectID = "47Y-rt-2fG"; */
 "47Y-rt-2fG.title" = "Показывать иконку в начале пункта";
@@ -189,16 +189,16 @@
 "Hx2-S1-j7m.title" = "Эти настройки применимы только если приложение Keka закрыто";
 
 /* Class = "NSButtonCell"; title = "Enable full Mac access (Recommended)"; ObjectID = "IHj-ac-103"; */
-"IHj-ac-103.title" = "Дать доступ ко всему Mac (Рекомендуется)";
+"IHj-ac-103.title" = "Дать доступ ко всему Mac (рекомендуется)";
 
 /* Class = "NSButtonCell"; title = "Verify compression integrity"; ObjectID = "IL6-a6-uik"; */
-"IL6-a6-uik.title" = "Verify compression integrity";
+"IL6-a6-uik.title" = "Проверить целостность содержимого в архиве";
 
 /* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive."; ObjectID = "JxT-Nq-8Z5"; */
 "JxT-Nq-8Z5.title" = "Дать доступ к внешним хранилищам, чтобы Keka могла работать с внешними дисками, например USB- или Thunderbolt-накопителями.";
 
 /* Class = "NSTextFieldCell"; title = "Lower priority results in longer times. The lowest priority on Apple Silicon equipped Macs will only use \"Efficiency\" cores, resulting in longer but more energy efficient tasks.\nAlready running tasks priority will not be modified."; ObjectID = "Jyq-vC-L5r"; */
-"Jyq-vC-L5r.title" = "Более низкий приоритет приводит к увеличению времени. Самый низкий приоритет на компьютерах Mac, оснащенных Apple Silicon, будет использовать только \"Efficiency\" ядра, что приведет к более длительному, но более энергоэффективному выполнению задач.\nПриоритет уже запущенных задач не будет изменен.";
+"Jyq-vC-L5r.title" = "Более низкий приоритет приводит к увеличению времени. Самый низкий приоритет на компьютерах Mac, оснащенных Apple Silicon, будет использовать только ядра Efficiency Cores, что приведет к более длительному, но более энергоэффективному выполнению задач.\nПриоритет уже запущенных задач не будет изменен.";
 
 /* Class = "NSTextFieldCell"; title = "Queue compression operations:"; ObjectID = "K5h-j5-bss"; */
 "K5h-j5-bss.title" = "Очередь операций сжатия:";
@@ -216,13 +216,13 @@
 "NwI-O4-9NI.title" = "Исключить ветви ресурсов Mac (напр., .DS_Store)";
 
 /* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder."; ObjectID = "PD2-iW-BGK"; */
-"PD2-iW-BGK.title" = "Дать доступ к домашней папке, чтобы Keka могла работать со всеми вашими файлами, например на Рабочем столе или в папке Загрузки.";
+"PD2-iW-BGK.title" = "Дать доступ к домашней папке, чтобы Keka могла работать со всеми вашими файлами, например на Рабочем столе или в папке «Загрузки».";
 
 /* Class = "NSTextFieldCell"; title = "Default password:"; ObjectID = "Rgr-FP-Kua"; */
 "Rgr-FP-Kua.title" = "Пароль по умолчанию:";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
-"SOL-6U-5P9.title" = "Включить интеграцию с Центром Уведомлений";
+"SOL-6U-5P9.title" = "Включить интеграцию с Центром уведомлений";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "TLc-Nk-Bps"; */
 "TLc-Nk-Bps.placeholderString" = "Укажите имя для новых файлов";
@@ -249,7 +249,7 @@
 "ZiK-jD-TLq.title" = "Высокий";
 
 /* Class = "NSButtonCell"; title = "Use \"Open with Keka\" as the primary item action"; ObjectID = "a5e-FP-sDv"; */
-"a5e-FP-sDv.title" = "Использовать \"Открыть с помощью Keka\" в качестве основного действия";
+"a5e-FP-sDv.title" = "Использовать «Открыть с помощью Keka» в качестве основного действия";
 
 /* Class = "NSButtonCell"; title = "Show the password"; ObjectID = "aOv-6b-JlO"; */
 "aOv-6b-JlO.title" = "Показать пароль";
@@ -333,10 +333,10 @@
 "vWb-gb-JBD.title" = "Вы также можете использовать этот пароль из меню расширения для Finder.";
 
 /* Class = "NSTextFieldCell"; title = "The Finder Extension needs to be enabled in the  System Preferences, Extensions configuration."; ObjectID = "wgz-2S-eXI"; */
-"wgz-2S-eXI.title" = "Расширение для Finder должно быть активировано в Системных настройках, пункт \"Расширения\".";
+"wgz-2S-eXI.title" = "Расширение для Finder должно быть активировано в Системных настройках, пункт «Расширения».";
 
 /* Class = "NSTextFieldCell"; title = "Most operations use multiple threads. That means faster operations but also more power consumption and heat."; ObjectID = "xyb-eH-aiy"; */
-"xyb-eH-aiy.title" = "Большинство операций используют несколько потоков. Это ведёт как к увеличению скорости работы, так и к увеличению энергопотребления и выделению тепла.";
+"xyb-eH-aiy.title" = "Большинство операций используют несколько потоков. Это ведет как к увеличению скорости работы, так и к увеличению энергопотребления и выделению тепла.";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous extractions:"; ObjectID = "yGo-Gm-0zq"; */
 "yGo-Gm-0zq.title" = "Максимум одновременных извлечений:";
@@ -348,4 +348,4 @@
 "zRi-PC-AW9.title" = "Пробовать использовать пароль по умолчанию при извлечении любого файла";
 
 /* Class = "NSButtonCell"; title = "Automatically install new updates"; ObjectID = "zTa-p3-fHX"; */
-"zTa-p3-fHX.title" = "Automatically install new updates";
+"zTa-p3-fHX.title" = "Автоматически устанавливать обновления";
