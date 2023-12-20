@@ -3,7 +3,7 @@
 "0I7-Eo-098.title" = "Окно";
 
 /* Class = "NSMenuItem"; title = "Services"; ObjectID = "0Tk-5P-8i2"; */
-"0Tk-5P-8i2.title" = "Сервисы";
+"0Tk-5P-8i2.title" = "Службы";
 
 /* Class = "NSMenuItem"; title = "Open logs folder"; ObjectID = "52a-zm-Csr"; */
 "52a-zm-Csr.title" = "Открыть папку журналов";
@@ -15,7 +15,7 @@
 "B5q-0l-TAK.title" = "Создать сеанс отладки";
 
 /* Class = "NSMenuItem"; title = "Quit Keka"; ObjectID = "Boj-Hb-G0X"; */
-"Boj-Hb-G0X.title" = "Закрыть Keka";
+"Boj-Hb-G0X.title" = "Завершить Keka";
 
 /* Class = "NSMenuItem"; title = "Settings…"; ObjectID = "FOL-81-NRF"; */
 "FOL-81-NRF.title" = "Настройки…";
@@ -30,10 +30,10 @@
 "K4O-VW-7FA.title" = "Проверить обновления";
 
 /* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "KcM-nz-gqf"; */
-"KcM-nz-gqf.title" = "Увеличить";
+"KcM-nz-gqf.title" = "Изменить масштаб";
 
 /* Class = "NSMenuItem"; title = "Print…"; ObjectID = "M2y-gZ-kEG"; */
-"M2y-gZ-kEG.title" = "Печать…";
+"M2y-gZ-kEG.title" = "Напечатать…";
 
 /* Class = "NSMenu"; title = "View"; ObjectID = "PwP-KI-Flr"; */
 "PwP-KI-Flr.title" = "Вид";
@@ -51,7 +51,7 @@
 "S12-mL-KLt.title" = "Закрыть";
 
 /* Class = "NSMenu"; title = "Help"; ObjectID = "S6s-Is-TM3"; */
-"S6s-Is-TM3.title" = "Помощь";
+"S6s-Is-TM3.title" = "Справка";
 
 /* Class = "NSMenu"; title = "File"; ObjectID = "TTb-AR-olf"; */
 "TTb-AR-olf.title" = "Файл";
@@ -81,16 +81,16 @@
 "gy4-dO-Qdu.title" = "Правка";
 
 /* Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "jtN-lL-fdx"; */
-"jtN-lL-fdx.title" = "Открыть недавнее";
+"jtN-lL-fdx.title" = "Открыть недавние";
 
 /* Class = "NSMenuItem"; title = "Terms Of Use"; ObjectID = "lmN-Tm-HmZ"; */
-"lmN-Tm-HmZ.title" = "Условия пользования";
+"lmN-Tm-HmZ.title" = "Условия использования";
 
 /* Class = "NSMenuItem"; title = "About Keka"; ObjectID = "maF-B5-Hb6"; */
-"maF-B5-Hb6.title" = "О Keka";
+"maF-B5-Hb6.title" = "О приложении Keka";
 
 /* Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "nlc-UW-DRW"; */
-"nlc-UW-DRW.title" = "Вернуть к последней сохранённой версии";
+"nlc-UW-DRW.title" = "Вернуть к последней сохраненной версии";
 
 /* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "nvz-UK-KlM"; */
 "nvz-UK-KlM.title" = "Сохранить как…";
@@ -99,31 +99,31 @@
 "p3U-PZ-hC3.title" = "Настроить панель инструментов…";
 
 /* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "rHb-df-xAE"; */
-"rHb-df-xAE.title" = "Всё на передний план";
+"rHb-df-xAE.title" = "Все окна — на передний план";
 
 /* Class = "NSMenuItem"; title = "Open…"; ObjectID = "sUB-o8-so9"; */
 "sUB-o8-so9.title" = "Открыть…";
 
 /* Class = "NSMenuItem"; title = "Hide Keka"; ObjectID = "smC-MI-dLE"; */
-"smC-MI-dLE.title" = "Спрятать Keka";
+"smC-MI-dLE.title" = "Скрыть Keka";
 
 /* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "sx5-sf-JmW"; */
-"sx5-sf-JmW.title" = "Спрятать другие";
+"sx5-sf-JmW.title" = "Скрыть остальные";
 
 /* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "tDe-Bb-f8d"; */
-"tDe-Bb-f8d.title" = "Свернуть";
+"tDe-Bb-f8d.title" = "Убрать в Dock";
 
 /* Class = "NSMenuItem"; title = "Page Setup..."; ObjectID = "tjx-uw-4ov"; */
 "tjx-uw-4ov.title" = "Настройка страницы...";
 
 /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "v5b-pg-pYC"; */
-"v5b-pg-pYC.title" = "Копировать";
+"v5b-pg-pYC.title" = "Скопировать";
 
 /* Class = "NSMenuItem"; title = "New Window"; ObjectID = "wLf-5U-sSh"; */
 "wLf-5U-sSh.title" = "Новое окно";
 
 /* Class = "NSMenuItem"; title = "Select All"; ObjectID = "wbR-ho-uar"; */
-"wbR-ho-uar.title" = "Выделить всё";
+"wbR-ho-uar.title" = "Выбрать все";
 
 /* Class = "NSMenuItem"; title = "Save debug information"; ObjectID = "zWX-XS-wiR"; */
 "zWX-XS-wiR.title" = "Сохранить отладочную информацию";
