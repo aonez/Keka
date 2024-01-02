@@ -15,40 +15,40 @@
 "2270.title" = "Разбить на тома:";
 
 /* Class = "NSComboBoxCell"; placeholderString = "Example: 5 MB"; ObjectID = "2271"; */
-"2271.placeholderString" = "Пример: 5 MB";
+"2271.placeholderString" = "Пример: 5 МБ";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[0] = "1.4 MB Floppy disk"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[0]" = "1.4 MB дискета";
+"2271.ibShadowedObjectValues[0]" = "1,4 МБ — дискета";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[1] = "650 MB CD"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[1]" = "650 MB CD";
+"2271.ibShadowedObjectValues[1]" = "650 МБ — CD";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[2] = "700 MB CD"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[2]" = "700 MB CD";
+"2271.ibShadowedObjectValues[2]" = "700 МБ — CD";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[3] = "4.7 GB DVD"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[3]" = "4.7 GB DVD";
+"2271.ibShadowedObjectValues[3]" = "4,7 ГБ — DVD";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[4] = "8.5 GB DVD (DL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[4]" = "8.5 GB DVD (DL)";
+"2271.ibShadowedObjectValues[4]" = "8,5 ГБ — DVD (DL)";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[5] = "7.8 GB Mini Blu-ray (SL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[5]" = "7.8 GB Mini Blu-ray (SL)";
+"2271.ibShadowedObjectValues[5]" = "7,8 ГБ — Mini Blu-ray (SL)";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[6] = "15.6 GB Mini Blu-ray (DL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[6]" = "15.6 GB Mini Blu-ray (DL)";
+"2271.ibShadowedObjectValues[6]" = "15,6 ГБ — Mini Blu-ray (DL)";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[7] = "25 GB Blu-ray (SL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[7]" = "25 GB Blu-ray (SL)";
+"2271.ibShadowedObjectValues[7]" = "25 ГБ — Blu-ray (SL)";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[8] = "50 GB Blu-ray (DL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[8]" = "50 GB Blu-ray (DL)";
+"2271.ibShadowedObjectValues[8]" = "50 ГБ — Blu-ray (DL)";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[9] = "100 GB Blu-ray XL (TL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[9]" = "100 GB Blu-ray XL (TL)";
+"2271.ibShadowedObjectValues[9]" = "100 ГБ — Blu-ray XL (TL)";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[10] = "128 GB Blu-ray XL (QL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[10]" = "128 GB Blu-ray XL (QL)";
+"2271.ibShadowedObjectValues[10]" = "128 ГБ — Blu-ray XL (QL)";
 
 /* Class = "NSTextFieldCell"; title = "Volume name:"; ObjectID = "2343"; */
 "2343.title" = "Имя образа:";
@@ -72,7 +72,7 @@
 "2398.title" = "Обычный";
 
 /* Class = "NSTextFieldCell"; title = "Repeat:"; ObjectID = "2426"; */
-"2426.title" = "Ещё раз:";
+"2426.title" = "Еще раз:";
 
 /* Class = "NSButtonCell"; title = "Encrypt filenames"; ObjectID = "L2I-Q8-zqc"; */
 "L2I-Q8-zqc.title" = "Шифровать имена файлов";
@@ -84,7 +84,7 @@
 "UYy-aQ-V1a.title" = "Непрерывный архив";
 
 /* Class = "NSTextFieldCell"; title = "Format:"; ObjectID = "dDw-7W-5ff"; */
-"dDw-7W-5ff.title" = "Format:";
+"dDw-7W-5ff.title" = "Формат:";
 
 /* Class = "NSButtonCell"; title = "Verify compression integrity"; ObjectID = "gqN-A9-jPb"; */
-"gqN-A9-jPb.title" = "Verify compression integrity";
+"gqN-A9-jPb.title" = "Проверить целостность содержимого в архиве";

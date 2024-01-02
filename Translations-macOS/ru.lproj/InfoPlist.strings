@@ -4,10 +4,10 @@
 
 /* Access request descriptions */
 "NSDesktopFolderUsageDescription" = "Для работы с файлами Keka требуется доступ к Рабочему столу.";
-"NSDocumentsFolderUsageDescription" = "Для работы с файлами Keka требуется доступ к Документам.";
-"NSDownloadsFolderUsageDescription" = "Для работы с файлами Keka требуется доступ к Загрузкам.";
+"NSDocumentsFolderUsageDescription" = "Для работы с файлами Keka требуется доступ к папке «Документы».";
+"NSDownloadsFolderUsageDescription" = "Для работы с файлами Keka требуется доступ к папке «Загрузки».";
 "NSNetworkVolumesUsageDescription" = "Для работы с файлами Keka требуется доступ к сетевым томам.";
-"NSRemovableVolumesUsageDescription" = "Для работы с файлами Keka требуется доступ к съёмным томам.";
+"NSRemovableVolumesUsageDescription" = "Для работы с файлами Keka требуется доступ к внешним томам.";
 
 /* File types */
 "7Z Archive" = "Архив 7Z";
@@ -61,8 +61,8 @@
 "XIP Secure Archive" = "Безопасный архив XIP";
 "Electronic Book" = "Электронная книга";
 "Apple Archive" = "Архив Apple";
-"Apple Encrypted Archive" = "Архив, зашифрованный Apple";
-"Squashfs Filesystem Archive" = "Squashfs Filesystem Archive";
+"Apple Encrypted Archive" = "Архив Apple с шифрованием";
+"Squashfs Filesystem Archive" = "Архив файловой системы Squashfs";
 "WordPress All-in-One Backup" = "Полная резервная копия WordPress";
 "InstallShield 3 Archive" = "Архив InstallShield 3";
 "Keka Extraction Package" = "Пакет распаковки Keka";
