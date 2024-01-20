@@ -15,7 +15,7 @@ $content_bottom_translator = '由 <a href="https://github.com/johan456789">Tsung
 
 // iOS
 $ios_title = "$keka for iOS";
-$ios_content_title = "the iOS file archiver";
+$ios_content_title = "iOS 的檔案封存檔管理工具";
 
 // General
 $content_download = "下載";
@@ -31,11 +31,11 @@ $content_download_text = "儲存更多，保有隱私地分享";
 $content_download_love = "喜歡嗎？";
 $content_download_legacy = "歷史版本";
 $content_download_helper = "輔助程式";
-$content_downloading = "Downloading ";
-$content_get_platform = "Get it for ";
-$content_testflight = "TestFlight needed to install this build";
-$content_downloading_if_fails = "If the download does not start automatically ";
-$content_downloading_if_fails_click_here = "click here";
+$content_downloading = "下載 ";
+$content_get_platform = "取得此平台版本：";
+$content_testflight = "需要 TestFlight 才能安裝這個組建版";
+$content_downloading_if_fails = "如果下載沒有自動開始，";
+$content_downloading_if_fails_click_here = "請點這裡";
 
 // Like
 $content_donation_button = "贊助";
@@ -66,16 +66,16 @@ $content_info_compression = "Keka 可以建立以下格式的壓縮檔案：";
 $content_info_extraction = "並支援解壓縮這些格式：";
 
 // Info v2 (iOS and future macOS)
-$content_info_v2_title1 = "Store more";
-$content_info_v2_title2 = "Share with privacy";
-$content_info_v2_title3 = "A perfect Browsing experience";
-$content_info_v2_title4 = "Multitasking at its finest";
-$content_info_v2_title5 = "Always at hand";
-$content_info_v2_text1 = "With multiple Compression Formats<br />to choose the Perfect One";
-$content_info_v2_text2 = "Protect your shared files with a Password<br />and Encrypt them with AES-256";
-$content_info_v2_text3 = "Preview, Extract and Share<br />only what You Need";
-$content_info_v2_text4 = "Extract, Compress and Browse<br />without limits";
-$content_info_v2_text5 = "Extract, Compress and Browse<br />from anywhere using the Share Actions";
+$content_info_v2_title1 = "塞得更多";
+$content_info_v2_title2 = "私密共享";
+$content_info_v2_title3 = "瀏覽體驗無比絲滑";
+$content_info_v2_title4 = "卓越的多工處理能力";
+$content_info_v2_title5 = "隨手可得";
+$content_info_v2_text1 = "提供眾多壓縮格式<br />讓您選出最佳設定";
+$content_info_v2_text2 = "使用密碼保護您的共享資料<br />並使用 AES-256 加密";
+$content_info_v2_text3 = "根據需求展現<br />預覽、擷取和共享";
+$content_info_v2_text4 = "不受拘束地<br />擷取、壓縮和瀏覽";
+$content_info_v2_text5 = "使用「共享」動作<br />任意擷取、壓縮和瀏覽";
 
 // Default app
 $content_defaultapp_title = "將 Keka 設定為預設解壓縮應用程式";
@@ -83,7 +83,7 @@ $content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Def
 
 // Terms of use
 $content_termsofuse_title = '服務條款';
-$content_termsofuse_disclaimer = 'THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.';
+$content_termsofuse_disclaimer = '本軟體由著作權持有者及貢獻者「依現狀」提供，任何明示或默示的保證，包括但不限於對商品化和特定目的適用性的默示保證，均予以免責。在任何情況下，著作權持有者或貢獻者均不對任何直接、間接、偶發、特別、示範性或衍生性損害（包括但不限於替代商品或服務的採購；使用、資料或利潤的損失；或業務中斷）承擔責任，不論這些損害是如何引起的，以及不論責任理論是契約、嚴格責任或侵權行為（包括疏忽或其他）所引起，即使已被告知此類損害的可能性也不例外。';
 $content_termsofuse_inapp_title = 'App 內購買';
 $content_termsofuse_inapp = 'Keka 的 App Store 版本提供 App 內購買，是支持和贊助專案開發的一種途徑，跟 <a href="https://www.keka.io/#lovekeka">網頁的 PayPal/Sponsors</a> 相似。不強制購買，購買後也不會有額外功能。';
 
@@ -107,7 +107,7 @@ $content_404_start = "您可以前往<a href=\"https://www.keka.io\">首頁</a>"
 $content_404_more = "或者您想要這個？";
 
 // Maintenance
-$content_maintenance = "Will be back soon";
+$content_maintenance = "稍待一會，即將恢復";
 
 // Bottom info
 $content_bottom_copying = '保留一切權利。';
