@@ -33,22 +33,22 @@
 "2271.ibShadowedObjectValues[4]" = "8.5 GB DVD (DL)";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[5] = "7.8 GB Mini Blu-ray (SL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[5]" = "7.8 GB Mini Blu-ray (SL)";
+"2271.ibShadowedObjectValues[5]" = "7.8 GB 迷你藍光光碟 (SL)";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[6] = "15.6 GB Mini Blu-ray (DL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[6]" = "15.6 GB Mini Blu-ray (DL)";
+"2271.ibShadowedObjectValues[6]" = "15.6 GB 迷你藍光光碟 (DL)";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[7] = "25 GB Blu-ray (SL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[7]" = "25 GB Blu-ray (SL)";
+"2271.ibShadowedObjectValues[7]" = "25 GB 藍光光碟 (SL)";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[8] = "50 GB Blu-ray (DL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[8]" = "50 GB Blu-ray (DL)";
+"2271.ibShadowedObjectValues[8]" = "50 GB 藍光光碟 (DL)";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[9] = "100 GB Blu-ray XL (TL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[9]" = "100 GB Blu-ray XL (TL)";
+"2271.ibShadowedObjectValues[9]" = "100 GB 藍光光碟 XL (TL)";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[10] = "128 GB Blu-ray XL (QL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[10]" = "128 GB Blu-ray XL (QL)";
+"2271.ibShadowedObjectValues[10]" = "128 GB 藍光光碟 XL (QL)";
 
 /* Class = "NSTextFieldCell"; title = "Volume name:"; ObjectID = "2343"; */
 "2343.title" = "卷宗名稱：";
