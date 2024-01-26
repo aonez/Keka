@@ -74,7 +74,7 @@
 "Keka can't create this %@ image" = "Keka 無法建立此 %@ 映像檔";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "建立 %@ 映像檔只能有一個檔案夾。請試試將所有檔案放在一個檔案夾中，並將其拖曳到 Keka 以建立 %@ 映像檔。";
 "Keka can't create this @% tarball" = "Keka 無法建立此 @% 檔案的 Tarball。";
-"Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it." = "Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it.";
+"Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it." = "Keka 只能建立僅有一個檔案的 LRZIP 封存檔。請先將您的檔案封存成 TAR 檔案再行加密。";
 "This operation is not supported on %@." = "尚未在 %@ 支援此動作。";
 "Compress \"%@\" in %@ to..." = "壓縮 %2$@ 中的「%1$@」至⋯";
 "Compress in %@ to..." = "壓縮 %@ 至⋯";
