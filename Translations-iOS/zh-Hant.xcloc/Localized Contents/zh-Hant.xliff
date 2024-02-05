@@ -102,7 +102,7 @@
       </trans-unit>
       <trans-unit id="Compressed Amiga Disk File" xml:space="preserve">
         <source>Compressed Amiga Disk File</source>
-        <target state="translated">壓縮的Amiga磁碟檔案</target>
+        <target state="translated">壓縮過的Amiga磁碟檔案</target>
         <note/>
       </trans-unit>
       <trans-unit id="Deb Archive" xml:space="preserve">
@@ -217,7 +217,7 @@
       </trans-unit>
       <trans-unit id="Unix Compress File" xml:space="preserve">
         <source>Unix Compress File</source>
-        <target state="translated">Unix壓縮檔案</target>
+        <target state="translated">Unix壓縮檔</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unix Compress Tar Archive" xml:space="preserve">

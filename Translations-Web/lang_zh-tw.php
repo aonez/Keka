@@ -68,7 +68,7 @@ $content_info_extraction = "並支援解壓縮這些格式：";
 // Info v2 (iOS and future macOS)
 $content_info_v2_title1 = "塞得更多";
 $content_info_v2_title2 = "私密共享";
-$content_info_v2_title3 = "瀏覽體驗無比絲滑";
+$content_info_v2_title3 = "瀏覽體驗無比流暢";
 $content_info_v2_title4 = "卓越的多工處理能力";
 $content_info_v2_title5 = "隨手可得";
 $content_info_v2_text1 = "提供眾多壓縮格式<br />讓您選出最佳設定";
@@ -83,7 +83,7 @@ $content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Def
 
 // Terms of use
 $content_termsofuse_title = '服務條款';
-$content_termsofuse_disclaimer = '本軟體由著作權持有者及貢獻者「依現狀」提供，任何明示或默示的保證，包括但不限於對商品化和特定目的適用性的默示保證，均予以免責。在任何情況下，著作權持有者或貢獻者均不對任何直接、間接、偶發、特別、示範性或衍生性損害（包括但不限於替代商品或服務的採購；使用、資料或利潤的損失；或業務中斷）承擔責任，不論這些損害是如何引起的，以及不論責任理論是契約、嚴格責任或侵權行為（包括疏忽或其他）所引起，即使已被告知此類損害的可能性也不例外。';
+$content_termsofuse_disclaimer = '本軟體由著作權持有者及貢獻者「依現狀」提供，不包含任何形式的明示或暗示保證，包括但不限於對商品化或特定目的的適用性保證。在任何情況下，即使已被告知發生此類損害的可能性，著作權持有者或貢獻者均不對任何直接、間接、偶發、特殊、懲罰性或衍生性損害（包括但不限於採購替代商品或服務、使用損失、資料損失、利潤損失、或業務中斷等）承擔責任，無論其成因，以及無論此責任是依據任何責任理論、無論是基於合約責任、嚴格責任或侵權行為（包括疏忽或其他原因）所引起。';
 $content_termsofuse_inapp_title = 'App 內購買';
 $content_termsofuse_inapp = 'Keka 的 App Store 版本提供 App 內購買，是支持和贊助專案開發的一種途徑，跟 <a href="https://www.keka.io/#lovekeka">網頁的 PayPal/Sponsors</a> 相似。不強制購買，購買後也不會有額外功能。';
 
