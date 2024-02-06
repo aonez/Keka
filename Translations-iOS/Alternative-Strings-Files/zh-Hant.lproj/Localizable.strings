@@ -1,32 +1,53 @@
 /* No comment provided by engineer. */
-"%@ item" = "%@ 項目";
+"%@ item" = "個項目";
 
 /* No comment provided by engineer. */
-"%@ items" = "%@ 項目";
+"%@ items" = "個項目";
 
 /* No comment provided by engineer. */
-"%@ of %@ item" = "%@ 之 %@ 項目";
+"%@ of %@ item" = "%@/%@個項目";
 
 /* No comment provided by engineer. */
-"%@ of %@ items" = "%@ 之 %@ 項目";
+"%@ of %@ items" = "%@/%@個項目";
 
 /* No comment provided by engineer. */
 "About" = "關於";
 
 /* No comment provided by engineer. */
-"Actions" = "操作";
+"Actions" = "動作";
 
 /* No comment provided by engineer. */
-"Add a File" = "新增檔案";
+"Actions to do with the current browsed file" = "Actions to do with the current browsed file"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
-"Add a Folder" = "新增檔案夾";
+"Add a File" = "加入檔案";
 
 /* No comment provided by engineer. */
-"Add some contents using the %@ button or the %@ and %@ buttons in the toolbar." = "使用 %@ 或工具列上的 %@ 和 %@ 按鈕新增內容。";
+"Add a Folder" = "加入檔案夾";
+
+/* No comment provided by engineer. */
+"Add a Photo or Video" = "Add a Photo or Video"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Add files and folders to a compression list" = "Add files and folders to a compression list"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Add some contents using the %@ button or the %@ button in the toolbar." = "Add some contents using the %@ button or the %@ button in the toolbar."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar." = "Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Add some contents using the %@ button." = "Add some contents using the %@ button."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Advanced Settings" = "Advanced Settings"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Allocated size" = "已分配大小";
+
+/* No comment provided by engineer. */
+"Archive items separately" = "Archive items separately"; // THIS IS NOT LOCALIZED
 
 /* Default compression file name. */
 "ARCHIVE_DEFAULT_NAME" = "封存檔";
@@ -35,19 +56,19 @@
 "Ask" = "詢問";
 
 /* Browse, operation description. */
-"BROWSE_OPERATION" = "開啟";
+"BROWSE_OPERATION" = "瀏覽";
 
 /* Browsing, operation running. */
-"BROWSE_RUNNING" = "開啟中";
+"BROWSE_RUNNING" = "瀏覽中";
 
 /* Browsing, tasks section title. */
-"BROWSE_SECTION_TITLE" = "已開啟";
+"BROWSE_SECTION_TITLE" = "瀏覽中";
 
 /* Browser settings title. */
-"Browser" = "開啟時";
+"Browser" = "瀏覽器";
 
 /* "by aone" part from "Made with love by aone". */
-"by %@" = "由 %@ 提供";
+"by %@" = "由%@製作";
 
 /* No comment provided by engineer. */
 "Calculate" = "計算";
@@ -68,10 +89,13 @@
 "Close" = "關閉";
 
 /* No comment provided by engineer. */
-"Comments" = "評論";
+"Comments" = "備註";
 
 /* No comment provided by engineer. */
 "Compress" = "壓縮";
+
+/* No comment provided by engineer. */
+"Compress all the items in the compression list" = "Compress all the items in the compression list"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "compressed" = "已壓縮";
@@ -86,7 +110,7 @@
 "compression failed" = "壓縮失敗";
 
 /* No comment provided by engineer. */
-"Compression Level:" = "壓縮等級：";
+"Compression Level:" = "壓縮級別：";
 
 /* Compression, operation description. */
 "COMPRESSION_OPERATION" = "壓縮";
@@ -95,7 +119,7 @@
 "COMPRESSION_RUNNING" = "正在壓縮";
 
 /* Compressing, tasks section title. */
-"COMPRESSION_SECTION_TITLE" = "壓縮任務";
+"COMPRESSION_SECTION_TITLE" = "壓縮作業";
 
 /* No comment provided by engineer. */
 "Contents" = "內容";
@@ -104,19 +128,22 @@
 "Contents: %@, Size: %@" = "內容：%@，大小：%@";
 
 /* No comment provided by engineer. */
-"Created" = "建立日期";
+"Contents: %lld, Size: %@" = "Contents: %lld, Size: %@"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
-"Custom..." = "自訂...";
+"Created" = "建立時間";
+
+/* No comment provided by engineer. */
+"Custom..." = "自訂⋯";
 
 /* No comment provided by engineer. */
 "Date" = "日期";
 
 /* No comment provided by engineer. */
-"Default Compression Level" = "預設壓縮等級";
+"Default Compression Level" = "預設壓縮級別";
 
 /* No comment provided by engineer. */
-"Default Destination" = "預設目標位置";
+"Default Destination" = "預設目的地";
 
 /* No comment provided by engineer. */
 "Default Format" = "預設格式";
@@ -128,13 +155,16 @@
 "Default Volume Unit" = "預設容量單位";
 
 /* No comment provided by engineer. */
-"Delete" = "刪除";
+"Delete" = "Delete"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Delete files(s) after compression" = "Delete files(s) after compression"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Destination" = "目的地";
 
 /* No comment provided by engineer. */
-"Disable \"%@\" if you prefer to use a default configuration." = "如果您希望使用預設設定，請停用\"%@\"。";
+"Disable \"%@\" if you prefer to use a default configuration." = "如果您希望使用預設設定，請停用「%@」。";
 
 /* No comment provided by engineer. */
 "Dismiss" = "取消";
@@ -149,6 +179,9 @@
 "done" = "完成";
 
 /* No comment provided by engineer. */
+"Downloads" = "Downloads"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Edit" = "編輯";
 
 /* No comment provided by engineer. */
@@ -158,31 +191,34 @@
 "Encrypt Filenames if Possible" = "如果可以就加密檔名";
 
 /* No comment provided by engineer. */
-"Enter the password for the file\n\"%@\"" = "輸入檔案的密碼\n\"%@\"";
+"Enter the password for the file\n\"%@\"" = "輸入下述檔案的密碼\n「%@」";
 
 /* No comment provided by engineer. */
-"Extract" = "提取";
+"Exclude Mac resource forks" = "Exclude Mac resource forks"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
-"Extract the file" = "提取檔案";
+"Extract" = "擷取";
 
 /* No comment provided by engineer. */
-"extracted" = "已提取";
+"Extract the file" = "擷取檔案";
+
+/* No comment provided by engineer. */
+"extracted" = "已擷取";
 
 /* Extraction settings title. */
-"Extraction" = "提取";
+"Extraction" = "擷取設定";
 
 /* No comment provided by engineer. */
-"extraction failed" = "提取失敗";
+"extraction failed" = "擷取失敗";
 
 /* Extraction, operation description. */
-"EXTRACTION_OPERATION" = "提取";
+"EXTRACTION_OPERATION" = "擷取";
 
 /* Extracting, operation running. */
-"EXTRACTION_RUNNING" = "正在提取";
+"EXTRACTION_RUNNING" = "正在擷取";
 
 /* Extracting, tasks section title. */
-"EXTRACTION_SECTION_TITLE" = "提取任務";
+"EXTRACTION_SECTION_TITLE" = "擷取作業";
 
 /* No comment provided by engineer. */
 "failed" = "失敗";
@@ -194,10 +230,13 @@
 "Fastest" = "最快";
 
 /* No comment provided by engineer. */
-"Feedback" = "回饋";
+"Feedback" = "使用者意見";
 
 /* No comment provided by engineer. */
-"File not informed properly, try again." = "檔案沒有正確告知，請再試一次。";
+"File not informed properly, try again." = "檔案處理有誤，請稍後再試。";
+
+/* No comment provided by engineer. */
+"Folder drop is only supported on iOS 16 or newer" = "Folder drop is only supported on iOS 16 or newer"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Format" = "格式";
@@ -209,10 +248,13 @@
 "Get Info" = "取得資訊";
 
 /* No comment provided by engineer. */
+"Give Access" = "Give Access"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Hide Password by Default" = "預設隱藏密碼";
 
 /* No comment provided by engineer. */
-"If you got here, please get in touch with the developers." = "如果你已到達此處，請與開發人員聯絡。";
+"If you got here, please get in touch with the developers." = "遇到這個問題時，請與開發人員聯絡。";
 
 /* No comment provided by engineer. */
 "Information" = "資訊";
@@ -227,28 +269,31 @@
 "Kind" = "類別";
 
 /* No comment provided by engineer. */
-"Last opened" = "最後開啟";
+"Last opened" = "上次打開時間";
 
 /* No comment provided by engineer. */
 "Loading" = "載入中";
 
 /* "Made with" part from "Made with love by aone". */
-"Made with" = "製作自";
+"Made with" = "打造自";
 
 /* No comment provided by engineer. */
-"Modified" = "修改";
+"Modified" = "修改時間";
 
 /* No comment provided by engineer. */
 "Name" = "名稱";
 
 /* No comment provided by engineer. */
+"New Compression" = "New Compression"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "No contents" = "沒有內容";
 
 /* No comment provided by engineer. */
-"No contents available" = "沒有可用的內容";
+"No contents available" = "沒有可顯示的內容";
 
 /* No comment provided by engineer. */
-"No files to extract" = "沒有檔案可以解壓縮";
+"No files to extract" = "沒有可擷取的檔案";
 
 /* No comment provided by engineer. */
 "None" = "無";
@@ -257,13 +302,19 @@
 "Normal" = "正常";
 
 /* No comment provided by engineer. */
-"Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files." = "不是所有的平台都支援 AES-256 加密。你可能需要使用第三方應用程式（如 Keka）來開啟這些壓縮檔案。";
+"Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files." = "不是所有的平台都支援AES-256加密。你可能需要使用第三方應用程式（如Keka）來開啟這些壓縮檔案。";
 
 /* No comment provided by engineer. */
-"OK" = "完成";
+"OK" = "好";
 
 /* No comment provided by engineer. */
-"Open" = "開啟";
+"Open" = "打開";
+
+/* No comment provided by engineer. */
+"Open..." = "Open..."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Order" = "Order"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Password" = "密碼";
@@ -272,28 +323,46 @@
 "Password needed" = "需要密碼";
 
 /* No comment provided by engineer. */
-"Please enter the password for:" = "請輸入密碼：";
+"Password Protected" = "Password Protected"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
-"Please select the encoding for:" = "請選擇編碼：";
+"Pause" = "Pause"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Please enter the password for:" = "請輸入下列項目的密碼：";
+
+/* No comment provided by engineer. */
+"Please select the encoding for:" = "請選擇下列項目的編碼方式：";
 
 /* No comment provided by engineer. */
 "Preview" = "預覽";
 
 /* No comment provided by engineer. */
-"Quick Look" = "快速預覽";
+"Quick Look" = "快速查看";
 
 /* No comment provided by engineer. */
 "Remember Last Used Options" = "記住上次使用的選項";
 
 /* No comment provided by engineer. */
-"Remove from cache" = "從快取中刪除";
+"Remove" = "Remove"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Remove All Items" = "Remove All Items"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Remove from cache" = "從快取中移除";
+
+/* No comment provided by engineer. */
+"Remove the selected items from the compression list" = "Remove the selected items from the compression list"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Reset" = "重設";
 
 /* No comment provided by engineer. */
 "Reset All Settings" = "重設所有設定";
+
+/* No comment provided by engineer. */
+"Resume" = "Resume"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Review" = "評價";
@@ -308,6 +377,24 @@
 "Share" = "分享";
 
 /* No comment provided by engineer. */
+"Share..." = "Share..."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Show Advanced Settings" = "Show Advanced Settings"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Show Info" = "Show Info"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Show Less" = "Show Less"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Show or hide additional advanced settings" = "Show or hide additional advanced settings"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Show or hide additional information about the selected item" = "Show or hide additional information about the selected item"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Size" = "大小";
 
 /* No comment provided by engineer. */
@@ -317,22 +404,22 @@
 "Slowest" = "最慢";
 
 /* No comment provided by engineer. */
-"Split in volumes" = "分割成多個卷";
+"Split in volumes" = "分割成多個卷宗";
 
 /* No comment provided by engineer. */
 "Store" = "儲存";
 
 /* No comment provided by engineer. */
-"The %@ of space available in the destination might not be enough for compressing the estimated %@." = "目的地中可用空間的%@可能不足以壓縮估計的%@。";
+"The %@ of space available in the destination might not be enough for compressing the estimated %@." = "目的地中剩餘的%@空間可能不足以壓縮預計的%@。";
 
 /* No comment provided by engineer. */
-"The changes could not be saved" = "更改不能被保存";
+"The changes could not be saved" = "無法儲存更改";
 
 /* No comment provided by engineer. */
-"The character %@ is not compatilbe with the %@ format." = "「%@」字元與 %@ 格式不相容。";
+"The character %@ is not compatilbe with the %@ format." = "「%@」字元和%@格式不相容。";
 
 /* No comment provided by engineer. */
-"The characters %@ are not compatilbe with the %@ format." = "「%@」字元與 %@ 格式不相容。";
+"The characters %@ are not compatilbe with the %@ format." = "「%@」字元和%@格式不相容。";
 
 /* No comment provided by engineer. */
 "The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "壓縮可能需要比可用記憶體（%@）更多的記憶體，並且可能無法成功完成。將限制在1個執行緒。";
@@ -350,25 +437,28 @@
 "The folder is empty" = "檔案夾是空的";
 
 /* No comment provided by engineer. */
-"The password length should be %lld or higher." = "密碼應至少有 %lld 個字元長。";
+"The password length should be %lld or higher." = "密碼應至少有%lld個字元長。";
 
 /* No comment provided by engineer. */
 "The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "壓縮級別越低，壓縮效果越好。「儲存」級別不壓縮，僅封存內容。";
 
 /* No comment provided by engineer. */
-"To extract" = "提取";
+"This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder."; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
-"Total size" = "全部大小";
+"To extract" = "要擷取的內容";
 
 /* No comment provided by engineer. */
-"Translated by %@" = "譯者%@";
+"Total size" = "大小總計";
+
+/* No comment provided by engineer. */
+"Translated by %@" = "由%@翻譯";
 
 /* The translator link, if any. Can be a mail address or a website. */
-"TRANSLATOR_LINK" = "https://ios.keka.io";
+"TRANSLATOR_LINK" = "https://ios.keka.io、https://www.peterdavehello.org/ 和 https://pan93.com";
 
 /* The translator name, if any. */
-"TRANSLATOR_NAME" = "aone";
+"TRANSLATOR_NAME" = "aone、PeterDaveHello和Yi-Jyun Pan";
 
 /* No comment provided by engineer. */
 "Type" = "類型";
@@ -377,7 +467,7 @@
 "Unable to apply the app icon" = "無法套用應用程式圖示";
 
 /* No comment provided by engineer. */
-"Unable to browse \"%@\"" = "無法瀏覽 \"%@\"";
+"Unable to browse \"%@\"" = "無法瀏覽「%@」";
 
 /* No comment provided by engineer. */
 "Unable to determine the available space." = "無法確定可用空間。";
@@ -386,26 +476,29 @@
 "Unable to get encoding data" = "無法取得編碼資料";
 
 /* No comment provided by engineer. */
-"Use AES-256 Encryption" = "使用 AES-256 加密";
+"Use AES-256 Encryption" = "使用AES-256加密";
 
 /* No comment provided by engineer. */
-"Use AES-256 if Available" = "如果可用就使用 AES-256";
+"Use AES-256 if Available" = "如果可以就使用AES-256";
 
 /* No comment provided by engineer. */
 "Use special coloring for known formats" = "使用特定的顏色顯示已知格式";
 
 /* No comment provided by engineer. */
-"Use UTF-8 Encoding if Available" = "如果可用就使用 UTF-8 編碼";
+"Use UTF-8 Encoding if Available" = "如果可以就使用UTF-8編碼";
 
 /* No comment provided by engineer. */
-"Volume Size" = "卷大小";
+"Verify compression integrity" = "Verify compression integrity"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Volume Size" = "卷宗大小";
 
 /* No comment provided by engineer. */
 "Welcome" = "歡迎";
 
 /* The "Welcome to Keka" title. */
-"Welcome to %@" = "歡迎來到 %@";
+"Welcome to %@" = "歡迎使用%@";
 
 /* No comment provided by engineer. */
-"Where" = "在哪裡";
+"Where" = "位置";
 

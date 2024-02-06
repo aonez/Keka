@@ -17,16 +17,37 @@
 "Actions" = "Actions";
 
 /* No comment provided by engineer. */
+"Actions to do with the current browsed file" = "Actions to do with the current browsed file";
+
+/* No comment provided by engineer. */
 "Add a File" = "Add a File";
 
 /* No comment provided by engineer. */
 "Add a Folder" = "Add a Folder";
 
 /* No comment provided by engineer. */
-"Add some contents using the %@ button or the %@ and %@ buttons in the toolbar." = "Add some contents using the %@ button or the %@ and %@ buttons in the toolbar.";
+"Add a Photo or Video" = "Add a Photo or Video";
+
+/* No comment provided by engineer. */
+"Add files and folders to a compression list" = "Add files and folders to a compression list";
+
+/* No comment provided by engineer. */
+"Add some contents using the %@ button or the %@ button in the toolbar." = "Add some contents using the %@ button or the %@ button in the toolbar.";
+
+/* No comment provided by engineer. */
+"Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar." = "Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar.";
+
+/* No comment provided by engineer. */
+"Add some contents using the %@ button." = "Add some contents using the %@ button.";
+
+/* No comment provided by engineer. */
+"Advanced Settings" = "Advanced Settings";
 
 /* No comment provided by engineer. */
 "Allocated size" = "Allocated size";
+
+/* No comment provided by engineer. */
+"Archive items separately" = "Archive items separately";
 
 /* Default compression file name. */
 "ARCHIVE_DEFAULT_NAME" = "Archive";
@@ -74,6 +95,9 @@
 "Compress" = "Compress";
 
 /* No comment provided by engineer. */
+"Compress all the items in the compression list" = "Compress all the items in the compression list";
+
+/* No comment provided by engineer. */
 "compressed" = "compressed";
 
 /* No comment provided by engineer. */
@@ -104,6 +128,9 @@
 "Contents: %@, Size: %@" = "Contents: %@, Size: %@";
 
 /* No comment provided by engineer. */
+"Contents: %lld, Size: %@" = "Contents: %lld, Size: %@";
+
+/* No comment provided by engineer. */
 "Created" = "Created";
 
 /* No comment provided by engineer. */
@@ -131,6 +158,9 @@
 "Delete" = "Delete";
 
 /* No comment provided by engineer. */
+"Delete files(s) after compression" = "Delete files(s) after compression";
+
+/* No comment provided by engineer. */
 "Destination" = "Destination";
 
 /* No comment provided by engineer. */
@@ -149,6 +179,9 @@
 "done" = "done";
 
 /* No comment provided by engineer. */
+"Downloads" = "Downloads";
+
+/* No comment provided by engineer. */
 "Edit" = "Edit";
 
 /* No comment provided by engineer. */
@@ -159,6 +192,9 @@
 
 /* No comment provided by engineer. */
 "Enter the password for the file\n\"%@\"" = "Enter the password for the file\n\"%@\"";
+
+/* No comment provided by engineer. */
+"Exclude Mac resource forks" = "Exclude Mac resource forks";
 
 /* No comment provided by engineer. */
 "Extract" = "Extract";
@@ -200,6 +236,9 @@
 "File not informed properly, try again." = "File not informed properly, try again.";
 
 /* No comment provided by engineer. */
+"Folder drop is only supported on iOS 16 or newer" = "Folder drop is only supported on iOS 16 or newer";
+
+/* No comment provided by engineer. */
 "Format" = "Format";
 
 /* General settings title. */
@@ -207,6 +246,9 @@
 
 /* No comment provided by engineer. */
 "Get Info" = "Get Info";
+
+/* No comment provided by engineer. */
+"Give Access" = "Give Access";
 
 /* No comment provided by engineer. */
 "Hide Password by Default" = "Hide Password by Default";
@@ -242,6 +284,9 @@
 "Name" = "Name";
 
 /* No comment provided by engineer. */
+"New Compression" = "New Compression";
+
+/* No comment provided by engineer. */
 "No contents" = "No contents";
 
 /* No comment provided by engineer. */
@@ -266,10 +311,22 @@
 "Open" = "Open";
 
 /* No comment provided by engineer. */
+"Open..." = "Open...";
+
+/* No comment provided by engineer. */
+"Order" = "Order";
+
+/* No comment provided by engineer. */
 "Password" = "Password";
 
 /* No comment provided by engineer. */
 "Password needed" = "Password needed";
+
+/* No comment provided by engineer. */
+"Password Protected" = "Password Protected";
+
+/* No comment provided by engineer. */
+"Pause" = "Pause";
 
 /* No comment provided by engineer. */
 "Please enter the password for:" = "Please enter the password for:";
@@ -287,13 +344,25 @@
 "Remember Last Used Options" = "Remember Last Used Options";
 
 /* No comment provided by engineer. */
+"Remove" = "Remove";
+
+/* No comment provided by engineer. */
+"Remove All Items" = "Remove All Items";
+
+/* No comment provided by engineer. */
 "Remove from cache" = "Remove from cache";
+
+/* No comment provided by engineer. */
+"Remove the selected items from the compression list" = "Remove the selected items from the compression list";
 
 /* No comment provided by engineer. */
 "Reset" = "Reset";
 
 /* No comment provided by engineer. */
 "Reset All Settings" = "Reset All Settings";
+
+/* No comment provided by engineer. */
+"Resume" = "Resume";
 
 /* No comment provided by engineer. */
 "Review" = "Review";
@@ -306,6 +375,24 @@
 
 /* No comment provided by engineer. */
 "Share" = "Share";
+
+/* No comment provided by engineer. */
+"Share..." = "Share...";
+
+/* No comment provided by engineer. */
+"Show Advanced Settings" = "Show Advanced Settings";
+
+/* No comment provided by engineer. */
+"Show Info" = "Show Info";
+
+/* No comment provided by engineer. */
+"Show Less" = "Show Less";
+
+/* No comment provided by engineer. */
+"Show or hide additional advanced settings" = "Show or hide additional advanced settings";
+
+/* No comment provided by engineer. */
+"Show or hide additional information about the selected item" = "Show or hide additional information about the selected item";
 
 /* No comment provided by engineer. */
 "Size" = "Size";
@@ -356,6 +443,9 @@
 "The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents.";
 
 /* No comment provided by engineer. */
+"This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder.";
+
+/* No comment provided by engineer. */
 "To extract" = "To extract";
 
 /* No comment provided by engineer. */
@@ -396,6 +486,9 @@
 
 /* No comment provided by engineer. */
 "Use UTF-8 Encoding if Available" = "Use UTF-8 Encoding if Available";
+
+/* No comment provided by engineer. */
+"Verify compression integrity" = "Verify compression integrity";
 
 /* No comment provided by engineer. */
 "Volume Size" = "Volume Size";
