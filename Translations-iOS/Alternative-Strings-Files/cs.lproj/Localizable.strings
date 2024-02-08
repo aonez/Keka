@@ -17,16 +17,37 @@
 "Actions" = "Akce";
 
 /* No comment provided by engineer. */
+"Actions to do with the current browsed file" = "Actions to do with the current browsed file"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Add a File" = "Přidat soubor";
 
 /* No comment provided by engineer. */
 "Add a Folder" = "Přidat složku";
 
 /* No comment provided by engineer. */
-"Add some contents using the %@ button or the %@ and %@ buttons in the toolbar." = "Přidat nějaký obsah pomocí tlačítka %@ nebo tlačítek %@ a %@ z lišty nabídek.";
+"Add a Photo or Video" = "Add a Photo or Video"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Add files and folders to a compression list" = "Add files and folders to a compression list"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Add some contents using the %@ button or the %@ button in the toolbar." = "Add some contents using the %@ button or the %@ button in the toolbar."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar." = "Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Add some contents using the %@ button." = "Add some contents using the %@ button."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Advanced Settings" = "Advanced Settings"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Allocated size" = "Přidělená velikost";
+
+/* No comment provided by engineer. */
+"Archive items separately" = "Archive items separately"; // THIS IS NOT LOCALIZED
 
 /* Default compression file name. */
 "ARCHIVE_DEFAULT_NAME" = "Archiv";
@@ -74,6 +95,9 @@
 "Compress" = "Komprimace";
 
 /* No comment provided by engineer. */
+"Compress all the items in the compression list" = "Compress all the items in the compression list"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "compressed" = "komprimováno";
 
 /* No comment provided by engineer. */
@@ -104,6 +128,9 @@
 "Contents: %@, Size: %@" = "Obsahuje: %@, velikost: %@";
 
 /* No comment provided by engineer. */
+"Contents: %lld, Size: %@" = "Contents: %lld, Size: %@"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Created" = "Vytvořeno";
 
 /* No comment provided by engineer. */
@@ -131,6 +158,9 @@
 "Delete" = "Smazat";
 
 /* No comment provided by engineer. */
+"Delete files(s) after compression" = "Delete files(s) after compression"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Destination" = "Cíl";
 
 /* No comment provided by engineer. */
@@ -149,6 +179,9 @@
 "done" = "hotovo";
 
 /* No comment provided by engineer. */
+"Downloads" = "Downloads"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Edit" = "Úpravy";
 
 /* No comment provided by engineer. */
@@ -159,6 +192,9 @@
 
 /* No comment provided by engineer. */
 "Enter the password for the file\n\"%@\"" = "Zadejte heslo k souboru\n„%@“";
+
+/* No comment provided by engineer. */
+"Exclude Mac resource forks" = "Exclude Mac resource forks"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Extract" = "Dekomprimovat";
@@ -200,6 +236,9 @@
 "File not informed properly, try again." = "Soubor nebyl správně určen, zkuste to znovu.";
 
 /* No comment provided by engineer. */
+"Folder drop is only supported on iOS 16 or newer" = "Folder drop is only supported on iOS 16 or newer"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Format" = "Formát";
 
 /* General settings title. */
@@ -207,6 +246,9 @@
 
 /* No comment provided by engineer. */
 "Get Info" = "Informace";
+
+/* No comment provided by engineer. */
+"Give Access" = "Give Access"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Hide Password by Default" = "Ve výchozím stavu skrýt heslo";
@@ -242,6 +284,9 @@
 "Name" = "Jméno";
 
 /* No comment provided by engineer. */
+"New Compression" = "New Compression"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "No contents" = "Žádný obsah";
 
 /* No comment provided by engineer. */
@@ -266,10 +311,22 @@
 "Open" = "Otevřít";
 
 /* No comment provided by engineer. */
+"Open..." = "Open..."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Order" = "Order"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Password" = "Heslo";
 
 /* No comment provided by engineer. */
 "Password needed" = "Je třeba heslo";
+
+/* No comment provided by engineer. */
+"Password Protected" = "Password Protected"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Pause" = "Pause"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Please enter the password for:" = "Zadejte prosím heslo:";
@@ -287,13 +344,25 @@
 "Remember Last Used Options" = "Zapamatovat naposledy použité volby";
 
 /* No comment provided by engineer. */
+"Remove" = "Remove"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Remove All Items" = "Remove All Items"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Remove from cache" = "Odstranit z vyrovnávací paměti";
+
+/* No comment provided by engineer. */
+"Remove the selected items from the compression list" = "Remove the selected items from the compression list"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Reset" = "Obnovit";
 
 /* No comment provided by engineer. */
 "Reset All Settings" = "Obnovit všechny nastavení";
+
+/* No comment provided by engineer. */
+"Resume" = "Resume"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Review" = "Posouzení";
@@ -306,6 +375,24 @@
 
 /* No comment provided by engineer. */
 "Share" = "Sdílet";
+
+/* No comment provided by engineer. */
+"Share..." = "Share..."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Show Advanced Settings" = "Show Advanced Settings"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Show Info" = "Show Info"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Show Less" = "Show Less"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Show or hide additional advanced settings" = "Show or hide additional advanced settings"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Show or hide additional information about the selected item" = "Show or hide additional information about the selected item"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Size" = "Velikost";
@@ -356,6 +443,9 @@
 "The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "Čím pomalejší rychlost, tím vyšší komprimaci (menší soubor) lze dosáhnout. Režim bez komprimace nezmenšuje velikost souboru, pouze sloučí obsah do jednoho souboru.";
 
 /* No comment provided by engineer. */
+"This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "To extract" = "Dekomprimovat";
 
 /* No comment provided by engineer. */
@@ -396,6 +486,9 @@
 
 /* No comment provided by engineer. */
 "Use UTF-8 Encoding if Available" = "Pokud je to možné použít kódování UTF-8";
+
+/* No comment provided by engineer. */
+"Verify compression integrity" = "Verify compression integrity"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Volume Size" = "Velikost svazku";

@@ -17,16 +17,37 @@
 "Actions" = "操作";
 
 /* No comment provided by engineer. */
+"Actions to do with the current browsed file" = "Actions to do with the current browsed file"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Add a File" = "添加文件";
 
 /* No comment provided by engineer. */
 "Add a Folder" = "添加文件夹";
 
 /* No comment provided by engineer. */
-"Add some contents using the %@ button or the %@ and %@ buttons in the toolbar." = "使用 %@ 按钮或工具栏中的 %@ 和 %@ 按钮添加内容。";
+"Add a Photo or Video" = "Add a Photo or Video"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Add files and folders to a compression list" = "Add files and folders to a compression list"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Add some contents using the %@ button or the %@ button in the toolbar." = "Add some contents using the %@ button or the %@ button in the toolbar."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar." = "Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Add some contents using the %@ button." = "Add some contents using the %@ button."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Advanced Settings" = "Advanced Settings"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Allocated size" = "分配大小";
+
+/* No comment provided by engineer. */
+"Archive items separately" = "Archive items separately"; // THIS IS NOT LOCALIZED
 
 /* Default compression file name. */
 "ARCHIVE_DEFAULT_NAME" = "归档";
@@ -74,6 +95,9 @@
 "Compress" = "压缩";
 
 /* No comment provided by engineer. */
+"Compress all the items in the compression list" = "Compress all the items in the compression list"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "compressed" = "已压缩";
 
 /* No comment provided by engineer. */
@@ -104,6 +128,9 @@
 "Contents: %@, Size: %@" = "内容：%@，大小：%@";
 
 /* No comment provided by engineer. */
+"Contents: %lld, Size: %@" = "Contents: %lld, Size: %@"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Created" = "已创建";
 
 /* No comment provided by engineer. */
@@ -131,6 +158,9 @@
 "Delete" = "删除";
 
 /* No comment provided by engineer. */
+"Delete files(s) after compression" = "Delete files(s) after compression"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Destination" = "目标位置";
 
 /* No comment provided by engineer. */
@@ -149,6 +179,9 @@
 "done" = "完成";
 
 /* No comment provided by engineer. */
+"Downloads" = "Downloads"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Edit" = "编辑";
 
 /* No comment provided by engineer. */
@@ -159,6 +192,9 @@
 
 /* No comment provided by engineer. */
 "Enter the password for the file\n\"%@\"" = "输入文件的密码\n\"%@\"";
+
+/* No comment provided by engineer. */
+"Exclude Mac resource forks" = "Exclude Mac resource forks"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Extract" = "提取";
@@ -200,6 +236,9 @@
 "File not informed properly, try again." = "文件信息不正确，请重试。";
 
 /* No comment provided by engineer. */
+"Folder drop is only supported on iOS 16 or newer" = "Folder drop is only supported on iOS 16 or newer"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Format" = "格式";
 
 /* General settings title. */
@@ -207,6 +246,9 @@
 
 /* No comment provided by engineer. */
 "Get Info" = "获取信息";
+
+/* No comment provided by engineer. */
+"Give Access" = "Give Access"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Hide Password by Default" = "默认隐藏密码";
@@ -242,6 +284,9 @@
 "Name" = "名称";
 
 /* No comment provided by engineer. */
+"New Compression" = "New Compression"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "No contents" = "无内容";
 
 /* No comment provided by engineer. */
@@ -266,10 +311,22 @@
 "Open" = "打开";
 
 /* No comment provided by engineer. */
+"Open..." = "Open..."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Order" = "Order"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Password" = "密码";
 
 /* No comment provided by engineer. */
 "Password needed" = "需要密码";
+
+/* No comment provided by engineer. */
+"Password Protected" = "Password Protected"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Pause" = "Pause"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Please enter the password for:" = "请输入密码：";
@@ -287,13 +344,25 @@
 "Remember Last Used Options" = "记住上次使用的选项";
 
 /* No comment provided by engineer. */
+"Remove" = "Remove"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Remove All Items" = "Remove All Items"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Remove from cache" = "从缓存中删除";
+
+/* No comment provided by engineer. */
+"Remove the selected items from the compression list" = "Remove the selected items from the compression list"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Reset" = "重置";
 
 /* No comment provided by engineer. */
 "Reset All Settings" = "重置所有设置";
+
+/* No comment provided by engineer. */
+"Resume" = "Resume"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Review" = "评价";
@@ -306,6 +375,24 @@
 
 /* No comment provided by engineer. */
 "Share" = "分享";
+
+/* No comment provided by engineer. */
+"Share..." = "Share..."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Show Advanced Settings" = "Show Advanced Settings"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Show Info" = "Show Info"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Show Less" = "Show Less"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Show or hide additional advanced settings" = "Show or hide additional advanced settings"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Show or hide additional information about the selected item" = "Show or hide additional information about the selected item"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Size" = "大小";
@@ -356,6 +443,9 @@
 "The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "越慢的级别压缩效果越好。存储级别不进行任何压缩，只归档内容。";
 
 /* No comment provided by engineer. */
+"This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "To extract" = "提取";
 
 /* No comment provided by engineer. */
@@ -396,6 +486,9 @@
 
 /* No comment provided by engineer. */
 "Use UTF-8 Encoding if Available" = "如果可用，使用 UTF-8 编码";
+
+/* No comment provided by engineer. */
+"Verify compression integrity" = "Verify compression integrity"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Volume Size" = "卷大小";

@@ -17,16 +17,37 @@
 "Actions" = "الأوضاع";
 
 /* No comment provided by engineer. */
+"Actions to do with the current browsed file" = "Actions to do with the current browsed file"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Add a File" = "أضف ملف";
 
 /* No comment provided by engineer. */
 "Add a Folder" = "أضف مجلد";
 
 /* No comment provided by engineer. */
-"Add some contents using the %@ button or the %@ and %@ buttons in the toolbar." = "أضف بعض المحتويات بإستخدام زر %@ أو شعار الـ %@  و %@ في الشريط العلوي.";
+"Add a Photo or Video" = "Add a Photo or Video"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Add files and folders to a compression list" = "Add files and folders to a compression list"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Add some contents using the %@ button or the %@ button in the toolbar." = "Add some contents using the %@ button or the %@ button in the toolbar."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar." = "Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Add some contents using the %@ button." = "Add some contents using the %@ button."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Advanced Settings" = "Advanced Settings"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Allocated size" = "الحجم المخصص";
+
+/* No comment provided by engineer. */
+"Archive items separately" = "Archive items separately"; // THIS IS NOT LOCALIZED
 
 /* Default compression file name. */
 "ARCHIVE_DEFAULT_NAME" = "أرشيف";
@@ -74,6 +95,9 @@
 "Compress" = "ضغط";
 
 /* No comment provided by engineer. */
+"Compress all the items in the compression list" = "Compress all the items in the compression list"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "compressed" = "تم الضغط";
 
 /* No comment provided by engineer. */
@@ -104,6 +128,9 @@
 "Contents: %@, Size: %@" = "محتويات: %@, حجم: %@";
 
 /* No comment provided by engineer. */
+"Contents: %lld, Size: %@" = "Contents: %lld, Size: %@"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Created" = "تم إنشاؤها";
 
 /* No comment provided by engineer. */
@@ -131,6 +158,9 @@
 "Delete" = "حذف";
 
 /* No comment provided by engineer. */
+"Delete files(s) after compression" = "Delete files(s) after compression"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Destination" = "الوجهة";
 
 /* No comment provided by engineer. */
@@ -149,6 +179,9 @@
 "done" = "تم";
 
 /* No comment provided by engineer. */
+"Downloads" = "Downloads"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Edit" = "تعديل";
 
 /* No comment provided by engineer. */
@@ -159,6 +192,9 @@
 
 /* No comment provided by engineer. */
 "Enter the password for the file\n\"%@\"" = "أدخل الرقم السري للملف\n\"%@\"";
+
+/* No comment provided by engineer. */
+"Exclude Mac resource forks" = "Exclude Mac resource forks"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Extract" = "فك الضغط";
@@ -200,6 +236,9 @@
 "File not informed properly, try again." = "الملف لم يبلغ بشكل صحيح, حاول مرة أخرى.";
 
 /* No comment provided by engineer. */
+"Folder drop is only supported on iOS 16 or newer" = "Folder drop is only supported on iOS 16 or newer"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Format" = "الصيغة";
 
 /* General settings title. */
@@ -207,6 +246,9 @@
 
 /* No comment provided by engineer. */
 "Get Info" = "الحصول على معلومات";
+
+/* No comment provided by engineer. */
+"Give Access" = "Give Access"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Hide Password by Default" = "إخفِ الرقم السري بشكل إفتراضي";
@@ -242,6 +284,9 @@
 "Name" = "إسم";
 
 /* No comment provided by engineer. */
+"New Compression" = "New Compression"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "No contents" = "لايوجد محتوى";
 
 /* No comment provided by engineer. */
@@ -266,10 +311,22 @@
 "Open" = "فتح";
 
 /* No comment provided by engineer. */
+"Open..." = "Open..."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Order" = "Order"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Password" = "الرقم السري";
 
 /* No comment provided by engineer. */
 "Password needed" = "الرقم السري مطلوب";
+
+/* No comment provided by engineer. */
+"Password Protected" = "Password Protected"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Pause" = "Pause"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Please enter the password for:" = "فضلاً أدخل الرقم السري:";
@@ -287,13 +344,25 @@
 "Remember Last Used Options" = "تذكر العمليات المستخدمة مؤخراً";
 
 /* No comment provided by engineer. */
+"Remove" = "Remove"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Remove All Items" = "Remove All Items"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Remove from cache" = "إزالة من الذاكرة المؤقتة";
+
+/* No comment provided by engineer. */
+"Remove the selected items from the compression list" = "Remove the selected items from the compression list"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Reset" = "إعادة تعيين";
 
 /* No comment provided by engineer. */
 "Reset All Settings" = "إستعادة جميع الإعدادات";
+
+/* No comment provided by engineer. */
+"Resume" = "Resume"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Review" = "مراجعة";
@@ -306,6 +375,24 @@
 
 /* No comment provided by engineer. */
 "Share" = "مشاركة";
+
+/* No comment provided by engineer. */
+"Share..." = "Share..."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Show Advanced Settings" = "Show Advanced Settings"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Show Info" = "Show Info"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Show Less" = "Show Less"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Show or hide additional advanced settings" = "Show or hide additional advanced settings"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Show or hide additional information about the selected item" = "Show or hide additional information about the selected item"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Size" = "حجم";
@@ -356,6 +443,9 @@
 "The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "كلما كان المستوى أبطأ، كلما أمكن تحقيق المزيد من الضغط. لا يقوم مستوى التخزين بعملية الضغط على الإطلاق، بل يقوم فقط بأرشفة المحتويات.";
 
 /* No comment provided by engineer. */
+"This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "To extract" = "لفك الضغط";
 
 /* No comment provided by engineer. */
@@ -396,6 +486,9 @@
 
 /* No comment provided by engineer. */
 "Use UTF-8 Encoding if Available" = "استخدم ترميز UTF-8 ان كان متاحاً";
+
+/* No comment provided by engineer. */
+"Verify compression integrity" = "Verify compression integrity"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Volume Size" = "وحدة التخزين";

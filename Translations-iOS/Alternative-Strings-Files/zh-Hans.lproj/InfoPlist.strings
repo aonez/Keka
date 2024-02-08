@@ -32,6 +32,9 @@
 "Android Application Package" = "Android 应用程序";
 
 /* (No Comment) */
+"Apple Archive" = "Apple Archive"; // THIS IS NOT LOCALIZED
+
+/* (No Comment) */
 "APPX Archive" = "APPX 归档";
 
 /* (No Comment) */
@@ -159,3 +162,4 @@
 
 /* (No Comment) */
 "Zstandard Tarball Archive" = "Zstd 压缩归档";
+

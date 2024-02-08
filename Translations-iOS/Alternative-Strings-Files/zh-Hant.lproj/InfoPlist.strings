@@ -1,162 +1,165 @@
 /* (No Comment) */
-"7Z Archive" = "7Z 封存檔";
+"7Z Archive" = "7Z封存檔";
 
 /* (No Comment) */
-"ACE Archive" = "ACE 封存檔";
+"ACE Archive" = "ACE封存檔";
 
 /* (No Comment) */
-"ALZip Archive" = "ALZip 封存檔";
+"ALZip Archive" = "ALZip封存檔";
 
 /* (No Comment) */
-"Amiga DCS Disk Archive" = "Amiga DCS Disk 封存檔";
+"Amiga DCS Disk Archive" = "Amiga DCS磁碟封存檔";
 
 /* (No Comment) */
-"Amiga Disk File" = "Amiga Disk File";
+"Amiga Disk File" = "Amiga磁碟檔案";
 
 /* (No Comment) */
-"Amiga DMS Disk Archive" = "Amiga DMS Disk 封存檔";
+"Amiga DMS Disk Archive" = "Amiga DMS磁碟封存檔";
 
 /* (No Comment) */
-"Amiga PackDev Disk Archive" = "Amiga PackDev Disk 封存檔";
+"Amiga PackDev Disk Archive" = "Amiga PackDev磁碟封存檔";
 
 /* (No Comment) */
-"Amiga PowerPacker Archive" = "Amiga PowerPacker 封存檔";
+"Amiga PowerPacker Archive" = "Amiga PowerPacker封存檔";
 
 /* (No Comment) */
-"Amiga xMash Disk Archive" = "Amiga xMash Disk 封存檔";
+"Amiga xMash Disk Archive" = "Amiga xMash磁碟封存檔";
 
 /* (No Comment) */
-"Amiga Zoom Disk Archive" = "Amiga Zoom Disk 封存檔";
+"Amiga Zoom Disk Archive" = "Amiga Zoom磁碟封存檔";
 
 /* (No Comment) */
-"Android Application Package" = "Android 應用程式套件";
+"Android Application Package" = "Android應用程式套件";
 
 /* (No Comment) */
-"APPX Archive" = "APPX 封存檔";
+"Apple Archive" = "Apple Archive"; // THIS IS NOT LOCALIZED
 
 /* (No Comment) */
-"ARC Archive" = "ARC 封存檔";
+"APPX Archive" = "APPX封存檔";
 
 /* (No Comment) */
-"ARJ Archive" = "ARJ 封存檔";
+"ARC Archive" = "ARC封存檔";
 
 /* (No Comment) */
-"BZIP2 Archive" = "BZIP2 封存檔";
+"ARJ Archive" = "ARJ封存檔";
 
 /* (No Comment) */
-"BZIP2 Tarball Archive" = "BZIP2 封存檔";
+"BZIP2 Archive" = "BZIP2封存檔";
 
 /* (No Comment) */
-"CAB Archive" = "CAB 封存檔";
+"BZIP2 Tarball Archive" = "BZIP2 Tarball封存檔";
 
 /* (No Comment) */
-"CDI Disk Image" = "CDI Disk Image";
+"CAB Archive" = "CAB封存檔";
 
 /* (No Comment) */
-"Compact Pro Archive" = "Compact Pro 封存檔";
+"CDI Disk Image" = "CDI磁碟封存檔";
 
 /* (No Comment) */
-"Compressed Amiga Disk File" = "Compressed Amiga Disk File";
+"Compact Pro Archive" = "Compact Pro封存檔";
 
 /* (No Comment) */
-"Deb Archive" = "Deb 封存檔";
+"Compressed Amiga Disk File" = "壓縮過的Amiga磁碟檔案";
 
 /* (No Comment) */
-"DiskDoubler Archive" = "DiskDoubler 封存檔";
+"Deb Archive" = "Deb封存檔";
+
+/* (No Comment) */
+"DiskDoubler Archive" = "DiskDoubler封存檔";
 
 /* (No Comment) */
 "Generic Archive Volume" = "通用封存卷宗";
 
 /* (No Comment) */
-"HA Archive" = "HA 封存檔";
+"HA Archive" = "HA封存檔";
 
 /* (No Comment) */
-"Keka Extraction Package" = "Keka 解壓縮套件";
+"Keka Extraction Package" = "Keka解壓縮套件";
 
 /* (No Comment) */
-"LBR Archive" = "LBR 封存檔";
+"LBR Archive" = "LBR封存檔";
 
 /* (No Comment) */
-"LhA Archive" = "LhA 封存檔";
+"LhA Archive" = "LhA封存檔";
 
 /* (No Comment) */
-"LhF Archive" = "LhF 封存檔";
+"LhF Archive" = "LhF封存檔";
 
 /* (No Comment) */
-"Linux RPM Archive" = "Linux RPM 封存檔";
+"Linux RPM Archive" = "Linux RPM封存檔";
 
 /* (No Comment) */
-"LZMA File" = "LZMA File";
+"LZMA File" = "LZMA檔案";
 
 /* (No Comment) */
-"LZX Archive" = "LZX 封存檔";
+"LZX Archive" = "LZX封存檔";
 
 /* (No Comment) */
-"MDF Disk Image" = "MDF Disk Image";
+"MDF Disk Image" = "MDF磁碟映像檔";
 
 /* (No Comment) */
-"Microsoft MSI Installer" = "Microsoft MSI Installer";
+"Microsoft MSI Installer" = "Microsoft MSI安裝程式";
 
 /* (No Comment) */
-"Now Compress Archive" = "Now Compress 封存檔";
+"Now Compress Archive" = "Now Compress封存檔";
 
 /* (No Comment) */
-"NRG Disk Image" = "NRG Disk Image";
+"NRG Disk Image" = "NRG磁碟映像檔";
 
 /* (No Comment) */
-"NSA Archive" = "NSA 封存檔";
+"NSA Archive" = "NSA封存檔";
 
 /* (No Comment) */
-"PackIt Archive" = "PackIt 封存檔";
+"PackIt Archive" = "PackIt封存檔";
 
 /* (No Comment) */
-"Pax Archive" = "Pax 封存檔";
+"Pax Archive" = "Pax封存檔";
 
 /* (No Comment) */
-"PMA Archive" = "PMA 封存檔";
+"PMA Archive" = "PMA封存檔";
 
 /* (No Comment) */
-"RAR Archive" = "RAR 封存檔";
+"RAR Archive" = "RAR封存檔";
 
 /* (No Comment) */
-"SAR Archive" = "SAR 封存檔";
+"SAR Archive" = "SAR封存檔";
 
 /* (No Comment) */
-"Self-Extracting Archive" = "Self-Extracting 封存檔";
+"Self-Extracting Archive" = "自解開封存檔";
 
 /* (No Comment) */
-"Unix Compress File" = "Unix Compress File";
+"Unix Compress File" = "Unix壓縮檔";
 
 /* (No Comment) */
-"Unix Compress Tar Archive" = "Unix Compress Tar 封存檔";
+"Unix Compress Tar Archive" = "Unix壓縮Tar封存檔";
 
 /* (No Comment) */
-"WARC Web Archive" = "WARC Web 封存檔";
+"WARC Web Archive" = "WARC網頁封存檔";
 
 /* (No Comment) */
-"XAR Archive" = "XAR 封存檔";
+"XAR Archive" = "XAR封存檔";
 
 /* (No Comment) */
-"XIP Archive" = "XIP 封存檔";
+"XIP Archive" = "XIP封存檔";
 
 /* (No Comment) */
-"XZ Archive" = "XZ 封存檔";
+"XZ Archive" = "XZ封存檔";
 
 /* (No Comment) */
-"XZ Tarball Archive" = "XZ 封存檔";
+"XZ Tarball Archive" = "XZ Tarball封存檔";
 
 /* (No Comment) */
-"ZIP Archive" = "ZIP 封存檔";
+"ZIP Archive" = "ZIP封存檔";
 
 /* (No Comment) */
-"ZIPX Archive" = "ZIPX 封存檔";
+"ZIPX Archive" = "ZIPX封存檔";
 
 /* (No Comment) */
-"ZOO Archive" = "ZOO 封存檔";
+"ZOO Archive" = "ZOO封存檔";
 
 /* (No Comment) */
-"Zstandard Archive" = "Zstandard 封存檔";
+"Zstandard Archive" = "Zstandard封存檔";
 
 /* (No Comment) */
-"Zstandard Tarball Archive" = "Zstandard 封存檔";
+"Zstandard Tarball Archive" = "Zstandard Tarball封存檔";
 

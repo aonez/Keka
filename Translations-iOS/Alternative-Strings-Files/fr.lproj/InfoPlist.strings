@@ -32,6 +32,9 @@
 "Android Application Package" = "Paquet d'application Android";
 
 /* (No Comment) */
+"Apple Archive" = "Apple Archive"; // THIS IS NOT LOCALIZED
+
+/* (No Comment) */
 "APPX Archive" = "Archive APPX";
 
 /* (No Comment) */
