@@ -32,8 +32,8 @@ $content_download_love = "Bạn thích nó chứ?";
 $content_download_legacy = "Phiên bản cũ";
 $content_download_helper = "Công cụ hỗ trợ";
 $content_downloading = "Đang tải ";
-$content_get_platform = "Get it for ";
-$content_testflight = "TestFlight needed to install this build";
+$content_get_platform = "Tải về cho ";
+$content_testflight = "Yêu cầu có TestFlight để cài đặt bản dựng này";
 $content_downloading_if_fails = "Nếu tác vụ tải về không tự động chạy hãy ";
 $content_downloading_if_fails_click_here = "bấm vào đây";
 
@@ -66,16 +66,16 @@ $content_info_compression = "Keka có thể tạo tập tin theo các định d�
 $content_info_extraction = "Và giải nén tất cả các định dạng sau:";
 
 // Info v2 (iOS and future macOS)
-$content_info_v2_title1 = "Store more";
-$content_info_v2_title2 = "Share with privacy";
-$content_info_v2_title3 = "A perfect Browsing experience";
-$content_info_v2_title4 = "Multitasking at its finest";
-$content_info_v2_title5 = "Always at hand";
-$content_info_v2_text1 = "With multiple Compression Formats<br />to choose the Perfect One";
-$content_info_v2_text2 = "Protect your shared files with a Password<br />and Encrypt them with AES-256";
-$content_info_v2_text3 = "Preview, Extract and Share<br />only what You Need";
-$content_info_v2_text4 = "Extract, Compress and Browse<br />without limits";
-$content_info_v2_text5 = "Extract, Compress and Browse<br />from anywhere using the Share Actions";
+$content_info_v2_title1 = "Lưu trữ nhiều hơn";
+$content_info_v2_title2 = "Chia sẻ tệp thêm bảo mật";
+$content_info_v2_title3 = "Trải nghiệm duyệt tệp hoàn hảo";
+$content_info_v2_title4 = "Đa tác vụ mượt mà";
+$content_info_v2_title5 = "Dễ dàng và tiện dụng";
+$content_info_v2_text1 = "Hỗ trợ nhiều loại định dạng nén<br />thoải mái chọn lựa";
+$content_info_v2_text2 = "Bảo vệ các tệp nén bằng mật khẩu<br />và mã hoá chúng với thuật toán AES-256";
+$content_info_v2_text3 = "Xem trước, giải nén và chia sẻ<br />là những thứ bạn cần";
+$content_info_v2_text4 = "Giải nén, tạo nén và duyệt tập tin<br />không giới hạn";
+$content_info_v2_text5 = "Giải nén, tạo nén và duyệt tập tin<br />ở bất kỳ nơi nào chỉ với Share Actions";
 
 // Default app
 $content_defaultapp_title = "Đặt Keka làm ứng dụng giải nén mặc định";

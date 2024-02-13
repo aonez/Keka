@@ -84,7 +84,7 @@
 "UYy-aQ-V1a.title" = "Lưu trữ dạng rắn";
 
 /* Class = "NSTextFieldCell"; title = "Format:"; ObjectID = "dDw-7W-5ff"; */
-"dDw-7W-5ff.title" = "Format:";
+"dDw-7W-5ff.title" = "Định dạng:";
 
 /* Class = "NSButtonCell"; title = "Verify compression integrity"; ObjectID = "gqN-A9-jPb"; */
-"gqN-A9-jPb.title" = "Verify compression integrity";
+"gqN-A9-jPb.title" = "Xác minh tính toàn vẹn tập nén";
