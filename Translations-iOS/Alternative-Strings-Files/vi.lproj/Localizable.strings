@@ -17,7 +17,7 @@
 "Actions" = "Các hành động";
 
 /* No comment provided by engineer. */
-"Actions to do with the current browsed file" = "Actions to do with the current browsed file"; // THIS IS NOT LOCALIZED
+"Actions to do with the current browsed file" = "Các hành động khả dụng với tập tin đã duyệt hiện tại";
 
 /* No comment provided by engineer. */
 "Add a File" = "Thêm một tập tin";
@@ -26,28 +26,28 @@
 "Add a Folder" = "Thêm một thư mục";
 
 /* No comment provided by engineer. */
-"Add a Photo or Video" = "Add a Photo or Video"; // THIS IS NOT LOCALIZED
+"Add a Photo or Video" = "Thêm một Hình ảnh hoặc Video";
 
 /* No comment provided by engineer. */
-"Add files and folders to a compression list" = "Add files and folders to a compression list"; // THIS IS NOT LOCALIZED
+"Add files and folders to a compression list" = "Thêm nhiều tập tin và thư mục vào danh sách nén";
 
 /* No comment provided by engineer. */
-"Add some contents using the %@ button or the %@ button in the toolbar." = "Add some contents using the %@ button or the %@ button in the toolbar."; // THIS IS NOT LOCALIZED
+"Add some contents using the %@ button or the %@ button in the toolbar." = "Thêm một số nội dung sử dụng nút %@ hoặc nút %@ trên thanh công cụ.";
 
 /* No comment provided by engineer. */
-"Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar." = "Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar."; // THIS IS NOT LOCALIZED
+"Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar." = "Thêm một số nội dung sử dụng nút %@ hoặc các nút %@, %@ hoặc %@ trên thanh công cụ.";
 
 /* No comment provided by engineer. */
-"Add some contents using the %@ button." = "Add some contents using the %@ button."; // THIS IS NOT LOCALIZED
+"Add some contents using the %@ button." = "Thêm một số nội dung sử dụng nút %@.";
 
 /* No comment provided by engineer. */
-"Advanced Settings" = "Advanced Settings"; // THIS IS NOT LOCALIZED
+"Advanced Settings" = "Cài đặt nâng cao";
 
 /* No comment provided by engineer. */
 "Allocated size" = "Kích thước được phân bổ";
 
 /* No comment provided by engineer. */
-"Archive items separately" = "Archive items separately"; // THIS IS NOT LOCALIZED
+"Archive items separately" = "Nén các mục riêng biệt";
 
 /* Default compression file name. */
 "ARCHIVE_DEFAULT_NAME" = "Tệp tin nén";
@@ -89,13 +89,13 @@
 "Close" = "Đóng";
 
 /* No comment provided by engineer. */
-"Comments" = "Comments"; // THIS IS NOT LOCALIZED
+"Comments" = "Bình luận";
 
 /* No comment provided by engineer. */
 "Compress" = "Nén";
 
 /* No comment provided by engineer. */
-"Compress all the items in the compression list" = "Compress all the items in the compression list"; // THIS IS NOT LOCALIZED
+"Compress all the items in the compression list" = "Nén tất cả các mục trong danh sách cần nén";
 
 /* No comment provided by engineer. */
 "compressed" = "đã nén";
@@ -128,7 +128,7 @@
 "Contents: %@, Size: %@" = "Nội dung: %@, Kích thước: %@";
 
 /* No comment provided by engineer. */
-"Contents: %lld, Size: %@" = "Contents: %lld, Size: %@"; // THIS IS NOT LOCALIZED
+"Contents: %lld, Size: %@" = "Nội dung: %lld, Kích thước: %@";
 
 /* No comment provided by engineer. */
 "Created" = "Đã tạo";
@@ -152,13 +152,13 @@
 "Default Tap Action" = "Lệnh chạm mặc định";
 
 /* No comment provided by engineer. */
-"Default Volume Unit" = "Default Volume Unit"; // THIS IS NOT LOCALIZED
+"Default Volume Unit" = "Đơn vị dung lượng mặc định";
 
 /* No comment provided by engineer. */
 "Delete" = "Xoá";
 
 /* No comment provided by engineer. */
-"Delete files(s) after compression" = "Delete files(s) after compression"; // THIS IS NOT LOCALIZED
+"Delete files(s) after compression" = "Xoá các tập tin sau khi nén xong";
 
 /* No comment provided by engineer. */
 "Destination" = "Nơi lưu";
@@ -179,7 +179,7 @@
 "done" = "hoàn thành";
 
 /* No comment provided by engineer. */
-"Downloads" = "Downloads"; // THIS IS NOT LOCALIZED
+"Downloads" = "Tải xuống";
 
 /* No comment provided by engineer. */
 "Edit" = "Sửa";
@@ -194,7 +194,7 @@
 "Enter the password for the file\n\"%@\"" = "Nhập mật khẩu cho tập tin\n\"%@\"";
 
 /* No comment provided by engineer. */
-"Exclude Mac resource forks" = "Exclude Mac resource forks"; // THIS IS NOT LOCALIZED
+"Exclude Mac resource forks" = "Loại trừ các nhánh tài nguyên của Mac";
 
 /* No comment provided by engineer. */
 "Extract" = "Giải nén";
@@ -236,7 +236,7 @@
 "File not informed properly, try again." = "Tập tin chưa đọc hết, hãy thử lại";
 
 /* No comment provided by engineer. */
-"Folder drop is only supported on iOS 16 or newer" = "Folder drop is only supported on iOS 16 or newer"; // THIS IS NOT LOCALIZED
+"Folder drop is only supported on iOS 16 or newer" = "Tính năng kéo thả chỉ hỗ trợ trên iOS 16 hoặc mới hơn";
 
 /* No comment provided by engineer. */
 "Format" = "Định dạng";
@@ -248,7 +248,7 @@
 "Get Info" = "Lấy thông tin";
 
 /* No comment provided by engineer. */
-"Give Access" = "Give Access"; // THIS IS NOT LOCALIZED
+"Give Access" = "Cấp quyền truy cập";
 
 /* No comment provided by engineer. */
 "Hide Password by Default" = "Mặc định ẩn đi mật khẩu";
@@ -284,7 +284,7 @@
 "Name" = "Tên";
 
 /* No comment provided by engineer. */
-"New Compression" = "New Compression"; // THIS IS NOT LOCALIZED
+"New Compression" = "Tạo nén mới";
 
 /* No comment provided by engineer. */
 "No contents" = "Không có nội dung";
@@ -311,10 +311,10 @@
 "Open" = "Mở";
 
 /* No comment provided by engineer. */
-"Open..." = "Open..."; // THIS IS NOT LOCALIZED
+"Open..." = "Mở...";
 
 /* No comment provided by engineer. */
-"Order" = "Order"; // THIS IS NOT LOCALIZED
+"Order" = "Thứ tự";
 
 /* No comment provided by engineer. */
 "Password" = "Mật khẩu";
@@ -323,10 +323,10 @@
 "Password needed" = "Yêu cầu mật khẩu";
 
 /* No comment provided by engineer. */
-"Password Protected" = "Password Protected"; // THIS IS NOT LOCALIZED
+"Password Protected" = "Được bảo vệ bởi mật khẩu";
 
 /* No comment provided by engineer. */
-"Pause" = "Pause"; // THIS IS NOT LOCALIZED
+"Pause" = "Tạm dừng";
 
 /* No comment provided by engineer. */
 "Please enter the password for:" = "Vui lòng nhập mật khẩu cho:";
@@ -344,16 +344,16 @@
 "Remember Last Used Options" = "Ghi nhớ tuỳ chọn đã dùng trước đó";
 
 /* No comment provided by engineer. */
-"Remove" = "Remove"; // THIS IS NOT LOCALIZED
+"Remove" = "Loại bỏ";
 
 /* No comment provided by engineer. */
-"Remove All Items" = "Remove All Items"; // THIS IS NOT LOCALIZED
+"Remove All Items" = "Loại bỏ tất cả các mục";
 
 /* No comment provided by engineer. */
 "Remove from cache" = "Gỡ bỏ khỏi bộ nhớ tạm";
 
 /* No comment provided by engineer. */
-"Remove the selected items from the compression list" = "Remove the selected items from the compression list"; // THIS IS NOT LOCALIZED
+"Remove the selected items from the compression list" = "Loại bỏ các mục đã chọn khỏi danh sách tập nén";
 
 /* No comment provided by engineer. */
 "Reset" = "Đặt lại";
@@ -362,7 +362,7 @@
 "Reset All Settings" = "Đặt lại tất cả tuỳ chỉnh cài đặt";
 
 /* No comment provided by engineer. */
-"Resume" = "Resume"; // THIS IS NOT LOCALIZED
+"Resume" = "Tiếp tục";
 
 /* No comment provided by engineer. */
 "Review" = "Đánh giá";
@@ -377,22 +377,22 @@
 "Share" = "Chia sẻ";
 
 /* No comment provided by engineer. */
-"Share..." = "Share..."; // THIS IS NOT LOCALIZED
+"Share..." = "Chia sẻ...";
 
 /* No comment provided by engineer. */
-"Show Advanced Settings" = "Show Advanced Settings"; // THIS IS NOT LOCALIZED
+"Show Advanced Settings" = "Hiện cài đặt nâng cao";
 
 /* No comment provided by engineer. */
-"Show Info" = "Show Info"; // THIS IS NOT LOCALIZED
+"Show Info" = "Hiện thông tin";
 
 /* No comment provided by engineer. */
-"Show Less" = "Show Less"; // THIS IS NOT LOCALIZED
+"Show Less" = "Ẩn bớt";
 
 /* No comment provided by engineer. */
-"Show or hide additional advanced settings" = "Show or hide additional advanced settings"; // THIS IS NOT LOCALIZED
+"Show or hide additional advanced settings" = "Hiện hoặc ẩn các bổ sung cài đặt nâng cao";
 
 /* No comment provided by engineer. */
-"Show or hide additional information about the selected item" = "Show or hide additional information about the selected item"; // THIS IS NOT LOCALIZED
+"Show or hide additional information about the selected item" = "Hiện hoặc ẩn các thông tin bổ sung về mục đã chọn";
 
 /* No comment provided by engineer. */
 "Size" = "Kích thước";
@@ -404,7 +404,7 @@
 "Slowest" = "Chậm nhất";
 
 /* No comment provided by engineer. */
-"Split in volumes" = "Split in volumes"; // THIS IS NOT LOCALIZED
+"Split in volumes" = "Chia theo dung lượng";
 
 /* No comment provided by engineer. */
 "Store" = "Lưu trữ";
@@ -443,7 +443,7 @@
 "The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "Mức độ nén càng chậm thì tỉ lệ nén càng cao. Ở mức nén lưu trữ, nội dung không hề bị nén mà chỉ được đóng gói nhanh thành tập tin nén.";
 
 /* No comment provided by engineer. */
-"This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder."; // THIS IS NOT LOCALIZED
+"This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "Ổ đĩa lưu trữ tập tin cần bổ sung quyền truy cập tập tin để mở nó.\nBạn có thể cấp quyền truy cập cho tất cả các tập tin hoặc thư mục mẹ.";
 
 /* No comment provided by engineer. */
 "To extract" = "Đến giải nén";
@@ -488,10 +488,10 @@
 "Use UTF-8 Encoding if Available" = "Sử dụng mã hoá UTF-8 nếu có";
 
 /* No comment provided by engineer. */
-"Verify compression integrity" = "Verify compression integrity"; // THIS IS NOT LOCALIZED
+"Verify compression integrity" = "Xác minh tính toàn vẹn tập nén";
 
 /* No comment provided by engineer. */
-"Volume Size" = "Volume Size"; // THIS IS NOT LOCALIZED
+"Volume Size" = "Kích thước dung lượng";
 
 /* No comment provided by engineer. */
 "Welcome" = "Chào mừng";
