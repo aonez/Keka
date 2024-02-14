@@ -17,7 +17,7 @@
 "Actions" = "Actions";
 
 /* No comment provided by engineer. */
-"Actions to do with the current browsed file" = "Actions to do with the current browsed file"; // THIS IS NOT LOCALIZED
+"Actions to do with the current browsed file" = "Actions à effectuer avec le fichier actuellement ouvert";
 
 /* No comment provided by engineer. */
 "Add a File" = "Ajouter un fichier";
@@ -26,28 +26,28 @@
 "Add a Folder" = "Ajouter un dossier";
 
 /* No comment provided by engineer. */
-"Add a Photo or Video" = "Add a Photo or Video"; // THIS IS NOT LOCALIZED
+"Add a Photo or Video" = "Ajouter une photo ou une vidéo";
 
 /* No comment provided by engineer. */
-"Add files and folders to a compression list" = "Add files and folders to a compression list"; // THIS IS NOT LOCALIZED
+"Add files and folders to a compression list" = "Ajouter des fichiers et dossiers à une liste de compression";
 
 /* No comment provided by engineer. */
-"Add some contents using the %@ button or the %@ button in the toolbar." = "Add some contents using the %@ button or the %@ button in the toolbar."; // THIS IS NOT LOCALIZED
+"Add some contents using the %@ button or the %@ button in the toolbar." = "Ajouter du contenu en utilisant le bouton %@ ou le bouton %@ de la barre de boutons.";
 
 /* No comment provided by engineer. */
-"Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar." = "Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar."; // THIS IS NOT LOCALIZED
+"Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar." = "Ajouter du contenu en utilisant le bouton %@ ou les boutons %@, %@ ou %@ de la barre de boutons.";
 
 /* No comment provided by engineer. */
-"Add some contents using the %@ button." = "Add some contents using the %@ button."; // THIS IS NOT LOCALIZED
+"Add some contents using the %@ button." = "Ajouter du contenu en utilisant le bouton %@.";
 
 /* No comment provided by engineer. */
-"Advanced Settings" = "Advanced Settings"; // THIS IS NOT LOCALIZED
+"Advanced Settings" = "Paramètres avancés";
 
 /* No comment provided by engineer. */
 "Allocated size" = "Taille allouée";
 
 /* No comment provided by engineer. */
-"Archive items separately" = "Archive items separately"; // THIS IS NOT LOCALIZED
+"Archive items separately" = "Archiver les éléments séparément";
 
 /* Default compression file name. */
 "ARCHIVE_DEFAULT_NAME" = "Archive";
@@ -95,7 +95,7 @@
 "Compress" = "Compresser";
 
 /* No comment provided by engineer. */
-"Compress all the items in the compression list" = "Compress all the items in the compression list"; // THIS IS NOT LOCALIZED
+"Compress all the items in the compression list" = "Compresser tous les éléments de la liste de compression";
 
 /* No comment provided by engineer. */
 "compressed" = "compressé";
@@ -128,7 +128,7 @@
 "Contents: %@, Size: %@" = "Contenu: %@, Taille: %@";
 
 /* No comment provided by engineer. */
-"Contents: %lld, Size: %@" = "Contents: %lld, Size: %@"; // THIS IS NOT LOCALIZED
+"Contents: %lld, Size: %@" = "Contenu: %lld, Taille: %@";
 
 /* No comment provided by engineer. */
 "Created" = "Créé";
@@ -158,7 +158,7 @@
 "Delete" = "Supprimer";
 
 /* No comment provided by engineer. */
-"Delete files(s) after compression" = "Delete files(s) after compression"; // THIS IS NOT LOCALIZED
+"Delete files(s) after compression" = "Supprimer le(s) fichier(s) après compression";
 
 /* No comment provided by engineer. */
 "Destination" = "Destination";
@@ -179,7 +179,7 @@
 "done" = "terminé";
 
 /* No comment provided by engineer. */
-"Downloads" = "Downloads"; // THIS IS NOT LOCALIZED
+"Downloads" = "Téléchargements";
 
 /* No comment provided by engineer. */
 "Edit" = "Modifier";
@@ -194,7 +194,7 @@
 "Enter the password for the file\n\"%@\"" = "Saisir le mot de passe pour le fichier\n\"%@\"";
 
 /* No comment provided by engineer. */
-"Exclude Mac resource forks" = "Exclude Mac resource forks"; // THIS IS NOT LOCALIZED
+"Exclude Mac resource forks" = "Exclure les branches de ressources Mac";
 
 /* No comment provided by engineer. */
 "Extract" = "Extraire";
@@ -236,7 +236,7 @@
 "File not informed properly, try again." = "Le fichier n'est pas renseigné correctement, essayer encore.";
 
 /* No comment provided by engineer. */
-"Folder drop is only supported on iOS 16 or newer" = "Folder drop is only supported on iOS 16 or newer"; // THIS IS NOT LOCALIZED
+"Folder drop is only supported on iOS 16 or newer" = "Le dépôt de dossier n'est pris en charge que sur iOS 16 ou version ultérieure";
 
 /* No comment provided by engineer. */
 "Format" = "Format";
@@ -248,7 +248,7 @@
 "Get Info" = "Obtenir de l'information";
 
 /* No comment provided by engineer. */
-"Give Access" = "Give Access"; // THIS IS NOT LOCALIZED
+"Give Access" = "Donner accès";
 
 /* No comment provided by engineer. */
 "Hide Password by Default" = "Cacher le mot de passe par défaut";
@@ -284,7 +284,7 @@
 "Name" = "Nom";
 
 /* No comment provided by engineer. */
-"New Compression" = "New Compression"; // THIS IS NOT LOCALIZED
+"New Compression" = "Nouvelle compression";
 
 /* No comment provided by engineer. */
 "No contents" = "Aucun contenu";
@@ -311,10 +311,10 @@
 "Open" = "Ouvrir";
 
 /* No comment provided by engineer. */
-"Open..." = "Open..."; // THIS IS NOT LOCALIZED
+"Open..." = "Ouvrir...";
 
 /* No comment provided by engineer. */
-"Order" = "Order"; // THIS IS NOT LOCALIZED
+"Order" = "Trier";
 
 /* No comment provided by engineer. */
 "Password" = "Mot de passe";
@@ -323,10 +323,10 @@
 "Password needed" = "Mot de passe requis";
 
 /* No comment provided by engineer. */
-"Password Protected" = "Password Protected"; // THIS IS NOT LOCALIZED
+"Password Protected" = "Protégé par mot de passe";
 
 /* No comment provided by engineer. */
-"Pause" = "Pause"; // THIS IS NOT LOCALIZED
+"Pause" = "Pause";
 
 /* No comment provided by engineer. */
 "Please enter the password for:" = "Veuillez entrer le mot de passe pour:";
@@ -344,16 +344,16 @@
 "Remember Last Used Options" = "Se souvenir des dernières options utilisées";
 
 /* No comment provided by engineer. */
-"Remove" = "Remove"; // THIS IS NOT LOCALIZED
+"Remove" = "Supprimer";
 
 /* No comment provided by engineer. */
-"Remove All Items" = "Remove All Items"; // THIS IS NOT LOCALIZED
+"Remove All Items" = "Supprimer tous les éléments";
 
 /* No comment provided by engineer. */
 "Remove from cache" = "Supprimer du cache";
 
 /* No comment provided by engineer. */
-"Remove the selected items from the compression list" = "Remove the selected items from the compression list"; // THIS IS NOT LOCALIZED
+"Remove the selected items from the compression list" = "Supprimer les éléments sélectionnés de la liste de compression";
 
 /* No comment provided by engineer. */
 "Reset" = "Réinitialiser";
@@ -362,7 +362,7 @@
 "Reset All Settings" = "Réinitialiser tous les paramètres";
 
 /* No comment provided by engineer. */
-"Resume" = "Resume"; // THIS IS NOT LOCALIZED
+"Resume" = "Reprendre";
 
 /* No comment provided by engineer. */
 "Review" = "Evaluer";
@@ -377,22 +377,22 @@
 "Share" = "Partager";
 
 /* No comment provided by engineer. */
-"Share..." = "Share..."; // THIS IS NOT LOCALIZED
+"Share..." = "Partager...";
 
 /* No comment provided by engineer. */
-"Show Advanced Settings" = "Show Advanced Settings"; // THIS IS NOT LOCALIZED
+"Show Advanced Settings" = "Afficher les paramètres avancés";
 
 /* No comment provided by engineer. */
-"Show Info" = "Show Info"; // THIS IS NOT LOCALIZED
+"Show Info" = "Afficher Info";
 
 /* No comment provided by engineer. */
-"Show Less" = "Show Less"; // THIS IS NOT LOCALIZED
+"Show Less" = "Afficher moins";
 
 /* No comment provided by engineer. */
-"Show or hide additional advanced settings" = "Show or hide additional advanced settings"; // THIS IS NOT LOCALIZED
+"Show or hide additional advanced settings" = "Afficher ou masquer les paramètres avancés supplémentaires";
 
 /* No comment provided by engineer. */
-"Show or hide additional information about the selected item" = "Show or hide additional information about the selected item"; // THIS IS NOT LOCALIZED
+"Show or hide additional information about the selected item" = "Afficher ou masquer les informations supplémentaires de l'élément sélectionné";
 
 /* No comment provided by engineer. */
 "Size" = "Taille";
@@ -443,7 +443,7 @@
 "The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "Plus le niveau est lent, plus il y aura de compression. Le niveau \"Non-compressé\" n'effectue aucune compression, il archive seulement le contenu.";
 
 /* No comment provided by engineer. */
-"This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder."; // THIS IS NOT LOCALIZED
+"This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "Ce fichier de volum nécessite un accès supplémentaire aux fichiers pour être ouvert.\nVous pouvez donner accès au reste des fichiers ou au dossier parent.";
 
 /* No comment provided by engineer. */
 "To extract" = "A extraire";
@@ -488,7 +488,7 @@
 "Use UTF-8 Encoding if Available" = "Utiliser l'encodage UTF-8 si disponible";
 
 /* No comment provided by engineer. */
-"Verify compression integrity" = "Verify compression integrity"; // THIS IS NOT LOCALIZED
+"Verify compression integrity" = "Vérifier l'intégrité de la compression";
 
 /* No comment provided by engineer. */
 "Volume Size" = "Dimension du volume";
