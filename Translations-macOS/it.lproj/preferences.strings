@@ -138,7 +138,7 @@
 "6bh-6N-5PP.title" = "Organizza le azioni in un sottomenu";
 
 /* Class = "NSMenuItem"; title = "Always"; ObjectID = "8AZ-Vv-Lv1"; */
-"8AZ-Vv-Lv1.title" = "Always";
+"8AZ-Vv-Lv1.title" = "Sempre";
 
 /* Class = "NSTextFieldCell"; title = "You can use these placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n%pb% will be replaced with the clipboard string\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
 "8JN-Ub-qkc.title" = "Puoi usare questi segnaposto:\n\n%n sarà sostituito con il nome del file\n%e sarà sostituito con l'estensione del file\n%p sarà sostituito con la cartella superiore\n%c sarà sostituito con il numero di file\n%d sarà sostituito con la data attuale\n%t sarà sostituito con l'ora attuale\n%s sarà sostituito con il nome condiviso\n%i% sarà sostituito con il nome del primo elemento\n%ia% sarà sostituito con il primo nome ordinato\n%pb% sarà sostituito con il testo degli appunti\n\nLe sostituzioni saranno vuote in alcuni casi.";
@@ -192,7 +192,7 @@
 "Hx2-S1-j7m.title" = "Quelle che sono applicate solo quando Keka non è aperto.";
 
 /* Class = "NSMenuItem"; title = "Never"; ObjectID = "I93-7A-iSn"; */
-"I93-7A-iSn.title" = "Never";
+"I93-7A-iSn.title" = "Mai";
 
 /* Class = "NSButtonCell"; title = "Enable full Mac access (Recommended)"; ObjectID = "IHj-ac-103"; */
 "IHj-ac-103.title" = "Abilita l'accesso completo al Mac (Consigliato)";
@@ -252,7 +252,7 @@
 "ZOx-vr-5o7.title" = "Abilita l'accesso completo al Mac per poter utilizzare Keka ovunque.";
 
 /* Class = "NSButtonCell"; title = "Create self-extracting archives for Windows if possible"; ObjectID = "Zfm-hU-OMZ"; */
-"Zfm-hU-OMZ.title" = "Create self-extracting archives for Windows if possible";
+"Zfm-hU-OMZ.title" = "Crea archivi autoestraenti per Windows, se possibile";
 
 /* Class = "NSMenuItem"; title = "High"; ObjectID = "ZiK-jD-TLq"; */
 "ZiK-jD-TLq.title" = "Alta";
@@ -285,7 +285,7 @@
 "dhi-qv-weg.title" = "Comprimere più file:";
 
 /* Class = "NSMenuItem"; title = "Only if configuration windows are open"; ObjectID = "dmz-xh-p9a"; */
-"dmz-xh-p9a.title" = "Only if configuration windows are open";
+"dmz-xh-p9a.title" = "Solo se le finestre di configurazione sono aperte";
 
 /* Class = "NSButtonCell"; title = "Set folder's modification date to extraction date"; ObjectID = "eBj-1b-wBg"; */
 "eBj-1b-wBg.title" = "Imposta la data di modifica della cartella alla data di estrazione";
@@ -327,7 +327,7 @@
 "rP2-XR-ZQt.title" = "Mostra le azioni di Keka nel menu contestuale del Finder";
 
 /* Class = "NSTextFieldCell"; title = "Show an icon in the Dock:"; ObjectID = "rra-p2-67m"; */
-"rra-p2-67m.title" = "Show an icon in the Dock:";
+"rra-p2-67m.title" = "Mostra un'icona nel Dock:";
 
 /* Class = "NSButtonCell"; title = "Show icons in actions"; ObjectID = "s9u-2a-b8X"; */
 "s9u-2a-b8X.title" = "Mostra le icone nelle azioni";
