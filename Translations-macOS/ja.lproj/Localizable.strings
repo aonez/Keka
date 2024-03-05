@@ -240,6 +240,7 @@
 "Encrypted Apple Archive files are only supported on macOS 12 or newer" = "暗号化されたAppleアーカイブファイルは、macOS 12以降でサポートされています";
 "The password length should be %i or higher" = "パスワードは %i 文字以上必要です";
 " (Entire Device)" = " (デバイス全体)";
+"Recovery Volumes:" = "Recovery Volumes:";
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "環境設定…";
 

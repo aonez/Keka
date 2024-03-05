@@ -74,9 +74,6 @@
 /* Class = "NSTextFieldCell"; title = "Repeat:"; ObjectID = "2426"; */
 "2426.title" = "Wiederholen:";
 
-/* Class = "NSTextFieldCell"; title = "Recovery Volumes:"; ObjectID = "5jA-Rp-SEC"; */
-"5jA-Rp-SEC.title" = "Recovery Volumes:";
-
 /* Class = "NSButtonCell"; title = "Self-extracting archive for Windows"; ObjectID = "Itb-5A-JW7"; */
 "Itb-5A-JW7.title" = "Self-extracting archive for Windows";
 

@@ -240,6 +240,7 @@
 "Encrypted Apple Archive files are only supported on macOS 12 or newer" = "Các tập tin Encrypted Apple Archive chỉ được hỗ trợ trên macOS 12 hoặc mới hơn";
 "The password length should be %i or higher" = "Độ dài mật khẩu nên từ %i ký tự hoặc cao hơn";
 " (Entire Device)" = " (Toàn bộ thiết bị)";
+"Recovery Volumes:" = "Recovery Volumes:";
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "Cài đặt…";
 

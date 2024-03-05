@@ -240,6 +240,7 @@
 "Encrypted Apple Archive files are only supported on macOS 12 or newer" = "Şifrelenmiş Apple Arşiv dosyaları yalnızca macOS 12 veya daha yeni sürümlerde desteklenir";
 "The password length should be %i or higher" = "Şifre uzunluğu %i karakter veya daha yüksek olmalıdır";
 " (Entire Device)" = " (Cihazın tamamı)";
+"Recovery Volumes:" = "Recovery Volumes:";
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "Tercihler…";
 

@@ -240,6 +240,7 @@
 "Encrypted Apple Archive files are only supported on macOS 12 or newer" = "Els fitxers xifrats Apple Archive són compatibles amb macOS 12 o superior";
 "The password length should be %i or higher" = "La contrasenya ha de ser un mínim de %i caràcters";
 " (Entire Device)" = " (Dispositiu sencer)";
+"Recovery Volumes:" = "Vol. de recuperació:";
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "Configuració…";
 

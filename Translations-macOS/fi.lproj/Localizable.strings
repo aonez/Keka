@@ -240,6 +240,7 @@
 "Encrypted Apple Archive files are only supported on macOS 12 or newer" = "Salatut Apple-arkisto tiedostot ovat tuettu vain macOS 12.0 Monterey tai uudemmalla versiolla";
 "The password length should be %i or higher" = "Salasanan pituuden tulisi olla %i tai pidempi";
 " (Entire Device)" = " (Koko laite)";
+"Recovery Volumes:" = "Recovery Volumes:";
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "Asetukset…";
 
