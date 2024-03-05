@@ -1,4 +1,4 @@
-﻿
+
 /* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
 "159.title" = "Format par défaut :";
 
@@ -137,6 +137,9 @@
 /* Class = "NSButtonCell"; title = "Nest actions in a submenu"; ObjectID = "6bh-6N-5PP"; */
 "6bh-6N-5PP.title" = "Imbriquer les actions dans un sous-menu";
 
+/* Class = "NSMenuItem"; title = "Always"; ObjectID = "8AZ-Vv-Lv1"; */
+"8AZ-Vv-Lv1.title" = "Always";
+
 /* Class = "NSTextFieldCell"; title = "You can use these placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n%pb% will be replaced with the clipboard string\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
 "8JN-Ub-qkc.title" = "Vous pouvez utiliser cet espace réservé :\n\n%n sera remplacé par le nom de fichier\n%e sera remplacé par l'extension de fichier\n%p sera remplacé par le dossier parent\n%c sera remplacé par le nombre de fichiers\n%d sera remplacé par la date actuelle\n%t sera remplacé par l'heure actuelle\n%s sera remplacé par le nom partagé\n%i% sera remplacé par le nom du premier élément\n%ia% sera remplacé par le premier nom trié\n%pb% sera remplacé par le contenu du presse-papier\n\nLes remplacements seront vides dans certains cas.";
 
@@ -187,6 +190,9 @@
 
 /* Class = "NSTextFieldCell"; title = "Those are only applied when Keka is not open"; ObjectID = "Hx2-S1-j7m"; */
 "Hx2-S1-j7m.title" = "Ces réglages sont utilisés lorsque Keka n'est pas déjà lancé.";
+
+/* Class = "NSMenuItem"; title = "Never"; ObjectID = "I93-7A-iSn"; */
+"I93-7A-iSn.title" = "Never";
 
 /* Class = "NSButtonCell"; title = "Enable full Mac access (Recommended)"; ObjectID = "IHj-ac-103"; */
 "IHj-ac-103.title" = "Autoriser l'accès à l'ensemble du Mac (Recommandé)";
@@ -245,6 +251,9 @@
 /* Class = "NSTextFieldCell"; title = "Enable full Mac access so Keka can be used on all your Mac."; ObjectID = "ZOx-vr-5o7"; */
 "ZOx-vr-5o7.title" = "Autoriser l'accès à l'ensemble du Mac pour que Keka puisse être utilisé sur tout votre Mac.";
 
+/* Class = "NSButtonCell"; title = "Create self-extracting archives for Windows if possible"; ObjectID = "Zfm-hU-OMZ"; */
+"Zfm-hU-OMZ.title" = "Create self-extracting archives for Windows if possible";
+
 /* Class = "NSMenuItem"; title = "High"; ObjectID = "ZiK-jD-TLq"; */
 "ZiK-jD-TLq.title" = "Haute";
 
@@ -274,6 +283,9 @@
 
 /* Class = "NSTextFieldCell"; title = "Compressing multiple files:"; ObjectID = "dhi-qv-weg"; */
 "dhi-qv-weg.title" = "Compresser plusieurs fichiers :";
+
+/* Class = "NSMenuItem"; title = "Only if configuration windows are open"; ObjectID = "dmz-xh-p9a"; */
+"dmz-xh-p9a.title" = "Only if configuration windows are open";
 
 /* Class = "NSButtonCell"; title = "Set folder's modification date to extraction date"; ObjectID = "eBj-1b-wBg"; */
 "eBj-1b-wBg.title" = "Utiliser la date d'extraction comme date de modification du dossier";
@@ -313,6 +325,9 @@
 
 /* Class = "NSButtonCell"; title = "Show Keka actions in Finder's contextual menu"; ObjectID = "rP2-XR-ZQt"; */
 "rP2-XR-ZQt.title" = "Afficher les actions Keka dans le menu contextuel du Finder";
+
+/* Class = "NSTextFieldCell"; title = "Show an icon in the Dock:"; ObjectID = "rra-p2-67m"; */
+"rra-p2-67m.title" = "Show an icon in the Dock:";
 
 /* Class = "NSButtonCell"; title = "Show icons in actions"; ObjectID = "s9u-2a-b8X"; */
 "s9u-2a-b8X.title" = "Afficher les icônes dans les actions";

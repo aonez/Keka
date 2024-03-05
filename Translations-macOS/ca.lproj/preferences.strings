@@ -1,4 +1,4 @@
-﻿
+
 /* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
 "159.title" = "Format per defecte:";
 
@@ -90,7 +90,7 @@
 "362.title" = "Mou a la paperera l'arxiu comprimit després de l'extracció";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "418"; */
-"418.title" = "None";
+"418.title" = "Cap";
 
 /* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "419"; */
 "419.title" = "So per defecte";
@@ -114,16 +114,16 @@
 "453.title" = "Cap";
 
 /* Class = "NSButtonCell"; title = "Show compress contents of folder items"; ObjectID = "0Am-9a-jtM"; */
-"0Am-9a-jtM.title" = "Mostrar opcions per comprimir el contingut de la carpeta";
+"0Am-9a-jtM.title" = "Mostra opcions per comprimir el contingut de la carpeta";
 
 /* Class = "NSButtonCell"; title = "Rename the recognized extension from the subfolder"; ObjectID = "1TK-Zy-623"; */
-"1TK-Zy-623.title" = "Canviar de nom l'extensió coneguda en la carpeta intermediària";
+"1TK-Zy-623.title" = "Canvia de nom l'extensió coneguda en la carpeta intermediària";
 
 /* Class = "NSButtonCell"; title = "Use custom tasks counter in the Dock"; ObjectID = "3cf-gN-q24"; */
 "3cf-gN-q24.title" = "Utilitza el comptador de tasques personalitzat al Dock";
 
 /* Class = "NSButtonCell"; title = "Show icon in primary item"; ObjectID = "47Y-rt-2fG"; */
-"47Y-rt-2fG.title" = "Mostrar una icona en el primer element";
+"47Y-rt-2fG.title" = "Mostra una icona en el primer element";
 
 /* Class = "NSTextFieldCell"; title = "You can also customize the access below:"; ObjectID = "5B7-Sc-wp0"; */
 "5B7-Sc-wp0.title" = "Pots personalitzar l'accés fent servir la llista següent:";
@@ -135,7 +135,10 @@
 "67Z-kB-INb.title" = "Escriptori";
 
 /* Class = "NSButtonCell"; title = "Nest actions in a submenu"; ObjectID = "6bh-6N-5PP"; */
-"6bh-6N-5PP.title" = "Organitzar les accions en un submenú";
+"6bh-6N-5PP.title" = "Organitza les accions en un submenú";
+
+/* Class = "NSMenuItem"; title = "Always"; ObjectID = "8AZ-Vv-Lv1"; */
+"8AZ-Vv-Lv1.title" = "Sempre";
 
 /* Class = "NSTextFieldCell"; title = "You can use these placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n%pb% will be replaced with the clipboard string\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
 "8JN-Ub-qkc.title" = "Pots fer servir aquestes substitucions:\n\n%n se substituirà amb el nom d'arxiu\n%e se substituirà amb l'extensió de l'arxiu\n%p se substituirà amb el nom de la carpeta principal\n%c se substituirà amb el nombre d'arxius\n%d se substituirà amb la data actual\n%t se substituirà amb l'hora actual\n%s se substituirà amb el nom compartit\n%i% se substituirà amb el nom del primer arxiu\n%ia% se substituirà amb el primer nom per ordre alfabètic\n%pb% se substituirà amb el text del porta-retalls\n\nLes substitucions seran buides en alguns casos.";
@@ -162,10 +165,10 @@
 "DAr-Td-s5W.title" = "Les extraccions utilitzen menys potència així que es poden fer dues o tres a la vegada sense problema. El disc de destí pot sofrir.";
 
 /* Class = "NSButtonCell"; title = "Ask before quitting with operations"; ObjectID = "DJT-wB-bCM"; */
-"DJT-wB-bCM.title" = "Preguntar abans de sortir amb operacions en marxa";
+"DJT-wB-bCM.title" = "Pregunta abans de sortir amb operacions en marxa";
 
 /* Class = "NSButtonCell"; title = "Enable home folder access"; ObjectID = "DL5-wY-cqc"; */
-"DL5-wY-cqc.title" = "Habilitar l'accés a la carpeta personal";
+"DL5-wY-cqc.title" = "Habilita l'accés a la carpeta personal";
 
 /* Class = "NSTextFieldCell"; title = "Default action:"; ObjectID = "EJQ-OL-pMF"; */
 "EJQ-OL-pMF.title" = "Acció per defecte:";
@@ -188,8 +191,11 @@
 /* Class = "NSTextFieldCell"; title = "Those are only applied when Keka is not open"; ObjectID = "Hx2-S1-j7m"; */
 "Hx2-S1-j7m.title" = "Això només s'aplica quan el Keka no està obert.";
 
+/* Class = "NSMenuItem"; title = "Never"; ObjectID = "I93-7A-iSn"; */
+"I93-7A-iSn.title" = "Mai";
+
 /* Class = "NSButtonCell"; title = "Enable full Mac access (Recommended)"; ObjectID = "IHj-ac-103"; */
-"IHj-ac-103.title" = "Habilitar l'accés complet (Recomanat)";
+"IHj-ac-103.title" = "Habilita l'accés complet (Recomanat)";
 
 /* Class = "NSButtonCell"; title = "Verify compression integrity"; ObjectID = "IL6-a6-uik"; */
 "IL6-a6-uik.title" = "Verifica la integritat de la compressió";
@@ -204,10 +210,10 @@
 "K5h-j5-bss.title" = "Cua de compressió:";
 
 /* Class = "NSButtonCell"; title = "Inherit quarantine from downloaded files"; ObjectID = "KDR-ag-bll"; */
-"KDR-ag-bll.title" = "Conservar la quarantena dels arxius descarregats";
+"KDR-ag-bll.title" = "Conserva la quarantena dels arxius descarregats";
 
 /* Class = "NSButtonCell"; title = "Show in external volumes"; ObjectID = "KOF-7X-bQo"; */
-"KOF-7X-bQo.title" = "Mostrar en volums externs";
+"KOF-7X-bQo.title" = "Mostra en volums externs";
 
 /* Class = "NSTextFieldCell"; title = "Limit the number of threads per operation:"; ObjectID = "ND5-DN-C1H"; */
 "ND5-DN-C1H.title" = "Limita el nombre de fils per operació:";
@@ -234,7 +240,7 @@
 "WCN-jH-W9J.placeholderString" = "Nom personalitzat";
 
 /* Class = "NSButtonCell"; title = "Remove bad password header structure extractions"; ObjectID = "Wd0-yz-M1h"; */
-"Wd0-yz-M1h.title" = "Eliminar el contingut de les extraccións amb contrasenya incorrecta";
+"Wd0-yz-M1h.title" = "Elimina el contingut de les extraccións amb contrasenya incorrecta";
 
 /* Class = "NSMenuItem"; title = "Automatic"; ObjectID = "XOB-JO-UQT"; */
 "XOB-JO-UQT.title" = "Automàticament";
@@ -244,6 +250,9 @@
 
 /* Class = "NSTextFieldCell"; title = "Enable full Mac access so Keka can be used on all your Mac."; ObjectID = "ZOx-vr-5o7"; */
 "ZOx-vr-5o7.title" = "Habilita l'accés complet per tal que el Keka funcioni amb tots els fitxers del Mac.";
+
+/* Class = "NSButtonCell"; title = "Create self-extracting archives for Windows if possible"; ObjectID = "Zfm-hU-OMZ"; */
+"Zfm-hU-OMZ.title" = "Crea arxius autoextraïbles per a Windows si és possible";
 
 /* Class = "NSMenuItem"; title = "High"; ObjectID = "ZiK-jD-TLq"; */
 "ZiK-jD-TLq.title" = "Alta";
@@ -264,7 +273,7 @@
 "cb7-h4-ScP.title" = "Número màxim de fils per opreació:";
 
 /* Class = "NSButtonCell"; title = "Use short tarball extensions (eg: .tgz instead of .tar.gz)"; ObjectID = "cfd-8g-kiU"; */
-"cfd-8g-kiU.title" = "Utilitzar extensions curtes en crear un tarball (p. ex: .tgz en comptes de .tar.gz)";
+"cfd-8g-kiU.title" = "Utilitza extensions curtes en crear un tarball (p. ex: .tgz en comptes de .tar.gz)";
 
 /* Class = "NSButtonCell"; title = "Checking the extension status"; ObjectID = "chn-AV-kXZ"; */
 "chn-AV-kXZ.title" = "Comprovant l'estat de l'extensió";
@@ -274,6 +283,9 @@
 
 /* Class = "NSTextFieldCell"; title = "Compressing multiple files:"; ObjectID = "dhi-qv-weg"; */
 "dhi-qv-weg.title" = "Compressió de diversos fitxers:";
+
+/* Class = "NSMenuItem"; title = "Only if configuration windows are open"; ObjectID = "dmz-xh-p9a"; */
+"dmz-xh-p9a.title" = "Només si hi ha finestres de configuració obertes";
 
 /* Class = "NSButtonCell"; title = "Set folder's modification date to extraction date"; ObjectID = "eBj-1b-wBg"; */
 "eBj-1b-wBg.title" = "Utilitza la data d'extracció com a data de modificació de la carpeta";
@@ -303,28 +315,31 @@
 "otI-Pt-BTh.title" = "Cua d'operacions:";
 
 /* Class = "NSTextFieldCell"; title = "Keep source extension:"; ObjectID = "p5F-63-ubE"; */
-"p5F-63-ubE.title" = "Respectar l'extensió original:";
+"p5F-63-ubE.title" = "Respecta l'extensió original:";
 
 /* Class = "NSButtonCell"; title = "Always extract in a subfolder"; ObjectID = "pXT-7y-9af"; */
-"pXT-7y-9af.title" = "Extreure sempre en una carpeta intermediària";
+"pXT-7y-9af.title" = "Extreu sempre en una carpeta intermediària";
 
 /* Class = "NSButtonCell"; title = "Differentiate between active and total tasks in the Dock"; ObjectID = "qrX-WU-mLd"; */
-"qrX-WU-mLd.title" = "Diferenciar entre tasques actives i inactives al Dock";
+"qrX-WU-mLd.title" = "Diferència entre tasques actives i inactives al Dock";
 
 /* Class = "NSButtonCell"; title = "Show Keka actions in Finder's contextual menu"; ObjectID = "rP2-XR-ZQt"; */
-"rP2-XR-ZQt.title" = "Mostrar accions del Keka en el menú contextual del Finder";
+"rP2-XR-ZQt.title" = "Mostra accions del Keka en el menú contextual del Finder";
+
+/* Class = "NSTextFieldCell"; title = "Show an icon in the Dock:"; ObjectID = "rra-p2-67m"; */
+"rra-p2-67m.title" = "Mostra una icona al Dock:";
 
 /* Class = "NSButtonCell"; title = "Show icons in actions"; ObjectID = "s9u-2a-b8X"; */
 "s9u-2a-b8X.title" = "Mostrar icones en les accions";
 
 /* Class = "NSButtonCell"; title = "Enable external volumes access"; ObjectID = "sgV-AD-k4Q"; */
-"sgV-AD-k4Q.title" = "Habilitar l'accés als volums externs";
+"sgV-AD-k4Q.title" = "Habilita l'accés als volums externs";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous compressions:"; ObjectID = "sjA-7B-5U6"; */
 "sjA-7B-5U6.title" = "Quantitat màxima de compressions simultànies:";
 
 /* Class = "NSMenuItem"; title = "Never, when possible"; ObjectID = "tEH-O0-NxO"; */
-"tEH-O0-NxO.title" = "Mai, quan sigui possible";
+"tEH-O0-NxO.title" = "Mai, si és possible";
 
 /* Class = "NSButtonCell"; title = "Use the default password on new compressions"; ObjectID = "u2R-2w-aOA"; */
 "u2R-2w-aOA.title" = "Utilitza la contrasenya per defecte en les compressions";
@@ -342,7 +357,7 @@
 "yGo-Gm-0zq.title" = "Quantitat màxima d'extraccions simultànies:";
 
 /* Class = "NSTextFieldCell"; title = "Queuing usually results in faster operations and a more responsive behaviour."; ObjectID = "zPq-ei-qUb"; */
-"zPq-ei-qUb.title" = "Fer servir una cua normalment resulta en operacions més ràpides i un millor rendiment.";
+"zPq-ei-qUb.title" = "Fes servir una cua normalment resulta en operacions més ràpides i un millor rendiment.";
 
 /* Class = "NSButtonCell"; title = "Try the default password when extracting any file"; ObjectID = "zRi-PC-AW9"; */
 "zRi-PC-AW9.title" = "Prova la contrasenya per defecte a l'extreure un arxiu";

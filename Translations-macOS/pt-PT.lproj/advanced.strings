@@ -1,4 +1,4 @@
-﻿
+
 /* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "2221"; */
 "2221.title" = "Comprimir itens separadamente";
 
@@ -73,6 +73,12 @@
 
 /* Class = "NSTextFieldCell"; title = "Repeat:"; ObjectID = "2426"; */
 "2426.title" = "Repetir:";
+
+/* Class = "NSTextFieldCell"; title = "Recovery Volumes:"; ObjectID = "5jA-Rp-SEC"; */
+"5jA-Rp-SEC.title" = "Recovery Volumes:";
+
+/* Class = "NSButtonCell"; title = "Self-extracting archive for Windows"; ObjectID = "Itb-5A-JW7"; */
+"Itb-5A-JW7.title" = "Self-extracting archive for Windows";
 
 /* Class = "NSButtonCell"; title = "Encrypt filenames"; ObjectID = "L2I-Q8-zqc"; */
 "L2I-Q8-zqc.title" = "Encriptar nomes dos ficheiros";
