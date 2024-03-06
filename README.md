@@ -1,7 +1,10 @@
+<h1 align="center">Keka</h1>
+
 <a href="#"><img width="256" height="256" src="https://www.keka.io/img/Keka-Square-512x512.png" align="left" /></a>
 
-### Keka
-The macOS file archiver.
+<br />
+
+### The macOS file archiver.
 
 With Keka you can compress as many files as you want in a bunch of formats. You can also encrypt them to store and share securely and with privacy.
 
@@ -13,7 +16,7 @@ With Keka you can compress as many files as you want in a bunch of formats. You 
   <a href="https://techhub.social/@keka"><img src="https://img.shields.io/mastodon/follow/109670517459928421?domain=https%3A%2F%2Ftechhub.social&style=social" /></a>
 </div>
 
-<br />
+<br /><br /><br />
 
 ## Downloads
 
