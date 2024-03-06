@@ -9,11 +9,11 @@
 With Keka you can compress as many files as you want in a bunch of formats. You can also encrypt them to store and share securely and with privacy.
 
 <div>
-  <a href="https://github.com/aonez/Keka/releases"><img src="https://img.shields.io/github/downloads/aonez/keka/total?color=%2300834a" /></a>
-  <a href="https://github.com/aonez/Keka/releases/latest"><img src="https://img.shields.io/github/downloads/aonez/keka/latest/total?color=%2300834a&label=latest" /></a>
-  <a href="https://github.com/aonez/Keka/releases/latest"><img src="https://img.shields.io/github/v/release/aonez/keka?color=%2300834a" /></a>
-  <a href="https://twitter.com/kekaosx"><img src="https://img.shields.io/twitter/follow/kekaosx?style=social" /></a>
-  <a href="https://techhub.social/@keka"><img src="https://img.shields.io/mastodon/follow/109670517459928421?domain=https%3A%2F%2Ftechhub.social&style=social" /></a>
+    <a href="https://github.com/aonez/Keka/releases/latest"><img src="https://img.shields.io/github/v/release/aonez/keka?color=%2300834a" /></a>
+    <a href="https://github.com/aonez/Keka/releases/latest"><img src="https://img.shields.io/github/downloads/aonez/keka/latest/total?color=%2300834a&label=latest" /></a>
+    <a href="https://github.com/aonez/Keka/releases"><img src="https://img.shields.io/github/downloads/aonez/keka/total?color=%2300834a" /></a>
+    <a href="https://twitter.com/kekaosx"><img src="https://img.shields.io/twitter/follow/kekaosx?style=social" /></a>
+    <a href="https://techhub.social/@keka"><img src="https://img.shields.io/mastodon/follow/109670517459928421?domain=https%3A%2F%2Ftechhub.social&style=social" /></a>
 </div>
 
 <br /><br /><br />
