@@ -5,17 +5,17 @@
 // Language: Vietnamese
 $content_language_locale = "vn";
 // Translated by 1234hdpa (1234hdpa@gmail.com)
-//
+// Translated by binhotvn (work@binhot.vn)
 //
 // Set $show_content_bottom_translator as true if you want to appear in the bottom of the page
 $show_content_bottom_translator = true;
-$content_bottom_translator = 'Được dịch bởi <a href="https://github.com/mwolfinspace">mwolfinspace</a>.';
+$content_bottom_translator = 'Được dịch bởi <a href="https://github.com/binhotvn">binhotvn</a>.';
 //
 //
 
 // iOS
-$ios_title = "$keka for iOS";
-$ios_content_title = "the iOS file archiver";
+$ios_title = "$keka cho iOS";
+$ios_content_title = "trình giải nén cho iOS";
 
 // General
 $content_download = "Tải về";
@@ -102,7 +102,7 @@ $content_changelog_firstpublic = "Lần đầu tiên phát hành chính thức:"
 
 // 404
 $content_404 = "Không thể tìm thấy trang này";
-$content_404_start = "Bạn có thể truy cập vào <a href=\"https://www.keka.io\">trang bắt đầu</a>";
+$content_404_start = "Bạn có thể truy cập vào <a href=\"https://www.keka.io\">trang chủ</a>";
 $content_404_more = "hay bạn muốn nhìn 404 hoài nhỉ?";
 
 // Maintenance
