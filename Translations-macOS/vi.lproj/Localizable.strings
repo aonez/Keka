@@ -5,7 +5,7 @@
 /* Use the _PREFERENCES_EXTRA_WIDTH_ (if needed) to fit the action to perform description properly */
 "_PREFERENCES_EXTRA_WIDTH_" = "0.0";
 "General" = "Chung";
-"Appearance" = "Bề ngoài";
+"Appearance" = "Giao diện";
 "File Access" = "Quyền truy cập tập tin";
 "Performance" = "Hiệu suất";
 "Finder Extension" = "Phần mở rộng Finder";
@@ -34,7 +34,7 @@
 "File \"%@\" created" = "Tập tin \"%@\" đã được tạo";
 "Compression fail" = "Nén thất bại";
 "File \"%@\" cannot be created" = "Tập tin \"%@\" không thể tạo được";
-"Set as fallback folder" = "Set as fallback folder";
+"Set as fallback folder" = "Chọn làm thư mục dự phòng";
 "\n(using fallback folder)" = "\n(sử dụng thư mục dự phòng)";
 "Operation not implemented" = "Thao tác chưa được thực hiện";
 "Performing operation..." = "Đang thực hiện thao tác...";
@@ -74,7 +74,7 @@
 "Keka can't create this %@ image" = "Keka không thể tạo ra %@ ảnh đĩa";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "Bạn chỉ có thể tạo %@ ảnh đĩa với một thư mục đơn lẻ. Hãy thử đưa tất cả tập tin vào một thư mục rồi kéo thả vào Keka để tạo ra %@ ảnh đĩa.";
 "Keka can't create this @% tarball" = "Keka không thể tạo ra @% tarball";
-"Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it." = "Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it.";
+"Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it." = "Keka chỉ có thể tạo các lưu trữ LRZIP được mã hóa với từng tập tin. Vui lòng tạo một lưu trữ TAR với các tập tin của bạn trước và sau đó mã hóa tệp TAR đó";
 "This operation is not supported on %@." = "Thao tác này không hỗ trợ trên %@.";
 "Compress \"%@\" in %@ to..." = "Nén \"%@\" trong %@ đến...";
 "Compress in %@ to..." = "Nén trong %@ đến...";
@@ -227,7 +227,7 @@
 "Waiting for password" = "Đang chờ mật khẩu";
 "On queue" = "Đang xếp hàng";
 "Applying quarantine..." = "Áp dụng cách ly...";
-"%@.\n\nPlease get in contact with the developers." = "%@.\n\nVui lòng liên hệ với bộ phận lập trình viên của Keka.";
+"%@.\n\nPlease get in contact with the developers." = "%@.\n\nVui lòng liên hệ với lập trình viên của Keka.";
 "Report" = "Gửi báo cáo";
 "Report via mail" = "Gửi báo cáo qua email";
 "Review Keka ★★★★★" = "Đánh giá Keka ★★★★★";
