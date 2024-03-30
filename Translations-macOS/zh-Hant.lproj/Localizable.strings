@@ -4,7 +4,7 @@
 "_ADVANCED_EXTRA_WIDTH_" = "0.0";
 /* Use the _PREFERENCES_EXTRA_WIDTH_ (if needed) to fit the action to perform description properly */
 "_PREFERENCES_EXTRA_WIDTH_" = "0.0";
-"General" = "通用";
+"General" = "一般";
 "Appearance" = "外觀";
 "File Access" = "檔案取用";
 "Performance" = "效能";
@@ -234,15 +234,15 @@
 "Update the default password" = "更新預設密碼";
 "Set a default password" = "設定預設密碼";
 "To enable external volumes access go to your main disk and select the \"Volumes\" folder." = "若要啟用外部卷宗存取權限，請前往主磁碟，然後選取「Volumes」檔案夾。";
-"Verifying..." = "正在驗證……";
+"Verifying..." = "正在驗證⋯⋯";
 "Verification of \"%@\" failed" = "驗證「%@」失敗";
 "The compressed data seems to be invalid" = "壓縮的資料似乎無效";
 "Encrypted Apple Archive files are only supported on macOS 12 or newer" = "「加密的 Apple 封存」檔案只支援 macOS 12 或更新版本";
 "The password length should be %i or higher" = "密碼應至少有 %i 個字元長";
 " (Entire Device)" = "（整個裝置）";
-"Recovery Volumes:" = "Recovery Volumes:";
+"Recovery Volumes:" = "復原卷宗：";
 /* Keka preferences for macOS 12.0 and earlier */
-"Preferences…" = "偏好設定…";
+"Preferences…" = "偏好設定⋯";
 
 /*
 // MAS tips

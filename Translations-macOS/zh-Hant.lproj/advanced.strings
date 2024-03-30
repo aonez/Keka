@@ -75,7 +75,7 @@
 "2426.title" = "確認密碼：";
 
 /* Class = "NSButtonCell"; title = "Self-extracting archive for Windows"; ObjectID = "Itb-5A-JW7"; */
-"Itb-5A-JW7.title" = "Self-extracting archive for Windows";
+"Itb-5A-JW7.title" = "適用於 Windows 的自解封存檔";
 
 /* Class = "NSButtonCell"; title = "Encrypt filenames"; ObjectID = "L2I-Q8-zqc"; */
 "L2I-Q8-zqc.title" = "加密檔案名稱";

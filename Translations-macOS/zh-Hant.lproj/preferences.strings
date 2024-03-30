@@ -138,7 +138,7 @@
 "6bh-6N-5PP.title" = "在子選單中包含另一層動作";
 
 /* Class = "NSMenuItem"; title = "Always"; ObjectID = "8AZ-Vv-Lv1"; */
-"8AZ-Vv-Lv1.title" = "Always";
+"8AZ-Vv-Lv1.title" = "總是";
 
 /* Class = "NSTextFieldCell"; title = "You can use these placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n%pb% will be replaced with the clipboard string\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
 "8JN-Ub-qkc.title" = "您可以使用這些佔位符號：\n\n%n 會取代成檔案名稱\n%e 會取代成檔案副檔名\n%p 會取代成上層檔案夾\n%c 會取代成檔案數\n%d 會取代成目前日期\n%t 會取代成目前時間\n%s 會取代成共享的名稱\n%i% 會取代成第一個項目的名稱\n%ia% 會取代成排序後第一個項目的名稱\n%pb% 會取代成剪貼板的字串內容\n\n某些情況下，取代後的佔位符號會是空白的。";
@@ -192,7 +192,7 @@
 "Hx2-S1-j7m.title" = "這些設定須待 Keka 關閉後才能套用。";
 
 /* Class = "NSMenuItem"; title = "Never"; ObjectID = "I93-7A-iSn"; */
-"I93-7A-iSn.title" = "Never";
+"I93-7A-iSn.title" = "永不";
 
 /* Class = "NSButtonCell"; title = "Enable full Mac access (Recommended)"; ObjectID = "IHj-ac-103"; */
 "IHj-ac-103.title" = "啟用完整 Mac 取用權限（建議）";
@@ -252,7 +252,7 @@
 "ZOx-vr-5o7.title" = "啟用完整 Mac 取用權限，這樣 Keka 才能在您整個 Mac 使用";
 
 /* Class = "NSButtonCell"; title = "Create self-extracting archives for Windows if possible"; ObjectID = "Zfm-hU-OMZ"; */
-"Zfm-hU-OMZ.title" = "Create self-extracting archives for Windows if possible";
+"Zfm-hU-OMZ.title" = "如果可以，建立適用於 Windows 的自解封存檔";
 
 /* Class = "NSMenuItem"; title = "High"; ObjectID = "ZiK-jD-TLq"; */
 "ZiK-jD-TLq.title" = "偏高";
@@ -285,7 +285,7 @@
 "dhi-qv-weg.title" = "壓縮多個檔案：";
 
 /* Class = "NSMenuItem"; title = "Only if configuration windows are open"; ObjectID = "dmz-xh-p9a"; */
-"dmz-xh-p9a.title" = "Only if configuration windows are open";
+"dmz-xh-p9a.title" = "只當設定視窗打開時";
 
 /* Class = "NSButtonCell"; title = "Set folder's modification date to extraction date"; ObjectID = "eBj-1b-wBg"; */
 "eBj-1b-wBg.title" = "將檔案夾的修改日期設為解壓縮時的日期";
@@ -327,7 +327,7 @@
 "rP2-XR-ZQt.title" = "在 Finder 的特色選單顯示 Keka 動作";
 
 /* Class = "NSTextFieldCell"; title = "Show an icon in the Dock:"; ObjectID = "rra-p2-67m"; */
-"rra-p2-67m.title" = "Show an icon in the Dock:";
+"rra-p2-67m.title" = "在 Dock 上顯示圖示：";
 
 /* Class = "NSButtonCell"; title = "Show icons in actions"; ObjectID = "s9u-2a-b8X"; */
 "s9u-2a-b8X.title" = "在動作中顯示圖示";
