@@ -1,6 +1,6 @@
 
 /* Usually leave this one in English */
-"NSHumanReadableCopyright" = "Copyright © 2009-2023 aONe";
+"NSHumanReadableCopyright" = "Copyright © 2009-2024 aONe";
 
 /* Access request descriptions */
 "NSDesktopFolderUsageDescription" = "Keka는 파일 작업을 위해 데스크탑 폴더 접근이 필요합니다.";
