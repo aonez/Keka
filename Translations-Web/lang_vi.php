@@ -9,7 +9,7 @@ $content_language_locale = "vn";
 //
 // Set $show_content_bottom_translator as true if you want to appear in the bottom of the page
 $show_content_bottom_translator = true;
-$content_bottom_translator = 'Được dịch bởi <a href="https://github.com/binhotvn">binhotvn</a>.';
+$content_bottom_translator = 'Được dịch bởi <a href="https://github.com/mwolfinspace">mwolfinspace</a> và <a href="https://github.com/binhotvn">binhotvn</a>.';
 //
 //
 
