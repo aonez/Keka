@@ -31,17 +31,17 @@ $content_download_text = "Arkiver mer, del trygt";
 $content_download_love = "Liker du det?";
 $content_download_legacy = "Foreldet";
 $content_download_helper = "Hjelper";
-$content_downloading = "Downloading ";
-$content_get_platform = "Get it for ";
-$content_testflight = "TestFlight needed to install this build";
-$content_downloading_if_fails = "If the download does not start automatically ";
-$content_downloading_if_fails_click_here = "click here";
+$content_downloading = "Laster ned ";
+$content_get_platform = "Få Keka for ";
+$content_testflight = "TestFlight måtte installere denne versjonen";
+$content_downloading_if_fails = "Hvis nedlastingen ikke starter automatisk ";
+$content_downloading_if_fails_click_here = "klikk her";
 
 // Like
 $content_donation_button = "Doner";
 $content_donation_title = 'Liker du Keka? Gi det litt <i class="fa fa-heart" aria-hidden="true"></i>.<br />Skaff programmet fra App Store eller send driks med PayPal!';
 $content_donation_mas = "Hvis du kjøper Keka på App Store, støtter du videre utvikling.<br />Appen er den samme som versjonen du får via denne nettsiden, bare oppdatert gjennom App Store.";
-$content_donation_paypal = "Hvis du ikke liker MAS eller bare vile prøve ut Keka,<br />men likevel ønsker å støtte prosjektet, kan du sende driks via PayPal.";
+$content_donation_paypal = "Hvis du ikke liker MAS eller bare vil prøve ut Keka,<br />men likevel ønsker å støtte prosjektet, kan du sende driks via PayPal.";
 
 // Beta
 $content_platform_beta = "Beta";
@@ -53,33 +53,33 @@ $content_beta_up = "Skaff nyeste versjon";
 // Legacy
 $content_platform_legacy =  "For $version_replace";
 $content_legacy_title = "Foreldete versjoner av Keka";
-$content_legacy_text = 'Med tiden vil din Mac bli eldre, og vil ikke støtte versjonen av Keka,<br /> men slapp av <i class="fa fa-coffee" aria-hidden="true"></i>, eldre versjoner tilgjengelige her.';
+$content_legacy_text = 'Med tiden vil din Mac bli eldre, og vil ikke støtte siste versjon av Keka,<br /> men slapp av <i class="fa fa-coffee" aria-hidden="true"></i>, eldre versjoner er tilgjengelige her.';
 
 // Info
 $content_info_title1 = "Så enkelt, så kraftig";
 $content_info_title2 = "Personvern er veldig viktig";
 $content_info_title3 = "Fortsatt for stor...";
-$content_info_text1 = "Du trenger ikke engang  å åpne Keka for å komprimere en fil, behold Keka i dokken og bruk det derfra.<br />Bare dra og slipp filene og mappene dine på Dock-ikonet eller et Keka-vindu for å opprette en komprimert versjon av dem.";
+$content_info_text1 = "Du trenger ikke engang å åpne Keka for å komprimere en fil, behold Keka i dokken og bruk det derfra.<br />Bare dra og slipp filene og mappene dine på Dock-ikonet eller et Keka-vindu for å opprette en komprimert versjon av dem.";
 $content_info_text2 = "Del trygt kun ved å sette et passord og opprette sterkt komprimerte filer.<br />Keka bruker AES-256-kryptering for 7z-filene dine<br />og Zip 2.0 legacy-kryptering for Zip-filene.";
 $content_info_text3 = "Hvis filene er veldig store, og ikke får plass i en epost eller på serveren, bare splitt dem i flere biter.<br />Ikke noen grunn til bekymring, de vil fortsatt pakkes ut til originalfilen :)";
 $content_info_compression = "Keka kan opprette filer i disse formatene:";
 $content_info_extraction = "Og pakke ut alle disse formatene:";
 
 // Info v2 (iOS and future macOS)
-$content_info_v2_title1 = "Store more";
-$content_info_v2_title2 = "Share with privacy";
-$content_info_v2_title3 = "A perfect Browsing experience";
-$content_info_v2_title4 = "Multitasking at its finest";
-$content_info_v2_title5 = "Always at hand";
-$content_info_v2_text1 = "With multiple Compression Formats<br />to choose the Perfect One";
-$content_info_v2_text2 = "Protect your shared files with a Password<br />and Encrypt them with AES-256";
-$content_info_v2_text3 = "Preview, Extract and Share<br />only what You Need";
-$content_info_v2_text4 = "Extract, Compress and Browse<br />without limits";
-$content_info_v2_text5 = "Extract, Compress and Browse<br />from anywhere using the Share Actions";
+$content_info_v2_title1 = "Lagre mer";
+$content_info_v2_title2 = "Del privat";
+$content_info_v2_title3 = "En perfekt nettleseropplevelse";
+$content_info_v2_title4 = "Multitasking på sitt beste";
+$content_info_v2_title5 = "Alltid klar til bruk";
+$content_info_v2_text1 = "Med flere komprimeringsformater<br />for å velge det som passer best";
+$content_info_v2_text2 = "Beskytt dine delte filer med et passord og krypter dem med AES-256";
+$content_info_v2_text3 = "Forhåndsvis, pakk ut og del<br />bare det du trenger";
+$content_info_v2_text4 = "Pakk ut, komprimer og se gjennom<br />uten grenser";
+$content_info_v2_text5 = "Pakk ut, komprimer og se gjennom<br />fra hvor som helst med Delingshandlinger";
 
 // Default app
 $content_defaultapp_title = "Sett Keka som standardapp for utpakking";
-$content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">trenger et hjelpeprogram<i class="far fa-question-circle"></i></a> for å sette seg selv som standardapp.<br />Du trenger bare laste det ned og pakke det ut, flytte det til skriveborder og åpne det.';
+$content_defaultapp_text = 'Keka <a href="https://github.com/aonez/Keka/wiki/Default-application">trenger et hjelpeprogram<i class="far fa-question-circle"></i></a> for å sette seg selv som standardapp.<br />Du trenger bare laste det ned og pakke det ut, flytte det til skrivebordet og åpne det.';
 
 // Privacy Policy
 $content_privacypolicy_title = 'Personvernretningslinjer';
@@ -101,7 +101,7 @@ $content_404_start = "Du kan gå til <a href=\"https://www.keka.io\">forsiden</a
 $content_404_more = "eller kanskje det er dette du vil?";
 
 // Maintenance
-$content_maintenance = "Will be back soon";
+$content_maintenance = "Tilbake snart";
 
 // Bottom info
 $content_bottom_copying = 'Alle rettigheter forbeholdt.';
