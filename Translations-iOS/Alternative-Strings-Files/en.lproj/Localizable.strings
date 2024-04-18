@@ -4,11 +4,26 @@
 /* No comment provided by engineer. */
 "%@ items" = "%@ items";
 
+/* _OPERATION_ of "_FILENAME_" failed */
+"%@ of \"%@\" failed" = "%@ of \"%@\" failed";
+
 /* No comment provided by engineer. */
 "%@ of %@ item" = "%@ of %@ item";
 
 /* No comment provided by engineer. */
 "%@ of %@ items" = "%@ of %@ items";
+
+/* No comment provided by engineer. */
+"7Z" = "7Z";
+
+/* No comment provided by engineer. */
+"7z" = "7z";
+
+/* No comment provided by engineer. */
+"AAR" = "AAR";
+
+/* No comment provided by engineer. */
+"aar" = "aar";
 
 /* No comment provided by engineer. */
 "About" = "About";
@@ -47,6 +62,9 @@
 "Allocated size" = "Allocated size";
 
 /* No comment provided by engineer. */
+"archive" = "archive";
+
+/* No comment provided by engineer. */
 "Archive items separately" = "Archive items separately";
 
 /* Default compression file name. */
@@ -71,10 +89,22 @@
 "by %@" = "by %@";
 
 /* No comment provided by engineer. */
+"Bytes" = "Bytes";
+
+/* No comment provided by engineer. */
+"bz" = "bz";
+
+/* No comment provided by engineer. */
+"BZIP2" = "BZIP2";
+
+/* No comment provided by engineer. */
 "Calculate" = "Calculate";
 
 /* No comment provided by engineer. */
 "Cancel" = "Cancel";
+
+/* No comment provided by engineer. */
+"Cancelled" = "Cancelled";
 
 /* No comment provided by engineer. */
 "Choose" = "Choose";
@@ -95,7 +125,16 @@
 "Compress" = "Compress";
 
 /* No comment provided by engineer. */
+"compress" = "compress";
+
+/* No comment provided by engineer. */
 "Compress all the items in the compression list" = "Compress all the items in the compression list";
+
+/* No comment provided by engineer. */
+"Compress Files with Keka" = "Compress Files with Keka";
+
+/* No comment provided by engineer. */
+"Compress some files with Keka." = "Compress some files with Keka.";
 
 /* No comment provided by engineer. */
 "compressed" = "compressed";
@@ -105,6 +144,9 @@
 
 /* Compression settings title. */
 "Compression" = "Compression";
+
+/* No comment provided by engineer. */
+"compression" = "compression";
 
 /* No comment provided by engineer. */
 "compression failed" = "compression failed";
@@ -173,6 +215,9 @@
 "Document" = "Document";
 
 /* No comment provided by engineer. */
+"Documents" = "Documents";
+
+/* No comment provided by engineer. */
 "Done" = "Done";
 
 /* No comment provided by engineer. */
@@ -200,6 +245,15 @@
 "Extract" = "Extract";
 
 /* No comment provided by engineer. */
+"extract" = "extract";
+
+/* No comment provided by engineer. */
+"Extract Files with Keka" = "Extract Files with Keka";
+
+/* No comment provided by engineer. */
+"Extract some files with Keka." = "Extract some files with Keka.";
+
+/* No comment provided by engineer. */
 "Extract the file" = "Extract the file";
 
 /* No comment provided by engineer. */
@@ -207,6 +261,9 @@
 
 /* Extraction settings title. */
 "Extraction" = "Extraction";
+
+/* No comment provided by engineer. */
+"extraction" = "extraction";
 
 /* No comment provided by engineer. */
 "extraction failed" = "extraction failed";
@@ -233,7 +290,19 @@
 "Feedback" = "Feedback";
 
 /* No comment provided by engineer. */
+"file" = "file";
+
+/* No comment provided by engineer. */
+"File for Keka" = "File for Keka";
+
+/* No comment provided by engineer. */
 "File not informed properly, try again." = "File not informed properly, try again.";
+
+/* No comment provided by engineer. */
+"Files" = "Files";
+
+/* No comment provided by engineer. */
+"Files and Folders" = "Files and Folders";
 
 /* No comment provided by engineer. */
 "Folder drop is only supported on iOS 16 or newer" = "Folder drop is only supported on iOS 16 or newer";
@@ -248,7 +317,16 @@
 "Get Info" = "Get Info";
 
 /* No comment provided by engineer. */
+"Gigabyte" = "Gigabyte";
+
+/* No comment provided by engineer. */
 "Give Access" = "Give Access";
+
+/* No comment provided by engineer. */
+"gz" = "gz";
+
+/* No comment provided by engineer. */
+"GZIP" = "GZIP";
 
 /* No comment provided by engineer. */
 "Hide Password by Default" = "Hide Password by Default";
@@ -260,10 +338,16 @@
 "Information" = "Information";
 
 /* No comment provided by engineer. */
+"keka" = "keka";
+
+/* No comment provided by engineer. */
 "Keka's Folder" = "Keka's Folder";
 
 /* No comment provided by engineer. */
 "Keka's icon" = "Keka's icon";
+
+/* No comment provided by engineer. */
+"Kilobytes" = "Kilobytes";
 
 /* No comment provided by engineer. */
 "Kind" = "Kind";
@@ -272,10 +356,16 @@
 "Last opened" = "Last opened";
 
 /* No comment provided by engineer. */
+"Level" = "Level";
+
+/* No comment provided by engineer. */
 "Loading" = "Loading";
 
 /* "Made with" part from "Made with love by aone". */
 "Made with" = "Made with";
+
+/* No comment provided by engineer. */
+"Megabytes" = "Megabytes";
 
 /* No comment provided by engineer. */
 "Modified" = "Modified";
@@ -285,6 +375,9 @@
 
 /* No comment provided by engineer. */
 "New Compression" = "New Compression";
+
+/* No comment provided by engineer. */
+"No archive selected" = "No archive selected";
 
 /* No comment provided by engineer. */
 "No contents" = "No contents";
@@ -311,6 +404,9 @@
 "Open" = "Open";
 
 /* No comment provided by engineer. */
+"Open Keka" = "Open Keka";
+
+/* No comment provided by engineer. */
 "Open..." = "Open...";
 
 /* No comment provided by engineer. */
@@ -320,6 +416,9 @@
 "Password" = "Password";
 
 /* No comment provided by engineer. */
+"Password for \"%@\"" = "Password for \"%@\"";
+
+/* No comment provided by engineer. */
 "Password needed" = "Password needed";
 
 /* No comment provided by engineer. */
@@ -327,6 +426,9 @@
 
 /* No comment provided by engineer. */
 "Pause" = "Pause";
+
+/* No comment provided by engineer. */
+"Petabytes" = "Petabytes";
 
 /* No comment provided by engineer. */
 "Please enter the password for:" = "Please enter the password for:";
@@ -339,6 +441,9 @@
 
 /* No comment provided by engineer. */
 "Quick Look" = "Quick Look";
+
+/* No comment provided by engineer. */
+"rar" = "rar";
 
 /* No comment provided by engineer. */
 "Remember Last Used Options" = "Remember Last Used Options";
@@ -368,7 +473,13 @@
 "Review" = "Review";
 
 /* No comment provided by engineer. */
+"Run asynchronously" = "Run asynchronously";
+
+/* No comment provided by engineer. */
 "Save" = "Save";
+
+/* No comment provided by engineer. */
+"Select some files and folders for Keka." = "Select some files and folders for Keka.";
 
 /* No comment provided by engineer. */
 "Settings" = "Settings";
@@ -410,6 +521,15 @@
 "Store" = "Store";
 
 /* No comment provided by engineer. */
+"TAR" = "TAR";
+
+/* No comment provided by engineer. */
+"tar" = "tar";
+
+/* No comment provided by engineer. */
+"Terabytes" = "Terabytes";
+
+/* No comment provided by engineer. */
 "The %@ of space available in the destination might not be enough for compressing the estimated %@." = "The %@ of space available in the destination might not be enough for compressing the estimated %@.";
 
 /* No comment provided by engineer. */
@@ -449,6 +569,9 @@
 "To extract" = "To extract";
 
 /* No comment provided by engineer. */
+"To prevent a timeout on large operation, enable this setting. The result will always be true if enabled." = "To prevent a timeout on large operation, enable this setting. The result will always be true if enabled.";
+
+/* No comment provided by engineer. */
 "Total size" = "Total size";
 
 /* No comment provided by engineer. */
@@ -476,6 +599,9 @@
 "Unable to get encoding data" = "Unable to get encoding data";
 
 /* No comment provided by engineer. */
+"URL Encoded" = "URL Encoded";
+
+/* No comment provided by engineer. */
 "Use AES-256 Encryption" = "Use AES-256 Encryption";
 
 /* No comment provided by engineer. */
@@ -494,6 +620,9 @@
 "Volume Size" = "Volume Size";
 
 /* No comment provided by engineer. */
+"Volume Unit" = "Volume Unit";
+
+/* No comment provided by engineer. */
 "Welcome" = "Welcome";
 
 /* The "Welcome to Keka" title. */
@@ -501,4 +630,16 @@
 
 /* No comment provided by engineer. */
 "Where" = "Where";
+
+/* No comment provided by engineer. */
+"ZIP" = "ZIP";
+
+/* No comment provided by engineer. */
+"zip" = "zip";
+
+/* No comment provided by engineer. */
+"ZSTD" = "ZSTD";
+
+/* No comment provided by engineer. */
+"zstd" = "zstd";
 

@@ -4,11 +4,26 @@
 /* No comment provided by engineer. */
 "%@ items" = "%@ đơn vị";
 
+/* _OPERATION_ of "_FILENAME_" failed */
+"%@ of \"%@\" failed" = "%@ of \"%@\" failed"; // THIS IS NOT LOCALIZED
+
 /* No comment provided by engineer. */
 "%@ of %@ item" = "%@ trên %@ đơn vị";
 
 /* No comment provided by engineer. */
 "%@ of %@ items" = "%@ trên %@ đơn vị";
+
+/* No comment provided by engineer. */
+"7Z" = "7Z"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"7z" = "7z"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"AAR" = "AAR"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"aar" = "aar"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "About" = "Thông tin thêm";
@@ -47,6 +62,9 @@
 "Allocated size" = "Kích thước được phân bổ";
 
 /* No comment provided by engineer. */
+"archive" = "archive"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Archive items separately" = "Nén các mục riêng biệt";
 
 /* Default compression file name. */
@@ -71,10 +89,22 @@
 "by %@" = "bởi %@";
 
 /* No comment provided by engineer. */
+"Bytes" = "Bytes"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"bz" = "bz"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"BZIP2" = "BZIP2"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Calculate" = "Tính toán";
 
 /* No comment provided by engineer. */
 "Cancel" = "Huỷ bỏ";
+
+/* No comment provided by engineer. */
+"Cancelled" = "Cancelled"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Choose" = "Chọn";
@@ -95,7 +125,16 @@
 "Compress" = "Nén";
 
 /* No comment provided by engineer. */
+"compress" = "compress"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Compress all the items in the compression list" = "Nén tất cả các mục trong danh sách cần nén";
+
+/* No comment provided by engineer. */
+"Compress Files with Keka" = "Compress Files with Keka"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Compress some files with Keka." = "Compress some files with Keka."; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "compressed" = "đã nén";
@@ -105,6 +144,9 @@
 
 /* Compression settings title. */
 "Compression" = "Quá trình nén";
+
+/* No comment provided by engineer. */
+"compression" = "compression"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "compression failed" = "quá trình nén thất bại";
@@ -173,6 +215,9 @@
 "Document" = "Văn thư";
 
 /* No comment provided by engineer. */
+"Documents" = "Documents"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Done" = "Hoàn thành";
 
 /* No comment provided by engineer. */
@@ -200,6 +245,15 @@
 "Extract" = "Giải nén";
 
 /* No comment provided by engineer. */
+"extract" = "extract"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Extract Files with Keka" = "Extract Files with Keka"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Extract some files with Keka." = "Extract some files with Keka."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Extract the file" = "Giải nén tập tin";
 
 /* No comment provided by engineer. */
@@ -207,6 +261,9 @@
 
 /* Extraction settings title. */
 "Extraction" = "Quá trình giải nén";
+
+/* No comment provided by engineer. */
+"extraction" = "extraction"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "extraction failed" = "giải nén thất bại";
@@ -233,7 +290,19 @@
 "Feedback" = "Góp ý";
 
 /* No comment provided by engineer. */
+"file" = "file"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"File for Keka" = "File for Keka"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "File not informed properly, try again." = "Tập tin chưa đọc hết, hãy thử lại";
+
+/* No comment provided by engineer. */
+"Files" = "Files"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Files and Folders" = "Files and Folders"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Folder drop is only supported on iOS 16 or newer" = "Tính năng kéo thả chỉ hỗ trợ trên iOS 16 hoặc mới hơn";
@@ -248,7 +317,16 @@
 "Get Info" = "Lấy thông tin";
 
 /* No comment provided by engineer. */
+"Gigabyte" = "Gigabyte"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Give Access" = "Cấp quyền truy cập";
+
+/* No comment provided by engineer. */
+"gz" = "gz"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"GZIP" = "GZIP"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Hide Password by Default" = "Mặc định ẩn đi mật khẩu";
@@ -260,10 +338,16 @@
 "Information" = "Thông tin";
 
 /* No comment provided by engineer. */
+"keka" = "keka"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Keka's Folder" = "Thư mục của Keka";
 
 /* No comment provided by engineer. */
 "Keka's icon" = "Biểu tượng của Keka";
+
+/* No comment provided by engineer. */
+"Kilobytes" = "Kilobytes"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Kind" = "Loại";
@@ -272,10 +356,16 @@
 "Last opened" = "Đã mở gần đây";
 
 /* No comment provided by engineer. */
+"Level" = "Level"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Loading" = "Đang tải";
 
 /* "Made with" part from "Made with love by aone". */
 "Made with" = "Được tạo bởi";
+
+/* No comment provided by engineer. */
+"Megabytes" = "Megabytes"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Modified" = "Sửa đổi";
@@ -285,6 +375,9 @@
 
 /* No comment provided by engineer. */
 "New Compression" = "Tạo nén mới";
+
+/* No comment provided by engineer. */
+"No archive selected" = "No archive selected"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "No contents" = "Không có nội dung";
@@ -311,6 +404,9 @@
 "Open" = "Mở";
 
 /* No comment provided by engineer. */
+"Open Keka" = "Open Keka"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Open..." = "Mở...";
 
 /* No comment provided by engineer. */
@@ -320,6 +416,9 @@
 "Password" = "Mật khẩu";
 
 /* No comment provided by engineer. */
+"Password for \"%@\"" = "Password for \"%@\""; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Password needed" = "Yêu cầu mật khẩu";
 
 /* No comment provided by engineer. */
@@ -327,6 +426,9 @@
 
 /* No comment provided by engineer. */
 "Pause" = "Tạm dừng";
+
+/* No comment provided by engineer. */
+"Petabytes" = "Petabytes"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Please enter the password for:" = "Vui lòng nhập mật khẩu cho:";
@@ -339,6 +441,9 @@
 
 /* No comment provided by engineer. */
 "Quick Look" = "Xem nhanh";
+
+/* No comment provided by engineer. */
+"rar" = "rar"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Remember Last Used Options" = "Ghi nhớ tuỳ chọn đã dùng trước đó";
@@ -368,7 +473,13 @@
 "Review" = "Đánh giá";
 
 /* No comment provided by engineer. */
+"Run asynchronously" = "Run asynchronously"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Save" = "Lưu";
+
+/* No comment provided by engineer. */
+"Select some files and folders for Keka." = "Select some files and folders for Keka."; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Settings" = "Cài đặt";
@@ -410,6 +521,15 @@
 "Store" = "Lưu trữ";
 
 /* No comment provided by engineer. */
+"TAR" = "TAR"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"tar" = "tar"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Terabytes" = "Terabytes"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "The %@ of space available in the destination might not be enough for compressing the estimated %@." = "Chỉ còn %@ dung lượng trống ở nơi lưu nên sẽ không đủ để thực hiện nén cho khoảng %@.";
 
 /* No comment provided by engineer. */
@@ -449,6 +569,9 @@
 "To extract" = "Đến giải nén";
 
 /* No comment provided by engineer. */
+"To prevent a timeout on large operation, enable this setting. The result will always be true if enabled." = "To prevent a timeout on large operation, enable this setting. The result will always be true if enabled."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Total size" = "Tổng dung lượng";
 
 /* No comment provided by engineer. */
@@ -476,6 +599,9 @@
 "Unable to get encoding data" = "Không thể lấy dữ liệu mã hoá";
 
 /* No comment provided by engineer. */
+"URL Encoded" = "URL Encoded"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Use AES-256 Encryption" = "Sử dụng mã hoá AES-256";
 
 /* No comment provided by engineer. */
@@ -494,6 +620,9 @@
 "Volume Size" = "Kích thước dung lượng";
 
 /* No comment provided by engineer. */
+"Volume Unit" = "Volume Unit"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Welcome" = "Chào mừng";
 
 /* The "Welcome to Keka" title. */
@@ -501,4 +630,16 @@
 
 /* No comment provided by engineer. */
 "Where" = "Ở đâu";
+
+/* No comment provided by engineer. */
+"ZIP" = "ZIP"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"zip" = "zip"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"ZSTD" = "ZSTD"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"zstd" = "zstd"; // THIS IS NOT LOCALIZED
 

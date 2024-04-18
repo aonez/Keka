@@ -4,11 +4,26 @@
 /* No comment provided by engineer. */
 "%@ items" = "%@ ítems";
 
+/* _OPERATION_ of "_FILENAME_" failed */
+"%@ of \"%@\" failed" = "%@ of \"%@\" failed"; // THIS IS NOT LOCALIZED
+
 /* No comment provided by engineer. */
 "%@ of %@ item" = "%@ de %@ ítem";
 
 /* No comment provided by engineer. */
 "%@ of %@ items" = "%@ de %@ ítems";
+
+/* No comment provided by engineer. */
+"7Z" = "7Z"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"7z" = "7z"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"AAR" = "AAR"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"aar" = "aar"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "About" = "Créditos";
@@ -47,6 +62,9 @@
 "Allocated size" = "Tamaño asignado";
 
 /* No comment provided by engineer. */
+"archive" = "archive"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Archive items separately" = "Archive items separately"; // THIS IS NOT LOCALIZED
 
 /* Default compression file name. */
@@ -71,10 +89,22 @@
 "by %@" = "por %@";
 
 /* No comment provided by engineer. */
+"Bytes" = "Bytes"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"bz" = "bz"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"BZIP2" = "BZIP2"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Calculate" = "Calcular";
 
 /* No comment provided by engineer. */
 "Cancel" = "Cancelar";
+
+/* No comment provided by engineer. */
+"Cancelled" = "Cancelled"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Choose" = "Seleccionar";
@@ -95,7 +125,16 @@
 "Compress" = "Comprimir";
 
 /* No comment provided by engineer. */
+"compress" = "compress"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Compress all the items in the compression list" = "Compress all the items in the compression list"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Compress Files with Keka" = "Compress Files with Keka"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Compress some files with Keka." = "Compress some files with Keka."; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "compressed" = "comprimido";
@@ -105,6 +144,9 @@
 
 /* Compression settings title. */
 "Compression" = "Compresión";
+
+/* No comment provided by engineer. */
+"compression" = "compression"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "compression failed" = "compresión fallida";
@@ -173,6 +215,9 @@
 "Document" = "Documento";
 
 /* No comment provided by engineer. */
+"Documents" = "Documents"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Done" = "Listo";
 
 /* No comment provided by engineer. */
@@ -200,6 +245,15 @@
 "Extract" = "Extraer";
 
 /* No comment provided by engineer. */
+"extract" = "extract"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Extract Files with Keka" = "Extract Files with Keka"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Extract some files with Keka." = "Extract some files with Keka."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Extract the file" = "Extraer el archivo";
 
 /* No comment provided by engineer. */
@@ -207,6 +261,9 @@
 
 /* Extraction settings title. */
 "Extraction" = "Extracción";
+
+/* No comment provided by engineer. */
+"extraction" = "extraction"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "extraction failed" = "extracción fallida";
@@ -233,7 +290,19 @@
 "Feedback" = "Contactar";
 
 /* No comment provided by engineer. */
+"file" = "file"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"File for Keka" = "File for Keka"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "File not informed properly, try again." = "El archivo no se ha informado correctamente, inténtalo de nuevo.";
+
+/* No comment provided by engineer. */
+"Files" = "Files"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Files and Folders" = "Files and Folders"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Folder drop is only supported on iOS 16 or newer" = "Folder drop is only supported on iOS 16 or newer"; // THIS IS NOT LOCALIZED
@@ -248,7 +317,16 @@
 "Get Info" = "Obtener información";
 
 /* No comment provided by engineer. */
+"Gigabyte" = "Gigabyte"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Give Access" = "Give Access"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"gz" = "gz"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"GZIP" = "GZIP"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Hide Password by Default" = "Ocultar la contraseña por defecto";
@@ -260,10 +338,16 @@
 "Information" = "Información";
 
 /* No comment provided by engineer. */
+"keka" = "keka"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Keka's Folder" = "Carpeta de Keka";
 
 /* No comment provided by engineer. */
 "Keka's icon" = "Icono de Keka";
+
+/* No comment provided by engineer. */
+"Kilobytes" = "Kilobytes"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Kind" = "Clase";
@@ -272,10 +356,16 @@
 "Last opened" = "Abierto por última vez";
 
 /* No comment provided by engineer. */
+"Level" = "Level"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Loading" = "Cargando";
 
 /* "Made with" part from "Made with love by aone". */
 "Made with" = "Hecho con";
+
+/* No comment provided by engineer. */
+"Megabytes" = "Megabytes"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Modified" = "Modificación";
@@ -285,6 +375,9 @@
 
 /* No comment provided by engineer. */
 "New Compression" = "New Compression"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"No archive selected" = "No archive selected"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "No contents" = "Sin contenido";
@@ -311,6 +404,9 @@
 "Open" = "Abrir";
 
 /* No comment provided by engineer. */
+"Open Keka" = "Open Keka"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Open..." = "Open..."; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
@@ -320,6 +416,9 @@
 "Password" = "Contraseña";
 
 /* No comment provided by engineer. */
+"Password for \"%@\"" = "Password for \"%@\""; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Password needed" = "Contraseña necesaria";
 
 /* No comment provided by engineer. */
@@ -327,6 +426,9 @@
 
 /* No comment provided by engineer. */
 "Pause" = "Pause"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Petabytes" = "Petabytes"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Please enter the password for:" = "Por favor introduce la contraseña para:";
@@ -339,6 +441,9 @@
 
 /* No comment provided by engineer. */
 "Quick Look" = "Vista previa";
+
+/* No comment provided by engineer. */
+"rar" = "rar"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Remember Last Used Options" = "Recordar la última configuración utilizada";
@@ -368,7 +473,13 @@
 "Review" = "Valorar";
 
 /* No comment provided by engineer. */
+"Run asynchronously" = "Run asynchronously"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Save" = "Guardar";
+
+/* No comment provided by engineer. */
+"Select some files and folders for Keka." = "Select some files and folders for Keka."; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Settings" = "Ajustes";
@@ -410,6 +521,15 @@
 "Store" = "Almacenar";
 
 /* No comment provided by engineer. */
+"TAR" = "TAR"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"tar" = "tar"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Terabytes" = "Terabytes"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "The %@ of space available in the destination might not be enough for compressing the estimated %@." = "El espacio disponible en el destino es de %@ y puede no ser suficiente para comprimir la estimación de %@.";
 
 /* No comment provided by engineer. */
@@ -449,6 +569,9 @@
 "To extract" = "A extraer";
 
 /* No comment provided by engineer. */
+"To prevent a timeout on large operation, enable this setting. The result will always be true if enabled." = "To prevent a timeout on large operation, enable this setting. The result will always be true if enabled."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Total size" = "Tamaño total";
 
 /* No comment provided by engineer. */
@@ -476,6 +599,9 @@
 "Unable to get encoding data" = "No se ha podido obtener la información de codificación";
 
 /* No comment provided by engineer. */
+"URL Encoded" = "URL Encoded"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Use AES-256 Encryption" = "Utilizar la encriptación AES-256";
 
 /* No comment provided by engineer. */
@@ -494,6 +620,9 @@
 "Volume Size" = "Tamaño";
 
 /* No comment provided by engineer. */
+"Volume Unit" = "Volume Unit"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Welcome" = "Bienvenid@";
 
 /* The "Welcome to Keka" title. */
@@ -501,4 +630,16 @@
 
 /* No comment provided by engineer. */
 "Where" = "Donde";
+
+/* No comment provided by engineer. */
+"ZIP" = "ZIP"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"zip" = "zip"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"ZSTD" = "ZSTD"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"zstd" = "zstd"; // THIS IS NOT LOCALIZED
 
