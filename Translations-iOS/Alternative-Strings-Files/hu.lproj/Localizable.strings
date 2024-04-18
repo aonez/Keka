@@ -4,11 +4,26 @@
 /* No comment provided by engineer. */
 "%@ items" = "%@ tételek";
 
+/* _OPERATION_ of "_FILENAME_" failed */
+"%@ of \"%@\" failed" = "%@ of \"%@\" failed"; // THIS IS NOT LOCALIZED
+
 /* No comment provided by engineer. */
 "%@ of %@ item" = "%@ a(z) %@ tételből";
 
 /* No comment provided by engineer. */
 "%@ of %@ items" = "%@ a(z) %@ tételből";
+
+/* No comment provided by engineer. */
+"7Z" = "7Z"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"7z" = "7z"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"AAR" = "AAR"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"aar" = "aar"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "About" = "A Kekáról";
@@ -47,6 +62,9 @@
 "Allocated size" = "Kiosztott méret";
 
 /* No comment provided by engineer. */
+"archive" = "archive"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Archive items separately" = "Archive items separately"; // THIS IS NOT LOCALIZED
 
 /* Default compression file name. */
@@ -71,10 +89,22 @@
 "by %@" = "készítette: %@";
 
 /* No comment provided by engineer. */
+"Bytes" = "Bytes"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"bz" = "bz"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"BZIP2" = "BZIP2"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Calculate" = "Számítás";
 
 /* No comment provided by engineer. */
 "Cancel" = "Mégse";
+
+/* No comment provided by engineer. */
+"Cancelled" = "Cancelled"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Choose" = "Válassz";
@@ -95,7 +125,16 @@
 "Compress" = "Tömörítés";
 
 /* No comment provided by engineer. */
+"compress" = "compress"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Compress all the items in the compression list" = "Compress all the items in the compression list"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Compress Files with Keka" = "Compress Files with Keka"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Compress some files with Keka." = "Compress some files with Keka."; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "compressed" = "tömörített";
@@ -105,6 +144,9 @@
 
 /* Compression settings title. */
 "Compression" = "Tömörítés";
+
+/* No comment provided by engineer. */
+"compression" = "compression"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "compression failed" = "a tömörítés nem sikerült";
@@ -173,6 +215,9 @@
 "Document" = "Dokumentum";
 
 /* No comment provided by engineer. */
+"Documents" = "Documents"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Done" = "Kész";
 
 /* No comment provided by engineer. */
@@ -200,6 +245,15 @@
 "Extract" = "Kibontás";
 
 /* No comment provided by engineer. */
+"extract" = "extract"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Extract Files with Keka" = "Extract Files with Keka"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Extract some files with Keka." = "Extract some files with Keka."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Extract the file" = "Fájl kibontása";
 
 /* No comment provided by engineer. */
@@ -207,6 +261,9 @@
 
 /* Extraction settings title. */
 "Extraction" = "Kibontás";
+
+/* No comment provided by engineer. */
+"extraction" = "extraction"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "extraction failed" = "a kibontás nem sikerült";
@@ -233,7 +290,19 @@
 "Feedback" = "Visszajelzés";
 
 /* No comment provided by engineer. */
+"file" = "file"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"File for Keka" = "File for Keka"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "File not informed properly, try again." = "A fájl nincs megfelelően informálva, próbáld újra.";
+
+/* No comment provided by engineer. */
+"Files" = "Files"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Files and Folders" = "Files and Folders"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Folder drop is only supported on iOS 16 or newer" = "Folder drop is only supported on iOS 16 or newer"; // THIS IS NOT LOCALIZED
@@ -248,7 +317,16 @@
 "Get Info" = "Infó megjelenítése";
 
 /* No comment provided by engineer. */
+"Gigabyte" = "Gigabyte"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Give Access" = "Give Access"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"gz" = "gz"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"GZIP" = "GZIP"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Hide Password by Default" = "Jelszó elrejtése alapértelmezettként";
@@ -260,10 +338,16 @@
 "Information" = "Információ";
 
 /* No comment provided by engineer. */
+"keka" = "keka"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Keka's Folder" = "A Keka mappája";
 
 /* No comment provided by engineer. */
 "Keka's icon" = "A Keka ikonja";
+
+/* No comment provided by engineer. */
+"Kilobytes" = "Kilobytes"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Kind" = "Fajta";
@@ -272,10 +356,16 @@
 "Last opened" = "Legutoljára megnyitva";
 
 /* No comment provided by engineer. */
+"Level" = "Level"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Loading" = "Betöltés";
 
 /* "Made with" part from "Made with love by aone". */
 "Made with" = "Készítette";
+
+/* No comment provided by engineer. */
+"Megabytes" = "Megabytes"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Modified" = "Szerkesztve";
@@ -285,6 +375,9 @@
 
 /* No comment provided by engineer. */
 "New Compression" = "New Compression"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"No archive selected" = "No archive selected"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "No contents" = "Nincs tartalom";
@@ -311,6 +404,9 @@
 "Open" = "Megnyitás";
 
 /* No comment provided by engineer. */
+"Open Keka" = "Open Keka"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Open..." = "Open..."; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
@@ -320,6 +416,9 @@
 "Password" = "Jelszó";
 
 /* No comment provided by engineer. */
+"Password for \"%@\"" = "Password for \"%@\""; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Password needed" = "Jelszó szükséges";
 
 /* No comment provided by engineer. */
@@ -327,6 +426,9 @@
 
 /* No comment provided by engineer. */
 "Pause" = "Pause"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Petabytes" = "Petabytes"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Please enter the password for:" = "Kérlek, írd be a jelszót ehhez:";
@@ -339,6 +441,9 @@
 
 /* No comment provided by engineer. */
 "Quick Look" = "Gyorsnézet";
+
+/* No comment provided by engineer. */
+"rar" = "rar"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Remember Last Used Options" = "Emlékezzen a legutoljára használt beállításokra";
@@ -368,7 +473,13 @@
 "Review" = "Értékelés";
 
 /* No comment provided by engineer. */
+"Run asynchronously" = "Run asynchronously"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Save" = "Mentés";
+
+/* No comment provided by engineer. */
+"Select some files and folders for Keka." = "Select some files and folders for Keka."; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Settings" = "Beállítások";
@@ -410,6 +521,15 @@
 "Store" = "Eltárolás";
 
 /* No comment provided by engineer. */
+"TAR" = "TAR"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"tar" = "tar"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Terabytes" = "Terabytes"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "The %@ of space available in the destination might not be enough for compressing the estimated %@." = "Az elérhető %@ tárhely a célnál lehetséges, hogy nem lesz elég a becsült %@ tömörítéséhez.";
 
 /* No comment provided by engineer. */
@@ -449,6 +569,9 @@
 "To extract" = "Kibontandó";
 
 /* No comment provided by engineer. */
+"To prevent a timeout on large operation, enable this setting. The result will always be true if enabled." = "To prevent a timeout on large operation, enable this setting. The result will always be true if enabled."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Total size" = "Teljes méret";
 
 /* No comment provided by engineer. */
@@ -476,6 +599,9 @@
 "Unable to get encoding data" = "Nem sikerült kódolási adatokat szerezni";
 
 /* No comment provided by engineer. */
+"URL Encoded" = "URL Encoded"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Use AES-256 Encryption" = "AES-256 titkosítás használata";
 
 /* No comment provided by engineer. */
@@ -494,6 +620,9 @@
 "Volume Size" = "Kötet mérete";
 
 /* No comment provided by engineer. */
+"Volume Unit" = "Volume Unit"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Welcome" = "Üdv";
 
 /* The "Welcome to Keka" title. */
@@ -501,4 +630,16 @@
 
 /* No comment provided by engineer. */
 "Where" = "Hol";
+
+/* No comment provided by engineer. */
+"ZIP" = "ZIP"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"zip" = "zip"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"ZSTD" = "ZSTD"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"zstd" = "zstd"; // THIS IS NOT LOCALIZED
 

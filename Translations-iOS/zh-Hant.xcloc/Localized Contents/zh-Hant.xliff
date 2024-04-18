@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Keka/en.lproj/AppShortcuts.strings" datatype="plaintext" source-language="en" target-language="zh-Hant">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.2" build-num="15C500b"/>
+    </header>
+    <body>
+      <trans-unit id="Compress Files with ${applicationName}" xml:space="preserve">
+        <source>Compress Files with ${applicationName}</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Extract Files with ${applicationName}" xml:space="preserve">
+        <source>Extract Files with ${applicationName}</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
   <file original="Keka/en.lproj/InfoPlist.strings" source-language="en" target-language="zh-Hant" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.2" build-num="15C500b"/>
@@ -77,7 +92,7 @@
       </trans-unit>
       <trans-unit id="Apple Archive" xml:space="preserve">
         <source>Apple Archive</source>
-        <target state="translated">Apple封存檔</target>
+        <target>Apple封存檔</target>
         <note/>
       </trans-unit>
       <trans-unit id="BZIP2 Archive" xml:space="preserve">
@@ -307,6 +322,10 @@
         <target>%@個項目</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="%@ of &quot;%@&quot; failed" xml:space="preserve">
+        <source>%@ of "%@" failed</source>
+        <note>_OPERATION_ of "_FILENAME_" failed</note>
+      </trans-unit>
       <trans-unit id="%@ of %@ item" xml:space="preserve">
         <source>%@ of %@ item</source>
         <target>%@/%@個項目</target>
@@ -334,7 +353,7 @@
       </trans-unit>
       <trans-unit id="Actions to do with the current browsed file" xml:space="preserve">
         <source>Actions to do with the current browsed file</source>
-        <target state="translated">要對目前瀏覽檔案執行的操作</target>
+        <target>要對目前瀏覽檔案執行的操作</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Add a File" xml:space="preserve">
@@ -349,32 +368,32 @@
       </trans-unit>
       <trans-unit id="Add a Photo or Video" xml:space="preserve">
         <source>Add a Photo or Video</source>
-        <target state="translated">加入照片或影片</target>
+        <target>加入照片或影片</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Add files and folders to a compression list" xml:space="preserve">
         <source>Add files and folders to a compression list</source>
-        <target state="translated">加入檔案或檔案夾到壓縮列表</target>
+        <target>加入檔案或檔案夾到壓縮列表</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Add some contents using the %@ button or the %@ button in the toolbar." xml:space="preserve">
         <source>Add some contents using the %@ button or the %@ button in the toolbar.</source>
-        <target state="translated">使用%@按鈕，或者是工具列中的%@按鈕加入一些內容。</target>
+        <target>使用%@按鈕，或者是工具列中的%@按鈕加入一些內容。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar." xml:space="preserve">
         <source>Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar.</source>
-        <target state="translated">使用%@按鈕，或者是工具列中的%@、%@或%@按鈕加入一些內容。</target>
+        <target>使用%@按鈕，或者是工具列中的%@、%@或%@按鈕加入一些內容。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Add some contents using the %@ button." xml:space="preserve">
         <source>Add some contents using the %@ button.</source>
-        <target state="translated">使用%@按鈕加入一些內容。</target>
+        <target>使用%@按鈕加入一些內容。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Advanced Settings" xml:space="preserve">
         <source>Advanced Settings</source>
-        <target state="translated">進階設定</target>
+        <target>進階設定</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Allocated size" xml:space="preserve">
@@ -384,7 +403,7 @@
       </trans-unit>
       <trans-unit id="Archive items separately" xml:space="preserve">
         <source>Archive items separately</source>
-        <target state="translated">分開封存檔案</target>
+        <target>分開封存檔案</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Ask" xml:space="preserve">
@@ -412,6 +431,10 @@
         <target>瀏覽器</target>
         <note>Browser settings title.</note>
       </trans-unit>
+      <trans-unit id="Bytes" xml:space="preserve">
+        <source>Bytes</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="COMPRESSION_OPERATION" xml:space="preserve">
         <source>Compression</source>
         <target>壓縮</target>
@@ -435,6 +458,10 @@
       <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
         <target>取消</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cancelled" xml:space="preserve">
+        <source>Cancelled</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Choose" xml:space="preserve">
@@ -467,9 +494,17 @@
         <target>壓縮</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Compress Files with Keka" xml:space="preserve">
+        <source>Compress Files with Keka</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Compress all the items in the compression list" xml:space="preserve">
         <source>Compress all the items in the compression list</source>
-        <target state="translated">將壓縮列表中的項目全數壓縮</target>
+        <target>將壓縮列表中的項目全數壓縮</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Compress some files with Keka." xml:space="preserve">
+        <source>Compress some files with Keka.</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Compressed size" xml:space="preserve">
@@ -499,7 +534,7 @@
       </trans-unit>
       <trans-unit id="Contents: %lld, Size: %@" xml:space="preserve">
         <source>Contents: %lld, Size: %@</source>
-        <target state="translated">內容：%lld，大小：%@</target>
+        <target>內容：%lld，大小：%@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Created" xml:space="preserve">
@@ -544,12 +579,12 @@
       </trans-unit>
       <trans-unit id="Delete" xml:space="preserve">
         <source>Delete</source>
-        <target state="translated">刪除</target>
+        <target>刪除</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete files(s) after compression" xml:space="preserve">
         <source>Delete files(s) after compression</source>
-        <target state="translated">壓縮後刪除檔案</target>
+        <target>壓縮後刪除檔案</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Destination" xml:space="preserve">
@@ -572,6 +607,10 @@
         <target>文件</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Documents" xml:space="preserve">
+        <source>Documents</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
         <target>完成</target>
@@ -579,7 +618,7 @@
       </trans-unit>
       <trans-unit id="Downloads" xml:space="preserve">
         <source>Downloads</source>
-        <target state="translated">下載</target>
+        <target>下載</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="EXTRACTION_OPERATION" xml:space="preserve">
@@ -621,12 +660,20 @@
       </trans-unit>
       <trans-unit id="Exclude Mac resource forks" xml:space="preserve">
         <source>Exclude Mac resource forks</source>
-        <target state="translated">排除Mac資源檔案</target>
+        <target>排除Mac資源檔案</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Extract" xml:space="preserve">
         <source>Extract</source>
         <target>擷取</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Extract Files with Keka" xml:space="preserve">
+        <source>Extract Files with Keka</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Extract some files with Keka." xml:space="preserve">
+        <source>Extract some files with Keka.</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Extract the file" xml:space="preserve">
@@ -654,14 +701,26 @@
         <target>使用者意見</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="File for Keka" xml:space="preserve">
+        <source>File for Keka</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="File not informed properly, try again." xml:space="preserve">
         <source>File not informed properly, try again.</source>
         <target>檔案處理有誤，請稍後再試。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Files" xml:space="preserve">
+        <source>Files</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Files and Folders" xml:space="preserve">
+        <source>Files and Folders</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Folder drop is only supported on iOS 16 or newer" xml:space="preserve">
         <source>Folder drop is only supported on iOS 16 or newer</source>
-        <target state="translated">「檔案夾放置」只支援iOS 16或更新版本</target>
+        <target>「檔案夾放置」只支援iOS 16或更新版本</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Format" xml:space="preserve">
@@ -679,9 +738,13 @@
         <target>取得資訊</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Gigabyte" xml:space="preserve">
+        <source>Gigabyte</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Give Access" xml:space="preserve">
         <source>Give Access</source>
-        <target state="translated">授予權限</target>
+        <target>授予權限</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Hide Password by Default" xml:space="preserve">
@@ -709,6 +772,10 @@
         <target>Keka的圖示</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Kilobytes" xml:space="preserve">
+        <source>Kilobytes</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Kind" xml:space="preserve">
         <source>Kind</source>
         <target>類別</target>
@@ -717,6 +784,10 @@
       <trans-unit id="Last opened" xml:space="preserve">
         <source>Last opened</source>
         <target>上次打開時間</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Level" xml:space="preserve">
+        <source>Level</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Loading" xml:space="preserve">
@@ -728,6 +799,10 @@
         <source>Made with</source>
         <target>打造自</target>
         <note>"Made with" part from "Made with love by aone".</note>
+      </trans-unit>
+      <trans-unit id="Megabytes" xml:space="preserve">
+        <source>Megabytes</source>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Modified" xml:space="preserve">
         <source>Modified</source>
@@ -741,7 +816,11 @@
       </trans-unit>
       <trans-unit id="New Compression" xml:space="preserve">
         <source>New Compression</source>
-        <target state="translated">新增壓縮檔</target>
+        <target>新增壓縮檔</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No archive selected" xml:space="preserve">
+        <source>No archive selected</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No contents" xml:space="preserve">
@@ -784,14 +863,18 @@
         <target>打開</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Open Keka" xml:space="preserve">
+        <source>Open Keka</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Open..." xml:space="preserve">
         <source>Open...</source>
-        <target state="translated">打開⋯</target>
+        <target>打開⋯</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Order" xml:space="preserve">
         <source>Order</source>
-        <target state="translated">順序</target>
+        <target>順序</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Password" xml:space="preserve">
@@ -801,7 +884,11 @@
       </trans-unit>
       <trans-unit id="Password Protected" xml:space="preserve">
         <source>Password Protected</source>
-        <target state="translated">受密碼保護</target>
+        <target>受密碼保護</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Password for &quot;%@&quot;" xml:space="preserve">
+        <source>Password for "%@"</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Password needed" xml:space="preserve">
@@ -811,7 +898,11 @@
       </trans-unit>
       <trans-unit id="Pause" xml:space="preserve">
         <source>Pause</source>
-        <target state="translated">暫停</target>
+        <target>暫停</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Petabytes" xml:space="preserve">
+        <source>Petabytes</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please enter the password for:" xml:space="preserve">
@@ -841,12 +932,12 @@
       </trans-unit>
       <trans-unit id="Remove" xml:space="preserve">
         <source>Remove</source>
-        <target state="translated">移除</target>
+        <target>移除</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Remove All Items" xml:space="preserve">
         <source>Remove All Items</source>
-        <target state="translated">移除所有項目</target>
+        <target>移除所有項目</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Remove from cache" xml:space="preserve">
@@ -856,7 +947,7 @@
       </trans-unit>
       <trans-unit id="Remove the selected items from the compression list" xml:space="preserve">
         <source>Remove the selected items from the compression list</source>
-        <target state="translated">自壓縮列表中移除選取項目</target>
+        <target>自壓縮列表中移除選取項目</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Reset" xml:space="preserve">
@@ -871,7 +962,7 @@
       </trans-unit>
       <trans-unit id="Resume" xml:space="preserve">
         <source>Resume</source>
-        <target state="translated">繼續</target>
+        <target>繼續</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Review" xml:space="preserve">
@@ -879,9 +970,17 @@
         <target>評價</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Run asynchronously" xml:space="preserve">
+        <source>Run asynchronously</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Save" xml:space="preserve">
         <source>Save</source>
         <target>儲存</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Select some files and folders for Keka." xml:space="preserve">
+        <source>Select some files and folders for Keka.</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Settings" xml:space="preserve">
@@ -896,32 +995,32 @@
       </trans-unit>
       <trans-unit id="Share..." xml:space="preserve">
         <source>Share...</source>
-        <target state="translated">分享⋯</target>
+        <target>分享⋯</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show Advanced Settings" xml:space="preserve">
         <source>Show Advanced Settings</source>
-        <target state="translated">顯示進階設定</target>
+        <target>顯示進階設定</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show Info" xml:space="preserve">
         <source>Show Info</source>
-        <target state="translated">顯示資訊</target>
+        <target>顯示資訊</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show Less" xml:space="preserve">
         <source>Show Less</source>
-        <target state="translated">顯示較少</target>
+        <target>顯示較少</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show or hide additional advanced settings" xml:space="preserve">
         <source>Show or hide additional advanced settings</source>
-        <target state="translated">顯示或隱藏其他進階設定</target>
+        <target>顯示或隱藏其他進階設定</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show or hide additional information about the selected item" xml:space="preserve">
         <source>Show or hide additional information about the selected item</source>
-        <target state="translated">顯示或隱藏選取項目的其他資訊</target>
+        <target>顯示或隱藏選取項目的其他資訊</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Size" xml:space="preserve">
@@ -958,6 +1057,10 @@
         <source>TRANSLATOR_NAME</source>
         <target>aone、PeterDaveHello和Yi-Jyun Pan</target>
         <note>The translator name, if any.</note>
+      </trans-unit>
+      <trans-unit id="Terabytes" xml:space="preserve">
+        <source>Terabytes</source>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The %@ of space available in the destination might not be enough for compressing the estimated %@." xml:space="preserve">
         <source>The %@ of space available in the destination might not be enough for compressing the estimated %@.</source>
@@ -1017,13 +1120,17 @@
       <trans-unit id="This volume file needs additional files access to be opened.&#10;You can give access to the rest of the files or the parent folder." xml:space="preserve">
         <source>This volume file needs additional files access to be opened.
 You can give access to the rest of the files or the parent folder.</source>
-        <target state="translated">這個卷宗檔案需要額外的檔案權限才能打開。
+        <target>這個卷宗檔案需要額外的檔案權限才能打開。
 你可以授予剩餘檔案或上層檔案夾的存取權。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="To extract" xml:space="preserve">
         <source>To extract</source>
         <target>要擷取的內容</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="To prevent a timeout on large operation, enable this setting. The result will always be true if enabled." xml:space="preserve">
+        <source>To prevent a timeout on large operation, enable this setting. The result will always be true if enabled.</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Total size" xml:space="preserve">
@@ -1039,6 +1146,10 @@ You can give access to the rest of the files or the parent folder.</source>
       <trans-unit id="Type" xml:space="preserve">
         <source>Type</source>
         <target>類型</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="URL Encoded" xml:space="preserve">
+        <source>URL Encoded</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Unable to apply the app icon" xml:space="preserve">
@@ -1083,12 +1194,16 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="Verify compression integrity" xml:space="preserve">
         <source>Verify compression integrity</source>
-        <target state="translated">驗證壓縮完整性</target>
+        <target>驗證壓縮完整性</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Volume Size" xml:space="preserve">
         <source>Volume Size</source>
         <target>卷宗大小</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Volume Unit" xml:space="preserve">
+        <source>Volume Unit</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Welcome" xml:space="preserve">
@@ -1106,14 +1221,26 @@ You can give access to the rest of the files or the parent folder.</source>
         <target>位置</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="archive" xml:space="preserve">
+        <source>archive</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="by %@" xml:space="preserve">
         <source>by %@</source>
         <target>由%@製作</target>
         <note>"by aone" part from "Made with love by aone".</note>
       </trans-unit>
+      <trans-unit id="compress" xml:space="preserve">
+        <source>compress</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="compressed" xml:space="preserve">
         <source>compressed</source>
         <target>已壓縮</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="compression" xml:space="preserve">
+        <source>compression</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="compression failed" xml:space="preserve">
@@ -1126,9 +1253,17 @@ You can give access to the rest of the files or the parent folder.</source>
         <target>完成</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="extract" xml:space="preserve">
+        <source>extract</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="extracted" xml:space="preserve">
         <source>extracted</source>
         <target>已擷取</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="extraction" xml:space="preserve">
+        <source>extraction</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="extraction failed" xml:space="preserve">
@@ -1139,6 +1274,10 @@ You can give access to the rest of the files or the parent folder.</source>
       <trans-unit id="failed" xml:space="preserve">
         <source>failed</source>
         <target>失敗</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="file" xml:space="preserve">
+        <source>file</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>

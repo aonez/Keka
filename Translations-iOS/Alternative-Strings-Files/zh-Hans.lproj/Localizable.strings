@@ -4,11 +4,26 @@
 /* No comment provided by engineer. */
 "%@ items" = "%@ 项";
 
+/* _OPERATION_ of "_FILENAME_" failed */
+"%@ of \"%@\" failed" = "%@ of \"%@\" failed"; // THIS IS NOT LOCALIZED
+
 /* No comment provided by engineer. */
 "%@ of %@ item" = "%@ 的 %@ 项";
 
 /* No comment provided by engineer. */
 "%@ of %@ items" = "%@ 的 %@ 项";
+
+/* No comment provided by engineer. */
+"7Z" = "7Z"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"7z" = "7z"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"AAR" = "AAR"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"aar" = "aar"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "About" = "关于";
@@ -47,6 +62,9 @@
 "Allocated size" = "分配大小";
 
 /* No comment provided by engineer. */
+"archive" = "archive"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Archive items separately" = "单独归档";
 
 /* Default compression file name. */
@@ -71,10 +89,22 @@
 "by %@" = "%@ 制作";
 
 /* No comment provided by engineer. */
+"Bytes" = "Bytes"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"bz" = "bz"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"BZIP2" = "BZIP2"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Calculate" = "计算";
 
 /* No comment provided by engineer. */
 "Cancel" = "取消";
+
+/* No comment provided by engineer. */
+"Cancelled" = "Cancelled"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Choose" = "选择";
@@ -95,7 +125,16 @@
 "Compress" = "压缩";
 
 /* No comment provided by engineer. */
+"compress" = "compress"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Compress all the items in the compression list" = "压缩列表中的所有项目";
+
+/* No comment provided by engineer. */
+"Compress Files with Keka" = "Compress Files with Keka"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Compress some files with Keka." = "Compress some files with Keka."; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "compressed" = "已压缩";
@@ -105,6 +144,9 @@
 
 /* Compression settings title. */
 "Compression" = "压缩";
+
+/* No comment provided by engineer. */
+"compression" = "compression"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "compression failed" = "压缩失败";
@@ -173,6 +215,9 @@
 "Document" = "文档";
 
 /* No comment provided by engineer. */
+"Documents" = "Documents"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Done" = "完成";
 
 /* No comment provided by engineer. */
@@ -200,6 +245,15 @@
 "Extract" = "提取";
 
 /* No comment provided by engineer. */
+"extract" = "extract"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Extract Files with Keka" = "Extract Files with Keka"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Extract some files with Keka." = "Extract some files with Keka."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Extract the file" = "提取文件";
 
 /* No comment provided by engineer. */
@@ -207,6 +261,9 @@
 
 /* Extraction settings title. */
 "Extraction" = "提取";
+
+/* No comment provided by engineer. */
+"extraction" = "extraction"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "extraction failed" = "提取失败";
@@ -233,7 +290,19 @@
 "Feedback" = "反馈";
 
 /* No comment provided by engineer. */
+"file" = "file"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"File for Keka" = "File for Keka"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "File not informed properly, try again." = "文件信息不正确，请重试。";
+
+/* No comment provided by engineer. */
+"Files" = "Files"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Files and Folders" = "Files and Folders"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Folder drop is only supported on iOS 16 or newer" = "仅 iOS 16 或更高版本支持文件夹拖放";
@@ -248,7 +317,16 @@
 "Get Info" = "获取信息";
 
 /* No comment provided by engineer. */
+"Gigabyte" = "Gigabyte"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Give Access" = "获取访问";
+
+/* No comment provided by engineer. */
+"gz" = "gz"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"GZIP" = "GZIP"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Hide Password by Default" = "默认隐藏密码";
@@ -260,10 +338,16 @@
 "Information" = "信息";
 
 /* No comment provided by engineer. */
+"keka" = "keka"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Keka's Folder" = "Keka 的文件夹";
 
 /* No comment provided by engineer. */
 "Keka's icon" = "Keka 的图标";
+
+/* No comment provided by engineer. */
+"Kilobytes" = "Kilobytes"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Kind" = "种类";
@@ -272,10 +356,16 @@
 "Last opened" = "上次打开";
 
 /* No comment provided by engineer. */
+"Level" = "Level"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Loading" = "正在加载";
 
 /* "Made with" part from "Made with love by aone". */
 "Made with" = "用";
+
+/* No comment provided by engineer. */
+"Megabytes" = "Megabytes"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Modified" = "修改";
@@ -285,6 +375,9 @@
 
 /* No comment provided by engineer. */
 "New Compression" = "新压缩";
+
+/* No comment provided by engineer. */
+"No archive selected" = "No archive selected"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "No contents" = "无内容";
@@ -311,6 +404,9 @@
 "Open" = "打开";
 
 /* No comment provided by engineer. */
+"Open Keka" = "Open Keka"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Open..." = "打开…";
 
 /* No comment provided by engineer. */
@@ -320,6 +416,9 @@
 "Password" = "密码";
 
 /* No comment provided by engineer. */
+"Password for \"%@\"" = "Password for \"%@\""; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Password needed" = "需要密码";
 
 /* No comment provided by engineer. */
@@ -327,6 +426,9 @@
 
 /* No comment provided by engineer. */
 "Pause" = "暂停…";
+
+/* No comment provided by engineer. */
+"Petabytes" = "Petabytes"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Please enter the password for:" = "请输入密码：";
@@ -339,6 +441,9 @@
 
 /* No comment provided by engineer. */
 "Quick Look" = "快速查看";
+
+/* No comment provided by engineer. */
+"rar" = "rar"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Remember Last Used Options" = "记住上次使用的选项";
@@ -368,7 +473,13 @@
 "Review" = "评价";
 
 /* No comment provided by engineer. */
+"Run asynchronously" = "Run asynchronously"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Save" = "保存";
+
+/* No comment provided by engineer. */
+"Select some files and folders for Keka." = "Select some files and folders for Keka."; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Settings" = "设置";
@@ -410,6 +521,15 @@
 "Store" = "存储";
 
 /* No comment provided by engineer. */
+"TAR" = "TAR"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"tar" = "tar"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Terabytes" = "Terabytes"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "The %@ of space available in the destination might not be enough for compressing the estimated %@." = "目标位置可用空间 %@ 小于预估 %@，可能不足以进行压缩。";
 
 /* No comment provided by engineer. */
@@ -449,6 +569,9 @@
 "To extract" = "提取";
 
 /* No comment provided by engineer. */
+"To prevent a timeout on large operation, enable this setting. The result will always be true if enabled." = "To prevent a timeout on large operation, enable this setting. The result will always be true if enabled."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Total size" = "总大小";
 
 /* No comment provided by engineer. */
@@ -476,6 +599,9 @@
 "Unable to get encoding data" = "无法获取编码数据";
 
 /* No comment provided by engineer. */
+"URL Encoded" = "URL Encoded"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Use AES-256 Encryption" = "使用 AES-256 加密";
 
 /* No comment provided by engineer. */
@@ -494,6 +620,9 @@
 "Volume Size" = "卷大小";
 
 /* No comment provided by engineer. */
+"Volume Unit" = "Volume Unit"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Welcome" = "欢迎";
 
 /* The "Welcome to Keka" title. */
@@ -501,4 +630,16 @@
 
 /* No comment provided by engineer. */
 "Where" = "在哪里";
+
+/* No comment provided by engineer. */
+"ZIP" = "ZIP"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"zip" = "zip"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"ZSTD" = "ZSTD"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"zstd" = "zstd"; // THIS IS NOT LOCALIZED
 

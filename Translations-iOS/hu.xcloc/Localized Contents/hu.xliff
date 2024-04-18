@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Keka/en.lproj/AppShortcuts.strings" datatype="plaintext" source-language="en" target-language="hu">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.2" build-num="15C500b"/>
+    </header>
+    <body>
+      <trans-unit id="Compress Files with ${applicationName}" xml:space="preserve">
+        <source>Compress Files with ${applicationName}</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Extract Files with ${applicationName}" xml:space="preserve">
+        <source>Extract Files with ${applicationName}</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
   <file original="Keka/en.lproj/InfoPlist.strings" source-language="en" target-language="hu" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.2" build-num="15C500b"/>
@@ -306,6 +321,10 @@
         <target>%@ tételek</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="%@ of &quot;%@&quot; failed" xml:space="preserve">
+        <source>%@ of "%@" failed</source>
+        <note>_OPERATION_ of "_FILENAME_" failed</note>
+      </trans-unit>
       <trans-unit id="%@ of %@ item" xml:space="preserve">
         <source>%@ of %@ item</source>
         <target>%@ a(z) %@ tételből</target>
@@ -403,6 +422,10 @@
         <target>Böngésző</target>
         <note>Browser settings title.</note>
       </trans-unit>
+      <trans-unit id="Bytes" xml:space="preserve">
+        <source>Bytes</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="COMPRESSION_OPERATION" xml:space="preserve">
         <source>Compression</source>
         <target>Tömörítés</target>
@@ -426,6 +449,10 @@
       <trans-unit id="Cancel" xml:space="preserve">
         <source>Cancel</source>
         <target>Mégse</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cancelled" xml:space="preserve">
+        <source>Cancelled</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Choose" xml:space="preserve">
@@ -458,8 +485,16 @@
         <target>Tömörítés</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Compress Files with Keka" xml:space="preserve">
+        <source>Compress Files with Keka</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Compress all the items in the compression list" xml:space="preserve">
         <source>Compress all the items in the compression list</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Compress some files with Keka." xml:space="preserve">
+        <source>Compress some files with Keka.</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Compressed size" xml:space="preserve">
@@ -560,6 +595,10 @@
         <target>Dokumentum</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Documents" xml:space="preserve">
+        <source>Documents</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
         <target>Kész</target>
@@ -615,6 +654,14 @@
         <target>Kibontás</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Extract Files with Keka" xml:space="preserve">
+        <source>Extract Files with Keka</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Extract some files with Keka." xml:space="preserve">
+        <source>Extract some files with Keka.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Extract the file" xml:space="preserve">
         <source>Extract the file</source>
         <target>Fájl kibontása</target>
@@ -640,9 +687,21 @@
         <target>Visszajelzés</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="File for Keka" xml:space="preserve">
+        <source>File for Keka</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="File not informed properly, try again." xml:space="preserve">
         <source>File not informed properly, try again.</source>
         <target>A fájl nincs megfelelően informálva, próbáld újra.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Files" xml:space="preserve">
+        <source>Files</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Files and Folders" xml:space="preserve">
+        <source>Files and Folders</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Folder drop is only supported on iOS 16 or newer" xml:space="preserve">
@@ -662,6 +721,10 @@
       <trans-unit id="Get Info" xml:space="preserve">
         <source>Get Info</source>
         <target>Infó megjelenítése</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Gigabyte" xml:space="preserve">
+        <source>Gigabyte</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Give Access" xml:space="preserve">
@@ -693,6 +756,10 @@
         <target>A Keka ikonja</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Kilobytes" xml:space="preserve">
+        <source>Kilobytes</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Kind" xml:space="preserve">
         <source>Kind</source>
         <target>Fajta</target>
@@ -701,6 +768,10 @@
       <trans-unit id="Last opened" xml:space="preserve">
         <source>Last opened</source>
         <target>Legutoljára megnyitva</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Level" xml:space="preserve">
+        <source>Level</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Loading" xml:space="preserve">
@@ -712,6 +783,10 @@
         <source>Made with</source>
         <target>Készítette</target>
         <note>"Made with" part from "Made with love by aone".</note>
+      </trans-unit>
+      <trans-unit id="Megabytes" xml:space="preserve">
+        <source>Megabytes</source>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Modified" xml:space="preserve">
         <source>Modified</source>
@@ -725,6 +800,10 @@
       </trans-unit>
       <trans-unit id="New Compression" xml:space="preserve">
         <source>New Compression</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No archive selected" xml:space="preserve">
+        <source>No archive selected</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No contents" xml:space="preserve">
@@ -767,6 +846,10 @@
         <target>Megnyitás</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Open Keka" xml:space="preserve">
+        <source>Open Keka</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Open..." xml:space="preserve">
         <source>Open...</source>
         <note>No comment provided by engineer.</note>
@@ -784,6 +867,10 @@
         <source>Password Protected</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Password for &quot;%@&quot;" xml:space="preserve">
+        <source>Password for "%@"</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Password needed" xml:space="preserve">
         <source>Password needed</source>
         <target>Jelszó szükséges</target>
@@ -791,6 +878,10 @@
       </trans-unit>
       <trans-unit id="Pause" xml:space="preserve">
         <source>Pause</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Petabytes" xml:space="preserve">
+        <source>Petabytes</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please enter the password for:" xml:space="preserve">
@@ -854,9 +945,17 @@
         <target>Értékelés</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Run asynchronously" xml:space="preserve">
+        <source>Run asynchronously</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Save" xml:space="preserve">
         <source>Save</source>
         <target>Mentés</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Select some files and folders for Keka." xml:space="preserve">
+        <source>Select some files and folders for Keka.</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Settings" xml:space="preserve">
@@ -928,6 +1027,10 @@
         <target>Nagy Zétény</target>
         <note>The translator name, if any.</note>
       </trans-unit>
+      <trans-unit id="Terabytes" xml:space="preserve">
+        <source>Terabytes</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="The %@ of space available in the destination might not be enough for compressing the estimated %@." xml:space="preserve">
         <source>The %@ of space available in the destination might not be enough for compressing the estimated %@.</source>
         <target>Az elérhető %@ tárhely a célnál lehetséges, hogy nem lesz elég a becsült %@ tömörítéséhez.</target>
@@ -993,6 +1096,10 @@ You can give access to the rest of the files or the parent folder.</source>
         <target>Kibontandó</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="To prevent a timeout on large operation, enable this setting. The result will always be true if enabled." xml:space="preserve">
+        <source>To prevent a timeout on large operation, enable this setting. The result will always be true if enabled.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Total size" xml:space="preserve">
         <source>Total size</source>
         <target>Teljes méret</target>
@@ -1006,6 +1113,10 @@ You can give access to the rest of the files or the parent folder.</source>
       <trans-unit id="Type" xml:space="preserve">
         <source>Type</source>
         <target>Típus</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="URL Encoded" xml:space="preserve">
+        <source>URL Encoded</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Unable to apply the app icon" xml:space="preserve">
@@ -1057,6 +1168,10 @@ You can give access to the rest of the files or the parent folder.</source>
         <target>Kötet mérete</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Volume Unit" xml:space="preserve">
+        <source>Volume Unit</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Welcome" xml:space="preserve">
         <source>Welcome</source>
         <target>Üdv</target>
@@ -1072,14 +1187,26 @@ You can give access to the rest of the files or the parent folder.</source>
         <target>Hol</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="archive" xml:space="preserve">
+        <source>archive</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="by %@" xml:space="preserve">
         <source>by %@</source>
         <target>készítette: %@</target>
         <note>"by aone" part from "Made with love by aone".</note>
       </trans-unit>
+      <trans-unit id="compress" xml:space="preserve">
+        <source>compress</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="compressed" xml:space="preserve">
         <source>compressed</source>
         <target>tömörített</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="compression" xml:space="preserve">
+        <source>compression</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="compression failed" xml:space="preserve">
@@ -1092,9 +1219,17 @@ You can give access to the rest of the files or the parent folder.</source>
         <target>kész</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="extract" xml:space="preserve">
+        <source>extract</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="extracted" xml:space="preserve">
         <source>extracted</source>
         <target>kibontva</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="extraction" xml:space="preserve">
+        <source>extraction</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="extraction failed" xml:space="preserve">
@@ -1105,6 +1240,10 @@ You can give access to the rest of the files or the parent folder.</source>
       <trans-unit id="failed" xml:space="preserve">
         <source>failed</source>
         <target>nem sikerült</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="file" xml:space="preserve">
+        <source>file</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
