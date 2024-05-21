@@ -1,3 +1,6 @@
+/* Keka Folder */
+"%@ Folder" = "%@ Folder";
+
 /* No comment provided by engineer. */
 "%@ item" = "%@ item";
 
@@ -14,16 +17,7 @@
 "%@ of %@ items" = "%@ of %@ items";
 
 /* No comment provided by engineer. */
-"7Z" = "7Z";
-
-/* No comment provided by engineer. */
-"7z" = "7z";
-
-/* No comment provided by engineer. */
-"AAR" = "AAR";
-
-/* No comment provided by engineer. */
-"aar" = "aar";
+"%lld items" = "%lld items";
 
 /* No comment provided by engineer. */
 "About" = "About";
@@ -90,12 +84,6 @@
 
 /* No comment provided by engineer. */
 "Bytes" = "Bytes";
-
-/* No comment provided by engineer. */
-"bz" = "bz";
-
-/* No comment provided by engineer. */
-"BZIP2" = "BZIP2";
 
 /* No comment provided by engineer. */
 "Calculate" = "Calculate";
@@ -323,12 +311,6 @@
 "Give Access" = "Give Access";
 
 /* No comment provided by engineer. */
-"gz" = "gz";
-
-/* No comment provided by engineer. */
-"GZIP" = "GZIP";
-
-/* No comment provided by engineer. */
 "Hide Password by Default" = "Hide Password by Default";
 
 /* No comment provided by engineer. */
@@ -336,9 +318,6 @@
 
 /* No comment provided by engineer. */
 "Information" = "Information";
-
-/* No comment provided by engineer. */
-"keka" = "keka";
 
 /* No comment provided by engineer. */
 "Keka's Folder" = "Keka's Folder";
@@ -381,9 +360,6 @@
 
 /* No comment provided by engineer. */
 "No contents" = "No contents";
-
-/* No comment provided by engineer. */
-"No contents available" = "No contents available";
 
 /* No comment provided by engineer. */
 "No files to extract" = "No files to extract";
@@ -441,9 +417,6 @@
 
 /* No comment provided by engineer. */
 "Quick Look" = "Quick Look";
-
-/* No comment provided by engineer. */
-"rar" = "rar";
 
 /* No comment provided by engineer. */
 "Remember Last Used Options" = "Remember Last Used Options";
@@ -521,12 +494,6 @@
 "Store" = "Store";
 
 /* No comment provided by engineer. */
-"TAR" = "TAR";
-
-/* No comment provided by engineer. */
-"tar" = "tar";
-
-/* No comment provided by engineer. */
 "Terabytes" = "Terabytes";
 
 /* No comment provided by engineer. */
@@ -593,6 +560,9 @@
 "Unable to browse \"%@\"" = "Unable to browse \"%@\"";
 
 /* No comment provided by engineer. */
+"Unable to delete the file" = "Unable to delete the file";
+
+/* No comment provided by engineer. */
 "Unable to determine the available space." = "Unable to determine the available space.";
 
 /* No comment provided by engineer. */
@@ -630,16 +600,4 @@
 
 /* No comment provided by engineer. */
 "Where" = "Where";
-
-/* No comment provided by engineer. */
-"ZIP" = "ZIP";
-
-/* No comment provided by engineer. */
-"zip" = "zip";
-
-/* No comment provided by engineer. */
-"ZSTD" = "ZSTD";
-
-/* No comment provided by engineer. */
-"zstd" = "zstd";
 

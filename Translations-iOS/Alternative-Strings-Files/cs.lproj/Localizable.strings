@@ -1,3 +1,6 @@
+/* Keka Folder */
+"%@ Folder" = "%@ Folder"; // THIS IS NOT LOCALIZED
+
 /* No comment provided by engineer. */
 "%@ item" = "%@ položka";
 
@@ -14,16 +17,7 @@
 "%@ of %@ items" = "%@ z %@ položek";
 
 /* No comment provided by engineer. */
-"7Z" = "7Z"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"7z" = "7z"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"AAR" = "AAR"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"aar" = "aar"; // THIS IS NOT LOCALIZED
+"%lld items" = "%lld items"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "About" = "Co je";
@@ -90,12 +84,6 @@
 
 /* No comment provided by engineer. */
 "Bytes" = "Bytes"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"bz" = "bz"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"BZIP2" = "BZIP2"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Calculate" = "Spočítat";
@@ -323,12 +311,6 @@
 "Give Access" = "Udělit přístup";
 
 /* No comment provided by engineer. */
-"gz" = "gz"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"GZIP" = "GZIP"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
 "Hide Password by Default" = "Ve výchozím stavu skrýt heslo";
 
 /* No comment provided by engineer. */
@@ -336,9 +318,6 @@
 
 /* No comment provided by engineer. */
 "Information" = "Informace";
-
-/* No comment provided by engineer. */
-"keka" = "keka"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Keka's Folder" = "Složka Keka";
@@ -381,9 +360,6 @@
 
 /* No comment provided by engineer. */
 "No contents" = "Žádný obsah";
-
-/* No comment provided by engineer. */
-"No contents available" = "Není k dispozici žádný obsah";
 
 /* No comment provided by engineer. */
 "No files to extract" = "Žádné soubory k dekomprimaci";
@@ -441,9 +417,6 @@
 
 /* No comment provided by engineer. */
 "Quick Look" = "Quick Look";
-
-/* No comment provided by engineer. */
-"rar" = "rar"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Remember Last Used Options" = "Zapamatovat naposledy použité volby";
@@ -521,12 +494,6 @@
 "Store" = "Bez komprimace";
 
 /* No comment provided by engineer. */
-"TAR" = "TAR"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"tar" = "tar"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
 "Terabytes" = "Terabytes"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
@@ -593,6 +560,9 @@
 "Unable to browse \"%@\"" = "Nelze procházet „%@“";
 
 /* No comment provided by engineer. */
+"Unable to delete the file" = "Unable to delete the file"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Unable to determine the available space." = "Nelze zjistit volné místo.";
 
 /* No comment provided by engineer. */
@@ -630,16 +600,4 @@
 
 /* No comment provided by engineer. */
 "Where" = "Umístění";
-
-/* No comment provided by engineer. */
-"ZIP" = "ZIP"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"zip" = "zip"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"ZSTD" = "ZSTD"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"zstd" = "zstd"; // THIS IS NOT LOCALIZED
 

@@ -1,3 +1,6 @@
+/* Keka Folder */
+"%@ Folder" = "%@ Folder"; // THIS IS NOT LOCALIZED
+
 /* No comment provided by engineer. */
 "%@ item" = "%@ елемент";
 
@@ -14,16 +17,7 @@
 "%@ of %@ items" = "%@ от %@ елемента";
 
 /* No comment provided by engineer. */
-"7Z" = "7Z"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"7z" = "7z"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"AAR" = "AAR"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"aar" = "aar"; // THIS IS NOT LOCALIZED
+"%lld items" = "%lld items"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "About" = "Относно";
@@ -90,12 +84,6 @@
 
 /* No comment provided by engineer. */
 "Bytes" = "Bytes"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"bz" = "bz"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"BZIP2" = "BZIP2"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Calculate" = "Изчисляване";
@@ -323,12 +311,6 @@
 "Give Access" = "Give Access"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
-"gz" = "gz"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"GZIP" = "GZIP"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
 "Hide Password by Default" = "Скриване на паролата по подразбиране";
 
 /* No comment provided by engineer. */
@@ -336,9 +318,6 @@
 
 /* No comment provided by engineer. */
 "Information" = "Информация";
-
-/* No comment provided by engineer. */
-"keka" = "keka"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Keka's Folder" = "Папка на Keka";
@@ -381,9 +360,6 @@
 
 /* No comment provided by engineer. */
 "No contents" = "Без коментари";
-
-/* No comment provided by engineer. */
-"No contents available" = "Няма налично съдържание";
 
 /* No comment provided by engineer. */
 "No files to extract" = "Няма файлове за разархивиране";
@@ -441,9 +417,6 @@
 
 /* No comment provided by engineer. */
 "Quick Look" = "Бърз преглед";
-
-/* No comment provided by engineer. */
-"rar" = "rar"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Remember Last Used Options" = "Запомняне на последно използваните настройки";
@@ -521,12 +494,6 @@
 "Store" = "Само запазване";
 
 /* No comment provided by engineer. */
-"TAR" = "TAR"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"tar" = "tar"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
 "Terabytes" = "Terabytes"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
@@ -593,6 +560,9 @@
 "Unable to browse \"%@\"" = "Не може да се разгледа \"%@\"";
 
 /* No comment provided by engineer. */
+"Unable to delete the file" = "Unable to delete the file"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Unable to determine the available space." = "Не може да се определи наличното пространство.";
 
 /* No comment provided by engineer. */
@@ -630,16 +600,4 @@
 
 /* No comment provided by engineer. */
 "Where" = "Къде";
-
-/* No comment provided by engineer. */
-"ZIP" = "ZIP"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"zip" = "zip"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"ZSTD" = "ZSTD"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"zstd" = "zstd"; // THIS IS NOT LOCALIZED
 

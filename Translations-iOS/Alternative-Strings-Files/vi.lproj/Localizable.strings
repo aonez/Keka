@@ -1,3 +1,6 @@
+/* Keka Folder */
+"%@ Folder" = "%@ Folder"; // THIS IS NOT LOCALIZED
+
 /* No comment provided by engineer. */
 "%@ item" = "%@ đơn vị";
 
@@ -14,16 +17,7 @@
 "%@ of %@ items" = "%@ trên %@ đơn vị";
 
 /* No comment provided by engineer. */
-"7Z" = "7Z"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"7z" = "7z"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"AAR" = "AAR"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"aar" = "aar"; // THIS IS NOT LOCALIZED
+"%lld items" = "%lld items"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "About" = "Thông tin thêm";
@@ -90,12 +84,6 @@
 
 /* No comment provided by engineer. */
 "Bytes" = "Bytes"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"bz" = "bz"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"BZIP2" = "BZIP2"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Calculate" = "Tính toán";
@@ -323,12 +311,6 @@
 "Give Access" = "Cấp quyền truy cập";
 
 /* No comment provided by engineer. */
-"gz" = "gz"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"GZIP" = "GZIP"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
 "Hide Password by Default" = "Mặc định ẩn đi mật khẩu";
 
 /* No comment provided by engineer. */
@@ -336,9 +318,6 @@
 
 /* No comment provided by engineer. */
 "Information" = "Thông tin";
-
-/* No comment provided by engineer. */
-"keka" = "keka"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Keka's Folder" = "Thư mục của Keka";
@@ -381,9 +360,6 @@
 
 /* No comment provided by engineer. */
 "No contents" = "Không có nội dung";
-
-/* No comment provided by engineer. */
-"No contents available" = "Không có nội dung khả dụng";
 
 /* No comment provided by engineer. */
 "No files to extract" = "Không có tập tin để giải nén";
@@ -441,9 +417,6 @@
 
 /* No comment provided by engineer. */
 "Quick Look" = "Xem nhanh";
-
-/* No comment provided by engineer. */
-"rar" = "rar"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Remember Last Used Options" = "Ghi nhớ tuỳ chọn đã dùng trước đó";
@@ -521,12 +494,6 @@
 "Store" = "Lưu trữ";
 
 /* No comment provided by engineer. */
-"TAR" = "TAR"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"tar" = "tar"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
 "Terabytes" = "Terabytes"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
@@ -593,6 +560,9 @@
 "Unable to browse \"%@\"" = "Không thể duyệt đến \"%@\"";
 
 /* No comment provided by engineer. */
+"Unable to delete the file" = "Unable to delete the file"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Unable to determine the available space." = "Không thể xác định dung lượng khoảng trống khả dụng";
 
 /* No comment provided by engineer. */
@@ -630,16 +600,4 @@
 
 /* No comment provided by engineer. */
 "Where" = "Ở đâu";
-
-/* No comment provided by engineer. */
-"ZIP" = "ZIP"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"zip" = "zip"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"ZSTD" = "ZSTD"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"zstd" = "zstd"; // THIS IS NOT LOCALIZED
 

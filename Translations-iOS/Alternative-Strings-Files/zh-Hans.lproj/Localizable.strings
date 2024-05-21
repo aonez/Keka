@@ -1,3 +1,6 @@
+/* Keka Folder */
+"%@ Folder" = "%@ Folder"; // THIS IS NOT LOCALIZED
+
 /* No comment provided by engineer. */
 "%@ item" = "%@ 项";
 
@@ -14,16 +17,7 @@
 "%@ of %@ items" = "%@ 的 %@ 项";
 
 /* No comment provided by engineer. */
-"7Z" = "7Z"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"7z" = "7z"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"AAR" = "AAR"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"aar" = "aar"; // THIS IS NOT LOCALIZED
+"%lld items" = "%lld items"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "About" = "关于";
@@ -90,12 +84,6 @@
 
 /* No comment provided by engineer. */
 "Bytes" = "Bytes"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"bz" = "bz"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"BZIP2" = "BZIP2"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Calculate" = "计算";
@@ -323,12 +311,6 @@
 "Give Access" = "获取访问";
 
 /* No comment provided by engineer. */
-"gz" = "gz"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"GZIP" = "GZIP"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
 "Hide Password by Default" = "默认隐藏密码";
 
 /* No comment provided by engineer. */
@@ -336,9 +318,6 @@
 
 /* No comment provided by engineer. */
 "Information" = "信息";
-
-/* No comment provided by engineer. */
-"keka" = "keka"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Keka's Folder" = "Keka 的文件夹";
@@ -381,9 +360,6 @@
 
 /* No comment provided by engineer. */
 "No contents" = "无内容";
-
-/* No comment provided by engineer. */
-"No contents available" = "无可用内容";
 
 /* No comment provided by engineer. */
 "No files to extract" = "无可提取文件";
@@ -441,9 +417,6 @@
 
 /* No comment provided by engineer. */
 "Quick Look" = "快速查看";
-
-/* No comment provided by engineer. */
-"rar" = "rar"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Remember Last Used Options" = "记住上次使用的选项";
@@ -521,12 +494,6 @@
 "Store" = "存储";
 
 /* No comment provided by engineer. */
-"TAR" = "TAR"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"tar" = "tar"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
 "Terabytes" = "Terabytes"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
@@ -593,6 +560,9 @@
 "Unable to browse \"%@\"" = "无法浏览 \"%@\"";
 
 /* No comment provided by engineer. */
+"Unable to delete the file" = "Unable to delete the file"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Unable to determine the available space." = "无法确定可用空间。";
 
 /* No comment provided by engineer. */
@@ -630,16 +600,4 @@
 
 /* No comment provided by engineer. */
 "Where" = "在哪里";
-
-/* No comment provided by engineer. */
-"ZIP" = "ZIP"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"zip" = "zip"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"ZSTD" = "ZSTD"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"zstd" = "zstd"; // THIS IS NOT LOCALIZED
 
