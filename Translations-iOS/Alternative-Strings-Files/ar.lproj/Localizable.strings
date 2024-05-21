@@ -1,3 +1,6 @@
+/* Keka Folder */
+"%@ Folder" = "%@ Folder"; // THIS IS NOT LOCALIZED
+
 /* No comment provided by engineer. */
 "%@ item" = "%@ عنصر";
 
@@ -14,6 +17,7 @@
 "%@ of %@ items" = "%@ of %@ عناصر";
 
 /* No comment provided by engineer. */
+"%lld items" = "%lld items"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "About" = "حول";
@@ -554,6 +558,9 @@
 
 /* No comment provided by engineer. */
 "Unable to browse \"%@\"" = "لايمكن تصفح \"%@\"";
+
+/* No comment provided by engineer. */
+"Unable to delete the file" = "Unable to delete the file"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Unable to determine the available space." = "غير قادر على تحديد المساحة المتوفرة.";

@@ -305,9 +305,9 @@
         <source>"%@"</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="%@" xml:space="preserve">
-        <source>%@</source>
-        <note>No comment provided by engineer.</note>
+      <trans-unit id="%@ Folder" xml:space="preserve">
+        <source>%@ Folder</source>
+        <note>Keka Folder</note>
       </trans-unit>
       <trans-unit id="%@ item" xml:space="preserve">
         <source>%@ item</source>
@@ -331,6 +331,10 @@
       <trans-unit id="%@ of %@ items" xml:space="preserve">
         <source>%@ of %@ items</source>
         <target>%@ / %@ kohteista</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%lld items" xml:space="preserve">
+        <source>%lld items</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="ARCHIVE_DEFAULT_NAME" xml:space="preserve">
@@ -809,11 +813,6 @@
         <target>Ei sisältöä</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="No contents available" xml:space="preserve">
-        <source>No contents available</source>
-        <target>Sisältöä ei ole saatavilla</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="No files to extract" xml:space="preserve">
         <source>No files to extract</source>
         <target>Ei tiedostoja purettavaksi</target>
@@ -1125,6 +1124,10 @@ You can give access to the rest of the files or the parent folder.</source>
       <trans-unit id="Unable to browse &quot;%@&quot;" xml:space="preserve">
         <source>Unable to browse "%@"</source>
         <target>Kohdetta "%@" ei pystytty selaamaan</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unable to delete the file" xml:space="preserve">
+        <source>Unable to delete the file</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Unable to determine the available space." xml:space="preserve">

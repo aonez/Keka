@@ -1,3 +1,6 @@
+/* Keka Folder */
+"%@ Folder" = "%@ Folder";
+
 /* No comment provided by engineer. */
 "%@ item" = "%@ item";
 
@@ -14,6 +17,7 @@
 "%@ of %@ items" = "%@ of %@ items";
 
 /* No comment provided by engineer. */
+"%lld items" = "%lld items";
 
 /* No comment provided by engineer. */
 "About" = "About";
@@ -554,6 +558,9 @@
 
 /* No comment provided by engineer. */
 "Unable to browse \"%@\"" = "Unable to browse \"%@\"";
+
+/* No comment provided by engineer. */
+"Unable to delete the file" = "Unable to delete the file";
 
 /* No comment provided by engineer. */
 "Unable to determine the available space." = "Unable to determine the available space.";

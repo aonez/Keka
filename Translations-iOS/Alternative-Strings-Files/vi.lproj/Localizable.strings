@@ -1,3 +1,6 @@
+/* Keka Folder */
+"%@ Folder" = "%@ Folder"; // THIS IS NOT LOCALIZED
+
 /* No comment provided by engineer. */
 "%@ item" = "%@ đơn vị";
 
@@ -14,6 +17,7 @@
 "%@ of %@ items" = "%@ trên %@ đơn vị";
 
 /* No comment provided by engineer. */
+"%lld items" = "%lld items"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "About" = "Thông tin thêm";
@@ -554,6 +558,9 @@
 
 /* No comment provided by engineer. */
 "Unable to browse \"%@\"" = "Không thể duyệt đến \"%@\"";
+
+/* No comment provided by engineer. */
+"Unable to delete the file" = "Unable to delete the file"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Unable to determine the available space." = "Không thể xác định dung lượng khoảng trống khả dụng";

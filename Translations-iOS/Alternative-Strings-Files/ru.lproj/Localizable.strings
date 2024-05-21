@@ -1,3 +1,6 @@
+/* Keka Folder */
+"%@ Folder" = "%@ Folder"; // THIS IS NOT LOCALIZED
+
 /* No comment provided by engineer. */
 "%@ item" = "%@ элемент";
 
@@ -14,6 +17,7 @@
 "%@ of %@ items" = "%@ из %@ элементов";
 
 /* No comment provided by engineer. */
+"%lld items" = "%lld items"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "About" = "О программе";
@@ -554,6 +558,9 @@
 
 /* No comment provided by engineer. */
 "Unable to browse \"%@\"" = "Не удалось просмотреть \"%@\"";
+
+/* No comment provided by engineer. */
+"Unable to delete the file" = "Unable to delete the file"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Unable to determine the available space." = "Не удалось определить доступное место.";
