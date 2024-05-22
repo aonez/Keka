@@ -1,5 +1,5 @@
 /* Keka Folder */
-"%@ Folder" = "%@ Folder"; // THIS IS NOT LOCALIZED
+"%@ Folder" = "%@ složka";
 
 /* No comment provided by engineer. */
 "%@ item" = "%@ položka";
@@ -8,7 +8,7 @@
 "%@ items" = "%@ položek";
 
 /* _OPERATION_ of "_FILENAME_" failed */
-"%@ of \"%@\" failed" = "%@ of \"%@\" failed"; // THIS IS NOT LOCALIZED
+"%@ of \"%@\" failed" = "%@ z „%@“ selhalo";
 
 /* No comment provided by engineer. */
 "%@ of %@ item" = "%@ z %@ položky";
@@ -17,7 +17,7 @@
 "%@ of %@ items" = "%@ z %@ položek";
 
 /* No comment provided by engineer. */
-"%lld items" = "%lld items"; // THIS IS NOT LOCALIZED
+"%lld items" = "%lld položek";
 
 /* No comment provided by engineer. */
 "About" = "Co je";
@@ -56,7 +56,7 @@
 "Allocated size" = "Přidělená velikost";
 
 /* No comment provided by engineer. */
-"archive" = "archive"; // THIS IS NOT LOCALIZED
+"archive" = "archiv";
 
 /* No comment provided by engineer. */
 "Archive items separately" = "Komprimovat každou položku samostatně";
@@ -83,7 +83,7 @@
 "by %@" = "od %@";
 
 /* No comment provided by engineer. */
-"Bytes" = "Bytes"; // THIS IS NOT LOCALIZED
+"Bytes" = "Bajtů";
 
 /* No comment provided by engineer. */
 "Calculate" = "Spočítat";
@@ -92,7 +92,7 @@
 "Cancel" = "Zrušit";
 
 /* No comment provided by engineer. */
-"Cancelled" = "Cancelled"; // THIS IS NOT LOCALIZED
+"Cancelled" = "Zrušeno";
 
 /* No comment provided by engineer. */
 "Choose" = "Vybrat";
@@ -113,16 +113,16 @@
 "Compress" = "Komprimace";
 
 /* No comment provided by engineer. */
-"compress" = "compress"; // THIS IS NOT LOCALIZED
+"compress" = "komprimace";
 
 /* No comment provided by engineer. */
 "Compress all the items in the compression list" = "Komprimovat všechny položky ze seznamu";
 
 /* No comment provided by engineer. */
-"Compress Files with Keka" = "Compress Files with Keka"; // THIS IS NOT LOCALIZED
+"Compress Files with Keka" = "Komprimovat pomocí Keka";
 
 /* No comment provided by engineer. */
-"Compress some files with Keka." = "Compress some files with Keka."; // THIS IS NOT LOCALIZED
+"Compress some files with Keka." = "Komprimovat několik souborů pomocí Keka.";
 
 /* No comment provided by engineer. */
 "compressed" = "komprimováno";
@@ -134,7 +134,7 @@
 "Compression" = "Komprimace";
 
 /* No comment provided by engineer. */
-"compression" = "compression"; // THIS IS NOT LOCALIZED
+"compression" = "komprimace";
 
 /* No comment provided by engineer. */
 "compression failed" = "komprimace selhala";
@@ -203,7 +203,7 @@
 "Document" = "Dokument";
 
 /* No comment provided by engineer. */
-"Documents" = "Documents"; // THIS IS NOT LOCALIZED
+"Documents" = "Dokumenty";
 
 /* No comment provided by engineer. */
 "Done" = "Hotovo";
@@ -218,10 +218,10 @@
 "Edit" = "Úpravy";
 
 /* No comment provided by engineer. */
-"Encrypt Filenames" = "Zašifrovat jména souborů";
+"Encrypt Filenames" = "Šifrovat jména souborů";
 
 /* No comment provided by engineer. */
-"Encrypt Filenames if Possible" = "Pokud je to možné zašifrovat jména souborů";
+"Encrypt Filenames if Possible" = "Pokud je to možné šifrovat jména souborů";
 
 /* No comment provided by engineer. */
 "Enter the password for the file\n\"%@\"" = "Zadejte heslo k souboru\n„%@“";
@@ -233,13 +233,13 @@
 "Extract" = "Dekomprimovat";
 
 /* No comment provided by engineer. */
-"extract" = "extract"; // THIS IS NOT LOCALIZED
+"extract" = "dekomprimovat";
 
 /* No comment provided by engineer. */
-"Extract Files with Keka" = "Extract Files with Keka"; // THIS IS NOT LOCALIZED
+"Extract Files with Keka" = "Dekomprimovat soubory pomocí Keka";
 
 /* No comment provided by engineer. */
-"Extract some files with Keka." = "Extract some files with Keka."; // THIS IS NOT LOCALIZED
+"Extract some files with Keka." = "Dekomprimovat několik souborů pomocí Keka.";
 
 /* No comment provided by engineer. */
 "Extract the file" = "Dekomprimovat soubor";
@@ -251,7 +251,7 @@
 "Extraction" = "Dekomprimace";
 
 /* No comment provided by engineer. */
-"extraction" = "extraction"; // THIS IS NOT LOCALIZED
+"extraction" = "dekomprimace";
 
 /* No comment provided by engineer. */
 "extraction failed" = "dekomprimace selhala";
@@ -278,22 +278,22 @@
 "Feedback" = "Odezva";
 
 /* No comment provided by engineer. */
-"file" = "file"; // THIS IS NOT LOCALIZED
+"file" = "soubor";
 
 /* No comment provided by engineer. */
-"File for Keka" = "File for Keka"; // THIS IS NOT LOCALIZED
+"File for Keka" = "Soubor pro aplikaci Keka";
 
 /* No comment provided by engineer. */
 "File not informed properly, try again." = "Soubor nebyl správně určen, zkuste to znovu.";
 
 /* No comment provided by engineer. */
-"Files" = "Files"; // THIS IS NOT LOCALIZED
+"Files" = "Soubory";
 
 /* No comment provided by engineer. */
-"Files and Folders" = "Files and Folders"; // THIS IS NOT LOCALIZED
+"Files and Folders" = "Soubory a složky";
 
 /* No comment provided by engineer. */
-"Folder drop is only supported on iOS 16 or newer" = "Vložení složky je podporováno pouze na iOS 16 nebo vyšším";
+"Folder drop is only supported on iOS 16 or newer" = "Vložení složky je podporováno pouze na systému iOS 16 nebo vyšším";
 
 /* No comment provided by engineer. */
 "Format" = "Formát";
@@ -305,7 +305,7 @@
 "Get Info" = "Informace";
 
 /* No comment provided by engineer. */
-"Gigabyte" = "Gigabyte"; // THIS IS NOT LOCALIZED
+"Gigabyte" = "Gigabajtů";
 
 /* No comment provided by engineer. */
 "Give Access" = "Udělit přístup";
@@ -326,7 +326,7 @@
 "Keka's icon" = "Ikona Keka";
 
 /* No comment provided by engineer. */
-"Kilobytes" = "Kilobytes"; // THIS IS NOT LOCALIZED
+"Kilobytes" = "Kilobajtů";
 
 /* No comment provided by engineer. */
 "Kind" = "Druh";
@@ -335,7 +335,7 @@
 "Last opened" = "Naposledy otevřeno";
 
 /* No comment provided by engineer. */
-"Level" = "Level"; // THIS IS NOT LOCALIZED
+"Level" = "Úroveň";
 
 /* No comment provided by engineer. */
 "Loading" = "Načítá se";
@@ -344,7 +344,7 @@
 "Made with" = "Vytvořeno pomocí";
 
 /* No comment provided by engineer. */
-"Megabytes" = "Megabytes"; // THIS IS NOT LOCALIZED
+"Megabytes" = "Megabajtů";
 
 /* No comment provided by engineer. */
 "Modified" = "Změněno";
@@ -356,10 +356,13 @@
 "New Compression" = "Nová komprimace";
 
 /* No comment provided by engineer. */
-"No archive selected" = "No archive selected"; // THIS IS NOT LOCALIZED
+"No archive selected" = "Žádný archiv nebyl vybrán";
 
 /* No comment provided by engineer. */
 "No contents" = "Žádný obsah";
+
+/* No comment provided by engineer. */
+"No contents available" = "Není k dispozici žádný obsah";
 
 /* No comment provided by engineer. */
 "No files to extract" = "Žádné soubory k dekomprimaci";
@@ -380,7 +383,7 @@
 "Open" = "Otevřít";
 
 /* No comment provided by engineer. */
-"Open Keka" = "Open Keka"; // THIS IS NOT LOCALIZED
+"Open Keka" = "Otevřít pomocí Keka";
 
 /* No comment provided by engineer. */
 "Open..." = "Otevřít…";
@@ -392,10 +395,10 @@
 "Password" = "Heslo";
 
 /* No comment provided by engineer. */
-"Password for \"%@\"" = "Password for \"%@\""; // THIS IS NOT LOCALIZED
+"Password for \"%@\"" = "Heslo pro „%@“";
 
 /* No comment provided by engineer. */
-"Password needed" = "Je třeba heslo";
+"Password needed" = "Je potřeba heslo";
 
 /* No comment provided by engineer. */
 "Password Protected" = "Chráněno heslem";
@@ -404,7 +407,7 @@
 "Pause" = "Přerušení";
 
 /* No comment provided by engineer. */
-"Petabytes" = "Petabytes"; // THIS IS NOT LOCALIZED
+"Petabytes" = "Petabajtů";
 
 /* No comment provided by engineer. */
 "Please enter the password for:" = "Zadejte prosím heslo:";
@@ -446,13 +449,13 @@
 "Review" = "Posouzení";
 
 /* No comment provided by engineer. */
-"Run asynchronously" = "Run asynchronously"; // THIS IS NOT LOCALIZED
+"Run asynchronously" = "Spustit asynchronně";
 
 /* No comment provided by engineer. */
 "Save" = "Uložit";
 
 /* No comment provided by engineer. */
-"Select some files and folders for Keka." = "Select some files and folders for Keka."; // THIS IS NOT LOCALIZED
+"Select some files and folders for Keka." = "Vybrat několik souborů a složek pro Keka.";
 
 /* No comment provided by engineer. */
 "Settings" = "Nastavení";
@@ -476,7 +479,7 @@
 "Show or hide additional advanced settings" = "Zobrazit nebo skrýt další volby";
 
 /* No comment provided by engineer. */
-"Show or hide additional information about the selected item" = "obrazit nebo skrýt další informace o vybraných položkách";
+"Show or hide additional information about the selected item" = "Zobrazit nebo skrýt další informace o vybraných položkách";
 
 /* No comment provided by engineer. */
 "Size" = "Velikost";
@@ -494,7 +497,7 @@
 "Store" = "Bez komprimace";
 
 /* No comment provided by engineer. */
-"Terabytes" = "Terabytes"; // THIS IS NOT LOCALIZED
+"Terabytes" = "Terabajtů";
 
 /* No comment provided by engineer. */
 "The %@ of space available in the destination might not be enough for compressing the estimated %@." = "Dostupné místo %@ na cílovém úložišti možná nebude stačit pro dekomprimaci %@.";
@@ -536,7 +539,7 @@
 "To extract" = "Dekomprimovat";
 
 /* No comment provided by engineer. */
-"To prevent a timeout on large operation, enable this setting. The result will always be true if enabled." = "To prevent a timeout on large operation, enable this setting. The result will always be true if enabled."; // THIS IS NOT LOCALIZED
+"To prevent a timeout on large operation, enable this setting. The result will always be true if enabled." = "Zapněte tuto volbu, abyste předešli vypršení časového limitu při déle trvající operaci.";
 
 /* No comment provided by engineer. */
 "Total size" = "Celková velikost";
@@ -545,10 +548,10 @@
 "Translated by %@" = "Přeložil %@";
 
 /* The translator link, if any. Can be a mail address or a website. */
-"TRANSLATOR_LINK" = "TRANSLATOR_LINK";
+"TRANSLATOR_LINK" = "https://github.com/ferben";
 
 /* The translator name, if any. */
-"TRANSLATOR_NAME" = "TRANSLATOR_NAME";
+"TRANSLATOR_NAME" = "@ferben";
 
 /* No comment provided by engineer. */
 "Type" = "Typ";
@@ -560,7 +563,7 @@
 "Unable to browse \"%@\"" = "Nelze procházet „%@“";
 
 /* No comment provided by engineer. */
-"Unable to delete the file" = "Unable to delete the file"; // THIS IS NOT LOCALIZED
+"Unable to delete the file" = "Nelze smazat soubor";
 
 /* No comment provided by engineer. */
 "Unable to determine the available space." = "Nelze zjistit volné místo.";
@@ -569,7 +572,7 @@
 "Unable to get encoding data" = "Nelze zjistit kódování";
 
 /* No comment provided by engineer. */
-"URL Encoded" = "URL Encoded"; // THIS IS NOT LOCALIZED
+"URL Encoded" = "Kódované URL";
 
 /* No comment provided by engineer. */
 "Use AES-256 Encryption" = "Použít šifrování AES-256";
@@ -590,7 +593,7 @@
 "Volume Size" = "Velikost svazku";
 
 /* No comment provided by engineer. */
-"Volume Unit" = "Volume Unit"; // THIS IS NOT LOCALIZED
+"Volume Unit" = "Jednotka velikosti";
 
 /* No comment provided by engineer. */
 "Welcome" = "Vítejte";
