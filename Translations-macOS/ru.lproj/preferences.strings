@@ -123,7 +123,7 @@
 "3cf-gN-q24.title" = "Использовать пользовательский счетчик задач в Dock";
 
 /* Class = "NSButtonCell"; title = "Show icon in primary item"; ObjectID = "47Y-rt-2fG"; */
-"47Y-rt-2fG.title" = "Показывать иконку в начале пункта";
+"47Y-rt-2fG.title" = "Показывать значок в начале пункта";
 
 /* Class = "NSTextFieldCell"; title = "You can also customize the access below:"; ObjectID = "5B7-Sc-wp0"; */
 "5B7-Sc-wp0.title" = "Вы также можете настроить права доступа ниже:";
@@ -138,7 +138,7 @@
 "6bh-6N-5PP.title" = "Область для действий в подменю";
 
 /* Class = "NSMenuItem"; title = "Always"; ObjectID = "8AZ-Vv-Lv1"; */
-"8AZ-Vv-Lv1.title" = "Always";
+"8AZ-Vv-Lv1.title" = "Всегда";
 
 /* Class = "NSTextFieldCell"; title = "You can use these placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n%pb% will be replaced with the clipboard string\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
 "8JN-Ub-qkc.title" = "Вы можете использовать переменные-заполнители:\n\n%n будет заменено именем файла\n%e будет заменено расширением файла\n%p будет заменено родительской папкой\n%c будет заменено числом файлов\n%d будет заменено текущей датой\n%t будет заменено текущим временем\n%s будет заменено общим именем\n%i% будет заменено именем первого элемента\n%ia% будет заменено именем первого по порядку элемента\n%pb% будет заменено текстом из буфера обмена\n\nЗамены в некоторых случаях будут пустыми.";
@@ -192,7 +192,7 @@
 "Hx2-S1-j7m.title" = "Эти настройки применимы только если приложение Keka закрыто";
 
 /* Class = "NSMenuItem"; title = "Never"; ObjectID = "I93-7A-iSn"; */
-"I93-7A-iSn.title" = "Never";
+"I93-7A-iSn.title" = "Никогда";
 
 /* Class = "NSButtonCell"; title = "Enable full Mac access (Recommended)"; ObjectID = "IHj-ac-103"; */
 "IHj-ac-103.title" = "Дать доступ ко всему Mac (рекомендуется)";
@@ -243,7 +243,7 @@
 "Wd0-yz-M1h.title" = "Удалить неверный пароль при извлечении структуры заголовка";
 
 /* Class = "NSMenuItem"; title = "Automatic"; ObjectID = "XOB-JO-UQT"; */
-"XOB-JO-UQT.title" = "Автоматическое";
+"XOB-JO-UQT.title" = "Автовыбор нужного действия";
 
 /* Class = "NSMenuItem"; title = "Highest"; ObjectID = "Xl7-AN-Kgw"; */
 "Xl7-AN-Kgw.title" = "Самый высокий";
@@ -252,7 +252,7 @@
 "ZOx-vr-5o7.title" = "Дать доступ ко всему Mac, чтобы Keka могла работать с любыми файлами на этом Mac.";
 
 /* Class = "NSButtonCell"; title = "Create self-extracting archives for Windows if possible"; ObjectID = "Zfm-hU-OMZ"; */
-"Zfm-hU-OMZ.title" = "Create self-extracting archives for Windows if possible";
+"Zfm-hU-OMZ.title" = "Создавать самораспаковывающиеся архивы для Windows, если возможно";
 
 /* Class = "NSMenuItem"; title = "High"; ObjectID = "ZiK-jD-TLq"; */
 "ZiK-jD-TLq.title" = "Высокий";
@@ -285,7 +285,7 @@
 "dhi-qv-weg.title" = "Сжатие нескольких файлов:";
 
 /* Class = "NSMenuItem"; title = "Only if configuration windows are open"; ObjectID = "dmz-xh-p9a"; */
-"dmz-xh-p9a.title" = "Only if configuration windows are open";
+"dmz-xh-p9a.title" = "Только если открыто окно конфигурации (напр., выбор кодировки при распаковке)";
 
 /* Class = "NSButtonCell"; title = "Set folder's modification date to extraction date"; ObjectID = "eBj-1b-wBg"; */
 "eBj-1b-wBg.title" = "Изменить дату модификации папки на дату извлечения";
@@ -327,10 +327,10 @@
 "rP2-XR-ZQt.title" = "Показывать действия Keka в контекстном меню Finder";
 
 /* Class = "NSTextFieldCell"; title = "Show an icon in the Dock:"; ObjectID = "rra-p2-67m"; */
-"rra-p2-67m.title" = "Show an icon in the Dock:";
+"rra-p2-67m.title" = "Показывать значок приложения в Dock:";
 
 /* Class = "NSButtonCell"; title = "Show icons in actions"; ObjectID = "s9u-2a-b8X"; */
-"s9u-2a-b8X.title" = "Показывать иконки в действиях";
+"s9u-2a-b8X.title" = "Показывать значки в действиях";
 
 /* Class = "NSButtonCell"; title = "Enable external volumes access"; ObjectID = "sgV-AD-k4Q"; */
 "sgV-AD-k4Q.title" = "Дать доступ к внешним хранилищам";
@@ -339,7 +339,7 @@
 "sjA-7B-5U6.title" = "Максимум одновременных сжатий:";
 
 /* Class = "NSMenuItem"; title = "Never, when possible"; ObjectID = "tEH-O0-NxO"; */
-"tEH-O0-NxO.title" = "Никогда, когда это возможно";
+"tEH-O0-NxO.title" = "Никогда, если возможно";
 
 /* Class = "NSButtonCell"; title = "Use the default password on new compressions"; ObjectID = "u2R-2w-aOA"; */
 "u2R-2w-aOA.title" = "Использовать пароль по умолчанию при новых сжатиях";
