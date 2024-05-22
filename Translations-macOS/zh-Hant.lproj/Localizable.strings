@@ -70,7 +70,7 @@
 "Extraction of \"%@\" failed" = "解壓縮「%@」失敗";
 "Extraction of \"%@\" completed" = "「%@」解壓縮完成";
 "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "解壓縮完成，但未套用 quarantine 屬性。\n請重新安裝 Keka 以解決本問題";
-"Keka - %i on queue" = "Keka - %i 個正在佇列";
+"Keka - %i on queue" = "Keka - %i 個正在排隊";
 "Keka can't create this %@ image" = "Keka 無法建立此 %@ 映像檔";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "建立 %@ 映像檔只能有一個檔案夾。請試試將所有檔案放在一個檔案夾中，並將其拖曳到 Keka 以建立 %@ 映像檔。";
 "Keka can't create this @% tarball" = "Keka 無法建立此 @% 檔案的 Tarball。";
