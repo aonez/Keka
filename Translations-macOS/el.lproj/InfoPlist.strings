@@ -16,6 +16,8 @@
 "LZOP Tarball Archive" = "Αρχείο LZOP Tarball";
 "LZIP Archive" = "Αρχείο LZIP";
 "LZIP Tarball Archive" = "Αρχείο LZIP Tarball";
+"LZ4 Archive" = "LZ4 Archive";
+"LZ4 Tarball Archive" = "LZ4 Tarball Archive";
 "ZIP Archive" = "Αρχείο ZIP";
 "ZIPX Archive" = "Αρχείο ZIPX";
 "XZ Archive" = "Αρχείο XZ";
@@ -66,4 +68,8 @@
 "Squashfs Filesystem Archive" = "Squashfs Filesystem Archive";
 "WordPress All-in-One Backup" = "Εφεδρικό αντίγραφο WordPress All-in-One";
 "InstallShield 3 Archive" = "Aρχείο InstallShield 3";
+"Snappy Archive" = "Snappy Archive";
+"Snappy Tarball Archive" = "Snappy Tarball Archive";
+"Apple iWork Archive" = "Apple iWork Archive";
+"Delta Controller Skin" = "Delta Controller Skin";
 "Keka Extraction Package" = "Πακέτο Αποσυμπίεσης του Keka";

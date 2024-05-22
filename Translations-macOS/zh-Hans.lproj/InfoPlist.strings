@@ -16,6 +16,8 @@
 "LZOP Tarball Archive" = "LZOP 压缩 TAR 归档";
 "LZIP Archive" = "LZIP 归档";
 "LZIP Tarball Archive" = "LZIP 压缩 TAR 归档";
+"LZ4 Archive" = "LZ4 Archive";
+"LZ4 Tarball Archive" = "LZ4 Tarball Archive";
 "ZIP Archive" = "ZIP 归档";
 "ZIPX Archive" = "ZIPX 归档";
 "XZ Archive" = "XZ 归档";
@@ -66,4 +68,8 @@
 "Squashfs Filesystem Archive" = "Squashfs 文件系统归档";
 "WordPress All-in-One Backup" = "WordPress 一站式备份";
 "InstallShield 3 Archive" = "InstallShield 3 归档";
+"Snappy Archive" = "Snappy Archive";
+"Snappy Tarball Archive" = "Snappy Tarball Archive";
+"Apple iWork Archive" = "Apple iWork Archive";
+"Delta Controller Skin" = "Delta Controller Skin";
 "Keka Extraction Package" = "Keka 提取包";

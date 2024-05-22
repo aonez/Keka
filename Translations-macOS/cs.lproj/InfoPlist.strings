@@ -16,6 +16,8 @@
 "LZOP Tarball Archive" = "LZOP Tarball";
 "LZIP Archive" = "Archiv LZIP";
 "LZIP Tarball Archive" = "LZIP Tarball";
+"LZ4 Archive" = "LZ4 Archive";
+"LZ4 Tarball Archive" = "LZ4 Tarball Archive";
 "ZIP Archive" = "Archiv ZIP";
 "ZIPX Archive" = "Archiv ZIPX";
 "XZ Archive" = "Archiv XZ";
@@ -66,4 +68,8 @@
 "Squashfs Filesystem Archive" = "Archiv Squashfs Filesystem";
 "WordPress All-in-One Backup" = "Záloha WordPress All-in-One";
 "InstallShield 3 Archive" = "Archiv InstallShield 3";
+"Snappy Archive" = "Snappy Archive";
+"Snappy Tarball Archive" = "Snappy Tarball Archive";
+"Apple iWork Archive" = "Apple iWork Archive";
+"Delta Controller Skin" = "Delta Controller Skin";
 "Keka Extraction Package" = "Balíček Keka";

@@ -16,6 +16,8 @@
 "LZOP Tarball Archive" = "Arquivo Comprimido TAR LZOP";
 "LZIP Archive" = "Arquivo Comprimido LZIP";
 "LZIP Tarball Archive" = "Arquivo Comprimido TAR LZIP";
+"LZ4 Archive" = "LZ4 Archive";
+"LZ4 Tarball Archive" = "LZ4 Tarball Archive";
 "ZIP Archive" = "Arquivo Comprimido ZIP";
 "ZIPX Archive" = "Arquivo Comprimido ZIPX";
 "XZ Archive" = "Arquivo Comprimido XZ";
@@ -66,4 +68,8 @@
 "Squashfs Filesystem Archive" = "Arquivo Comprimido do Sistema de Arquivos Squashfs";
 "WordPress All-in-One Backup" = "Backup All-in-One do WordPress";
 "InstallShield 3 Archive" = "Arquivo Comprimido InstallShield 3";
+"Snappy Archive" = "Snappy Archive";
+"Snappy Tarball Archive" = "Snappy Tarball Archive";
+"Apple iWork Archive" = "Apple iWork Archive";
+"Delta Controller Skin" = "Delta Controller Skin";
 "Keka Extraction Package" = "Pacote de Extração do Keka";

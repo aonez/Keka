@@ -16,6 +16,8 @@
 "LZOP Tarball Archive" = "LZOP Tarball Arşivi";
 "LZIP Archive" = "LZIP Arşivi";
 "LZIP Tarball Archive" = "LZIP Tarball Arşivi";
+"LZ4 Archive" = "LZ4 Archive";
+"LZ4 Tarball Archive" = "LZ4 Tarball Archive";
 "ZIP Archive" = "ZIP Arşivi";
 "ZIPX Archive" = "ZIPX Arşivi";
 "XZ Archive" = "XZ Arşivi";
@@ -66,4 +68,8 @@
 "Squashfs Filesystem Archive" = "Squashfs Dosya Sistemi Arşivi";
 "WordPress All-in-One Backup" = "WordPress Hepsi-Bir-Arada Yedekleme";
 "InstallShield 3 Archive" = "InstallShield 3 Arşivi";
+"Snappy Archive" = "Snappy Archive";
+"Snappy Tarball Archive" = "Snappy Tarball Archive";
+"Apple iWork Archive" = "Apple iWork Archive";
+"Delta Controller Skin" = "Delta Controller Skin";
 "Keka Extraction Package" = "Keka Çıkarma Paketi";

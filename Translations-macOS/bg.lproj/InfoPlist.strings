@@ -16,6 +16,8 @@
 "LZOP Tarball Archive" = "LZOP Tarball Архив";
 "LZIP Archive" = "LZIP Архив";
 "LZIP Tarball Archive" = "LZIP Tarball Архив";
+"LZ4 Archive" = "LZ4 Archive";
+"LZ4 Tarball Archive" = "LZ4 Tarball Archive";
 "ZIP Archive" = "ZIP архив";
 "ZIPX Archive" = "ZIPX архив";
 "XZ Archive" = "XZ архив";
@@ -66,4 +68,8 @@
 "Squashfs Filesystem Archive" = "Squashfs Filesystem Archive";
 "WordPress All-in-One Backup" = "WordPress Всичко-в-едно Бекъп";
 "InstallShield 3 Archive" = "InstallShield 3 архив";
+"Snappy Archive" = "Snappy Archive";
+"Snappy Tarball Archive" = "Snappy Tarball Archive";
+"Apple iWork Archive" = "Apple iWork Archive";
+"Delta Controller Skin" = "Delta Controller Skin";
 "Keka Extraction Package" = "Keka пакет за извличане";
