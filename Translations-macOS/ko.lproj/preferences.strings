@@ -327,7 +327,7 @@
 "rP2-XR-ZQt.title" = "Finder의 상황에 맞는 메뉴에 Keka 작업 표시";
 
 /* Class = "NSTextFieldCell"; title = "Show an icon in the Dock:"; ObjectID = "rra-p2-67m"; */
-"rra-p2-67m.title" = "에 아이콘 표시:";
+"rra-p2-67m.title" = "Dock에 아이콘 표시:";
 
 /* Class = "NSButtonCell"; title = "Show icons in actions"; ObjectID = "s9u-2a-b8X"; */
 "s9u-2a-b8X.title" = "작업에서 아이콘 표시";
