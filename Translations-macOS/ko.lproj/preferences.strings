@@ -138,7 +138,7 @@
 "6bh-6N-5PP.title" = "하위메뉴 작업 중첩";
 
 /* Class = "NSMenuItem"; title = "Always"; ObjectID = "8AZ-Vv-Lv1"; */
-"8AZ-Vv-Lv1.title" = "Always";
+"8AZ-Vv-Lv1.title" = "항상";
 
 /* Class = "NSTextFieldCell"; title = "You can use these placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n%pb% will be replaced with the clipboard string\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
 "8JN-Ub-qkc.title" = "다음의 기호들을 사용할 수 있습니다: \n\n%n 은 파일의 이름으로 대치됩니다.\n%e 는 파일 확장자로 대치됩니다.\n%p 는 부모 폴더의 이름으로 대치됩니다.\n%c 는 파일의 개수로 대치됩니다.\n%d 는 오늘 날짜로 대치됩니다.\n%t 는 현재 시각으로 대치됩니다.\n%s 는 공유되는 이름으로 대치됩니다.\n%i% 는 첫 항목의 이름으로 대치됩니다.\n%ia% 는 정렬된 목록에서 첫 항목의 이름으로 대치됩니다.\n%pb% 는 클립보드의 문자열로 대치됩니다.\n\n상황에 따라서 빈 문자열로 대치될 수도 있습니다.";
@@ -162,7 +162,7 @@
 "Cz9-7i-oHp.title" = "가장 낮음";
 
 /* Class = "NSTextFieldCell"; title = "Extractions use less power so even using multiple thread you can easily set this limit to two or three. Note that the target disk may suffer."; ObjectID = "DAr-Td-s5W"; */
-"DAr-Td-s5W.title" = "압축 해제가 전력을 덜 사용하기 때문에 여러 개의 쓰레드를 사용하더라도 이 제한을 쉽게 두 개 또는 세 개로 설정할 수 있습니다. 대상 디스크가 손상될 수 있습니다.";
+"DAr-Td-s5W.title" = "압축 해제가 전력을 덜 사용하기 때문에 여러 개의 스레드를 사용하더라도 이 제한을 쉽게 두 개 또는 세 개로 설정할 수 있습니다. 대상 디스크가 손상될 수 있습니다.";
 
 /* Class = "NSButtonCell"; title = "Ask before quitting with operations"; ObjectID = "DJT-wB-bCM"; */
 "DJT-wB-bCM.title" = "진행중이면 종료하기 전 묻기";
@@ -171,7 +171,7 @@
 "DL5-wY-cqc.title" = "홈 폴더 접근 권한 허용";
 
 /* Class = "NSTextFieldCell"; title = "Default action:"; ObjectID = "EJQ-OL-pMF"; */
-"EJQ-OL-pMF.title" = "기본동작:";
+"EJQ-OL-pMF.title" = "기본 동작:";
 
 /* Class = "NSMenuItem"; title = "Always"; ObjectID = "EOi-2B-eBv"; */
 "EOi-2B-eBv.title" = "항상";
@@ -186,7 +186,7 @@
 "GJB-94-NHl.title" = "배터리로 사용 중일 때 가장 낮은 우선순위를 사용합니다";
 
 /* Class = "NSTextFieldCell"; title = "It is recommended to only do one compression at a time if using multiple threads."; ObjectID = "Hkf-wB-gUj"; */
-"Hkf-wB-gUj.title" = "여러 쓰레드를 사용하는 경우 한 번에 하나의 압축만 수행하는 것이 좋습니다.";
+"Hkf-wB-gUj.title" = "여러 스레드를 사용하는 경우 한 번에 하나의 압축만 수행하는 것이 좋습니다.";
 
 /* Class = "NSTextFieldCell"; title = "Those are only applied when Keka is not open"; ObjectID = "Hx2-S1-j7m"; */
 "Hx2-S1-j7m.title" = "이 설정은 Keka가 열려있지 않을 때만 적용됩니다.";
@@ -198,7 +198,7 @@
 "IHj-ac-103.title" = "Mac 전체 접근 권한 허용 (권장)";
 
 /* Class = "NSButtonCell"; title = "Verify compression integrity"; ObjectID = "IL6-a6-uik"; */
-"IL6-a6-uik.title" = "Verify compression integrity";
+"IL6-a6-uik.title" = "압축 무결성 검사";
 
 /* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive."; ObjectID = "JxT-Nq-8Z5"; */
 "JxT-Nq-8Z5.title" = "Keka를 외장 볼륨(USB, Thunderbolt 등)에서 사용할 수 있도록 접근 권한 허용.";
@@ -207,7 +207,7 @@
 "Jyq-vC-L5r.title" = "낮은 우선순위일 수록 더 많은 시간이 걸립니다. Apple Silicon이 탑재된 Mac에서 가장 낮은 우선순위를 사용할 경우 \"효율성\" 코어만을 사용할 것입니다. 이는 더 오랜 시간이 걸리지만 에너지를 절약할 수 있습니다. \n이미 실행중인 작업들의 우선순위는 바뀌지 않습니다.";
 
 /* Class = "NSTextFieldCell"; title = "Queue compression operations:"; ObjectID = "K5h-j5-bss"; */
-"K5h-j5-bss.title" = "압축작업 대기열:";
+"K5h-j5-bss.title" = "압축 작업 대기열:";
 
 /* Class = "NSButtonCell"; title = "Inherit quarantine from downloaded files"; ObjectID = "KDR-ag-bll"; */
 "KDR-ag-bll.title" = "다운로드한 파일에서 검역 상속";
@@ -216,7 +216,7 @@
 "KOF-7X-bQo.title" = "외부 볼륨에서 보기";
 
 /* Class = "NSTextFieldCell"; title = "Limit the number of threads per operation:"; ObjectID = "ND5-DN-C1H"; */
-"ND5-DN-C1H.title" = "작업 당 쓰레드 수 제한:";
+"ND5-DN-C1H.title" = "작업 당 스레드 수 제한:";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "NwI-O4-9NI"; */
 "NwI-O4-9NI.title" = "Mac 리소스 포크 (예: .DS_Store) 포함 안 함";
@@ -252,7 +252,7 @@
 "ZOx-vr-5o7.title" = "Keka를 Mac 전체에서 사용할 수 있도록 Mac 전체 접근 권한 허용.";
 
 /* Class = "NSButtonCell"; title = "Create self-extracting archives for Windows if possible"; ObjectID = "Zfm-hU-OMZ"; */
-"Zfm-hU-OMZ.title" = "Create self-extracting archives for Windows if possible";
+"Zfm-hU-OMZ.title" = "가능하면 Windows용 자체 풀림 압축 파일 생성";
 
 /* Class = "NSMenuItem"; title = "High"; ObjectID = "ZiK-jD-TLq"; */
 "ZiK-jD-TLq.title" = "높음";
@@ -270,7 +270,7 @@
 "caX-B6-61f.title" = "선택한 폴더에서 Keka를 사용할 수 없는 경우 대체 폴더가 사용됩니다.";
 
 /* Class = "NSButtonCell"; title = "Maximum threads per operation:"; ObjectID = "cb7-h4-ScP"; */
-"cb7-h4-ScP.title" = "작업 당 쓰레드 최댓값:";
+"cb7-h4-ScP.title" = "작업 당 스레드 최댓값:";
 
 /* Class = "NSButtonCell"; title = "Use short tarball extensions (eg: .tgz instead of .tar.gz)"; ObjectID = "cfd-8g-kiU"; */
 "cfd-8g-kiU.title" = "짧은 tarball 확장자 사용 (예: .tar.gz 대신 .tgz)";
@@ -285,7 +285,7 @@
 "dhi-qv-weg.title" = "복수의 파일 압축:";
 
 /* Class = "NSMenuItem"; title = "Only if configuration windows are open"; ObjectID = "dmz-xh-p9a"; */
-"dmz-xh-p9a.title" = "Only if configuration windows are open";
+"dmz-xh-p9a.title" = "설정 창을 켰을 때만";
 
 /* Class = "NSButtonCell"; title = "Set folder's modification date to extraction date"; ObjectID = "eBj-1b-wBg"; */
 "eBj-1b-wBg.title" = "폴더의 변경일을 압축 해제일로 설정";
@@ -294,7 +294,7 @@
 "faa-9Y-Axk.title" = "비아카이브 형식(GZ, BZIP2 등)을 항상 tarball로 묶기";
 
 /* Class = "NSTextFieldCell"; title = "Queue extraction operations:"; ObjectID = "fhN-DK-edu"; */
-"fhN-DK-edu.title" = "추출작업 대기열:";
+"fhN-DK-edu.title" = "추출 작업 대기열:";
 
 /* Class = "NSTextFieldCell"; title = "Compressing a single file:"; ObjectID = "hLS-Ut-4fh"; */
 "hLS-Ut-4fh.title" = "단일 파일 압축:";
@@ -327,7 +327,7 @@
 "rP2-XR-ZQt.title" = "Finder의 상황에 맞는 메뉴에 Keka 작업 표시";
 
 /* Class = "NSTextFieldCell"; title = "Show an icon in the Dock:"; ObjectID = "rra-p2-67m"; */
-"rra-p2-67m.title" = "Show an icon in the Dock:";
+"rra-p2-67m.title" = "Dock에 아이콘 표시:";
 
 /* Class = "NSButtonCell"; title = "Show icons in actions"; ObjectID = "s9u-2a-b8X"; */
 "s9u-2a-b8X.title" = "작업에서 아이콘 표시";
@@ -351,7 +351,7 @@
 "wgz-2S-eXI.title" = "Finder 확장은  시스템 환경설정, 확장 프로그램에서 활성화되어야 합니다.";
 
 /* Class = "NSTextFieldCell"; title = "Most operations use multiple threads. That means faster operations but also more power consumption and heat."; ObjectID = "xyb-eH-aiy"; */
-"xyb-eH-aiy.title" = "대부분의 작업은 여러 쓰레드를 사용합니다. 즉, 작동 속도는 빨라지지만 에너지와 열 발생량이 증가합니다.";
+"xyb-eH-aiy.title" = "대부분의 작업은 여러 스레드를 사용합니다. 즉, 작동 속도는 빨라지지만 에너지와 열 발생량이 증가합니다.";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous extractions:"; ObjectID = "yGo-Gm-0zq"; */
 "yGo-Gm-0zq.title" = "동시 압축 해제 최댓값:";
@@ -363,4 +363,4 @@
 "zRi-PC-AW9.title" = "어떠한 파일이든 압축을 풀 때 기본값 비밀번호 사용 시도";
 
 /* Class = "NSButtonCell"; title = "Automatically install new updates"; ObjectID = "zTa-p3-fHX"; */
-"zTa-p3-fHX.title" = "Automatically install new updates";
+"zTa-p3-fHX.title" = "자동으로 업데이트 설치";

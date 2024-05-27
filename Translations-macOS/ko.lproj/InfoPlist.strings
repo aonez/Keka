@@ -16,8 +16,8 @@
 "LZOP Tarball Archive" = "LZOP 압축 TAR 아카이브";
 "LZIP Archive" = "LZIP 아카이브";
 "LZIP Tarball Archive" = "LZIP 압축 TAR 아카이브";
-"LZ4 Archive" = "LZ4 Archive";
-"LZ4 Tarball Archive" = "LZ4 Tarball Archive";
+"LZ4 Archive" = "LZ4 아카이브";
+"LZ4 Tarball Archive" = "LZ4 Tarball 아카이브";
 "ZIP Archive" = "ZIP 아카이브";
 "ZIPX Archive" = "ZIPX 아카이브";
 "XZ Archive" = "XZ 아카이브";
@@ -50,7 +50,7 @@
 "WIM Disk Image" = "WIM 디스크 이미지";
 "Comic Book RAR Archive" = "Comic Book RAR 아카이브";
 "Comic Book ZIP Archive" = "Comic Book ZIP 아카이브";
-"Commodore Amiga MOD Archive" = "Commodore Amiga MOD Archive";
+"Commodore Amiga MOD Archive" = "Commodore Amiga MOD 아카이브";
 "iOS App" = "iOS 앱";
 "JAR Archive" = "JAR 아카이브";
 "WAR Archive" = "WAR 아카이브";
@@ -65,11 +65,11 @@
 "Electronic Book" = "전자책";
 "Apple Archive" = "Apple 아카이브";
 "Apple Encrypted Archive" = "암호화된 Apple 아카이브";
-"Squashfs Filesystem Archive" = "Squashfs Filesystem Archive";
+"Squashfs Filesystem Archive" = "Squashfs 파일 시스템 아카이브";
 "WordPress All-in-One Backup" = "워프프레스 All-in-One 백업";
 "InstallShield 3 Archive" = "InstallShield 3 아카이브";
-"Snappy Archive" = "Snappy Archive";
-"Snappy Tarball Archive" = "Snappy Tarball Archive";
-"Apple iWork Archive" = "Apple iWork Archive";
-"Delta Controller Skin" = "Delta Controller Skin";
+"Snappy Archive" = "Snappy 아카이브";
+"Snappy Tarball Archive" = "Snappy Tarball 아카이브";
+"Apple iWork Archive" = "Apple iWork 아카이브";
+"Delta Controller Skin" = "Delta 컨트롤러 스킨";
 "Keka Extraction Package" = "Keka 압축 해제 패키지";
