@@ -2,6 +2,9 @@
 /* Usually leave this one in English */
 "NSHumanReadableCopyright" = "Copyright © 2009-2024 aONe";
 
+/* Spotlight keywords */
+"MDItemKeywords" = "Tömörítés, Kicsomagolás, Kivonatolás, Archiváló, Unarchiver, Kibontás, Titkosítás, Visszafejtés, Archívumok, Fájlok";
+
 /* Access request descriptions */
 "NSDesktopFolderUsageDescription" = "A Keka-nak hozzá kell férnie az asztal mappához, hogy a fájlokkal dolgozhasson.";
 "NSDocumentsFolderUsageDescription" = "A Keka-nak hozzá kell férnie a dokumentumok mappához, hogy a fájlokkal dolgozhasson.";
@@ -72,4 +75,5 @@
 "Snappy Tarball Archive" = "Snappy Tarball Archive";
 "Apple iWork Archive" = "Apple iWork Archive";
 "Delta Controller Skin" = "Delta Controller Skin";
+"Zipped Web Archive Collection" = "Zipped Web Archive Collection";
 "Keka Extraction Package" = "Keka Kicsomagoló Csomag";

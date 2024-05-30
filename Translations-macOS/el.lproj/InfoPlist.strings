@@ -2,6 +2,9 @@
 /* Usually leave this one in English */
 "NSHumanReadableCopyright" = "Πνευματική ιδιοκτησία © 2009-2024 aONe";
 
+/* Spotlight keywords */
+"MDItemKeywords" = "Συμπίεση, Αποσυμπίεση, Εξαγωγή, Αρχειοθέτης, Αποσυμπιεστής, Επέκταση, Κρυπτογράφηση, Αποκρυπτογράφηση, Αρχεία";
+
 /* Access request descriptions */
 "NSDesktopFolderUsageDescription" = "Το Keka απαιτεί πρόσβαση της Επιφ. Εργασίας για την προσπέλαση των αρχείων του.";
 "NSDocumentsFolderUsageDescription" = "Το Keka απαιτεί πρόσβαση στο φάκελο Documents για την προσπέλαση των αρχείων του.";
@@ -72,4 +75,5 @@
 "Snappy Tarball Archive" = "Snappy Tarball Archive";
 "Apple iWork Archive" = "Apple iWork Archive";
 "Delta Controller Skin" = "Delta Controller Skin";
+"Zipped Web Archive Collection" = "Zipped Web Archive Collection";
 "Keka Extraction Package" = "Πακέτο Αποσυμπίεσης του Keka";

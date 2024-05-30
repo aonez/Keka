@@ -2,6 +2,9 @@
 /* Usually leave this one in English */
 "NSHumanReadableCopyright" = "Copyright © 2009-2024 aONe";
 
+/* Spotlight keywords */
+"MDItemKeywords" = "Compression, Decompression, Extraction, Archiver, Unarchiver, Expand, Encryption, Decryption, Archives, Files";
+
 /* Access request descriptions */
 "NSDesktopFolderUsageDescription" = "Keka requires Desktop access to work with it's files.";
 "NSDocumentsFolderUsageDescription" = "Keka requires Documents access to work with it's files.";
@@ -72,4 +75,5 @@
 "Snappy Tarball Archive" = "Snappy Tarball Archive";
 "Apple iWork Archive" = "Apple iWork Archive";
 "Delta Controller Skin" = "Delta Controller Skin";
+"Zipped Web Archive Collection" = "Zipped Web Archive Collection";
 "Keka Extraction Package" = "Keka Extraction Package";
