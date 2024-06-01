@@ -3,7 +3,7 @@
 "NSHumanReadableCopyright" = "Copyright © 2009-2024 aONe";
 
 /* Spotlight keywords */
-"MDItemKeywords" = "Сжатие, Декомпрессия, Извлечение, Архиватор, Unarchiver, Расширить, Шифрование, Дешифрование, Архивы, Файлы";
+"MDItemKeywords" = "Сжатие, Распаковка, Извлечение, Архиватор, Распаковщик, Расширить, Шифрование, Дешифрование, Архивы, Файлы";
 
 /* Access request descriptions */
 "NSDesktopFolderUsageDescription" = "Для работы с файлами Keka требуется доступ к Рабочему столу.";
@@ -20,7 +20,7 @@
 "LZIP Archive" = "Архив LZIP";
 "LZIP Tarball Archive" = "Сжатый TAR-архив LZIP";
 "LZ4 Archive" = "LZ4 Archive";
-"LZ4 Tarball Archive" = "LZ4 Tarball Archive";
+"LZ4 Tarball Archive" = "Сжатый TAR-архив LZ4";
 "ZIP Archive" = "Архив ZIP";
 "ZIPX Archive" = "Архив ZIPX";
 "XZ Archive" = "Архив XZ";
@@ -71,9 +71,9 @@
 "Squashfs Filesystem Archive" = "Архив файловой системы Squashfs";
 "WordPress All-in-One Backup" = "Полная резервная копия WordPress";
 "InstallShield 3 Archive" = "Архив InstallShield 3";
-"Snappy Archive" = "Snappy Archive";
-"Snappy Tarball Archive" = "Snappy Tarball Archive";
-"Apple iWork Archive" = "Apple iWork Archive";
-"Delta Controller Skin" = "Delta Controller Skin";
-"Zipped Web Archive Collection" = "Zipped Web Archive Collection";
+"Snappy Archive" = "Архив Snappy";
+"Snappy Tarball Archive" = "Сжатый TAR-архив Snappy";
+"Apple iWork Archive" = "Архив Apple iWork";
+"Delta Controller Skin" = "Скин Delta Controller";
+"Zipped Web Archive Collection" = "Сжатый веб-архив WACZ";
 "Keka Extraction Package" = "Пакет распаковки Keka";
