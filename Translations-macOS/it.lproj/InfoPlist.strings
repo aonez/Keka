@@ -2,6 +2,9 @@
 /* Usually leave this one in English */
 "NSHumanReadableCopyright" = "Copyright © 2009-2024 aONe";
 
+/* Spotlight keywords */
+"MDItemKeywords" = "Compressione, Decompressione, Estrazione, Archiviatore, Unarchiver, Espandere, Crittografia, Decrittografia, Archivi, File";
+
 /* Access request descriptions */
 "NSDesktopFolderUsageDescription" = "Keka richiede l'accesso alla Scrivania per lavorare con i suoi file.";
 "NSDocumentsFolderUsageDescription" = "Keka richiede l'accesso a Documenti per lavorare con i suoi file.";
@@ -72,4 +75,5 @@
 "Snappy Tarball Archive" = "Archivio TAR compresso Snappy";
 "Apple iWork Archive" = "Archivio Apple iWork";
 "Delta Controller Skin" = "Skin dei controller per Delta";
+"Zipped Web Archive Collection" = "Zipped Web Archive Collection";
 "Keka Extraction Package" = "Pacchetto di estrazione di Keka";

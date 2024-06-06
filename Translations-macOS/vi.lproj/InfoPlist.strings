@@ -2,6 +2,9 @@
 /* Usually leave this one in English */
 "NSHumanReadableCopyright" = "Copyright © 2009-2024 aONe";
 
+/* Spotlight keywords */
+"MDItemKeywords" = "Nén, Giải nén, Trích xuất, Trình lưu trữ, Unarchiver, Mở rộng, Mã hóa, Giải mã, Lưu trữ, Tệp";
+
 /* Access request descriptions */
 "NSDesktopFolderUsageDescription" = "Keka yêu cầu quyền truy cập Desktop để làm việc với các tệp của nó.";
 "NSDocumentsFolderUsageDescription" = "Keka yêu cầu quyền truy cập Documents để làm việc với các tệp của nó.";
@@ -72,4 +75,5 @@
 "Snappy Tarball Archive" = "Snappy Tarball Archive";
 "Apple iWork Archive" = "Apple iWork Archive";
 "Delta Controller Skin" = "Delta Controller Skin";
+"Zipped Web Archive Collection" = "Zipped Web Archive Collection";
 "Keka Extraction Package" = "Keka Extraction Package";

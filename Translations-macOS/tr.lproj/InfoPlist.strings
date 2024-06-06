@@ -2,6 +2,9 @@
 /* Usually leave this one in English */
 "NSHumanReadableCopyright" = "Copyright © 2009-2024 aONe";
 
+/* Spotlight keywords */
+"MDItemKeywords" = "Sıkıştırma, Sıkıştırmayı Açma, Çıkarma, Arşivleyici, Unarchiver, Genişletmek, Şifreleme, Şifre Çözme, Arşivler, Dosyalar";
+
 /* Access request descriptions */
 "NSDesktopFolderUsageDescription" = "Keka, dosyalarıyla çalışmak için Masaüstü erişimi gerekiyor.";
 "NSDocumentsFolderUsageDescription" = "Keka, dosyalarıyla çalışmak için Belgelere erişim gerekiyor.";
@@ -72,4 +75,5 @@
 "Snappy Tarball Archive" = "Snappy Tarball Archive";
 "Apple iWork Archive" = "Apple iWork Archive";
 "Delta Controller Skin" = "Delta Controller Skin";
+"Zipped Web Archive Collection" = "Zipped Web Archive Collection";
 "Keka Extraction Package" = "Keka Çıkarma Paketi";

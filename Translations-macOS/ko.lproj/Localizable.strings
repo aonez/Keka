@@ -34,7 +34,7 @@
 "File \"%@\" created" = "\"%@\" 파일이 생성되었습니다";
 "Compression fail" = "압축 실패";
 "File \"%@\" cannot be created" = "\"%@\" 파일을 생성할 수 없습니다";
-"Set as fallback folder" = "Set as fallback folder";
+"Set as fallback folder" = "대체 폴더로 설정";
 "\n(using fallback folder)" = "\n(대체 폴더 사용)";
 "Operation not implemented" = "작업 구현되지 않음";
 "Performing operation..." = "작업 진행 중...";
@@ -74,7 +74,7 @@
 "Keka can't create this %@ image" = "Keka가 %@ 이미지를 만들 수 없습니다";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "%@ 이미지는 단일 폴더로만 생성이 가능합니다. 모든 파일들을 하나의 폴더에 넣은 뒤 다시 시도하세요.";
 "Keka can't create this @% tarball" = "Keka가 @% tarball을 만들 수 없습니다";
-"Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it." = "Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it.";
+"Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it." = "Keka는 단일 파일로만 암호화된 LRZIP 압축 파일을 생성할 수 있습니다. 암호화하기 전 우선 TAR 압축 파일로 압축해주세요.";
 "This operation is not supported on %@." = "%@ 버전에서는 지원하지 않습니다.";
 "Compress \"%@\" in %@ to..." = "\"%@\"을(를) %@ 형식으로 압축하기...";
 "Compress in %@ to..." = "%@ 형식으로 압축하기...";
@@ -233,14 +233,14 @@
 "Review Keka ★★★★★" = "Keka에게 리뷰 보내기 ★★★★★";
 "Update the default password" = "기본값 비밀번호 변경";
 "Set a default password" = "기본값 비밀번호 설정";
-"To enable external volumes access go to your main disk and select the \"Volumes\" folder." = "To enable external volumes access go to your main disk and select the \"Volumes\" folder.";
-"Verifying..." = "Verifying...";
-"Verification of \"%@\" failed" = "Verification of \"%@\" failed";
-"The compressed data seems to be invalid" = "The compressed data seems to be invalid";
-"Encrypted Apple Archive files are only supported on macOS 12 or newer" = "Encrypted Apple Archive files are only supported on macOS 12 or newer";
-"The password length should be %i or higher" = "The password length should be %i or higher";
-" (Entire Device)" = " (Entire Device)";
-"Recovery Volumes:" = "Recovery Volumes:";
+"To enable external volumes access go to your main disk and select the \"Volumes\" folder." = "외장 볼륨을 이용하려면 주 디스크에 가서 \"볼륨\" 폴더를 선택하세요.";
+"Verifying..." = "검사 중...";
+"Verification of \"%@\" failed" = "\"%@\" 검사 실패";
+"The compressed data seems to be invalid" = "압축한 데이터가 유효하지 않은 것 같습니다";
+"Encrypted Apple Archive files are only supported on macOS 12 or newer" = "암호화된 Apple 압축 파일은 macOS 12 이후 버전에서만 지원합니다";
+"The password length should be %i or higher" = "비밀번호 길이는 %i자 이상이어야 합니다";
+" (Entire Device)" = " (전체 기기)";
+"Recovery Volumes:" = "볼륨 복원:";
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "환경설정…";
 
