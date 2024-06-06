@@ -7,10 +7,12 @@
     <body>
       <trans-unit id="Compress Files with ${applicationName}" xml:space="preserve">
         <source>Compress Files with ${applicationName}</source>
+        <target state="translated">使用${applicationName}壓縮檔案</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Extract Files with ${applicationName}" xml:space="preserve">
         <source>Extract Files with ${applicationName}</source>
+        <target state="translated">使用${applicationName}擷取檔案</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
@@ -309,6 +311,7 @@
       </trans-unit>
       <trans-unit id="%@ Folder" xml:space="preserve">
         <source>%@ Folder</source>
+        <target state="translated">%@個檔案夾</target>
         <note>Keka Folder</note>
       </trans-unit>
       <trans-unit id="%@ item" xml:space="preserve">
@@ -323,6 +326,7 @@
       </trans-unit>
       <trans-unit id="%@ of &quot;%@&quot; failed" xml:space="preserve">
         <source>%@ of "%@" failed</source>
+        <target state="translated">對「%2$@」執行%1$@失敗</target>
         <note>_OPERATION_ of "_FILENAME_" failed</note>
       </trans-unit>
       <trans-unit id="%@ of %@ item" xml:space="preserve">
@@ -337,6 +341,7 @@
       </trans-unit>
       <trans-unit id="%lld items" xml:space="preserve">
         <source>%lld items</source>
+        <target state="translated">%lld個項目</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="ARCHIVE_DEFAULT_NAME" xml:space="preserve">
@@ -436,6 +441,7 @@
       </trans-unit>
       <trans-unit id="Bytes" xml:space="preserve">
         <source>Bytes</source>
+        <target state="translated">位元組</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="COMPRESSION_OPERATION" xml:space="preserve">
@@ -465,6 +471,7 @@
       </trans-unit>
       <trans-unit id="Cancelled" xml:space="preserve">
         <source>Cancelled</source>
+        <target state="translated">已取消</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Choose" xml:space="preserve">
@@ -499,6 +506,7 @@
       </trans-unit>
       <trans-unit id="Compress Files with Keka" xml:space="preserve">
         <source>Compress Files with Keka</source>
+        <target state="translated">使用Keka壓縮檔案</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Compress all the items in the compression list" xml:space="preserve">
@@ -508,6 +516,7 @@
       </trans-unit>
       <trans-unit id="Compress some files with Keka." xml:space="preserve">
         <source>Compress some files with Keka.</source>
+        <target state="translated">使用Keka壓縮一些檔案。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Compressed size" xml:space="preserve">
@@ -612,6 +621,7 @@
       </trans-unit>
       <trans-unit id="Documents" xml:space="preserve">
         <source>Documents</source>
+        <target state="translated">文件</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
@@ -673,10 +683,12 @@
       </trans-unit>
       <trans-unit id="Extract Files with Keka" xml:space="preserve">
         <source>Extract Files with Keka</source>
+        <target state="translated">使用Keka擷取檔案</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Extract some files with Keka." xml:space="preserve">
         <source>Extract some files with Keka.</source>
+        <target state="translated">使用Keka擷取一些檔案。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Extract the file" xml:space="preserve">
@@ -706,19 +718,22 @@
       </trans-unit>
       <trans-unit id="File for Keka" xml:space="preserve">
         <source>File for Keka</source>
+        <target state="translated">在Keka取用的檔案</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="File not informed properly, try again." xml:space="preserve">
         <source>File not informed properly, try again.</source>
-        <target>檔案處理有誤，請稍後再試。</target>
+        <target state="translated">檔案處理有誤，請稍後再試。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Files" xml:space="preserve">
         <source>Files</source>
+        <target state="translated">檔案</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Files and Folders" xml:space="preserve">
         <source>Files and Folders</source>
+        <target state="translated">檔案和檔案夾</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Folder drop is only supported on iOS 16 or newer" xml:space="preserve">
@@ -743,6 +758,7 @@
       </trans-unit>
       <trans-unit id="Gigabyte" xml:space="preserve">
         <source>Gigabyte</source>
+        <target state="translated">GB</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Give Access" xml:space="preserve">
@@ -777,6 +793,7 @@
       </trans-unit>
       <trans-unit id="Kilobytes" xml:space="preserve">
         <source>Kilobytes</source>
+        <target state="translated">KB</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Kind" xml:space="preserve">
@@ -791,6 +808,7 @@
       </trans-unit>
       <trans-unit id="Level" xml:space="preserve">
         <source>Level</source>
+        <target state="translated">級別</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Loading" xml:space="preserve">
@@ -805,6 +823,7 @@
       </trans-unit>
       <trans-unit id="Megabytes" xml:space="preserve">
         <source>Megabytes</source>
+        <target state="translated">MB</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Modified" xml:space="preserve">
@@ -824,6 +843,7 @@
       </trans-unit>
       <trans-unit id="No archive selected" xml:space="preserve">
         <source>No archive selected</source>
+        <target state="translated">未選擇封存檔</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="No contents" xml:space="preserve">
@@ -863,6 +883,7 @@
       </trans-unit>
       <trans-unit id="Open Keka" xml:space="preserve">
         <source>Open Keka</source>
+        <target state="translated">打開Keka</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Open..." xml:space="preserve">
@@ -887,6 +908,7 @@
       </trans-unit>
       <trans-unit id="Password for &quot;%@&quot;" xml:space="preserve">
         <source>Password for "%@"</source>
+        <target state="translated">「%@」的密碼</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Password needed" xml:space="preserve">
@@ -901,6 +923,7 @@
       </trans-unit>
       <trans-unit id="Petabytes" xml:space="preserve">
         <source>Petabytes</source>
+        <target state="translated">PB</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please enter the password for:" xml:space="preserve">
@@ -970,6 +993,7 @@
       </trans-unit>
       <trans-unit id="Run asynchronously" xml:space="preserve">
         <source>Run asynchronously</source>
+        <target state="translated">非同步執行</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Save" xml:space="preserve">
@@ -979,6 +1003,7 @@
       </trans-unit>
       <trans-unit id="Select some files and folders for Keka." xml:space="preserve">
         <source>Select some files and folders for Keka.</source>
+        <target state="translated">選擇一些要在Keka取用的檔案和檔案夾。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Settings" xml:space="preserve">
@@ -1058,6 +1083,7 @@
       </trans-unit>
       <trans-unit id="Terabytes" xml:space="preserve">
         <source>Terabytes</source>
+        <target state="translated">TB</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The %@ of space available in the destination might not be enough for compressing the estimated %@." xml:space="preserve">
@@ -1129,6 +1155,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="To prevent a timeout on large operation, enable this setting. The result will always be true if enabled." xml:space="preserve">
         <source>To prevent a timeout on large operation, enable this setting. The result will always be true if enabled.</source>
+        <target state="translated">若要防止在耗時較長的動作上發生逾時問題，可以啟用此設定。如果啟用這個選項，輸出結果將永遠是true。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Total size" xml:space="preserve">
@@ -1148,6 +1175,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="URL Encoded" xml:space="preserve">
         <source>URL Encoded</source>
+        <target state="translated">經URL編碼</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Unable to apply the app icon" xml:space="preserve">
@@ -1162,6 +1190,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="Unable to delete the file" xml:space="preserve">
         <source>Unable to delete the file</source>
+        <target state="translated">無法刪除檔案</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Unable to determine the available space." xml:space="preserve">
@@ -1206,6 +1235,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="Volume Unit" xml:space="preserve">
         <source>Volume Unit</source>
+        <target state="translated">卷宗單位</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Welcome" xml:space="preserve">
@@ -1225,6 +1255,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="archive" xml:space="preserve">
         <source>archive</source>
+        <target state="translated">封存</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="by %@" xml:space="preserve">
@@ -1234,6 +1265,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="compress" xml:space="preserve">
         <source>compress</source>
+        <target state="translated">壓縮</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="compressed" xml:space="preserve">
@@ -1243,6 +1275,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="compression" xml:space="preserve">
         <source>compression</source>
+        <target state="translated">壓縮</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="compression failed" xml:space="preserve">
@@ -1257,6 +1290,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="extract" xml:space="preserve">
         <source>extract</source>
+        <target state="translated">擷取</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="extracted" xml:space="preserve">
@@ -1266,6 +1300,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="extraction" xml:space="preserve">
         <source>extraction</source>
+        <target state="translated">擷取</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="extraction failed" xml:space="preserve">
@@ -1280,6 +1315,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="file" xml:space="preserve">
         <source>file</source>
+        <target state="translated">檔案</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>

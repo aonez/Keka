@@ -19,8 +19,8 @@
 "LZOP Tarball Archive" = "LZOP 壓縮的 Tarball 封存檔";
 "LZIP Archive" = "LZIP 封存檔";
 "LZIP Tarball Archive" = "LZIP 壓縮的 Tarball 封存檔";
-"LZ4 Archive" = "LZ4 Archive";
-"LZ4 Tarball Archive" = "LZ4 Tarball Archive";
+"LZ4 Archive" = "LZ4 封存檔";
+"LZ4 Tarball Archive" = "LZ4 壓縮的 Tarball 封存檔";
 "ZIP Archive" = "ZIP 封存檔";
 "ZIPX Archive" = "ZIPX 封存檔";
 "XZ Archive" = "XZ 封存檔";
@@ -71,9 +71,9 @@
 "Squashfs Filesystem Archive" = "Squashfs 檔案系統封存檔";
 "WordPress All-in-One Backup" = "WordPress All-in-One 備份檔";
 "InstallShield 3 Archive" = "InstallShield 3 封存檔";
-"Snappy Archive" = "Snappy Archive";
-"Snappy Tarball Archive" = "Snappy Tarball Archive";
-"Apple iWork Archive" = "Apple iWork Archive";
-"Delta Controller Skin" = "Delta Controller Skin";
+"Snappy Archive" = "Snappy 封存檔";
+"Snappy Tarball Archive" = "Snappy 壓縮的 Tarball 封存檔";
+"Apple iWork Archive" = "Apple iWork 封存檔";
+"Delta Controller Skin" = "Delta 遊戲控制器主題";
 "Zipped Web Archive Collection" = "Zipped Web Archive Collection";
 "Keka Extraction Package" = "Keka 解壓縮套件";
