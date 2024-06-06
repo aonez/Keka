@@ -1155,7 +1155,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="To prevent a timeout on large operation, enable this setting. The result will always be true if enabled." xml:space="preserve">
         <source>To prevent a timeout on large operation, enable this setting. The result will always be true if enabled.</source>
-        <target state="translated">若要防止在耗時較長的動作上發生逾時問題，可以啟用此設定。如果啟用這個選項，result將永遠是true。</target>
+        <target state="translated">若要防止在耗時較長的動作上發生逾時問題，可以啟用此設定。如果啟用這個選項，輸出結果將永遠是true。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Total size" xml:space="preserve">
