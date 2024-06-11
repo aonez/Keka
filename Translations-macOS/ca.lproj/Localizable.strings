@@ -241,6 +241,8 @@
 "The password length should be %i or higher" = "La contrasenya ha de ser un mínim de %i caràcters";
 " (Entire Device)" = " (Dispositiu sencer)";
 "Recovery Volumes:" = "Vol. de recuperació:";
+"Encrypt" = "Xifra";
+"Skip" = "Omet";
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "Configuració…";
 

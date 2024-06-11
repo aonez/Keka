@@ -241,6 +241,8 @@
 "The password length should be %i or higher" = "Délka hesla by měla být %i nebo více znaků";
 " (Entire Device)" = " (celé zařízení)";
 "Recovery Volumes:" = "Svazky zotavení macOS:";
+"Encrypt" = "Encrypt";
+"Skip" = "Skip";
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "Předvolby…";
 

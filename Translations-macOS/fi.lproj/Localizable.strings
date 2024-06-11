@@ -241,6 +241,8 @@
 "The password length should be %i or higher" = "Salasanan pituuden tulisi olla %i tai pidempi";
 " (Entire Device)" = " (Koko laite)";
 "Recovery Volumes:" = "Recovery Volumes:";
+"Encrypt" = "Encrypt";
+"Skip" = "Skip";
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "Asetukset…";
 

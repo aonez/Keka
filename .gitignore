@@ -25,3 +25,5 @@ xcuserdata/
 .DS_Store
 Translations/*.lproj/.*.conversion.md5
 Translations/*.lproj/Credits.html
+Translations-macOS/*/taskLegacy.strings
+Translations-macOS/*/task.strings

@@ -241,6 +241,8 @@
 "The password length should be %i or higher" = "Довжина пароля повинна бути не менше %i";
 " (Entire Device)" = " (Весь пристрій)";
 "Recovery Volumes:" = "Recovery Volumes:";
+"Encrypt" = "Encrypt";
+"Skip" = "Skip";
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "Налаштування…";
 

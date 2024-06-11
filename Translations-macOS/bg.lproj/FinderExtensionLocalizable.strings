@@ -1,6 +1,8 @@
 "Open with Keka" = "Отвори с Keka";
 "Compress here" = "Компресирай тук";
 "Compress to..." = "Компресирай в...";
+"Encrypt here" = "Encrypt here";
+"Encrypt to..." = "Encrypt to...";
 "Compress the contents of the folder here" = "Компресирай съдържанието на папката тук";
 "Compress the contents of the folder to..." = "Компресирай съдържанието на папката в...";
 "Encrypt with the default password here" = "Криптирай с паролата по подразбиране тук";

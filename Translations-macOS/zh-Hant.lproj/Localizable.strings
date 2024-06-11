@@ -241,6 +241,8 @@
 "The password length should be %i or higher" = "密碼應至少有 %i 個字元長";
 " (Entire Device)" = "（整個裝置）";
 "Recovery Volumes:" = "復原卷宗：";
+"Encrypt" = "Encrypt";
+"Skip" = "Skip";
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "偏好設定⋯";
 

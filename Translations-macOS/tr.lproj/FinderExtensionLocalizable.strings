@@ -1,6 +1,8 @@
 "Open with Keka" = "Keka ile aç";
 "Compress here" = "Burada sıkıştır";
 "Compress to..." = "Buraya sıkıştır ...";
+"Encrypt here" = "Encrypt here";
+"Encrypt to..." = "Encrypt to...";
 "Compress the contents of the folder here" = "Klasörün içeriğini buraya sıkıştırın";
 "Compress the contents of the folder to..." = "Klasörün içeriğini şuraya sıkıştırın ...";
 "Encrypt with the default password here" = "Burada varsayılan şifre ile şifreleyin";

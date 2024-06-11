@@ -1,6 +1,8 @@
 "Open with Keka" = "Open met Keka";
 "Compress here" = "Comprimeer hier";
 "Compress to..." = "Comprimeer naar...";
+"Encrypt here" = "Encrypt here";
+"Encrypt to..." = "Encrypt to...";
 "Compress the contents of the folder here" = "Comprimeer de inhoud van de map hier";
 "Compress the contents of the folder to..." = "Comprimeer de inhoud van de map naar...";
 "Encrypt with the default password here" = "Versleutel met het standaard wachtwoord hier";

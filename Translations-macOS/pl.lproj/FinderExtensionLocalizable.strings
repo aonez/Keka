@@ -1,6 +1,8 @@
 "Open with Keka" = "Otwórz w programie Keka";
 "Compress here" = "Archiwizuj tutaj";
 "Compress to..." = "Archiwizuj do...";
+"Encrypt here" = "Encrypt here";
+"Encrypt to..." = "Encrypt to...";
 "Compress the contents of the folder here" = "Archiwizuj zawartość folderu";
 "Compress the contents of the folder to..." = "Archiwizuj zawartości folderu do...";
 "Encrypt with the default password here" = "Szyfruj za pomocą domyślnego hasła";

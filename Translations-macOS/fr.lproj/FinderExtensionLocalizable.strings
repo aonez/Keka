@@ -1,6 +1,8 @@
 "Open with Keka" = "Ouvrir avec Keka";
 "Compress here" = "Compresser ici";
 "Compress to..." = "Compresser dans...";
+"Encrypt here" = "Encrypt here";
+"Encrypt to..." = "Encrypt to...";
 "Compress the contents of the folder here" = "Compresser le contenu du dossier ici";
 "Compress the contents of the folder to..." = "Compresser le contenu du dossier dans...";
 "Encrypt with the default password here" = "Chiffrer avec le mot de passe par défaut ici";
