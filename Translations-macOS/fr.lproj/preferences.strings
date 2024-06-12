@@ -234,7 +234,7 @@
 "TLc-Nk-Bps.placeholderString" = "Entrez ici votre nom personnalisé";
 
 /* Class = "NSButtonCell"; title = "Always ask for a password when compressing"; ObjectID = "TZN-PU-t5N"; */
-"TZN-PU-t5N.title" = "Always ask for a password when compressing";
+"TZN-PU-t5N.title" = "Toujours demander un mot de passe lors de la compression";
 
 /* Class = "NSMenuItem"; title = "Lower"; ObjectID = "Vss-gS-NkP"; */
 "Vss-gS-NkP.title" = "Plus basse";
