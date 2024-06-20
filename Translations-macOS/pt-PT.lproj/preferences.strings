@@ -1,4 +1,4 @@
-﻿
+
 /* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
 "159.title" = "Formato predefinido:";
 
@@ -234,7 +234,7 @@
 "TLc-Nk-Bps.placeholderString" = "introduza o nome";
 
 /* Class = "NSButtonCell"; title = "Always ask for a password when compressing"; ObjectID = "TZN-PU-t5N"; */
-"TZN-PU-t5N.title" = "Always ask for a password when compressing";
+"TZN-PU-t5N.title" = "Peça sempre uma senha ao compactar";
 
 /* Class = "NSMenuItem"; title = "Lower"; ObjectID = "Vss-gS-NkP"; */
 "Vss-gS-NkP.title" = "Lower";

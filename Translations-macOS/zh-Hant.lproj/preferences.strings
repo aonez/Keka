@@ -1,4 +1,4 @@
-﻿
+
 /* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
 "159.title" = "預設格式：";
 
@@ -234,7 +234,7 @@
 "TLc-Nk-Bps.placeholderString" = "這是您的自訂名稱";
 
 /* Class = "NSButtonCell"; title = "Always ask for a password when compressing"; ObjectID = "TZN-PU-t5N"; */
-"TZN-PU-t5N.title" = "Always ask for a password when compressing";
+"TZN-PU-t5N.title" = "壓縮時始終要求輸入密碼";
 
 /* Class = "NSMenuItem"; title = "Lower"; ObjectID = "Vss-gS-NkP"; */
 "Vss-gS-NkP.title" = "偏低";

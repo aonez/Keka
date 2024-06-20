@@ -241,8 +241,8 @@
 "The password length should be %i or higher" = "Wachtwoord lengte moet %i of langer zijn";
 " (Entire Device)" = " (Hele Apparaat)";
 "Recovery Volumes:" = "Recovery Volumes:";
-"Encrypt" = "Encrypt";
-"Skip" = "Skip";
+"Encrypt" = "Versleutel";
+"Skip" = "Overslaan";
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "Voorkeuren…";
 

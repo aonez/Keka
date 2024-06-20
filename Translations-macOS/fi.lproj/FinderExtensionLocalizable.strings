@@ -1,8 +1,8 @@
 "Open with Keka" = "Avaa Kekalla";
 "Compress here" = "Pakkaa tähän";
 "Compress to..." = "Pakkaa kohteeseen...";
-"Encrypt here" = "Encrypt here";
-"Encrypt to..." = "Encrypt to...";
+"Encrypt here" = "Salaa tähän";
+"Encrypt to..." = "Salaa kohteeseen...";
 "Compress the contents of the folder here" = "Pakkaa kansion sisältö tähän";
 "Compress the contents of the folder to..." = "Pakkaa kansion sisältö kohteeseen...";
 "Encrypt with the default password here" = "Salaa oletussalasanalla tähän";

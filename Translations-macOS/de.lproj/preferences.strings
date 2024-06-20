@@ -1,4 +1,4 @@
-﻿
+
 /* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
 "159.title" = "Standardformat:";
 
@@ -234,7 +234,7 @@
 "TLc-Nk-Bps.placeholderString" = "Namen eingeben";
 
 /* Class = "NSButtonCell"; title = "Always ask for a password when compressing"; ObjectID = "TZN-PU-t5N"; */
-"TZN-PU-t5N.title" = "Always ask for a password when compressing";
+"TZN-PU-t5N.title" = "Immer nach einem Passwort fragen, wenn komprimiert wird";
 
 /* Class = "NSMenuItem"; title = "Lower"; ObjectID = "Vss-gS-NkP"; */
 "Vss-gS-NkP.title" = "Niedriger";
@@ -255,7 +255,7 @@
 "ZOx-vr-5o7.title" = "Erlaube den Zugriff auf deinen gesamten Mac, falls Keka in jedem Ordner deines Macs arbeiten können soll.";
 
 /* Class = "NSButtonCell"; title = "Create self-extracting archives for Windows if possible"; ObjectID = "Zfm-hU-OMZ"; */
-"Zfm-hU-OMZ.title" = "Create self-extracting archives for Windows if possible";
+"Zfm-hU-OMZ.title" = "Erstellen Sie nach Möglichkeit selbstextrahierende Archive für Windows";
 
 /* Class = "NSMenuItem"; title = "High"; ObjectID = "ZiK-jD-TLq"; */
 "ZiK-jD-TLq.title" = "Hoch";

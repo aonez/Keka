@@ -241,8 +241,8 @@
 "The password length should be %i or higher" = "A senha deve ter %i ou mais caracteres";
 " (Entire Device)" = " (Dispositivo Completo)";
 "Recovery Volumes:" = "Recovery Volumes:";
-"Encrypt" = "Encrypt";
-"Skip" = "Skip";
+"Encrypt" = "Criptografar";
+"Skip" = "Pular";
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "Preferências…";
 
