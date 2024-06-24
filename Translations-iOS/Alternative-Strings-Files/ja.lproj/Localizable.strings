@@ -1,5 +1,5 @@
 /* Keka Folder */
-"%@ Folder" = "%@ Folder"; // THIS IS NOT LOCALIZED
+"%@ Folder" = "%@ フォルダ";
 
 /* No comment provided by engineer. */
 "%@ item" = "%@ 項目";
@@ -8,7 +8,7 @@
 "%@ items" = "%@ 項目";
 
 /* _OPERATION_ of "_FILENAME_" failed */
-"%@ of \"%@\" failed" = "%@ of \"%@\" failed"; // THIS IS NOT LOCALIZED
+"%@ of \"%@\" failed" = "%@ 中の \"%@\" が失敗";
 
 /* No comment provided by engineer. */
 "%@ of %@ item" = "%@ の %@ 項目";
@@ -17,16 +17,16 @@
 "%@ of %@ items" = "%@ の %@ 項目";
 
 /* No comment provided by engineer. */
-"%lld items" = "%lld items"; // THIS IS NOT LOCALIZED
+"%lld items" = "%lld 項目";
 
 /* No comment provided by engineer. */
 "About" = "情報";
 
-/* No comment provided by engineer. */
+/* No comment provided by engineer. */ 
 "Actions" = "アクション";
 
 /* No comment provided by engineer. */
-"Actions to do with the current browsed file" = "Actions to do with the current browsed file"; // THIS IS NOT LOCALIZED
+"Actions to do with the current browsed file" = "閲覧中のファイルへのアクション";
 
 /* No comment provided by engineer. */
 "Add a File" = "ファイルを追加";
@@ -35,31 +35,31 @@
 "Add a Folder" = "フォルダを追加";
 
 /* No comment provided by engineer. */
-"Add a Photo or Video" = "Add a Photo or Video"; // THIS IS NOT LOCALIZED
+"Add a Photo or Video" = "写真や映像を追加する";
 
 /* No comment provided by engineer. */
-"Add files and folders to a compression list" = "Add files and folders to a compression list"; // THIS IS NOT LOCALIZED
+"Add files and folders to a compression list" = "リストに圧縮するファイルやフォルダを追加する";
 
 /* No comment provided by engineer. */
-"Add some contents using the %@ button or the %@ button in the toolbar." = "Add some contents using the %@ button or the %@ button in the toolbar."; // THIS IS NOT LOCALIZED
+"Add some contents using the %@ button or the %@ button in the toolbar." = "ツールバーの %@ ボタンまたは %@ ボタンで内容を追加する。";
 
 /* No comment provided by engineer. */
-"Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar." = "Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar."; // THIS IS NOT LOCALIZED
+"Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar." = "ツールバーの %@ ボタン、または %@ 、 %@ 、 %@ ボタンで内容を追加する。";
 
 /* No comment provided by engineer. */
-"Add some contents using the %@ button." = "Add some contents using the %@ button."; // THIS IS NOT LOCALIZED
+"Add some contents using the %@ button." = "%@ ボタンで内容を追加する。";
 
 /* No comment provided by engineer. */
-"Advanced Settings" = "Advanced Settings"; // THIS IS NOT LOCALIZED
+"Advanced Settings" = "詳細設定";
 
 /* No comment provided by engineer. */
 "Allocated size" = "割り当てサイズ";
 
 /* No comment provided by engineer. */
-"archive" = "archive"; // THIS IS NOT LOCALIZED
+"archive" = "アーカイブ";
 
 /* No comment provided by engineer. */
-"Archive items separately" = "Archive items separately"; // THIS IS NOT LOCALIZED
+"Archive items separately" = "分割アーカイブ項目";
 
 /* Default compression file name. */
 "ARCHIVE_DEFAULT_NAME" = "圧縮ファイル";
@@ -83,7 +83,7 @@
 "by %@" = "%@ によって";
 
 /* No comment provided by engineer. */
-"Bytes" = "Bytes"; // THIS IS NOT LOCALIZED
+"Bytes" = "バイト";
 
 /* No comment provided by engineer. */
 "Calculate" = "計算する";
@@ -92,7 +92,7 @@
 "Cancel" = "キャンセル";
 
 /* No comment provided by engineer. */
-"Cancelled" = "Cancelled"; // THIS IS NOT LOCALIZED
+"Cancelled" = "キャンセルされました";
 
 /* No comment provided by engineer. */
 "Choose" = "選択";
@@ -113,16 +113,16 @@
 "Compress" = "圧縮";
 
 /* No comment provided by engineer. */
-"compress" = "compress"; // THIS IS NOT LOCALIZED
+"compress" = "圧縮";
 
 /* No comment provided by engineer. */
-"Compress all the items in the compression list" = "Compress all the items in the compression list"; // THIS IS NOT LOCALIZED
+"Compress all the items in the compression list" = "リストのすべての項目を圧縮する";
 
 /* No comment provided by engineer. */
-"Compress Files with Keka" = "Compress Files with Keka"; // THIS IS NOT LOCALIZED
+"Compress Files with Keka" = "ファイルを Keka で圧縮";
 
 /* No comment provided by engineer. */
-"Compress some files with Keka." = "Compress some files with Keka."; // THIS IS NOT LOCALIZED
+"Compress some files with Keka." = "いくつかのファイルを Keka で圧縮";
 
 /* No comment provided by engineer. */
 "compressed" = "圧縮完了";
@@ -131,10 +131,10 @@
 "Compressed size" = "圧縮後のサイズ";
 
 /* Compression settings title. */
-"Compression" = "ファイルの圧縮";
+"Compression" = "圧縮";
 
 /* No comment provided by engineer. */
-"compression" = "compression"; // THIS IS NOT LOCALIZED
+"compression" = "圧縮";
 
 /* No comment provided by engineer. */
 "compression failed" = "圧縮できませんでした";
@@ -158,10 +158,10 @@
 "Contents: %@, Size: %@" = "内容: %@ 、サイズ: %@";
 
 /* No comment provided by engineer. */
-"Contents: %lld, Size: %@" = "Contents: %lld, Size: %@"; // THIS IS NOT LOCALIZED
+"Contents: %lld, Size: %@" = "内容: %lld 、サイズ: %@";
 
 /* No comment provided by engineer. */
-"Created" = "作成済み";
+"Created" = "作成日";
 
 /* No comment provided by engineer. */
 "Custom..." = "場所を指定...";
@@ -188,7 +188,7 @@
 "Delete" = "削除";
 
 /* No comment provided by engineer. */
-"Delete files(s) after compression" = "Delete files(s) after compression"; // THIS IS NOT LOCALIZED
+"Delete files(s) after compression" = "圧縮後にファイルを削除する";
 
 /* No comment provided by engineer. */
 "Destination" = "出力先";
@@ -203,7 +203,7 @@
 "Document" = "ドキュメント";
 
 /* No comment provided by engineer. */
-"Documents" = "Documents"; // THIS IS NOT LOCALIZED
+"Documents" = "ドキュメント";
 
 /* No comment provided by engineer. */
 "Done" = "完了";
@@ -212,7 +212,7 @@
 "done" = "完了";
 
 /* No comment provided by engineer. */
-"Downloads" = "Downloads"; // THIS IS NOT LOCALIZED
+"Downloads" = "ダウンロード";
 
 /* No comment provided by engineer. */
 "Edit" = "編集";
@@ -227,19 +227,19 @@
 "Enter the password for the file\n\"%@\"" = "\"%@\"\nのファイル パスワードを入力";
 
 /* No comment provided by engineer. */
-"Exclude Mac resource forks" = "Exclude Mac resource forks"; // THIS IS NOT LOCALIZED
+"Exclude Mac resource forks" = "Mac のリソースフォークを取り除く";
 
 /* No comment provided by engineer. */
 "Extract" = "展開";
 
 /* No comment provided by engineer. */
-"extract" = "extract"; // THIS IS NOT LOCALIZED
+"extract" = "展開";
 
 /* No comment provided by engineer. */
-"Extract Files with Keka" = "Extract Files with Keka"; // THIS IS NOT LOCALIZED
+"Extract Files with Keka" = "ファイルを Keka で展開";
 
 /* No comment provided by engineer. */
-"Extract some files with Keka." = "Extract some files with Keka."; // THIS IS NOT LOCALIZED
+"Extract some files with Keka." = "いくつかのファイルを Keka で展開";
 
 /* No comment provided by engineer. */
 "Extract the file" = "ファイルを展開";
@@ -248,10 +248,10 @@
 "extracted" = "展開完了";
 
 /* Extraction settings title. */
-"Extraction" = "ファイルの展開";
+"Extraction" = "展開";
 
 /* No comment provided by engineer. */
-"extraction" = "extraction"; // THIS IS NOT LOCALIZED
+"extraction" = "展開";
 
 /* No comment provided by engineer. */
 "extraction failed" = "展開できませんでした";
@@ -278,22 +278,22 @@
 "Feedback" = "フィードバック";
 
 /* No comment provided by engineer. */
-"file" = "file"; // THIS IS NOT LOCALIZED
+"file" = "ファイル";
 
 /* No comment provided by engineer. */
-"File for Keka" = "File for Keka"; // THIS IS NOT LOCALIZED
+"File for Keka" = "Keka へのファイル";
 
 /* No comment provided by engineer. */
 "File not informed properly, try again." = "ファイル情報が正しくありません、再度試してください。";
 
 /* No comment provided by engineer. */
-"Files" = "Files"; // THIS IS NOT LOCALIZED
+"Files" = "ファイル";
 
 /* No comment provided by engineer. */
-"Files and Folders" = "Files and Folders"; // THIS IS NOT LOCALIZED
+"Files and Folders" = "ファイルとフォルダ";
 
 /* No comment provided by engineer. */
-"Folder drop is only supported on iOS 16 or newer" = "Folder drop is only supported on iOS 16 or newer"; // THIS IS NOT LOCALIZED
+"Folder drop is only supported on iOS 16 or newer" = "フォルダドロップはiOS16以降でサポートされています";
 
 /* No comment provided by engineer. */
 "Format" = "形式";
@@ -305,10 +305,10 @@
 "Get Info" = "詳細を見る";
 
 /* No comment provided by engineer. */
-"Gigabyte" = "Gigabyte"; // THIS IS NOT LOCALIZED
+"Gigabyte" = "ギガバイト";
 
 /* No comment provided by engineer. */
-"Give Access" = "Give Access"; // THIS IS NOT LOCALIZED
+"Give Access" = "アクセス権を付与する";
 
 /* No comment provided by engineer. */
 "Hide Password by Default" = "デフォルトでパスワードを隠す";
@@ -326,16 +326,16 @@
 "Keka's icon" = "Keka アイコン";
 
 /* No comment provided by engineer. */
-"Kilobytes" = "Kilobytes"; // THIS IS NOT LOCALIZED
+"Kilobytes" = "キロバイト";
 
 /* No comment provided by engineer. */
 "Kind" = "種類";
 
 /* No comment provided by engineer. */
-"Last opened" = "最後に開いた";
+"Last opened" = "最後に開いた日";
 
 /* No comment provided by engineer. */
-"Level" = "Level"; // THIS IS NOT LOCALIZED
+"Level" = "レベル";
 
 /* No comment provided by engineer. */
 "Loading" = "ローディング";
@@ -344,19 +344,19 @@
 "Made with" = "制作";
 
 /* No comment provided by engineer. */
-"Megabytes" = "Megabytes"; // THIS IS NOT LOCALIZED
+"Megabytes" = "メガバイト";
 
 /* No comment provided by engineer. */
-"Modified" = "変更";
+"Modified" = "変更日";
 
 /* No comment provided by engineer. */
 "Name" = "名称";
 
 /* No comment provided by engineer. */
-"New Compression" = "New Compression"; // THIS IS NOT LOCALIZED
+"New Compression" = "新規圧縮";
 
 /* No comment provided by engineer. */
-"No archive selected" = "No archive selected"; // THIS IS NOT LOCALIZED
+"No archive selected" = "アーカイブが選択されていません";
 
 /* No comment provided by engineer. */
 "No contents" = "内容がありません";
@@ -380,31 +380,31 @@
 "Open" = "開く";
 
 /* No comment provided by engineer. */
-"Open Keka" = "Open Keka"; // THIS IS NOT LOCALIZED
+"Open Keka" = "Keka で開く";
 
 /* No comment provided by engineer. */
-"Open..." = "Open..."; // THIS IS NOT LOCALIZED
+"Open..." = "開く...";
 
 /* No comment provided by engineer. */
-"Order" = "Order"; // THIS IS NOT LOCALIZED
+"Order" = "オーダー";
 
 /* No comment provided by engineer. */
 "Password" = "パスワード";
 
 /* No comment provided by engineer. */
-"Password for \"%@\"" = "Password for \"%@\""; // THIS IS NOT LOCALIZED
+"Password for \"%@\"" = "\"%@\" のパスワード";
 
 /* No comment provided by engineer. */
 "Password needed" = "パスワードが必要です";
 
 /* No comment provided by engineer. */
-"Password Protected" = "Password Protected"; // THIS IS NOT LOCALIZED
+"Password Protected" = "パスワードで保護されています";
 
 /* No comment provided by engineer. */
-"Pause" = "Pause"; // THIS IS NOT LOCALIZED
+"Pause" = "一時停止";
 
 /* No comment provided by engineer. */
-"Petabytes" = "Petabytes"; // THIS IS NOT LOCALIZED
+"Petabytes" = "ペタバイト";
 
 /* No comment provided by engineer. */
 "Please enter the password for:" = "パスワードを入力してください:";
@@ -422,16 +422,16 @@
 "Remember Last Used Options" = "最後に使用した設定を記憶する";
 
 /* No comment provided by engineer. */
-"Remove" = "Remove"; // THIS IS NOT LOCALIZED
+"Remove" = "削除";
 
 /* No comment provided by engineer. */
-"Remove All Items" = "Remove All Items"; // THIS IS NOT LOCALIZED
+"Remove All Items" = "すべての項目を削除する";
 
 /* No comment provided by engineer. */
 "Remove from cache" = "キャッシュから削除する";
 
 /* No comment provided by engineer. */
-"Remove the selected items from the compression list" = "Remove the selected items from the compression list"; // THIS IS NOT LOCALIZED
+"Remove the selected items from the compression list" = "リストから選択した項目を削除する";
 
 /* No comment provided by engineer. */
 "Reset" = "設定の初期化";
@@ -440,19 +440,19 @@
 "Reset All Settings" = "すべての設定を初期化する";
 
 /* No comment provided by engineer. */
-"Resume" = "Resume"; // THIS IS NOT LOCALIZED
+"Resume" = "履歴";
 
 /* No comment provided by engineer. */
 "Review" = "評価";
 
 /* No comment provided by engineer. */
-"Run asynchronously" = "Run asynchronously"; // THIS IS NOT LOCALIZED
+"Run asynchronously" = "非同期に実行する";
 
 /* No comment provided by engineer. */
 "Save" = "保存";
 
 /* No comment provided by engineer. */
-"Select some files and folders for Keka." = "Select some files and folders for Keka."; // THIS IS NOT LOCALIZED
+"Select some files and folders for Keka." = "Keka へ追加するファイルとフォルダを選択";
 
 /* No comment provided by engineer. */
 "Settings" = "設定";
@@ -461,22 +461,22 @@
 "Share" = "共有";
 
 /* No comment provided by engineer. */
-"Share..." = "Share..."; // THIS IS NOT LOCALIZED
+"Share..." = "共有...";
 
 /* No comment provided by engineer. */
-"Show Advanced Settings" = "Show Advanced Settings"; // THIS IS NOT LOCALIZED
+"Show Advanced Settings" = "詳細設定を表示する";
 
 /* No comment provided by engineer. */
-"Show Info" = "Show Info"; // THIS IS NOT LOCALIZED
+"Show Info" = "情報を見る";
 
 /* No comment provided by engineer. */
-"Show Less" = "Show Less"; // THIS IS NOT LOCALIZED
+"Show Less" = "少なく表示";
 
 /* No comment provided by engineer. */
-"Show or hide additional advanced settings" = "Show or hide additional advanced settings"; // THIS IS NOT LOCALIZED
+"Show or hide additional advanced settings" = "詳細設定の追加項目を表示または非表示にする";
 
 /* No comment provided by engineer. */
-"Show or hide additional information about the selected item" = "Show or hide additional information about the selected item"; // THIS IS NOT LOCALIZED
+"Show or hide additional information about the selected item" = "選択した項目の追加情報を表示または非表示にする";
 
 /* No comment provided by engineer. */
 "Size" = "容量";
@@ -494,7 +494,7 @@
 "Store" = "ストア";
 
 /* No comment provided by engineer. */
-"Terabytes" = "Terabytes"; // THIS IS NOT LOCALIZED
+"Terabytes" = "テラバイト";
 
 /* No comment provided by engineer. */
 "The %@ of space available in the destination might not be enough for compressing the estimated %@." = "出力先の空き容量 %@ では、想定される %@ を圧縮するのに十分な空きがありません。";
@@ -530,13 +530,13 @@
 "The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "圧縮レベルが遅いほど、高い圧縮率になります。ストアレベルは圧縮をおこなわず、内容をアーカイブするのみになります。";
 
 /* No comment provided by engineer. */
-"This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder."; // THIS IS NOT LOCALIZED
+"This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "このボリューム・ファイルを開くには、アクセス権の追加が必要です。残りのファイルまたは親フォルダにアクセス権を与えることができます。";
 
 /* No comment provided by engineer. */
 "To extract" = "展開する";
 
 /* No comment provided by engineer. */
-"To prevent a timeout on large operation, enable this setting. The result will always be true if enabled." = "To prevent a timeout on large operation, enable this setting. The result will always be true if enabled."; // THIS IS NOT LOCALIZED
+"To prevent a timeout on large operation, enable this setting. The result will always be true if enabled." = "長時間の動作によるタイムアウトを防ぐには、この設定を有効にしてください。有効にすると規定の動作になります。";
 
 /* No comment provided by engineer. */
 "Total size" = "総容量";
@@ -560,7 +560,7 @@
 "Unable to browse \"%@\"" = "\"%@\" を閲覧できません";
 
 /* No comment provided by engineer. */
-"Unable to delete the file" = "Unable to delete the file"; // THIS IS NOT LOCALIZED
+"Unable to delete the file" = "ファイルを削除できません";
 
 /* No comment provided by engineer. */
 "Unable to determine the available space." = "使用可能なスペースを決定できません。";
@@ -569,7 +569,7 @@
 "Unable to get encoding data" = "エンコーディングデータが取得できません";
 
 /* No comment provided by engineer. */
-"URL Encoded" = "URL Encoded"; // THIS IS NOT LOCALIZED
+"URL Encoded" = "エンコードされたURL";
 
 /* No comment provided by engineer. */
 "Use AES-256 Encryption" = "AES-256 暗号化を使用する";
@@ -584,13 +584,13 @@
 "Use UTF-8 Encoding if Available" = "可能であれば UTF-8 エンコーディングを使用する";
 
 /* No comment provided by engineer. */
-"Verify compression integrity" = "Verify compression integrity"; // THIS IS NOT LOCALIZED
+"Verify compression integrity" = "圧縮の完全性を検証する";
 
 /* No comment provided by engineer. */
 "Volume Size" = "ボリューム容量";
 
 /* No comment provided by engineer. */
-"Volume Unit" = "Volume Unit"; // THIS IS NOT LOCALIZED
+"Volume Unit" = "ボリューム単位";
 
 /* No comment provided by engineer. */
 "Welcome" = "ようこそ";
@@ -599,5 +599,5 @@
 "Welcome to %@" = "%@ にようこそ";
 
 /* No comment provided by engineer. */
-"Where" = "何処に";
+"Where" = "場所";
 
