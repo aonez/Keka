@@ -1,0 +1,165 @@
+/* (No Comment) */
+"7Z Archive" = "7Z 아카이브";
+
+/* (No Comment) */
+"ACE Archive" = "ACE 아카이브";
+
+/* (No Comment) */
+"ALZip Archive" = "ALZip 아카이브";
+
+/* (No Comment) */
+"Amiga DCS Disk Archive" = "Amiga DCS 디스크 아카이브";
+
+/* (No Comment) */
+"Amiga Disk File" = "Amiga 디스크 파일";
+
+/* (No Comment) */
+"Amiga DMS Disk Archive" = "Amiga DMS 디스크 아카이브";
+
+/* (No Comment) */
+"Amiga PackDev Disk Archive" = "Amiga PackDev 디스크 아카이브";
+
+/* (No Comment) */
+"Amiga PowerPacker Archive" = "Amiga PowerPacker 아카이브";
+
+/* (No Comment) */
+"Amiga xMash Disk Archive" = "Amiga xMash 디스크 아카이브";
+
+/* (No Comment) */
+"Amiga Zoom Disk Archive" = "Amiga Zoom 디스크 아카이브";
+
+/* (No Comment) */
+"Android Application Package" = "Android 애플리케이션 패키지";
+
+/* (No Comment) */
+"Apple Archive" = "Apple 아카이브";
+
+/* (No Comment) */
+"APPX Archive" = "APPX 아카이브";
+
+/* (No Comment) */
+"ARC Archive" = "ARC 아카이브";
+
+/* (No Comment) */
+"ARJ Archive" = "ARJ 아카이브";
+
+/* (No Comment) */
+"BZIP2 Archive" = "BZIP2 아카이브";
+
+/* (No Comment) */
+"BZIP2 Tarball Archive" = "BZIP2 Tarball 아카이브";
+
+/* (No Comment) */
+"CAB Archive" = "CAB 아카이브";
+
+/* (No Comment) */
+"CDI Disk Image" = "CDI 디스크 이미지";
+
+/* (No Comment) */
+"Compact Pro Archive" = "Compact Pro 아카이브";
+
+/* (No Comment) */
+"Compressed Amiga Disk File" = "Amiga 디스크 압축 파일";
+
+/* (No Comment) */
+"Deb Archive" = "Deb 아카이브";
+
+/* (No Comment) */
+"DiskDoubler Archive" = "DiskDoubler 아카이브";
+
+/* (No Comment) */
+"Generic Archive Volume" = "범용 아카이브 볼륨";
+
+/* (No Comment) */
+"HA Archive" = "HA 아카이브";
+
+/* (No Comment) */
+"Keka Extraction Package" = "Keka 압축 해제 패키지";
+
+/* (No Comment) */
+"LBR Archive" = "LBR 아카이브";
+
+/* (No Comment) */
+"LhA Archive" = "LhA 아카이브";
+
+/* (No Comment) */
+"LhF Archive" = "LhF 아카이브";
+
+/* (No Comment) */
+"Linux RPM Archive" = "Linux RPM 아카이브";
+
+/* (No Comment) */
+"LZMA File" = "LZMA 파일";
+
+/* (No Comment) */
+"LZX Archive" = "LZX 아카이브";
+
+/* (No Comment) */
+"MDF Disk Image" = "MDF 디스크 이미지";
+
+/* (No Comment) */
+"Microsoft MSI Installer" = "Microsoft MSI 설치 프로그램";
+
+/* (No Comment) */
+"Now Compress Archive" = "Now Compress 아카이브";
+
+/* (No Comment) */
+"NRG Disk Image" = "NRG 디스크 이미지";
+
+/* (No Comment) */
+"NSA Archive" = "NSA 아카이브";
+
+/* (No Comment) */
+"PackIt Archive" = "PackIt 아카이브";
+
+/* (No Comment) */
+"Pax Archive" = "Pax 아카이브";
+
+/* (No Comment) */
+"PMA Archive" = "PMA 아카이브";
+
+/* (No Comment) */
+"RAR Archive" = "RAR 아카이브";
+
+/* (No Comment) */
+"SAR Archive" = "SAR 아카이브";
+
+/* (No Comment) */
+"Self-Extracting Archive" = "자체 풀림 압축 파일";
+
+/* (No Comment) */
+"Unix Compress File" = "Unix 압축 파일";
+
+/* (No Comment) */
+"Unix Compress Tar Archive" = "Unix Tar 압축 파일";
+
+/* (No Comment) */
+"WARC Web Archive" = "WARC Web 아카이브";
+
+/* (No Comment) */
+"XAR Archive" = "XAR 아카이브";
+
+/* (No Comment) */
+"XIP Archive" = "XIP 아카이브";
+
+/* (No Comment) */
+"XZ Archive" = "XZ 아카이브";
+
+/* (No Comment) */
+"XZ Tarball Archive" = "XZ Tarball 아카이브";
+
+/* (No Comment) */
+"ZIP Archive" = "ZIP 아카이브";
+
+/* (No Comment) */
+"ZIPX Archive" = "ZIPX 아카이브";
+
+/* (No Comment) */
+"ZOO Archive" = "ZOO 아카이브";
+
+/* (No Comment) */
+"Zstandard Archive" = "Zstandard 아카이브";
+
+/* (No Comment) */
+"Zstandard Tarball Archive" = "Zstandard Tarball 아카이브";
+

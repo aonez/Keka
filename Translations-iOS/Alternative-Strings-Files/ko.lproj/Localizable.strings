@@ -1,0 +1,603 @@
+/* Keka Folder */
+"%@ Folder" = "%@ 폴더";
+
+/* No comment provided by engineer. */
+"%@ item" = "개의 항목";
+
+/* No comment provided by engineer. */
+"%@ items" = "개의 항목";
+
+/* _OPERATION_ of "_FILENAME_" failed */
+"%@ of \"%@\" failed" = "%@ 실패: \"%@\"";
+
+/* No comment provided by engineer. */
+"%@ of %@ item" = "%@/%@ 선택됨";
+
+/* No comment provided by engineer. */
+"%@ of %@ items" = "%@/%@ 선택됨";
+
+/* No comment provided by engineer. */
+"%lld items" = "%lld개의 항목";
+
+/* No comment provided by engineer. */
+"About" = "정보";
+
+/* No comment provided by engineer. */
+"Actions" = "동작";
+
+/* No comment provided by engineer. */
+"Actions to do with the current browsed file" = "현재 탐색 중인 파일로 수행할 작업";
+
+/* No comment provided by engineer. */
+"Add a File" = "파일 추가";
+
+/* No comment provided by engineer. */
+"Add a Folder" = "폴더 추가";
+
+/* No comment provided by engineer. */
+"Add a Photo or Video" = "사진이나 동영상 추가";
+
+/* No comment provided by engineer. */
+"Add files and folders to a compression list" = "압축 목록에 파일 및 폴더 추가";
+
+/* No comment provided by engineer. */
+"Add some contents using the %@ button or the %@ button in the toolbar." = "%@ 버튼이나 도구 모음의 %@ 버튼을 눌러 내용을 추가하세요.";
+
+/* No comment provided by engineer. */
+"Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar." = "%@ 버튼이나 도구 모음의 %@, %@, %@ 버튼을 눌러 내용을 추가하세요.";
+
+/* No comment provided by engineer. */
+"Add some contents using the %@ button." = "%@ 버튼을 눌러 내용을 추가하세요.";
+
+/* No comment provided by engineer. */
+"Advanced Settings" = "고급 설정";
+
+/* No comment provided by engineer. */
+"Allocated size" = "할당된 크기";
+
+/* No comment provided by engineer. */
+"archive" = "아카이브";
+
+/* No comment provided by engineer. */
+"Archive items separately" = "항목을 각각 압축";
+
+/* Default compression file name. */
+"ARCHIVE_DEFAULT_NAME" = "아카이브";
+
+/* No comment provided by engineer. */
+"Ask" = "묻기";
+
+/* Browse, operation description. */
+"BROWSE_OPERATION" = "탐색";
+
+/* Browsing, operation running. */
+"BROWSE_RUNNING" = "탐색 중";
+
+/* Browsing, tasks section title. */
+"BROWSE_SECTION_TITLE" = "탐색 중";
+
+/* Browser settings title. */
+"Browser" = "탐색";
+
+/* "by aone" part from "Made with love by aone". */
+"by %@" = "%@ 제작";
+
+/* No comment provided by engineer. */
+"Bytes" = "바이트";
+
+/* No comment provided by engineer. */
+"Calculate" = "계산";
+
+/* No comment provided by engineer. */
+"Cancel" = "취소";
+
+/* No comment provided by engineer. */
+"Cancelled" = "취소됨";
+
+/* No comment provided by engineer. */
+"Choose" = "선택";
+
+/* No comment provided by engineer. */
+"Clear Cache" = "캐시 지우기";
+
+/* No comment provided by engineer. */
+"Clear Cache Contents" = "캐시 콘텐츠 지우기";
+
+/* No comment provided by engineer. */
+"Close" = "닫기";
+
+/* No comment provided by engineer. */
+"Comments" = "댓글";
+
+/* No comment provided by engineer. */
+"Compress" = "압축";
+
+/* No comment provided by engineer. */
+"compress" = "압축";
+
+/* No comment provided by engineer. */
+"Compress all the items in the compression list" = "압축 목록에 있는 모든 항목 압축하기";
+
+/* No comment provided by engineer. */
+"Compress Files with Keka" = "Keka로 파일 압축하기";
+
+/* No comment provided by engineer. */
+"Compress some files with Keka." = "Keka로 파일을 압축합니다.";
+
+/* No comment provided by engineer. */
+"compressed" = "압축됨";
+
+/* No comment provided by engineer. */
+"Compressed size" = "압축된 크기";
+
+/* Compression settings title. */
+"Compression" = "압축";
+
+/* No comment provided by engineer. */
+"compression" = "압축";
+
+/* No comment provided by engineer. */
+"compression failed" = "압축 실패";
+
+/* No comment provided by engineer. */
+"Compression Level:" = "압축 방법:";
+
+/* Compression, operation description. */
+"COMPRESSION_OPERATION" = "압축";
+
+/* Compressing, operation running. */
+"COMPRESSION_RUNNING" = "압축 중";
+
+/* Compressing, tasks section title. */
+"COMPRESSION_SECTION_TITLE" = "압축 중";
+
+/* No comment provided by engineer. */
+"Contents" = "내용";
+
+/* No comment provided by engineer. */
+"Contents: %@, Size: %@" = "내용: %@, 크기: %@";
+
+/* No comment provided by engineer. */
+"Contents: %lld, Size: %@" = "내용: %lld, 크기: %@";
+
+/* No comment provided by engineer. */
+"Created" = "생성일";
+
+/* No comment provided by engineer. */
+"Custom..." = "사용자 지정...";
+
+/* No comment provided by engineer. */
+"Date" = "날짜";
+
+/* No comment provided by engineer. */
+"Default Compression Level" = "기본 압축 방법";
+
+/* No comment provided by engineer. */
+"Default Destination" = "대상 위치 기본값";
+
+/* No comment provided by engineer. */
+"Default Format" = "기본 형식";
+
+/* No comment provided by engineer. */
+"Default Tap Action" = "기본 탭 동작";
+
+/* No comment provided by engineer. */
+"Default Volume Unit" = "기본 용량 단위";
+
+/* No comment provided by engineer. */
+"Delete" = "삭제";
+
+/* No comment provided by engineer. */
+"Delete files(s) after compression" = "압축한 뒤 파일 삭제";
+
+/* No comment provided by engineer. */
+"Destination" = "대상 위치";
+
+/* No comment provided by engineer. */
+"Disable \"%@\" if you prefer to use a default configuration." = "기본 설정을 사용하려면 \"%@\" 설정을 끄세요.";
+
+/* No comment provided by engineer. */
+"Dismiss" = "무시";
+
+/* No comment provided by engineer. */
+"Document" = "문서";
+
+/* No comment provided by engineer. */
+"Documents" = "문서";
+
+/* No comment provided by engineer. */
+"Done" = "완료";
+
+/* No comment provided by engineer. */
+"done" = "완료";
+
+/* No comment provided by engineer. */
+"Downloads" = "다운로드";
+
+/* No comment provided by engineer. */
+"Edit" = "수정";
+
+/* No comment provided by engineer. */
+"Encrypt Filenames" = "파일 이름 암호화";
+
+/* No comment provided by engineer. */
+"Encrypt Filenames if Possible" = "가능하면 파일 이름 암호화";
+
+/* No comment provided by engineer. */
+"Enter the password for the file\n\"%@\"" = "\"%@\" 파일의 암호 입력";
+
+/* No comment provided by engineer. */
+"Exclude Mac resource forks" = "Mac 리소스 포크 포함 안 함";
+
+/* No comment provided by engineer. */
+"Extract" = "압축 해제";
+
+/* No comment provided by engineer. */
+"extract" = "압축 해제";
+
+/* No comment provided by engineer. */
+"Extract Files with Keka" = "Keka로 압축 해제하기";
+
+/* No comment provided by engineer. */
+"Extract some files with Keka." = "Keka로 파일의 압축을 해제합니다.";
+
+/* No comment provided by engineer. */
+"Extract the file" = "파일 압축 해제";
+
+/* No comment provided by engineer. */
+"extracted" = "압축 해제됨";
+
+/* Extraction settings title. */
+"Extraction" = "압축 해제";
+
+/* No comment provided by engineer. */
+"extraction" = "압축 해제";
+
+/* No comment provided by engineer. */
+"extraction failed" = "압축 해제 실패";
+
+/* Extraction, operation description. */
+"EXTRACTION_OPERATION" = "압축 해제";
+
+/* Extracting, operation running. */
+"EXTRACTION_RUNNING" = "압축 해제 중";
+
+/* Extracting, tasks section title. */
+"EXTRACTION_SECTION_TITLE" = "압축 해제";
+
+/* No comment provided by engineer. */
+"failed" = "실패";
+
+/* No comment provided by engineer. */
+"Fast" = "빠름";
+
+/* No comment provided by engineer. */
+"Fastest" = "가장 빠름";
+
+/* No comment provided by engineer. */
+"Feedback" = "피드백";
+
+/* No comment provided by engineer. */
+"file" = "파일";
+
+/* No comment provided by engineer. */
+"File for Keka" = "Keka에서 다룰 파일";
+
+/* No comment provided by engineer. */
+"File not informed properly, try again." = "파일이 제대로 전달되지 않았습니다. 다시 시도하세요.";
+
+/* No comment provided by engineer. */
+"Files" = "파일";
+
+/* No comment provided by engineer. */
+"Files and Folders" = "파일 및 폴더";
+
+/* No comment provided by engineer. */
+"Folder drop is only supported on iOS 16 or newer" = "폴더 끌어다 놓기는 iOS 16 이상에서만 지원합니다";
+
+/* No comment provided by engineer. */
+"Format" = "형식";
+
+/* General settings title. */
+"General" = "일반";
+
+/* No comment provided by engineer. */
+"Get Info" = "정보 가져오기";
+
+/* No comment provided by engineer. */
+"Gigabyte" = "기가바이트";
+
+/* No comment provided by engineer. */
+"Give Access" = "접근 허용";
+
+/* No comment provided by engineer. */
+"Hide Password by Default" = "기본으로 암호 숨김";
+
+/* No comment provided by engineer. */
+"If you got here, please get in touch with the developers." = "이 메시지를 보고 있다면, 개발자에게 문의해주세요.";
+
+/* No comment provided by engineer. */
+"Information" = "정보";
+
+/* No comment provided by engineer. */
+"Keka's Folder" = "Keka의 폴더";
+
+/* No comment provided by engineer. */
+"Keka's icon" = "Keka의 아이콘";
+
+/* No comment provided by engineer. */
+"Kilobytes" = "킬로바이트";
+
+/* No comment provided by engineer. */
+"Kind" = "종류";
+
+/* No comment provided by engineer. */
+"Last opened" = "최근 사용일";
+
+/* No comment provided by engineer. */
+"Level" = "방법";
+
+/* No comment provided by engineer. */
+"Loading" = "불러오는 중";
+
+/* "Made with" part from "Made with love by aone". */
+"Made with" = "사랑을 담아";
+
+/* No comment provided by engineer. */
+"Megabytes" = "메가바이트";
+
+/* No comment provided by engineer. */
+"Modified" = "수정일";
+
+/* No comment provided by engineer. */
+"Name" = "이름";
+
+/* No comment provided by engineer. */
+"New Compression" = "새 압축";
+
+/* No comment provided by engineer. */
+"No archive selected" = "선택한 압축 파일 없음";
+
+/* No comment provided by engineer. */
+"No contents" = "내용 없음";
+
+/* No comment provided by engineer. */
+"No files to extract" = "압축 해제할 파일 없음";
+
+/* No comment provided by engineer. */
+"None" = "없음";
+
+/* No comment provided by engineer. */
+"Normal" = "일반";
+
+/* No comment provided by engineer. */
+"Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files." = "모든 플랫폼이 AES-256을 지원하지는 않습니다. 이런 압축 파일을 해제하려면 (Keka같은) 제삼자 애플리케이션이 필요할 수 있습니다.";
+
+/* No comment provided by engineer. */
+"OK" = "확인";
+
+/* No comment provided by engineer. */
+"Open" = "열기";
+
+/* No comment provided by engineer. */
+"Open Keka" = "Keka 열기";
+
+/* No comment provided by engineer. */
+"Open..." = "열기...";
+
+/* No comment provided by engineer. */
+"Order" = "순서";
+
+/* No comment provided by engineer. */
+"Password" = "암호";
+
+/* No comment provided by engineer. */
+"Password for \"%@\"" = "의 암호";
+
+/* No comment provided by engineer. */
+"Password needed" = "암호 필수";
+
+/* No comment provided by engineer. */
+"Password Protected" = "암호로 보호됨";
+
+/* No comment provided by engineer. */
+"Pause" = "정지";
+
+/* No comment provided by engineer. */
+"Petabytes" = "페타바이트";
+
+/* No comment provided by engineer. */
+"Please enter the password for:" = "암호 입력:";
+
+/* No comment provided by engineer. */
+"Please select the encoding for:" = "인코딩 선택:";
+
+/* No comment provided by engineer. */
+"Preview" = "미리보기";
+
+/* No comment provided by engineer. */
+"Quick Look" = "훑어보기";
+
+/* No comment provided by engineer. */
+"Remember Last Used Options" = "최근 사용한 설정 기억하기";
+
+/* No comment provided by engineer. */
+"Remove" = "제거";
+
+/* No comment provided by engineer. */
+"Remove All Items" = "모든 항목 제거";
+
+/* No comment provided by engineer. */
+"Remove from cache" = "캐시에서 제거";
+
+/* No comment provided by engineer. */
+"Remove the selected items from the compression list" = "선택한 항목을 압축 목록에서 제거";
+
+/* No comment provided by engineer. */
+"Reset" = "초기화";
+
+/* No comment provided by engineer. */
+"Reset All Settings" = "모든 설정 초기화";
+
+/* No comment provided by engineer. */
+"Resume" = "재개";
+
+/* No comment provided by engineer. */
+"Review" = "리뷰";
+
+/* No comment provided by engineer. */
+"Run asynchronously" = "비동기로 실행";
+
+/* No comment provided by engineer. */
+"Save" = "저장";
+
+/* No comment provided by engineer. */
+"Select some files and folders for Keka." = "Keka로 다룰 파일과 폴더를 선택하세요.";
+
+/* No comment provided by engineer. */
+"Settings" = "설정";
+
+/* No comment provided by engineer. */
+"Share" = "공유";
+
+/* No comment provided by engineer. */
+"Share..." = "공유...";
+
+/* No comment provided by engineer. */
+"Show Advanced Settings" = "고급 설정 보기";
+
+/* No comment provided by engineer. */
+"Show Info" = "정보 보기";
+
+/* No comment provided by engineer. */
+"Show Less" = "덜보기";
+
+/* No comment provided by engineer. */
+"Show or hide additional advanced settings" = "고급 설정을 표시하거나 숨기기";
+
+/* No comment provided by engineer. */
+"Show or hide additional information about the selected item" = "선택한 항목의 추가 정보 표시하거나 숨기기";
+
+/* No comment provided by engineer. */
+"Size" = "크기";
+
+/* No comment provided by engineer. */
+"Slow" = "느림";
+
+/* No comment provided by engineer. */
+"Slowest" = "가장 느림";
+
+/* No comment provided by engineer. */
+"Split in volumes" = "용량으로 분할";
+
+/* No comment provided by engineer. */
+"Store" = "저장";
+
+/* No comment provided by engineer. */
+"Terabytes" = "테라바이트";
+
+/* No comment provided by engineer. */
+"The %@ of space available in the destination might not be enough for compressing the estimated %@." = "대상 위치의 사용 가능한 공간(%@)이 예상 파일(%@)에 비해 충분하지 않을 수 있습니다.";
+
+/* No comment provided by engineer. */
+"The changes could not be saved" = "변경 사항을 저장할 수 없습니다";
+
+/* No comment provided by engineer. */
+"The character %@ is not compatilbe with the %@ format." = "%@ 문자가 %@ 형식과 호환되지 않습니다.";
+
+/* No comment provided by engineer. */
+"The characters %@ are not compatilbe with the %@ format." = "%@ 문자가 %@ 형식과 호환되지 않습니다.";
+
+/* No comment provided by engineer. */
+"The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "압축 시 사용 가능한 공간(%@)보다 더 많은 용량이 필요할 수 있으며, 압축을 성공하지 못할 수 있습니다. 스레드 수는 1개로 제한됩니다.";
+
+/* No comment provided by engineer. */
+"The compression will be limited to %lld thread/s due to memory constraints." = "메모리 제약으로 인해 압축 설정이 %lld스레드로 제한됩니다.";
+
+/* No comment provided by engineer. */
+"The destination has %@ of space available." = "대상 위치에는 여유 공간이 %@ 있습니다.";
+
+/* No comment provided by engineer. */
+"The file manager for iOS and macOS" = "iOS 및 macOS 파일 관리자";
+
+/* No comment provided by engineer. */
+"The folder is empty" = "폴더가 비었음";
+
+/* No comment provided by engineer. */
+"The password length should be %lld or higher." = "암호 길이는 %lld자 이상이어야 합니다.";
+
+/* No comment provided by engineer. */
+"The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "더 느린 압축 방법를 이용하면 더 많이 압축할 수 있습니다. \"저장\" 방법을 이용하면 압축하지 않고, 압축 파일 형식으로만 변환합니다. ";
+
+/* No comment provided by engineer. */
+"This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "이 볼륨 파일을 열려면 파일 접근 권한이 추가로 필요합니다.\n나머지 파일이나 상위 폴더에 대해 접근 권한을 부여해 주세요.";
+
+/* No comment provided by engineer. */
+"To extract" = "압축 해제";
+
+/* No comment provided by engineer. */
+"To prevent a timeout on large operation, enable this setting. The result will always be true if enabled." = "대규모 작업 시 시간 초과로 중단되지 않도록 하려면 이 설정을 켜세요. 설정이 켜진 경우 결과는 항상 \"true\"가 됩니다.";
+
+/* No comment provided by engineer. */
+"Total size" = "총 크기";
+
+/* No comment provided by engineer. */
+"Translated by %@" = "Translated by %@";
+
+/* The translator link, if any. Can be a mail address or a website. */
+"TRANSLATOR_LINK" = "https://github.com/justcontributor";
+
+/* The translator name, if any. */
+"TRANSLATOR_NAME" = "justcontributor";
+
+/* No comment provided by engineer. */
+"Type" = "유형";
+
+/* No comment provided by engineer. */
+"Unable to apply the app icon" = "앱 아이콘을 적용할 수 없음";
+
+/* No comment provided by engineer. */
+"Unable to browse \"%@\"" = "\"%@\" 파일을 탐색할 수 없음";
+
+/* No comment provided by engineer. */
+"Unable to delete the file" = "파일을 삭제할 수 없음";
+
+/* No comment provided by engineer. */
+"Unable to determine the available space." = "사용 가능한 공간을 정의할 수 없습니다.";
+
+/* No comment provided by engineer. */
+"Unable to get encoding data" = "데이터를 인코딩할 수 없음";
+
+/* No comment provided by engineer. */
+"URL Encoded" = "URL 인코딩 완료";
+
+/* No comment provided by engineer. */
+"Use AES-256 Encryption" = "AES-256 암호화 사용";
+
+/* No comment provided by engineer. */
+"Use AES-256 if Available" = "가능하면 AES-256 암호화 사용";
+
+/* No comment provided by engineer. */
+"Use special coloring for known formats" = "알려진 형식에 특별한 색상 적용";
+
+/* No comment provided by engineer. */
+"Use UTF-8 Encoding if Available" = "가능하면 UTF-8 인코딩 사용";
+
+/* No comment provided by engineer. */
+"Verify compression integrity" = "압축 무결성 검사";
+
+/* No comment provided by engineer. */
+"Volume Size" = "볼륨 크기";
+
+/* No comment provided by engineer. */
+"Volume Unit" = "볼륨 단위";
+
+/* No comment provided by engineer. */
+"Welcome" = "환영합니다";
+
+/* The "Welcome to Keka" title. */
+"Welcome to %@" = "%@ 사용을 환영합니다";
+
+/* No comment provided by engineer. */
+"Where" = "위치";
+

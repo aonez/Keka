@@ -17,7 +17,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Keka/en.lproj/InfoPlist.strings" source-language="en" target-language="it" datatype="plaintext">
+  <file original="Keka/en.lproj/InfoPlist.strings" source-language="en" target-language="ko" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.2" build-num="15C500b"/>
     </header>
@@ -299,7 +299,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Keka/en.lproj/Localizable.strings" source-language="en" target-language="it" datatype="plaintext">
+  <file original="Keka/en.lproj/Localizable.strings" source-language="en" target-language="ko" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.2" build-num="15C500b"/>
     </header>
@@ -1319,7 +1319,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
     </body>
   </file>
-  <file original="KekaBrowseAction/en.lproj/InfoPlist.strings" source-language="en" target-language="it" datatype="plaintext">
+  <file original="KekaBrowseAction/en.lproj/InfoPlist.strings" source-language="en" target-language="ko" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.2" build-num="15C500b"/>
     </header>
@@ -1331,7 +1331,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
     </body>
   </file>
-  <file original="KekaCompressionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="it" datatype="plaintext">
+  <file original="KekaCompressionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="ko" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.2" build-num="15C500b"/>
     </header>
@@ -1343,7 +1343,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
     </body>
   </file>
-  <file original="KekaExtractionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="it" datatype="plaintext">
+  <file original="KekaExtractionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="ko" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.2" build-num="15C500b"/>
     </header>
