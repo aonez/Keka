@@ -1,8 +1,8 @@
 "Open with Keka" = "Megnyitás Keka-val";
 "Compress here" = "Tömörítés ide";
 "Compress to..." = "Tömörítés más helyre...";
-"Encrypt here" = "Encrypt here";
-"Encrypt to..." = "Encrypt to...";
+"Encrypt here" = "Titkosítás itt";
+"Encrypt to..." = "Titkosítás ide...";
 "Compress the contents of the folder here" = "A mappa tartalmának tömörítése ide";
 "Compress the contents of the folder to..." = "A mappa tartalmának tömörítése...";
 "Encrypt with the default password here" = "Titkosítás az alapértelmezett jelszóval ide";

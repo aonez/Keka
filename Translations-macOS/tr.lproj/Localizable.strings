@@ -241,8 +241,8 @@
 "The password length should be %i or higher" = "Şifre uzunluğu %i karakter veya daha yüksek olmalıdır";
 " (Entire Device)" = " (Cihazın tamamı)";
 "Recovery Volumes:" = "Recovery Volumes:";
-"Encrypt" = "Encrypt";
-"Skip" = "Skip";
+"Encrypt" = "Şifrele";
+"Skip" = "Atla";
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "Tercihler…";
 

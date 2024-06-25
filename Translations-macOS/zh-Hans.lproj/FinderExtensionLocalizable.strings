@@ -1,8 +1,8 @@
 "Open with Keka" = "使用 Keka 打开";
 "Compress here" = "压缩至当前位置";
 "Compress to..." = "压缩至…";
-"Encrypt here" = "Encrypt here";
-"Encrypt to..." = "Encrypt to...";
+"Encrypt here" = "在这里加密";
+"Encrypt to..." = "加密到...";
 "Compress the contents of the folder here" = "压缩文件夹内容至当前位置";
 "Compress the contents of the folder to..." = "压缩文件夹内容至…";
 "Encrypt with the default password here" = "使用默认密码加密至当前位置";
