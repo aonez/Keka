@@ -3,6 +3,8 @@
 xcode=0
 onlyBase=0
 
+cd "${0%/*}"
+
 for var in "$@"
 do
 	if [ "$var" == "-xcode" ]; then
