@@ -22,7 +22,7 @@
 /* No comment provided by engineer. */
 "About" = "情報";
 
-/* No comment provided by engineer. */ 
+/* No comment provided by engineer. */
 "Actions" = "アクション";
 
 /* No comment provided by engineer. */
@@ -62,19 +62,19 @@
 "Archive items separately" = "分割アーカイブ項目";
 
 /* Default compression file name. */
-"ARCHIVE_DEFAULT_NAME" = "圧縮ファイル";
+"ARCHIVE_DEFAULT_NAME" = "アーカイブ";
 
 /* No comment provided by engineer. */
 "Ask" = "確認";
 
 /* Browse, operation description. */
-"BROWSE_OPERATION" = "開く";
+"BROWSE_OPERATION" = "閲覧";
 
 /* Browsing, operation running. */
-"BROWSE_RUNNING" = "開く";
+"BROWSE_RUNNING" = "閲覧中";
 
 /* Browsing, tasks section title. */
-"BROWSE_SECTION_TITLE" = "開く";
+"BROWSE_SECTION_TITLE" = "閲覧中";
 
 /* Browser settings title. */
 "Browser" = "ブラウザ";
@@ -149,7 +149,7 @@
 "COMPRESSION_RUNNING" = "圧縮中";
 
 /* Compressing, tasks section title. */
-"COMPRESSION_SECTION_TITLE" = "圧縮";
+"COMPRESSION_SECTION_TITLE" = "圧縮中";
 
 /* No comment provided by engineer. */
 "Contents" = "内容";
@@ -224,7 +224,7 @@
 "Encrypt Filenames if Possible" = "可能であればファイル名を暗号化する";
 
 /* No comment provided by engineer. */
-"Enter the password for the file\n\"%@\"" = "\"%@\"\nのファイル パスワードを入力";
+"Enter the password for the file\n\"%@\"" = "\"%@\"\n のファイルパスワードを入力";
 
 /* No comment provided by engineer. */
 "Exclude Mac resource forks" = "Mac のリソースフォークを取り除く";
@@ -530,7 +530,7 @@
 "The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "圧縮レベルが遅いほど、高い圧縮率になります。ストアレベルは圧縮をおこなわず、内容をアーカイブするのみになります。";
 
 /* No comment provided by engineer. */
-"This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "このボリューム・ファイルを開くには、アクセス権の追加が必要です。残りのファイルまたは親フォルダにアクセス権を与えることができます。";
+"This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "このボリューム・ファイルを開くには、アクセス権の追加が必要です。\n残りのファイルまたは親フォルダにアクセス権を与えることができます。";
 
 /* No comment provided by engineer. */
 "To extract" = "展開する";
