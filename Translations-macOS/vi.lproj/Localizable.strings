@@ -122,6 +122,7 @@
 "Perform automatic action" = "Thực hiện thao tác tự động";
 "Always compress" = "Luôn luôn nén";
 "Always extract" = "Luôn luôn giải nén";
+"Always extract compatible formats" = "Always extract compatible formats";
 "1.4 MB Floppy" = "Đĩa mềm 1.4 MB";
 "650 MB CD" = "650 MB CD";
 "700 MB CD" = "700 MB CD";
@@ -199,7 +200,8 @@
 "The extension is enabled" = "Phần mở rộng đã bật";
 "The extension is disabled" = "Phần mở rộng đã tắt";
 "Enable or disable the extension" = "Bật hoặc tắt phần mở rộng";
-"Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "Keka sẽ quyết định nén hay giải nén dựa trên định dạng và phần mở rộng của tệp. Đây là tùy chọn được đề nghị.";
+"Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option." = "Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option.";
+"Keka will decide whether to compress or uncompress based on the file format and extension." = "Keka will decide whether to compress or uncompress based on the file format and extension.";
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka sẽ nén tất cả các tệp, ngay cả những tệp đã được nén. Bạn có thể nén một tệp đã được nén ở chế độ tự động bằng cách thả nó xuống phần dưới cùng của vùng thả.";
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka sẽ cố gắng giải nén tất cả các tệp. Bạn có thể cố gắng giải nén một tệp không xác định ở chế độ tự động bằng cách thả nó vào phần dưới cùng của vùng thả.";
 "Show the operation log" = "Hiện nhận ký hoạt động";

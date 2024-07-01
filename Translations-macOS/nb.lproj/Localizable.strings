@@ -122,6 +122,7 @@
 "Perform automatic action" = "Utfør automatisk handling";
 "Always compress" = "Alltid komprimer";
 "Always extract" = "Alltid pakk ut";
+"Always extract compatible formats" = "Always extract compatible formats";
 "1.4 MB Floppy" = "1.4 MB floppydisk";
 "650 MB CD" = "650 MB CD";
 "700 MB CD" = "700 MB CD";
@@ -199,7 +200,8 @@
 "The extension is enabled" = "Utvidelsen er aktivert";
 "The extension is disabled" = "Utvidelsen er deaktivert";
 "Enable or disable the extension" = "Aktiver eller deaktiver utvidelsen";
-"Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "Keka vil velge komprimering eller utpakking basert på filformat og filendelse. Dette er det anbefalte valget.";
+"Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option." = "Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option.";
+"Keka will decide whether to compress or uncompress based on the file format and extension." = "Keka will decide whether to compress or uncompress based on the file format and extension.";
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka vil komprimere alle filer, selv de som allerede er komprimert. Du kan komprimere en allerede komprimert fil i automatisk modus ved å slippe den nederst i slippsonen.";
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka vil prøve å pakke ut alle filer. Du kan pakke ut en ukjent fil i automatisk modus ved å slippe den nederst i slippsonen.";
 "Show the operation log" = "Vis operasjonsloggen";

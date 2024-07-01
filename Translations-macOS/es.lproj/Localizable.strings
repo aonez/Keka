@@ -122,6 +122,7 @@
 "Perform automatic action" = "Realizar operación automáticamente";
 "Always compress" = "Comprimir siempre";
 "Always extract" = "Extraer siempre";
+"Always extract compatible formats" = "Extraer siempre los formatos compatibles";
 "1.4 MB Floppy" = "1,4 MB Disquete";
 "650 MB CD" = "650 MB CD";
 "700 MB CD" = "700 MB CD";
@@ -199,7 +200,8 @@
 "The extension is enabled" = "La extensión está habilitada";
 "The extension is disabled" = "La extensión está deshabilitada";
 "Enable or disable the extension" = "Habilita o deshabilita l'extensió";
-"Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "Keka decidirá si comprimir o descomprimir según el formato y extensión de los ficheros. Esta es la opción recomendada.";
+"Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option." = "Keka decidirá si comprimir o descomprimir según la extensión y el formato de los ficheros desconocidos. Esta es la opción recomendada.";
+"Keka will decide whether to compress or uncompress based on the file format and extension." = "Keka decidirá si comprimir o descomprimir según el formato y la extensión de los ficheros.";
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka comprimirá todos los ficheros, incluso aquellos que ya estén comprimidos. Puedes forzar la compresión de archivos ya comprimidos en el modo automático arrastrando y soltándolos en la parte inferior de la zona de arrastre.";
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka intentará extraer todos los ficheros. Puedes intentar extraer ficheros desconocidos en el modo automático arrastrando y soltándolos en la parte inferior de la zona de arrastre.";
 "Show the operation log" = "Mostrar el registro de la operación";

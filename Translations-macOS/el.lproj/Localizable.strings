@@ -122,6 +122,7 @@
 "Perform automatic action" = "Επιλογή αυτόματης ενέργειας";
 "Always compress" = "Πάντα συμπίεση";
 "Always extract" = "Πάντα εξαγωγή";
+"Always extract compatible formats" = "Always extract compatible formats";
 "1.4 MB Floppy" = "1.4 MB Δισκέττα";
 "650 MB CD" = "650 MB CD";
 "700 MB CD" = "700 MB CD";
@@ -199,7 +200,8 @@
 "The extension is enabled" = "Η προέκταση έχει ενεργοποιηθεί";
 "The extension is disabled" = "Η προέκταση έχει απενεργοποιηθεί";
 "Enable or disable the extension" = "Ενεργοποίησε ή απενεργοποίησε την προέκταση";
-"Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "Το Keka θα αποφασίσει εάν θα συμπιέσει ή αποσυμπιέσει, βάση της μορφοποίησης του αρχείου και της προέκτασής του. Είναι η συνιστώμενη επιλογή";
+"Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option." = "Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option.";
+"Keka will decide whether to compress or uncompress based on the file format and extension." = "Keka will decide whether to compress or uncompress based on the file format and extension.";
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Το Keka θα συμπιέσει όλα τα αρχεία, ακόμα και αυτά που είναι ήδη συμπιεσμένα. Μπορείτε να συμπιέσετε ένα ήδη συμπιεσμένο αρχείο μέσω της αυτόματης λειτουργίας “ρίχνοντάς το” στην κάτω περιοχή της ζώνης απόθεσης (drop zone).";
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Το Keka θα προσπαθήσει να εξάγει όλα τα αρχεία. Μπορείτε να προσπαθήσετε να εξάγετε ένα άγνωστο τύπο αρχείου, μέσω της αυτόματης λειτουργίας “ρίχνοντάς το” στην κάτω περιοχή της ζώνης απόθεσης (drop zone).";
 "Show the operation log" = "Εμφάνιση του ιστορικού των λειτουργιών";

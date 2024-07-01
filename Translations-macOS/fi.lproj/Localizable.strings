@@ -122,6 +122,7 @@
 "Perform automatic action" = "Suorita automaattinen toiminto";
 "Always compress" = "Pakkaa aina";
 "Always extract" = "Pura aina";
+"Always extract compatible formats" = "Always extract compatible formats";
 "1.4 MB Floppy" = "1.4 Mt levyke";
 "650 MB CD" = "650 Mt CD";
 "700 MB CD" = "700 Mt CD";
@@ -199,7 +200,8 @@
 "The extension is enabled" = "Laajennus on käytössä";
 "The extension is disabled" = "Laajennus ei ole käytössä";
 "Enable or disable the extension" = "Ota laajennus käyttöön tai ota pois käytöstä";
-"Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "Keka päättää pakataanko vai puretaanko kohde, tiedostomuodon ja tarkenteen mukaan.";
+"Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option." = "Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option.";
+"Keka will decide whether to compress or uncompress based on the file format and extension." = "Keka will decide whether to compress or uncompress based on the file format and extension.";
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka pakkaa kaikki tiedostot, mukaan lukien valmiiksi pakatut tiedostot.";
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka yrittää purkaa kaikki tiedostot. Voit yrittää purkaa tuntemattoman tiedoston automaattisessa tilassa, tiputtamalla sen tiputusalueen alaosaan.";
 "Show the operation log" = "Näytä operaation logi";

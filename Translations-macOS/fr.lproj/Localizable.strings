@@ -122,6 +122,7 @@
 "Perform automatic action" = "Choisir l'action automatiquement";
 "Always compress" = "Toujours compresser";
 "Always extract" = "Toujours extraire";
+"Always extract compatible formats" = "Always extract compatible formats";
 "1.4 MB Floppy" = "Disquette 1.4 Mo";
 "650 MB CD" = "CD 650 Mo";
 "700 MB CD" = "CD 700 Mo";
@@ -199,7 +200,8 @@
 "The extension is enabled" = "L'extension est activée";
 "The extension is disabled" = "L'extension est désactivée";
 "Enable or disable the extension" = "Activer ou désactiver l'extension";
-"Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "Keka décidera s'il faut compresser ou décompresser en fonction du format et de l'extension du fichier. C'est l'option recommandée.";
+"Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option." = "Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option.";
+"Keka will decide whether to compress or uncompress based on the file format and extension." = "Keka will decide whether to compress or uncompress based on the file format and extension.";
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka compressera tous les fichiers, même ceux qui sont déjà compressés. Vous pouvez compresser un fichier déjà compressé en mode automatique en le déposant dans la partie inférieure de la zone de dépôt.";
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka essaiera d'extraire tous les fichiers. Vous pouvez essayer d'extraire un fichier inconnu en mode automatique en le déposant dans la partie inférieure de la zone de dépôt.";
 "Show the operation log" = "Afficher le journal des opérations";

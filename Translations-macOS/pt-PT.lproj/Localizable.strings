@@ -122,6 +122,7 @@
 "Perform automatic action" = "Escolher automaticamente";
 "Always compress" = "Comprimir sempre";
 "Always extract" = "Extrair sempre";
+"Always extract compatible formats" = "Always extract compatible formats";
 "1.4 MB Floppy" = "1.4 MB (disquete)";
 "650 MB CD" = "650 MB (CD)";
 "700 MB CD" = "700 MB (CD)";
@@ -199,7 +200,8 @@
 "The extension is enabled" = "A extensão está ativada";
 "The extension is disabled" = "A extensão está desativada";
 "Enable or disable the extension" = "Ative ou desative a extensão";
-"Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "O Keka decidirá entre comprimir ou extrair com base no formato e extensão do ficheiro. Esta é a opção recomendada.";
+"Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option." = "Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option.";
+"Keka will decide whether to compress or uncompress based on the file format and extension." = "Keka will decide whether to compress or uncompress based on the file format and extension.";
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "O Keka irá comprimir todos os ficheiros, até mesmo os que já estão comprimidos. No modo automático, pode largar um ficheiro já comprimido na parte inferior da área de operações para comprimi-lo.";
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "O Keka tentará extrair todos os ficheiros comprimidos. No modo automático, pode largar um ficheiro comprimido desconhecido na parte inferior da área de operações para extraí-lo.";
 "Show the operation log" = "Mostrar registo da operação";

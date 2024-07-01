@@ -122,6 +122,7 @@
 "Perform automatic action" = "자동";
 "Always compress" = "항상 압축";
 "Always extract" = "항상 압축 풀기";
+"Always extract compatible formats" = "Always extract compatible formats";
 "1.4 MB Floppy" = "1.4 MB 플로피 디스크";
 "650 MB CD" = "650 MB CD";
 "700 MB CD" = "700 MB CD";
@@ -199,7 +200,8 @@
 "The extension is enabled" = "확장 프로그램이 활성화 되었습니다";
 "The extension is disabled" = "확장 프로그램이 비활성화 되었습니다";
 "Enable or disable the extension" = "확장 프로그램 활성화 또는 비활성화";
-"Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "Keka가 파일 형식 및 확장자에 따라 압축할지 압축 해제할지 결정합니다. 권장 옵션입니다.";
+"Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option." = "Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option.";
+"Keka will decide whether to compress or uncompress based on the file format and extension." = "Keka will decide whether to compress or uncompress based on the file format and extension.";
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka는 모든 파일을 압축합니다. 이미 압축된 파일도 마찬가지입니다. 이미 압축된 파일을 드롭 영역의 맨 아래 부분에 놓아 자동 모드에서 압축할 수 있습니다.";
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka는 모든 파일을 추출하려고 합니다. 알 수 없는 파일을 드롭 영역의 맨 아래에 놓아서 자동 모드에서 추출하려고 할 수 있습니다.";
 "Show the operation log" = "작업 로그 보기";

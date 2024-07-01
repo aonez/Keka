@@ -122,6 +122,7 @@
 "Perform automatic action" = "Voer automatische actie uit";
 "Always compress" = "Altijd inpakken";
 "Always extract" = "Altijd uitpakken";
+"Always extract compatible formats" = "Always extract compatible formats";
 "1.4 MB Floppy" = "1.4 MB Diskette";
 "650 MB CD" = "650 MB CD";
 "700 MB CD" = "700 MB CD";
@@ -199,7 +200,8 @@
 "The extension is enabled" = "De extensie is ingeschakeld";
 "The extension is disabled" = "De extensie is uitgeschakeld";
 "Enable or disable the extension" = "Schakel de extentie in of uit";
-"Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "Keka beslist zelf op basis van het formaat en extensie of er in- of uitgepakt moet worden. Dit is de aangeraden optie.";
+"Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option." = "Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option.";
+"Keka will decide whether to compress or uncompress based on the file format and extension." = "Keka will decide whether to compress or uncompress based on the file format and extension.";
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka zal alle bestanden inpakken, ook bestanden die al gecomprimeerd zijn. Je kan een al ingepakt bestand comprimeren door het in het onderste gedeelte van de drop zone te slepen.";
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka zal proberen om alle bestanden uit te pakken. Je kan een onbekend bestand proberen uit te pakken door het in het onderste gedeelte van de drop zone te slepen.";
 "Show the operation log" = "Toon actie logs";

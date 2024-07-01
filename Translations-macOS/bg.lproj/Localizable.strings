@@ -122,6 +122,7 @@
 "Perform automatic action" = "Изпълни автоматично действие";
 "Always compress" = "Винаги архивирай";
 "Always extract" = "Винаги разархивирай";
+"Always extract compatible formats" = "Always extract compatible formats";
 "1.4 MB Floppy" = "1.4 MB Флопи дискета";
 "650 MB CD" = "650 МБ компактдиск";
 "700 MB CD" = "700 МБ компактдиск";
@@ -199,7 +200,8 @@
 "The extension is enabled" = "Разширението е активирано";
 "The extension is disabled" = "Разширението е деактивирано";
 "Enable or disable the extension" = "Активирай или деактивирай разширението";
-"Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "Keka ще реши дали да архивира или да разархивира въз основа на формата и разширението на файла. Това е препоръчителният вариант.";
+"Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option." = "Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option.";
+"Keka will decide whether to compress or uncompress based on the file format and extension." = "Keka will decide whether to compress or uncompress based on the file format and extension.";
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka ще архивира всички файлове, дори и тези, които вече са архивирани. Можеш да архивираш вече архивиран файл в автоматичен режим, като го пуснеш в долната част на полето за провлачване.";
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka ще се опита да извлече всички файлове. Можеш да опиташ да извлечеш неизвестен файл в автоматичен режим, като го пуснеш в долната част на полето за провлачване.";
 "Show the operation log" = "Покажи журнала на операциите";

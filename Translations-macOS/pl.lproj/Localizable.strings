@@ -122,6 +122,7 @@
 "Perform automatic action" = "Wykonaj akcję domyślną";
 "Always compress" = "Zawsze archiwizuj";
 "Always extract" = "Zawsze wyodrębniaj";
+"Always extract compatible formats" = "Always extract compatible formats";
 "1.4 MB Floppy" = "1.4 MB Floppy";
 "650 MB CD" = "650 MB CD";
 "700 MB CD" = "700 MB CD";
@@ -199,7 +200,8 @@
 "The extension is enabled" = "Rozszerzenie jest włączone";
 "The extension is disabled" = "Rozszerzenie jest wyłączone";
 "Enable or disable the extension" = "Włącz lub wyłącz rozszerzenie";
-"Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "Keka zdecyduje, czy zarchiwizować, czy wyodrębnić zawartość na podstawie formatu i rozszerzenia pliku.";
+"Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option." = "Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option.";
+"Keka will decide whether to compress or uncompress based on the file format and extension." = "Keka will decide whether to compress or uncompress based on the file format and extension.";
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka archiwizuje wszystkie pliki, nawet te, które zostały już archiwizowane. Możesz zarchiwizować plik w trybie automatycznym, upuszczając go w obrębie okna programu..";
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka spróbuje wyodrębnić każdy pliki. Możesz spróbować wyodrębnić nieznany plik w trybie automatycznym, upuszczając go w obrębie okna programu.";
 "Show the operation log" = "Pokaż dziennik operacji";

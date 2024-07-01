@@ -122,6 +122,7 @@
 "Perform automatic action" = "执行自动操作";
 "Always compress" = "始终压缩";
 "Always extract" = "始终提取";
+"Always extract compatible formats" = "Always extract compatible formats";
 "1.4 MB Floppy" = "1.4 MB 软盘";
 "650 MB CD" = "650 MB CD";
 "700 MB CD" = "700 MB CD";
@@ -199,7 +200,8 @@
 "The extension is enabled" = "扩展已启用";
 "The extension is disabled" = "扩展已禁用";
 "Enable or disable the extension" = "启用或禁用扩展";
-"Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "Keka 将根据文件格式和扩展名决定执行压缩还是解压。这是推荐的选项。";
+"Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option." = "Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option.";
+"Keka will decide whether to compress or uncompress based on the file format and extension." = "Keka will decide whether to compress or uncompress based on the file format and extension.";
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka 将压缩所有文件，即使是已压缩的文件。您可以在自动模式下将已压缩的文件拖放到放置区的底部来压缩它。";
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka 将尝试提取所有文件。您可以尝试在自动模式下将文件拖放到放置区的底部来提取未知文件。";
 "Show the operation log" = "显示操作日志";

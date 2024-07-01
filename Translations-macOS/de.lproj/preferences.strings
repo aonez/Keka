@@ -335,6 +335,9 @@
 /* Class = "NSButtonCell"; title = "Show icons in actions"; ObjectID = "s9u-2a-b8X"; */
 "s9u-2a-b8X.title" = "Icons in Aktionen anzeigen";
 
+/* Class = "NSMenuItem"; title = "Always extract compatible formats"; ObjectID = "sD5-uM-Wpa"; */
+"sD5-uM-Wpa.title" = "Always extract compatible formats";
+
 /* Class = "NSButtonCell"; title = "Enable external volumes access"; ObjectID = "sgV-AD-k4Q"; */
 "sgV-AD-k4Q.title" = "Zugriff auf externe Volumes erlauben";
 

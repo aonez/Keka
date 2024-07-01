@@ -122,6 +122,7 @@
 "Perform automatic action" = "Esegui azione automatica";
 "Always compress" = "Comprimi sempre";
 "Always extract" = "Estrai sempre";
+"Always extract compatible formats" = "Always extract compatible formats";
 "1.4 MB Floppy" = "1.4 MB Floppy";
 "650 MB CD" = "650 MB CD";
 "700 MB CD" = "700 MB CD";
@@ -199,7 +200,8 @@
 "The extension is enabled" = "L'estensione è abilitata";
 "The extension is disabled" = "L'estensione è disabilitata";
 "Enable or disable the extension" = "Abilita o disabilita l'estensione";
-"Keka will decide whether to compress or uncompress based on file format and extension. This is the recommended option." = "Keka deciderà se comprimere o decomprimere in base al formato e all'estensione del file. Questa è l'opzione consigliata.";
+"Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option." = "Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option.";
+"Keka will decide whether to compress or uncompress based on the file format and extension." = "Keka will decide whether to compress or uncompress based on the file format and extension.";
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka comprimerà tutti i file, anche quelli già compressi. Puoi comprimere un file già compresso in modalità automatica rilasciandolo nella parte inferiore dell'area di rilascio.";
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka proverà ad estrarre tutti i file. Puoi provare a estrarre un file sconosciuto in modalità automatica rilasciandolo nella parte inferiore dell'area di rilascio.";
 "Show the operation log" = "Mostra il log delle operazioni";
