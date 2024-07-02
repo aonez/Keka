@@ -200,8 +200,8 @@
 "The extension is enabled" = "拡張機能が有効になっています";
 "The extension is disabled" = "拡張機能が無効になっています";
 "Enable or disable the extension" = "拡張機能を有効または無効にする";
-"Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option." = "Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option.";
-"Keka will decide whether to compress or uncompress based on the file format and extension." = "Keka will decide whether to compress or uncompress based on the file format and extension.";
+"Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option." = "Keka は認識できないファイルの拡張子とフォーマットを参照して圧縮または解凍するかを決定します。このオプションを推奨します。";
+"Keka will decide whether to compress or uncompress based on the file format and extension." = "Keka はファイル形式と拡張子を参照して、圧縮するか解凍するかを決定します。";
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka は、すでに圧縮されているファイルも含め、すべてのファイルを圧縮します。既に圧縮されているファイルをドロップゾーンの下部にドロップすることで、自動モードで圧縮することができます。";
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka はすべてのファイルを展開しようとします。ドロップゾーンの下部に未知のファイルをドロップすることで、自動モードで展開をすることができます。";
 "Show the operation log" = "操作ログを表示する";
