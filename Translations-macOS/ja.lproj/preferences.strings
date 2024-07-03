@@ -240,7 +240,7 @@
 "Vss-gS-NkP.title" = "低い";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "WCN-jH-W9J"; */
-"WCN-jH-W9J.placeholderString" = "ここにあなたのカスタム名";
+"WCN-jH-W9J.placeholderString" = "ここにカスタム名称を入力";
 
 /* Class = "NSButtonCell"; title = "Remove bad password header structure extractions"; ObjectID = "Wd0-yz-M1h"; */
 "Wd0-yz-M1h.title" = "悪質なパスワードヘッダー構造の抽出を削除";
@@ -336,7 +336,7 @@
 "s9u-2a-b8X.title" = "アクションにアイコンを表示";
 
 /* Class = "NSMenuItem"; title = "Always extract compatible formats"; ObjectID = "sD5-uM-Wpa"; */
-"sD5-uM-Wpa.title" = "Always extract compatible formats";
+"sD5-uM-Wpa.title" = "常に互換性のあるフォーマットで展開する";
 
 /* Class = "NSButtonCell"; title = "Enable external volumes access"; ObjectID = "sgV-AD-k4Q"; */
 "sgV-AD-k4Q.title" = "外部ボリュームへのアクセスを有効にする";
