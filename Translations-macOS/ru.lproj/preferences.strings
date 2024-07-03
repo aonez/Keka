@@ -288,7 +288,7 @@
 "dhi-qv-weg.title" = "Сжатие нескольких файлов:";
 
 /* Class = "NSMenuItem"; title = "Only if configuration windows are open"; ObjectID = "dmz-xh-p9a"; */
-"dmz-xh-p9a.title" = "Только если открыто окно конфигурации (напр., выбор кодировки при распаковке)";
+"dmz-xh-p9a.title" = "Только для окон доп. опций (напр., кодировка при распаковке)";
 
 /* Class = "NSButtonCell"; title = "Set folder's modification date to extraction date"; ObjectID = "eBj-1b-wBg"; */
 "eBj-1b-wBg.title" = "Изменить дату модификации папки на дату извлечения";
@@ -336,7 +336,7 @@
 "s9u-2a-b8X.title" = "Показывать значки в действиях";
 
 /* Class = "NSMenuItem"; title = "Always extract compatible formats"; ObjectID = "sD5-uM-Wpa"; */
-"sD5-uM-Wpa.title" = "Always extract compatible formats";
+"sD5-uM-Wpa.title" = "Всегда распаковывать совместимые форматы";
 
 /* Class = "NSButtonCell"; title = "Enable external volumes access"; ObjectID = "sgV-AD-k4Q"; */
 "sgV-AD-k4Q.title" = "Дать доступ к внешним хранилищам";
