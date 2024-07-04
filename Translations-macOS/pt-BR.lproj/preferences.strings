@@ -138,7 +138,7 @@
 "6bh-6N-5PP.title" = "Reunir ações em um submenu";
 
 /* Class = "NSMenuItem"; title = "Always"; ObjectID = "8AZ-Vv-Lv1"; */
-"8AZ-Vv-Lv1.title" = "Always";
+"8AZ-Vv-Lv1.title" = "Sempre";
 
 /* Class = "NSTextFieldCell"; title = "You can use these placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n%pb% will be replaced with the clipboard string\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
 "8JN-Ub-qkc.title" = "Você pode usar estes marcadores:\n\n%n será substituído pelo nome do arquivo\n%e será substituído pela extensão do arquivo\n%p será substituído pela pasta superior\n%c será substituído pelo número de arquivos\n%d será substituído pela data atual\n%t será substituído pela hora atual\n%s será substituído pelo nome compartilhado\n%i% será substituído pelo nome do primeiro item\n%ia% será substituído pelo primeiro nome da ordenação\n%pb% será substituído pelo texto na área de transferência\n\nEm alguns casos, as substituições estarão vazias.";
@@ -192,7 +192,7 @@
 "Hx2-S1-j7m.title" = "Aplicáveis apenas quando o Keka não está aberto.";
 
 /* Class = "NSMenuItem"; title = "Never"; ObjectID = "I93-7A-iSn"; */
-"I93-7A-iSn.title" = "Never";
+"I93-7A-iSn.title" = "Nunca";
 
 /* Class = "NSButtonCell"; title = "Enable full Mac access (Recommended)"; ObjectID = "IHj-ac-103"; */
 "IHj-ac-103.title" = "Ativar Acesso Total ao Mac (Recomendado)";
@@ -234,7 +234,7 @@
 "TLc-Nk-Bps.placeholderString" = "digite o nome";
 
 /* Class = "NSButtonCell"; title = "Always ask for a password when compressing"; ObjectID = "TZN-PU-t5N"; */
-"TZN-PU-t5N.title" = "Sempre peça uma senha ao compactar";
+"TZN-PU-t5N.title" = "Sempre pedir uma senha ao comprimir";
 
 /* Class = "NSMenuItem"; title = "Lower"; ObjectID = "Vss-gS-NkP"; */
 "Vss-gS-NkP.title" = "Baixa";
@@ -255,7 +255,7 @@
 "ZOx-vr-5o7.title" = "Ative o acesso total ao Mac para usar o Keka em qualquer local do Mac.";
 
 /* Class = "NSButtonCell"; title = "Create self-extracting archives for Windows if possible"; ObjectID = "Zfm-hU-OMZ"; */
-"Zfm-hU-OMZ.title" = "Create self-extracting archives for Windows if possible";
+"Zfm-hU-OMZ.title" = "Criar arquivos comprimidos autoextraíveis para Windows se possível";
 
 /* Class = "NSMenuItem"; title = "High"; ObjectID = "ZiK-jD-TLq"; */
 "ZiK-jD-TLq.title" = "Alta";
@@ -288,7 +288,7 @@
 "dhi-qv-weg.title" = "Compressão de vários arquivos:";
 
 /* Class = "NSMenuItem"; title = "Only if configuration windows are open"; ObjectID = "dmz-xh-p9a"; */
-"dmz-xh-p9a.title" = "Only if configuration windows are open";
+"dmz-xh-p9a.title" = "Apenas com janelas de configuração abertas";
 
 /* Class = "NSButtonCell"; title = "Set folder's modification date to extraction date"; ObjectID = "eBj-1b-wBg"; */
 "eBj-1b-wBg.title" = "Definir data de modificação da pasta com data de extração";
@@ -330,13 +330,13 @@
 "rP2-XR-ZQt.title" = "Mostrar ações do Keka no menu contextual do Finder";
 
 /* Class = "NSTextFieldCell"; title = "Show an icon in the Dock:"; ObjectID = "rra-p2-67m"; */
-"rra-p2-67m.title" = "Show an icon in the Dock:";
+"rra-p2-67m.title" = "Mostrar ícone no Dock:";
 
 /* Class = "NSButtonCell"; title = "Show icons in actions"; ObjectID = "s9u-2a-b8X"; */
 "s9u-2a-b8X.title" = "Mostrar ícones em ações";
 
 /* Class = "NSMenuItem"; title = "Always extract compatible formats"; ObjectID = "sD5-uM-Wpa"; */
-"sD5-uM-Wpa.title" = "Always extract compatible formats";
+"sD5-uM-Wpa.title" = "Sempre extrair formatos compatíveis";
 
 /* Class = "NSButtonCell"; title = "Enable external volumes access"; ObjectID = "sgV-AD-k4Q"; */
 "sgV-AD-k4Q.title" = "Ativar Acesso a Volumes Externos";
