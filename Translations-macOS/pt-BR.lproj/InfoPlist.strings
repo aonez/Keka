@@ -3,7 +3,7 @@
 "NSHumanReadableCopyright" = "Copyright © 2009-2024 aONe";
 
 /* Spotlight keywords */
-"MDItemKeywords" = "Compressão, Descompressão, Extração, Arquivador, Unarchiver, Expandir, Criptografia, Descriptografia, Arquivos, Ficheiros";
+"MDItemKeywords" = "Compressão, Descompressão, Extração, Arquivador, Desarquivador, Expandir, Criptografia, Descriptografia, Arquivos Comprimidos, Arquivos";
 
 /* Access request descriptions */
 "NSDesktopFolderUsageDescription" = "O Keka requer acesso à pasta Mesa para trabalhar com arquivos nesse local.";
@@ -19,8 +19,8 @@
 "LZOP Tarball Archive" = "Arquivo Comprimido TAR LZOP";
 "LZIP Archive" = "Arquivo Comprimido LZIP";
 "LZIP Tarball Archive" = "Arquivo Comprimido TAR LZIP";
-"LZ4 Archive" = "LZ4 Archive";
-"LZ4 Tarball Archive" = "LZ4 Tarball Archive";
+"LZ4 Archive" = "Arquivo Comprimido LZ4";
+"LZ4 Tarball Archive" = "Arquivo Comprimido TAR LZ4";
 "ZIP Archive" = "Arquivo Comprimido ZIP";
 "ZIPX Archive" = "Arquivo Comprimido ZIPX";
 "XZ Archive" = "Arquivo Comprimido XZ";
@@ -71,9 +71,9 @@
 "Squashfs Filesystem Archive" = "Arquivo Comprimido do Sistema de Arquivos Squashfs";
 "WordPress All-in-One Backup" = "Backup All-in-One do WordPress";
 "InstallShield 3 Archive" = "Arquivo Comprimido InstallShield 3";
-"Snappy Archive" = "Snappy Archive";
-"Snappy Tarball Archive" = "Snappy Tarball Archive";
-"Apple iWork Archive" = "Apple iWork Archive";
+"Snappy Archive" = "Arquivo Comprimido Snappy";
+"Snappy Tarball Archive" = "Arquivo Comprimido TAR Snappy";
+"Apple iWork Archive" = "Arquivo Comprimido iWork da Apple";
 "Delta Controller Skin" = "Delta Controller Skin";
-"Zipped Web Archive Collection" = "Zipped Web Archive Collection";
+"Zipped Web Archive Collection" = "Coleção de Arquivos Comprimidos Zip da Web";
 "Keka Extraction Package" = "Pacote de Extração do Keka";
