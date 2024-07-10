@@ -122,11 +122,11 @@
 "Perform automatic action" = "Vybrat automaticky";
 "Always compress" = "Vždy komprimovat";
 "Always extract" = "Vždy rozbalit";
-"Always extract compatible formats" = "Always extract compatible formats";
-"1.4 MB Floppy" = "1.4 MB disketa";
+"Always extract compatible formats" = "Vždy rozbalit známé formáty";
+"1.4 MB Floppy" = "1,4 MB disketa";
 "650 MB CD" = "650 MB CD";
 "700 MB CD" = "700 MB CD";
-"4.7 GB DVD" = "4.7 GB DVD";
+"4.7 GB DVD" = "4,7 GB DVD";
 "Drop here to extract" = "Přetáhněte sem pro rozbalení";
 "Drop here to compress" = "Přetáhněte sem pro zkomprimování";
 "Binary \"%@\" is not accessible" = "K binárnímu souboru „%@“ nelze získat přístup";
@@ -200,8 +200,8 @@
 "The extension is enabled" = "Rozšíření je povoleno";
 "The extension is disabled" = "Rozšíření je zakázáno";
 "Enable or disable the extension" = "Povolit nebo zakázat rozšíření";
-"Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option." = "Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option.";
-"Keka will decide whether to compress or uncompress based on the file format and extension." = "Keka will decide whether to compress or uncompress based on the file format and extension.";
+"Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option." = "Keka rozhodne mezi komprimací a dekomprimací podle přípony souboru, a podle formátu pro neznámé soubory. Doporučeno.";
+"Keka will decide whether to compress or uncompress based on the file format and extension." = "Keka rozhodne mezi komprimací a dekomprimací podle formátu souboru a podle přípony.";
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka komprimuje všechny soubory, včetně již komprimovaných souborů. Soubory můžete znovu komprimovat přetažením do spodní částí Keka.";
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka se pokusí všechny soubory rozbalit. Soubory neznámeho typu můžete zkusit rozbalit přetažením do spodní části Keka.";
 "Show the operation log" = "Zobrazit operační protokol";
