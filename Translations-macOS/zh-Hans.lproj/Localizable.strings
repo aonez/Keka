@@ -12,7 +12,7 @@
 "Passwords" = "密码";
 "Love" = "Love";
 "OK" = "好";
-"Done" = "好";
+"Done" = "完成";
 "Yes" = "是";
 "No" = "否";
 "Don't show again" = "不再提示";
@@ -228,7 +228,7 @@
 "Extraction paused" = "提取已暂停";
 "Waiting for password" = "等待输入密码";
 "On queue" = "排队中";
-"Applying quarantine..." = "隔离应用中…";
+"Applying quarantine..." = "正在隔离中…";
 "%@.\n\nPlease get in contact with the developers." = "%@.\n\n请联系开发人员。";
 "Report" = "报告";
 "Report via mail" = "通过邮件报告";
@@ -256,21 +256,21 @@
 // Note that the short string is limited to 30 characters and the long string is limited to 45 characters
 // Emojis cannot be used in these strings :(
 */
-"Monthly sip of coffee" = "每月整点咖啡";
-"Gift Keka a sip of coffee each month" = "每月请 Keka 整点咖啡";
+"Monthly sip of coffee" = "每月来点咖啡";
+"Gift Keka a sip of coffee each month" = "每月请 Keka 喝点咖啡";
 "Monthly coffee" = "月供咖啡";
-"Gift Keka a coffee each month" = "每月请 Keka 整一杯咖啡";
+"Gift Keka a coffee each month" = "每月请 Keka 喝一杯咖啡";
 "Monthly pair of coffees" = "每月两杯咖啡";
-"Gift Keka a couple coffees each month" = "每月请 Keka 整几杯咖啡";
+"Gift Keka a couple coffees each month" = "每月请 Keka 来几杯咖啡";
 "Monthly breakfast" = "月供早餐";
-"Gift Keka a breakfast each month" = "每月请 Keka 恰个早餐";
-"Tip a coffee" = "整杯咖啡";
-"Tip Keka a coffee so it can stay awake" = "让 Keka 整杯咖啡神清气爽";
-"Tip a breakfast" = "恰个早餐";
-"Tip Keka a breakfast so it can start fresh" = "让 Keka 恰个早餐变得更有活力";
-"Tip a lunch" = "恰个午餐";
+"Gift Keka a breakfast each month" = "每月请 Keka 吃个早餐";
+"Tip a coffee" = "喝杯咖啡";
+"Tip Keka a coffee so it can stay awake" = "让 Keka 来杯咖啡神清气爽";
+"Tip a breakfast" = "来点早餐";
+"Tip Keka a breakfast so it can start fresh" = "让 Keka 吃份早餐活力满满";
+"Tip a lunch" = "吃份午餐";
 "Tip Keka a lunch and feed it" = "给 Keka 喂点午餐吧";
-"Tip a dinner" = "恰个晚餐";
-"Tip Keka a dinner so it keeps rolling" = "让 Keka 恰个晚餐茁壮成长";
-"Tip a bunch of food" = "恰一堆好吃的";
+"Tip a dinner" = "来个晚餐";
+"Tip Keka a dinner so it keeps rolling" = "让 Keka 吃个晚餐茁壮成长";
+"Tip a bunch of food" = "吃一堆好吃的";
 "Tip Keka a bunch of food to keep rolling" = "让 Keka 多吃点好吃的茁壮成长";
