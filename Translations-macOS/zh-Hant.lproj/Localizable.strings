@@ -122,7 +122,7 @@
 "Perform automatic action" = "執行自動化動作";
 "Always compress" = "總是壓縮";
 "Always extract" = "總是解壓縮";
-"Always extract compatible formats" = "Always extract compatible formats";
+"Always extract compatible formats" = "總是解壓縮相容的格式";
 "1.4 MB Floppy" = "1.4 MB 軟碟";
 "650 MB CD" = "650 MB CD";
 "700 MB CD" = "700 MB CD";
