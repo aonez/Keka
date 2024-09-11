@@ -245,6 +245,10 @@
 "Recovery Volumes:" = "復原卷宗：";
 "Encrypt" = "加密";
 "Skip" = "跳過";
+"Can't enable the extension" = "Can't enable the extension";
+"In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nPlease update your Keka Helper version to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." = "In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nPlease update your Keka Helper version to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it.";
+"In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nYou can install the Keka Helper to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." = "In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nYou can install the Keka Helper to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it.";
+"The intermediate application failed to launch. There is more information in the Console.app." = "無法啟動中繼應用程式。Console.app 有更多資訊。";
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "偏好設定⋯";
 
