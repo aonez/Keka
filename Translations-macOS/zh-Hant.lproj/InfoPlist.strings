@@ -3,7 +3,7 @@
 "NSHumanReadableCopyright" = "Copyright © 2009-2024 aONe";
 
 /* Spotlight keywords */
-"MDItemKeywords" = "壓縮, 解壓, 提取, 壓縮器, 解壓器, 擴展, 加密, 解密, 檔案, 文件";
+"MDItemKeywords" = "壓縮, 解壓, 解壓縮, 擷取, 提取, 壓縮器, 解壓器, 附加元件, 延伸功能, 擴充, 擴展, 加密, 解密, 檔案, 文件";
 
 /* Access request descriptions */
 "NSDesktopFolderUsageDescription" = "Keka 需要「桌面」的取用權限，方能處理此處的檔案。";
@@ -75,5 +75,5 @@
 "Snappy Tarball Archive" = "Snappy 壓縮的 Tarball 封存檔";
 "Apple iWork Archive" = "Apple iWork 封存檔";
 "Delta Controller Skin" = "Delta 遊戲控制器主題";
-"Zipped Web Archive Collection" = "Zipped Web Archive Collection";
+"Zipped Web Archive Collection" = "壓縮的網頁封存集";
 "Keka Extraction Package" = "Keka 解壓縮套件";
