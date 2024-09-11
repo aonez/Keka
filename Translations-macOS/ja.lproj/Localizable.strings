@@ -122,7 +122,7 @@
 "Perform automatic action" = "自動";
 "Always compress" = "常に圧縮する";
 "Always extract" = "常に展開する";
-"Always extract compatible formats" = "Always extract compatible formats";
+"Always extract compatible formats" = "常に互換性のあるフォーマットで展開する";
 "1.4 MB Floppy" = "1.4MBのFD";
 "650 MB CD" = "650MBのCD";
 "700 MB CD" = "700MBのCD";
