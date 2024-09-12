@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Keka/en.lproj/AppShortcuts.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.2" build-num="15C500b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.4" build-num="15F31d"/>
     </header>
     <body>
       <trans-unit id="Compress Files with ${applicationName}" xml:space="preserve">
@@ -19,7 +19,7 @@
   </file>
   <file original="Keka/en.lproj/InfoPlist.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.2" build-num="15C500b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.4" build-num="15F31d"/>
     </header>
     <body>
       <trans-unit id="7Z Archive" xml:space="preserve">
@@ -301,13 +301,9 @@
   </file>
   <file original="Keka/en.lproj/Localizable.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.2" build-num="15C500b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.4" build-num="15F31d"/>
     </header>
     <body>
-      <trans-unit id="&quot;%@&quot;" xml:space="preserve">
-        <source>"%@"</source>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="%@ Folder" xml:space="preserve">
         <source>%@ Folder</source>
         <target>Dossier %@</target>
@@ -855,11 +851,6 @@
         <target>Aucun fichier à extraire</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="None" xml:space="preserve">
-        <source>None</source>
-        <target>Aucun</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="Normal" xml:space="preserve">
         <source>Normal</source>
         <target>Normal</target>
@@ -905,11 +896,6 @@
         <target>Protégé par mot de passe</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Password for &quot;%@&quot;" xml:space="preserve">
-        <source>Password for "%@"</source>
-        <target>Mot de passe pour "%@"</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="Password needed" xml:space="preserve">
         <source>Password needed</source>
         <target>Mot de passe requis</target>
@@ -923,11 +909,6 @@
       <trans-unit id="Petabytes" xml:space="preserve">
         <source>Petabytes</source>
         <target>Petaoctets</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Please enter the password for:" xml:space="preserve">
-        <source>Please enter the password for:</source>
-        <target>Veuillez entrer le mot de passe pour:</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please select the encoding for:" xml:space="preserve">
@@ -1321,7 +1302,7 @@ Vous pouvez donner accès au reste des fichiers ou au dossier parent.</target>
   </file>
   <file original="KekaBrowseAction/en.lproj/InfoPlist.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.2" build-num="15C500b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.4" build-num="15F31d"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -1333,7 +1314,7 @@ Vous pouvez donner accès au reste des fichiers ou au dossier parent.</target>
   </file>
   <file original="KekaCompressionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.2" build-num="15C500b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.4" build-num="15F31d"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -1345,7 +1326,7 @@ Vous pouvez donner accès au reste des fichiers ou au dossier parent.</target>
   </file>
   <file original="KekaExtractionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.2" build-num="15C500b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.4" build-num="15F31d"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">

@@ -365,9 +365,6 @@
 "No files to extract" = "Ei tiedostoja purettavaksi";
 
 /* No comment provided by engineer. */
-"None" = "Ei mitään";
-
-/* No comment provided by engineer. */
 "Normal" = "Normaali";
 
 /* No comment provided by engineer. */
@@ -392,9 +389,6 @@
 "Password" = "Salasana";
 
 /* No comment provided by engineer. */
-"Password for \"%@\"" = "Password for \"%@\""; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
 "Password needed" = "Salasana tarvitaan";
 
 /* No comment provided by engineer. */
@@ -405,9 +399,6 @@
 
 /* No comment provided by engineer. */
 "Petabytes" = "Petabytes"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"Please enter the password for:" = "Syötä salasana kohteelle:";
 
 /* No comment provided by engineer. */
 "Please select the encoding for:" = "Valitse enkoodaus kohteelle:";

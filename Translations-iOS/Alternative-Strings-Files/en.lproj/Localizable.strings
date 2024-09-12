@@ -365,9 +365,6 @@
 "No files to extract" = "No files to extract";
 
 /* No comment provided by engineer. */
-"None" = "None";
-
-/* No comment provided by engineer. */
 "Normal" = "Normal";
 
 /* No comment provided by engineer. */
@@ -392,9 +389,6 @@
 "Password" = "Password";
 
 /* No comment provided by engineer. */
-"Password for \"%@\"" = "Password for \"%@\"";
-
-/* No comment provided by engineer. */
 "Password needed" = "Password needed";
 
 /* No comment provided by engineer. */
@@ -405,9 +399,6 @@
 
 /* No comment provided by engineer. */
 "Petabytes" = "Petabytes";
-
-/* No comment provided by engineer. */
-"Please enter the password for:" = "Please enter the password for:";
 
 /* No comment provided by engineer. */
 "Please select the encoding for:" = "Please select the encoding for:";

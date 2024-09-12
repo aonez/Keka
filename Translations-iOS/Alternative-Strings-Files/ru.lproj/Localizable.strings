@@ -365,9 +365,6 @@
 "No files to extract" = "Нет файлов для извлечения";
 
 /* No comment provided by engineer. */
-"None" = "Нет";
-
-/* No comment provided by engineer. */
 "Normal" = "Обычный";
 
 /* No comment provided by engineer. */
@@ -392,9 +389,6 @@
 "Password" = "Пароль";
 
 /* No comment provided by engineer. */
-"Password for \"%@\"" = "Password for \"%@\""; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
 "Password needed" = "Требуется пароль";
 
 /* No comment provided by engineer. */
@@ -405,9 +399,6 @@
 
 /* No comment provided by engineer. */
 "Petabytes" = "Petabytes"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"Please enter the password for:" = "Пожалуйста, введите пароль для:";
 
 /* No comment provided by engineer. */
 "Please select the encoding for:" = "Пожалуйста, выберите кодировку для:";

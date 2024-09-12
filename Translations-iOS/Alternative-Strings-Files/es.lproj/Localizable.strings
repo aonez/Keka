@@ -365,9 +365,6 @@
 "No files to extract" = "Nada que extraer";
 
 /* No comment provided by engineer. */
-"None" = "Ninguna";
-
-/* No comment provided by engineer. */
 "Normal" = "Normal";
 
 /* No comment provided by engineer. */
@@ -392,9 +389,6 @@
 "Password" = "Contraseña";
 
 /* No comment provided by engineer. */
-"Password for \"%@\"" = "Contraseña para \"%@\"";
-
-/* No comment provided by engineer. */
 "Password needed" = "Contraseña necesaria";
 
 /* No comment provided by engineer. */
@@ -405,9 +399,6 @@
 
 /* No comment provided by engineer. */
 "Petabytes" = "Petabytes"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"Please enter the password for:" = "Por favor introduce la contraseña para:";
 
 /* No comment provided by engineer. */
 "Please select the encoding for:" = "Por favor selecciona la codificación para:";

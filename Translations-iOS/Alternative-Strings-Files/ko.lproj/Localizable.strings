@@ -365,9 +365,6 @@
 "No files to extract" = "압축 해제할 파일 없음";
 
 /* No comment provided by engineer. */
-"None" = "없음";
-
-/* No comment provided by engineer. */
 "Normal" = "일반";
 
 /* No comment provided by engineer. */
@@ -392,9 +389,6 @@
 "Password" = "암호";
 
 /* No comment provided by engineer. */
-"Password for \"%@\"" = "의 암호";
-
-/* No comment provided by engineer. */
 "Password needed" = "암호 필수";
 
 /* No comment provided by engineer. */
@@ -405,9 +399,6 @@
 
 /* No comment provided by engineer. */
 "Petabytes" = "페타바이트";
-
-/* No comment provided by engineer. */
-"Please enter the password for:" = "암호 입력:";
 
 /* No comment provided by engineer. */
 "Please select the encoding for:" = "인코딩 선택:";

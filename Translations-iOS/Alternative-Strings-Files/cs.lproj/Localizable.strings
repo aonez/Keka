@@ -365,9 +365,6 @@
 "No files to extract" = "Žádné soubory k dekomprimaci";
 
 /* No comment provided by engineer. */
-"None" = "Nic";
-
-/* No comment provided by engineer. */
 "Normal" = "Normální";
 
 /* No comment provided by engineer. */
@@ -392,9 +389,6 @@
 "Password" = "Heslo";
 
 /* No comment provided by engineer. */
-"Password for \"%@\"" = "Heslo pro „%@“";
-
-/* No comment provided by engineer. */
 "Password needed" = "Je potřeba heslo";
 
 /* No comment provided by engineer. */
@@ -405,9 +399,6 @@
 
 /* No comment provided by engineer. */
 "Petabytes" = "Petabajtů";
-
-/* No comment provided by engineer. */
-"Please enter the password for:" = "Zadejte prosím heslo:";
 
 /* No comment provided by engineer. */
 "Please select the encoding for:" = "Zadejte prosím kódování pro:";

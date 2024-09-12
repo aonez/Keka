@@ -365,9 +365,6 @@
 "No files to extract" = "沒有可擷取的檔案";
 
 /* No comment provided by engineer. */
-"None" = "無";
-
-/* No comment provided by engineer. */
 "Normal" = "正常";
 
 /* No comment provided by engineer. */
@@ -392,9 +389,6 @@
 "Password" = "密碼";
 
 /* No comment provided by engineer. */
-"Password for \"%@\"" = "「%@」的密碼";
-
-/* No comment provided by engineer. */
 "Password needed" = "需要密碼";
 
 /* No comment provided by engineer. */
@@ -405,9 +399,6 @@
 
 /* No comment provided by engineer. */
 "Petabytes" = "PB";
-
-/* No comment provided by engineer. */
-"Please enter the password for:" = "請輸入下列項目的密碼：";
 
 /* No comment provided by engineer. */
 "Please select the encoding for:" = "請選擇下列項目的編碼方式：";
