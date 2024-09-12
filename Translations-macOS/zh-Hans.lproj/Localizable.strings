@@ -122,7 +122,7 @@
 "Perform automatic action" = "执行自动操作";
 "Always compress" = "始终压缩";
 "Always extract" = "始终提取";
-"Always extract compatible formats" = "Always extract compatible formats";
+"Always extract compatible formats" = "始终提取兼容格式";
 "1.4 MB Floppy" = "1.4 MB 软盘";
 "650 MB CD" = "650 MB CD";
 "700 MB CD" = "700 MB CD";
@@ -200,8 +200,8 @@
 "The extension is enabled" = "扩展已启用";
 "The extension is disabled" = "扩展已禁用";
 "Enable or disable the extension" = "启用或禁用扩展";
-"Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option." = "Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option.";
-"Keka will decide whether to compress or uncompress based on the file format and extension." = "Keka will decide whether to compress or uncompress based on the file format and extension.";
+"Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option." = "Keka 将对无法识别的文件根据文件扩展名和格式决定执行压缩还是解压。这是推荐的选项。";
+"Keka will decide whether to compress or uncompress based on the file format and extension." = "Keka 将根据文件格式和扩展名决定执行压缩还是解压。";
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka 将压缩所有文件，即使是已压缩的文件。您可以在自动模式下将已压缩的文件拖放到放置区的底部来压缩它。";
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka 将尝试提取所有文件。您可以尝试在自动模式下将文件拖放到放置区的底部来提取未知文件。";
 "Show the operation log" = "显示操作日志";
@@ -242,12 +242,12 @@
 "Encrypted Apple Archive files are only supported on macOS 12 or newer" = "加密的 Apple Archive 文件仅在 macOS 12 或更新版本上受支持";
 "The password length should be %i or higher" = "密码长度应为 %i 位或更长";
 " (Entire Device)" = "（整个设备）";
-"Recovery Volumes:" = "Recovery Volumes:";
+"Recovery Volumes:" = "恢复卷：";
 "Encrypt" = "加密";
 "Skip" = "跳过";
-"Can't enable the extension" = "Can't enable the extension";
-"In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nPlease update your Keka Helper version to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." = "In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nPlease update your Keka Helper version to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it.";
-"In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nYou can install the Keka Helper to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." = "In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nYou can install the Keka Helper to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it.";
+"Can't enable the extension" = "无法启用扩展";
+"In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nPlease update your Keka Helper version to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." = "在 macOS 15 中无法自动或轻松的启用访达扩展。\n\n请更新您的 Keka Helper 版本以自动启用和禁用访达扩展。您也可以根据一些步骤在终端中手动启用。";
+"In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nYou can install the Keka Helper to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." = "在 macOS 15 中无法自动或轻松的启用访达扩展。\n\n您可以安装 Keka Helper 以自动启用和禁用访达扩展。您也可以根据一些步骤在终端中手动启用。";
 "The intermediate application failed to launch. There is more information in the Console.app." = "中间应用程序无法启动。请在控制台应用中查看详情。";
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "首选项…";

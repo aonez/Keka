@@ -138,7 +138,7 @@
 "6bh-6N-5PP.title" = "在子菜单中嵌套操作";
 
 /* Class = "NSMenuItem"; title = "Always"; ObjectID = "8AZ-Vv-Lv1"; */
-"8AZ-Vv-Lv1.title" = "Always";
+"8AZ-Vv-Lv1.title" = "始终";
 
 /* Class = "NSTextFieldCell"; title = "You can use these placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n%pb% will be replaced with the clipboard string\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
 "8JN-Ub-qkc.title" = "您可以使用这些占位符：\n\n%n 将被替换为文件名\n%e 将被替换为文件扩展名\n%p 将被替换为父文件夹\n%c 将被替换为文件数\n%d 将被替换为当前日期\n%t 将被替换为当前时间\n%s 将被替换为共享名\n%i% 将被替换为首个项目名称\n%ia% 将被替换为首个排序名\n%pb% 将被替换为剪贴板字符串\n\n在某些情况下，替换内容将为空。";
@@ -192,7 +192,7 @@
 "Hx2-S1-j7m.title" = "这些设置只在 Keka 未打开时生效。";
 
 /* Class = "NSMenuItem"; title = "Never"; ObjectID = "I93-7A-iSn"; */
-"I93-7A-iSn.title" = "Never";
+"I93-7A-iSn.title" = "从不";
 
 /* Class = "NSButtonCell"; title = "Enable full Mac access (Recommended)"; ObjectID = "IHj-ac-103"; */
 "IHj-ac-103.title" = "启用完整访问权限（推荐）";
@@ -255,7 +255,7 @@
 "ZOx-vr-5o7.title" = "启用完整访问权限，以便可以在整个系统中使用 Keka。";
 
 /* Class = "NSButtonCell"; title = "Create self-extracting archives for Windows if possible"; ObjectID = "Zfm-hU-OMZ"; */
-"Zfm-hU-OMZ.title" = "Create self-extracting archives for Windows if possible";
+"Zfm-hU-OMZ.title" = "如果可能，创建 Windows 自解压文件";
 
 /* Class = "NSMenuItem"; title = "High"; ObjectID = "ZiK-jD-TLq"; */
 "ZiK-jD-TLq.title" = "高";
@@ -288,7 +288,7 @@
 "dhi-qv-weg.title" = "压缩多个文件：";
 
 /* Class = "NSMenuItem"; title = "Only if configuration windows are open"; ObjectID = "dmz-xh-p9a"; */
-"dmz-xh-p9a.title" = "Only if configuration windows are open";
+"dmz-xh-p9a.title" = "仅配置窗口打开时";
 
 /* Class = "NSButtonCell"; title = "Set folder's modification date to extraction date"; ObjectID = "eBj-1b-wBg"; */
 "eBj-1b-wBg.title" = "设置文件夹修改日期为提取日期";
@@ -330,13 +330,13 @@
 "rP2-XR-ZQt.title" = "在访达的上下文菜单中显示 Keka 操作";
 
 /* Class = "NSTextFieldCell"; title = "Show an icon in the Dock:"; ObjectID = "rra-p2-67m"; */
-"rra-p2-67m.title" = "Show an icon in the Dock:";
+"rra-p2-67m.title" = "在 Dock 中显示图标：";
 
 /* Class = "NSButtonCell"; title = "Show icons in actions"; ObjectID = "s9u-2a-b8X"; */
 "s9u-2a-b8X.title" = "在操作中显示图标";
 
 /* Class = "NSMenuItem"; title = "Always extract compatible formats"; ObjectID = "sD5-uM-Wpa"; */
-"sD5-uM-Wpa.title" = "Always extract compatible formats";
+"sD5-uM-Wpa.title" = "始终提取兼容格式";
 
 /* Class = "NSButtonCell"; title = "Enable external volumes access"; ObjectID = "sgV-AD-k4Q"; */
 "sgV-AD-k4Q.title" = "启用外部卷访问权限";

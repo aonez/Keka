@@ -75,7 +75,7 @@
 "2426.title" = "重复：";
 
 /* Class = "NSButtonCell"; title = "Self-extracting archive for Windows"; ObjectID = "Itb-5A-JW7"; */
-"Itb-5A-JW7.title" = "Self-extracting archive for Windows";
+"Itb-5A-JW7.title" = "Windows 自解压文件";
 
 /* Class = "NSButtonCell"; title = "Encrypt filenames"; ObjectID = "L2I-Q8-zqc"; */
 "L2I-Q8-zqc.title" = "加密文件名";
