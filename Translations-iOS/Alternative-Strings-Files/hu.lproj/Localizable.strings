@@ -365,9 +365,6 @@
 "No files to extract" = "Nincsenek kibontandó fájlok";
 
 /* No comment provided by engineer. */
-"None" = "Semmi";
-
-/* No comment provided by engineer. */
 "Normal" = "Normális";
 
 /* No comment provided by engineer. */
@@ -392,9 +389,6 @@
 "Password" = "Jelszó";
 
 /* No comment provided by engineer. */
-"Password for \"%@\"" = "Password for \"%@\""; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
 "Password needed" = "Jelszó szükséges";
 
 /* No comment provided by engineer. */
@@ -405,9 +399,6 @@
 
 /* No comment provided by engineer. */
 "Petabytes" = "Petabytes"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"Please enter the password for:" = "Kérlek, írd be a jelszót ehhez:";
 
 /* No comment provided by engineer. */
 "Please select the encoding for:" = "Kérlek, válaszd ki a kódolást ehhez:";

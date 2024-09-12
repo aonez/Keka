@@ -365,9 +365,6 @@
 "No files to extract" = "展開するファイルがありません";
 
 /* No comment provided by engineer. */
-"None" = "なし";
-
-/* No comment provided by engineer. */
 "Normal" = "通常";
 
 /* No comment provided by engineer. */
@@ -392,9 +389,6 @@
 "Password" = "パスワード";
 
 /* No comment provided by engineer. */
-"Password for \"%@\"" = "\"%@\" のパスワード";
-
-/* No comment provided by engineer. */
 "Password needed" = "パスワードが必要です";
 
 /* No comment provided by engineer. */
@@ -405,9 +399,6 @@
 
 /* No comment provided by engineer. */
 "Petabytes" = "ペタバイト";
-
-/* No comment provided by engineer. */
-"Please enter the password for:" = "パスワードを入力してください:";
 
 /* No comment provided by engineer. */
 "Please select the encoding for:" = "エンコーディングを選択してください:";

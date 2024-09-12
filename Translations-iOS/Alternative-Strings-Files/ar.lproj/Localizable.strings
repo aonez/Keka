@@ -365,9 +365,6 @@
 "No files to extract" = "لايوجد ملف لفك الضغط عنه";
 
 /* No comment provided by engineer. */
-"None" = "لاشيء";
-
-/* No comment provided by engineer. */
 "Normal" = "عادي";
 
 /* No comment provided by engineer. */
@@ -392,9 +389,6 @@
 "Password" = "الرقم السري";
 
 /* No comment provided by engineer. */
-"Password for \"%@\"" = "Password for \"%@\""; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
 "Password needed" = "الرقم السري مطلوب";
 
 /* No comment provided by engineer. */
@@ -405,9 +399,6 @@
 
 /* No comment provided by engineer. */
 "Petabytes" = "Petabytes"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"Please enter the password for:" = "فضلاً أدخل الرقم السري:";
 
 /* No comment provided by engineer. */
 "Please select the encoding for:" = "فضلاً إختر الترميز لـ:";

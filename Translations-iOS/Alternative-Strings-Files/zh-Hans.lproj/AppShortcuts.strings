@@ -1,6 +1,6 @@
 /* No comment provided by engineer. */
-"Compress Files with ${applicationName}" = "Compress Files with ${applicationName}"; // THIS IS NOT LOCALIZED
+"Compress Files with ${applicationName}" = "压缩文件 ${applicationName}";
 
 /* No comment provided by engineer. */
-"Extract Files with ${applicationName}" = "Extract Files with ${applicationName}"; // THIS IS NOT LOCALIZED
+"Extract Files with ${applicationName}" = "提取文件 ${applicationName}";
 

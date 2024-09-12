@@ -365,9 +365,6 @@
 "No files to extract" = "Inga filer att extrahera";
 
 /* No comment provided by engineer. */
-"None" = "Inget";
-
-/* No comment provided by engineer. */
 "Normal" = "Normal";
 
 /* No comment provided by engineer. */
@@ -392,9 +389,6 @@
 "Password" = "Lösenord";
 
 /* No comment provided by engineer. */
-"Password for \"%@\"" = "Password for \"%@\""; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
 "Password needed" = "Lösenord behövs";
 
 /* No comment provided by engineer. */
@@ -405,9 +399,6 @@
 
 /* No comment provided by engineer. */
 "Petabytes" = "Petabytes"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"Please enter the password for:" = "Vänligen ange lösenordet för:";
 
 /* No comment provided by engineer. */
 "Please select the encoding for:" = "Vänligen välj kodningen för:";

@@ -365,9 +365,6 @@
 "No files to extract" = "Aucun fichier à extraire";
 
 /* No comment provided by engineer. */
-"None" = "Aucun";
-
-/* No comment provided by engineer. */
 "Normal" = "Normal";
 
 /* No comment provided by engineer. */
@@ -392,9 +389,6 @@
 "Password" = "Mot de passe";
 
 /* No comment provided by engineer. */
-"Password for \"%@\"" = "Mot de passe pour \"%@\"";
-
-/* No comment provided by engineer. */
 "Password needed" = "Mot de passe requis";
 
 /* No comment provided by engineer. */
@@ -405,9 +399,6 @@
 
 /* No comment provided by engineer. */
 "Petabytes" = "Petaoctets";
-
-/* No comment provided by engineer. */
-"Please enter the password for:" = "Veuillez entrer le mot de passe pour:";
 
 /* No comment provided by engineer. */
 "Please select the encoding for:" = "Veuillez sélectionner l'encodage pour:";
