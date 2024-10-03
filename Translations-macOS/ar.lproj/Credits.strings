@@ -1,0 +1,16 @@
+﻿
+"_PROJECTTITLE_" = "مشروع Keka";
+"_PROGRAMMER_" = "مبرمج ومصمم ومسؤول الصيانة";
+"_ARTWORK_" = "مصمم أعمال فنية";
+"_TRANSLATIONS_" = "الترجمات";
+"_TRANSLATIONSOLD_" = "الترجمات (من 0.1 إلى 0.1.4.3)";
+"_TESTERS_" = "المختبرين";
+"_DONATIONS_" = "التبرعات (الأكثر ترتيبًا حسب التاريخ)";
+"_OPENSOURCE_" = "يستخدم Keka كودًا مفتوح المصدر";
+"_FREEWARE_" = "يستخدم Keka ملفات bunaries مجانية";
+"_ONEMORETHING_" = "شيء آخر";
+"_THANKS_" = "شكرا لاستخدامك Keka!";
+"_SOURCE_" = "لن يكون الكود المصدري لـ Keka 1.0 متاحًا للعامة بسبب بعض المشكلات القانونية. هناك حاجة إلى الدعم القانوني، إذا كان بوسعك مساعدة المشروع، فيرجى الاتصال بنا على info@keka.io أو صفحة المشروع على موقع Keka الرسمي. أي مساعدة مرحب بها.";
+"_WARRANTY_" = "THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.";
+"_THANKSTOALL_" = "Thanks to all the donators and all who bought Keka from the App Store.<br />Thanks for all the feedback and the occasional contributions.<br />Thanks to Igor Pavlov for such a piece of great and open source application, and 'myspace' for porting it to POSIX.<br /><br />You all keep the Keka project alive and make it evolve.";
+"_APPEARDONATION_" = "If you donated and want to appear here, just <a href=\"mailto:info@keka.io?subject=Keka donation credits\">let me know</a> :)";
