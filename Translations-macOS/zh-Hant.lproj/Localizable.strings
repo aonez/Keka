@@ -248,7 +248,6 @@
 "Can't enable the extension" = "無法啟用延伸功能";
 "In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nPlease update your Keka Helper version to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." = "macOS 15 不能自動啟用 Finder 延伸功能，手動啟用的方式也不太簡單。\n\n更新完 Keka Helper 版本後，就能自動啟用和停用 Finder 延伸功能。你也可以在終端機中照著步驟自行啟用。";
 "In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nYou can install the Keka Helper to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." = "macOS 15 不能自動啟用 Finder 延伸功能，手動啟用的方式也不太簡單。\n\n你可以安裝 Keka Helper，這樣就能自動啟用和停用 Finder 延伸功能。你也可以在終端機中照著步驟自行啟用。";
-"The intermediate application failed to launch. There is more information in the Console.app." = "無法啟動中繼應用程式。Console.app 有更多資訊。";
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "偏好設定⋯";
 

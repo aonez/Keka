@@ -248,7 +248,6 @@
 "Can't enable the extension" = "Impossibile abilitare l'estensione";
 "In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nPlease update your Keka Helper version to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." = "In macOS 15 non è possibile abilitare automaticamente o facilmente l'Estensione del Finder.\n\nAggiorna la versione di Keka Helper per abilitare e disabilitare automaticamente l'Estensione del Finder. In alternativa, puoi seguire alcuni passaggi nel Terminale per attivarla manualmente.";
 "In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nYou can install the Keka Helper to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." = "In macOS 15 non è possibile abilitare automaticamente o facilmente l'Estensione del Finder.\n\nPuoi installare Keka Helper per abilitare e disabilitare automaticamente l'Estensione del Finder. In alternativa, puoi seguire alcuni passaggi nel Terminale per attivarla manualmente.";
-"The intermediate application failed to launch. There is more information in the Console.app." = "Apertura dell'applicazione intermedia fallita. Maggiori informazioni nell'app Console.";
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "Preferenze…";
 
