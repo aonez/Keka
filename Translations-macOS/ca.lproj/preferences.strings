@@ -179,6 +179,9 @@
 /* Class = "NSButtonCell"; title = "Use custom name when compressing multiple files"; ObjectID = "Ei5-Ya-HGI"; */
 "Ei5-Ya-HGI.title" = "Utilitza el nom personalitzat quan es comprimeixin diversos fitxers";
 
+/* Class = "NSButtonCell"; title = "Activate Keka when starting a new operation"; ObjectID = "FMT-Gs-iEi"; */
+"FMT-Gs-iEi.title" = "Activa el Keka quan comenci una nova operació";
+
 /* Class = "NSTextFieldCell"; title = "Tasks priority (QoS):"; ObjectID = "G1T-Qd-OZi"; */
 "G1T-Qd-OZi.title" = "Prioritat de l'operació (QoS):";
 
