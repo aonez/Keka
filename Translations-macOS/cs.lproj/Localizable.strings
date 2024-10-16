@@ -245,9 +245,9 @@
 "Recovery Volumes:" = "Svazky zotavení macOS:";
 "Encrypt" = "Zašifrovat";
 "Skip" = "Přeskočit";
-"Can't enable the extension" = "Can't enable the extension";
-"In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nPlease update your Keka Helper version to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." = "In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nPlease update your Keka Helper version to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it.";
-"In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nYou can install the Keka Helper to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." = "In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nYou can install the Keka Helper to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it.";
+"Can't enable the extension" = "Nelze povolit rozšíření";
+"In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nPlease update your Keka Helper version to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." = "V macOS 15 nelze automaticky nebo jednoduše povolit rozšíření Finderu.\n\nAktualizuje prosím verzi Keka Helper pro automatickou aktivaci/deaktivaci rozšíření Finderu. Nebo můžete zkusit postup v programu Terminal a aktivovat jej ručně.";
+"In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nYou can install the Keka Helper to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." =        "V macOS 15 nelze automaticky nebo jednoduše povolit rozšíření Finderu.\n\nNainstalujte prosím Keka Helper pro automatickou aktivaci/deaktivaci rozšíření Finderu. Nebo můžete zkusit postup v programu Terminal a aktivovat jej ručně.";
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "Předvolby…";
 

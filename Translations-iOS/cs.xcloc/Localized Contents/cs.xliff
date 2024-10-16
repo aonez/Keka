@@ -94,6 +94,7 @@
       </trans-unit>
       <trans-unit id="Apple Archive" xml:space="preserve">
         <source>Apple Archive</source>
+        <target>Apple Archive</target>
         <note/>
       </trans-unit>
       <trans-unit id="BZIP2 Archive" xml:space="preserve">
