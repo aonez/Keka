@@ -6,7 +6,7 @@
 "2222.title" = "Po komprimaci přesunout původní soubory do koše";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks"; ObjectID = "2244"; */
-"2244.title" = "Přeskočit prostředkové části (např. .DS_Store)";
+"2244.title" = "Vynechat prostředkové části (např. .DS_Store)";
 
 /* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "2262"; */
 "2262.title" = "Heslo:";
@@ -57,7 +57,7 @@
 "2354.placeholderString" = "Vlastní název";
 
 /* Class = "NSTextFieldCell"; title = "You can create an ISO volume that will be read-only and compressed. ISO volumes can be only created from a folder.\n\nSet a volume name to this ISO or use the default name based on the files you compress."; ObjectID = "2363"; */
-"2363.title" = "Můžete vytvořit ISO svazek, který bude komprimovaný a pouze ke čtení. ISO svazky mohou být vytvořeny pouze ze složek.\n\nTento svazek pojmenujte, nebo použijte výchozí název.";
+"2363.title" = "Můžete vytvořit ISO svazek, který bude komprimovaný a pouze ke čtení. ISO svazky mohou být vytvořeny pouze ze složek.\n\nTento svazek pojmenujte, nebo použijte výchozí název.";
 
 /* Class = "NSTextFieldCell"; title = "Store"; ObjectID = "2390"; */
 "2390.title" = "Žádná";
