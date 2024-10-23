@@ -180,7 +180,7 @@
 "Ei5-Ya-HGI.title" = "Utilizza un nome personalizzato quando comprimi più file";
 
 /* Class = "NSButtonCell"; title = "Activate Keka when starting a new operation"; ObjectID = "FMT-Gs-iEi"; */
-"FMT-Gs-iEi.title" = "Activate Keka when starting a new operation";
+"FMT-Gs-iEi.title" = "Attiva Keka quando si avvia una nuova operazione";
 
 /* Class = "NSTextFieldCell"; title = "Tasks priority (QoS):"; ObjectID = "G1T-Qd-OZi"; */
 "G1T-Qd-OZi.title" = "Priorità dei task (QoS):";
