@@ -36,7 +36,7 @@
 "198.title" = "Vždy komprimovat";
 
 /* Class = "NSMenuItem"; title = "Perform automatic action"; ObjectID = "199"; */
-"199.title" = "Vybrat automaticky";
+"199.title" = "Automaticky";
 
 /* Class = "NSButtonCell"; title = "Move original file(s) to Trash after compression"; ObjectID = "262"; */
 "262.title" = "Po komprimaci přesunout původní soubory do koše";
@@ -48,7 +48,7 @@
 "264.title" = "Po komprimaci zobrazit archiv ve Finderu";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "265"; */
-"265.title" = "Přeskočit prostředkové části (např. .DS_Store)";
+"265.title" = "Vynechat prostředkové části (např. .DS_Store)";
 
 /* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "279"; */
 "279.title" = "Pokaždé se zeptat";
@@ -87,7 +87,7 @@
 "361.title" = "Po rozbalení zobrazit soubory ve Finderu";
 
 /* Class = "NSButtonCell"; title = "Move compressed file(s) to Trash after extraction"; ObjectID = "362"; */
-"362.title" = "Po rozbalení přesunout výchozí soubory do koše";
+"362.title" = "Po rozbalení přesunout soubory archivu do koše";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "418"; */
 "418.title" = "Žádný";
@@ -180,7 +180,7 @@
 "Ei5-Ya-HGI.title" = "Při komprimaci více souborů použít vlastní název";
 
 /* Class = "NSButtonCell"; title = "Activate Keka when starting a new operation"; ObjectID = "FMT-Gs-iEi"; */
-"FMT-Gs-iEi.title" = "Activate Keka when starting a new operation";
+"FMT-Gs-iEi.title" = "Při nové operaci, převést program Keka do popředí";
 
 /* Class = "NSTextFieldCell"; title = "Tasks priority (QoS):"; ObjectID = "G1T-Qd-OZi"; */
 "G1T-Qd-OZi.title" = "Priorita úloh (QoS):";
@@ -192,7 +192,7 @@
 "Hkf-wB-gUj.title" = "Při použití více jader doporučujeme souběžně komprimovat pouze jeden soubor.";
 
 /* Class = "NSTextFieldCell"; title = "Those are only applied when Keka is not open"; ObjectID = "Hx2-S1-j7m"; */
-"Hx2-S1-j7m.title" = "Nastavení se uplatní pouze pokud, Keka není spuštěná.";
+"Hx2-S1-j7m.title" = "Nastavení se uplatní pouze pokud Keka není spuštěná.";
 
 /* Class = "NSMenuItem"; title = "Never"; ObjectID = "I93-7A-iSn"; */
 "I93-7A-iSn.title" = "Nikdy";
@@ -222,7 +222,7 @@
 "ND5-DN-C1H.title" = "Omezení počtu vláken na operaci:";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "NwI-O4-9NI"; */
-"NwI-O4-9NI.title" = "Přeskočit prostředkové části (např. .DS_Store)";
+"NwI-O4-9NI.title" = "Vynechat prostředkové části (např. .DS_Store)";
 
 /* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder."; ObjectID = "PD2-iW-BGK"; */
 "PD2-iW-BGK.title" = "Pokud chcete, aby Keka měla přístup k vašim souborům (například složky Plocha a Stahování), udělte přístup k domovské složce.";
@@ -264,7 +264,7 @@
 "ZiK-jD-TLq.title" = "Vysoká";
 
 /* Class = "NSButtonCell"; title = "Use \"Open with Keka\" as the primary item action"; ObjectID = "a5e-FP-sDv"; */
-"a5e-FP-sDv.title" = "Použít „Otevřít pomocí Keka“ jako primární akci";
+"a5e-FP-sDv.title" = "Použít „Otevřít pomocí Keka“ jako výchozí akci";
 
 /* Class = "NSButtonCell"; title = "Show the password"; ObjectID = "aOv-6b-JlO"; */
 "aOv-6b-JlO.title" = "Zobrazit heslo";
