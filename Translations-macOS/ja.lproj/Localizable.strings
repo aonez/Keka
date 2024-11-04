@@ -74,7 +74,7 @@
 "Keka can't create this %@ image" = "%@ イメージを作成できません。";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "1つのフォルダのみを使用して %@ が作成できます。すべてのファイルを1つのフォルダに入れてから、そのフォルダを Keka にドラッグして %@ を作成してください。";
 "Keka can't create this @% tarball" = "Keka は @% のtarballを作成できません";
-"Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it." = "Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it.";
+"Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it." = "Kekaは、単体では暗号化されたLRZIPアーカイブしか作成できません。最初にTARアーカイブを作成した後に暗号化してください。";
 "This operation is not supported on %@." = "この操作は %@ には対応していません。";
 "Compress \"%@\" in %@ to..." = "\"%@\" の %@ 形式の保存先...";
 "Compress in %@ to..." = "%@ の保存先...";
@@ -239,15 +239,15 @@
 "Verifying..." = "検証中...";
 "Verification of \"%@\" failed" = "\"%@\" の検証に失敗しました";
 "The compressed data seems to be invalid" = "無効な圧縮データです";
-"Encrypted Apple Archive files are only supported on macOS 12 or newer" = "暗号化されたAppleアーカイブファイルは、macOS 12以降でサポートされています";
+"Encrypted Apple Archive files are only supported on macOS 12 or newer" = "暗号化されたAppleアーカイブファイルは、macOS 12 以降でサポートされています";
 "The password length should be %i or higher" = "パスワードは %i 文字以上必要です";
 " (Entire Device)" = " (デバイス全体)";
 "Recovery Volumes:" = "ボリュームを復元:";
 "Encrypt" = "暗号化";
 "Skip" = "スキップ";
 "Can't enable the extension" = "Can't enable the extension";
-"In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nPlease update your Keka Helper version to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." = "In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nPlease update your Keka Helper version to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it.";
-"In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nYou can install the Keka Helper to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." = "In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nYou can install the Keka Helper to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it.";
+"In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nPlease update your Keka Helper version to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." = "macOS 15 では、Finder 機能拡張を自動的に、または簡単に有効にする方法がありません。\n\nFinder 機能拡張を自動的に有効/無効にするには、Keka Helperのバージョンをアップデートしてください。またはターミナルから手順に従って手動で有効にしてください。";
+"In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nYou can install the Keka Helper to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." = "macOS 15 では、Finder 機能拡張を自動的に、または簡単に有効にする方法がありません。\n\nターミナルから手順に従って手動で有効にすることもできます。";
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "環境設定…";
 

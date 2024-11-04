@@ -180,7 +180,7 @@
 "Ei5-Ya-HGI.title" = "複数のファイルを圧縮する際にカスタム名を使用する";
 
 /* Class = "NSButtonCell"; title = "Activate Keka when starting a new operation"; ObjectID = "FMT-Gs-iEi"; */
-"FMT-Gs-iEi.title" = "Activate Keka when starting a new operation";
+"FMT-Gs-iEi.title" = "新規オペレーション開始時に Keka をアクティブにする";
 
 /* Class = "NSTextFieldCell"; title = "Tasks priority (QoS):"; ObjectID = "G1T-Qd-OZi"; */
 "G1T-Qd-OZi.title" = "タスクの優先度 (QoS):";
@@ -225,7 +225,7 @@
 "NwI-O4-9NI.title" = "Mac のリソースフォークを含めない (例: .DS_Store)";
 
 /* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder."; ObjectID = "PD2-iW-BGK"; */
-"PD2-iW-BGK.title" = "デスクトップまたはダウンロードフォルダなど、すべてのユーザーファイルでKekaを使用できるように、ホームアクセスを有効にします。.";
+"PD2-iW-BGK.title" = "デスクトップまたはダウンロードフォルダなど、すべてのユーザーファイルでKekaを使用できるように、ホームアクセスを有効にします。";
 
 /* Class = "NSTextFieldCell"; title = "Default password:"; ObjectID = "Rgr-FP-Kua"; */
 "Rgr-FP-Kua.title" = "デフォルトのパスワード:";
