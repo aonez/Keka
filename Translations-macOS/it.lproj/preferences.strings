@@ -165,7 +165,7 @@
 "DAr-Td-s5W.title" = "Le estrazioni consumano meno energia, quindi anche usando più thread puoi facilmente impostare questo limite su due o tre. Nota che il disco di destinazione potrebbe risentirne.";
 
 /* Class = "NSButtonCell"; title = "Use resizable windows"; ObjectID = "DCA-p1-1uq"; */
-"DCA-p1-1uq.title" = "Use resizable windows";
+"DCA-p1-1uq.title" = "Utilizza finestre ridimensionabili";
 
 /* Class = "NSButtonCell"; title = "Ask before quitting with operations"; ObjectID = "DJT-wB-bCM"; */
 "DJT-wB-bCM.title" = "Chiedi prima di smettere con le operazioni";
@@ -234,7 +234,7 @@
 "Rgr-FP-Kua.title" = "Password di default:";
 
 /* Class = "NSButtonCell"; title = "Silently ignore extra trailing data"; ObjectID = "Rwo-pm-Y6t"; */
-"Rwo-pm-Y6t.title" = "Silently ignore extra trailing data";
+"Rwo-pm-Y6t.title" = "Ignora silenziosamente i dati finali extra";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "Attiva integrazione Centro Notifiche";
