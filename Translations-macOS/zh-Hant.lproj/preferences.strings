@@ -180,7 +180,7 @@
 "Ei5-Ya-HGI.title" = "壓縮多個檔案時，使用自訂名稱";
 
 /* Class = "NSButtonCell"; title = "Activate Keka when starting a new operation"; ObjectID = "FMT-Gs-iEi"; */
-"FMT-Gs-iEi.title" = "Activate Keka when starting a new operation";
+"FMT-Gs-iEi.title" = "開始新動作時讓 Keka 的視窗維持在前景";
 
 /* Class = "NSTextFieldCell"; title = "Tasks priority (QoS):"; ObjectID = "G1T-Qd-OZi"; */
 "G1T-Qd-OZi.title" = "作業優先級（QoS）：";
