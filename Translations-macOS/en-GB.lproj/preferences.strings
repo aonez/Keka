@@ -164,6 +164,9 @@
 /* Class = "NSTextFieldCell"; title = "Extractions use less power so even using multiple thread you can easily set this limit to two or three. Note that the target disk may suffer."; ObjectID = "DAr-Td-s5W"; */
 "DAr-Td-s5W.title" = "Extractions use less power so even using multiple threads you can easily set this limit to two or three. Note that the target disk may suffer.";
 
+/* Class = "NSButtonCell"; title = "Use resizable windows"; ObjectID = "DCA-p1-1uq"; */
+"DCA-p1-1uq.title" = "Use resizable windows";
+
 /* Class = "NSButtonCell"; title = "Ask before quitting with operations"; ObjectID = "DJT-wB-bCM"; */
 "DJT-wB-bCM.title" = "Ask before quitting with operations";
 
@@ -229,6 +232,9 @@
 
 /* Class = "NSTextFieldCell"; title = "Default password:"; ObjectID = "Rgr-FP-Kua"; */
 "Rgr-FP-Kua.title" = "Default password:";
+
+/* Class = "NSButtonCell"; title = "Silently ignore extra trailing data"; ObjectID = "Rwo-pm-Y6t"; */
+"Rwo-pm-Y6t.title" = "Silently ignore extra trailing data";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "Enable Notification Centre integration";

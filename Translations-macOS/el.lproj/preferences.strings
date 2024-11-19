@@ -164,6 +164,9 @@
 /* Class = "NSTextFieldCell"; title = "Extractions use less power so even using multiple thread you can easily set this limit to two or three. Note that the target disk may suffer."; ObjectID = "DAr-Td-s5W"; */
 "DAr-Td-s5W.title" = "Οι εξαγωγές καταναλώνουν λιγότερη ισχύ ακόμη και στις πολλές ομαδοποιημένες λειτουργίες (threads). Ρύθμισε το όριο αυτό σε 2 ή 3 χωρίς πρόβλημα. Σημείωση: Ο δίσκος προορισμού πιθανά να καταπονηθεί.";
 
+/* Class = "NSButtonCell"; title = "Use resizable windows"; ObjectID = "DCA-p1-1uq"; */
+"DCA-p1-1uq.title" = "Use resizable windows";
+
 /* Class = "NSButtonCell"; title = "Ask before quitting with operations"; ObjectID = "DJT-wB-bCM"; */
 "DJT-wB-bCM.title" = "Ερώτηση πρίν την έξοδο προγράμματος, κατά την εκτέλεση ημιτελών λειτουργιών";
 
@@ -229,6 +232,9 @@
 
 /* Class = "NSTextFieldCell"; title = "Default password:"; ObjectID = "Rgr-FP-Kua"; */
 "Rgr-FP-Kua.title" = "Κωδικός (εξ’ορισμού):";
+
+/* Class = "NSButtonCell"; title = "Silently ignore extra trailing data"; ObjectID = "Rwo-pm-Y6t"; */
+"Rwo-pm-Y6t.title" = "Silently ignore extra trailing data";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "Ενεργοποίηση ενσωμάτωσης του Κέντρου Ειδοποιήσεων";
