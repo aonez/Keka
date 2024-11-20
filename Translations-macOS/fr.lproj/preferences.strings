@@ -165,7 +165,7 @@
 "DAr-Td-s5W.title" = "Les extractions utilisent moins de puissance, donc même en utilisant plusieurs fils, vous pouvez facilement définir cette limite à deux ou trois. Notez que le disque cible peut en souffrir.";
 
 /* Class = "NSButtonCell"; title = "Use resizable windows"; ObjectID = "DCA-p1-1uq"; */
-"DCA-p1-1uq.title" = "Use resizable windows";
+"DCA-p1-1uq.title" = "Utiliser des fenêtres redimensionables";
 
 /* Class = "NSButtonCell"; title = "Ask before quitting with operations"; ObjectID = "DJT-wB-bCM"; */
 "DJT-wB-bCM.title" = "Demander avant de quitter avec des opérations en cours";
@@ -234,7 +234,7 @@
 "Rgr-FP-Kua.title" = "Mot de passe par défaut :";
 
 /* Class = "NSButtonCell"; title = "Silently ignore extra trailing data"; ObjectID = "Rwo-pm-Y6t"; */
-"Rwo-pm-Y6t.title" = "Silently ignore extra trailing data";
+"Rwo-pm-Y6t.title" = "Ignorer silencieusement les données de fin supplémentaires";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "Autoriser l'intégration au Centre de notifications";
