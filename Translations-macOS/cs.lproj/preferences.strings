@@ -165,7 +165,7 @@
 "DAr-Td-s5W.title" = "Rozbalování je nenáročné na energii, proto můžete i při použití více jader toto číslo nastavit na dva nebo tři. Tyto operace ale mohou zatěžovat cílový disk.";
 
 /* Class = "NSButtonCell"; title = "Use resizable windows"; ObjectID = "DCA-p1-1uq"; */
-"DCA-p1-1uq.title" = "Use resizable windows";
+"DCA-p1-1uq.title" = "Použít okna s proměnnou velikostí";
 
 /* Class = "NSButtonCell"; title = "Ask before quitting with operations"; ObjectID = "DJT-wB-bCM"; */
 "DJT-wB-bCM.title" = "Zeptat se před ukončením, pokud probíhají operace";
@@ -234,7 +234,7 @@
 "Rgr-FP-Kua.title" = "Výchozí heslo:";
 
 /* Class = "NSButtonCell"; title = "Silently ignore extra trailing data"; ObjectID = "Rwo-pm-Y6t"; */
-"Rwo-pm-Y6t.title" = "Silently ignore extra trailing data";
+"Rwo-pm-Y6t.title" = "Potichu ignorovat další koncová data";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "Udělit přístup k Oznamovacímu centru";
