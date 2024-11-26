@@ -39,9 +39,9 @@ $content_downloading_if_fails_click_here = "click here";
 
 // Like
 $content_donation_button = "Donate";
-$content_donation_title = 'If you like Keka just give it some <i class="fa fa-heart" aria-hidden="true"></i>, <br />get it from the App Store or send a PayPal tip!';
+$content_donation_title = 'If you like Keka just give it some <i class="fa fa-heart" aria-hidden="true"></i>, <br />get it from the App Store or send a tip!';
 $content_donation_mas = "If you buy Keka from the App Store you will be supporting development,<br />the app is the same as the version from this website only updated through the App Store.";
-$content_donation_paypal = "If you don't like MAS or just want to play around with Keka<br />but also like the project and want to give it some love, you can send a tip using PayPal.";
+$content_donation_paypal = "If you don't like MAS or just want to play around with Keka<br />but also like the project and want to give it some love, you can send a tip.";
 
 // Beta
 $content_platform_beta = "Beta";

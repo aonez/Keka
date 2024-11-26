@@ -39,9 +39,9 @@ $content_downloading_if_fails_click_here = "kattints ide";
 
 // Like
 $content_donation_button = "Adományozz";
-$content_donation_title = 'Ha tetszik a Keka, mutasd ki! <i class="fa fa-heart" aria-hidden="true"></i> <br />Szerezd meg az App Store-ból, vagy küldj borravalót PayPal-on!';
+$content_donation_title = 'Ha tetszik a Keka, mutasd ki! <i class="fa fa-heart" aria-hidden="true"></i> <br />Szerezd meg az App Store-ból, vagy küldj borravalót!';
 $content_donation_mas = "Ha a Kekát az App Store-ból szerzed be, támogatod a fejlesztést. <br />Az alkalmazás ugyanaz a verzió, mint ami ezen a weboldalon elérhető, csak az App Store-on keresztül frissül.";
-$content_donation_paypal = "Ha nem kedveled a Mac App Store-t, vagy csak ki szórakozni szeretnél a Kekával,<br />de tetszik a projekt és ki szeretnéd mutatni, tudsz borravalót küldeni a PayPal-on keresztül.";
+$content_donation_paypal = "Ha nem kedveled a Mac App Store-t, vagy csak ki szórakozni szeretnél a Kekával,<br />de tetszik a projekt és ki szeretnéd mutatni, tudsz borravalót küldeni.";
 
 // Beta
 $content_platform_beta = "Béta";

@@ -39,9 +39,9 @@ $content_downloading_if_fails_click_here = "点击此处";
 
 // Like
 $content_donation_button = "捐赠";
-$content_donation_title = '如果您喜欢 Keka，只需给它一些 <i class="fa fa-heart" aria-hidden="true"></i>，<br />您也可以从 App Store 购买 Keka 或通过 PayPal 发起捐赠~';
+$content_donation_title = '如果您喜欢 Keka，只需给它一些 <i class="fa fa-heart" aria-hidden="true"></i>，<br />您也可以从 App Store 购买 Keka 或发起捐赠~';
 $content_donation_mas = "如果您从 App Store 购买 Keka，这会支持我们的开发工作，<br />App Store 中的版本与本网站中下载的版本是相同的。";
-$content_donation_paypal = "如果您不喜欢 MAS 或只是想体验一下 Keka，<br />喜欢这个项目的同时并希望给予一些支持，您可以使用 PayPal 发起捐赠。";
+$content_donation_paypal = "如果您不喜欢 MAS 或只是想体验一下 Keka，<br />喜欢这个项目的同时并希望给予一些支持，您可以发起捐赠。";
 
 // Beta
 $content_platform_beta = "测试版";

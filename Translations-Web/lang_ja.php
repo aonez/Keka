@@ -39,9 +39,9 @@ $content_downloading_if_fails_click_here = "こちらをクリック";
 
 // Like
 $content_donation_button = "寄付する";
-$content_donation_title = 'Kekaが気に入ったなら<i class="fa fa-heart" aria-hidden="true"></i>, <br />App Storeから入手するか、PayPalのチップを送ってください！';
+$content_donation_title = 'Kekaが気に入ったなら<i class="fa fa-heart" aria-hidden="true"></i>, <br />App Storeから入手するか、チップを送ってください！';
 $content_donation_mas = "App StoreからKekaを購入することで、開発を支援できます。<br />サイト上のバージョンと変わらず、App Storeを通じてのみ更新されます。";
-$content_donation_paypal = "もしApp Storeからインストールしたくなかったり、Kekaを試しただけの場合でも<br />このプロジェクトが気に入って寄付をしたい場合は、PayPalを使ってチップを送ることができます。";
+$content_donation_paypal = "もしApp Storeからインストールしたくなかったり、Kekaを試しただけの場合でも<br />このプロジェクトが気に入って寄付をしたい場合は、チップを送ることができます";
 
 // Beta
 $content_platform_beta = "ベータ";

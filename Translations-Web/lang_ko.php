@@ -39,7 +39,7 @@ $content_downloading_if_fails_click_here = "여기를 누르세요";
 
 // Like
 $content_donation_button = "후원하기";
-$content_donation_title = 'Keka를 좋아하신다면 <i class="fa fa-heart" aria-hidden="true"></i>를 주세요, <br />App Store에서 구입하시거나 Paypal을 통해 후원해주세요!';
+$content_donation_title = 'Keka를 좋아하신다면 <i class="fa fa-heart" aria-hidden="true"></i>를 주세요, <br />App Store에서 구입하시거나 후원해주세요!';
 $content_donation_mas = "Keka를 App Store에서 구매하시면, Keka의 개발을 후원하게 됩니다.<br />웹 사이트에서 다운받는 Keka와 정확히 같은 버전이며, App Store를 통해 업데이트가 이루어집니다.";
 $content_donation_paypal = "App Store를 통한 후원을 원치않으시다면, <br />아래의 후원 방법으로 개발자를 도와주실수 있습니다!";
 

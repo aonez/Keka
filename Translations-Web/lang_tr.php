@@ -39,9 +39,9 @@ $content_downloading_if_fails_click_here = "click here";
 
 // Like
 $content_donation_button = "Bağış yap";
-$content_donation_title = 'Keka&apos;yı sevdiyseniz, <i class="fa fa-heart" aria-hidden="true"></i> verebilir, <br />App Store&apos;dan edinebilir veya PayPal bağışı gönderebilirsin!';
+$content_donation_title = 'Keka&apos;yı sevdiyseniz, <i class="fa fa-heart" aria-hidden="true"></i> verebilir, <br />App Store&apos;dan edinebilir veya bağış gönderebilirsin!';
 $content_donation_mas = "Uygulama mağazasından Keka satın alırsan, geliştirmeye destekte bulunacaksan,<br />web'de olduğu gibi aynı sürüme sahip olacaksın, ancak uygulama her zaman App Store'dan güncellenecektir.";
-$content_donation_paypal = "Mac App Store&apos;ı (MAS) sevmiyorsan veya Keka ile çalışmak istiyor<br />ve aynı zamanda projeyi beğendiğin için desteğini vermek istiyorsan, PayPal kullanarak bir bağış gönderebilirsin.";
+$content_donation_paypal = "Mac App Store&apos;ı (MAS) sevmiyorsan veya Keka ile çalışmak istiyor<br />ve aynı zamanda projeyi beğendiğin için desteğini vermek istiyorsan, bir bağış gönderebilirsin.";
 
 // Beta
 $content_platform_beta = "Beta";

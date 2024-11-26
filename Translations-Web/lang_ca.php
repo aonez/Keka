@@ -39,9 +39,9 @@ $content_downloading_if_fails_click_here = "feu clic aquí";
 
 // Like
 $content_donation_button = "Donar";
-$content_donation_title = 'Si t\'agrada el Keka dona-li una mica de <i class="fa fa-heart" aria-hidden="true"></i>, <br />compra\'l en l\'App Store o envia un donatiu via PayPal!';
+$content_donation_title = 'Si t\'agrada el Keka dona-li una mica de <i class="fa fa-heart" aria-hidden="true"></i>, <br />compra\'l en l\'App Store o envia un donatiu!';
 $content_donation_mas = "Si compres el Keka a través de l'App Store, tindràs la mateixa versió que a la web<br />però sempre s'actualitzara a través de l'App Store.";
-$content_donation_paypal = "Si no t'agrada l'App Store o senzillament vols jugar amb les entranyes del Keka<br />però a més t'agrada el projecte i vols donar-li el teu suport, pots enviar una donació utilitzant PayPal.";
+$content_donation_paypal = "Si no t'agrada l'App Store o senzillament vols jugar amb les entranyes del Keka<br />però a més t'agrada el projecte i vols donar-li el teu suport, pots enviar una donació.";
 
 // Beta
 $content_platform_beta = "Beta";

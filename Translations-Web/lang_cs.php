@@ -39,9 +39,9 @@ $content_downloading_if_fails_click_here = "klepněte zde";
 
 // Like
 $content_donation_button = "Přispět";
-$content_donation_title = 'Pokud se Vám aplikace Keka líbí můžete ji ohodnotit <i class="fa fa-heart" aria-hidden="true"></i>, <br />zkopírovat z App Store nebo poslat drobný obnos přes PayPal!';
+$content_donation_title = 'Pokud se Vám aplikace Keka líbí můžete ji ohodnotit <i class="fa fa-heart" aria-hidden="true"></i>, <br />zkopírovat z App Store nebo poslat drobný obnos!';
 $content_donation_mas = "Pokud si zakoupíte aplikaci Keka na App Store podpoříte tím její vývoj,<br />aplikace je zcela stejná jako verze z tohoto webu pouze aktualizace zajišťuje App Store.";
-$content_donation_paypal = "Pokud nemáte rádi App Store nebo se chcete s aplikací Keka jen pohrát,<br />ale projekt se Vám přesto líbí a chcete ho podpořit, můžete poslat drobný obnos přes PayPal.";
+$content_donation_paypal = "Pokud nemáte rádi App Store nebo se chcete s aplikací Keka jen pohrát,<br />ale projekt se Vám přesto líbí a chcete ho podpořit, můžete poslat drobný obnos.";
 
 // Beta
 $content_platform_beta = "Zkušební verze";

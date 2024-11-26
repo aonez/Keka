@@ -39,9 +39,9 @@ $content_downloading_if_fails_click_here = "haz clic aquí";
 
 // Like
 $content_donation_button = "Donar";
-$content_donation_title = 'Si te gusta Keka dale un poco de <i class="fa fa-heart" aria-hidden="true"></i>, <br />cómpralo en la App Store o envía un donativo vía PayPal!';
+$content_donation_title = 'Si te gusta Keka dale un poco de <i class="fa fa-heart" aria-hidden="true"></i>, <br />cómpralo en la App Store o envía un donativo!';
 $content_donation_mas = "Si compras Keka a través de la App Store, tendrás la mimsa versión que en la web<br />pero siempre se actualizará a través de la App Store.";
-$content_donation_paypal = "Si no te gusta la Apple Store o simplemente quieres jugar con las entrañas de Keka<br />pero además te gusta el proyecto y quieres darle tu apoyo, puedes enviar una donación utilizando PayPal.";
+$content_donation_paypal = "Si no te gusta la Apple Store o simplemente quieres jugar con las entrañas de Keka<br />pero además te gusta el proyecto y quieres darle tu apoyo, puedes enviar una donación.";
 
 // Beta
 $content_platform_beta = "Beta";

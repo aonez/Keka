@@ -39,9 +39,9 @@ $content_downloading_if_fails_click_here = "klikk her";
 
 // Like
 $content_donation_button = "Doner";
-$content_donation_title = 'Liker du Keka? Gi det litt <i class="fa fa-heart" aria-hidden="true"></i>.<br />Skaff programmet fra App Store eller send driks med PayPal!';
+$content_donation_title = 'Liker du Keka? Gi det litt <i class="fa fa-heart" aria-hidden="true"></i>.<br />Skaff programmet fra App Store eller send driks!';
 $content_donation_mas = "Hvis du kjøper Keka på App Store, støtter du videre utvikling.<br />Appen er den samme som versjonen du får via denne nettsiden, bare oppdatert gjennom App Store.";
-$content_donation_paypal = "Hvis du ikke liker MAS eller bare vil prøve ut Keka,<br />men likevel ønsker å støtte prosjektet, kan du sende driks via PayPal.";
+$content_donation_paypal = "Hvis du ikke liker MAS eller bare vil prøve ut Keka,<br />men likevel ønsker å støtte prosjektet, kan du sende driks.";
 
 // Beta
 $content_platform_beta = "Beta";

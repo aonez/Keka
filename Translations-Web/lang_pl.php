@@ -39,9 +39,9 @@ $content_downloading_if_fails_click_here = "kliknij tutaj.";
 
 // Like
 $content_donation_button = "Wesprzyj projekt";
-$content_donation_title = 'Jeśli lubisz program Keka, rozważ zakup w App Store lub wesprzyj autora przez PayPal!';
-$content_donation_mas = "Kupując program Keka w App Store wspierasz autora i rozwój projektu. Aplikacja jest identyczna, jak wersja z tej strony. Aktualizacje są jednak pobierane automatycznie z App Store.";
-$content_donation_paypal = "Jeśli nie chcesz kupować w App Store, możesz wesprzeć projekt za pomocą PayPal.";
+$content_donation_title = 'Jeśli lubisz program Keka <i class="fa fa-heart" aria-hidden="true"></i>,<br />rozważ zakup w App Store lub wesprzyj autora!';
+$content_donation_mas = "Kupując program Keka w App Store wspierasz autora i rozwój projektu.<br />Aplikacja jest identyczna, jak wersja z tej strony. Aktualizacje są jednak pobierane automatycznie z App Store.";
+$content_donation_paypal = "Jeśli nie chcesz kupować w App Store, możesz wesprzeć projekt.";
 
 // Beta
 $content_platform_beta = "Beta";
