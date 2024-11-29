@@ -165,7 +165,7 @@
 "DAr-Td-s5W.title" = "Извлечения потребляют меньше энергии, поэтому даже используя многопоточность, вы можете безопасно установить значение 2 или 3. Обратите внимание, что целевой диск может испытывать повышенную нагрузку.";
 
 /* Class = "NSButtonCell"; title = "Use resizable windows"; ObjectID = "DCA-p1-1uq"; */
-"DCA-p1-1uq.title" = "Use resizable windows";
+"DCA-p1-1uq.title" = "Использовать изменяемые размеры окон";
 
 /* Class = "NSButtonCell"; title = "Ask before quitting with operations"; ObjectID = "DJT-wB-bCM"; */
 "DJT-wB-bCM.title" = "Спросить, прежде чем прекратить процесс";
