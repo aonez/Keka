@@ -234,7 +234,7 @@
 "Rgr-FP-Kua.title" = "Пароль по умолчанию:";
 
 /* Class = "NSButtonCell"; title = "Silently ignore extra trailing data"; ObjectID = "Rwo-pm-Y6t"; */
-"Rwo-pm-Y6t.title" = "Silently ignore extra trailing data";
+"Rwo-pm-Y6t.title" = "Игнорировать ошибку избыточных данных (неожиданный конец архива)";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "Включить интеграцию с Центром уведомлений";
