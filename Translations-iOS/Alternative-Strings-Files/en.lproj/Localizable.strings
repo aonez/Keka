@@ -1,6 +1,3 @@
-/* Keka Folder */
-"%@ Folder" = "%@ Folder";
-
 /* No comment provided by engineer. */
 "%@ item" = "%@ item";
 
@@ -350,6 +347,12 @@
 "Modified" = "Modified";
 
 /* No comment provided by engineer. */
+"Move compressed file(s) to Trash after extraction" = "Move compressed file(s) to Trash after extraction";
+
+/* No comment provided by engineer. */
+"Move original file(s) to Trash after compression" = "Move original file(s) to Trash after compression";
+
+/* No comment provided by engineer. */
 "Name" = "Name";
 
 /* No comment provided by engineer. */
@@ -363,6 +366,9 @@
 
 /* No comment provided by engineer. */
 "No files to extract" = "No files to extract";
+
+/* Password field empty placeholder */
+"None" = "None";
 
 /* No comment provided by engineer. */
 "Normal" = "Normal";
@@ -389,6 +395,9 @@
 "Password" = "Password";
 
 /* No comment provided by engineer. */
+"Password for \"%@\"" = "Password for \"%@\"";
+
+/* No comment provided by engineer. */
 "Password needed" = "Password needed";
 
 /* No comment provided by engineer. */
@@ -399,6 +408,9 @@
 
 /* No comment provided by engineer. */
 "Petabytes" = "Petabytes";
+
+/* No comment provided by engineer. */
+"Please enter the password for:" = "Please enter the password for:";
 
 /* No comment provided by engineer. */
 "Please select the encoding for:" = "Please select the encoding for:";
@@ -575,7 +587,25 @@
 "Use UTF-8 Encoding if Available" = "Use UTF-8 Encoding if Available";
 
 /* No comment provided by engineer. */
+"verification failed" = "verification failed";
+
+/* No comment provided by engineer. */
 "Verify compression integrity" = "Verify compression integrity";
+
+/* No comment provided by engineer. */
+"Verify..." = "Verify...";
+
+/* Verification, operation description. */
+"VERIFY_OPERATION" = "Verification";
+
+/* Verifying, operation running. */
+"VERIFY_RUNNING" = "Verifying";
+
+/* Verifying, tasks section title. */
+"VERIFY_SECTION_TITLE" = "Verifying";
+
+/* No comment provided by engineer. */
+"verifyed" = "verifyed";
 
 /* No comment provided by engineer. */
 "Volume Size" = "Volume Size";

@@ -1,6 +1,3 @@
-/* Keka Folder */
-"%@ Folder" = "Carpeta de %@";
-
 /* No comment provided by engineer. */
 "%@ item" = "%@ ítem";
 
@@ -26,7 +23,7 @@
 "Actions" = "Acciones";
 
 /* No comment provided by engineer. */
-"Actions to do with the current browsed file" = "Actions to do with the current browsed file"; // THIS IS NOT LOCALIZED
+"Actions to do with the current browsed file" = "Acciones a realizar con el archivo abierto";
 
 /* No comment provided by engineer. */
 "Add a File" = "Añadir un fichero";
@@ -38,7 +35,7 @@
 "Add a Photo or Video" = "Añade una foto o un vídeo";
 
 /* No comment provided by engineer. */
-"Add files and folders to a compression list" = "Add files and folders to a compression list"; // THIS IS NOT LOCALIZED
+"Add files and folders to a compression list" = "Añade archivos y carpetas a una lista de compresión";
 
 /* No comment provided by engineer. */
 "Add some contents using the %@ button or the %@ button in the toolbar." = "Añade contenido utilizando los botones %@ o %@ de la barra de herramientas.";
@@ -59,7 +56,7 @@
 "archive" = "archivo";
 
 /* No comment provided by engineer. */
-"Archive items separately" = "Archive items separately"; // THIS IS NOT LOCALIZED
+"Archive items separately" = "Comprimir por separado";
 
 /* Default compression file name. */
 "ARCHIVE_DEFAULT_NAME" = "Archivo";
@@ -83,7 +80,7 @@
 "by %@" = "por %@";
 
 /* No comment provided by engineer. */
-"Bytes" = "Bytes"; // THIS IS NOT LOCALIZED
+"Bytes" = "Bytes";
 
 /* No comment provided by engineer. */
 "Calculate" = "Calcular";
@@ -116,7 +113,7 @@
 "compress" = "comprimir";
 
 /* No comment provided by engineer. */
-"Compress all the items in the compression list" = "Compress all the items in the compression list"; // THIS IS NOT LOCALIZED
+"Compress all the items in the compression list" = "Comprimir todos los archivos de la lista de compresión";
 
 /* No comment provided by engineer. */
 "Compress Files with Keka" = "Comprimir archivos con Keka";
@@ -188,7 +185,7 @@
 "Delete" = "Borrar";
 
 /* No comment provided by engineer. */
-"Delete files(s) after compression" = "Delete files(s) after compression"; // THIS IS NOT LOCALIZED
+"Delete files(s) after compression" = "Borrar después de comprimir";
 
 /* No comment provided by engineer. */
 "Destination" = "Destino";
@@ -227,7 +224,7 @@
 "Enter the password for the file\n\"%@\"" = "Introduce la contraseña para el archivo\n\"%@\"";
 
 /* No comment provided by engineer. */
-"Exclude Mac resource forks" = "Exclude Mac resource forks"; // THIS IS NOT LOCALIZED
+"Exclude Mac resource forks" = "Excluir archivos ocultos de Mac";
 
 /* No comment provided by engineer. */
 "Extract" = "Extraer";
@@ -305,7 +302,7 @@
 "Get Info" = "Obtener información";
 
 /* No comment provided by engineer. */
-"Gigabyte" = "Gigabyte"; // THIS IS NOT LOCALIZED
+"Gigabyte" = "Gigabyte";
 
 /* No comment provided by engineer. */
 "Give Access" = "Dar acceso";
@@ -326,7 +323,7 @@
 "Keka's icon" = "Icono de Keka";
 
 /* No comment provided by engineer. */
-"Kilobytes" = "Kilobytes"; // THIS IS NOT LOCALIZED
+"Kilobytes" = "Kilobytes";
 
 /* No comment provided by engineer. */
 "Kind" = "Clase";
@@ -344,10 +341,16 @@
 "Made with" = "Hecho con";
 
 /* No comment provided by engineer. */
-"Megabytes" = "Megabytes"; // THIS IS NOT LOCALIZED
+"Megabytes" = "Megabytes";
 
 /* No comment provided by engineer. */
 "Modified" = "Modificación";
+
+/* No comment provided by engineer. */
+"Move compressed file(s) to Trash after extraction" = "Mover los archivos comprimidos a la papelera después de la extracción";
+
+/* No comment provided by engineer. */
+"Move original file(s) to Trash after compression" = "Mover los archivos originales a la papelera después de la compresión";
 
 /* No comment provided by engineer. */
 "Name" = "Nombre";
@@ -363,6 +366,9 @@
 
 /* No comment provided by engineer. */
 "No files to extract" = "Nada que extraer";
+
+/* Password field empty placeholder */
+"None" = "Ninguna";
 
 /* No comment provided by engineer. */
 "Normal" = "Normal";
@@ -389,6 +395,9 @@
 "Password" = "Contraseña";
 
 /* No comment provided by engineer. */
+"Password for \"%@\"" = "Contraseña para \"%@\"";
+
+/* No comment provided by engineer. */
 "Password needed" = "Contraseña necesaria";
 
 /* No comment provided by engineer. */
@@ -398,7 +407,10 @@
 "Pause" = "Pausar";
 
 /* No comment provided by engineer. */
-"Petabytes" = "Petabytes"; // THIS IS NOT LOCALIZED
+"Petabytes" = "Petabytes";
+
+/* No comment provided by engineer. */
+"Please enter the password for:" = "Por favor introduce la contraseña para:";
 
 /* No comment provided by engineer. */
 "Please select the encoding for:" = "Por favor selecciona la codificación para:";
@@ -422,7 +434,7 @@
 "Remove from cache" = "Eliminar del caché";
 
 /* No comment provided by engineer. */
-"Remove the selected items from the compression list" = "Remove the selected items from the compression list"; // THIS IS NOT LOCALIZED
+"Remove the selected items from the compression list" = "Elmira los ítems seleccionados de la lista de compresión";
 
 /* No comment provided by engineer. */
 "Reset" = "Reiniciar";
@@ -455,7 +467,7 @@
 "Share..." = "Compartir...";
 
 /* No comment provided by engineer. */
-"Show Advanced Settings" = "Mostrar la Configuración Avanzada";
+"Show Advanced Settings" = "Mostrar la configuración avanzada";
 
 /* No comment provided by engineer. */
 "Show Info" = "Mostrar información";
@@ -464,10 +476,10 @@
 "Show Less" = "Mostrar menos";
 
 /* No comment provided by engineer. */
-"Show or hide additional advanced settings" = "Show or hide additional advanced settings"; // THIS IS NOT LOCALIZED
+"Show or hide additional advanced settings" = "Mostrar u ocultar la configuración avanzada";
 
 /* No comment provided by engineer. */
-"Show or hide additional information about the selected item" = "Show or hide additional information about the selected item"; // THIS IS NOT LOCALIZED
+"Show or hide additional information about the selected item" = "Mostrar u ocultar la información adicional del ítem seleccionado";
 
 /* No comment provided by engineer. */
 "Size" = "Tamaño";
@@ -485,7 +497,7 @@
 "Store" = "Almacenar";
 
 /* No comment provided by engineer. */
-"Terabytes" = "Terabytes"; // THIS IS NOT LOCALIZED
+"Terabytes" = "Terabytes";
 
 /* No comment provided by engineer. */
 "The %@ of space available in the destination might not be enough for compressing the estimated %@." = "El espacio disponible en el destino es de %@ y puede no ser suficiente para comprimir la estimación de %@.";
@@ -536,7 +548,7 @@
 "Translated by %@" = "Traducido por %@";
 
 /* The translator link, if any. Can be a mail address or a website. */
-"TRANSLATOR_LINK" = "https://ios.keka.io";
+"TRANSLATOR_LINK" = "https://www.keka.io";
 
 /* The translator name, if any. */
 "TRANSLATOR_NAME" = "aone";
@@ -575,7 +587,25 @@
 "Use UTF-8 Encoding if Available" = "Utilizar la codificación UTF-8 si está disponible";
 
 /* No comment provided by engineer. */
+"verification failed" = "verificación fallida";
+
+/* No comment provided by engineer. */
 "Verify compression integrity" = "Verificar la integridad de la compresión";
+
+/* No comment provided by engineer. */
+"Verify..." = "Verificar...";
+
+/* Verification, operation description. */
+"VERIFY_OPERATION" = "Verificación";
+
+/* Verifying, operation running. */
+"VERIFY_RUNNING" = "Verificando";
+
+/* Verifying, tasks section title. */
+"VERIFY_SECTION_TITLE" = "Verificando";
+
+/* No comment provided by engineer. */
+"verifyed" = "verificado";
 
 /* No comment provided by engineer. */
 "Volume Size" = "Tamaño";

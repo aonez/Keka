@@ -1,6 +1,3 @@
-/* Keka Folder */
-"%@ Folder" = "%@ 폴더";
-
 /* No comment provided by engineer. */
 "%@ item" = "개의 항목";
 
@@ -350,6 +347,12 @@
 "Modified" = "수정일";
 
 /* No comment provided by engineer. */
+"Move compressed file(s) to Trash after extraction" = "Move compressed file(s) to Trash after extraction"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Move original file(s) to Trash after compression" = "Move original file(s) to Trash after compression"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Name" = "이름";
 
 /* No comment provided by engineer. */
@@ -363,6 +366,9 @@
 
 /* No comment provided by engineer. */
 "No files to extract" = "압축 해제할 파일 없음";
+
+/* Password field empty placeholder */
+"None" = "없음";
 
 /* No comment provided by engineer. */
 "Normal" = "일반";
@@ -389,6 +395,9 @@
 "Password" = "암호";
 
 /* No comment provided by engineer. */
+"Password for \"%@\"" = "의 암호";
+
+/* No comment provided by engineer. */
 "Password needed" = "암호 필수";
 
 /* No comment provided by engineer. */
@@ -399,6 +408,9 @@
 
 /* No comment provided by engineer. */
 "Petabytes" = "페타바이트";
+
+/* No comment provided by engineer. */
+"Please enter the password for:" = "암호 입력:";
 
 /* No comment provided by engineer. */
 "Please select the encoding for:" = "인코딩 선택:";
@@ -575,7 +587,25 @@
 "Use UTF-8 Encoding if Available" = "가능하면 UTF-8 인코딩 사용";
 
 /* No comment provided by engineer. */
+"verification failed" = "verification failed"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Verify compression integrity" = "압축 무결성 검사";
+
+/* No comment provided by engineer. */
+"Verify..." = "Verify..."; // THIS IS NOT LOCALIZED
+
+/* Verification, operation description. */
+"VERIFY_OPERATION" = "Verification"; // THIS IS NOT LOCALIZED
+
+/* Verifying, operation running. */
+"VERIFY_RUNNING" = "Verifying"; // THIS IS NOT LOCALIZED
+
+/* Verifying, tasks section title. */
+"VERIFY_SECTION_TITLE" = "Verifying"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"verifyed" = "verifyed"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Volume Size" = "볼륨 크기";
