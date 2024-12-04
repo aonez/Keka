@@ -347,10 +347,10 @@
 "Modified" = "Modificato";
 
 /* No comment provided by engineer. */
-"Move compressed file(s) to Trash after extraction" = "Move compressed file(s) to Trash after extraction"; // THIS IS NOT LOCALIZED
+"Move compressed file(s) to Trash after extraction" = "Sposta i file compressi nel Cestino dopo l'estrazione";
 
 /* No comment provided by engineer. */
-"Move original file(s) to Trash after compression" = "Move original file(s) to Trash after compression"; // THIS IS NOT LOCALIZED
+"Move original file(s) to Trash after compression" = "Sposta i file originali nel Cestino dopo la compressione";
 
 /* No comment provided by engineer. */
 "Name" = "Nome";
@@ -587,25 +587,25 @@
 "Use UTF-8 Encoding if Available" = "Utilizza codifica UTF-8 se disponibile";
 
 /* No comment provided by engineer. */
-"verification failed" = "verification failed"; // THIS IS NOT LOCALIZED
+"verification failed" = "verifica non riuscita";
 
 /* No comment provided by engineer. */
 "Verify compression integrity" = "Verifica integrità della compressione";
 
 /* No comment provided by engineer. */
-"Verify..." = "Verify..."; // THIS IS NOT LOCALIZED
+"Verify..." = "Verifica...";
 
 /* Verification, operation description. */
-"VERIFY_OPERATION" = "Verification"; // THIS IS NOT LOCALIZED
+"VERIFY_OPERATION" = "Verifica";
 
 /* Verifying, operation running. */
-"VERIFY_RUNNING" = "Verifying"; // THIS IS NOT LOCALIZED
+"VERIFY_RUNNING" = "Verifico";
 
 /* Verifying, tasks section title. */
-"VERIFY_SECTION_TITLE" = "Verifying"; // THIS IS NOT LOCALIZED
+"VERIFY_SECTION_TITLE" = "Verifico";
 
 /* No comment provided by engineer. */
-"verifyed" = "verifyed"; // THIS IS NOT LOCALIZED
+"verifyed" = "verificato";
 
 /* No comment provided by engineer. */
 "Volume Size" = "Dimensioni del volume";
