@@ -1,6 +1,3 @@
-/* Keka Folder */
-"%@ Folder" = "%@ Folder"; // THIS IS NOT LOCALIZED
-
 /* No comment provided by engineer. */
 "%@ item" = "%@ tétel";
 
@@ -350,6 +347,12 @@
 "Modified" = "Szerkesztve";
 
 /* No comment provided by engineer. */
+"Move compressed file(s) to Trash after extraction" = "Move compressed file(s) to Trash after extraction"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Move original file(s) to Trash after compression" = "Move original file(s) to Trash after compression"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Name" = "Név";
 
 /* No comment provided by engineer. */
@@ -363,6 +366,9 @@
 
 /* No comment provided by engineer. */
 "No files to extract" = "Nincsenek kibontandó fájlok";
+
+/* Password field empty placeholder */
+"None" = "Semmi";
 
 /* No comment provided by engineer. */
 "Normal" = "Normális";
@@ -389,6 +395,9 @@
 "Password" = "Jelszó";
 
 /* No comment provided by engineer. */
+"Password for \"%@\"" = "Password for \"%@\""; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Password needed" = "Jelszó szükséges";
 
 /* No comment provided by engineer. */
@@ -399,6 +408,9 @@
 
 /* No comment provided by engineer. */
 "Petabytes" = "Petabytes"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Please enter the password for:" = "Kérlek, írd be a jelszót ehhez:";
 
 /* No comment provided by engineer. */
 "Please select the encoding for:" = "Kérlek, válaszd ki a kódolást ehhez:";
@@ -575,7 +587,25 @@
 "Use UTF-8 Encoding if Available" = "UTF-8 kódolás használata, ha elérhető";
 
 /* No comment provided by engineer. */
+"verification failed" = "verification failed"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Verify compression integrity" = "Verify compression integrity"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Verify..." = "Verify..."; // THIS IS NOT LOCALIZED
+
+/* Verification, operation description. */
+"VERIFY_OPERATION" = "Verification"; // THIS IS NOT LOCALIZED
+
+/* Verifying, operation running. */
+"VERIFY_RUNNING" = "Verifying"; // THIS IS NOT LOCALIZED
+
+/* Verifying, tasks section title. */
+"VERIFY_SECTION_TITLE" = "Verifying"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"verifyed" = "verifyed"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Volume Size" = "Kötet mérete";

@@ -1,6 +1,3 @@
-/* Keka Folder */
-"%@ Folder" = "Dossier %@";
-
 /* No comment provided by engineer. */
 "%@ item" = "%@ objet";
 
@@ -350,6 +347,12 @@
 "Modified" = "Modifié";
 
 /* No comment provided by engineer. */
+"Move compressed file(s) to Trash after extraction" = "Move compressed file(s) to Trash after extraction"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Move original file(s) to Trash after compression" = "Move original file(s) to Trash after compression"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Name" = "Nom";
 
 /* No comment provided by engineer. */
@@ -363,6 +366,9 @@
 
 /* No comment provided by engineer. */
 "No files to extract" = "Aucun fichier à extraire";
+
+/* Password field empty placeholder */
+"None" = "Aucun";
 
 /* No comment provided by engineer. */
 "Normal" = "Normal";
@@ -389,6 +395,9 @@
 "Password" = "Mot de passe";
 
 /* No comment provided by engineer. */
+"Password for \"%@\"" = "Mot de passe pour \"%@\"";
+
+/* No comment provided by engineer. */
 "Password needed" = "Mot de passe requis";
 
 /* No comment provided by engineer. */
@@ -399,6 +408,9 @@
 
 /* No comment provided by engineer. */
 "Petabytes" = "Petaoctets";
+
+/* No comment provided by engineer. */
+"Please enter the password for:" = "Veuillez entrer le mot de passe pour:";
 
 /* No comment provided by engineer. */
 "Please select the encoding for:" = "Veuillez sélectionner l'encodage pour:";
@@ -575,7 +587,25 @@
 "Use UTF-8 Encoding if Available" = "Utiliser l'encodage UTF-8 si disponible";
 
 /* No comment provided by engineer. */
+"verification failed" = "verification failed"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Verify compression integrity" = "Vérifier l'intégrité de la compression";
+
+/* No comment provided by engineer. */
+"Verify..." = "Verify..."; // THIS IS NOT LOCALIZED
+
+/* Verification, operation description. */
+"VERIFY_OPERATION" = "Verification"; // THIS IS NOT LOCALIZED
+
+/* Verifying, operation running. */
+"VERIFY_RUNNING" = "Verifying"; // THIS IS NOT LOCALIZED
+
+/* Verifying, tasks section title. */
+"VERIFY_SECTION_TITLE" = "Verifying"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"verifyed" = "verifyed"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Volume Size" = "Dimension du volume";

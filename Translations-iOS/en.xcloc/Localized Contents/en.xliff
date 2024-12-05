@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Keka/en.lproj/AppShortcuts.strings" source-language="en" target-language="en" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.4" build-num="15F31d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
     </header>
     <body>
       <trans-unit id="Compress Files with ${applicationName}" xml:space="preserve">
@@ -19,7 +19,7 @@
   </file>
   <file original="Keka/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.4" build-num="15F31d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
     </header>
     <body>
       <trans-unit id="7Z Archive" xml:space="preserve">
@@ -301,14 +301,9 @@
   </file>
   <file original="Keka/en.lproj/Localizable.strings" source-language="en" target-language="en" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.4" build-num="15F31d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
     </header>
     <body>
-      <trans-unit id="%@ Folder" xml:space="preserve">
-        <source>%@ Folder</source>
-        <target>%@ Folder</target>
-        <note>Keka Folder</note>
-      </trans-unit>
       <trans-unit id="%@ item" xml:space="preserve">
         <source>%@ item</source>
         <target>%@ item</target>
@@ -826,6 +821,16 @@
         <target>Modified</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Move compressed file(s) to Trash after extraction" xml:space="preserve">
+        <source>Move compressed file(s) to Trash after extraction</source>
+        <target>Move compressed file(s) to Trash after extraction</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Move original file(s) to Trash after compression" xml:space="preserve">
+        <source>Move original file(s) to Trash after compression</source>
+        <target>Move original file(s) to Trash after compression</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Name" xml:space="preserve">
         <source>Name</source>
         <target>Name</target>
@@ -850,6 +855,11 @@
         <source>No files to extract</source>
         <target>No files to extract</target>
         <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="None" xml:space="preserve">
+        <source>None</source>
+        <target>None</target>
+        <note>Password field empty placeholder</note>
       </trans-unit>
       <trans-unit id="Normal" xml:space="preserve">
         <source>Normal</source>
@@ -896,6 +906,11 @@
         <target>Password Protected</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Password for &quot;%@&quot;" xml:space="preserve">
+        <source>Password for "%@"</source>
+        <target>Password for "%@"</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Password needed" xml:space="preserve">
         <source>Password needed</source>
         <target>Password needed</target>
@@ -909,6 +924,11 @@
       <trans-unit id="Petabytes" xml:space="preserve">
         <source>Petabytes</source>
         <target>Petabytes</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please enter the password for:" xml:space="preserve">
+        <source>Please enter the password for:</source>
+        <target>Please enter the password for:</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please select the encoding for:" xml:space="preserve">
@@ -1203,9 +1223,29 @@ You can give access to the rest of the files or the parent folder.</target>
         <target>Use special coloring for known formats</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="VERIFY_OPERATION" xml:space="preserve">
+        <source>Verification</source>
+        <target>Verification</target>
+        <note>Verification, operation description.</note>
+      </trans-unit>
+      <trans-unit id="VERIFY_RUNNING" xml:space="preserve">
+        <source>Verifying</source>
+        <target>Verifying</target>
+        <note>Verifying, operation running.</note>
+      </trans-unit>
+      <trans-unit id="VERIFY_SECTION_TITLE" xml:space="preserve">
+        <source>Verifying</source>
+        <target>Verifying</target>
+        <note>Verifying, tasks section title.</note>
+      </trans-unit>
       <trans-unit id="Verify compression integrity" xml:space="preserve">
         <source>Verify compression integrity</source>
         <target>Verify compression integrity</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Verify..." xml:space="preserve">
+        <source>Verify...</source>
+        <target>Verify...</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Volume Size" xml:space="preserve">
@@ -1298,11 +1338,21 @@ You can give access to the rest of the files or the parent folder.</target>
         <target>file</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="verification failed" xml:space="preserve">
+        <source>verification failed</source>
+        <target>verification failed</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="verifyed" xml:space="preserve">
+        <source>verifyed</source>
+        <target>verifyed</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
     </body>
   </file>
   <file original="KekaBrowseAction/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.4" build-num="15F31d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -1314,7 +1364,7 @@ You can give access to the rest of the files or the parent folder.</target>
   </file>
   <file original="KekaCompressionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.4" build-num="15F31d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -1326,7 +1376,7 @@ You can give access to the rest of the files or the parent folder.</target>
   </file>
   <file original="KekaExtractionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.4" build-num="15F31d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">

@@ -1,6 +1,3 @@
-/* Keka Folder */
-"%@ Folder" = "%@ Folder"; // THIS IS NOT LOCALIZED
-
 /* No comment provided by engineer. */
 "%@ item" = "%@ đơn vị";
 
@@ -350,6 +347,12 @@
 "Modified" = "Sửa đổi";
 
 /* No comment provided by engineer. */
+"Move compressed file(s) to Trash after extraction" = "Move compressed file(s) to Trash after extraction"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Move original file(s) to Trash after compression" = "Move original file(s) to Trash after compression"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Name" = "Tên";
 
 /* No comment provided by engineer. */
@@ -363,6 +366,9 @@
 
 /* No comment provided by engineer. */
 "No files to extract" = "Không có tập tin để giải nén";
+
+/* Password field empty placeholder */
+"None" = "Không có";
 
 /* No comment provided by engineer. */
 "Normal" = "Bình thường";
@@ -389,6 +395,9 @@
 "Password" = "Mật khẩu";
 
 /* No comment provided by engineer. */
+"Password for \"%@\"" = "Password for \"%@\""; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Password needed" = "Yêu cầu mật khẩu";
 
 /* No comment provided by engineer. */
@@ -399,6 +408,9 @@
 
 /* No comment provided by engineer. */
 "Petabytes" = "Petabytes"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Please enter the password for:" = "Vui lòng nhập mật khẩu cho:";
 
 /* No comment provided by engineer. */
 "Please select the encoding for:" = "Vui lòng chọn dạng mã hoá cho:";
@@ -575,7 +587,25 @@
 "Use UTF-8 Encoding if Available" = "Sử dụng mã hoá UTF-8 nếu có";
 
 /* No comment provided by engineer. */
+"verification failed" = "verification failed"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Verify compression integrity" = "Xác minh tính toàn vẹn tập nén";
+
+/* No comment provided by engineer. */
+"Verify..." = "Verify..."; // THIS IS NOT LOCALIZED
+
+/* Verification, operation description. */
+"VERIFY_OPERATION" = "Verification"; // THIS IS NOT LOCALIZED
+
+/* Verifying, operation running. */
+"VERIFY_RUNNING" = "Verifying"; // THIS IS NOT LOCALIZED
+
+/* Verifying, tasks section title. */
+"VERIFY_SECTION_TITLE" = "Verifying"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"verifyed" = "verifyed"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Volume Size" = "Kích thước dung lượng";
