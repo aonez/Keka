@@ -165,7 +165,7 @@
 "DAr-Td-s5W.title" = "Извлечения потребляют меньше энергии, поэтому даже используя многопоточность, вы можете безопасно установить значение 2 или 3. Обратите внимание, что целевой диск может испытывать повышенную нагрузку.";
 
 /* Class = "NSButtonCell"; title = "Use resizable windows"; ObjectID = "DCA-p1-1uq"; */
-"DCA-p1-1uq.title" = "Use resizable windows";
+"DCA-p1-1uq.title" = "Использовать изменяемые размеры окон";
 
 /* Class = "NSButtonCell"; title = "Ask before quitting with operations"; ObjectID = "DJT-wB-bCM"; */
 "DJT-wB-bCM.title" = "Спросить, прежде чем прекратить процесс";
@@ -234,7 +234,7 @@
 "Rgr-FP-Kua.title" = "Пароль по умолчанию:";
 
 /* Class = "NSButtonCell"; title = "Silently ignore extra trailing data"; ObjectID = "Rwo-pm-Y6t"; */
-"Rwo-pm-Y6t.title" = "Silently ignore extra trailing data";
+"Rwo-pm-Y6t.title" = "Игнорировать ошибку избыточных данных (неожиданный конец архива)";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "Включить интеграцию с Центром уведомлений";
