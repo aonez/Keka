@@ -347,10 +347,10 @@
 "Modified" = "Změněno";
 
 /* No comment provided by engineer. */
-"Move compressed file(s) to Trash after extraction" = "Move compressed file(s) to Trash after extraction"; // THIS IS NOT LOCALIZED
+"Move compressed file(s) to Trash after extraction" = "Přesunout komprimované soubory po rozbalení do Koše";
 
 /* No comment provided by engineer. */
-"Move original file(s) to Trash after compression" = "Move original file(s) to Trash after compression"; // THIS IS NOT LOCALIZED
+"Move original file(s) to Trash after compression" = "Přesunout původní soubory pro komprimaci do koše";
 
 /* No comment provided by engineer. */
 "Name" = "Jméno";
@@ -587,25 +587,25 @@
 "Use UTF-8 Encoding if Available" = "Pokud je to možné použít kódování UTF-8";
 
 /* No comment provided by engineer. */
-"verification failed" = "verification failed"; // THIS IS NOT LOCALIZED
+"verification failed" = "ověřování selhalo";
 
 /* No comment provided by engineer. */
 "Verify compression integrity" = "Ověřit integritu archivu";
 
 /* No comment provided by engineer. */
-"Verify..." = "Verify..."; // THIS IS NOT LOCALIZED
+"Verify..." = "Ověřuje se…";
 
 /* Verification, operation description. */
-"VERIFY_OPERATION" = "Verification"; // THIS IS NOT LOCALIZED
+"VERIFY_OPERATION" = "Ověření";
 
 /* Verifying, operation running. */
-"VERIFY_RUNNING" = "Verifying"; // THIS IS NOT LOCALIZED
+"VERIFY_RUNNING" = "Ověřuje se";
 
 /* Verifying, tasks section title. */
-"VERIFY_SECTION_TITLE" = "Verifying"; // THIS IS NOT LOCALIZED
+"VERIFY_SECTION_TITLE" = "Ověření";
 
 /* No comment provided by engineer. */
-"verifyed" = "verifyed"; // THIS IS NOT LOCALIZED
+"verifyed" = "ověřeno";
 
 /* No comment provided by engineer. */
 "Volume Size" = "Velikost svazku";
