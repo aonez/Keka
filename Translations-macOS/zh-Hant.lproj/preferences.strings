@@ -165,7 +165,7 @@
 "DAr-Td-s5W.title" = "解壓縮較不吃效能，即便使用多執行緒，您都只需把限制設定成 2 或 3。注意：目的地磁碟可能會需要承擔這些壓力。";
 
 /* Class = "NSButtonCell"; title = "Use resizable windows"; ObjectID = "DCA-p1-1uq"; */
-"DCA-p1-1uq.title" = "Use resizable windows";
+"DCA-p1-1uq.title" = "使用可以調整大小的視窗";
 
 /* Class = "NSButtonCell"; title = "Ask before quitting with operations"; ObjectID = "DJT-wB-bCM"; */
 "DJT-wB-bCM.title" = "正在執行動作而要結束前先詢問";
@@ -234,7 +234,7 @@
 "Rgr-FP-Kua.title" = "預設密碼：";
 
 /* Class = "NSButtonCell"; title = "Silently ignore extra trailing data"; ObjectID = "Rwo-pm-Y6t"; */
-"Rwo-pm-Y6t.title" = "Silently ignore extra trailing data";
+"Rwo-pm-Y6t.title" = "不提示，直接忽略多餘的尾部資料";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "啟用通知中心整合";
