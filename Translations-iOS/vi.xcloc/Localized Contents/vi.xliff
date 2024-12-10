@@ -1194,14 +1194,17 @@ Bạn có thể cấp quyền truy cập cho tất cả các tập tin hoặc th
       </trans-unit>
       <trans-unit id="VERIFY_OPERATION" xml:space="preserve">
         <source>Verification</source>
+        <target>Xác minh</target>
         <note>Verification, operation description.</note>
       </trans-unit>
       <trans-unit id="VERIFY_RUNNING" xml:space="preserve">
         <source>Verifying</source>
+        <target>Đang xác minh</target>
         <note>Verifying, operation running.</note>
       </trans-unit>
       <trans-unit id="VERIFY_SECTION_TITLE" xml:space="preserve">
         <source>Verifying</source>
+        <target>Xác minh</target>
         <note>Verifying, tasks section title.</note>
       </trans-unit>
       <trans-unit id="Verify compression integrity" xml:space="preserve">

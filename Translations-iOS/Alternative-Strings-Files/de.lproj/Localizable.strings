@@ -596,13 +596,13 @@
 "Verify..." = "Verify..."; // THIS IS NOT LOCALIZED
 
 /* Verification, operation description. */
-"VERIFY_OPERATION" = "Verification"; // THIS IS NOT LOCALIZED
+"VERIFY_OPERATION" = "Überprüfung";
 
 /* Verifying, operation running. */
-"VERIFY_RUNNING" = "Verifying"; // THIS IS NOT LOCALIZED
+"VERIFY_RUNNING" = "Wird überprüft";
 
 /* Verifying, tasks section title. */
-"VERIFY_SECTION_TITLE" = "Verifying"; // THIS IS NOT LOCALIZED
+"VERIFY_SECTION_TITLE" = "Überprüfung";
 
 /* No comment provided by engineer. */
 "verifyed" = "verifyed"; // THIS IS NOT LOCALIZED

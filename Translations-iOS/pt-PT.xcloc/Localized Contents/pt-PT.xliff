@@ -1163,14 +1163,17 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="VERIFY_OPERATION" xml:space="preserve">
         <source>Verification</source>
+        <target>Verificação</target>
         <note>Verification, operation description.</note>
       </trans-unit>
       <trans-unit id="VERIFY_RUNNING" xml:space="preserve">
         <source>Verifying</source>
+        <target>A verificar</target>
         <note>Verifying, operation running.</note>
       </trans-unit>
       <trans-unit id="VERIFY_SECTION_TITLE" xml:space="preserve">
         <source>Verifying</source>
+        <target>Verificação</target>
         <note>Verifying, tasks section title.</note>
       </trans-unit>
       <trans-unit id="Verify compression integrity" xml:space="preserve">
