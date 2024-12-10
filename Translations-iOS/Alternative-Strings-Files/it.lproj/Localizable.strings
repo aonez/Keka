@@ -161,7 +161,7 @@
 "Created" = "Creato";
 
 /* No comment provided by engineer. */
-"Custom..." = "Personalizzato...";
+"Custom…" = "Personalizzato…";
 
 /* No comment provided by engineer. */
 "Date" = "Data";
@@ -386,7 +386,7 @@
 "Open Keka" = "Apri Keka";
 
 /* No comment provided by engineer. */
-"Open..." = "Apri...";
+"Open…" = "Apri…";
 
 /* No comment provided by engineer. */
 "Order" = "Ordina";
@@ -464,7 +464,7 @@
 "Share" = "Condividi";
 
 /* No comment provided by engineer. */
-"Share..." = "Condividi...";
+"Share…" = "Condividi…";
 
 /* No comment provided by engineer. */
 "Show Advanced Settings" = "Mostra impostazioni avanzate";
@@ -592,9 +592,6 @@
 /* No comment provided by engineer. */
 "Verify compression integrity" = "Verifica integrità della compressione";
 
-/* No comment provided by engineer. */
-"Verify..." = "Verifica...";
-
 /* Verification, operation description. */
 "VERIFY_OPERATION" = "Verifica";
 
@@ -606,6 +603,9 @@
 
 /* No comment provided by engineer. */
 "verifyed" = "verificato";
+
+/* No comment provided by engineer. */
+"Verify…" = "Verifica…";
 
 /* No comment provided by engineer. */
 "Volume Size" = "Dimensioni del volume";

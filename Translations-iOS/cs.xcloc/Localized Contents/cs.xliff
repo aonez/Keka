@@ -543,8 +543,8 @@
         <target>Vytvořeno</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Custom..." xml:space="preserve">
-        <source>Custom...</source>
+      <trans-unit id="Custom…" xml:space="preserve">
+        <source>Custom…</source>
         <target>Vlastní…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
@@ -885,8 +885,8 @@
         <target>Otevřít pomocí Keka</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Open..." xml:space="preserve">
-        <source>Open...</source>
+      <trans-unit id="Open…" xml:space="preserve">
+        <source>Open…</source>
         <target>Otevřít…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
@@ -1015,8 +1015,8 @@
         <target>Sdílet</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Share..." xml:space="preserve">
-        <source>Share...</source>
+      <trans-unit id="Share…" xml:space="preserve">
+        <source>Share…</source>
         <target>Sdílet…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
@@ -1242,8 +1242,8 @@ Můžete udělit oprávnění ke zbytku souborů ve složce nebo nadřazené slo
         <target>Ověřit integritu archivu</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Verify..." xml:space="preserve">
-        <source>Verify...</source>
+      <trans-unit id="Verify…" xml:space="preserve">
+        <source>Verify…</source>
         <target>Ověřuje se…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>

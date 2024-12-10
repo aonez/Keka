@@ -161,7 +161,7 @@
 "Created" = "생성일";
 
 /* No comment provided by engineer. */
-"Custom..." = "사용자 지정...";
+"Custom…" = "사용자 지정…";
 
 /* No comment provided by engineer. */
 "Date" = "날짜";
@@ -386,7 +386,7 @@
 "Open Keka" = "Keka 열기";
 
 /* No comment provided by engineer. */
-"Open..." = "열기...";
+"Open…" = "열기…";
 
 /* No comment provided by engineer. */
 "Order" = "순서";
@@ -464,7 +464,7 @@
 "Share" = "공유";
 
 /* No comment provided by engineer. */
-"Share..." = "공유...";
+"Share…" = "공유…";
 
 /* No comment provided by engineer. */
 "Show Advanced Settings" = "고급 설정 보기";
@@ -592,9 +592,6 @@
 /* No comment provided by engineer. */
 "Verify compression integrity" = "압축 무결성 검사";
 
-/* No comment provided by engineer. */
-"Verify..." = "Verify..."; // THIS IS NOT LOCALIZED
-
 /* Verification, operation description. */
 "VERIFY_OPERATION" = "검증";
 
@@ -606,6 +603,9 @@
 
 /* No comment provided by engineer. */
 "verifyed" = "verifyed"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Verify…" = "Verify…"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Volume Size" = "볼륨 크기";

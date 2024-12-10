@@ -161,7 +161,7 @@
 "Created" = "作成日";
 
 /* No comment provided by engineer. */
-"Custom..." = "場所を指定...";
+"Custom…" = "場所を指定…";
 
 /* No comment provided by engineer. */
 "Date" = "日付";
@@ -386,7 +386,7 @@
 "Open Keka" = "Keka で開く";
 
 /* No comment provided by engineer. */
-"Open..." = "開く...";
+"Open…" = "開く…";
 
 /* No comment provided by engineer. */
 "Order" = "オーダー";
@@ -464,7 +464,7 @@
 "Share" = "共有";
 
 /* No comment provided by engineer. */
-"Share..." = "共有...";
+"Share…" = "共有…";
 
 /* No comment provided by engineer. */
 "Show Advanced Settings" = "詳細設定を表示する";
@@ -592,9 +592,6 @@
 /* No comment provided by engineer. */
 "Verify compression integrity" = "圧縮の完全性を検証する";
 
-/* No comment provided by engineer. */
-"Verify..." = "Verify..."; // THIS IS NOT LOCALIZED
-
 /* Verification, operation description. */
 "VERIFY_OPERATION" = "検証";
 
@@ -606,6 +603,9 @@
 
 /* No comment provided by engineer. */
 "verifyed" = "verifyed"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Verify…" = "Verify…"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Volume Size" = "ボリューム容量";

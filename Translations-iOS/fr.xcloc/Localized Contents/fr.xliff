@@ -544,9 +544,9 @@
         <target>Créé</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Custom..." xml:space="preserve">
-        <source>Custom...</source>
-        <target>Personnalisé...</target>
+      <trans-unit id="Custom…" xml:space="preserve">
+        <source>Custom…</source>
+        <target>Personnalisé…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Date" xml:space="preserve">
@@ -886,9 +886,9 @@
         <target>Ouvrir Keka</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Open..." xml:space="preserve">
-        <source>Open...</source>
-        <target>Ouvrir...</target>
+      <trans-unit id="Open…" xml:space="preserve">
+        <source>Open…</source>
+        <target>Ouvrir…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Order" xml:space="preserve">
@@ -1016,9 +1016,9 @@
         <target>Partager</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Share..." xml:space="preserve">
-        <source>Share...</source>
-        <target>Partager...</target>
+      <trans-unit id="Share…" xml:space="preserve">
+        <source>Share…</source>
+        <target>Partager…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show Advanced Settings" xml:space="preserve">
@@ -1243,9 +1243,9 @@ Vous pouvez donner accès au reste des fichiers ou au dossier parent.</target>
         <target>Vérifier l'intégrité de la compression</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Verify..." xml:space="preserve">
-        <source>Verify...</source>
-        <target>Vérifier...</target>
+      <trans-unit id="Verify…" xml:space="preserve">
+        <source>Verify…</source>
+        <target>Vérifier…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Volume Size" xml:space="preserve">

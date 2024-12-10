@@ -544,8 +544,8 @@
         <target>建立時間</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Custom..." xml:space="preserve">
-        <source>Custom...</source>
+      <trans-unit id="Custom…" xml:space="preserve">
+        <source>Custom…</source>
         <target>自訂⋯</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
@@ -884,8 +884,8 @@
         <target>打開Keka</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Open..." xml:space="preserve">
-        <source>Open...</source>
+      <trans-unit id="Open…" xml:space="preserve">
+        <source>Open…</source>
         <target>打開⋯</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
@@ -1014,8 +1014,8 @@
         <target>分享</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Share..." xml:space="preserve">
-        <source>Share...</source>
+      <trans-unit id="Share…" xml:space="preserve">
+        <source>Share…</source>
         <target>分享⋯</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
@@ -1241,8 +1241,8 @@ You can give access to the rest of the files or the parent folder.</source>
         <target>驗證壓縮完整性</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Verify..." xml:space="preserve">
-        <source>Verify...</source>
+      <trans-unit id="Verify…" xml:space="preserve">
+        <source>Verify…</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Volume Size" xml:space="preserve">

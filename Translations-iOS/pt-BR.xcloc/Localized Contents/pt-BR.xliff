@@ -525,8 +525,8 @@
         <target>Criado</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Custom..." xml:space="preserve">
-        <source>Custom...</source>
+      <trans-unit id="Custom…" xml:space="preserve">
+        <source>Custom…</source>
         <target>Personalizar…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
@@ -847,8 +847,8 @@
         <source>Open Keka</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Open..." xml:space="preserve">
-        <source>Open...</source>
+      <trans-unit id="Open…" xml:space="preserve">
+        <source>Open…</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Order" xml:space="preserve">
@@ -965,8 +965,8 @@
         <target>Compartilhar</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Share..." xml:space="preserve">
-        <source>Share...</source>
+      <trans-unit id="Share…" xml:space="preserve">
+        <source>Share…</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Show Advanced Settings" xml:space="preserve">
@@ -1179,8 +1179,8 @@ You can give access to the rest of the files or the parent folder.</source>
         <source>Verify compression integrity</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Verify..." xml:space="preserve">
-        <source>Verify...</source>
+      <trans-unit id="Verify…" xml:space="preserve">
+        <source>Verify…</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Volume Size" xml:space="preserve">

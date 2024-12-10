@@ -161,7 +161,7 @@
 "Created" = "Đã tạo";
 
 /* No comment provided by engineer. */
-"Custom..." = "Tuỳ chỉnh...";
+"Custom…" = "Tuỳ chỉnh…";
 
 /* No comment provided by engineer. */
 "Date" = "Ngày";
@@ -386,7 +386,7 @@
 "Open Keka" = "Open Keka"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
-"Open..." = "Mở...";
+"Open…" = "Mở…";
 
 /* No comment provided by engineer. */
 "Order" = "Thứ tự";
@@ -464,7 +464,7 @@
 "Share" = "Chia sẻ";
 
 /* No comment provided by engineer. */
-"Share..." = "Chia sẻ...";
+"Share…" = "Chia sẻ…";
 
 /* No comment provided by engineer. */
 "Show Advanced Settings" = "Hiện cài đặt nâng cao";
@@ -592,9 +592,6 @@
 /* No comment provided by engineer. */
 "Verify compression integrity" = "Xác minh tính toàn vẹn tập nén";
 
-/* No comment provided by engineer. */
-"Verify..." = "Verify..."; // THIS IS NOT LOCALIZED
-
 /* Verification, operation description. */
 "VERIFY_OPERATION" = "Xác minh";
 
@@ -606,6 +603,9 @@
 
 /* No comment provided by engineer. */
 "verifyed" = "verifyed"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Verify…" = "Verify…"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Volume Size" = "Kích thước dung lượng";

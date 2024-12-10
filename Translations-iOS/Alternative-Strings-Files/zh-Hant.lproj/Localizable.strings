@@ -161,7 +161,7 @@
 "Created" = "建立時間";
 
 /* No comment provided by engineer. */
-"Custom..." = "自訂⋯";
+"Custom…" = "自訂⋯";
 
 /* No comment provided by engineer. */
 "Date" = "日期";
@@ -386,7 +386,7 @@
 "Open Keka" = "打開Keka";
 
 /* No comment provided by engineer. */
-"Open..." = "打開⋯";
+"Open…" = "打開⋯";
 
 /* No comment provided by engineer. */
 "Order" = "順序";
@@ -464,7 +464,7 @@
 "Share" = "分享";
 
 /* No comment provided by engineer. */
-"Share..." = "分享⋯";
+"Share…" = "分享⋯";
 
 /* No comment provided by engineer. */
 "Show Advanced Settings" = "顯示進階設定";
@@ -592,9 +592,6 @@
 /* No comment provided by engineer. */
 "Verify compression integrity" = "驗證壓縮完整性";
 
-/* No comment provided by engineer. */
-"Verify..." = "Verify..."; // THIS IS NOT LOCALIZED
-
 /* Verification, operation description. */
 "VERIFY_OPERATION" = "驗證";
 
@@ -606,6 +603,9 @@
 
 /* No comment provided by engineer. */
 "verifyed" = "verifyed"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Verify…" = "Verify…"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Volume Size" = "卷宗大小";

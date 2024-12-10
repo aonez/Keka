@@ -161,7 +161,7 @@
 "Created" = "Criado";
 
 /* No comment provided by engineer. */
-"Custom..." = "Personalizar…";
+"Custom…" = "Personalizar…";
 
 /* No comment provided by engineer. */
 "Date" = "Data";
@@ -386,7 +386,7 @@
 "Open Keka" = "Open Keka"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
-"Open..." = "Open..."; // THIS IS NOT LOCALIZED
+"Open…" = "Open…"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Order" = "Order"; // THIS IS NOT LOCALIZED
@@ -464,7 +464,7 @@
 "Share" = "Compartilhar";
 
 /* No comment provided by engineer. */
-"Share..." = "Share..."; // THIS IS NOT LOCALIZED
+"Share…" = "Share…"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Show Advanced Settings" = "Show Advanced Settings"; // THIS IS NOT LOCALIZED
@@ -592,9 +592,6 @@
 /* No comment provided by engineer. */
 "Verify compression integrity" = "Verify compression integrity"; // THIS IS NOT LOCALIZED
 
-/* No comment provided by engineer. */
-"Verify..." = "Verify..."; // THIS IS NOT LOCALIZED
-
 /* Verification, operation description. */
 "VERIFY_OPERATION" = "Verificação";
 
@@ -606,6 +603,9 @@
 
 /* No comment provided by engineer. */
 "verifyed" = "verifyed"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Verify…" = "Verify…"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Volume Size" = "Tamanho";
