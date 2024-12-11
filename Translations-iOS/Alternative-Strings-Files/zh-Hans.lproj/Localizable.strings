@@ -14,40 +14,40 @@
 "%@ of %@ items" = "%@ 的 %@ 项";
 
 /* No comment provided by engineer. */
-"%@ seconds" = "%@ 秒";
-
-/* No comment provided by engineer. */
-"%@:%@ minutes" = "%@:%@ 分钟";
-
-/* No comment provided by engineer. */
-"%@:%@:%@ hours" = "%@:%@:%@ 小时";
-
-/* No comment provided by engineer. */
 "%lld items" = "%lld 项";
+
+/* No comment provided by engineer. */
+"%lld seconds" = "%lld 秒";
+
+/* No comment provided by engineer. */
+"%lld:%@ minutes" = "%lld:%@ 分钟";
+
+/* No comment provided by engineer. */
+"%lld:%@:%@ hours" = "%lld:%@:%@ 小时";
 
 /* No comment provided by engineer. */
 "About" = "关于";
 
 /* No comment provided by engineer. */
-"About %@ days" = "约 %@ 天";
+"About %lld days" = "约 %lld 天";
 
 /* No comment provided by engineer. */
-"About %@ hours" = "约 %@ 小时";
+"About %lld hours" = "约 %lld 小时";
 
 /* No comment provided by engineer. */
-"About %@ minutes" = "约 %@ 分钟";
+"About %lld minutes" = "约 %lld 分钟";
 
 /* No comment provided by engineer. */
-"About %@ months" = "约 %@ 个月";
+"About %lld months" = "约 %lld 个月";
 
 /* No comment provided by engineer. */
-"About %@ seconds" = "约 %@ 秒";
+"About %lld seconds" = "约 %lld 秒";
 
 /* No comment provided by engineer. */
-"About %@ weeks" = "约 %@ 周";
+"About %lld weeks" = "约 %lld 周";
 
 /* No comment provided by engineer. */
-"About %@ years" = "约 %@ 年";
+"About %lld years" = "约 %lld 年";
 
 /* No comment provided by engineer. */
 "About a day" = "约一天";

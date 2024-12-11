@@ -14,40 +14,40 @@
 "%@ of %@ items" = "%@ of %@ items";
 
 /* No comment provided by engineer. */
-"%@ seconds" = "%@ seconds";
-
-/* No comment provided by engineer. */
-"%@:%@ minutes" = "%@:%@ minutes";
-
-/* No comment provided by engineer. */
-"%@:%@:%@ hours" = "%@:%@:%@ hours";
-
-/* No comment provided by engineer. */
 "%lld items" = "%lld items";
+
+/* No comment provided by engineer. */
+"%lld seconds" = "%lld seconds";
+
+/* No comment provided by engineer. */
+"%lld:%@ minutes" = "%lld:%@ minutes";
+
+/* No comment provided by engineer. */
+"%lld:%@:%@ hours" = "%lld:%@:%@ hours";
 
 /* No comment provided by engineer. */
 "About" = "About";
 
 /* No comment provided by engineer. */
-"About %@ days" = "About %@ days";
+"About %lld days" = "About %lld days";
 
 /* No comment provided by engineer. */
-"About %@ hours" = "About %@ hours";
+"About %lld hours" = "About %lld hours";
 
 /* No comment provided by engineer. */
-"About %@ minutes" = "About %@ minutes";
+"About %lld minutes" = "About %lld minutes";
 
 /* No comment provided by engineer. */
-"About %@ months" = "About %@ months";
+"About %lld months" = "About %lld months";
 
 /* No comment provided by engineer. */
-"About %@ seconds" = "About %@ seconds";
+"About %lld seconds" = "About %lld seconds";
 
 /* No comment provided by engineer. */
-"About %@ weeks" = "About %@ weeks";
+"About %lld weeks" = "About %lld weeks";
 
 /* No comment provided by engineer. */
-"About %@ years" = "About %@ years";
+"About %lld years" = "About %lld years";
 
 /* No comment provided by engineer. */
 "About a day" = "About a day";

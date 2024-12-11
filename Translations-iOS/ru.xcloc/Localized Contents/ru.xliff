@@ -326,24 +326,24 @@
         <target>%@ из %@ элементов</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="%@ seconds" xml:space="preserve">
-        <source>%@ seconds</source>
-        <target>%@ секунд</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="%@:%@ minutes" xml:space="preserve">
-        <source>%@:%@ minutes</source>
-        <target>%@:%@ минут</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="%@:%@:%@ hours" xml:space="preserve">
-        <source>%@:%@:%@ hours</source>
-        <target>%@:%@:%@ часов</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="%lld items" xml:space="preserve">
         <source>%lld items</source>
         <target>%lld элементов</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%lld seconds" xml:space="preserve">
+        <source>%lld seconds</source>
+        <target>%lld секунд</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%lld:%@ minutes" xml:space="preserve">
+        <source>%lld:%@ minutes</source>
+        <target>%lld:%@ минут</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%lld:%@:%@ hours" xml:space="preserve">
+        <source>%lld:%@:%@ hours</source>
+        <target>%lld:%@:%@ часов</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="ARCHIVE_DEFAULT_NAME" xml:space="preserve">
@@ -356,39 +356,39 @@
         <target>О программе</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="About %@ days" xml:space="preserve">
-        <source>About %@ days</source>
-        <target>Около %@ дней</target>
+      <trans-unit id="About %lld days" xml:space="preserve">
+        <source>About %lld days</source>
+        <target>Около %lld дней</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="About %@ hours" xml:space="preserve">
-        <source>About %@ hours</source>
-        <target>Около %@ часов</target>
+      <trans-unit id="About %lld hours" xml:space="preserve">
+        <source>About %lld hours</source>
+        <target>Около %lld часов</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="About %@ minutes" xml:space="preserve">
-        <source>About %@ minutes</source>
-        <target>Около %@ минут</target>
+      <trans-unit id="About %lld minutes" xml:space="preserve">
+        <source>About %lld minutes</source>
+        <target>Около %lld минут</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="About %@ months" xml:space="preserve">
-        <source>About %@ months</source>
-        <target>Около %@ месяцев</target>
+      <trans-unit id="About %lld months" xml:space="preserve">
+        <source>About %lld months</source>
+        <target>Около %lld месяцев</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="About %@ seconds" xml:space="preserve">
-        <source>About %@ seconds</source>
-        <target>Около %@ секунд</target>
+      <trans-unit id="About %lld seconds" xml:space="preserve">
+        <source>About %lld seconds</source>
+        <target>Около %lld секунд</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="About %@ weeks" xml:space="preserve">
-        <source>About %@ weeks</source>
-        <target>Около %@ недель</target>
+      <trans-unit id="About %lld weeks" xml:space="preserve">
+        <source>About %lld weeks</source>
+        <target>Около %lld недель</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="About %@ years" xml:space="preserve">
-        <source>About %@ years</source>
-        <target>Около %@ лет</target>
+      <trans-unit id="About %lld years" xml:space="preserve">
+        <source>About %lld years</source>
+        <target>Около %lld лет</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="About a day" xml:space="preserve">

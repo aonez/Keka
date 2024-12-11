@@ -14,40 +14,40 @@
 "%@ of %@ items" = "%@ di %@ elementi";
 
 /* No comment provided by engineer. */
-"%@ seconds" = "%@ secondi";
-
-/* No comment provided by engineer. */
-"%@:%@ minutes" = "%@:%@ minuti";
-
-/* No comment provided by engineer. */
-"%@:%@:%@ hours" = "%@:%@:%@ ore";
-
-/* No comment provided by engineer. */
 "%lld items" = "%lld elementi";
+
+/* No comment provided by engineer. */
+"%lld seconds" = "%lld secondi";
+
+/* No comment provided by engineer. */
+"%lld:%@ minutes" = "%lld:%@ minuti";
+
+/* No comment provided by engineer. */
+"%lld:%@:%@ hours" = "%lld:%@:%@ ore";
 
 /* No comment provided by engineer. */
 "About" = "Informazioni";
 
 /* No comment provided by engineer. */
-"About %@ days" = "Circa %@ giorni";
+"About %lld days" = "Circa %lld giorni";
 
 /* No comment provided by engineer. */
-"About %@ hours" = "Circa %@ ore";
+"About %lld hours" = "Circa %lld ore";
 
 /* No comment provided by engineer. */
-"About %@ minutes" = "Circa %@ minuti";
+"About %lld minutes" = "Circa %lld minuti";
 
 /* No comment provided by engineer. */
-"About %@ months" = "Circa %@ mesi";
+"About %lld months" = "Circa %lld mesi";
 
 /* No comment provided by engineer. */
-"About %@ seconds" = "Circa %@ secondi";
+"About %lld seconds" = "Circa %lld secondi";
 
 /* No comment provided by engineer. */
-"About %@ weeks" = "Circa %@ settimane";
+"About %lld weeks" = "Circa %lld settimane";
 
 /* No comment provided by engineer. */
-"About %@ years" = "Circa %@ anni";
+"About %lld years" = "Circa %lld anni";
 
 /* No comment provided by engineer. */
 "About a day" = "Circa un giorno";

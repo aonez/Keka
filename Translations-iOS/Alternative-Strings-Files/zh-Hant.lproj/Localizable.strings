@@ -14,40 +14,40 @@
 "%@ of %@ items" = "%@/%@個項目";
 
 /* No comment provided by engineer. */
-"%@ seconds" = "%@ 秒";
-
-/* No comment provided by engineer. */
-"%@:%@ minutes" = "%@:%@ 分鐘";
-
-/* No comment provided by engineer. */
-"%@:%@:%@ hours" = "%@:%@:%@ 小時";
-
-/* No comment provided by engineer. */
 "%lld items" = "%lld個項目";
+
+/* No comment provided by engineer. */
+"%lld seconds" = "%lld 秒";
+
+/* No comment provided by engineer. */
+"%lld:%@ minutes" = "%lld:%@ 分鐘";
+
+/* No comment provided by engineer. */
+"%lld:%@:%@ hours" = "%lld:%@:%@ 小時";
 
 /* No comment provided by engineer. */
 "About" = "關於";
 
 /* No comment provided by engineer. */
-"About %@ days" = "約 %@ 天";
+"About %lld days" = "約 %lld 天";
 
 /* No comment provided by engineer. */
-"About %@ hours" = "約 %@ 小時";
+"About %lld hours" = "約 %lld 小時";
 
 /* No comment provided by engineer. */
-"About %@ minutes" = "約 %@ 分鐘";
+"About %lld minutes" = "約 %lld 分鐘";
 
 /* No comment provided by engineer. */
-"About %@ months" = "約 %@ 個月";
+"About %lld months" = "約 %lld 個月";
 
 /* No comment provided by engineer. */
-"About %@ seconds" = "約 %@ 秒";
+"About %lld seconds" = "約 %lld 秒";
 
 /* No comment provided by engineer. */
-"About %@ weeks" = "約 %@ 周";
+"About %lld weeks" = "約 %lld 周";
 
 /* No comment provided by engineer. */
-"About %@ years" = "約 %@ 年";
+"About %lld years" = "約 %lld 年";
 
 /* No comment provided by engineer. */
 "About a day" = "約一天";

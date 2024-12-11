@@ -325,23 +325,23 @@
         <target>%@ von %@ Artikel</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="%@ seconds" xml:space="preserve">
-        <source>%@ seconds</source>
-        <target>%@ Sekunden</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="%@:%@ minutes" xml:space="preserve">
-        <source>%@:%@ minutes</source>
-        <target>%@:%@ Minuten</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="%@:%@:%@ hours" xml:space="preserve">
-        <source>%@:%@:%@ hours</source>
-        <target>%@:%@:%@ Stunden</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="%lld items" xml:space="preserve">
         <source>%lld items</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%lld seconds" xml:space="preserve">
+        <source>%lld seconds</source>
+        <target>%lld Sekunden</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%lld:%@ minutes" xml:space="preserve">
+        <source>%lld:%@ minutes</source>
+        <target>%lld:%@ Minuten</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%lld:%@:%@ hours" xml:space="preserve">
+        <source>%lld:%@:%@ hours</source>
+        <target>%lld:%@:%@ Stunden</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="ARCHIVE_DEFAULT_NAME" xml:space="preserve">
@@ -354,39 +354,39 @@
         <target>Über</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="About %@ days" xml:space="preserve">
-        <source>About %@ days</source>
-        <target>Ungefähr %@ Tage</target>
+      <trans-unit id="About %lld days" xml:space="preserve">
+        <source>About %lld days</source>
+        <target>Ungefähr %lld Tage</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="About %@ hours" xml:space="preserve">
-        <source>About %@ hours</source>
-        <target>Ungefähr %@ Stunden</target>
+      <trans-unit id="About %lld hours" xml:space="preserve">
+        <source>About %lld hours</source>
+        <target>Ungefähr %lld Stunden</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="About %@ minutes" xml:space="preserve">
-        <source>About %@ minutes</source>
-        <target>Ungefähr %@ Minuten</target>
+      <trans-unit id="About %lld minutes" xml:space="preserve">
+        <source>About %lld minutes</source>
+        <target>Ungefähr %lld Minuten</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="About %@ months" xml:space="preserve">
-        <source>About %@ months</source>
-        <target>Ungefähr %@ Monate</target>
+      <trans-unit id="About %lld months" xml:space="preserve">
+        <source>About %lld months</source>
+        <target>Ungefähr %lld Monate</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="About %@ seconds" xml:space="preserve">
-        <source>About %@ seconds</source>
-        <target>Ungefähr %@ Sekunden</target>
+      <trans-unit id="About %lld seconds" xml:space="preserve">
+        <source>About %lld seconds</source>
+        <target>Ungefähr %lld Sekunden</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="About %@ weeks" xml:space="preserve">
-        <source>About %@ weeks</source>
-        <target>Ungefähr %@ Wochen</target>
+      <trans-unit id="About %lld weeks" xml:space="preserve">
+        <source>About %lld weeks</source>
+        <target>Ungefähr %lld Wochen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="About %@ years" xml:space="preserve">
-        <source>About %@ years</source>
-        <target>Ungefähr %@ Jahre</target>
+      <trans-unit id="About %lld years" xml:space="preserve">
+        <source>About %lld years</source>
+        <target>Ungefähr %lld Jahre</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="About a day" xml:space="preserve">

@@ -329,24 +329,24 @@
         <target>%@/%@ 선택됨</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="%@ seconds" xml:space="preserve">
-        <source>%@ seconds</source>
-        <target>%@ 초</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="%@:%@ minutes" xml:space="preserve">
-        <source>%@:%@ minutes</source>
-        <target>%@:%@ 분</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="%@:%@:%@ hours" xml:space="preserve">
-        <source>%@:%@:%@ hours</source>
-        <target>%@:%@:%@ 시간</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="%lld items" xml:space="preserve">
         <source>%lld items</source>
         <target>%lld개의 항목</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%lld seconds" xml:space="preserve">
+        <source>%lld seconds</source>
+        <target>%lld 초</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%lld:%@ minutes" xml:space="preserve">
+        <source>%lld:%@ minutes</source>
+        <target>%lld:%@ 분</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%lld:%@:%@ hours" xml:space="preserve">
+        <source>%lld:%@:%@ hours</source>
+        <target>%lld:%@:%@ 시간</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="ARCHIVE_DEFAULT_NAME" xml:space="preserve">
@@ -359,39 +359,39 @@
         <target>정보</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="About %@ days" xml:space="preserve">
-        <source>About %@ days</source>
-        <target>약 %@ 일</target>
+      <trans-unit id="About %lld days" xml:space="preserve">
+        <source>About %lld days</source>
+        <target>약 %lld 일</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="About %@ hours" xml:space="preserve">
-        <source>About %@ hours</source>
-        <target>약 %@ 시간</target>
+      <trans-unit id="About %lld hours" xml:space="preserve">
+        <source>About %lld hours</source>
+        <target>약 %lld 시간</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="About %@ minutes" xml:space="preserve">
-        <source>About %@ minutes</source>
-        <target>약 %@ 분</target>
+      <trans-unit id="About %lld minutes" xml:space="preserve">
+        <source>About %lld minutes</source>
+        <target>약 %lld 분</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="About %@ months" xml:space="preserve">
-        <source>About %@ months</source>
-        <target>약 %@ 개월</target>
+      <trans-unit id="About %lld months" xml:space="preserve">
+        <source>About %lld months</source>
+        <target>약 %lld 개월</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="About %@ seconds" xml:space="preserve">
-        <source>About %@ seconds</source>
-        <target>약 %@ 초</target>
+      <trans-unit id="About %lld seconds" xml:space="preserve">
+        <source>About %lld seconds</source>
+        <target>약 %lld 초</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="About %@ weeks" xml:space="preserve">
-        <source>About %@ weeks</source>
-        <target>약 %@ 주</target>
+      <trans-unit id="About %lld weeks" xml:space="preserve">
+        <source>About %lld weeks</source>
+        <target>약 %lld 주</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="About %@ years" xml:space="preserve">
-        <source>About %@ years</source>
-        <target>약 %@ 년</target>
+      <trans-unit id="About %lld years" xml:space="preserve">
+        <source>About %lld years</source>
+        <target>약 %lld 년</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="About a day" xml:space="preserve">

@@ -14,40 +14,40 @@
 "%@ of %@ items" = "%@ из %@ элементов";
 
 /* No comment provided by engineer. */
-"%@ seconds" = "%@ секунд";
-
-/* No comment provided by engineer. */
-"%@:%@ minutes" = "%@:%@ минут";
-
-/* No comment provided by engineer. */
-"%@:%@:%@ hours" = "%@:%@:%@ часов";
-
-/* No comment provided by engineer. */
 "%lld items" = "%lld элементов";
+
+/* No comment provided by engineer. */
+"%lld seconds" = "%lld секунд";
+
+/* No comment provided by engineer. */
+"%lld:%@ minutes" = "%lld:%@ минут";
+
+/* No comment provided by engineer. */
+"%lld:%@:%@ hours" = "%lld:%@:%@ часов";
 
 /* No comment provided by engineer. */
 "About" = "О программе";
 
 /* No comment provided by engineer. */
-"About %@ days" = "Около %@ дней";
+"About %lld days" = "Около %lld дней";
 
 /* No comment provided by engineer. */
-"About %@ hours" = "Около %@ часов";
+"About %lld hours" = "Около %lld часов";
 
 /* No comment provided by engineer. */
-"About %@ minutes" = "Около %@ минут";
+"About %lld minutes" = "Около %lld минут";
 
 /* No comment provided by engineer. */
-"About %@ months" = "Около %@ месяцев";
+"About %lld months" = "Около %lld месяцев";
 
 /* No comment provided by engineer. */
-"About %@ seconds" = "Около %@ секунд";
+"About %lld seconds" = "Около %lld секунд";
 
 /* No comment provided by engineer. */
-"About %@ weeks" = "Около %@ недель";
+"About %lld weeks" = "Около %lld недель";
 
 /* No comment provided by engineer. */
-"About %@ years" = "Около %@ лет";
+"About %lld years" = "Около %lld лет";
 
 /* No comment provided by engineer. */
 "About a day" = "Около одного дня";

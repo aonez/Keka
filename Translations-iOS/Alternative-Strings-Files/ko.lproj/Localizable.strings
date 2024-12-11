@@ -14,40 +14,40 @@
 "%@ of %@ items" = "%@/%@ 선택됨";
 
 /* No comment provided by engineer. */
-"%@ seconds" = "%@ 초";
-
-/* No comment provided by engineer. */
-"%@:%@ minutes" = "%@:%@ 분";
-
-/* No comment provided by engineer. */
-"%@:%@:%@ hours" = "%@:%@:%@ 시간";
-
-/* No comment provided by engineer. */
 "%lld items" = "%lld개의 항목";
+
+/* No comment provided by engineer. */
+"%lld seconds" = "%lld 초";
+
+/* No comment provided by engineer. */
+"%lld:%@ minutes" = "%lld:%@ 분";
+
+/* No comment provided by engineer. */
+"%lld:%@:%@ hours" = "%lld:%@:%@ 시간";
 
 /* No comment provided by engineer. */
 "About" = "정보";
 
 /* No comment provided by engineer. */
-"About %@ days" = "약 %@ 일";
+"About %lld days" = "약 %lld 일";
 
 /* No comment provided by engineer. */
-"About %@ hours" = "약 %@ 시간";
+"About %lld hours" = "약 %lld 시간";
 
 /* No comment provided by engineer. */
-"About %@ minutes" = "약 %@ 분";
+"About %lld minutes" = "약 %lld 분";
 
 /* No comment provided by engineer. */
-"About %@ months" = "약 %@ 개월";
+"About %lld months" = "약 %lld 개월";
 
 /* No comment provided by engineer. */
-"About %@ seconds" = "약 %@ 초";
+"About %lld seconds" = "약 %lld 초";
 
 /* No comment provided by engineer. */
-"About %@ weeks" = "약 %@ 주";
+"About %lld weeks" = "약 %lld 주";
 
 /* No comment provided by engineer. */
-"About %@ years" = "약 %@ 년";
+"About %lld years" = "약 %lld 년";
 
 /* No comment provided by engineer. */
 "About a day" = "약 하루";

@@ -14,40 +14,40 @@
 "%@ of %@ items" = "%@ av %@ objekt";
 
 /* No comment provided by engineer. */
-"%@ seconds" = "%@ seconds"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"%@:%@ minutes" = "%@:%@ minutes"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"%@:%@:%@ hours" = "%@:%@:%@ hours"; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
 "%lld items" = "%lld items"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"%lld seconds" = "%lld seconds"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"%lld:%@ minutes" = "%lld:%@ minutes"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"%lld:%@:%@ hours" = "%lld:%@:%@ hours"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "About" = "Om";
 
 /* No comment provided by engineer. */
-"About %@ days" = "About %@ days"; // THIS IS NOT LOCALIZED
+"About %lld days" = "About %lld days"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
-"About %@ hours" = "About %@ hours"; // THIS IS NOT LOCALIZED
+"About %lld hours" = "About %lld hours"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
-"About %@ minutes" = "About %@ minutes"; // THIS IS NOT LOCALIZED
+"About %lld minutes" = "About %lld minutes"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
-"About %@ months" = "About %@ months"; // THIS IS NOT LOCALIZED
+"About %lld months" = "About %lld months"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
-"About %@ seconds" = "About %@ seconds"; // THIS IS NOT LOCALIZED
+"About %lld seconds" = "About %lld seconds"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
-"About %@ weeks" = "About %@ weeks"; // THIS IS NOT LOCALIZED
+"About %lld weeks" = "About %lld weeks"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
-"About %@ years" = "About %@ years"; // THIS IS NOT LOCALIZED
+"About %lld years" = "About %lld years"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "About a day" = "About a day"; // THIS IS NOT LOCALIZED

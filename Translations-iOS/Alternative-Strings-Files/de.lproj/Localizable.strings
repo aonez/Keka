@@ -14,40 +14,40 @@
 "%@ of %@ items" = "%@ von %@ Artikel";
 
 /* No comment provided by engineer. */
-"%@ seconds" = "%@ Sekunden";
-
-/* No comment provided by engineer. */
-"%@:%@ minutes" = "%@:%@ Minuten";
-
-/* No comment provided by engineer. */
-"%@:%@:%@ hours" = "%@:%@:%@ Stunden";
-
-/* No comment provided by engineer. */
 "%lld items" = "%lld items"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"%lld seconds" = "%lld Sekunden";
+
+/* No comment provided by engineer. */
+"%lld:%@ minutes" = "%lld:%@ Minuten";
+
+/* No comment provided by engineer. */
+"%lld:%@:%@ hours" = "%lld:%@:%@ Stunden";
 
 /* No comment provided by engineer. */
 "About" = "Über";
 
 /* No comment provided by engineer. */
-"About %@ days" = "Ungefähr %@ Tage";
+"About %lld days" = "Ungefähr %lld Tage";
 
 /* No comment provided by engineer. */
-"About %@ hours" = "Ungefähr %@ Stunden";
+"About %lld hours" = "Ungefähr %lld Stunden";
 
 /* No comment provided by engineer. */
-"About %@ minutes" = "Ungefähr %@ Minuten";
+"About %lld minutes" = "Ungefähr %lld Minuten";
 
 /* No comment provided by engineer. */
-"About %@ months" = "Ungefähr %@ Monate";
+"About %lld months" = "Ungefähr %lld Monate";
 
 /* No comment provided by engineer. */
-"About %@ seconds" = "Ungefähr %@ Sekunden";
+"About %lld seconds" = "Ungefähr %lld Sekunden";
 
 /* No comment provided by engineer. */
-"About %@ weeks" = "Ungefähr %@ Wochen";
+"About %lld weeks" = "Ungefähr %lld Wochen";
 
 /* No comment provided by engineer. */
-"About %@ years" = "Ungefähr %@ Jahre";
+"About %lld years" = "Ungefähr %lld Jahre";
 
 /* No comment provided by engineer. */
 "About a day" = "Ungefähr ein Tag";

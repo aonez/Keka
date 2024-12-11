@@ -14,40 +14,40 @@
 "%@ of %@ items" = "%@ の %@ 項目";
 
 /* No comment provided by engineer. */
-"%@ seconds" = "%@ 秒間";
-
-/* No comment provided by engineer. */
-"%@:%@ minutes" = "%@:%@ 分間";
-
-/* No comment provided by engineer. */
-"%@:%@:%@ hours" = "%@:%@:%@ 時間";
-
-/* No comment provided by engineer. */
 "%lld items" = "%lld 項目";
+
+/* No comment provided by engineer. */
+"%lld seconds" = "%lld 秒間";
+
+/* No comment provided by engineer. */
+"%lld:%@ minutes" = "%lld:%@ 分間";
+
+/* No comment provided by engineer. */
+"%lld:%@:%@ hours" = "%lld:%@:%@ 時間";
 
 /* No comment provided by engineer. */
 "About" = "情報";
 
 /* No comment provided by engineer. */
-"About %@ days" = "約 %@ 日間";
+"About %lld days" = "約 %lld 日間";
 
 /* No comment provided by engineer. */
-"About %@ hours" = "約 %@ 時間";
+"About %lld hours" = "約 %lld 時間";
 
 /* No comment provided by engineer. */
-"About %@ minutes" = "約 %@ 分間";
+"About %lld minutes" = "約 %lld 分間";
 
 /* No comment provided by engineer. */
-"About %@ months" = "約 %@ ヶ月間";
+"About %lld months" = "約 %lld ヶ月間";
 
 /* No comment provided by engineer. */
-"About %@ seconds" = "約 %@ 秒間";
+"About %lld seconds" = "約 %lld 秒間";
 
 /* No comment provided by engineer. */
-"About %@ weeks" = "約 %@ 週間";
+"About %lld weeks" = "約 %lld 週間";
 
 /* No comment provided by engineer. */
-"About %@ years" = "約 %@ 年間";
+"About %lld years" = "約 %lld 年間";
 
 /* No comment provided by engineer. */
 "About a day" = "約 1 日間";

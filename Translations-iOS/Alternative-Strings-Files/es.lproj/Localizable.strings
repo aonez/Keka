@@ -14,40 +14,40 @@
 "%@ of %@ items" = "%@ de %@ ítems";
 
 /* No comment provided by engineer. */
-"%@ seconds" = "%@ segundos";
-
-/* No comment provided by engineer. */
-"%@:%@ minutes" = "%@:%@ minutos";
-
-/* No comment provided by engineer. */
-"%@:%@:%@ hours" = "%@:%@:%@ horas";
-
-/* No comment provided by engineer. */
 "%lld items" = "%lld elementos";
+
+/* No comment provided by engineer. */
+"%lld seconds" = "%lld segundos";
+
+/* No comment provided by engineer. */
+"%lld:%@ minutes" = "%lld:%@ minutos";
+
+/* No comment provided by engineer. */
+"%lld:%@:%@ hours" = "%lld:%@:%@ horas";
 
 /* No comment provided by engineer. */
 "About" = "Créditos";
 
 /* No comment provided by engineer. */
-"About %@ days" = "Unos %@ días";
+"About %lld days" = "Unos %lld días";
 
 /* No comment provided by engineer. */
-"About %@ hours" = "Unas %@ horas";
+"About %lld hours" = "Unas %lld horas";
 
 /* No comment provided by engineer. */
-"About %@ minutes" = "Unos %@ minutos";
+"About %lld minutes" = "Unos %lld minutos";
 
 /* No comment provided by engineer. */
-"About %@ months" = "Unos %@ meses";
+"About %lld months" = "Unos %lld meses";
 
 /* No comment provided by engineer. */
-"About %@ seconds" = "Unos %@ segundos";
+"About %lld seconds" = "Unos %lld segundos";
 
 /* No comment provided by engineer. */
-"About %@ weeks" = "Unas %@ semanas";
+"About %lld weeks" = "Unas %lld semanas";
 
 /* No comment provided by engineer. */
-"About %@ years" = "Unos %@ años";
+"About %lld years" = "Unos %lld años";
 
 /* No comment provided by engineer. */
 "About a day" = "Un día aproximadamente";
