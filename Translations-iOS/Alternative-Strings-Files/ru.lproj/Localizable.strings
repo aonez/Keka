@@ -5,7 +5,7 @@
 "%@ items" = "%@ элементов";
 
 /* _OPERATION_ of "_FILENAME_" failed */
-"%@ of \"%@\" failed" = "%@ of \"%@\" failed"; // THIS IS NOT LOCALIZED
+"%@ of \"%@\" failed" = "%@ для \"%@\" не удалось";
 
 /* No comment provided by engineer. */
 "%@ of %@ item" = "%@ из %@ элемента";
@@ -14,16 +14,67 @@
 "%@ of %@ items" = "%@ из %@ элементов";
 
 /* No comment provided by engineer. */
-"%lld items" = "%lld items"; // THIS IS NOT LOCALIZED
+"%@ seconds" = "%@ секунд";
+
+/* No comment provided by engineer. */
+"%@:%@ minutes" = "%@:%@ минут";
+
+/* No comment provided by engineer. */
+"%@:%@:%@ hours" = "%@:%@:%@ часов";
+
+/* No comment provided by engineer. */
+"%lld items" = "%lld элементов";
 
 /* No comment provided by engineer. */
 "About" = "О программе";
 
 /* No comment provided by engineer. */
+"About %@ days" = "Около %@ дней";
+
+/* No comment provided by engineer. */
+"About %@ hours" = "Около %@ часов";
+
+/* No comment provided by engineer. */
+"About %@ minutes" = "Около %@ минут";
+
+/* No comment provided by engineer. */
+"About %@ months" = "Около %@ месяцев";
+
+/* No comment provided by engineer. */
+"About %@ seconds" = "Около %@ секунд";
+
+/* No comment provided by engineer. */
+"About %@ weeks" = "Около %@ недель";
+
+/* No comment provided by engineer. */
+"About %@ years" = "Около %@ лет";
+
+/* No comment provided by engineer. */
+"About a day" = "Около одного дня";
+
+/* No comment provided by engineer. */
+"About a minute" = "Около одной минуты";
+
+/* No comment provided by engineer. */
+"About a month" = "Около одного месяца";
+
+/* No comment provided by engineer. */
+"About a second" = "Около одной секунды";
+
+/* No comment provided by engineer. */
+"About a week" = "Около одной недели";
+
+/* No comment provided by engineer. */
+"About a year" = "Около одного года";
+
+/* No comment provided by engineer. */
+"About an hour" = "Около одного часа";
+
+/* No comment provided by engineer. */
 "Actions" = "Действия";
 
 /* No comment provided by engineer. */
-"Actions to do with the current browsed file" = "Actions to do with the current browsed file"; // THIS IS NOT LOCALIZED
+"Actions to do with the current browsed file" = "Действия с текущим просматриваемым файлом";
 
 /* No comment provided by engineer. */
 "Add a File" = "Добавить файл";
@@ -32,31 +83,31 @@
 "Add a Folder" = "Добавить папку";
 
 /* No comment provided by engineer. */
-"Add a Photo or Video" = "Add a Photo or Video"; // THIS IS NOT LOCALIZED
+"Add a Photo or Video" = "Добавить фото или видео";
 
 /* No comment provided by engineer. */
-"Add files and folders to a compression list" = "Add files and folders to a compression list"; // THIS IS NOT LOCALIZED
+"Add files and folders to a compression list" = "Добавьте файлы и папки в список сжатия";
 
 /* No comment provided by engineer. */
-"Add some contents using the %@ button or the %@ button in the toolbar." = "Add some contents using the %@ button or the %@ button in the toolbar."; // THIS IS NOT LOCALIZED
+"Add some contents using the %@ button or the %@ button in the toolbar." = "Добавьте содержимое, используя кнопку %@ или кнопку %@ на панели инструментов.";
 
 /* No comment provided by engineer. */
-"Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar." = "Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar."; // THIS IS NOT LOCALIZED
+"Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar." = "Добавьте содержимое, используя кнопку %@ или кнопки %@, %@ или %@ на панели инструментов.";
 
 /* No comment provided by engineer. */
-"Add some contents using the %@ button." = "Add some contents using the %@ button."; // THIS IS NOT LOCALIZED
+"Add some contents using the %@ button." = "Добавьте содержимое, используя кнопку %@.";
 
 /* No comment provided by engineer. */
-"Advanced Settings" = "Advanced Settings"; // THIS IS NOT LOCALIZED
+"Advanced Settings" = "Расширенные настройки";
 
 /* No comment provided by engineer. */
 "Allocated size" = "Выделенный размер";
 
 /* No comment provided by engineer. */
-"archive" = "archive"; // THIS IS NOT LOCALIZED
+"archive" = "архив";
 
 /* No comment provided by engineer. */
-"Archive items separately" = "Archive items separately"; // THIS IS NOT LOCALIZED
+"Archive items separately" = "Архивировать элементы отдельно";
 
 /* Default compression file name. */
 "ARCHIVE_DEFAULT_NAME" = "Архив";
@@ -80,7 +131,7 @@
 "by %@" = "от %@";
 
 /* No comment provided by engineer. */
-"Bytes" = "Bytes"; // THIS IS NOT LOCALIZED
+"Bytes" = "Байты";
 
 /* No comment provided by engineer. */
 "Calculate" = "Рассчитать";
@@ -89,7 +140,7 @@
 "Cancel" = "Отменить";
 
 /* No comment provided by engineer. */
-"Cancelled" = "Cancelled"; // THIS IS NOT LOCALIZED
+"Cancelled" = "Отменено";
 
 /* No comment provided by engineer. */
 "Choose" = "Выбрать";
@@ -110,16 +161,16 @@
 "Compress" = "Сжать";
 
 /* No comment provided by engineer. */
-"compress" = "compress"; // THIS IS NOT LOCALIZED
+"compress" = "сжать";
 
 /* No comment provided by engineer. */
-"Compress all the items in the compression list" = "Compress all the items in the compression list"; // THIS IS NOT LOCALIZED
+"Compress all the items in the compression list" = "Сжать все элементы в списке сжатия";
 
 /* No comment provided by engineer. */
-"Compress Files with Keka" = "Compress Files with Keka"; // THIS IS NOT LOCALIZED
+"Compress Files with Keka" = "Сжать файлы с помощью Keka";
 
 /* No comment provided by engineer. */
-"Compress some files with Keka." = "Compress some files with Keka."; // THIS IS NOT LOCALIZED
+"Compress some files with Keka." = "Сжать некоторые файлы с помощью Keka.";
 
 /* No comment provided by engineer. */
 "compressed" = "сжато";
@@ -131,7 +182,7 @@
 "Compression" = "Сжатие";
 
 /* No comment provided by engineer. */
-"compression" = "compression"; // THIS IS NOT LOCALIZED
+"compression" = "сжатие";
 
 /* No comment provided by engineer. */
 "compression failed" = "сжатие не удалось";
@@ -155,7 +206,7 @@
 "Contents: %@, Size: %@" = "Содержимое: %@, Размер: %@";
 
 /* No comment provided by engineer. */
-"Contents: %lld, Size: %@" = "Contents: %lld, Size: %@"; // THIS IS NOT LOCALIZED
+"Contents: %lld, Size: %@" = "Содержимое: %lld, Размер: %@";
 
 /* No comment provided by engineer. */
 "Created" = "Создано";
@@ -185,7 +236,7 @@
 "Delete" = "Удалить";
 
 /* No comment provided by engineer. */
-"Delete files(s) after compression" = "Delete files(s) after compression"; // THIS IS NOT LOCALIZED
+"Delete files(s) after compression" = "Удалить файл(ы) после сжатия";
 
 /* No comment provided by engineer. */
 "Destination" = "Место назначения";
@@ -200,7 +251,7 @@
 "Document" = "Документ";
 
 /* No comment provided by engineer. */
-"Documents" = "Documents"; // THIS IS NOT LOCALIZED
+"Documents" = "Документы";
 
 /* No comment provided by engineer. */
 "Done" = "Готово";
@@ -209,7 +260,7 @@
 "done" = "завершено";
 
 /* No comment provided by engineer. */
-"Downloads" = "Downloads"; // THIS IS NOT LOCALIZED
+"Downloads" = "Загрузки";
 
 /* No comment provided by engineer. */
 "Edit" = "Редактировать";
@@ -224,19 +275,19 @@
 "Enter the password for the file\n\"%@\"" = "Введите пароль для файла\n\"%@\"";
 
 /* No comment provided by engineer. */
-"Exclude Mac resource forks" = "Exclude Mac resource forks"; // THIS IS NOT LOCALIZED
+"Exclude Mac resource forks" = "Исключить ресурсы Mac";
 
 /* No comment provided by engineer. */
 "Extract" = "Извлечь";
 
 /* No comment provided by engineer. */
-"extract" = "extract"; // THIS IS NOT LOCALIZED
+"extract" = "извлечь";
 
 /* No comment provided by engineer. */
-"Extract Files with Keka" = "Extract Files with Keka"; // THIS IS NOT LOCALIZED
+"Extract Files with Keka" = "Извлечь файлы с помощью Keka";
 
 /* No comment provided by engineer. */
-"Extract some files with Keka." = "Extract some files with Keka."; // THIS IS NOT LOCALIZED
+"Extract some files with Keka." = "Извлечь некоторые файлы с помощью Keka.";
 
 /* No comment provided by engineer. */
 "Extract the file" = "Извлечь файл";
@@ -248,7 +299,7 @@
 "Extraction" = "Извлечение";
 
 /* No comment provided by engineer. */
-"extraction" = "extraction"; // THIS IS NOT LOCALIZED
+"extraction" = "извлечение";
 
 /* No comment provided by engineer. */
 "extraction failed" = "извлечение не удалось";
@@ -275,22 +326,25 @@
 "Feedback" = "Обратная связь";
 
 /* No comment provided by engineer. */
-"file" = "file"; // THIS IS NOT LOCALIZED
+"file" = "file";
 
 /* No comment provided by engineer. */
-"File for Keka" = "File for Keka"; // THIS IS NOT LOCALIZED
+"File for Keka" = "Файл для Keka";
 
 /* No comment provided by engineer. */
 "File not informed properly, try again." = "Файл не указан правильно, попробуйте снова.";
 
 /* No comment provided by engineer. */
-"Files" = "Files"; // THIS IS NOT LOCALIZED
+"Files" = "Файлы";
 
 /* No comment provided by engineer. */
-"Files and Folders" = "Files and Folders"; // THIS IS NOT LOCALIZED
+"Files and Folders" = "Файлы и папки";
 
 /* No comment provided by engineer. */
-"Folder drop is only supported on iOS 16 or newer" = "Folder drop is only supported on iOS 16 or newer"; // THIS IS NOT LOCALIZED
+"Finishing" = "Завершение";
+
+/* No comment provided by engineer. */
+"Folder drop is only supported on iOS 16 or newer" = "Перетаскивание папок поддерживается только на iOS 16 и новее";
 
 /* No comment provided by engineer. */
 "Format" = "Формат";
@@ -302,10 +356,10 @@
 "Get Info" = "Информация";
 
 /* No comment provided by engineer. */
-"Gigabyte" = "Gigabyte"; // THIS IS NOT LOCALIZED
+"Gigabyte" = "Гигабайт";
 
 /* No comment provided by engineer. */
-"Give Access" = "Give Access"; // THIS IS NOT LOCALIZED
+"Give Access" = "Предоставить доступ";
 
 /* No comment provided by engineer. */
 "Hide Password by Default" = "Скрывать пароль по умолчанию";
@@ -323,7 +377,7 @@
 "Keka's icon" = "Значок Keka";
 
 /* No comment provided by engineer. */
-"Kilobytes" = "Kilobytes"; // THIS IS NOT LOCALIZED
+"Kilobytes" = "Килобайты";
 
 /* No comment provided by engineer. */
 "Kind" = "Тип";
@@ -332,7 +386,7 @@
 "Last opened" = "Последнее открытие";
 
 /* No comment provided by engineer. */
-"Level" = "Level"; // THIS IS NOT LOCALIZED
+"Level" = "Уровень";
 
 /* No comment provided by engineer. */
 "Loading" = "Загрузка";
@@ -341,25 +395,25 @@
 "Made with" = "Сделано с";
 
 /* No comment provided by engineer. */
-"Megabytes" = "Megabytes"; // THIS IS NOT LOCALIZED
+"Megabytes" = "Мегабайты";
 
 /* No comment provided by engineer. */
 "Modified" = "Изменено";
 
 /* No comment provided by engineer. */
-"Move compressed file(s) to Trash after extraction" = "Move compressed file(s) to Trash after extraction"; // THIS IS NOT LOCALIZED
+"Move compressed file(s) to Trash after extraction" = "Переместить сжатый(е) файл(ы) в корзину после извлечения";
 
 /* No comment provided by engineer. */
-"Move original file(s) to Trash after compression" = "Move original file(s) to Trash after compression"; // THIS IS NOT LOCALIZED
+"Move original file(s) to Trash after compression" = "Переместить исходный(е) файл(ы) в корзину после сжатия";
 
 /* No comment provided by engineer. */
 "Name" = "Имя";
 
 /* No comment provided by engineer. */
-"New Compression" = "New Compression"; // THIS IS NOT LOCALIZED
+"New Compression" = "Новое сжатие";
 
 /* No comment provided by engineer. */
-"No archive selected" = "No archive selected"; // THIS IS NOT LOCALIZED
+"No archive selected" = "Архив не выбран";
 
 /* No comment provided by engineer. */
 "No contents" = "Нет содержимого";
@@ -383,37 +437,40 @@
 "Open" = "Открыть";
 
 /* No comment provided by engineer. */
-"Open Keka" = "Open Keka"; // THIS IS NOT LOCALIZED
+"Open Keka" = "Открыть Keka";
 
 /* No comment provided by engineer. */
-"Open…" = "Open…"; // THIS IS NOT LOCALIZED
+"Open…" = "Открыть…";
 
 /* No comment provided by engineer. */
-"Order" = "Order"; // THIS IS NOT LOCALIZED
+"Order" = "Порядок";
 
 /* No comment provided by engineer. */
 "Password" = "Пароль";
 
 /* No comment provided by engineer. */
-"Password for \"%@\"" = "Password for \"%@\""; // THIS IS NOT LOCALIZED
+"Password for \"%@\"" = "Пароль для \"%@\"";
 
 /* No comment provided by engineer. */
 "Password needed" = "Требуется пароль";
 
 /* No comment provided by engineer. */
-"Password Protected" = "Password Protected"; // THIS IS NOT LOCALIZED
+"Password Protected" = "Защищено паролем";
 
 /* No comment provided by engineer. */
-"Pause" = "Pause"; // THIS IS NOT LOCALIZED
+"Pause" = "Пауза";
 
 /* No comment provided by engineer. */
-"Petabytes" = "Petabytes"; // THIS IS NOT LOCALIZED
+"Petabytes" = "Петабайты";
 
 /* No comment provided by engineer. */
 "Please enter the password for:" = "Пожалуйста, введите пароль для:";
 
 /* No comment provided by engineer. */
 "Please select the encoding for:" = "Пожалуйста, выберите кодировку для:";
+
+/* No comment provided by engineer. */
+"Preparing" = "Подготовка";
 
 /* No comment provided by engineer. */
 "Preview" = "Просмотр";
@@ -425,16 +482,16 @@
 "Remember Last Used Options" = "Запомнить последние настройки";
 
 /* No comment provided by engineer. */
-"Remove" = "Remove"; // THIS IS NOT LOCALIZED
+"Remove" = "Удалить";
 
 /* No comment provided by engineer. */
-"Remove All Items" = "Remove All Items"; // THIS IS NOT LOCALIZED
+"Remove All Items" = "Удалить все элементы";
 
 /* No comment provided by engineer. */
 "Remove from cache" = "Удалить из кэша";
 
 /* No comment provided by engineer. */
-"Remove the selected items from the compression list" = "Remove the selected items from the compression list"; // THIS IS NOT LOCALIZED
+"Remove the selected items from the compression list" = "Удалить выбранные элементы из списка сжатия";
 
 /* No comment provided by engineer. */
 "Reset" = "Сбросить";
@@ -443,19 +500,19 @@
 "Reset All Settings" = "Сбросить все настройки";
 
 /* No comment provided by engineer. */
-"Resume" = "Resume"; // THIS IS NOT LOCALIZED
+"Resume" = "Возобновить";
 
 /* No comment provided by engineer. */
 "Review" = "Обзор";
 
 /* No comment provided by engineer. */
-"Run asynchronously" = "Run asynchronously"; // THIS IS NOT LOCALIZED
+"Run asynchronously" = "Выполнять асинхронно";
 
 /* No comment provided by engineer. */
 "Save" = "Сохранить";
 
 /* No comment provided by engineer. */
-"Select some files and folders for Keka." = "Select some files and folders for Keka."; // THIS IS NOT LOCALIZED
+"Select some files and folders for Keka." = "Выберите несколько файлов и папок для Keka.";
 
 /* No comment provided by engineer. */
 "Settings" = "Настройки";
@@ -464,22 +521,22 @@
 "Share" = "Поделиться";
 
 /* No comment provided by engineer. */
-"Share…" = "Share…"; // THIS IS NOT LOCALIZED
+"Share…" = "Поделиться…";
 
 /* No comment provided by engineer. */
-"Show Advanced Settings" = "Show Advanced Settings"; // THIS IS NOT LOCALIZED
+"Show Advanced Settings" = "Показать расширенные настройки";
 
 /* No comment provided by engineer. */
-"Show Info" = "Show Info"; // THIS IS NOT LOCALIZED
+"Show Info" = "Показать информацию";
 
 /* No comment provided by engineer. */
-"Show Less" = "Show Less"; // THIS IS NOT LOCALIZED
+"Show Less" = "Показать меньше";
 
 /* No comment provided by engineer. */
-"Show or hide additional advanced settings" = "Show or hide additional advanced settings"; // THIS IS NOT LOCALIZED
+"Show or hide additional advanced settings" = "Показать или скрыть дополнительные расширенные настройки";
 
 /* No comment provided by engineer. */
-"Show or hide additional information about the selected item" = "Show or hide additional information about the selected item"; // THIS IS NOT LOCALIZED
+"Show or hide additional information about the selected item" = "Показать или скрыть дополнительную информацию о выбранном элементе";
 
 /* No comment provided by engineer. */
 "Size" = "Размер";
@@ -497,7 +554,7 @@
 "Store" = "Сохранить";
 
 /* No comment provided by engineer. */
-"Terabytes" = "Terabytes"; // THIS IS NOT LOCALIZED
+"Terabytes" = "Терабайты";
 
 /* No comment provided by engineer. */
 "The %@ of space available in the destination might not be enough for compressing the estimated %@." = "Доступное место в месте назначения (%@) возможно, не хватит для сжатия оцененного %@.";
@@ -533,13 +590,13 @@
 "The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "Чем медленнее уровень, тем больше можно достичь сжатия. Уровень хранения вообще не выполняет сжатие, только архивирует содержимое.";
 
 /* No comment provided by engineer. */
-"This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder."; // THIS IS NOT LOCALIZED
+"This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "Для открытия этого тома требуется доступ к дополнительным файлам.\nВы можете предоставить доступ к остальным файлам или к родительской папке.";
 
 /* No comment provided by engineer. */
 "To extract" = "Извлечь";
 
 /* No comment provided by engineer. */
-"To prevent a timeout on large operation, enable this setting. The result will always be true if enabled." = "To prevent a timeout on large operation, enable this setting. The result will always be true if enabled."; // THIS IS NOT LOCALIZED
+"To prevent a timeout on large operation, enable this setting. The result will always be true if enabled." = "Чтобы предотвратить тайм-аут при выполнении большой операции, включите эту настройку. Если включено, результат всегда будет положительным.";
 
 /* No comment provided by engineer. */
 "Total size" = "Общий размер";
@@ -563,7 +620,7 @@
 "Unable to browse \"%@\"" = "Не удалось просмотреть \"%@\"";
 
 /* No comment provided by engineer. */
-"Unable to delete the file" = "Unable to delete the file"; // THIS IS NOT LOCALIZED
+"Unable to delete the file" = "Не удалось удалить файл";
 
 /* No comment provided by engineer. */
 "Unable to determine the available space." = "Не удалось определить доступное место.";
@@ -572,7 +629,7 @@
 "Unable to get encoding data" = "Не удалось получить данные о кодировке";
 
 /* No comment provided by engineer. */
-"URL Encoded" = "URL Encoded"; // THIS IS NOT LOCALIZED
+"URL Encoded" = "Закодировано URL";
 
 /* No comment provided by engineer. */
 "Use AES-256 Encryption" = "Использовать шифрование AES-256";
@@ -587,10 +644,10 @@
 "Use UTF-8 Encoding if Available" = "Использовать кодировку UTF-8, если доступно";
 
 /* No comment provided by engineer. */
-"verification failed" = "verification failed"; // THIS IS NOT LOCALIZED
+"verification failed" = "проверка не удалась";
 
 /* No comment provided by engineer. */
-"Verify compression integrity" = "Verify compression integrity"; // THIS IS NOT LOCALIZED
+"Verify compression integrity" = "Проверить целостность сжатия";
 
 /* Verification, operation description. */
 "VERIFY_OPERATION" = "Проверка";
@@ -602,16 +659,16 @@
 "VERIFY_SECTION_TITLE" = "Проверка";
 
 /* No comment provided by engineer. */
-"verifyed" = "verifyed"; // THIS IS NOT LOCALIZED
+"verifyed" = "проверено";
 
 /* No comment provided by engineer. */
-"Verify…" = "Verify…"; // THIS IS NOT LOCALIZED
+"Verify…" = "Проверить…";
 
 /* No comment provided by engineer. */
 "Volume Size" = "Размер тома";
 
 /* No comment provided by engineer. */
-"Volume Unit" = "Volume Unit"; // THIS IS NOT LOCALIZED
+"Volume Unit" = "Единица тома";
 
 /* No comment provided by engineer. */
 "Welcome" = "Добро пожаловать";

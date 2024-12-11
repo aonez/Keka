@@ -14,10 +14,61 @@
 "%@ of %@ items" = "%@ の %@ 項目";
 
 /* No comment provided by engineer. */
+"%@ seconds" = "%@ 秒間";
+
+/* No comment provided by engineer. */
+"%@:%@ minutes" = "%@:%@ 分間";
+
+/* No comment provided by engineer. */
+"%@:%@:%@ hours" = "%@:%@:%@ 時間";
+
+/* No comment provided by engineer. */
 "%lld items" = "%lld 項目";
 
 /* No comment provided by engineer. */
 "About" = "情報";
+
+/* No comment provided by engineer. */
+"About %@ days" = "約 %@ 日間";
+
+/* No comment provided by engineer. */
+"About %@ hours" = "約 %@ 時間";
+
+/* No comment provided by engineer. */
+"About %@ minutes" = "約 %@ 分間";
+
+/* No comment provided by engineer. */
+"About %@ months" = "約 %@ ヶ月間";
+
+/* No comment provided by engineer. */
+"About %@ seconds" = "約 %@ 秒間";
+
+/* No comment provided by engineer. */
+"About %@ weeks" = "約 %@ 週間";
+
+/* No comment provided by engineer. */
+"About %@ years" = "約 %@ 年間";
+
+/* No comment provided by engineer. */
+"About a day" = "約 1 日間";
+
+/* No comment provided by engineer. */
+"About a minute" = "約 1 分間";
+
+/* No comment provided by engineer. */
+"About a month" = "約 1 ヶ月間";
+
+/* No comment provided by engineer. */
+"About a second" = "約 1 秒間";
+
+/* No comment provided by engineer. */
+"About a week" = "約 1 週間";
+
+/* No comment provided by engineer. */
+"About a year" = "約 1 年間";
+
+/* No comment provided by engineer. */
+"About an hour" = "約 1 時間";
 
 /* No comment provided by engineer. */
 "Actions" = "アクション";
@@ -290,6 +341,9 @@
 "Files and Folders" = "ファイルとフォルダ";
 
 /* No comment provided by engineer. */
+"Finishing" = "終了中";
+
+/* No comment provided by engineer. */
 "Folder drop is only supported on iOS 16 or newer" = "フォルダドロップはiOS16以降でサポートされています";
 
 /* No comment provided by engineer. */
@@ -414,6 +468,9 @@
 
 /* No comment provided by engineer. */
 "Please select the encoding for:" = "エンコーディングを選択してください:";
+
+/* No comment provided by engineer. */
+"Preparing" = "準備中";
 
 /* No comment provided by engineer. */
 "Preview" = "プレビュー";

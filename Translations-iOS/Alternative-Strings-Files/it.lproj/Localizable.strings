@@ -14,10 +14,61 @@
 "%@ of %@ items" = "%@ di %@ elementi";
 
 /* No comment provided by engineer. */
+"%@ seconds" = "%@ secondi";
+
+/* No comment provided by engineer. */
+"%@:%@ minutes" = "%@:%@ minuti";
+
+/* No comment provided by engineer. */
+"%@:%@:%@ hours" = "%@:%@:%@ ore";
+
+/* No comment provided by engineer. */
 "%lld items" = "%lld elementi";
 
 /* No comment provided by engineer. */
 "About" = "Informazioni";
+
+/* No comment provided by engineer. */
+"About %@ days" = "Circa %@ giorni";
+
+/* No comment provided by engineer. */
+"About %@ hours" = "Circa %@ ore";
+
+/* No comment provided by engineer. */
+"About %@ minutes" = "Circa %@ minuti";
+
+/* No comment provided by engineer. */
+"About %@ months" = "Circa %@ mesi";
+
+/* No comment provided by engineer. */
+"About %@ seconds" = "Circa %@ secondi";
+
+/* No comment provided by engineer. */
+"About %@ weeks" = "Circa %@ settimane";
+
+/* No comment provided by engineer. */
+"About %@ years" = "Circa %@ anni";
+
+/* No comment provided by engineer. */
+"About a day" = "Circa un giorno";
+
+/* No comment provided by engineer. */
+"About a minute" = "Circa un minuto";
+
+/* No comment provided by engineer. */
+"About a month" = "Circa un mese";
+
+/* No comment provided by engineer. */
+"About a second" = "Circa un secondo";
+
+/* No comment provided by engineer. */
+"About a week" = "Circa una settimana";
+
+/* No comment provided by engineer. */
+"About a year" = "Circa un anno";
+
+/* No comment provided by engineer. */
+"About an hour" = "Circa un'ora";
 
 /* No comment provided by engineer. */
 "Actions" = "Azioni";
@@ -290,6 +341,9 @@
 "Files and Folders" = "File e cartelle";
 
 /* No comment provided by engineer. */
+"Finishing" = "Finalizzazione";
+
+/* No comment provided by engineer. */
 "Folder drop is only supported on iOS 16 or newer" = "Il rilascio di cartelle è supportato solo su iOS 16 o versioni successive";
 
 /* No comment provided by engineer. */
@@ -414,6 +468,9 @@
 
 /* No comment provided by engineer. */
 "Please select the encoding for:" = "Seleziona la codifica per:";
+
+/* No comment provided by engineer. */
+"Preparing" = "Preparazione";
 
 /* No comment provided by engineer. */
 "Preview" = "Anteprima";

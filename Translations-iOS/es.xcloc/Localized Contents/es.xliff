@@ -329,6 +329,21 @@
         <target>%@ de %@ ítems</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="%@ seconds" xml:space="preserve">
+        <source>%@ seconds</source>
+        <target>%@ segundos</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@:%@ minutes" xml:space="preserve">
+        <source>%@:%@ minutes</source>
+        <target>%@:%@ minutos</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@:%@:%@ hours" xml:space="preserve">
+        <source>%@:%@:%@ hours</source>
+        <target>%@:%@:%@ horas</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="%lld items" xml:space="preserve">
         <source>%lld items</source>
         <target>%lld elementos</target>
@@ -342,6 +357,76 @@
       <trans-unit id="About" xml:space="preserve">
         <source>About</source>
         <target>Créditos</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About %@ days" xml:space="preserve">
+        <source>About %@ days</source>
+        <target>Unos %@ días</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About %@ hours" xml:space="preserve">
+        <source>About %@ hours</source>
+        <target>Unas %@ horas</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About %@ minutes" xml:space="preserve">
+        <source>About %@ minutes</source>
+        <target>Unos %@ minutos</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About %@ months" xml:space="preserve">
+        <source>About %@ months</source>
+        <target>Unos %@ meses</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About %@ seconds" xml:space="preserve">
+        <source>About %@ seconds</source>
+        <target>Unos %@ segundos</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About %@ weeks" xml:space="preserve">
+        <source>About %@ weeks</source>
+        <target>Unas %@ semanas</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About %@ years" xml:space="preserve">
+        <source>About %@ years</source>
+        <target>Unos %@ años</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About a day" xml:space="preserve">
+        <source>About a day</source>
+        <target>Un día aproximadamente</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About a minute" xml:space="preserve">
+        <source>About a minute</source>
+        <target>Un minuto aproximadamente</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About a month" xml:space="preserve">
+        <source>About a month</source>
+        <target>Un mes aproximadamente</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About a second" xml:space="preserve">
+        <source>About a second</source>
+        <target>Un segundo aproximadamente</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About a week" xml:space="preserve">
+        <source>About a week</source>
+        <target>Una semana aproximadamente</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About a year" xml:space="preserve">
+        <source>About a year</source>
+        <target>Un año aproximadamente</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About an hour" xml:space="preserve">
+        <source>About an hour</source>
+        <target>Una hora aproximadamente</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Actions" xml:space="preserve">
@@ -726,6 +811,11 @@
         <target>Archivos y Carpetas</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Finishing" xml:space="preserve">
+        <source>Finishing</source>
+        <target>Finalizando</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Folder drop is only supported on iOS 16 or newer" xml:space="preserve">
         <source>Folder drop is only supported on iOS 16 or newer</source>
         <target>El arrastre de archivos solo es compatible con iOS 16 o superior</target>
@@ -934,6 +1024,11 @@
       <trans-unit id="Please select the encoding for:" xml:space="preserve">
         <source>Please select the encoding for:</source>
         <target>Por favor selecciona la codificación para:</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Preparing" xml:space="preserve">
+        <source>Preparing</source>
+        <target>Preparando</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Preview" xml:space="preserve">

@@ -14,10 +14,61 @@
 "%@ of %@ items" = "%@ von %@ Artikel";
 
 /* No comment provided by engineer. */
+"%@ seconds" = "%@ Sekunden";
+
+/* No comment provided by engineer. */
+"%@:%@ minutes" = "%@:%@ Minuten";
+
+/* No comment provided by engineer. */
+"%@:%@:%@ hours" = "%@:%@:%@ Stunden";
+
+/* No comment provided by engineer. */
 "%lld items" = "%lld items"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "About" = "Über";
+
+/* No comment provided by engineer. */
+"About %@ days" = "Ungefähr %@ Tage";
+
+/* No comment provided by engineer. */
+"About %@ hours" = "Ungefähr %@ Stunden";
+
+/* No comment provided by engineer. */
+"About %@ minutes" = "Ungefähr %@ Minuten";
+
+/* No comment provided by engineer. */
+"About %@ months" = "Ungefähr %@ Monate";
+
+/* No comment provided by engineer. */
+"About %@ seconds" = "Ungefähr %@ Sekunden";
+
+/* No comment provided by engineer. */
+"About %@ weeks" = "Ungefähr %@ Wochen";
+
+/* No comment provided by engineer. */
+"About %@ years" = "Ungefähr %@ Jahre";
+
+/* No comment provided by engineer. */
+"About a day" = "Ungefähr ein Tag";
+
+/* No comment provided by engineer. */
+"About a minute" = "Ungefähr eine Minute";
+
+/* No comment provided by engineer. */
+"About a month" = "Ungefähr ein Monat";
+
+/* No comment provided by engineer. */
+"About a second" = "Ungefähr eine Sekunde";
+
+/* No comment provided by engineer. */
+"About a week" = "Ungefähr eine Woche";
+
+/* No comment provided by engineer. */
+"About a year" = "Ungefähr ein Jahr";
+
+/* No comment provided by engineer. */
+"About an hour" = "Ungefähr eine Stunde";
 
 /* No comment provided by engineer. */
 "Actions" = "Aktionen";
@@ -290,6 +341,9 @@
 "Files and Folders" = "Files and Folders"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
+"Finishing" = "Abschließen";
+
+/* No comment provided by engineer. */
 "Folder drop is only supported on iOS 16 or newer" = "Folder drop is only supported on iOS 16 or newer"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
@@ -414,6 +468,9 @@
 
 /* No comment provided by engineer. */
 "Please select the encoding for:" = "Bitte wählen Sie die Codierung für:";
+
+/* No comment provided by engineer. */
+"Preparing" = "Vorbereiten";
 
 /* No comment provided by engineer. */
 "Preview" = "Vorschau";

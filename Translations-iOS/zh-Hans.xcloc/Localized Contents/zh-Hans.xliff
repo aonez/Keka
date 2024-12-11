@@ -329,6 +329,21 @@
         <target>%@ 的 %@ 项</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="%@ seconds" xml:space="preserve">
+        <source>%@ seconds</source>
+        <target>%@ 秒</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@:%@ minutes" xml:space="preserve">
+        <source>%@:%@ minutes</source>
+        <target>%@:%@ 分钟</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@:%@:%@ hours" xml:space="preserve">
+        <source>%@:%@:%@ hours</source>
+        <target>%@:%@:%@ 小时</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="%lld items" xml:space="preserve">
         <source>%lld items</source>
         <target>%lld 项</target>
@@ -342,6 +357,76 @@
       <trans-unit id="About" xml:space="preserve">
         <source>About</source>
         <target>关于</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About %@ days" xml:space="preserve">
+        <source>About %@ days</source>
+        <target>约 %@ 天</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About %@ hours" xml:space="preserve">
+        <source>About %@ hours</source>
+        <target>约 %@ 小时</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About %@ minutes" xml:space="preserve">
+        <source>About %@ minutes</source>
+        <target>约 %@ 分钟</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About %@ months" xml:space="preserve">
+        <source>About %@ months</source>
+        <target>约 %@ 个月</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About %@ seconds" xml:space="preserve">
+        <source>About %@ seconds</source>
+        <target>约 %@ 秒</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About %@ weeks" xml:space="preserve">
+        <source>About %@ weeks</source>
+        <target>约 %@ 周</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About %@ years" xml:space="preserve">
+        <source>About %@ years</source>
+        <target>约 %@ 年</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About a day" xml:space="preserve">
+        <source>About a day</source>
+        <target>约一天</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About a minute" xml:space="preserve">
+        <source>About a minute</source>
+        <target>约一分钟</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About a month" xml:space="preserve">
+        <source>About a month</source>
+        <target>约一个月</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About a second" xml:space="preserve">
+        <source>About a second</source>
+        <target>约一秒</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About a week" xml:space="preserve">
+        <source>About a week</source>
+        <target>约一周</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About a year" xml:space="preserve">
+        <source>About a year</source>
+        <target>约一年</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About an hour" xml:space="preserve">
+        <source>About an hour</source>
+        <target>约一小时</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Actions" xml:space="preserve">
@@ -708,6 +793,7 @@
       </trans-unit>
       <trans-unit id="File for Keka" xml:space="preserve">
         <source>File for Keka</source>
+        <target>Keka 文件</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="File not informed properly, try again." xml:space="preserve">
@@ -723,6 +809,11 @@
       <trans-unit id="Files and Folders" xml:space="preserve">
         <source>Files and Folders</source>
         <target>文件和文件夹</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Finishing" xml:space="preserve">
+        <source>Finishing</source>
+        <target>完成中</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Folder drop is only supported on iOS 16 or newer" xml:space="preserve">
@@ -822,10 +913,12 @@
       </trans-unit>
       <trans-unit id="Move compressed file(s) to Trash after extraction" xml:space="preserve">
         <source>Move compressed file(s) to Trash after extraction</source>
+        <target>解压后将压缩文件移动到回收站</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Move original file(s) to Trash after compression" xml:space="preserve">
         <source>Move original file(s) to Trash after compression</source>
+        <target>压缩后将原始文件移动到回收站</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Name" xml:space="preserve">
@@ -855,6 +948,7 @@
       </trans-unit>
       <trans-unit id="None" xml:space="preserve">
         <source>None</source>
+        <target>无</target>
         <note>Password field empty placeholder</note>
       </trans-unit>
       <trans-unit id="Normal" xml:space="preserve">
@@ -904,6 +998,7 @@
       </trans-unit>
       <trans-unit id="Password for &quot;%@&quot;" xml:space="preserve">
         <source>Password for "%@"</source>
+        <target>密码用于 "%@"</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Password needed" xml:space="preserve">
@@ -923,11 +1018,17 @@
       </trans-unit>
       <trans-unit id="Please enter the password for:" xml:space="preserve">
         <source>Please enter the password for:</source>
+        <target>请输入密码：</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please select the encoding for:" xml:space="preserve">
         <source>Please select the encoding for:</source>
         <target>请选择编码：</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Preparing" xml:space="preserve">
+        <source>Preparing</source>
+        <target>准备中</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Preview" xml:space="preserve">
@@ -1239,6 +1340,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="Verify…" xml:space="preserve">
         <source>Verify…</source>
+        <target>验证中…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Volume Size" xml:space="preserve">
@@ -1268,6 +1370,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="archive" xml:space="preserve">
         <source>archive</source>
+        <target>归档</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="by %@" xml:space="preserve">
@@ -1327,14 +1430,17 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="file" xml:space="preserve">
         <source>file</source>
+        <target>文件</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="verification failed" xml:space="preserve">
         <source>verification failed</source>
+        <target>验证失败</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="verifyed" xml:space="preserve">
         <source>verifyed</source>
+        <target>已验证</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>

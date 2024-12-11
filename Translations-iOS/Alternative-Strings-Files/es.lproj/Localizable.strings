@@ -14,10 +14,61 @@
 "%@ of %@ items" = "%@ de %@ ítems";
 
 /* No comment provided by engineer. */
+"%@ seconds" = "%@ segundos";
+
+/* No comment provided by engineer. */
+"%@:%@ minutes" = "%@:%@ minutos";
+
+/* No comment provided by engineer. */
+"%@:%@:%@ hours" = "%@:%@:%@ horas";
+
+/* No comment provided by engineer. */
 "%lld items" = "%lld elementos";
 
 /* No comment provided by engineer. */
 "About" = "Créditos";
+
+/* No comment provided by engineer. */
+"About %@ days" = "Unos %@ días";
+
+/* No comment provided by engineer. */
+"About %@ hours" = "Unas %@ horas";
+
+/* No comment provided by engineer. */
+"About %@ minutes" = "Unos %@ minutos";
+
+/* No comment provided by engineer. */
+"About %@ months" = "Unos %@ meses";
+
+/* No comment provided by engineer. */
+"About %@ seconds" = "Unos %@ segundos";
+
+/* No comment provided by engineer. */
+"About %@ weeks" = "Unas %@ semanas";
+
+/* No comment provided by engineer. */
+"About %@ years" = "Unos %@ años";
+
+/* No comment provided by engineer. */
+"About a day" = "Un día aproximadamente";
+
+/* No comment provided by engineer. */
+"About a minute" = "Un minuto aproximadamente";
+
+/* No comment provided by engineer. */
+"About a month" = "Un mes aproximadamente";
+
+/* No comment provided by engineer. */
+"About a second" = "Un segundo aproximadamente";
+
+/* No comment provided by engineer. */
+"About a week" = "Una semana aproximadamente";
+
+/* No comment provided by engineer. */
+"About a year" = "Un año aproximadamente";
+
+/* No comment provided by engineer. */
+"About an hour" = "Una hora aproximadamente";
 
 /* No comment provided by engineer. */
 "Actions" = "Acciones";
@@ -290,6 +341,9 @@
 "Files and Folders" = "Archivos y Carpetas";
 
 /* No comment provided by engineer. */
+"Finishing" = "Finalizando";
+
+/* No comment provided by engineer. */
 "Folder drop is only supported on iOS 16 or newer" = "El arrastre de archivos solo es compatible con iOS 16 o superior";
 
 /* No comment provided by engineer. */
@@ -414,6 +468,9 @@
 
 /* No comment provided by engineer. */
 "Please select the encoding for:" = "Por favor selecciona la codificación para:";
+
+/* No comment provided by engineer. */
+"Preparing" = "Preparando";
 
 /* No comment provided by engineer. */
 "Preview" = "Vista previa";

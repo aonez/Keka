@@ -14,10 +14,61 @@
 "%@ of %@ items" = "%@ 的 %@ 项";
 
 /* No comment provided by engineer. */
+"%@ seconds" = "%@ 秒";
+
+/* No comment provided by engineer. */
+"%@:%@ minutes" = "%@:%@ 分钟";
+
+/* No comment provided by engineer. */
+"%@:%@:%@ hours" = "%@:%@:%@ 小时";
+
+/* No comment provided by engineer. */
 "%lld items" = "%lld 项";
 
 /* No comment provided by engineer. */
 "About" = "关于";
+
+/* No comment provided by engineer. */
+"About %@ days" = "约 %@ 天";
+
+/* No comment provided by engineer. */
+"About %@ hours" = "约 %@ 小时";
+
+/* No comment provided by engineer. */
+"About %@ minutes" = "约 %@ 分钟";
+
+/* No comment provided by engineer. */
+"About %@ months" = "约 %@ 个月";
+
+/* No comment provided by engineer. */
+"About %@ seconds" = "约 %@ 秒";
+
+/* No comment provided by engineer. */
+"About %@ weeks" = "约 %@ 周";
+
+/* No comment provided by engineer. */
+"About %@ years" = "约 %@ 年";
+
+/* No comment provided by engineer. */
+"About a day" = "约一天";
+
+/* No comment provided by engineer. */
+"About a minute" = "约一分钟";
+
+/* No comment provided by engineer. */
+"About a month" = "约一个月";
+
+/* No comment provided by engineer. */
+"About a second" = "约一秒";
+
+/* No comment provided by engineer. */
+"About a week" = "约一周";
+
+/* No comment provided by engineer. */
+"About a year" = "约一年";
+
+/* No comment provided by engineer. */
+"About an hour" = "约一小时";
 
 /* No comment provided by engineer. */
 "Actions" = "操作";
@@ -53,7 +104,7 @@
 "Allocated size" = "分配大小";
 
 /* No comment provided by engineer. */
-"archive" = "archive"; // THIS IS NOT LOCALIZED
+"archive" = "归档";
 
 /* No comment provided by engineer. */
 "Archive items separately" = "单独归档";
@@ -275,10 +326,10 @@
 "Feedback" = "反馈";
 
 /* No comment provided by engineer. */
-"file" = "file"; // THIS IS NOT LOCALIZED
+"file" = "文件";
 
 /* No comment provided by engineer. */
-"File for Keka" = "File for Keka"; // THIS IS NOT LOCALIZED
+"File for Keka" = "Keka 文件";
 
 /* No comment provided by engineer. */
 "File not informed properly, try again." = "文件信息不正确，请重试。";
@@ -288,6 +339,9 @@
 
 /* No comment provided by engineer. */
 "Files and Folders" = "文件和文件夹";
+
+/* No comment provided by engineer. */
+"Finishing" = "完成中";
 
 /* No comment provided by engineer. */
 "Folder drop is only supported on iOS 16 or newer" = "仅 iOS 16 或更高版本支持文件夹拖放";
@@ -347,10 +401,10 @@
 "Modified" = "已修改";
 
 /* No comment provided by engineer. */
-"Move compressed file(s) to Trash after extraction" = "Move compressed file(s) to Trash after extraction"; // THIS IS NOT LOCALIZED
+"Move compressed file(s) to Trash after extraction" = "解压后将压缩文件移动到回收站";
 
 /* No comment provided by engineer. */
-"Move original file(s) to Trash after compression" = "Move original file(s) to Trash after compression"; // THIS IS NOT LOCALIZED
+"Move original file(s) to Trash after compression" = "压缩后将原始文件移动到回收站";
 
 /* No comment provided by engineer. */
 "Name" = "名称";
@@ -368,7 +422,7 @@
 "No files to extract" = "无可提取文件";
 
 /* Password field empty placeholder */
-"None" = "None"; // THIS IS NOT LOCALIZED
+"None" = "无";
 
 /* No comment provided by engineer. */
 "Normal" = "正常";
@@ -395,7 +449,7 @@
 "Password" = "密码";
 
 /* No comment provided by engineer. */
-"Password for \"%@\"" = "Password for \"%@\""; // THIS IS NOT LOCALIZED
+"Password for \"%@\"" = "密码用于 \"%@\"";
 
 /* No comment provided by engineer. */
 "Password needed" = "需要密码";
@@ -410,10 +464,13 @@
 "Petabytes" = "拍字节";
 
 /* No comment provided by engineer. */
-"Please enter the password for:" = "Please enter the password for:"; // THIS IS NOT LOCALIZED
+"Please enter the password for:" = "请输入密码：";
 
 /* No comment provided by engineer. */
 "Please select the encoding for:" = "请选择编码：";
+
+/* No comment provided by engineer. */
+"Preparing" = "准备中";
 
 /* No comment provided by engineer. */
 "Preview" = "预览";
@@ -587,7 +644,7 @@
 "Use UTF-8 Encoding if Available" = "如果可用，使用 UTF-8 编码";
 
 /* No comment provided by engineer. */
-"verification failed" = "verification failed"; // THIS IS NOT LOCALIZED
+"verification failed" = "验证失败";
 
 /* No comment provided by engineer. */
 "Verify compression integrity" = "验证压缩完整性";
@@ -602,10 +659,10 @@
 "VERIFY_SECTION_TITLE" = "验证";
 
 /* No comment provided by engineer. */
-"verifyed" = "verifyed"; // THIS IS NOT LOCALIZED
+"verifyed" = "已验证";
 
 /* No comment provided by engineer. */
-"Verify…" = "Verify…"; // THIS IS NOT LOCALIZED
+"Verify…" = "验证中…";
 
 /* No comment provided by engineer. */
 "Volume Size" = "卷大小";

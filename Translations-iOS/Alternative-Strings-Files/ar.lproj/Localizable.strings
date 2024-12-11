@@ -14,10 +14,61 @@
 "%@ of %@ items" = "%@ of %@ عناصر";
 
 /* No comment provided by engineer. */
+"%@ seconds" = "%@ seconds"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"%@:%@ minutes" = "%@:%@ minutes"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"%@:%@:%@ hours" = "%@:%@:%@ hours"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "%lld items" = "%lld items"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "About" = "حول";
+
+/* No comment provided by engineer. */
+"About %@ days" = "About %@ days"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"About %@ hours" = "About %@ hours"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"About %@ minutes" = "About %@ minutes"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"About %@ months" = "About %@ months"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"About %@ seconds" = "About %@ seconds"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"About %@ weeks" = "About %@ weeks"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"About %@ years" = "About %@ years"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"About a day" = "About a day"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"About a minute" = "About a minute"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"About a month" = "About a month"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"About a second" = "About a second"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"About a week" = "About a week"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"About a year" = "About a year"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"About an hour" = "About an hour"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Actions" = "الأوضاع";
@@ -290,6 +341,9 @@
 "Files and Folders" = "Files and Folders"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
+"Finishing" = "Finishing"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Folder drop is only supported on iOS 16 or newer" = "Folder drop is only supported on iOS 16 or newer"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
@@ -414,6 +468,9 @@
 
 /* No comment provided by engineer. */
 "Please select the encoding for:" = "فضلاً إختر الترميز لـ:";
+
+/* No comment provided by engineer. */
+"Preparing" = "Preparing"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Preview" = "مشاهدة";

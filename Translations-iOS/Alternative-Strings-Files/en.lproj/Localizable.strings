@@ -14,10 +14,61 @@
 "%@ of %@ items" = "%@ of %@ items";
 
 /* No comment provided by engineer. */
+"%@ seconds" = "%@ seconds";
+
+/* No comment provided by engineer. */
+"%@:%@ minutes" = "%@:%@ minutes";
+
+/* No comment provided by engineer. */
+"%@:%@:%@ hours" = "%@:%@:%@ hours";
+
+/* No comment provided by engineer. */
 "%lld items" = "%lld items";
 
 /* No comment provided by engineer. */
 "About" = "About";
+
+/* No comment provided by engineer. */
+"About %@ days" = "About %@ days";
+
+/* No comment provided by engineer. */
+"About %@ hours" = "About %@ hours";
+
+/* No comment provided by engineer. */
+"About %@ minutes" = "About %@ minutes";
+
+/* No comment provided by engineer. */
+"About %@ months" = "About %@ months";
+
+/* No comment provided by engineer. */
+"About %@ seconds" = "About %@ seconds";
+
+/* No comment provided by engineer. */
+"About %@ weeks" = "About %@ weeks";
+
+/* No comment provided by engineer. */
+"About %@ years" = "About %@ years";
+
+/* No comment provided by engineer. */
+"About a day" = "About a day";
+
+/* No comment provided by engineer. */
+"About a minute" = "About a minute";
+
+/* No comment provided by engineer. */
+"About a month" = "About a month";
+
+/* No comment provided by engineer. */
+"About a second" = "About a second";
+
+/* No comment provided by engineer. */
+"About a week" = "About a week";
+
+/* No comment provided by engineer. */
+"About a year" = "About a year";
+
+/* No comment provided by engineer. */
+"About an hour" = "About an hour";
 
 /* No comment provided by engineer. */
 "Actions" = "Actions";
@@ -290,6 +341,9 @@
 "Files and Folders" = "Files and Folders";
 
 /* No comment provided by engineer. */
+"Finishing" = "Finishing";
+
+/* No comment provided by engineer. */
 "Folder drop is only supported on iOS 16 or newer" = "Folder drop is only supported on iOS 16 or newer";
 
 /* No comment provided by engineer. */
@@ -414,6 +468,9 @@
 
 /* No comment provided by engineer. */
 "Please select the encoding for:" = "Please select the encoding for:";
+
+/* No comment provided by engineer. */
+"Preparing" = "Preparing";
 
 /* No comment provided by engineer. */
 "Preview" = "Preview";

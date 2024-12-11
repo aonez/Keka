@@ -14,10 +14,61 @@
 "%@ of %@ items" = "%@/%@ 선택됨";
 
 /* No comment provided by engineer. */
+"%@ seconds" = "%@ 초";
+
+/* No comment provided by engineer. */
+"%@:%@ minutes" = "%@:%@ 분";
+
+/* No comment provided by engineer. */
+"%@:%@:%@ hours" = "%@:%@:%@ 시간";
+
+/* No comment provided by engineer. */
 "%lld items" = "%lld개의 항목";
 
 /* No comment provided by engineer. */
 "About" = "정보";
+
+/* No comment provided by engineer. */
+"About %@ days" = "약 %@ 일";
+
+/* No comment provided by engineer. */
+"About %@ hours" = "약 %@ 시간";
+
+/* No comment provided by engineer. */
+"About %@ minutes" = "약 %@ 분";
+
+/* No comment provided by engineer. */
+"About %@ months" = "약 %@ 개월";
+
+/* No comment provided by engineer. */
+"About %@ seconds" = "약 %@ 초";
+
+/* No comment provided by engineer. */
+"About %@ weeks" = "약 %@ 주";
+
+/* No comment provided by engineer. */
+"About %@ years" = "약 %@ 년";
+
+/* No comment provided by engineer. */
+"About a day" = "약 하루";
+
+/* No comment provided by engineer. */
+"About a minute" = "약 1분";
+
+/* No comment provided by engineer. */
+"About a month" = "약 한 달";
+
+/* No comment provided by engineer. */
+"About a second" = "약 1초";
+
+/* No comment provided by engineer. */
+"About a week" = "약 한 주";
+
+/* No comment provided by engineer. */
+"About a year" = "약 1년";
+
+/* No comment provided by engineer. */
+"About an hour" = "약 한 시간";
 
 /* No comment provided by engineer. */
 "Actions" = "동작";
@@ -290,6 +341,9 @@
 "Files and Folders" = "파일 및 폴더";
 
 /* No comment provided by engineer. */
+"Finishing" = "완료 중";
+
+/* No comment provided by engineer. */
 "Folder drop is only supported on iOS 16 or newer" = "폴더 끌어다 놓기는 iOS 16 이상에서만 지원합니다";
 
 /* No comment provided by engineer. */
@@ -414,6 +468,9 @@
 
 /* No comment provided by engineer. */
 "Please select the encoding for:" = "인코딩 선택:";
+
+/* No comment provided by engineer. */
+"Preparing" = "준비 중";
 
 /* No comment provided by engineer. */
 "Preview" = "미리보기";
