@@ -17,58 +17,58 @@
 "%lld items" = "%lld objets";
 
 /* No comment provided by engineer. */
-"%lld seconds" = "%lld seconds"; // THIS IS NOT LOCALIZED
+"%lld seconds" = "%lld secondes";
 
 /* No comment provided by engineer. */
-"%lld:%@ minutes" = "%lld:%@ minutes"; // THIS IS NOT LOCALIZED
+"%lld:%@ minutes" = "%lld:%@ minutes";
 
 /* No comment provided by engineer. */
-"%lld:%@:%@ hours" = "%lld:%@:%@ hours"; // THIS IS NOT LOCALIZED
+"%lld:%@:%@ hours" = "%lld:%@:%@ heures";
 
 /* No comment provided by engineer. */
 "About" = "A propos";
 
 /* No comment provided by engineer. */
-"About %lld days" = "About %lld days"; // THIS IS NOT LOCALIZED
+"About %lld days" = "Environ %lld jours";
 
 /* No comment provided by engineer. */
-"About %lld hours" = "About %lld hours"; // THIS IS NOT LOCALIZED
+"About %lld hours" = "Environ %lld heures";
 
 /* No comment provided by engineer. */
-"About %lld minutes" = "About %lld minutes"; // THIS IS NOT LOCALIZED
+"About %lld minutes" = "Environ %lld minutes";
 
 /* No comment provided by engineer. */
-"About %lld months" = "About %lld months"; // THIS IS NOT LOCALIZED
+"About %lld months" = "Environ %lld mois";
 
 /* No comment provided by engineer. */
-"About %lld seconds" = "About %lld seconds"; // THIS IS NOT LOCALIZED
+"About %lld seconds" = "Environ %lld secondes";
 
 /* No comment provided by engineer. */
-"About %lld weeks" = "About %lld weeks"; // THIS IS NOT LOCALIZED
+"About %lld weeks" = "Environ %lld semaines";
 
 /* No comment provided by engineer. */
-"About %lld years" = "About %lld years"; // THIS IS NOT LOCALIZED
+"About %lld years" = "Environ %lld années";
 
 /* No comment provided by engineer. */
-"About a day" = "About a day"; // THIS IS NOT LOCALIZED
+"About a day" = "Environ un jour";
 
 /* No comment provided by engineer. */
-"About a minute" = "About a minute"; // THIS IS NOT LOCALIZED
+"About a minute" = "Environ une minute";
 
 /* No comment provided by engineer. */
-"About a month" = "About a month"; // THIS IS NOT LOCALIZED
+"About a month" = "Environ un mois";
 
 /* No comment provided by engineer. */
-"About a second" = "About a second"; // THIS IS NOT LOCALIZED
+"About a second" = "Environ une seconde";
 
 /* No comment provided by engineer. */
-"About a week" = "About a week"; // THIS IS NOT LOCALIZED
+"About a week" = "Environ une semaine";
 
 /* No comment provided by engineer. */
-"About a year" = "About a year"; // THIS IS NOT LOCALIZED
+"About a year" = "Environ un an";
 
 /* No comment provided by engineer. */
-"About an hour" = "About an hour"; // THIS IS NOT LOCALIZED
+"About an hour" = "Environ une heure";
 
 /* No comment provided by engineer. */
 "Actions" = "Actions";
@@ -341,7 +341,7 @@
 "Files and Folders" = "Fichiers et Dossiers";
 
 /* No comment provided by engineer. */
-"Finishing" = "Finishing"; // THIS IS NOT LOCALIZED
+"Finishing" = "Finalisation";
 
 /* No comment provided by engineer. */
 "Folder drop is only supported on iOS 16 or newer" = "Le dépôt de dossier n'est pris en charge que sur iOS 16 ou version ultérieure";
@@ -470,7 +470,7 @@
 "Please select the encoding for:" = "Veuillez sélectionner l'encodage pour:";
 
 /* No comment provided by engineer. */
-"Preparing" = "Preparing"; // THIS IS NOT LOCALIZED
+"Preparing" = "Préparation";
 
 /* No comment provided by engineer. */
 "Preview" = "Visualiser";
