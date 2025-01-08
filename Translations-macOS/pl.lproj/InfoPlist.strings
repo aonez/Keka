@@ -1,6 +1,6 @@
 
 /* Usually leave this one in English */
-"NSHumanReadableCopyright" = "Copyright © 2009-2024 aONe";
+"NSHumanReadableCopyright" = "Copyright © 2009-2025 aONe";
 
 /* Spotlight keywords */
 "MDItemKeywords" = "Kompresja, Dekompresja, Ekstrakcja, Archiwizator, Unarchiver, Rozszerzenie, Szyfrowanie, Odszyfrowanie, Archiwa, Pliki";
@@ -49,32 +49,32 @@
 "LHA Archive" = "archiwum LHA";
 "Windows EXE File" = "plik EXE (Windows)";
 "Windows Cabinet File" = "plik CAB (Windows)";
-"Windows Installer Package" = "Windows Installer Package";
+"Windows Installer Package" = "plik MSI (Windows)";
 "WIM Disk Image" = "obraz dysku WIM";
 "Comic Book RAR Archive" = "archiwum Comic Book RAR";
 "Comic Book ZIP Archive" = "archiwum Comic Book ZIP";
-"Commodore Amiga MOD Archive" = "Commodore Amiga MOD Archive";
+"Commodore Amiga MOD Archive" = "archiwum Commodore Amiga MOD";
 "iOS App" = "Aplikacja iOS";
 "JAR Archive" = "archiwum JAR";
 "WAR Archive" = "archiwum WAR";
-"Compact Pro Archive" = "Compact Pro Archive";
-"Synology Package Archive" = "Synology Package Archive";
+"Compact Pro Archive" = "archiwum Compact Pro";
+"Synology Package Archive" = "archiwum Synology Package";
 "Android Application Package" = "plik APK (Android)";
-"Cross-Platform Installer Module (XPI)" = "Cross-Platform Installer Module (XPI)";
+"Cross-Platform Installer Module (XPI)" = "moduł instalatora Cross-Platform (XPI)";
 "APPX Archive" = "archiwum APPX";
 "Safari extension" = "rozszerzenie przeglądarki Safari";
 "ACE Archive" = "archiwum ACE";
 "XIP Secure Archive" = "archiwum XIP Secure";
-"Electronic Book" = "Electronic Book";
+"Electronic Book" = "książka elektroniczna";
 "Apple Archive" = "archiwum Apple";
-"Apple Encrypted Archive" = "Apple Encrypted Archive";
-"Squashfs Filesystem Archive" = "Squashfs Filesystem Archive";
-"WordPress All-in-One Backup" = "WordPress All-in-One Backup";
-"InstallShield 3 Archive" = "InstallShield 3 Archive";
-"Snappy Archive" = "Snappy Archive";
-"Snappy Tarball Archive" = "Snappy Tarball Archive";
-"Apple iWork Archive" = "Apple iWork Archive";
-"Delta Controller Skin" = "Delta Controller Skin";
-"Zipped Web Archive Collection" = "Zipped Web Archive Collection";
-"Keka Extraction Package" = "Keka Extraction Package";
-"Data" = "Data";
+"Apple Encrypted Archive" = "szyfrowane archiwum Apple";
+"Squashfs Filesystem Archive" = "archiwum systemu plików Squashfs";
+"WordPress All-in-One Backup" = "kompletny backup WordPress";
+"InstallShield 3 Archive" = "archiwum InstallShield 3";
+"Snappy Archive" = "archiwum Snappy";
+"Snappy Tarball Archive" = "archiwum Snappy Tarball";
+"Apple iWork Archive" = "archiwum Apple iWork";
+"Delta Controller Skin" = "skórka kontrolera Delta";
+"Zipped Web Archive Collection" = "spakowane archiwum Web (WACZ)";
+"Keka Extraction Package" = "pakiet rozpakowujący Keka";
+"Data" = "Dane";
