@@ -191,7 +191,7 @@
 "The password does not match" = "Niepoprawne hasło";
 "The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption." = "Hasło nie jest poprawnie ustawione, nie można zaszyfrować pliku. Możesz anulować i ponownie ustawić hasło lub kontynuować proces bez szyfrowania.";
 "Use legacy encryption" = "Użyj szyfrowania w wersji Legacy";
-"Using AES-256 encryption in ZIP" = "Szyfrowania AES-256 w formacie ZIP";
+"Using AES-256 encryption in ZIP" = "Szyfrowanie AES-256 w formacie ZIP";
 "Note that most modern operating systems such as macOS (before macOS 11.0 Big Sur) or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities." = "Pamiętaj, że większość systemów operacyjnych, takich jak macOS (przed macOS 11.0 Big Sur) lub Windows nie obsługuje domyślnie plików ZIP zaszyfrowanych w formacie AES-256.\n\nMożesz łatwo otworzyć te pliki za pomocą większości narzędzi do archiwizacji.";
 "Cannot create the file" = "Nie można utworzyć pliku";
 "Keka has no file access to the source file/s\nGive it access when asked or manually in the Preferences" = "Keka nie ma dostępu do pliku/plików\nPrzyznaj dostęp na żądanie lub ręcznie w Preferencjach";
@@ -241,13 +241,13 @@
 "The compressed data seems to be invalid" = "Zarchiwizowane dane są nieprawidłowe";
 "Encrypted Apple Archive files are only supported on macOS 12 or newer" = "Zaszyfrowane pliki Apple Archive są obsługiwane tylko w systemie macOS 12 lub nowszym";
 "The password length should be %i or higher" = "Długość hasła powinna wynosić %i lub więcej";
-" (Entire Device)" = " (Entire Device)";
-"Recovery Volumes:" = "Recovery Volumes:";
+" (Entire Device)" = " (całe urządzenie)";
+"Recovery Volumes:" = "Woluminy Recovery:";
 "Encrypt" = "Szyfruj";
 "Skip" = "Pomiń";
-"Can't enable the extension" = "Can't enable the extension";
-"In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nPlease update your Keka Helper version to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." = "In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nPlease update your Keka Helper version to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it.";
-"In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nYou can install the Keka Helper to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." = "In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nYou can install the Keka Helper to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it.";
+"Can't enable the extension" = "Nie można włączyć rozszerzenia";
+"In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nPlease update your Keka Helper version to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." = "W systemie macOS 15 nie można automatycznie włączyć rozszerzenia Findera.\n\nZaktualizuj Keka Helper by umożliwić automatyczne włączanie i wyłączanie rozszerzenia Findera. Alternatywnie możesz samodzielnie wykonać odpowiednie czynności w Terminalu.";
+"In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nYou can install the Keka Helper to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." = "W systemie macOS 15 nie można automatycznie włączyć rozszerzenia Findera.\n\nZainstaluj Keka Helper by umożliwić automatyczne włączanie i wyłączanie rozszerzenia Findera. Alternatywnie możesz samodzielnie wykonać odpowiednie czynności w Terminalu.";
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "Preferencje…";
 
