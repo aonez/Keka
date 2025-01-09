@@ -9,19 +9,19 @@
 "164.title" = "Bez kompresji";
 
 /* Class = "NSMenuItem"; title = "Fast, less compression"; ObjectID = "165"; */
-"165.title" = "2";
+"165.title" = "Szybka, mała kompresja";
 
 /* Class = "NSMenuItem"; title = "Normal"; ObjectID = "166"; */
-"166.title" = "Średni stopień kompresji";
+"166.title" = "Standardowa";
 
 /* Class = "NSMenuItem"; title = "Fastest, less compression"; ObjectID = "167"; */
-"167.title" = "1";
+"167.title" = "Najszybsza, słaba kompresja";
 
 /* Class = "NSMenuItem"; title = "Slowest, more compression"; ObjectID = "168"; */
-"168.title" = "Najwyższy stopień kompresji";
+"168.title" = "Najwolniejsza, silna kompresja";
 
 /* Class = "NSMenuItem"; title = "Slow, more compression"; ObjectID = "169"; */
-"169.title" = "4";
+"169.title" = "Wolna, lepsza kompresja";
 
 /* Class = "NSButtonCell"; title = "Set Keka as the default uncompressor"; ObjectID = "184"; */
 "184.title" = "Ustaw jako domyślny archiwizator plików";
@@ -138,7 +138,7 @@
 "6bh-6N-5PP.title" = "Dodaj czynność do menu";
 
 /* Class = "NSMenuItem"; title = "Always"; ObjectID = "8AZ-Vv-Lv1"; */
-"8AZ-Vv-Lv1.title" = "Always";
+"8AZ-Vv-Lv1.title" = "Zawsze";
 
 /* Class = "NSTextFieldCell"; title = "You can use these placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n%pb% will be replaced with the clipboard string\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
 "8JN-Ub-qkc.title" = "Możesz użyć następujących symboli zastępczych:\n\n%n zostanie zastąpiony nazwą pliku\n%e zostanie zastąpiony rozszerzeniem pliku\n%p zostanie zastąpiony nazwą folderu nadrzędnego\n%c zostanie zastąpiony liczbą plików\n%d zostanie zastąpiony aktualną datą\n%t zostanie zastąpiony aktualnym czasem\n%s zostanie zastąpiony nazwą folderu współdzielonego\n%i% zostanie zastąpiony nazwą pierwszego elementu\n%ia% zostanie zastąpiony pierwszą posortowaną nazwą\n%pb% will be replaced with the clipboard string\n\nW niektórych przypadkach pola zamienników pozostaną puste.";
@@ -165,7 +165,7 @@
 "DAr-Td-s5W.title" = "Wyodrębnianie wykorzystuje mniej mocy obliczeniowej, możesz zatem nawet używając kilku wątków możesz ustawić limit na 2 - 3. Pamiętaj jednak o limitach dysku.";
 
 /* Class = "NSButtonCell"; title = "Use resizable windows"; ObjectID = "DCA-p1-1uq"; */
-"DCA-p1-1uq.title" = "Use resizable windows";
+"DCA-p1-1uq.title" = "Pozwól na zmianę rozmiaru okien";
 
 /* Class = "NSButtonCell"; title = "Ask before quitting with operations"; ObjectID = "DJT-wB-bCM"; */
 "DJT-wB-bCM.title" = "Zapytaj przed zakończeniem operacji";
@@ -183,7 +183,7 @@
 "Ei5-Ya-HGI.title" = "Użyj niestandardowej nazwy podczas archiwizowania wielu plików";
 
 /* Class = "NSButtonCell"; title = "Activate Keka when starting a new operation"; ObjectID = "FMT-Gs-iEi"; */
-"FMT-Gs-iEi.title" = "Activate Keka when starting a new operation";
+"FMT-Gs-iEi.title" = "Aktywuj Keka przy rozpoczęciu nowej operacji";
 
 /* Class = "NSTextFieldCell"; title = "Tasks priority (QoS):"; ObjectID = "G1T-Qd-OZi"; */
 "G1T-Qd-OZi.title" = "Priorytet zadania (QoS):";
@@ -198,13 +198,13 @@
 "Hx2-S1-j7m.title" = "Ustawienie działa tylko, gdy program nie jest uruchomiony.";
 
 /* Class = "NSMenuItem"; title = "Never"; ObjectID = "I93-7A-iSn"; */
-"I93-7A-iSn.title" = "Never";
+"I93-7A-iSn.title" = "Nigdy";
 
 /* Class = "NSButtonCell"; title = "Enable full Mac access (Recommended)"; ObjectID = "IHj-ac-103"; */
 "IHj-ac-103.title" = "Przyznaj pełny dostęp (Zalecane)";
 
 /* Class = "NSButtonCell"; title = "Verify compression integrity"; ObjectID = "IL6-a6-uik"; */
-"IL6-a6-uik.title" = "Verify compression integrity";
+"IL6-a6-uik.title" = "Sprawdzaj integralność kompresji";
 
 /* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive."; ObjectID = "JxT-Nq-8Z5"; */
 "JxT-Nq-8Z5.title" = "Przyznaj dostęp do dysków zewnętrznych.";
@@ -234,7 +234,7 @@
 "Rgr-FP-Kua.title" = "Hasło domyślne:";
 
 /* Class = "NSButtonCell"; title = "Silently ignore extra trailing data"; ObjectID = "Rwo-pm-Y6t"; */
-"Rwo-pm-Y6t.title" = "Silently ignore extra trailing data";
+"Rwo-pm-Y6t.title" = "Automatycznie ignoruj dodatkowe dane końcowe";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "Integracja z Centrum Powiadomień";
@@ -261,10 +261,10 @@
 "Xl7-AN-Kgw.title" = "Najwyższy";
 
 /* Class = "NSTextFieldCell"; title = "Enable full Mac access so Keka can be used on all your Mac."; ObjectID = "ZOx-vr-5o7"; */
-"ZOx-vr-5o7.title" = "Przyznaj pełny dostęp do plików.";
+"ZOx-vr-5o7.title" = "Przyznaj pełny dostęp do wszystkich plików w tym Macu.";
 
 /* Class = "NSButtonCell"; title = "Create self-extracting archives for Windows if possible"; ObjectID = "Zfm-hU-OMZ"; */
-"Zfm-hU-OMZ.title" = "Create self-extracting archives for Windows if possible";
+"Zfm-hU-OMZ.title" = "Twórz samorozpakowujące archiwa dla Windows jeśli to możliwe";
 
 /* Class = "NSMenuItem"; title = "High"; ObjectID = "ZiK-jD-TLq"; */
 "ZiK-jD-TLq.title" = "Wysoki";
@@ -297,7 +297,7 @@
 "dhi-qv-weg.title" = "Archiwizowanie wielu:";
 
 /* Class = "NSMenuItem"; title = "Only if configuration windows are open"; ObjectID = "dmz-xh-p9a"; */
-"dmz-xh-p9a.title" = "Only if configuration windows are open";
+"dmz-xh-p9a.title" = "Tylko przy otwartych oknach konfiguracji";
 
 /* Class = "NSButtonCell"; title = "Set folder's modification date to extraction date"; ObjectID = "eBj-1b-wBg"; */
 "eBj-1b-wBg.title" = "Ustaw datę modyfikacji folderu na datę wyodrębnienia";
@@ -339,13 +339,13 @@
 "rP2-XR-ZQt.title" = "Pokaż akcje programu Keka w menu kontekstowym Findera";
 
 /* Class = "NSTextFieldCell"; title = "Show an icon in the Dock:"; ObjectID = "rra-p2-67m"; */
-"rra-p2-67m.title" = "Show an icon in the Dock:";
+"rra-p2-67m.title" = "Pokaż ikonę w Docku:";
 
 /* Class = "NSButtonCell"; title = "Show icons in actions"; ObjectID = "s9u-2a-b8X"; */
 "s9u-2a-b8X.title" = "Pokazuj ikony";
 
 /* Class = "NSMenuItem"; title = "Always extract compatible formats"; ObjectID = "sD5-uM-Wpa"; */
-"sD5-uM-Wpa.title" = "Always extract compatible formats";
+"sD5-uM-Wpa.title" = "Zawsze wyodrębniaj obsługiwane formaty";
 
 /* Class = "NSButtonCell"; title = "Enable external volumes access"; ObjectID = "sgV-AD-k4Q"; */
 "sgV-AD-k4Q.title" = "Przyznaj dostęp do dysków zewnętrznych";
