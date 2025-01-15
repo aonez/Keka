@@ -1,0 +1,6 @@
+﻿
+/* Class = "NSButtonCell"; title = "Send a tip"; ObjectID = "Tsk-2F-Qoc"; */
+"Tsk-2F-Qoc.title" = "Αποστολή μικρής δωρεάς";
+
+/* Class = "NSTextFieldCell"; title = "If you like Keka and want to support its development feel free to send a tip."; ObjectID = "Y8f-9A-a06"; */
+"Y8f-9A-a06.title" = "Εάν σας αρέσει το Keka και θέλετε να υποστηρίξετε την ανάπτυξή του στείλετε ένα φιλοδώρημα.";
