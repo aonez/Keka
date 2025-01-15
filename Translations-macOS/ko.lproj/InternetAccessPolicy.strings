@@ -1,7 +1,7 @@
-﻿
+
 /*
 //
-// This file is for Little Snitch's IAP: https://help.obdev.at/resources/documentation/littlesnitch/#/ra-iap
+// This file is for Little Snitch's IAP: https://r.keka.io/IAP
 // Currently Little Snitch is only translated in English and German, so will not use any other localizations.
 //
 // If you're translating other than English or German, you can dismiss this file or translate it in case they
@@ -15,3 +15,5 @@
 /* Software update connection: */
 "SoftwareUpdatePurpose" = "Keka는 u(pdate).keka.io에 연결하여 새로운 버전을 확인합니다.";
 "SoftwareUpdateDenyConsequences" = "만약 이 연결을 거부한다면, Keka의 새로운 버전에 대한 알림을 받을 수 없습니다.";
+"SoftwareUpdateGithubPurpose" = "Keka는 github.com/aonez/Keka 저장소에서 새 버전을 다운로드합니다";
+"SoftwareUpdateGithubDenyConsequences" = "이 연결을 거부하면 Keka의 새 버전을 다운로드할 수 없습니다.";

@@ -1,7 +1,7 @@
-﻿
+
 /*
 //
-// This file is for Little Snitch's IAP: https://help.obdev.at/resources/documentation/littlesnitch/#/ra-iap
+// This file is for Little Snitch's IAP: https://r.keka.io/IAP
 // Currently Little Snitch is only translated in English and German, so will not use any other localizations.
 //
 // If you're translating other than English or German, you can dismiss this file or translate it in case they
@@ -10,8 +10,10 @@
 */
 
 /* Top-level, general application description: */
-"ApplicationDescription" = "Keka is a file archiver for macOS.";
+"ApplicationDescription" = "Keka é um compactador de arquivos para macOS.";
 
 /* Software update connection: */
-"SoftwareUpdatePurpose" = "Keka checks for new versions connecting to u(pdate).keka.io.";
-"SoftwareUpdateDenyConsequences" = "If you deny this connection, you will not be notified about new versions of Keka.";
+"SoftwareUpdatePurpose" = "O Keka verifica novas versões conectando-se a u(pdate).keka.io.";
+"SoftwareUpdateDenyConsequences" = "Se você negar essa conexão, não será notificado sobre novas versões do Keka.";
+"SoftwareUpdateGithubPurpose" = "O Keka baixa novas versões de seu repositório em github.com/aonez/Keka";
+"SoftwareUpdateGithubDenyConsequences" = "Se você negar essa conexão, não poderá baixar novas versões do Keka.";
