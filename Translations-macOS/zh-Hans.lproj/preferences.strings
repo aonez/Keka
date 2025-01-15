@@ -165,7 +165,7 @@
 "DAr-Td-s5W.title" = "提取使用的能耗较少，因此即使使用多线程，您也可以将此限制设置为 2 或 3。请注意，目标磁盘可能会受影响。";
 
 /* Class = "NSButtonCell"; title = "Use resizable windows"; ObjectID = "DCA-p1-1uq"; */
-"DCA-p1-1uq.title" = "Use resizable windows";
+"DCA-p1-1uq.title" = "窗口大小可调整";
 
 /* Class = "NSButtonCell"; title = "Ask before quitting with operations"; ObjectID = "DJT-wB-bCM"; */
 "DJT-wB-bCM.title" = "退出操作前询问";
@@ -216,7 +216,7 @@
 "K5h-j5-bss.title" = "队列压缩操作：";
 
 /* Class = "NSButtonCell"; title = "Inherit quarantine from downloaded files"; ObjectID = "KDR-ag-bll"; */
-"KDR-ag-bll.title" = "从下载的文件继承隔离";
+"KDR-ag-bll.title" = "从下载的文件继承隔离标记";
 
 /* Class = "NSButtonCell"; title = "Show in external volumes"; ObjectID = "KOF-7X-bQo"; */
 "KOF-7X-bQo.title" = "在外部卷中显示";
@@ -234,7 +234,7 @@
 "Rgr-FP-Kua.title" = "默认密码：";
 
 /* Class = "NSButtonCell"; title = "Silently ignore extra trailing data"; ObjectID = "Rwo-pm-Y6t"; */
-"Rwo-pm-Y6t.title" = "Silently ignore extra trailing data";
+"Rwo-pm-Y6t.title" = "静默忽略多余的尾部数据";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "启用通知中心集成";
@@ -252,7 +252,7 @@
 "WCN-jH-W9J.placeholderString" = "这是您的自定义名称";
 
 /* Class = "NSButtonCell"; title = "Remove bad password header structure extractions"; ObjectID = "Wd0-yz-M1h"; */
-"Wd0-yz-M1h.title" = "移除提取时错误的密码头结构";
+"Wd0-yz-M1h.title" = "移除错误的密码头结构提取";
 
 /* Class = "NSMenuItem"; title = "Automatic"; ObjectID = "XOB-JO-UQT"; */
 "XOB-JO-UQT.title" = "自动";
