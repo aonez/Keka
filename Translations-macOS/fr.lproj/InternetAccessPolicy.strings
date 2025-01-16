@@ -15,5 +15,5 @@
 /* Software update connection: */
 "SoftwareUpdatePurpose" = "Keka se connecte à u(pdate).keka.io pour vérifier si de nouvelles versions existent";
 "SoftwareUpdateDenyConsequences" = "Si vous bloquez cette connexion, vous ne serez pas averti des nouvelles versions de Keka.";
-"SoftwareUpdateGithubPurpose" = "Keka downloads new versions form its repository in github.com/aonez/Keka";
-"SoftwareUpdateGithubDenyConsequences" = "If you deny this connection, you will not be able to download new versions of Keka.";
+"SoftwareUpdateGithubPurpose" = "Keka télécharge les nouvelles versions depuis son répertoire sur github.com/aonez/Keka";
+"SoftwareUpdateGithubDenyConsequences" = "Si vous bloquez cette connexion, vous ne pourrez pas télécharger les nouvelles versions de Keka.";
