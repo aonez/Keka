@@ -94,6 +94,7 @@
       </trans-unit>
       <trans-unit id="Apple Archive" xml:space="preserve">
         <source>Apple Archive</source>
+        <target>Apple Archive</target>
         <note/>
       </trans-unit>
       <trans-unit id="BZIP2 Archive" xml:space="preserve">
@@ -334,15 +335,15 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%lld seconds" xml:space="preserve">
-        <source>%lld sekund</source>
+        <source>%lld seconds</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%lld:%@ minutes" xml:space="preserve">
-        <source>%lld:%@ minut</source>
+        <source>%lld:%@ minutes</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%lld:%@:%@ hours" xml:space="preserve">
-        <source>%lld:%@:%@ hodin</source>
+        <source>%lld:%@:%@ hours</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="ARCHIVE_DEFAULT_NAME" xml:space="preserve">
@@ -356,59 +357,59 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="About %lld days" xml:space="preserve">
-        <source>Okolo %lld dní</source>
+        <source>About %lld days</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="About %lld hours" xml:space="preserve">
-        <source>Okolo %lld hodin</source>
+        <source>About %lld hours</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="About %lld minutes" xml:space="preserve">
-        <source>Okolo %lld minut</source>
+        <source>About %lld minutes</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="About %lld months" xml:space="preserve">
-        <source>Okolo %lld měsíců</source>
+        <source>About %lld months</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="About %lld seconds" xml:space="preserve">
-        <source>Okolo %lld sekund</source>
+        <source>About %lld seconds</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="About %lld weeks" xml:space="preserve">
-        <source>Okolo %lld týdnů</source>
+        <source>About %lld weeks</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="About %lld years" xml:space="preserve">
-        <source>Okolo %lld let</source>
+        <source>About %lld years</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="About a day" xml:space="preserve">
-        <source>Přibližně den</source>
+        <source>About a day</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="About a minute" xml:space="preserve">
-        <source>Přibližně minuta</source>
+        <source>About a minute</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="About a month" xml:space="preserve">
-        <source>Přibližně měsíc</source>
+        <source>About a month</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="About a second" xml:space="preserve">
-        <source>Přibližně sekunda</source>
+        <source>About a second</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="About a week" xml:space="preserve">
-        <source>Přibližně týden</source>
+        <source>About a week</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="About a year" xml:space="preserve">
-        <source>Přibližně rok</source>
+        <source>About a year</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="About an hour" xml:space="preserve">
-        <source>Přibližně hodina</source>
+        <source>About an hour</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Actions" xml:space="preserve">
@@ -794,7 +795,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Finishing" xml:space="preserve">
-        <source>Dokončuje se</source>
+        <source>Finishing</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Folder drop is only supported on iOS 16 or newer" xml:space="preserve">
@@ -1008,7 +1009,7 @@
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Preparing" xml:space="preserve">
-        <source>Připravuje se</source>
+        <source>Preparing</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Preview" xml:space="preserve">

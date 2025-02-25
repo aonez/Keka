@@ -1,20 +1,20 @@
 /* No comment provided by engineer. */
-"%@ item" = "%@ Artikel";
+"%@ item" = "%@ Element";
 
 /* No comment provided by engineer. */
-"%@ items" = "%@ Artikel";
+"%@ items" = "%@ Element";
 
 /* _OPERATION_ of "_FILENAME_" failed */
 "%@ of \"%@\" failed" = "%@ von \"%@\" fehlgeschlagen";
 
 /* No comment provided by engineer. */
-"%@ of %@ item" = "%@ von %@ Artikel";
+"%@ of %@ item" = "%@ von %@ Element";
 
 /* No comment provided by engineer. */
 "%@ of %@ items" = "%@ von %@ Artikeln";
 
 /* No comment provided by engineer. */
-"%lld items" = "%lld Artikel";
+"%lld items" = "%lld Element";
 
 /* No comment provided by engineer. */
 "%lld seconds" = "%lld Sekunden";
@@ -29,46 +29,46 @@
 "About" = "Über";
 
 /* No comment provided by engineer. */
-"About %lld days" = "Ungefähr %lld Tage";
+"About %lld days" = "Etwa %lld Tage";
 
 /* No comment provided by engineer. */
-"About %lld hours" = "Ungefähr %lld Stunden";
+"About %lld hours" = "Etwa %lld Stunden";
 
 /* No comment provided by engineer. */
-"About %lld minutes" = "Ungefähr %lld Minuten";
+"About %lld minutes" = "Etwa %lld Minuten";
 
 /* No comment provided by engineer. */
-"About %lld months" = "Ungefähr %lld Monate";
+"About %lld months" = "Etwa %lld Monate";
 
 /* No comment provided by engineer. */
-"About %lld seconds" = "Ungefähr %lld Sekunden";
+"About %lld seconds" = "Etwa %lld Sekunden";
 
 /* No comment provided by engineer. */
-"About %lld weeks" = "Ungefähr %lld Wochen";
+"About %lld weeks" = "Etwa %lld Wochen";
 
 /* No comment provided by engineer. */
-"About %lld years" = "Ungefähr %lld Jahre";
+"About %lld years" = "Etwa %lld Jahre";
 
 /* No comment provided by engineer. */
-"About a day" = "Ungefähr ein Tag";
+"About a day" = "Etwa ein Tag";
 
 /* No comment provided by engineer. */
-"About a minute" = "Ungefähr eine Minute";
+"About a minute" = "Etwa eine Minute";
 
 /* No comment provided by engineer. */
-"About a month" = "Ungefähr ein Monat";
+"About a month" = "Etwa ein Monat";
 
 /* No comment provided by engineer. */
-"About a second" = "Ungefähr eine Sekunde";
+"About a second" = "Etwa eine Sekunde";
 
 /* No comment provided by engineer. */
-"About a week" = "Ungefähr eine Woche";
+"About a week" = "Etwa eine Woche";
 
 /* No comment provided by engineer. */
-"About a year" = "Ungefähr ein Jahr";
+"About a year" = "Etwa ein Jahr";
 
 /* No comment provided by engineer. */
-"About an hour" = "Ungefähr eine Stunde";
+"About an hour" = "Etwa eine Stunde";
 
 /* No comment provided by engineer. */
 "Actions" = "Aktionen";
@@ -80,7 +80,7 @@
 "Add a File" = "Datei hinzufügen";
 
 /* No comment provided by engineer. */
-"Add a Folder" = "Ordner hinzufügen";
+"Add a Folder" = "Einen Ordner hinzufügen";
 
 /* No comment provided by engineer. */
 "Add a Photo or Video" = "Ein Foto oder Video hinzufügen";
@@ -146,7 +146,7 @@
 "Choose" = "Auswählen";
 
 /* No comment provided by engineer. */
-"Clear Cache" = "Cache leeren";
+"Clear Cache" = "Cache löschen";
 
 /* No comment provided by engineer. */
 "Clear Cache Contents" = "Cache-Inhalte löschen";
@@ -161,16 +161,16 @@
 "Compress" = "Komprimieren";
 
 /* No comment provided by engineer. */
-"compress" = "komprimieren";
+"compress" = "Komprimierung";
 
 /* No comment provided by engineer. */
-"Compress all the items in the compression list" = "Alle Elemente in der Komprimierungsliste komprimieren";
+"Compress all the items in the compression list" = "Alle Elemente in der Komprimierungsliste Komprimierung";
 
 /* No comment provided by engineer. */
-"Compress Files with Keka" = "Dateien mit Keka komprimieren";
+"Compress Files with Keka" = "Dateien mit Keka Komprimierung";
 
 /* No comment provided by engineer. */
-"Compress some files with Keka." = "Einige Dateien mit Keka komprimieren.";
+"Compress some files with Keka." = "Einige Dateien mit Keka Komprimierung.";
 
 /* No comment provided by engineer. */
 "compressed" = "komprimiert";
@@ -182,7 +182,7 @@
 "Compression" = "Kompression";
 
 /* No comment provided by engineer. */
-"compression" = "komprimieren";
+"compression" = "Komprimierung";
 
 /* No comment provided by engineer. */
 "compression failed" = "Komprimierung fehlgeschlagen";
@@ -254,7 +254,7 @@
 "Documents" = "Dokumente";
 
 /* No comment provided by engineer. */
-"Done" = "Fertig";
+"Done" = "Abgeschlossen";
 
 /* No comment provided by engineer. */
 "done" = "erledigt";
@@ -263,7 +263,7 @@
 "Downloads" = "Downloads";
 
 /* No comment provided by engineer. */
-"Edit" = "Bearbeiten";
+"Edit" = "Editieren";
 
 /* No comment provided by engineer. */
 "Encrypt Filenames" = "Dateinamen verschlüsseln";
@@ -281,16 +281,16 @@
 "Extract" = "Extrahieren";
 
 /* No comment provided by engineer. */
-"extract" = "extrahieren";
+"extract" = "Extraktion";
 
 /* No comment provided by engineer. */
-"Extract Files with Keka" = "Dateien mit Keka extrahieren";
+"Extract Files with Keka" = "Dateien mit Keka Extraktion";
 
 /* No comment provided by engineer. */
-"Extract some files with Keka." = "Einige Dateien mit Keka extrahieren.";
+"Extract some files with Keka." = "Einige Dateien mit Keka Extraktion.";
 
 /* No comment provided by engineer. */
-"Extract the file" = "Die Datei extrahieren";
+"Extract the file" = "Die Datei Extraktion";
 
 /* No comment provided by engineer. */
 "extracted" = "extrahiert";
@@ -299,7 +299,7 @@
 "Extraction" = "Extraktion";
 
 /* No comment provided by engineer. */
-"extraction" = "extrahieren";
+"extraction" = "Extraktion";
 
 /* No comment provided by engineer. */
 "extraction failed" = "Extraktion fehlgeschlagen";
@@ -389,7 +389,7 @@
 "Level" = "Level";
 
 /* No comment provided by engineer. */
-"Loading" = "Laden";
+"Loading" = "Wird geladen";
 
 /* "Made with" part from "Made with love by aone". */
 "Made with" = "Hergestellt mit";
@@ -452,7 +452,7 @@
 "Password for \"%@\"" = "Passwort für \"%@\"";
 
 /* No comment provided by engineer. */
-"Password needed" = "Passwort erforderlich";
+"Password needed" = "Passwort benötigt";
 
 /* No comment provided by engineer. */
 "Password Protected" = "Passwortgeschützt";
@@ -557,7 +557,7 @@
 "Terabytes" = "Terabytes";
 
 /* No comment provided by engineer. */
-"The %@ of space available in the destination might not be enough for compressing the estimated %@." = "Der verfügbare Platz von %@ im Ziel könnte möglicherweise nicht ausreichen, um die geschätzten %@ zu komprimieren.";
+"The %@ of space available in the destination might not be enough for compressing the estimated %@." = "Der verfügbare Platz von %@ im Ziel könnte möglicherweise nicht ausreichen, um die geschätzten %@ zu Komprimierung.";
 
 /* No comment provided by engineer. */
 "The changes could not be saved" = "Die Änderungen konnten nicht gespeichert werden";

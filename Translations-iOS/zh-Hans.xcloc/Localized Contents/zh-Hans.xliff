@@ -294,7 +294,7 @@
       </trans-unit>
       <trans-unit id="Zstandard Tarball Archive" xml:space="preserve">
         <source>Zstandard Tarball Archive</source>
-        <target>Zstd 压缩 TAR 归档</target>
+        <target>Zstd 压缩归档</target>
         <note/>
       </trans-unit>
     </body>
@@ -913,12 +913,12 @@
       </trans-unit>
       <trans-unit id="Move compressed file(s) to Trash after extraction" xml:space="preserve">
         <source>Move compressed file(s) to Trash after extraction</source>
-        <target>解压后将压缩文件移动到垃圾桶</target>
+        <target>解压后将压缩文件移动到回收站</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Move original file(s) to Trash after compression" xml:space="preserve">
         <source>Move original file(s) to Trash after compression</source>
-        <target>压缩后将原始文件移动到垃圾桶</target>
+        <target>压缩后将原始文件移动到回收站</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Name" xml:space="preserve">
@@ -1330,7 +1330,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="VERIFY_SECTION_TITLE" xml:space="preserve">
         <source>Verifying</source>
-        <target>正在验证</target>
+        <target>验证</target>
         <note>Verifying, tasks section title.</note>
       </trans-unit>
       <trans-unit id="Verify compression integrity" xml:space="preserve">
@@ -1340,7 +1340,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="Verify…" xml:space="preserve">
         <source>Verify…</source>
-        <target>验证…</target>
+        <target>验证中…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Volume Size" xml:space="preserve">
