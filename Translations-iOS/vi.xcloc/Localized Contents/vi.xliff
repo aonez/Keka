@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="Keka/en.lproj/AppShortcuts.strings" datatype="plaintext" source-language="en" target-language="vi">
+  <file original="Keka/en.lproj/AppShortcuts.strings" source-language="en" target-language="vi" datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
     </header>
     <body>
       <trans-unit id="Compress Files with ${applicationName}" xml:space="preserve">
         <source>Compress Files with ${applicationName}</source>
+        <target>Nén tệp bằng ${applicationName}</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Extract Files with ${applicationName}" xml:space="preserve">
         <source>Extract Files with ${applicationName}</source>
+        <target>Giải nén tệp bằng ${applicationName}</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
