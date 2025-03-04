@@ -248,8 +248,8 @@
 "Can't enable the extension" = "Не могу включить расширение";
 "In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nPlease update your Keka Helper version to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." = "В macOS 15 нет простого или автоматического способа включить расширение для Finder.\n\nПожалуйста, обновите Keka Helper, чтобы автоматически включать и выключать расширение для Finder. Также вы можете выполнить несколько шагов в Терминале, чтобы включить его вручную.";
 "In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nYou can install the Keka Helper to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." = "В macOS 15 нет простого или автоматического способа включить расширение для Finder.\n\nВы можете установить Keka Helper, чтобы автоматически включать и выключать расширение для Finder. Также вы можете выполнить несколько шагов в Терминале, чтобы включить его вручную.";
-"Show password" = "Show password";
-"Hide password" = "Hide password";
+"Show password" = "Показать пароль";
+"Hide password" = "Скрыть пароль";
 
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "Настройки…";
