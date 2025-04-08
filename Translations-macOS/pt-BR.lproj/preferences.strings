@@ -1,4 +1,4 @@
-
+﻿
 /* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
 "159.title" = "Formato padrão:";
 
@@ -165,7 +165,7 @@
 "DAr-Td-s5W.title" = "Você pode definir este limite em dois ou três, já que, mesmo ao usar threads múltiplos, extrações usam menos energia. Note que o disco de destino pode ficar sobrecarregado.";
 
 /* Class = "NSButtonCell"; title = "Use resizable windows"; ObjectID = "DCA-p1-1uq"; */
-"DCA-p1-1uq.title" = "Use resizable windows";
+"DCA-p1-1uq.title" = "Usar janelas redimensionáveis";
 
 /* Class = "NSButtonCell"; title = "Ask before quitting with operations"; ObjectID = "DJT-wB-bCM"; */
 "DJT-wB-bCM.title" = "Perguntar antes de encerrar com operações";
@@ -183,7 +183,7 @@
 "Ei5-Ya-HGI.title" = "Usar nome personalizado ao comprimir vários arquivos";
 
 /* Class = "NSButtonCell"; title = "Activate Keka when starting a new operation"; ObjectID = "FMT-Gs-iEi"; */
-"FMT-Gs-iEi.title" = "Activate Keka when starting a new operation";
+"FMT-Gs-iEi.title" = "Ativar o Keka ao iniciar nova operação";
 
 /* Class = "NSTextFieldCell"; title = "Tasks priority (QoS):"; ObjectID = "G1T-Qd-OZi"; */
 "G1T-Qd-OZi.title" = "Prioridade das tarefas (QoS):";
@@ -234,7 +234,7 @@
 "Rgr-FP-Kua.title" = "Senha padrão:";
 
 /* Class = "NSButtonCell"; title = "Silently ignore extra trailing data"; ObjectID = "Rwo-pm-Y6t"; */
-"Rwo-pm-Y6t.title" = "Silently ignore extra trailing data";
+"Rwo-pm-Y6t.title" = "Ignorar silenciosamente os dados finais extras";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "Ativar integração com a Central de Notificações";
@@ -360,7 +360,7 @@
 "u2R-2w-aOA.title" = "Usar senha padrão em novas compressões";
 
 /* Class = "NSTextFieldCell"; title = "You can also use this password from the Finder Extension's menu."; ObjectID = "vWb-gb-JBD"; */
-"vWb-gb-JBD.title" = "Você também pode usar esta senha a partir do menu de Extensão do Finder.";
+"vWb-gb-JBD.title" = "Você também pode usar esta senha a partir do menu da Extensão do Finder.";
 
 /* Class = "NSTextFieldCell"; title = "The Finder Extension needs to be enabled in the  System Preferences, Extensions configuration."; ObjectID = "wgz-2S-eXI"; */
 "wgz-2S-eXI.title" = "A Extensão do Finder precisa ser ativada no painel Extensões das Preferências do Sistema.";
