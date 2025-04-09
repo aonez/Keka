@@ -416,7 +416,7 @@
       </trans-unit>
       <trans-unit id="About a week" xml:space="preserve">
         <source>About a week</source>
-        <target>約一周</target>
+        <target>約一週</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="About a year" xml:space="preserve">
