@@ -1,0 +1,80 @@
+
+/* Usually leave this one in English */
+"NSHumanReadableCopyright" = "Copyright © 2009-2025 aONe";
+
+/* Spotlight keywords */
+"MDItemKeywords" = "Stiskanje, dekompresija, ekstrakcija, arhiviranje, razarhiviranje, razširitev, šifriranje, dešifriranje, arhivi, datoteke";
+
+/* Access request descriptions */
+"NSDesktopFolderUsageDescription" = "Keka requires Desktop access to work with it's files.";
+"NSDocumentsFolderUsageDescription" = "Keka requires Documents access to work with it's files.";
+"NSDownloadsFolderUsageDescription" = "Keka requires Downloads access to work with it's files.";
+"NSNetworkVolumesUsageDescription" = "Keka requires Network volumes access to work with it's files.";
+"NSRemovableVolumesUsageDescription" = "Keka requires removable volumes access to work with it's files.";
+
+/* File types */
+"7Z Archive" = "7Z Archive";
+"LZMA Archive" = "LZMA Archive";
+"LZOP Archive" = "LZOP Archive";
+"LZOP Tarball Archive" = "LZOP Tarball Archive";
+"LZIP Archive" = "LZIP Archive";
+"LZIP Tarball Archive" = "LZIP Tarball Archive";
+"LZ4 Archive" = "LZ4 Archive";
+"LZ4 Tarball Archive" = "LZ4 Tarball Archive";
+"ZIP Archive" = "ZIP Archive";
+"ZIPX Archive" = "ZIPX Archive";
+"XZ Archive" = "XZ Archive";
+"XZ Tarball Archive" = "XZ Tarball Archive";
+"Brotli Archive" = "Brotli Archive";
+"Brotli Tarball Archive" = "Brotli Tarball Archive";
+"Zstandard Archive" = "Zstandard Archive";
+"Zstandard Tarball Archive" = "Zstandard Tarball Archive";
+"RAR Archive" = "RAR Archive";
+"RAR Legacy Archive Volume" = "RAR Legacy Archive Volume";
+"Generic Archive Volume" = "Generic Archive Volume";
+"BZIP2 Archive" = "BZIP2 Archive";
+"BZIP2 Tarball Archive" = "BZIP2 Tarball Archive";
+"BZIP Archive" = "BZIP Archive";
+"BZIP Tarball Archive" = "BZIP Tarball Archive";
+"GZIP Archive" = "GZIP Archive";
+"GZIP Tarball Archive" = "GZIP Tarball Archive";
+"TAR Archive" = "TAR Archive";
+"LRZIP Archive" = "LRZIP Archive";
+"LRZIP Tarball Archive" = "LRZIP Tarball Archive";
+"CPIO Archive" = "CPIO Archive";
+"CPGZ Archive" = "CPGZ Archive";
+"PAX Archive" = "PAX Archive";
+"DMG Disk Image" = "DMG Disk Image";
+"ISO Disk Image" = "ISO Disk Image";
+"LHA Archive" = "LHA Archive";
+"Windows EXE File" = "Windows EXE File";
+"Windows Cabinet File" = "Windows Cabinet File";
+"Windows Installer Package" = "Windows Installer Package";
+"WIM Disk Image" = "WIM Disk Image";
+"Comic Book RAR Archive" = "Comic Book RAR Archive";
+"Comic Book ZIP Archive" = "Comic Book ZIP Archive";
+"Commodore Amiga MOD Archive" = "Commodore Amiga MOD Archive";
+"iOS App" = "iOS App";
+"JAR Archive" = "JAR Archive";
+"WAR Archive" = "WAR Archive";
+"Compact Pro Archive" = "Compact Pro Archive";
+"Synology Package Archive" = "Synology Package Archive";
+"Android Application Package" = "Android Application Package";
+"Cross-Platform Installer Module (XPI)" = "Cross-Platform Installer Module (XPI)";
+"APPX Archive" = "APPX Archive";
+"Safari extension" = "Safari extension";
+"ACE Archive" = "ACE Archive";
+"XIP Secure Archive" = "XIP Secure Archive";
+"Electronic Book" = "Electronic Book";
+"Apple Archive" = "Apple Archive";
+"Apple Encrypted Archive" = "Apple Encrypted Archive";
+"Squashfs Filesystem Archive" = "Squashfs Filesystem Archive";
+"WordPress All-in-One Backup" = "WordPress All-in-One Backup";
+"InstallShield 3 Archive" = "InstallShield 3 Archive";
+"Snappy Archive" = "Snappy Archive";
+"Snappy Tarball Archive" = "Snappy Tarball Archive";
+"Apple iWork Archive" = "Apple iWork Archive";
+"Delta Controller Skin" = "Delta Controller Skin";
+"Zipped Web Archive Collection" = "Zipped Web Archive Collection";
+"Keka Extraction Package" = "Keka Extraction Package";
+"Data" = "Data";
