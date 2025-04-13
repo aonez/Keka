@@ -6,154 +6,154 @@
 "160.title" = "Privzeta metoda:";
 
 /* Class = "NSMenuItem"; title = "No compression"; ObjectID = "164"; */
-"164.title" = "No compression";
+"164.title" = "Brez stiskanja";
 
 /* Class = "NSMenuItem"; title = "Fast, less compression"; ObjectID = "165"; */
-"165.title" = "Fast, less compression";
+"165.title" = "Hitro, manjše stiskanje";
 
 /* Class = "NSMenuItem"; title = "Normal"; ObjectID = "166"; */
-"166.title" = "Normal";
+"166.title" = "Normalno";
 
 /* Class = "NSMenuItem"; title = "Fastest, less compression"; ObjectID = "167"; */
-"167.title" = "Fastest, less compression";
+"167.title" = "Najhitrejše, manjše stiskanje";
 
 /* Class = "NSMenuItem"; title = "Slowest, more compression"; ObjectID = "168"; */
-"168.title" = "Slowest, more compression";
+"168.title" = "Najpočasnejša, večje stiskanje";
 
 /* Class = "NSMenuItem"; title = "Slow, more compression"; ObjectID = "169"; */
-"169.title" = "Slow, more compression";
+"169.title" = "Počasi, večje stiskanje";
 
 /* Class = "NSButtonCell"; title = "Set Keka as the default uncompressor"; ObjectID = "184"; */
-"184.title" = "Set Keka as the default uncompressor";
+"184.title" = "Nastavite Keka kot privzeti dekompresor";
 
 /* Class = "NSButtonCell"; title = "Close Keka when no windows are open"; ObjectID = "187"; */
-"187.title" = "Close Keka when no windows are open";
+"187.title" = "Zapri Keka, ko ni odprto nobeno okno";
 
 /* Class = "NSMenuItem"; title = "Always extract"; ObjectID = "197"; */
-"197.title" = "Always extract";
+"197.title" = "Vedno razširi";
 
 /* Class = "NSMenuItem"; title = "Always compress"; ObjectID = "198"; */
-"198.title" = "Always compress";
+"198.title" = "Vedno stisni";
 
 /* Class = "NSMenuItem"; title = "Perform automatic action"; ObjectID = "199"; */
-"199.title" = "Perform automatic action";
+"199.title" = "Izvedite samodejno dejanje";
 
 /* Class = "NSButtonCell"; title = "Move original file(s) to Trash after compression"; ObjectID = "262"; */
-"262.title" = "Move original file(s) to Trash after compression";
+"262.title" = "Premaknite izvirne datoteke v koš po stiskanju";
 
 /* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "263"; */
-"263.title" = "Archive items separately";
+"263.title" = "Predmete arhivirajte ločeno";
 
 /* Class = "NSButtonCell"; title = "Show file in Finder after compression"; ObjectID = "264"; */
-"264.title" = "Show file in Finder after compression";
+"264.title" = "Pokaži datoteko v Finderju po stiskanju";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "265"; */
-"265.title" = "Exclude Mac resource forks (eg: .DS_Store)";
+"265.title" = "Izključi vire Mac (npr.: .DS_Store)";
 
 /* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "279"; */
-"279.title" = "Ask each time";
+"279.title" = "Vsakič vprašaj";
 
 /* Class = "NSMenuItem"; title = "Next to original file"; ObjectID = "280"; */
-"280.title" = "Next to original file";
+"280.title" = "Poleg originalne datoteke";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "281"; */
-"281.title" = "Custom folder...";
+"281.title" = "Poljubna mapa...";
 
 /* Class = "NSTextFieldCell"; title = "Save to location:"; ObjectID = "282"; */
-"282.title" = "Save to location:";
+"282.title" = "Shrani v lokacijo:";
 
 /* Class = "NSTextFieldCell"; title = "Name of new files:"; ObjectID = "283"; */
-"283.title" = "Name of new files:";
+"283.title" = "Ime novih datotek:";
 
 /* Class = "NSMenuItem"; title = "Same as original file"; ObjectID = "286"; */
-"286.title" = "Same as original file";
+"286.title" = "Enako kot originalna datoteka";
 
 /* Class = "NSMenuItem"; title = "Custom name..."; ObjectID = "287"; */
-"287.title" = "Custom name...";
+"287.title" = "Poljubno ime...";
 
 /* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "357"; */
-"357.title" = "Ask each time";
+"357.title" = "Vprašaj vsakič";
 
 /* Class = "NSMenuItem"; title = "Next to original file"; ObjectID = "358"; */
-"358.title" = "Next to original file";
+"358.title" = "Poleg originalne datoteke";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "359"; */
-"359.title" = "Custom folder...";
+"359.title" = "Poljubna mapa...";
 
 /* Class = "NSTextFieldCell"; title = "Extract to location:"; ObjectID = "360"; */
-"360.title" = "Extract to location:";
+"360.title" = "Razširi v lokacijo:";
 
 /* Class = "NSButtonCell"; title = "Show content in Finder after extraction"; ObjectID = "361"; */
-"361.title" = "Show content in Finder after extraction";
+"361.title" = "Prikaži vsebino v Finderju po razširitvi";
 
 /* Class = "NSButtonCell"; title = "Move compressed file(s) to Trash after extraction"; ObjectID = "362"; */
-"362.title" = "Move compressed file(s) to Trash after extraction";
+"362.title" = "Premaknite stisnjene datoteke v koš po razširitvi";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "418"; */
-"418.title" = "None";
+"418.title" = "Noben";
 
 /* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "419"; */
-"419.title" = "Default compression";
+"419.title" = "Privzeto stiskanje";
 
 /* Class = "NSMenuItem"; title = "Default extraction"; ObjectID = "432"; */
-"432.title" = "Default extraction";
+"432.title" = "Privzeto razširjanje";
 
 /* Class = "NSTextFieldCell"; title = "Play a sound after an extraction:"; ObjectID = "433"; */
-"433.title" = "Play a sound after an extraction:";
+"433.title" = "Predvajaj zvok po razširitvi:";
 
 /* Class = "NSTextFieldCell"; title = "Play a sound after a compression:"; ObjectID = "436"; */
-"436.title" = "Play a sound after a compression:";
+"436.title" = "Predvajaj zvok po stiskanju:";
 
 /* Class = "NSMenuItem"; title = "Default extraction"; ObjectID = "439"; */
-"439.title" = "Default extraction";
+"439.title" = "Privzeto razširjanje";
 
 /* Class = "NSMenuItem"; title = "Default compression"; ObjectID = "452"; */
-"452.title" = "Default compression";
+"452.title" = "Privzeto stiskanje";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "453"; */
-"453.title" = "None";
+"453.title" = "Noben";
 
 /* Class = "NSButtonCell"; title = "Show compress contents of folder items"; ObjectID = "0Am-9a-jtM"; */
-"0Am-9a-jtM.title" = "Show compress contents of folder items";
+"0Am-9a-jtM.title" = "Pokaži stisnjeno vsebino elementov mape";
 
 /* Class = "NSButtonCell"; title = "Rename the recognized extension from the subfolder"; ObjectID = "1TK-Zy-623"; */
-"1TK-Zy-623.title" = "Rename the recognized extension from the subfolder";
+"1TK-Zy-623.title" = "Preimenujte prepoznano razširitev iz podmape";
 
 /* Class = "NSButtonCell"; title = "Use custom tasks counter in the Dock"; ObjectID = "3cf-gN-q24"; */
-"3cf-gN-q24.title" = "Use custom tasks counter in the Dock";
+"3cf-gN-q24.title" = "Uporabite števec opravil po meri v Docku";
 
 /* Class = "NSButtonCell"; title = "Show icon in primary item"; ObjectID = "47Y-rt-2fG"; */
-"47Y-rt-2fG.title" = "Show icon in primary item";
+"47Y-rt-2fG.title" = "Prikaži ikono v primarnem elementu";
 
 /* Class = "NSTextFieldCell"; title = "You can also customize the access below:"; ObjectID = "5B7-Sc-wp0"; */
-"5B7-Sc-wp0.title" = "You can also customize the access below:";
+"5B7-Sc-wp0.title" = "Dostop lahko prilagodite tudi spodaj:";
 
 /* Class = "NSButtonCell"; title = "Automatically check for updates"; ObjectID = "63y-ct-DNM"; */
-"63y-ct-DNM.title" = "Automatically check for updates";
+"63y-ct-DNM.title" = "Samodejno preveri za posodobitve";
 
 /* Class = "NSMenuItem"; title = "Desktop"; ObjectID = "67Z-kB-INb"; */
-"67Z-kB-INb.title" = "Desktop";
+"67Z-kB-INb.title" = "Namizje";
 
 /* Class = "NSButtonCell"; title = "Nest actions in a submenu"; ObjectID = "6bh-6N-5PP"; */
-"6bh-6N-5PP.title" = "Nest actions in a submenu";
+"6bh-6N-5PP.title" = "Ugnezdite dejanja v podmeniju";
 
 /* Class = "NSMenuItem"; title = "Always"; ObjectID = "8AZ-Vv-Lv1"; */
-"8AZ-Vv-Lv1.title" = "Always";
+"8AZ-Vv-Lv1.title" = "Vedno";
 
 /* Class = "NSTextFieldCell"; title = "You can use these placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n%pb% will be replaced with the clipboard string\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
-"8JN-Ub-qkc.title" = "You can use these placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n%pb% will be replaced with the clipboard string\n\nThe replacements will be empty in some cases.";
+"8JN-Ub-qkc.title" = "Uporabite lahko te nadomestne oznake:\n\n%n bo nadomeščen z imenom datoteke\n%e bo nadomeščen s pripono datoteke\n%p bo nadomeščen z nadrejeno mapo\n%c bo nadomeščen s številom datotek\n%d bo nadomeščen s trenutnim datumom\n%t bo nadomeščen s trenutnim časom\n%s bo nadomeščen z imenom v skupni rabi\n%i% bo nadomeščen s prvim elementom ime\n%ia% bo zamenjano s prvim razvrščenim imenom\n%pb% bo zamenjano z nizom odložišča\n\nZamenjave bodo v nekaterih primerih prazne.";
 
 /* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "8Uc-pg-EyS"; */
-"8Uc-pg-EyS.title" = "Use unified toolbar (resets customizations)";
+"8Uc-pg-EyS.title" = "Uporabi enotno orodno vrstico (ponastavi prilagoditve)";
 
 /* Class = "NSTextFieldCell"; title = "Fallback folder:"; ObjectID = "9dE-yV-N3K"; */
-"9dE-yV-N3K.title" = "Fallback folder:";
+"9dE-yV-N3K.title" = "Nadomestna mapa:";
 
 /* Class = "NSButtonCell"; title = "Use the default password on new advanced windows"; ObjectID = "9ul-2H-k9o"; */
-"9ul-2H-k9o.title" = "Use the default password on new advanced windows";
+"9ul-2H-k9o.title" = "V novih naprednih oknih uporabite privzeto geslo";
 
 /* Class = "NSButtonCell"; title = "Show encrypt with default password items"; ObjectID = "AU8-I0-71W"; */
-"AU8-I0-71W.title" = "Show encrypt with default password items";
+"AU8-I0-71W.title" = "Pokaži šifriranje s privzetimi elementi gesla";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "CWc-wN-FhI"; */
 "CWc-wN-FhI.title" = "Custom folder...";
