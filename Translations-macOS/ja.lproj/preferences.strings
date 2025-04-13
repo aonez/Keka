@@ -165,7 +165,7 @@
 "DAr-Td-s5W.title" = "抽出の方が消費電力が少ないので、複数のスレッドを使用していても、制限を2つや3つにするのは簡単です。ただしターゲットディスクには影響があります。";
 
 /* Class = "NSButtonCell"; title = "Use resizable windows"; ObjectID = "DCA-p1-1uq"; */
-"DCA-p1-1uq.title" = "Use resizable windows";
+"DCA-p1-1uq.title" = "リサイズ可能なウインドウを使用する";
 
 /* Class = "NSButtonCell"; title = "Ask before quitting with operations"; ObjectID = "DJT-wB-bCM"; */
 "DJT-wB-bCM.title" = "操作を終了する前に聞く";
@@ -234,7 +234,7 @@
 "Rgr-FP-Kua.title" = "デフォルトのパスワード:";
 
 /* Class = "NSButtonCell"; title = "Silently ignore extra trailing data"; ObjectID = "Rwo-pm-Y6t"; */
-"Rwo-pm-Y6t.title" = "Silently ignore extra trailing data";
+"Rwo-pm-Y6t.title" = "余分な末尾データを無視する";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "通知センターの統合を有効にする";
