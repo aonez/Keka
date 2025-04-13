@@ -401,10 +401,10 @@
 "Modified" = "変更日";
 
 /* No comment provided by engineer. */
-"Move compressed file(s) to Trash after extraction" = "Move compressed file(s) to Trash after extraction"; // THIS IS NOT LOCALIZED
+"Move compressed file(s) to Trash after extraction" = "展開後、圧縮ファイルをゴミ箱に移動する";
 
 /* No comment provided by engineer. */
-"Move original file(s) to Trash after compression" = "Move original file(s) to Trash after compression"; // THIS IS NOT LOCALIZED
+"Move original file(s) to Trash after compression" = "圧縮後、元のファイルをゴミ箱に移動する";
 
 /* No comment provided by engineer. */
 "Name" = "名称";
@@ -644,7 +644,7 @@
 "Use UTF-8 Encoding if Available" = "可能であれば UTF-8 エンコーディングを使用する";
 
 /* No comment provided by engineer. */
-"verification failed" = "verification failed"; // THIS IS NOT LOCALIZED
+"verification failed" = "検証に失敗しました";
 
 /* No comment provided by engineer. */
 "Verify compression integrity" = "圧縮の完全性を検証する";
@@ -659,10 +659,10 @@
 "VERIFY_SECTION_TITLE" = "検証";
 
 /* No comment provided by engineer. */
-"verifyed" = "verifyed"; // THIS IS NOT LOCALIZED
+"verifyed" = "検証完了";
 
 /* No comment provided by engineer. */
-"Verify…" = "Verify…"; // THIS IS NOT LOCALIZED
+"Verify…" = "検証中…";
 
 /* No comment provided by engineer. */
 "Volume Size" = "ボリューム容量";
