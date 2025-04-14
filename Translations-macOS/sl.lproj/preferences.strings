@@ -156,226 +156,226 @@
 "AU8-I0-71W.title" = "Pokaži šifriranje s privzetimi elementi gesla";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "CWc-wN-FhI"; */
-"CWc-wN-FhI.title" = "Custom folder...";
+"CWc-wN-FhI.title" = "Poljubna mapa...";
 
 /* Class = "NSMenuItem"; title = "Lowest"; ObjectID = "Cz9-7i-oHp"; */
-"Cz9-7i-oHp.title" = "Lowest";
+"Cz9-7i-oHp.title" = "Najnižja";
 
 /* Class = "NSTextFieldCell"; title = "Extractions use less power so even using multiple thread you can easily set this limit to two or three. Note that the target disk may suffer."; ObjectID = "DAr-Td-s5W"; */
-"DAr-Td-s5W.title" = "Extractions use less power so even using multiple threads you can easily set this limit to two or three. Note that the target disk may suffer.";
+"DAr-Td-s5W.title" = "Razširjanje porabi manj energije, tako da lahko tudi z uporabo več niti to omejitev enostavno nastavite na dve ali tri. Upoštevajte, da lahko ciljni disk trpi.";
 
 /* Class = "NSButtonCell"; title = "Use resizable windows"; ObjectID = "DCA-p1-1uq"; */
-"DCA-p1-1uq.title" = "Use resizable windows";
+"DCA-p1-1uq.title" = "Uporabite okna, ki jih je mogoče spreminjati";
 
 /* Class = "NSButtonCell"; title = "Ask before quitting with operations"; ObjectID = "DJT-wB-bCM"; */
-"DJT-wB-bCM.title" = "Ask before quitting with operations";
+"DJT-wB-bCM.title" = "Vprašajte, preden prenehate z operacijami";
 
 /* Class = "NSButtonCell"; title = "Enable home folder access"; ObjectID = "DL5-wY-cqc"; */
-"DL5-wY-cqc.title" = "Enable home folder access";
+"DL5-wY-cqc.title" = "Omogoči dostop do domače mape";
 
 /* Class = "NSTextFieldCell"; title = "Default action:"; ObjectID = "EJQ-OL-pMF"; */
-"EJQ-OL-pMF.title" = "Default action:";
+"EJQ-OL-pMF.title" = "Privzeta akcija:";
 
 /* Class = "NSMenuItem"; title = "Always"; ObjectID = "EOi-2B-eBv"; */
-"EOi-2B-eBv.title" = "Always";
+"EOi-2B-eBv.title" = "Vedno";
 
 /* Class = "NSButtonCell"; title = "Use custom name when compressing multiple files"; ObjectID = "Ei5-Ya-HGI"; */
-"Ei5-Ya-HGI.title" = "Use custom name when compressing multiple files";
+"Ei5-Ya-HGI.title" = "Pri stiskanju več datotek uporabite ime po meri";
 
 /* Class = "NSButtonCell"; title = "Activate Keka when starting a new operation"; ObjectID = "FMT-Gs-iEi"; */
-"FMT-Gs-iEi.title" = "Activate Keka when starting a new operation";
+"FMT-Gs-iEi.title" = "Aktivirajte Keka, ko začnete z novo operacijo";
 
 /* Class = "NSTextFieldCell"; title = "Tasks priority (QoS):"; ObjectID = "G1T-Qd-OZi"; */
-"G1T-Qd-OZi.title" = "Tasks priority (QoS):";
+"G1T-Qd-OZi.title" = "Prioriteta nalog (QoS):";
 
 /* Class = "NSButtonCell"; title = "Always use the lowest priority when running on battery"; ObjectID = "GJB-94-NHl"; */
-"GJB-94-NHl.title" = "Always use the lowest priority when running on battery";
+"GJB-94-NHl.title" = "Pri delovanju na baterijo vedno uporabite najnižjo prioriteto";
 
 /* Class = "NSTextFieldCell"; title = "It is recommended to only do one compression at a time if using multiple threads."; ObjectID = "Hkf-wB-gUj"; */
-"Hkf-wB-gUj.title" = "It is recommended to only do one compression at a time if using multiple threads.";
+"Hkf-wB-gUj.title" = "Če uporabljate več niti, je priporočljivo izvajati le eno stiskanje naenkrat.";
 
 /* Class = "NSTextFieldCell"; title = "Those are only applied when Keka is not open"; ObjectID = "Hx2-S1-j7m"; */
-"Hx2-S1-j7m.title" = "Those are only applied when Keka is not open.";
+"Hx2-S1-j7m.title" = "Uporabljajo se le, ko Keka ni odprta.";
 
 /* Class = "NSMenuItem"; title = "Never"; ObjectID = "I93-7A-iSn"; */
-"I93-7A-iSn.title" = "Never";
+"I93-7A-iSn.title" = "Nikoli";
 
 /* Class = "NSButtonCell"; title = "Enable full Mac access (Recommended)"; ObjectID = "IHj-ac-103"; */
-"IHj-ac-103.title" = "Enable full Mac access (Recommended)";
+"IHj-ac-103.title" = "Omogoči polni dostop za Mac (priporočeno)";
 
 /* Class = "NSButtonCell"; title = "Verify compression integrity"; ObjectID = "IL6-a6-uik"; */
-"IL6-a6-uik.title" = "Verify compression integrity";
+"IL6-a6-uik.title" = "Preverite celovitost stiskanja";
 
 /* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive."; ObjectID = "JxT-Nq-8Z5"; */
-"JxT-Nq-8Z5.title" = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive.";
+"JxT-Nq-8Z5.title" = "Omogočite dostop do zunanjih nosilcev, tako da lahko Keka uporabljate z vašimi zunanjimi diski, kot je pogon USB ali Thunderbolt.";
 
 /* Class = "NSTextFieldCell"; title = "Lower priority results in longer times. The lowest priority on Apple Silicon equipped Macs will only use \"Efficiency\" cores, resulting in longer but more energy efficient tasks.\nAlready running tasks priority will not be modified."; ObjectID = "Jyq-vC-L5r"; */
-"Jyq-vC-L5r.title" = "Lower priority results in longer times. The lowest priority on Apple Silicon equipped Macs will only use \"Efficiency\" cores, resulting in longer but more energy efficient tasks.\nAlready running tasks priority will not be modified.";
+"Jyq-vC-L5r.title" = "Nižja prioriteta ima za posledico daljši čas. Najnižja prioriteta v računalnikih Mac, opremljenih z Apple Silicon, bo uporabljala samo jedra \"Efficiency\", kar ima za posledico daljša, a energetsko učinkovitejša opravila.\nPrioriteta opravil, ki se že izvajajo, ne bo spremenjena.";
 
 /* Class = "NSTextFieldCell"; title = "Queue compression operations:"; ObjectID = "K5h-j5-bss"; */
-"K5h-j5-bss.title" = "Queue compression operations:";
+"K5h-j5-bss.title" = "Operacije stiskanja v čakalni vrsti:";
 
 /* Class = "NSButtonCell"; title = "Inherit quarantine from downloaded files"; ObjectID = "KDR-ag-bll"; */
-"KDR-ag-bll.title" = "Inherit quarantine from downloaded files";
+"KDR-ag-bll.title" = "Podeduj karanteno iz prenesenih datotek";
 
 /* Class = "NSButtonCell"; title = "Show in external volumes"; ObjectID = "KOF-7X-bQo"; */
-"KOF-7X-bQo.title" = "Show in external volumes";
+"KOF-7X-bQo.title" = "Pokaži v zunanjih medijih";
 
 /* Class = "NSTextFieldCell"; title = "Limit the number of threads per operation:"; ObjectID = "ND5-DN-C1H"; */
-"ND5-DN-C1H.title" = "Limit the number of threads per operation:";
+"ND5-DN-C1H.title" = "Omejite število niti na operacijo:";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "NwI-O4-9NI"; */
-"NwI-O4-9NI.title" = "Exclude Mac resource forks (eg: .DS_Store)";
+"NwI-O4-9NI.title" = "Izključi vire Mac (eg: .DS_Store)";
 
 /* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder."; ObjectID = "PD2-iW-BGK"; */
-"PD2-iW-BGK.title" = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder.";
+"PD2-iW-BGK.title" = "Omogočite domači dostop, da bo Keko mogoče uporabljati v vseh vaših uporabniških datotekah, na primer v mapi Namizje ali Prenosi.";
 
 /* Class = "NSTextFieldCell"; title = "Default password:"; ObjectID = "Rgr-FP-Kua"; */
-"Rgr-FP-Kua.title" = "Default password:";
+"Rgr-FP-Kua.title" = "Privzeto geslo:";
 
 /* Class = "NSButtonCell"; title = "Silently ignore extra trailing data"; ObjectID = "Rwo-pm-Y6t"; */
-"Rwo-pm-Y6t.title" = "Silently ignore extra trailing data";
+"Rwo-pm-Y6t.title" = "Tiho prezrite dodatne končne podatke";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
-"SOL-6U-5P9.title" = "Enable Notification Center integration";
+"SOL-6U-5P9.title" = "Omogoči integracijo centra za obvestila";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "TLc-Nk-Bps"; */
-"TLc-Nk-Bps.placeholderString" = "Here your custom name";
+"TLc-Nk-Bps.placeholderString" = "Tukaj je vaše poljubno ime";
 
 /* Class = "NSButtonCell"; title = "Always ask for a password when compressing"; ObjectID = "TZN-PU-t5N"; */
-"TZN-PU-t5N.title" = "Always ask for a password when compressing";
+"TZN-PU-t5N.title" = "Pri stiskanju vedno zahtevajte geslo";
 
 /* Class = "NSMenuItem"; title = "Lower"; ObjectID = "Vss-gS-NkP"; */
-"Vss-gS-NkP.title" = "Lower";
+"Vss-gS-NkP.title" = "Nižja";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Here your custom name"; ObjectID = "WCN-jH-W9J"; */
-"WCN-jH-W9J.placeholderString" = "Here your custom name";
+"WCN-jH-W9J.placeholderString" = "Tukaj je vaše poljubno ime";
 
 /* Class = "NSButtonCell"; title = "Remove bad password header structure extractions"; ObjectID = "Wd0-yz-M1h"; */
-"Wd0-yz-M1h.title" = "Remove bad password header structure extractions";
+"Wd0-yz-M1h.title" = "Odstranite izvlečke strukture glave s slabim geslom";
 
 /* Class = "NSMenuItem"; title = "Automatic"; ObjectID = "XOB-JO-UQT"; */
-"XOB-JO-UQT.title" = "Automatic";
+"XOB-JO-UQT.title" = "Avtomatsko";
 
 /* Class = "NSMenuItem"; title = "Highest"; ObjectID = "Xl7-AN-Kgw"; */
-"Xl7-AN-Kgw.title" = "Highest";
+"Xl7-AN-Kgw.title" = "Najvišja";
 
 /* Class = "NSTextFieldCell"; title = "Enable full Mac access so Keka can be used on all your Mac."; ObjectID = "ZOx-vr-5o7"; */
-"ZOx-vr-5o7.title" = "Enable full Mac access so Keka can be used on all your Mac.";
+"ZOx-vr-5o7.title" = "Omogočite polni dostop za Mac, tako da lahko Keko uporabljate na vseh svojih Macih.";
 
 /* Class = "NSButtonCell"; title = "Create self-extracting archives for Windows if possible"; ObjectID = "Zfm-hU-OMZ"; */
-"Zfm-hU-OMZ.title" = "Create self-extracting archives for Windows if possible";
+"Zfm-hU-OMZ.title" = "Če je mogoče, ustvarite samorazpakirne arhive za Windows";
 
 /* Class = "NSMenuItem"; title = "High"; ObjectID = "ZiK-jD-TLq"; */
-"ZiK-jD-TLq.title" = "High";
+"ZiK-jD-TLq.title" = "Visoko";
 
 /* Class = "NSButtonCell"; title = "Use \"Open with Keka\" as the primary item action"; ObjectID = "a5e-FP-sDv"; */
-"a5e-FP-sDv.title" = "Use \"Open with Keka\" as the primary item action";
+"a5e-FP-sDv.title" = "Uporabite \"Odpri s Keko\" kot primarno dejanje predmeta";
 
 /* Class = "NSButtonCell"; title = "Show the password"; ObjectID = "aOv-6b-JlO"; */
-"aOv-6b-JlO.title" = "Show the password";
+"aOv-6b-JlO.title" = "Prikaži geslo";
 
 /* Class = "NSButtonCell"; title = "Use parent folder name when compressing multiple files"; ObjectID = "cDs-NB-2os"; */
-"cDs-NB-2os.title" = "Use parent folder name when compressing multiple files";
+"cDs-NB-2os.title" = "Pri stiskanju več datotek uporabite ime nadrejene mape";
 
 /* Class = "NSTextFieldCell"; title = "The fallback folder will be used when Keka can't work in the selected folder."; ObjectID = "caX-B6-61f"; */
-"caX-B6-61f.title" = "The fallback folder will be used when Keka can't work in the selected folder.";
+"caX-B6-61f.title" = "Nadomestna mapa bo uporabljena, ko Keka ne bo morala delati v izbrani mapi.";
 
 /* Class = "NSButtonCell"; title = "Maximum threads per operation:"; ObjectID = "cb7-h4-ScP"; */
-"cb7-h4-ScP.title" = "Maximum threads per operation:";
+"cb7-h4-ScP.title" = "Največje število niti na operacijo:";
 
 /* Class = "NSButtonCell"; title = "Use short tarball extensions (eg: .tgz instead of .tar.gz)"; ObjectID = "cfd-8g-kiU"; */
-"cfd-8g-kiU.title" = "Use short tarball extensions (eg: .tgz instead of .tar.gz)";
+"cfd-8g-kiU.title" = "Uporabite kratke razširitve tarball (npr.: .tgz namesto .tar.gz)";
 
 /* Class = "NSButtonCell"; title = "Checking the extension status"; ObjectID = "chn-AV-kXZ"; */
-"chn-AV-kXZ.title" = "Checking the extension status";
+"chn-AV-kXZ.title" = "Preverjanje statusa razširitve";
 
 /* Class = "NSButtonCell"; title = "Use squish face when working"; ObjectID = "dOj-2Z-1kb"; */
-"dOj-2Z-1kb.title" = "Use squish face when working";
+"dOj-2Z-1kb.title" = "Pri delu uporabljajte zmečkani obraz";
 
 /* Class = "NSTextFieldCell"; title = "Compressing multiple files:"; ObjectID = "dhi-qv-weg"; */
-"dhi-qv-weg.title" = "Compressing multiple files:";
+"dhi-qv-weg.title" = "Stiskanje večih datotek:";
 
 /* Class = "NSMenuItem"; title = "Only if configuration windows are open"; ObjectID = "dmz-xh-p9a"; */
-"dmz-xh-p9a.title" = "Only if configuration windows are open";
+"dmz-xh-p9a.title" = "Samo, če so odprta konfiguracijska okna";
 
 /* Class = "NSButtonCell"; title = "Set folder's modification date to extraction date"; ObjectID = "eBj-1b-wBg"; */
-"eBj-1b-wBg.title" = "Set folder's modification date to extraction date";
+"eBj-1b-wBg.title" = "Nastavite datum spremembe mape na datum razširitve";
 
 /* Class = "NSButtonCell"; title = "Always tarball non-archiving formats (like GZ or BZIP2) "; ObjectID = "faa-9Y-Axk"; */
-"faa-9Y-Axk.title" = "Always tarball non-archiving formats (like GZ or BZIP2) ";
+"faa-9Y-Axk.title" = "Vedno v formatu brez arhiviranja za tarball (na primer GZ ali BZIP2)";
 
 /* Class = "NSTextFieldCell"; title = "Queue extraction operations:"; ObjectID = "fhN-DK-edu"; */
-"fhN-DK-edu.title" = "Queue extraction operations:";
+"fhN-DK-edu.title" = "Operacije razširitve v čakalni vrsti:";
 
 /* Class = "NSTextFieldCell"; title = "Compressing a single file:"; ObjectID = "hLS-Ut-4fh"; */
-"hLS-Ut-4fh.title" = "Compressing a single file:";
+"hLS-Ut-4fh.title" = "Stiskanje ene datoteke:";
 
 /* Class = "NSButtonCell"; title = "Use AES-256 when encrypting ZIP files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
-"hp7-jO-HeV.title" = "Use AES-256 when encrypting ZIP files (less compatible)";
+"hp7-jO-HeV.title" = "Uporabite AES-256 pri šifriranju datotek ZIP (manj združljivo)";
 
 /* Class = "NSTextFieldCell"; title = "You can customize where to show the contextual menu below:"; ObjectID = "izC-0G-lvl"; */
-"izC-0G-lvl.title" = "You can customize where to show the contextual menu below:";
+"izC-0G-lvl.title" = "Spodaj lahko prilagodite, kje želite prikazati kontekstni meni:";
 
 /* Class = "NSMenuItem"; title = "Default"; ObjectID = "mfK-Rj-HLz"; */
-"mfK-Rj-HLz.title" = "Default";
+"mfK-Rj-HLz.title" = "Privzeto";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous operations:"; ObjectID = "o8J-bR-bs6"; */
-"o8J-bR-bs6.title" = "Maximum simultaneous operations:";
+"o8J-bR-bs6.title" = "Največje število sočasnih operacij:";
 
 /* Class = "NSTextFieldCell"; title = "Queue operations:"; ObjectID = "otI-Pt-BTh"; */
-"otI-Pt-BTh.title" = "Queue operations:";
+"otI-Pt-BTh.title" = "Čakalna vrsta operacij:";
 
 /* Class = "NSTextFieldCell"; title = "Keep source extension:"; ObjectID = "p5F-63-ubE"; */
-"p5F-63-ubE.title" = "Keep source extension:";
+"p5F-63-ubE.title" = "Ohrani izvorno razširitev:";
 
 /* Class = "NSButtonCell"; title = "Always extract in a subfolder"; ObjectID = "pXT-7y-9af"; */
-"pXT-7y-9af.title" = "Always extract in a subfolder";
+"pXT-7y-9af.title" = "Vedno razširi v podmapo";
 
 /* Class = "NSButtonCell"; title = "Differentiate between active and total tasks in the Dock"; ObjectID = "qrX-WU-mLd"; */
-"qrX-WU-mLd.title" = "Differentiate between active and total tasks in the Dock";
+"qrX-WU-mLd.title" = "Razlikujte med aktivnimi in skupnimi opravili v Docku";
 
 /* Class = "NSButtonCell"; title = "Show Keka actions in Finder's contextual menu"; ObjectID = "rP2-XR-ZQt"; */
-"rP2-XR-ZQt.title" = "Show Keka actions in Finder's contextual menu";
+"rP2-XR-ZQt.title" = "Prikaži dejanja Keka v kontekstualnem meniju Finderja";
 
 /* Class = "NSTextFieldCell"; title = "Show an icon in the Dock:"; ObjectID = "rra-p2-67m"; */
-"rra-p2-67m.title" = "Show an icon in the Dock:";
+"rra-p2-67m.title" = "Pokaži ikono v vrstici Dock:";
 
 /* Class = "NSButtonCell"; title = "Show icons in actions"; ObjectID = "s9u-2a-b8X"; */
-"s9u-2a-b8X.title" = "Show icons in actions";
+"s9u-2a-b8X.title" = "Pokaži ikone v opravilih";
 
 /* Class = "NSMenuItem"; title = "Always extract compatible formats"; ObjectID = "sD5-uM-Wpa"; */
-"sD5-uM-Wpa.title" = "Always extract compatible formats";
+"sD5-uM-Wpa.title" = "Vedno razširjajte združljive formate";
 
 /* Class = "NSButtonCell"; title = "Enable external volumes access"; ObjectID = "sgV-AD-k4Q"; */
-"sgV-AD-k4Q.title" = "Enable external volumes access";
+"sgV-AD-k4Q.title" = "Omogoči dostop do zunanjih medijev";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous compressions:"; ObjectID = "sjA-7B-5U6"; */
-"sjA-7B-5U6.title" = "Maximum simultaneous compressions:";
+"sjA-7B-5U6.title" = "Največje hkratne stiskanje:";
 
 /* Class = "NSMenuItem"; title = "Never, when possible"; ObjectID = "tEH-O0-NxO"; */
-"tEH-O0-NxO.title" = "Never, when possible";
+"tEH-O0-NxO.title" = "Nikoli, ko je mogoče";
 
 /* Class = "NSButtonCell"; title = "Use the default password on new compressions"; ObjectID = "u2R-2w-aOA"; */
-"u2R-2w-aOA.title" = "Use the default password on new compressions";
+"u2R-2w-aOA.title" = "Pri novih stiskanjih uporabite privzeto geslo";
 
 /* Class = "NSTextFieldCell"; title = "You can also use this password from the Finder Extension's menu."; ObjectID = "vWb-gb-JBD"; */
-"vWb-gb-JBD.title" = "You can also use this password from the Finder Extension's menu.";
+"vWb-gb-JBD.title" = "To geslo lahko uporabite tudi v meniju razširitve Finder.";
 
 /* Class = "NSTextFieldCell"; title = "The Finder Extension needs to be enabled in the  System Preferences, Extensions configuration."; ObjectID = "wgz-2S-eXI"; */
-"wgz-2S-eXI.title" = "The Finder Extension needs to be enabled in the  System Preferences, Extensions configuration.";
+"wgz-2S-eXI.title" = "Razširitev Finder mora biti omogočena v  System Preferences, Extensions configuration.";
 
 /* Class = "NSTextFieldCell"; title = "Most operations use multiple threads. That means faster operations but also more power consumption and heat."; ObjectID = "xyb-eH-aiy"; */
-"xyb-eH-aiy.title" = "Most operations use multiple threads. That means faster operations but also more power consumption and heat.";
+"xyb-eH-aiy.title" = "Večina operacij uporablja več niti. To pomeni hitrejše delovanje, a tudi večjo porabo energije in toplote.";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous extractions:"; ObjectID = "yGo-Gm-0zq"; */
-"yGo-Gm-0zq.title" = "Maximum simultaneous extractions:";
+"yGo-Gm-0zq.title" = "Največje število sočasnih razširitev:";
 
 /* Class = "NSTextFieldCell"; title = "Queuing usually results in faster operations and a more responsive behaviour."; ObjectID = "zPq-ei-qUb"; */
-"zPq-ei-qUb.title" = "Queuing usually results in faster operations and a more responsive behaviour.";
+"zPq-ei-qUb.title" = "Čakalna vrsta običajno povzroči hitrejše operacije in bolj odzivno vedenje.";
 
 /* Class = "NSButtonCell"; title = "Try the default password when extracting any file"; ObjectID = "zRi-PC-AW9"; */
-"zRi-PC-AW9.title" = "Try the default password when extracting any file";
+"zRi-PC-AW9.title" = "Poskusite privzeto geslo, ko razširjajte katero koli datoteko";
 
 /* Class = "NSButtonCell"; title = "Automatically install new updates"; ObjectID = "zTa-p3-fHX"; */
-"zTa-p3-fHX.title" = "Automatically install new updates";
+"zTa-p3-fHX.title" = "Samodejno namestite nove posodobitve";
