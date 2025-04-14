@@ -1,0 +1,19 @@
+
+/*
+//
+// This file is for Little Snitch's IAP: https://r.keka.io/IAP
+// Currently Little Snitch is only translated in English and German, so will not use any other localizations.
+//
+// If you're translating other than English or German, you can dismiss this file or translate it in case they
+// add some more languages in the future.
+//
+*/
+
+/* Top-level, general application description: */
+"ApplicationDescription" = "Keka je arhivar datotek za macOS.";
+
+/* Software update connection: */
+"SoftwareUpdatePurpose" = "Keka preverja nove različice, ki se povezujejo na u(pdate).keka.io.";
+"SoftwareUpdateDenyConsequences" = "Če to povezavo zavrnete, ne boste obveščeni o novih različicah Keka.";
+"SoftwareUpdateGithubPurpose" = "Keka prenese nove različice iz svojega skladišča na github.com/aonez/Keka";
+"SoftwareUpdateGithubDenyConsequences" = "Če zavrnete to povezavo, ne boste mogli prenesti novih različic Keka.";

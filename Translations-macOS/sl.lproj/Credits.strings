@@ -1,0 +1,16 @@
+
+"_PROJECTTITLE_" = "Keka project";
+"_PROGRAMMER_" = "Programer, oblikovalec &amp; vzdrževalec";
+"_ARTWORK_" = "Oblikovalec artwroka";
+"_TRANSLATIONS_" = "Prevodi";
+"_TRANSLATIONSOLD_" = "Prevodi (od 0.1 do 0.1.4.3)";
+"_TESTERS_" = "Občasni testerji";
+"_DONATIONS_" = "Donacije (razvrščene po datumu)";
+"_OPENSOURCE_" = "Keka uporablja odprtokodno kodo";
+"_FREEWARE_" = "Keka uporablja brezplačne binarne datoteke";
+"_ONEMORETHING_" = "Še nekaj";
+"_THANKS_" = "Hvala za uporabo Keke!";
+"_SOURCE_" = "Izvorna koda Keka 1.0 ne bo javna zaradi nekaterih pravnih težav. Potrebna je pravna podpora, če lahko pomagate projektu, se obrnite na info@keka.io ali stran Projekt na uradni spletni strani Keka. Vsaka pomoč je dobrodošla.";
+"_WARRANTY_" = "IMETNIKI AVTORSKIH PRAVIC IN SODELUJOČI PONUJAJO TO PROGRAMSKO OPREMO \"TAKŠNO, KOT JE\" IN VSE IZRECNE ALI NAZNAČENE GARANCIJE, VKLJUČNO, VENDAR NE OMEJENO NA, NAZNAČENE GARANCIJE ZA PRODAJO IN PRIMERNOST ZA DOLOČEN NAMEN ZAVRNJENO. IMETNIK AVTORSKIH PRAVIC ALI SODELUJOČI V NOBENEM PRIMERU NISO ODGOVORNI ZA NEPOSREDNO, POSREDNO, NAKLJUČNO, POSEBNO, EKSEMPLARNO ALI POSLEDIČNO ŠKODO (VKLJUČNO, VENDAR NE OMEJENO NA NABAVO NADOMESTNEGA BLAGA ALI STORITEV); IZGUBA UPORABE, PODATKOV ALI DOBIČKA; ALI PREKINITEV POSLOVANJA), NE glede na to, KI JE POVZROČENA KAKRŠNA KOLI TEORIJA ODGOVORNOSTI, BODISI V POGODBI, STROGA ODGOVORNOSTI (VKLJUČNO Z MALOMARNOSTJO ALI DRUGAČEM), KI NASTANE NA KAKRŠEN KOLI NAČIN IZ UPORABE TE PROGRAMSKE OPREME, TUDI ČE JE OBVEŠČEN O MOŽNOSTI TAKŠNE ŠKODE.";
+"_THANKSTOALL_" = "Hvala vsem donatorjem in vsem, ki ste Keka kupili v trgovini App Store.<br />Hvala za vse povratne informacije in občasne prispevke.<br />Hvala Igorju Pavlovu za tako odlično odprtokodno aplikacijo in 'myspace' za prenos na POSIX.<br /><br />Vsi ohranjate projekt Keka pri življenju in ga spodbujate k razvoju.";
+"_APPEARDONATION_" = "Če ste prispevali in se želite pojaviti tukaj, me samo <a href=\"mailto:info@keka.io?subject=Keka donation credits\">obvestite</a> :)";
