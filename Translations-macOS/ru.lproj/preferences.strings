@@ -54,13 +54,13 @@
 "279.title" = "Спрашивать каждый раз";
 
 /* Class = "NSMenuItem"; title = "Next to original file"; ObjectID = "280"; */
-"280.title" = "В папку с исходным файлом";
+"280.title" = "Папка с исходным файлом";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "281"; */
 "281.title" = "Выбрать папку...";
 
 /* Class = "NSTextFieldCell"; title = "Save to location:"; ObjectID = "282"; */
-"282.title" = "Сохранять новые файлы:";
+"282.title" = "Место по умолчанию:";
 
 /* Class = "NSTextFieldCell"; title = "Name of new files:"; ObjectID = "283"; */
 "283.title" = "Называть новые файлы:";
@@ -75,13 +75,13 @@
 "357.title" = "Спрашивать каждый раз";
 
 /* Class = "NSMenuItem"; title = "Next to original file"; ObjectID = "358"; */
-"358.title" = "В папку с исходным файлом";
+"358.title" = "Папка с исходным файлом";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "359"; */
 "359.title" = "Выбрать папку...";
 
 /* Class = "NSTextFieldCell"; title = "Extract to location:"; ObjectID = "360"; */
-"360.title" = "Распаковывать файлы:";
+"360.title" = "Место по умолчанию:";
 
 /* Class = "NSButtonCell"; title = "Show content in Finder after extraction"; ObjectID = "361"; */
 "361.title" = "Показывать содержимое в Finder после распаковки";
