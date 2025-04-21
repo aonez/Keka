@@ -57,7 +57,7 @@
 "280.title" = "Папка с исходным файлом";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "281"; */
-"281.title" = "Выбрать папку...";
+"281.title" = "Выбрать папку…";
 
 /* Class = "NSTextFieldCell"; title = "Save to location:"; ObjectID = "282"; */
 "282.title" = "Место по умолчанию:";
@@ -69,7 +69,7 @@
 "286.title" = "Так же как исходный файл";
 
 /* Class = "NSMenuItem"; title = "Custom name..."; ObjectID = "287"; */
-"287.title" = "Указать имя...";
+"287.title" = "Указать имя…";
 
 /* Class = "NSMenuItem"; title = "Ask each time"; ObjectID = "357"; */
 "357.title" = "Спрашивать каждый раз";
@@ -78,7 +78,7 @@
 "358.title" = "Папка с исходным файлом";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "359"; */
-"359.title" = "Выбрать папку...";
+"359.title" = "Выбрать папку…";
 
 /* Class = "NSTextFieldCell"; title = "Extract to location:"; ObjectID = "360"; */
 "360.title" = "Место по умолчанию:";
@@ -114,7 +114,7 @@
 "453.title" = "Без звука";
 
 /* Class = "NSButtonCell"; title = "Show compress contents of folder items"; ObjectID = "0Am-9a-jtM"; */
-"0Am-9a-jtM.title" = "Команды «Сжать содержимое папки...»";
+"0Am-9a-jtM.title" = "Команды «Сжать содержимое папки…»";
 
 /* Class = "NSButtonCell"; title = "Rename the recognized extension from the subfolder"; ObjectID = "1TK-Zy-623"; */
 "1TK-Zy-623.title" = "Переименовать распознанное расширение из вложенной папки";
@@ -153,10 +153,10 @@
 "9ul-2H-k9o.title" = "Использовать пароль по умолчанию в новых расширенных окнах";
 
 /* Class = "NSButtonCell"; title = "Show encrypt with default password items"; ObjectID = "AU8-I0-71W"; */
-"AU8-I0-71W.title" = "Команды «Зашифровать паролем по умолчанию...»";
+"AU8-I0-71W.title" = "Команды «Зашифровать паролем по умолчанию…»";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "CWc-wN-FhI"; */
-"CWc-wN-FhI.title" = "Выбрать папку...";
+"CWc-wN-FhI.title" = "Выбрать папку…";
 
 /* Class = "NSMenuItem"; title = "Lowest"; ObjectID = "Cz9-7i-oHp"; */
 "Cz9-7i-oHp.title" = "Самый низкий";
