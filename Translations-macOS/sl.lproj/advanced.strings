@@ -1,93 +1,93 @@
-﻿
+
 /* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "2221"; */
-"2221.title" = "Пофайловое сжатие";
+"2221.title" = "Predmete arhivirajte ločeno";
 
 /* Class = "NSButtonCell"; title = "Delete file(s) after compression"; ObjectID = "2222"; */
-"2222.title" = "Удалять файлы после сжатия";
+"2222.title" = "Izbrišite datoteko(e) po stiskanju";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks"; ObjectID = "2244"; */
-"2244.title" = "Исключать ветви ресурсов Mac";
+"2244.title" = "Izključite vire za Mac";
 
 /* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "2262"; */
-"2262.title" = "Пароль:";
+"2262.title" = "Geslo:";
 
 /* Class = "NSTextFieldCell"; title = "Split:"; ObjectID = "2270"; */
-"2270.title" = "Разбивать на тома:";
+"2270.title" = "Deli:";
 
 /* Class = "NSComboBoxCell"; placeholderString = "Example: 5 MB"; ObjectID = "2271"; */
-"2271.placeholderString" = "Пример: 5 МБ";
+"2271.placeholderString" = "Primer: 5 MB";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[0] = "1.4 MB Floppy disk"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[0]" = "1,4 МБ — дискета";
+"2271.ibShadowedObjectValues[0]" = "1.4 MB Disketa";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[1] = "650 MB CD"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[1]" = "650 МБ — CD";
+"2271.ibShadowedObjectValues[1]" = "650 MB CD";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[2] = "700 MB CD"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[2]" = "700 МБ — CD";
+"2271.ibShadowedObjectValues[2]" = "700 MB CD";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[3] = "4.7 GB DVD"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[3]" = "4,7 ГБ — DVD";
+"2271.ibShadowedObjectValues[3]" = "4.7 GB DVD";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[4] = "8.5 GB DVD (DL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[4]" = "8,5 ГБ — DVD (DL)";
+"2271.ibShadowedObjectValues[4]" = "8.5 GB DVD (DL)";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[5] = "7.8 GB Mini Blu-ray (SL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[5]" = "7,8 ГБ — Mini Blu-ray (SL)";
+"2271.ibShadowedObjectValues[5]" = "7.8 GB Mini Blu-ray (SL)";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[6] = "15.6 GB Mini Blu-ray (DL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[6]" = "15,6 ГБ — Mini Blu-ray (DL)";
+"2271.ibShadowedObjectValues[6]" = "15.6 GB Mini Blu-ray (DL)";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[7] = "25 GB Blu-ray (SL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[7]" = "25 ГБ — Blu-ray (SL)";
+"2271.ibShadowedObjectValues[7]" = "25 GB Blu-ray (SL)";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[8] = "50 GB Blu-ray (DL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[8]" = "50 ГБ — Blu-ray (DL)";
+"2271.ibShadowedObjectValues[8]" = "50 GB Blu-ray (DL)";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[9] = "100 GB Blu-ray XL (TL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[9]" = "100 ГБ — Blu-ray XL (TL)";
+"2271.ibShadowedObjectValues[9]" = "100 GB Blu-ray XL (TL)";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[10] = "128 GB Blu-ray XL (QL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[10]" = "128 ГБ — Blu-ray XL (QL)";
+"2271.ibShadowedObjectValues[10]" = "128 GB Blu-ray XL (QL)";
 
 /* Class = "NSTextFieldCell"; title = "Volume name:"; ObjectID = "2343"; */
-"2343.title" = "Имя образа:";
+"2343.title" = "Ime nosilca:";
 
 /* Class = "NSTextFieldCell"; placeholderString = "custom name"; ObjectID = "2354"; */
-"2354.placeholderString" = "укажите имя";
+"2354.placeholderString" = "ime po meri";
 
 /* Class = "NSTextFieldCell"; title = "You can create an ISO volume that will be read-only and compressed. ISO volumes can be only created from a folder.\n\nSet a volume name to this ISO or use the default name based on the files you compress."; ObjectID = "2363"; */
-"2363.title" = "Вы можете создать ISO-образ диска со сжатием, доступный только для чтения. ISO-образы могут быть созданы только из папок.\n\nУкажите имя для этого ISO-образа, либо используйте имя по умолчанию на основе сжимаемых файлов.";
+"2363.title" = "Ustvarite lahko nosilec ISO, ki bo samo za branje in stisnjen. Nosilce ISO je mogoče ustvariti samo iz mape.\n\nNastavite ime nosilca na ta ISO ali uporabite privzeto ime glede na datoteke, ki jih stisnete.";
 
 /* Class = "NSTextFieldCell"; title = "Store"; ObjectID = "2390"; */
-"2390.title" = "Без сжатия";
+"2390.title" = "Store";
 
 /* Class = "NSTextFieldCell"; title = "Fast"; ObjectID = "2392"; */
-"2392.title" = "Быстрый";
+"2392.title" = "Hitro";
 
 /* Class = "NSTextFieldCell"; title = "Slow"; ObjectID = "2394"; */
-"2394.title" = "Медленный";
+"2394.title" = "Počasno";
 
 /* Class = "NSTextFieldCell"; title = "Normal"; ObjectID = "2398"; */
-"2398.title" = "Обычный";
+"2398.title" = "Normalno";
 
 /* Class = "NSTextFieldCell"; title = "Repeat:"; ObjectID = "2426"; */
-"2426.title" = "Еще раз:";
+"2426.title" = "Ponovitve:";
 
 /* Class = "NSButtonCell"; title = "Self-extracting archive for Windows"; ObjectID = "Itb-5A-JW7"; */
-"Itb-5A-JW7.title" = "Самораспаковывающийся архив для Windows";
+"Itb-5A-JW7.title" = "Samorazširitveni arhiv za Windows";
 
 /* Class = "NSButtonCell"; title = "Encrypt filenames"; ObjectID = "L2I-Q8-zqc"; */
-"L2I-Q8-zqc.title" = "Шифровать имена файлов";
+"L2I-Q8-zqc.title" = "Šifrirajte imena datotek";
 
 /* Class = "NSButtonCell"; title = "Use AES-256 encryption"; ObjectID = "Lw7-h9-3Qh"; */
-"Lw7-h9-3Qh.title" = "Использовать шифрование AES-256";
+"Lw7-h9-3Qh.title" = "Uporabite šifriranje AES-256";
 
 /* Class = "NSButtonCell"; title = "Solid archive"; ObjectID = "UYy-aQ-V1a"; */
-"UYy-aQ-V1a.title" = "Непрерывный архив";
+"UYy-aQ-V1a.title" = "Solid arhiv";
 
 /* Class = "NSTextFieldCell"; title = "Format:"; ObjectID = "dDw-7W-5ff"; */
-"dDw-7W-5ff.title" = "Формат:";
+"dDw-7W-5ff.title" = "Format:";
 
 /* Class = "NSButtonCell"; title = "Verify compression integrity"; ObjectID = "gqN-A9-jPb"; */
-"gqN-A9-jPb.title" = "Проверять целостность содержимого в архиве";
+"gqN-A9-jPb.title" = "Preverite celovitost stiskanja";
