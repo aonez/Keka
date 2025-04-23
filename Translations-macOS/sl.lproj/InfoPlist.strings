@@ -1,0 +1,80 @@
+
+/* Usually leave this one in English */
+"NSHumanReadableCopyright" = "Copyright © 2009-2025 aONe";
+
+/* Spotlight keywords */
+"MDItemKeywords" = "Stiskanje, dekompresija, ekstrakcija, arhiviranje, razarhiviranje, razširitev, šifriranje, dešifriranje, arhivi, datoteke";
+
+/* Access request descriptions */
+"NSDesktopFolderUsageDescription" = "Keka za delo z vašimi datotekami potrebuje dostop do namizja.";
+"NSDocumentsFolderUsageDescription" = "Keka za delo z vašimi datotekami potrebuje dostop do dokumentov.";
+"NSDownloadsFolderUsageDescription" = "Keka za delo z vašimi datotekami potrebuje dostop do prenosov.";
+"NSNetworkVolumesUsageDescription" = "Keka za delo z vašimi datotekami potrebuje dostop do omrežnih nosilcev.";
+"NSRemovableVolumesUsageDescription" = "Keka za delo z vašimi datotekami potrebuje dostop do izmenljivih nosilcev.";
+
+/* File types */
+"7Z Archive" = "7Z Arhiv";
+"LZMA Archive" = "LZMA Arhiv";
+"LZOP Archive" = "LZOP Arhiv";
+"LZOP Tarball Archive" = "LZOP Tarball Arhiv";
+"LZIP Archive" = "LZIP Arhiv";
+"LZIP Tarball Archive" = "LZIP Tarball Arhiv";
+"LZ4 Archive" = "LZ4 Arhiv";
+"LZ4 Tarball Archive" = "LZ4 Tarball Arhiv";
+"ZIP Archive" = "ZIP Arhiv";
+"ZIPX Archive" = "ZIPX Arhiv";
+"XZ Archive" = "XZ Arhiv";
+"XZ Tarball Archive" = "XZ Tarball Arhiv";
+"Brotli Archive" = "Brotli Arhiv";
+"Brotli Tarball Archive" = "Brotli Tarball Arhiv";
+"Zstandard Archive" = "Zstandard Arhiv";
+"Zstandard Tarball Archive" = "Zstandard Tarball Arhiv";
+"RAR Archive" = "RAR Arhiv";
+"RAR Legacy Archive Volume" = "RAR Legacy arhivski volumen";
+"Generic Archive Volume" = "Splošni arhivski volumen";
+"BZIP2 Archive" = "BZIP2 Arhiv";
+"BZIP2 Tarball Archive" = "BZIP2 Tarball Arhiv";
+"BZIP Archive" = "BZIP Arhiv";
+"BZIP Tarball Archive" = "BZIP Tarball Arhiv";
+"GZIP Archive" = "GZIP Arhiv";
+"GZIP Tarball Archive" = "GZIP Tarball Arhiv";
+"TAR Archive" = "TAR Arhiv";
+"LRZIP Archive" = "LRZIP Arhiv";
+"LRZIP Tarball Archive" = "LRZIP Tarball Arhiv";
+"CPIO Archive" = "CPIO Arhiv";
+"CPGZ Archive" = "CPGZ Arhiv";
+"PAX Archive" = "PAX Arhiv";
+"DMG Disk Image" = "DMG Slika";
+"ISO Disk Image" = "ISO Slika";
+"LHA Archive" = "LHA Arhiv";
+"Windows EXE File" = "Windows EXE datoteka";
+"Windows Cabinet File" = "Datoteka omarice Windows";
+"Windows Installer Package" = "Namestitveni paket Windows";
+"WIM Disk Image" = "WIM Slika";
+"Comic Book RAR Archive" = "Arhiv RAR stripa";
+"Comic Book ZIP Archive" = "Arhiv ZIP stripa";
+"Commodore Amiga MOD Archive" = "Commodore Amiga MOD Arhiv";
+"iOS App" = "iOS Aplikacija";
+"JAR Archive" = "JAR Arhiv";
+"WAR Archive" = "WAR Arhiv";
+"Compact Pro Archive" = "Compact Pro Arhiv";
+"Synology Package Archive" = "Arhiv paketov Synology";
+"Android Application Package" = "Paket aplikacij za Android";
+"Cross-Platform Installer Module (XPI)" = "Namestitveni modul za več platform (XPI)";
+"APPX Archive" = "APPX Arhiv";
+"Safari extension" = "Safari vtički";
+"ACE Archive" = "ACE Arhiv";
+"XIP Secure Archive" = "XIP Secure Arhiv";
+"Electronic Book" = "Elektronska knjiga";
+"Apple Archive" = "Apple Arhiv";
+"Apple Encrypted Archive" = "Apple šifriran arhiv";
+"Squashfs Filesystem Archive" = "Arhiv datotečnega sistema Squashfs";
+"WordPress All-in-One Backup" = "Varnostno kopiranje WordPress vse v enem";
+"InstallShield 3 Archive" = "InstallShield 3 Arhiv";
+"Snappy Archive" = "Snappy Arhiv";
+"Snappy Tarball Archive" = "Snappy Tarball Arhiv";
+"Apple iWork Archive" = "Apple iWork Arhiv";
+"Delta Controller Skin" = "Preobleka Delta Controller";
+"Zipped Web Archive Collection" = "Zbirka stisnjenega spletnega arhiva";
+"Keka Extraction Package" = "Paket za razširitev Keka";
+"Data" = "Podatki";
