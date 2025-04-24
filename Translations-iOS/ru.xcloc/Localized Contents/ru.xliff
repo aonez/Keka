@@ -1168,12 +1168,12 @@
       </trans-unit>
       <trans-unit id="TRANSLATOR_LINK" xml:space="preserve">
         <source>TRANSLATOR_LINK</source>
-        <target/>https://github.com/nitrodox</target>
+        <target>https://github.com/nitrodox</target>
         <note>The translator link, if any. Can be a mail address or a website.</note>
       </trans-unit>
       <trans-unit id="TRANSLATOR_NAME" xml:space="preserve">
         <source>TRANSLATOR_NAME</source>
-        <target/>Alexey Ladygin</target>
+        <target>Alexey Ladygin</target>
         <note>The translator name, if any.</note>
       </trans-unit>
       <trans-unit id="Terabytes" xml:space="preserve">

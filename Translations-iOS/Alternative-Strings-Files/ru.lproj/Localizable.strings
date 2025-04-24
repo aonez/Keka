@@ -1,50 +1,50 @@
 /* No comment provided by engineer. */
-"%@ item" = "%@ элемент";
+"%@ item" = "%@ объект";
 
 /* No comment provided by engineer. */
-"%@ items" = "%@ элементов";
+"%@ items" = "%@ объект.";
 
 /* _OPERATION_ of "_FILENAME_" failed */
 "%@ of \"%@\" failed" = "%@ для \"%@\" не удалось";
 
 /* No comment provided by engineer. */
-"%@ of %@ item" = "%@ из %@ элемента";
+"%@ of %@ item" = "%@ из %@ объект.";
 
 /* No comment provided by engineer. */
-"%@ of %@ items" = "%@ из %@ элементов";
+"%@ of %@ items" = "%@ из %@ объект.";
 
 /* No comment provided by engineer. */
-"%lld items" = "%lld элементов";
+"%lld items" = "%lld объект.";
 
 /* No comment provided by engineer. */
-"%lld seconds" = "%lld секунд";
+"%lld seconds" = "%lld с";
 
 /* No comment provided by engineer. */
-"%lld:%@ minutes" = "%lld:%@ минут";
+"%lld:%@ minutes" = "%lld:%@ мин";
 
 /* No comment provided by engineer. */
-"%lld:%@:%@ hours" = "%lld:%@:%@ часов";
+"%lld:%@:%@ hours" = "%lld:%@:%@ ч";
 
 /* No comment provided by engineer. */
 "About" = "О программе";
 
 /* No comment provided by engineer. */
-"About %lld days" = "Около %lld дней";
+"About %lld days" = "Около %lld дн.";
 
 /* No comment provided by engineer. */
-"About %lld hours" = "Около %lld часов";
+"About %lld hours" = "Около %lld ч";
 
 /* No comment provided by engineer. */
-"About %lld minutes" = "Около %lld минут";
+"About %lld minutes" = "Около %lld мин";
 
 /* No comment provided by engineer. */
-"About %lld months" = "Около %lld месяцев";
+"About %lld months" = "Около %lld мес.";
 
 /* No comment provided by engineer. */
-"About %lld seconds" = "Около %lld секунд";
+"About %lld seconds" = "Около %lld с";
 
 /* No comment provided by engineer. */
-"About %lld weeks" = "Около %lld недель";
+"About %lld weeks" = "Около %lld нед.";
 
 /* No comment provided by engineer. */
 "About %lld years" = "Около %lld лет";
@@ -89,10 +89,10 @@
 "Add files and folders to a compression list" = "Добавьте файлы и папки в список сжатия";
 
 /* No comment provided by engineer. */
-"Add some contents using the %@ button or the %@ button in the toolbar." = "Добавьте содержимое, используя кнопку %@ или кнопку %@ на панели инструментов.";
+"Add some contents using the %@ button or the %@ button in the toolbar." = "Добавьте содержимое, используя кнопку %@ или кнопку %@ в панели инструментов.";
 
 /* No comment provided by engineer. */
-"Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar." = "Добавьте содержимое, используя кнопку %@ или кнопки %@, %@ или %@ на панели инструментов.";
+"Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar." = "Добавьте содержимое, используя кнопку %@ или кнопки %@, %@ или %@ в панели инструментов.";
 
 /* No comment provided by engineer. */
 "Add some contents using the %@ button." = "Добавьте содержимое, используя кнопку %@.";
@@ -101,19 +101,19 @@
 "Advanced Settings" = "Расширенные настройки";
 
 /* No comment provided by engineer. */
-"Allocated size" = "Выделенный размер";
+"Allocated size" = "Размер на диске";
 
 /* No comment provided by engineer. */
 "archive" = "архив";
 
 /* No comment provided by engineer. */
-"Archive items separately" = "Архивировать элементы отдельно";
+"Archive items separately" = "Пофайловое сжатие";
 
 /* Default compression file name. */
 "ARCHIVE_DEFAULT_NAME" = "Архив";
 
 /* No comment provided by engineer. */
-"Ask" = "Спросить";
+"Ask" = "Спрашивать каждый раз";
 
 /* Browse, operation description. */
 "BROWSE_OPERATION" = "Открыть";
@@ -125,16 +125,16 @@
 "BROWSE_SECTION_TITLE" = "Открыть";
 
 /* Browser settings title. */
-"Browser" = "Открыть";
+"Browser" = "Открытие";
 
 /* "by aone" part from "Made with love by aone". */
-"by %@" = "от %@";
+"by %@" = "by %@"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Bytes" = "Байты";
 
 /* No comment provided by engineer. */
-"Calculate" = "Рассчитать";
+"Calculate" = "Вычислить";
 
 /* No comment provided by engineer. */
 "Cancel" = "Отменить";
@@ -164,7 +164,7 @@
 "compress" = "сжать";
 
 /* No comment provided by engineer. */
-"Compress all the items in the compression list" = "Сжать все элементы в списке сжатия";
+"Compress all the items in the compression list" = "Сжать все объекты в списке сжатия";
 
 /* No comment provided by engineer. */
 "Compress Files with Keka" = "Сжать файлы с помощью Keka";
@@ -173,7 +173,7 @@
 "Compress some files with Keka." = "Сжать некоторые файлы с помощью Keka.";
 
 /* No comment provided by engineer. */
-"compressed" = "сжато";
+"compressed" = "сжат";
 
 /* No comment provided by engineer. */
 "Compressed size" = "Сжатый размер";
@@ -197,7 +197,7 @@
 "COMPRESSION_RUNNING" = "Сжатие";
 
 /* Compressing, tasks section title. */
-"COMPRESSION_SECTION_TITLE" = "Сжатие";
+"COMPRESSION_SECTION_TITLE" = "Сжать";
 
 /* No comment provided by engineer. */
 "Contents" = "Содержимое";
@@ -212,7 +212,7 @@
 "Created" = "Создано";
 
 /* No comment provided by engineer. */
-"Custom…" = "Настроить…";
+"Custom…" = "Выбрать папку…";
 
 /* No comment provided by engineer. */
 "Date" = "Дата";
@@ -221,31 +221,31 @@
 "Default Compression Level" = "Уровень сжатия по умолчанию";
 
 /* No comment provided by engineer. */
-"Default Destination" = "Место сохранения по умолчанию";
+"Default Destination" = "Место по умолчанию";
 
 /* No comment provided by engineer. */
 "Default Format" = "Формат по умолчанию";
 
 /* No comment provided by engineer. */
-"Default Tap Action" = "Действие при нажатии по умолчанию";
+"Default Tap Action" = "Действие по умолчанию при выборе объекта внутри архива";
 
 /* No comment provided by engineer. */
-"Default Volume Unit" = "Единица объема по умолчанию";
+"Default Volume Unit" = "Единица по умолчанию при разбивке на тома";
 
 /* No comment provided by engineer. */
 "Delete" = "Удалить";
 
 /* No comment provided by engineer. */
-"Delete files(s) after compression" = "Удалить файл(ы) после сжатия";
+"Delete files(s) after compression" = "Удалять файлы после сжатия";
 
 /* No comment provided by engineer. */
 "Destination" = "Место назначения";
 
 /* No comment provided by engineer. */
-"Disable \"%@\" if you prefer to use a default configuration." = "Отключите \"%@\", если вы предпочитаете использовать конфигурацию по умолчанию.";
+"Disable \"%@\" if you prefer to use a default configuration." = "Отключите, если предпочитаете использовать настройки по умолчанию.";
 
 /* No comment provided by engineer. */
-"Dismiss" = "Отклонить";
+"Dismiss" = "Убрать";
 
 /* No comment provided by engineer. */
 "Document" = "Документ";
@@ -266,58 +266,58 @@
 "Edit" = "Редактировать";
 
 /* No comment provided by engineer. */
-"Encrypt Filenames" = "Зашифровать имена файлов";
+"Encrypt Filenames" = "Шифровать имена файлов";
 
 /* No comment provided by engineer. */
-"Encrypt Filenames if Possible" = "Зашифровать имена файлов, если возможно";
+"Encrypt Filenames if Possible" = "Шифровать имена файлов, если возможно";
 
 /* No comment provided by engineer. */
 "Enter the password for the file\n\"%@\"" = "Введите пароль для файла\n\"%@\"";
 
 /* No comment provided by engineer. */
-"Exclude Mac resource forks" = "Исключить ресурсы Mac";
+"Exclude Mac resource forks" = "Исключить ветви ресурсов Mac";
 
 /* No comment provided by engineer. */
-"Extract" = "Извлечь";
+"Extract" = "Распак.";
 
 /* No comment provided by engineer. */
-"extract" = "извлечь";
+"extract" = "распаковать";
 
 /* No comment provided by engineer. */
-"Extract Files with Keka" = "Извлечь файлы с помощью Keka";
+"Extract Files with Keka" = "Распаковать файлы с помощью Keka";
 
 /* No comment provided by engineer. */
-"Extract some files with Keka." = "Извлечь некоторые файлы с помощью Keka.";
+"Extract some files with Keka." = "Распаковать некоторые файлы с помощью Keka.";
 
 /* No comment provided by engineer. */
-"Extract the file" = "Извлечь файл";
+"Extract the file" = "Распаковать файл";
 
 /* No comment provided by engineer. */
-"extracted" = "извлечено";
+"extracted" = "распакован";
 
 /* Extraction settings title. */
-"Extraction" = "Извлечение";
+"Extraction" = "Распаковка";
 
 /* No comment provided by engineer. */
-"extraction" = "извлечение";
+"extraction" = "распаковка";
 
 /* No comment provided by engineer. */
-"extraction failed" = "извлечение не удалось";
+"extraction failed" = "распаковка не удалась";
 
 /* Extraction, operation description. */
-"EXTRACTION_OPERATION" = "Извлечение";
+"EXTRACTION_OPERATION" = "Распаковка";
 
 /* Extracting, operation running. */
-"EXTRACTION_RUNNING" = "Извлечение";
+"EXTRACTION_RUNNING" = "Распаковка";
 
 /* Extracting, tasks section title. */
-"EXTRACTION_SECTION_TITLE" = "Извлечение";
+"EXTRACTION_SECTION_TITLE" = "Распаковать";
 
 /* No comment provided by engineer. */
 "failed" = "не удалось";
 
 /* No comment provided by engineer. */
-"Fast" = "Быстро";
+"Fast" = "Быстрый";
 
 /* No comment provided by engineer. */
 "Fastest" = "Самый быстрый";
@@ -326,13 +326,13 @@
 "Feedback" = "Обратная связь";
 
 /* No comment provided by engineer. */
-"file" = "file";
+"file" = "файл";
 
 /* No comment provided by engineer. */
 "File for Keka" = "Файл для Keka";
 
 /* No comment provided by engineer. */
-"File not informed properly, try again." = "Файл не указан правильно, попробуйте снова.";
+"File not informed properly, try again." = "Файл передан неправильно, попробуйте снова.";
 
 /* No comment provided by engineer. */
 "Files" = "Файлы";
@@ -353,7 +353,7 @@
 "General" = "Общие";
 
 /* No comment provided by engineer. */
-"Get Info" = "Информация";
+"Get Info" = "Свойства";
 
 /* No comment provided by engineer. */
 "Gigabyte" = "Гигабайт";
@@ -362,13 +362,13 @@
 "Give Access" = "Предоставить доступ";
 
 /* No comment provided by engineer. */
-"Hide Password by Default" = "Скрывать пароль по умолчанию";
+"Hide Password by Default" = "По умолчанию скрывать пароль";
 
 /* No comment provided by engineer. */
 "If you got here, please get in touch with the developers." = "Если вы попали сюда, пожалуйста, свяжитесь с разработчиками.";
 
 /* No comment provided by engineer. */
-"Information" = "Информация";
+"Information" = "Свойства";
 
 /* No comment provided by engineer. */
 "Keka's Folder" = "Папка Keka";
@@ -401,10 +401,10 @@
 "Modified" = "Изменено";
 
 /* No comment provided by engineer. */
-"Move compressed file(s) to Trash after extraction" = "Переместить сжатый(е) файл(ы) в корзину после извлечения";
+"Move compressed file(s) to Trash after extraction" = "Перемещать архивы в корзину после распаковки";
 
 /* No comment provided by engineer. */
-"Move original file(s) to Trash after compression" = "Переместить исходный(е) файл(ы) в корзину после сжатия";
+"Move original file(s) to Trash after compression" = "Перемещать исходные файлы в корзину после сжатия";
 
 /* No comment provided by engineer. */
 "Name" = "Имя";
@@ -419,7 +419,7 @@
 "No contents" = "Нет содержимого";
 
 /* No comment provided by engineer. */
-"No files to extract" = "Нет файлов для извлечения";
+"No files to extract" = "Нет файлов для распаковки";
 
 /* Password field empty placeholder */
 "None" = "Нет";
@@ -428,7 +428,7 @@
 "Normal" = "Обычный";
 
 /* No comment provided by engineer. */
-"Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files." = "Не все платформы поддерживают шифрование AES-256. Вам может понадобиться стороннее приложение (например, Keka) для открытия этих сжатых файлов.";
+"Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files." = "Не все платформы поддерживают шифрование AES-256. Вам может понадобиться стороннее приложение (например, Keka) для открытия таких файлов.";
 
 /* No comment provided by engineer. */
 "OK" = "OK";
@@ -449,7 +449,7 @@
 "Password" = "Пароль";
 
 /* No comment provided by engineer. */
-"Password for \"%@\"" = "Пароль для \"%@\"";
+"Password for \"%@\"" = "Пароль для «%@»";
 
 /* No comment provided by engineer. */
 "Password needed" = "Требуется пароль";
@@ -464,10 +464,10 @@
 "Petabytes" = "Петабайты";
 
 /* No comment provided by engineer. */
-"Please enter the password for:" = "Пожалуйста, введите пароль для:";
+"Please enter the password for:" = "Введите пароль для:";
 
 /* No comment provided by engineer. */
-"Please select the encoding for:" = "Пожалуйста, выберите кодировку для:";
+"Please select the encoding for:" = "Выберите кодировку для:";
 
 /* No comment provided by engineer. */
 "Preparing" = "Подготовка";
@@ -476,22 +476,22 @@
 "Preview" = "Просмотр";
 
 /* No comment provided by engineer. */
-"Quick Look" = "Быстрый просмотр";
+"Quick Look" = "Быстро просмотреть";
 
 /* No comment provided by engineer. */
-"Remember Last Used Options" = "Запомнить последние настройки";
+"Remember Last Used Options" = "Запоминать последние настройки";
 
 /* No comment provided by engineer. */
 "Remove" = "Удалить";
 
 /* No comment provided by engineer. */
-"Remove All Items" = "Удалить все элементы";
+"Remove All Items" = "Удалить все объекты";
 
 /* No comment provided by engineer. */
 "Remove from cache" = "Удалить из кэша";
 
 /* No comment provided by engineer. */
-"Remove the selected items from the compression list" = "Удалить выбранные элементы из списка сжатия";
+"Remove the selected items from the compression list" = "Удалить выбранные объекты из списка сжатия";
 
 /* No comment provided by engineer. */
 "Reset" = "Сбросить";
@@ -536,28 +536,28 @@
 "Show or hide additional advanced settings" = "Показать или скрыть дополнительные расширенные настройки";
 
 /* No comment provided by engineer. */
-"Show or hide additional information about the selected item" = "Показать или скрыть дополнительную информацию о выбранном элементе";
+"Show or hide additional information about the selected item" = "Показать или скрыть дополнительную информацию о выбранном объекте";
 
 /* No comment provided by engineer. */
 "Size" = "Размер";
 
 /* No comment provided by engineer. */
-"Slow" = "Медленно";
+"Slow" = "Медленный";
 
 /* No comment provided by engineer. */
-"Slowest" = "Самое медленное";
+"Slowest" = "Самый медленный";
 
 /* No comment provided by engineer. */
 "Split in volumes" = "Разбить на тома";
 
 /* No comment provided by engineer. */
-"Store" = "Сохранить";
+"Store" = "Без сжатия";
 
 /* No comment provided by engineer. */
 "Terabytes" = "Терабайты";
 
 /* No comment provided by engineer. */
-"The %@ of space available in the destination might not be enough for compressing the estimated %@." = "Доступное место в месте назначения (%@) возможно, не хватит для сжатия оцененного %@.";
+"The %@ of space available in the destination might not be enough for compressing the estimated %@." = "Доступного пространства в указанной папке (%@), возможно, не хватит для сжатия (оценка: %@).";
 
 /* No comment provided by engineer. */
 "The changes could not be saved" = "Изменения не могут быть сохранены";
@@ -572,10 +572,10 @@
 "The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "Для сжатия может потребоваться больше памяти, чем доступно (%@), и оно может завершиться неудачно. Будет ограничено 1 потоком.";
 
 /* No comment provided by engineer. */
-"The compression will be limited to %lld thread/s due to memory constraints." = "Сжатие будет ограничено %lld потоками из-за ограничений памяти.";
+"The compression will be limited to %lld thread/s due to memory constraints." = "Из-за ограничений памяти количество потоков сжатия равно %lld.";
 
 /* No comment provided by engineer. */
-"The destination has %@ of space available." = "В месте назначения доступно %@ места.";
+"The destination has %@ of space available." = "В месте назначения доступно %@.";
 
 /* No comment provided by engineer. */
 "The file manager for iOS and macOS" = "Файловый менеджер для iOS и macOS";
@@ -584,16 +584,16 @@
 "The folder is empty" = "Папка пуста";
 
 /* No comment provided by engineer. */
-"The password length should be %lld or higher." = "Длина пароля должна быть %lld или больше.";
+"The password length should be %lld or higher." = "Длина пароля %lld или больше символов.";
 
 /* No comment provided by engineer. */
-"The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "Чем медленнее уровень, тем больше можно достичь сжатия. Уровень хранения вообще не выполняет сжатие, только архивирует содержимое.";
+"The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "Чем медленнее, тем больше сжатие (и наоборот). Уровень «Без сжатия» только упаковывает содержимое в архив.";
 
 /* No comment provided by engineer. */
 "This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "Для открытия этого тома требуется доступ к дополнительным файлам.\nВы можете предоставить доступ к остальным файлам или к родительской папке.";
 
 /* No comment provided by engineer. */
-"To extract" = "Извлечь";
+"To extract" = "Распаковать";
 
 /* No comment provided by engineer. */
 "To prevent a timeout on large operation, enable this setting. The result will always be true if enabled." = "Чтобы предотвратить тайм-аут при выполнении большой операции, включите эту настройку. Если включено, результат всегда будет положительным.";
@@ -602,19 +602,19 @@
 "Total size" = "Общий размер";
 
 /* No comment provided by engineer. */
-"Translated by %@" = "Переведено %@";
+"Translated by %@" = "Перевод: %@";
 
 /* The translator link, if any. Can be a mail address or a website. */
-"TRANSLATOR_LINK" = "TRANSLATOR_LINK"; // THIS IS NOT LOCALIZED
+"TRANSLATOR_LINK" = "https://github.com/nitrodox";
 
 /* The translator name, if any. */
-"TRANSLATOR_NAME" = "TRANSLATOR_NAME"; // THIS IS NOT LOCALIZED
+"TRANSLATOR_NAME" = "Alexey Ladygin";
 
 /* No comment provided by engineer. */
-"Type" = "Тип";
+"Type" = "Тип содержимого";
 
 /* No comment provided by engineer. */
-"Unable to apply the app icon" = "Не удалось применить значок приложения";
+"Unable to apply the app icon" = "Не удалось изменить значок приложения";
 
 /* No comment provided by engineer. */
 "Unable to browse \"%@\"" = "Не удалось просмотреть \"%@\"";
@@ -623,7 +623,7 @@
 "Unable to delete the file" = "Не удалось удалить файл";
 
 /* No comment provided by engineer. */
-"Unable to determine the available space." = "Не удалось определить доступное место.";
+"Unable to determine the available space." = "Не удалось оценить доступное место.";
 
 /* No comment provided by engineer. */
 "Unable to get encoding data" = "Не удалось получить данные о кодировке";
@@ -635,13 +635,13 @@
 "Use AES-256 Encryption" = "Использовать шифрование AES-256";
 
 /* No comment provided by engineer. */
-"Use AES-256 if Available" = "Использовать AES-256, если доступно";
+"Use AES-256 if Available" = "Использовать шифрование AES-256, если возможно";
 
 /* No comment provided by engineer. */
-"Use special coloring for known formats" = "Использовать специальную окраску для известных форматов";
+"Use special coloring for known formats" = "Цветовой акцент для известных форматов";
 
 /* No comment provided by engineer. */
-"Use UTF-8 Encoding if Available" = "Использовать кодировку UTF-8, если доступно";
+"Use UTF-8 Encoding if Available" = "Использовать кодировку UTF-8, если возможно";
 
 /* No comment provided by engineer. */
 "verification failed" = "проверка не удалась";
@@ -656,10 +656,10 @@
 "VERIFY_RUNNING" = "Проверка выполняется";
 
 /* Verifying, tasks section title. */
-"VERIFY_SECTION_TITLE" = "Проверка";
+"VERIFY_SECTION_TITLE" = "Проверить";
 
 /* No comment provided by engineer. */
-"verifyed" = "проверено";
+"verifyed" = "проверен";
 
 /* No comment provided by engineer. */
 "Verify…" = "Проверить…";

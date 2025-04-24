@@ -245,7 +245,7 @@
 "Recovery Volumes:" = "Volumes de Recuperação:";
 "Encrypt" = "Criptografar";
 "Skip" = "Pular";
-"Can't enable the extension" = ""Não é possível ativar a extensão";
+"Can't enable the extension" = "Não é possível ativar a extensão";
 "In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nPlease update your Keka Helper version to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." = "No macOS 15 não existe uma forma fácil ou automática de ativar a Extensão do Finder.\n\nAtualize a versão do Auxiliar do Keka para ativar e desativar automaticamente a Extensão do Finder. Você também pode seguir alguns passos no Terminal para ativá‑la.";
 "In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nYou can install the Keka Helper to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." = "No macOS 15 não existe uma forma fácil ou automática de ativar a Extensão do Finder.\n\nInstale o Auxiliar do Keka para ativar e desativar automaticamente a Extensão do Finder. Você também pode seguir alguns passos no Terminal para ativá‑la.";
 "Show password" = "Mostrar senha";
