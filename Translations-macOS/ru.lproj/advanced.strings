@@ -3,16 +3,16 @@
 "2221.title" = "Пофайловое сжатие";
 
 /* Class = "NSButtonCell"; title = "Delete file(s) after compression"; ObjectID = "2222"; */
-"2222.title" = "Удалить файл(ы) после сжатия";
+"2222.title" = "Удалять файлы после сжатия";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks"; ObjectID = "2244"; */
-"2244.title" = "Исключить ветви ресурсов Mac";
+"2244.title" = "Исключать ветви ресурсов Mac";
 
 /* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "2262"; */
 "2262.title" = "Пароль:";
 
 /* Class = "NSTextFieldCell"; title = "Split:"; ObjectID = "2270"; */
-"2270.title" = "Разбить на тома:";
+"2270.title" = "Разбивать на тома:";
 
 /* Class = "NSComboBoxCell"; placeholderString = "Example: 5 MB"; ObjectID = "2271"; */
 "2271.placeholderString" = "Пример: 5 МБ";
@@ -60,7 +60,7 @@
 "2363.title" = "Вы можете создать ISO-образ диска со сжатием, доступный только для чтения. ISO-образы могут быть созданы только из папок.\n\nУкажите имя для этого ISO-образа, либо используйте имя по умолчанию на основе сжимаемых файлов.";
 
 /* Class = "NSTextFieldCell"; title = "Store"; ObjectID = "2390"; */
-"2390.title" = "Хранение";
+"2390.title" = "Без сжатия";
 
 /* Class = "NSTextFieldCell"; title = "Fast"; ObjectID = "2392"; */
 "2392.title" = "Быстрый";
@@ -90,4 +90,4 @@
 "dDw-7W-5ff.title" = "Формат:";
 
 /* Class = "NSButtonCell"; title = "Verify compression integrity"; ObjectID = "gqN-A9-jPb"; */
-"gqN-A9-jPb.title" = "Проверить целостность содержимого в архиве";
+"gqN-A9-jPb.title" = "Проверять целостность содержимого в архиве";

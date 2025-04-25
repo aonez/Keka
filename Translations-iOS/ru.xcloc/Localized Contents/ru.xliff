@@ -12,7 +12,7 @@
       </trans-unit>
       <trans-unit id="Extract Files with ${applicationName}" xml:space="preserve">
         <source>Extract Files with ${applicationName}</source>
-        <target>Извлечь файлы с помощью ${applicationName}</target>
+        <target>Распаковать файлы с помощью ${applicationName}</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
@@ -24,181 +24,182 @@
     <body>
       <trans-unit id="7Z Archive" xml:space="preserve">
         <source>7Z Archive</source>
-        <target>7Z Архив</target>
+        <target>Архив 7Z</target>
         <note/>
       </trans-unit>
       <trans-unit id="ACE Archive" xml:space="preserve">
         <source>ACE Archive</source>
-        <target>ACE Архив</target>
+        <target>Архив ACE</target>
         <note/>
       </trans-unit>
       <trans-unit id="ALZip Archive" xml:space="preserve">
         <source>ALZip Archive</source>
-        <target>ALZip Архив</target>
+        <target>Архив ALZip</target>
         <note/>
       </trans-unit>
       <trans-unit id="APPX Archive" xml:space="preserve">
         <source>APPX Archive</source>
-        <target>APPX Архив</target>
+        <target>Архив APPX</target>
         <note/>
       </trans-unit>
       <trans-unit id="ARC Archive" xml:space="preserve">
         <source>ARC Archive</source>
-        <target>ARC Архив</target>
+        <target>Архив ARC</target>
         <note/>
       </trans-unit>
       <trans-unit id="ARJ Archive" xml:space="preserve">
         <source>ARJ Archive</source>
-        <target>ARJ Архив</target>
+        <target>Архив ARJ</target>
         <note/>
       </trans-unit>
       <trans-unit id="Amiga DCS Disk Archive" xml:space="preserve">
         <source>Amiga DCS Disk Archive</source>
-        <target>Amiga DCS Диск Архив</target>
+        <target>Образ диска Amiga DCS</target>
         <note/>
       </trans-unit>
       <trans-unit id="Amiga DMS Disk Archive" xml:space="preserve">
         <source>Amiga DMS Disk Archive</source>
-        <target>Amiga DMS Диск Архив</target>
+        <target>Образ диска Amiga DMS</target>
         <note/>
       </trans-unit>
       <trans-unit id="Amiga Disk File" xml:space="preserve">
         <source>Amiga Disk File</source>
-        <target>Amiga Диск Файл</target>
+        <target>Образ диска Amiga Disk File</target>
         <note/>
       </trans-unit>
       <trans-unit id="Amiga PackDev Disk Archive" xml:space="preserve">
         <source>Amiga PackDev Disk Archive</source>
-        <target>Amiga PackDev Диск Архив</target>
+        <target>Образ диска Amiga PackDev</target>
         <note/>
       </trans-unit>
       <trans-unit id="Amiga PowerPacker Archive" xml:space="preserve">
         <source>Amiga PowerPacker Archive</source>
-        <target>Amiga PowerPacker Архив</target>
+        <target>Архив Amiga PowerPacker</target>
         <note/>
       </trans-unit>
       <trans-unit id="Amiga Zoom Disk Archive" xml:space="preserve">
         <source>Amiga Zoom Disk Archive</source>
-        <target>Amiga Zoom Диск Архив</target>
+        <target>Образ диска Amiga Zoom</target>
         <note/>
       </trans-unit>
       <trans-unit id="Amiga xMash Disk Archive" xml:space="preserve">
         <source>Amiga xMash Disk Archive</source>
-        <target>Amiga xMash Диск Архив</target>
+        <target>Образ диска Amiga xMash</target>
         <note/>
       </trans-unit>
       <trans-unit id="Android Application Package" xml:space="preserve">
         <source>Android Application Package</source>
-        <target>Пакет Android Приложения</target>
+        <target>Пакет приложения для Android</target>
         <note/>
       </trans-unit>
       <trans-unit id="Apple Archive" xml:space="preserve">
         <source>Apple Archive</source>
+        <target>Архив Apple</target>
         <note/>
       </trans-unit>
       <trans-unit id="BZIP2 Archive" xml:space="preserve">
         <source>BZIP2 Archive</source>
-        <target>BZIP2 Архив</target>
+        <target>Архив BZIP2</target>
         <note/>
       </trans-unit>
       <trans-unit id="BZIP2 Tarball Archive" xml:space="preserve">
         <source>BZIP2 Tarball Archive</source>
-        <target>BZIP2 Тарбол Архив</target>
+        <target>Сжатый TAR-архив BZIP2</target>
         <note/>
       </trans-unit>
       <trans-unit id="CAB Archive" xml:space="preserve">
         <source>CAB Archive</source>
-        <target>CAB Архив</target>
+        <target>Файл Windows Cabinet</target>
         <note/>
       </trans-unit>
       <trans-unit id="CDI Disk Image" xml:space="preserve">
         <source>CDI Disk Image</source>
-        <target>CDI Дисковый Образ</target>
+        <target>Образ диска CDI</target>
         <note/>
       </trans-unit>
       <trans-unit id="Compact Pro Archive" xml:space="preserve">
         <source>Compact Pro Archive</source>
-        <target>Compact Pro Архив</target>
+        <target>Архив Compact Pro</target>
         <note/>
       </trans-unit>
       <trans-unit id="Compressed Amiga Disk File" xml:space="preserve">
         <source>Compressed Amiga Disk File</source>
-        <target>Сжатый Диск Amiga Файл</target>
+        <target>Сжатый образ диска Amiga Disk File</target>
         <note/>
       </trans-unit>
       <trans-unit id="Deb Archive" xml:space="preserve">
         <source>Deb Archive</source>
-        <target>Deb Архив</target>
+        <target>Архив Deb</target>
         <note/>
       </trans-unit>
       <trans-unit id="DiskDoubler Archive" xml:space="preserve">
         <source>DiskDoubler Archive</source>
-        <target>DiskDoubler Архив</target>
+        <target>Архив DiskDoubler</target>
         <note/>
       </trans-unit>
       <trans-unit id="Generic Archive Volume" xml:space="preserve">
         <source>Generic Archive Volume</source>
-        <target>Общий Объем Архива</target>
+        <target>Том архива</target>
         <note/>
       </trans-unit>
       <trans-unit id="HA Archive" xml:space="preserve">
         <source>HA Archive</source>
-        <target>HA Архив</target>
+        <target>Архив HA</target>
         <note/>
       </trans-unit>
       <trans-unit id="Keka Extraction Package" xml:space="preserve">
         <source>Keka Extraction Package</source>
-        <target>Пакет Извлечения Keka</target>
+        <target>Пакет распаковки Keka</target>
         <note/>
       </trans-unit>
       <trans-unit id="LBR Archive" xml:space="preserve">
         <source>LBR Archive</source>
-        <target>LBR Архив</target>
+        <target>Архив LBR</target>
         <note/>
       </trans-unit>
       <trans-unit id="LZMA File" xml:space="preserve">
         <source>LZMA File</source>
-        <target>LZMA Файл</target>
+        <target>Архив LZMA</target>
         <note/>
       </trans-unit>
       <trans-unit id="LZX Archive" xml:space="preserve">
         <source>LZX Archive</source>
-        <target>LZX Архив</target>
+        <target>Архив LZX</target>
         <note/>
       </trans-unit>
       <trans-unit id="LhA Archive" xml:space="preserve">
         <source>LhA Archive</source>
-        <target>LhA Архив</target>
+        <target>Архив LHA</target>
         <note/>
       </trans-unit>
       <trans-unit id="LhF Archive" xml:space="preserve">
         <source>LhF Archive</source>
-        <target>LhF Архив</target>
+        <target>Архив LHF</target>
         <note/>
       </trans-unit>
       <trans-unit id="Linux RPM Archive" xml:space="preserve">
         <source>Linux RPM Archive</source>
-        <target>Linux RPM Архив</target>
+        <target>Архив Linux RPM</target>
         <note/>
       </trans-unit>
       <trans-unit id="MDF Disk Image" xml:space="preserve">
         <source>MDF Disk Image</source>
-        <target>MDF Дисковый Образ</target>
+        <target>Образ диска MDF</target>
         <note/>
       </trans-unit>
       <trans-unit id="Microsoft MSI Installer" xml:space="preserve">
         <source>Microsoft MSI Installer</source>
-        <target>Установщик Microsoft MSI</target>
+        <target>Пакет Windows Installer</target>
         <note/>
       </trans-unit>
       <trans-unit id="NRG Disk Image" xml:space="preserve">
         <source>NRG Disk Image</source>
-        <target>NRG Дисковый Образ</target>
+        <target>Образ диска NRG</target>
         <note/>
       </trans-unit>
       <trans-unit id="NSA Archive" xml:space="preserve">
         <source>NSA Archive</source>
-        <target>NSA Архив</target>
+        <target>Архив NSA</target>
         <note/>
       </trans-unit>
       <trans-unit id="Now Compress Archive" xml:space="preserve">
@@ -208,92 +209,92 @@
       </trans-unit>
       <trans-unit id="PMA Archive" xml:space="preserve">
         <source>PMA Archive</source>
-        <target>PMA Архив</target>
+        <target>Архив PMA</target>
         <note/>
       </trans-unit>
       <trans-unit id="PackIt Archive" xml:space="preserve">
         <source>PackIt Archive</source>
-        <target>PackIt Архив</target>
+        <target>Архив PackIt</target>
         <note/>
       </trans-unit>
       <trans-unit id="Pax Archive" xml:space="preserve">
         <source>Pax Archive</source>
-        <target>Pax Архив</target>
+        <target>Архив Pax</target>
         <note/>
       </trans-unit>
       <trans-unit id="RAR Archive" xml:space="preserve">
         <source>RAR Archive</source>
-        <target>RAR Архив</target>
+        <target>Архив RAR</target>
         <note/>
       </trans-unit>
       <trans-unit id="SAR Archive" xml:space="preserve">
         <source>SAR Archive</source>
-        <target>SAR Архив</target>
+        <target>Архив SAR</target>
         <note/>
       </trans-unit>
       <trans-unit id="Self-Extracting Archive" xml:space="preserve">
         <source>Self-Extracting Archive</source>
-        <target>Самораспаковывающийся Архив</target>
+        <target>Самораспаковывающийся архив</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unix Compress File" xml:space="preserve">
         <source>Unix Compress File</source>
-        <target>Unix Сжатый Файл</target>
+        <target>Архив Unix Compress</target>
         <note/>
       </trans-unit>
       <trans-unit id="Unix Compress Tar Archive" xml:space="preserve">
         <source>Unix Compress Tar Archive</source>
-        <target>Unix Сжатый Tar Архив</target>
+        <target>Сжатый TAR-архив Unix Compress</target>
         <note/>
       </trans-unit>
       <trans-unit id="WARC Web Archive" xml:space="preserve">
         <source>WARC Web Archive</source>
-        <target>WARC Веб-Архив</target>
+        <target>Веб-архив WARC</target>
         <note/>
       </trans-unit>
       <trans-unit id="XAR Archive" xml:space="preserve">
         <source>XAR Archive</source>
-        <target>XAR Архив</target>
+        <target>Архив XAR</target>
         <note/>
       </trans-unit>
       <trans-unit id="XIP Archive" xml:space="preserve">
         <source>XIP Archive</source>
-        <target>XIP Архив</target>
+        <target>Архив XIP</target>
         <note/>
       </trans-unit>
       <trans-unit id="XZ Archive" xml:space="preserve">
         <source>XZ Archive</source>
-        <target>XZ Архив</target>
+        <target>Архив XZ</target>
         <note/>
       </trans-unit>
       <trans-unit id="XZ Tarball Archive" xml:space="preserve">
         <source>XZ Tarball Archive</source>
-        <target>XZ Тарбол Архив</target>
+        <target>Сжатый TAR-архив XZ</target>
         <note/>
       </trans-unit>
       <trans-unit id="ZIP Archive" xml:space="preserve">
         <source>ZIP Archive</source>
-        <target>ZIP Архив</target>
+        <target>Архив ZIP</target>
         <note/>
       </trans-unit>
       <trans-unit id="ZIPX Archive" xml:space="preserve">
         <source>ZIPX Archive</source>
-        <target>ZIPX Архив</target>
+        <target>Архив ZIPX</target>
         <note/>
       </trans-unit>
       <trans-unit id="ZOO Archive" xml:space="preserve">
         <source>ZOO Archive</source>
-        <target>ZOO Архив</target>
+        <target>Архив ZOO</target>
         <note/>
       </trans-unit>
       <trans-unit id="Zstandard Archive" xml:space="preserve">
         <source>Zstandard Archive</source>
-        <target>Zstandard Архив</target>
+        <target>Архив Zstandard</target>
         <note/>
       </trans-unit>
       <trans-unit id="Zstandard Tarball Archive" xml:space="preserve">
         <source>Zstandard Tarball Archive</source>
-        <target>Zstandard Тарбол Архив</target>
+        <target>Сжатый TAR-архив Zstandard</target>
         <note/>
       </trans-unit>
     </body>
@@ -305,12 +306,12 @@
     <body>
       <trans-unit id="%@ item" xml:space="preserve">
         <source>%@ item</source>
-        <target>%@ элемент</target>
+        <target>%@ объект</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ items" xml:space="preserve">
         <source>%@ items</source>
-        <target>%@ элементов</target>
+        <target>%@ объект.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ of &quot;%@&quot; failed" xml:space="preserve">
@@ -320,32 +321,32 @@
       </trans-unit>
       <trans-unit id="%@ of %@ item" xml:space="preserve">
         <source>%@ of %@ item</source>
-        <target>%@ из %@ элемента</target>
+        <target>%@ из %@ объект.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ of %@ items" xml:space="preserve">
         <source>%@ of %@ items</source>
-        <target>%@ из %@ элементов</target>
+        <target>%@ из %@ объект.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%lld items" xml:space="preserve">
         <source>%lld items</source>
-        <target>%lld элементов</target>
+        <target>%lld объект.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%lld seconds" xml:space="preserve">
         <source>%lld seconds</source>
-        <target>%lld секунд</target>
+        <target>%lld с</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%lld:%@ minutes" xml:space="preserve">
         <source>%lld:%@ minutes</source>
-        <target>%lld:%@ минут</target>
+        <target>%lld:%@ мин</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%lld:%@:%@ hours" xml:space="preserve">
         <source>%lld:%@:%@ hours</source>
-        <target>%lld:%@:%@ часов</target>
+        <target>%lld:%@:%@ ч</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="ARCHIVE_DEFAULT_NAME" xml:space="preserve">
@@ -360,32 +361,32 @@
       </trans-unit>
       <trans-unit id="About %lld days" xml:space="preserve">
         <source>About %lld days</source>
-        <target>Около %lld дней</target>
+        <target>Около %lld дн.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="About %lld hours" xml:space="preserve">
         <source>About %lld hours</source>
-        <target>Около %lld часов</target>
+        <target>Около %lld ч</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="About %lld minutes" xml:space="preserve">
         <source>About %lld minutes</source>
-        <target>Около %lld минут</target>
+        <target>Около %lld мин</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="About %lld months" xml:space="preserve">
         <source>About %lld months</source>
-        <target>Около %lld месяцев</target>
+        <target>Около %lld мес.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="About %lld seconds" xml:space="preserve">
         <source>About %lld seconds</source>
-        <target>Около %lld секунд</target>
+        <target>Около %lld с</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="About %lld weeks" xml:space="preserve">
         <source>About %lld weeks</source>
-        <target>Около %lld недель</target>
+        <target>Около %lld нед.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="About %lld years" xml:space="preserve">
@@ -460,12 +461,12 @@
       </trans-unit>
       <trans-unit id="Add some contents using the %@ button or the %@ button in the toolbar." xml:space="preserve">
         <source>Add some contents using the %@ button or the %@ button in the toolbar.</source>
-        <target>Добавьте содержимое, используя кнопку %@ или кнопку %@ на панели инструментов.</target>
+        <target>Добавьте содержимое, используя кнопку %@ или кнопку %@ в панели инструментов.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar." xml:space="preserve">
         <source>Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar.</source>
-        <target>Добавьте содержимое, используя кнопку %@ или кнопки %@, %@ или %@ на панели инструментов.</target>
+        <target>Добавьте содержимое, используя кнопку %@ или кнопки %@, %@ или %@ в панели инструментов.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Add some contents using the %@ button." xml:space="preserve">
@@ -480,17 +481,17 @@
       </trans-unit>
       <trans-unit id="Allocated size" xml:space="preserve">
         <source>Allocated size</source>
-        <target>Выделенный размер</target>
+        <target>Размер на диске</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Archive items separately" xml:space="preserve">
         <source>Archive items separately</source>
-        <target>Архивировать элементы отдельно</target>
+        <target>Пофайловое сжатие</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Ask" xml:space="preserve">
         <source>Ask</source>
-        <target>Спросить</target>
+        <target>Спрашивать каждый раз</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="BROWSE_OPERATION" xml:space="preserve">
@@ -510,7 +511,7 @@
       </trans-unit>
       <trans-unit id="Browser" xml:space="preserve">
         <source>Browser</source>
-        <target>Открыть</target>
+        <target>Открытие</target>
         <note>Browser settings title.</note>
       </trans-unit>
       <trans-unit id="Bytes" xml:space="preserve">
@@ -530,12 +531,12 @@
       </trans-unit>
       <trans-unit id="COMPRESSION_SECTION_TITLE" xml:space="preserve">
         <source>Compressing</source>
-        <target>Сжатие</target>
+        <target>Сжать</target>
         <note>Compressing, tasks section title.</note>
       </trans-unit>
       <trans-unit id="Calculate" xml:space="preserve">
         <source>Calculate</source>
-        <target>Рассчитать</target>
+        <target>Вычислить</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
@@ -585,7 +586,7 @@
       </trans-unit>
       <trans-unit id="Compress all the items in the compression list" xml:space="preserve">
         <source>Compress all the items in the compression list</source>
-        <target>Сжать все элементы в списке сжатия</target>
+        <target>Сжать все объекты в списке сжатия</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Compress some files with Keka." xml:space="preserve">
@@ -630,7 +631,7 @@
       </trans-unit>
       <trans-unit id="Custom…" xml:space="preserve">
         <source>Custom…</source>
-        <target>Настроить…</target>
+        <target>Выбрать папку…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Date" xml:space="preserve">
@@ -645,7 +646,7 @@
       </trans-unit>
       <trans-unit id="Default Destination" xml:space="preserve">
         <source>Default Destination</source>
-        <target>Место сохранения по умолчанию</target>
+        <target>Место по умолчанию</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Default Format" xml:space="preserve">
@@ -655,12 +656,12 @@
       </trans-unit>
       <trans-unit id="Default Tap Action" xml:space="preserve">
         <source>Default Tap Action</source>
-        <target>Действие при нажатии по умолчанию</target>
+        <target>Действие по умолчанию при выборе объекта внутри архива</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Default Volume Unit" xml:space="preserve">
         <source>Default Volume Unit</source>
-        <target>Единица объема по умолчанию</target>
+        <target>Единица по умолчанию при разбивке на тома</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Delete" xml:space="preserve">
@@ -670,7 +671,7 @@
       </trans-unit>
       <trans-unit id="Delete files(s) after compression" xml:space="preserve">
         <source>Delete files(s) after compression</source>
-        <target>Удалить файл(ы) после сжатия</target>
+        <target>Удалять файлы после сжатия</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Destination" xml:space="preserve">
@@ -680,12 +681,12 @@
       </trans-unit>
       <trans-unit id="Disable &quot;%@&quot; if you prefer to use a default configuration." xml:space="preserve">
         <source>Disable "%@" if you prefer to use a default configuration.</source>
-        <target>Отключите "%@", если вы предпочитаете использовать конфигурацию по умолчанию.</target>
+        <target>Отключите, если предпочитаете использовать настройки по умолчанию.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Dismiss" xml:space="preserve">
         <source>Dismiss</source>
-        <target>Отклонить</target>
+        <target>Убрать</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Document" xml:space="preserve">
@@ -710,17 +711,17 @@
       </trans-unit>
       <trans-unit id="EXTRACTION_OPERATION" xml:space="preserve">
         <source>Extraction</source>
-        <target>Извлечение</target>
+        <target>Распаковка</target>
         <note>Extraction, operation description.</note>
       </trans-unit>
       <trans-unit id="EXTRACTION_RUNNING" xml:space="preserve">
         <source>Extracting</source>
-        <target>Извлечение</target>
+        <target>Распаковка</target>
         <note>Extracting, operation running.</note>
       </trans-unit>
       <trans-unit id="EXTRACTION_SECTION_TITLE" xml:space="preserve">
         <source>Extracting</source>
-        <target>Извлечение</target>
+        <target>Распаковать</target>
         <note>Extracting, tasks section title.</note>
       </trans-unit>
       <trans-unit id="Edit" xml:space="preserve">
@@ -730,12 +731,12 @@
       </trans-unit>
       <trans-unit id="Encrypt Filenames" xml:space="preserve">
         <source>Encrypt Filenames</source>
-        <target>Зашифровать имена файлов</target>
+        <target>Шифровать имена файлов</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Encrypt Filenames if Possible" xml:space="preserve">
         <source>Encrypt Filenames if Possible</source>
-        <target>Зашифровать имена файлов, если возможно</target>
+        <target>Шифровать имена файлов, если возможно</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Enter the password for the file&#10;&quot;%@&quot;" xml:space="preserve">
@@ -747,37 +748,37 @@
       </trans-unit>
       <trans-unit id="Exclude Mac resource forks" xml:space="preserve">
         <source>Exclude Mac resource forks</source>
-        <target>Исключить ресурсы Mac</target>
+        <target>Исключить ветви ресурсов Mac</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Extract" xml:space="preserve">
         <source>Extract</source>
-        <target>Извлечь</target>
+        <target>Распак.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Extract Files with Keka" xml:space="preserve">
         <source>Extract Files with Keka</source>
-        <target>Извлечь файлы с помощью Keka</target>
+        <target>Распаковать файлы с помощью Keka</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Extract some files with Keka." xml:space="preserve">
         <source>Extract some files with Keka.</source>
-        <target>Извлечь некоторые файлы с помощью Keka.</target>
+        <target>Распаковать некоторые файлы с помощью Keka.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Extract the file" xml:space="preserve">
         <source>Extract the file</source>
-        <target>Извлечь файл</target>
+        <target>Распаковать файл</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Extraction" xml:space="preserve">
         <source>Extraction</source>
-        <target>Извлечение</target>
+        <target>Распаковка</target>
         <note>Extraction settings title.</note>
       </trans-unit>
       <trans-unit id="Fast" xml:space="preserve">
         <source>Fast</source>
-        <target>Быстро</target>
+        <target>Быстрый</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Fastest" xml:space="preserve">
@@ -797,7 +798,7 @@
       </trans-unit>
       <trans-unit id="File not informed properly, try again." xml:space="preserve">
         <source>File not informed properly, try again.</source>
-        <target>Файл не указан правильно, попробуйте снова.</target>
+        <target>Файл передан неправильно, попробуйте снова.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Files" xml:space="preserve">
@@ -832,7 +833,7 @@
       </trans-unit>
       <trans-unit id="Get Info" xml:space="preserve">
         <source>Get Info</source>
-        <target>Информация</target>
+        <target>Свойства</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Gigabyte" xml:space="preserve">
@@ -847,7 +848,7 @@
       </trans-unit>
       <trans-unit id="Hide Password by Default" xml:space="preserve">
         <source>Hide Password by Default</source>
-        <target>Скрывать пароль по умолчанию</target>
+        <target>По умолчанию скрывать пароль</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="If you got here, please get in touch with the developers." xml:space="preserve">
@@ -857,7 +858,7 @@
       </trans-unit>
       <trans-unit id="Information" xml:space="preserve">
         <source>Information</source>
-        <target>Информация</target>
+        <target>Свойства</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Keka's Folder" xml:space="preserve">
@@ -912,12 +913,12 @@
       </trans-unit>
       <trans-unit id="Move compressed file(s) to Trash after extraction" xml:space="preserve">
         <source>Move compressed file(s) to Trash after extraction</source>
-        <target>Переместить сжатый(е) файл(ы) в корзину после извлечения</target>
+        <target>Перемещать архивы в корзину после распаковки</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Move original file(s) to Trash after compression" xml:space="preserve">
         <source>Move original file(s) to Trash after compression</source>
-        <target>Переместить исходный(е) файл(ы) в корзину после сжатия</target>
+        <target>Перемещать исходные файлы в корзину после сжатия</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Name" xml:space="preserve">
@@ -942,7 +943,7 @@
       </trans-unit>
       <trans-unit id="No files to extract" xml:space="preserve">
         <source>No files to extract</source>
-        <target>Нет файлов для извлечения</target>
+        <target>Нет файлов для распаковки</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="None" xml:space="preserve">
@@ -957,7 +958,7 @@
       </trans-unit>
       <trans-unit id="Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files." xml:space="preserve">
         <source>Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files.</source>
-        <target>Не все платформы поддерживают шифрование AES-256. Вам может понадобиться стороннее приложение (например, Keka) для открытия этих сжатых файлов.</target>
+        <target>Не все платформы поддерживают шифрование AES-256. Вам может понадобиться стороннее приложение (например, Keka) для открытия таких файлов.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
@@ -997,7 +998,7 @@
       </trans-unit>
       <trans-unit id="Password for &quot;%@&quot;" xml:space="preserve">
         <source>Password for "%@"</source>
-        <target>Пароль для "%@"</target>
+        <target>Пароль для «%@»</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Password needed" xml:space="preserve">
@@ -1017,12 +1018,12 @@
       </trans-unit>
       <trans-unit id="Please enter the password for:" xml:space="preserve">
         <source>Please enter the password for:</source>
-        <target>Пожалуйста, введите пароль для:</target>
+        <target>Введите пароль для:</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Please select the encoding for:" xml:space="preserve">
         <source>Please select the encoding for:</source>
-        <target>Пожалуйста, выберите кодировку для:</target>
+        <target>Выберите кодировку для:</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Preparing" xml:space="preserve">
@@ -1037,12 +1038,12 @@
       </trans-unit>
       <trans-unit id="Quick Look" xml:space="preserve">
         <source>Quick Look</source>
-        <target>Быстрый просмотр</target>
+        <target>Быстро просмотреть</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Remember Last Used Options" xml:space="preserve">
         <source>Remember Last Used Options</source>
-        <target>Запомнить последние настройки</target>
+        <target>Запоминать последние настройки</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Remove" xml:space="preserve">
@@ -1052,7 +1053,7 @@
       </trans-unit>
       <trans-unit id="Remove All Items" xml:space="preserve">
         <source>Remove All Items</source>
-        <target>Удалить все элементы</target>
+        <target>Удалить все объекты</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Remove from cache" xml:space="preserve">
@@ -1062,7 +1063,7 @@
       </trans-unit>
       <trans-unit id="Remove the selected items from the compression list" xml:space="preserve">
         <source>Remove the selected items from the compression list</source>
-        <target>Удалить выбранные элементы из списка сжатия</target>
+        <target>Удалить выбранные объекты из списка сжатия</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Reset" xml:space="preserve">
@@ -1137,7 +1138,7 @@
       </trans-unit>
       <trans-unit id="Show or hide additional information about the selected item" xml:space="preserve">
         <source>Show or hide additional information about the selected item</source>
-        <target>Показать или скрыть дополнительную информацию о выбранном элементе</target>
+        <target>Показать или скрыть дополнительную информацию о выбранном объекте</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Size" xml:space="preserve">
@@ -1147,12 +1148,12 @@
       </trans-unit>
       <trans-unit id="Slow" xml:space="preserve">
         <source>Slow</source>
-        <target>Медленно</target>
+        <target>Медленный</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Slowest" xml:space="preserve">
         <source>Slowest</source>
-        <target>Самое медленное</target>
+        <target>Самый медленный</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Split in volumes" xml:space="preserve">
@@ -1162,17 +1163,17 @@
       </trans-unit>
       <trans-unit id="Store" xml:space="preserve">
         <source>Store</source>
-        <target>Сохранить</target>
+        <target>Без сжатия</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="TRANSLATOR_LINK" xml:space="preserve">
         <source>TRANSLATOR_LINK</source>
-        <target/>
+        <target>https://github.com/nitrodox</target>
         <note>The translator link, if any. Can be a mail address or a website.</note>
       </trans-unit>
       <trans-unit id="TRANSLATOR_NAME" xml:space="preserve">
         <source>TRANSLATOR_NAME</source>
-        <target/>
+        <target>Alexey Ladygin</target>
         <note>The translator name, if any.</note>
       </trans-unit>
       <trans-unit id="Terabytes" xml:space="preserve">
@@ -1182,7 +1183,7 @@
       </trans-unit>
       <trans-unit id="The %@ of space available in the destination might not be enough for compressing the estimated %@." xml:space="preserve">
         <source>The %@ of space available in the destination might not be enough for compressing the estimated %@.</source>
-        <target>Доступное место в месте назначения (%@) возможно, не хватит для сжатия оцененного %@.</target>
+        <target>Доступного пространства в указанной папке (%@), возможно, не хватит для сжатия (оценка: %@).</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The changes could not be saved" xml:space="preserve">
@@ -1207,12 +1208,12 @@
       </trans-unit>
       <trans-unit id="The compression will be limited to %lld thread/s due to memory constraints." xml:space="preserve">
         <source>The compression will be limited to %lld thread/s due to memory constraints.</source>
-        <target>Сжатие будет ограничено %lld потоками из-за ограничений памяти.</target>
+        <target>Из-за ограничений памяти количество потоков сжатия равно %lld.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The destination has %@ of space available." xml:space="preserve">
         <source>The destination has %@ of space available.</source>
-        <target>В месте назначения доступно %@ места.</target>
+        <target>В месте назначения доступно %@.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The file manager for iOS and macOS" xml:space="preserve">
@@ -1227,12 +1228,12 @@
       </trans-unit>
       <trans-unit id="The password length should be %lld or higher." xml:space="preserve">
         <source>The password length should be %lld or higher.</source>
-        <target>Длина пароля должна быть %lld или больше.</target>
+        <target>Длина пароля %lld или больше символов.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." xml:space="preserve">
         <source>The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents.</source>
-        <target>Чем медленнее уровень, тем больше можно достичь сжатия. Уровень хранения вообще не выполняет сжатие, только архивирует содержимое.</target>
+        <target>Чем медленнее, тем больше сжатие (и наоборот). Уровень «Без сжатия» только упаковывает содержимое в архив.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This volume file needs additional files access to be opened.&#10;You can give access to the rest of the files or the parent folder." xml:space="preserve">
@@ -1244,7 +1245,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="To extract" xml:space="preserve">
         <source>To extract</source>
-        <target>Извлечь</target>
+        <target>Распаковать</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="To prevent a timeout on large operation, enable this setting. The result will always be true if enabled." xml:space="preserve">
@@ -1259,12 +1260,12 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="Translated by %@" xml:space="preserve">
         <source>Translated by %@</source>
-        <target>Переведено %@</target>
+        <target>Перевод: %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Type" xml:space="preserve">
         <source>Type</source>
-        <target>Тип</target>
+        <target>Тип содержимого</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="URL Encoded" xml:space="preserve">
@@ -1274,7 +1275,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="Unable to apply the app icon" xml:space="preserve">
         <source>Unable to apply the app icon</source>
-        <target>Не удалось применить значок приложения</target>
+        <target>Не удалось изменить значок приложения</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Unable to browse &quot;%@&quot;" xml:space="preserve">
@@ -1289,7 +1290,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="Unable to determine the available space." xml:space="preserve">
         <source>Unable to determine the available space.</source>
-        <target>Не удалось определить доступное место.</target>
+        <target>Не удалось оценить доступное место.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Unable to get encoding data" xml:space="preserve">
@@ -1304,17 +1305,17 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="Use AES-256 if Available" xml:space="preserve">
         <source>Use AES-256 if Available</source>
-        <target>Использовать AES-256, если доступно</target>
+        <target>Использовать шифрование AES-256, если возможно</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Use UTF-8 Encoding if Available" xml:space="preserve">
         <source>Use UTF-8 Encoding if Available</source>
-        <target>Использовать кодировку UTF-8, если доступно</target>
+        <target>Использовать кодировку UTF-8, если возможно</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Use special coloring for known formats" xml:space="preserve">
         <source>Use special coloring for known formats</source>
-        <target>Использовать специальную окраску для известных форматов</target>
+        <target>Цветовой акцент для известных форматов</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="VERIFY_OPERATION" xml:space="preserve">
@@ -1329,7 +1330,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="VERIFY_SECTION_TITLE" xml:space="preserve">
         <source>Verifying</source>
-        <target>Проверка</target>
+        <target>Проверить</target>
         <note>Verifying, tasks section title.</note>
       </trans-unit>
       <trans-unit id="Verify compression integrity" xml:space="preserve">
@@ -1374,7 +1375,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="by %@" xml:space="preserve">
         <source>by %@</source>
-        <target>от %@</target>
+        <target>%@</target>
         <note>"by aone" part from "Made with love by aone".</note>
       </trans-unit>
       <trans-unit id="compress" xml:space="preserve">
@@ -1384,7 +1385,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="compressed" xml:space="preserve">
         <source>compressed</source>
-        <target>сжато</target>
+        <target>сжат</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="compression" xml:space="preserve">
@@ -1404,22 +1405,22 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="extract" xml:space="preserve">
         <source>extract</source>
-        <target>извлечь</target>
+        <target>распаковать</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="extracted" xml:space="preserve">
         <source>extracted</source>
-        <target>извлечено</target>
+        <target>распакован</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="extraction" xml:space="preserve">
         <source>extraction</source>
-        <target>извлечение</target>
+        <target>распаковка</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="extraction failed" xml:space="preserve">
         <source>extraction failed</source>
-        <target>извлечение не удалось</target>
+        <target>распаковка не удалась</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="failed" xml:space="preserve">
@@ -1429,7 +1430,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="file" xml:space="preserve">
         <source>file</source>
-        <target>file</target>
+        <target>файл</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="verification failed" xml:space="preserve">
@@ -1439,7 +1440,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="verifyed" xml:space="preserve">
         <source>verifyed</source>
-        <target>проверено</target>
+        <target>проверен</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
@@ -1451,7 +1452,7 @@ You can give access to the rest of the files or the parent folder.</source>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>Browse with Keka</source>
-        <target>Просмотр с Keka</target>
+        <target>Открыть с помощью Keka</target>
         <note>Bundle display name</note>
       </trans-unit>
     </body>
@@ -1475,7 +1476,7 @@ You can give access to the rest of the files or the parent folder.</source>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>Extract using Keka</source>
-        <target>Извлечь с помощью Keka</target>
+        <target>Распаковать с помощью Keka</target>
         <note>Bundle display name</note>
       </trans-unit>
     </body>

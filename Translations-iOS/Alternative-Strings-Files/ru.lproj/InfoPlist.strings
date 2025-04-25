@@ -1,165 +1,165 @@
 /* (No Comment) */
-"7Z Archive" = "7Z Архив";
+"7Z Archive" = "Архив 7Z";
 
 /* (No Comment) */
-"ACE Archive" = "ACE Архив";
+"ACE Archive" = "Архив ACE";
 
 /* (No Comment) */
-"ALZip Archive" = "ALZip Архив";
+"ALZip Archive" = "Архив ALZip";
 
 /* (No Comment) */
-"Amiga DCS Disk Archive" = "Amiga DCS Диск Архив";
+"Amiga DCS Disk Archive" = "Образ диска Amiga DCS";
 
 /* (No Comment) */
-"Amiga Disk File" = "Amiga Диск Файл";
+"Amiga Disk File" = "Образ диска Amiga Disk File";
 
 /* (No Comment) */
-"Amiga DMS Disk Archive" = "Amiga DMS Диск Архив";
+"Amiga DMS Disk Archive" = "Образ диска Amiga DMS";
 
 /* (No Comment) */
-"Amiga PackDev Disk Archive" = "Amiga PackDev Диск Архив";
+"Amiga PackDev Disk Archive" = "Образ диска Amiga PackDev";
 
 /* (No Comment) */
-"Amiga PowerPacker Archive" = "Amiga PowerPacker Архив";
+"Amiga PowerPacker Archive" = "Архив Amiga PowerPacker";
 
 /* (No Comment) */
-"Amiga xMash Disk Archive" = "Amiga xMash Диск Архив";
+"Amiga xMash Disk Archive" = "Образ диска Amiga xMash";
 
 /* (No Comment) */
-"Amiga Zoom Disk Archive" = "Amiga Zoom Диск Архив";
+"Amiga Zoom Disk Archive" = "Образ диска Amiga Zoom";
 
 /* (No Comment) */
-"Android Application Package" = "Пакет Android Приложения";
+"Android Application Package" = "Пакет приложения для Android";
 
 /* (No Comment) */
-"Apple Archive" = "Apple Archive"; // THIS IS NOT LOCALIZED
+"Apple Archive" = "Архив Apple";
 
 /* (No Comment) */
-"APPX Archive" = "APPX Архив";
+"APPX Archive" = "Архив APPX";
 
 /* (No Comment) */
-"ARC Archive" = "ARC Архив";
+"ARC Archive" = "Архив ARC";
 
 /* (No Comment) */
-"ARJ Archive" = "ARJ Архив";
+"ARJ Archive" = "Архив ARJ";
 
 /* (No Comment) */
-"BZIP2 Archive" = "BZIP2 Архив";
+"BZIP2 Archive" = "Архив BZIP2";
 
 /* (No Comment) */
-"BZIP2 Tarball Archive" = "BZIP2 Тарбол Архив";
+"BZIP2 Tarball Archive" = "Сжатый TAR-архив BZIP2";
 
 /* (No Comment) */
-"CAB Archive" = "CAB Архив";
+"CAB Archive" = "Файл Windows Cabinet";
 
 /* (No Comment) */
-"CDI Disk Image" = "CDI Дисковый Образ";
+"CDI Disk Image" = "Образ диска CDI";
 
 /* (No Comment) */
-"Compact Pro Archive" = "Compact Pro Архив";
+"Compact Pro Archive" = "Архив Compact Pro";
 
 /* (No Comment) */
-"Compressed Amiga Disk File" = "Сжатый Диск Amiga Файл";
+"Compressed Amiga Disk File" = "Сжатый образ диска Amiga Disk File";
 
 /* (No Comment) */
-"Deb Archive" = "Deb Архив";
+"Deb Archive" = "Архив Deb";
 
 /* (No Comment) */
-"DiskDoubler Archive" = "DiskDoubler Архив";
+"DiskDoubler Archive" = "Архив DiskDoubler";
 
 /* (No Comment) */
-"Generic Archive Volume" = "Общий Объем Архива";
+"Generic Archive Volume" = "Том архива";
 
 /* (No Comment) */
-"HA Archive" = "HA Архив";
+"HA Archive" = "Архив HA";
 
 /* (No Comment) */
-"Keka Extraction Package" = "Пакет Извлечения Keka";
+"Keka Extraction Package" = "Пакет распаковки Keka";
 
 /* (No Comment) */
-"LBR Archive" = "LBR Архив";
+"LBR Archive" = "Архив LBR";
 
 /* (No Comment) */
-"LhA Archive" = "LhA Архив";
+"LhA Archive" = "Архив LHA";
 
 /* (No Comment) */
-"LhF Archive" = "LhF Архив";
+"LhF Archive" = "Архив LHF";
 
 /* (No Comment) */
-"Linux RPM Archive" = "Linux RPM Архив";
+"Linux RPM Archive" = "Архив Linux RPM";
 
 /* (No Comment) */
-"LZMA File" = "LZMA Файл";
+"LZMA File" = "Архив LZMA";
 
 /* (No Comment) */
-"LZX Archive" = "LZX Архив";
+"LZX Archive" = "Архив LZX";
 
 /* (No Comment) */
-"MDF Disk Image" = "MDF Дисковый Образ";
+"MDF Disk Image" = "Образ диска MDF";
 
 /* (No Comment) */
-"Microsoft MSI Installer" = "Установщик Microsoft MSI";
+"Microsoft MSI Installer" = "Пакет Windows Installer";
 
 /* (No Comment) */
 "Now Compress Archive" = "Архив Now Compress";
 
 /* (No Comment) */
-"NRG Disk Image" = "NRG Дисковый Образ";
+"NRG Disk Image" = "Образ диска NRG";
 
 /* (No Comment) */
-"NSA Archive" = "NSA Архив";
+"NSA Archive" = "Архив NSA";
 
 /* (No Comment) */
-"PackIt Archive" = "PackIt Архив";
+"PackIt Archive" = "Архив PackIt";
 
 /* (No Comment) */
-"Pax Archive" = "Pax Архив";
+"Pax Archive" = "Архив Pax";
 
 /* (No Comment) */
-"PMA Archive" = "PMA Архив";
+"PMA Archive" = "Архив PMA";
 
 /* (No Comment) */
-"RAR Archive" = "RAR Архив";
+"RAR Archive" = "Архив RAR";
 
 /* (No Comment) */
-"SAR Archive" = "SAR Архив";
+"SAR Archive" = "Архив SAR";
 
 /* (No Comment) */
-"Self-Extracting Archive" = "Самораспаковывающийся Архив";
+"Self-Extracting Archive" = "Самораспаковывающийся архив";
 
 /* (No Comment) */
-"Unix Compress File" = "Unix Сжатый Файл";
+"Unix Compress File" = "Архив Unix Compress";
 
 /* (No Comment) */
-"Unix Compress Tar Archive" = "Unix Сжатый Tar Архив";
+"Unix Compress Tar Archive" = "Сжатый TAR-архив Unix Compress";
 
 /* (No Comment) */
-"WARC Web Archive" = "WARC Веб-Архив";
+"WARC Web Archive" = "Веб-архив WARC";
 
 /* (No Comment) */
-"XAR Archive" = "XAR Архив";
+"XAR Archive" = "Архив XAR";
 
 /* (No Comment) */
-"XIP Archive" = "XIP Архив";
+"XIP Archive" = "Архив XIP";
 
 /* (No Comment) */
-"XZ Archive" = "XZ Архив";
+"XZ Archive" = "Архив XZ";
 
 /* (No Comment) */
-"XZ Tarball Archive" = "XZ Тарбол Архив";
+"XZ Tarball Archive" = "Сжатый TAR-архив XZ";
 
 /* (No Comment) */
-"ZIP Archive" = "ZIP Архив";
+"ZIP Archive" = "Архив ZIP";
 
 /* (No Comment) */
-"ZIPX Archive" = "ZIPX Архив";
+"ZIPX Archive" = "Архив ZIPX";
 
 /* (No Comment) */
-"ZOO Archive" = "ZOO Архив";
+"ZOO Archive" = "Архив ZOO";
 
 /* (No Comment) */
-"Zstandard Archive" = "Zstandard Архив";
+"Zstandard Archive" = "Архив Zstandard";
 
 /* (No Comment) */
-"Zstandard Tarball Archive" = "Zstandard Тарбол Архив";
+"Zstandard Tarball Archive" = "Сжатый TAR-архив Zstandard";
 
