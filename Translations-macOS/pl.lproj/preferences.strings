@@ -114,7 +114,7 @@
 "453.title" = "Brak";
 
 /* Class = "NSButtonCell"; title = "Show compress contents of folder items"; ObjectID = "0Am-9a-jtM"; */
-"0Am-9a-jtM.title" = "Pokaż zarchiwizowaną zawartość plików w folderach";
+"0Am-9a-jtM.title" = "Pokaż opcje \"Archiwizuj zawartość folderu\"";
 
 /* Class = "NSButtonCell"; title = "Rename the recognized extension from the subfolder"; ObjectID = "1TK-Zy-623"; */
 "1TK-Zy-623.title" = "Zmień nazwę rozpoznanego rozszerzenia z podfolderu";
