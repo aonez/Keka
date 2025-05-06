@@ -60,7 +60,7 @@
 "2363.title" = "Ustvarite lahko nosilec ISO, ki bo samo za branje in stisnjen. Nosilce ISO je mogoče ustvariti samo iz mape.\n\nNastavite ime nosilca na ta ISO ali uporabite privzeto ime glede na datoteke, ki jih stisnete.";
 
 /* Class = "NSTextFieldCell"; title = "Store"; ObjectID = "2390"; */
-"2390.title" = "Store";
+"2390.title" = "Brez";
 
 /* Class = "NSTextFieldCell"; title = "Fast"; ObjectID = "2392"; */
 "2392.title" = "Hitro";

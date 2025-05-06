@@ -363,7 +363,7 @@
 "vWb-gb-JBD.title" = "To geslo lahko uporabite tudi v meniju razširitve Finder.";
 
 /* Class = "NSTextFieldCell"; title = "The Finder Extension needs to be enabled in the  System Preferences, Extensions configuration."; ObjectID = "wgz-2S-eXI"; */
-"wgz-2S-eXI.title" = "Razširitev Finder mora biti omogočena v  System Preferences, Extensions configuration.";
+"wgz-2S-eXI.title" = "Razširitev Finder mora biti omogočena v  Nastavitve, Konfiguracija vtičkov.";
 
 /* Class = "NSTextFieldCell"; title = "Most operations use multiple threads. That means faster operations but also more power consumption and heat."; ObjectID = "xyb-eH-aiy"; */
 "xyb-eH-aiy.title" = "Večina operacij uporablja več niti. To pomeni hitrejše delovanje, a tudi večjo porabo energije in toplote.";
