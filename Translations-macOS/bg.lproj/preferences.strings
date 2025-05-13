@@ -1,4 +1,4 @@
-
+﻿
 /* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
 "159.title" = "Формат по подразбиране:";
 
@@ -113,7 +113,7 @@
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "453"; */
 "453.title" = "Няма";
 
-/* Class = "NSButtonCell"; title = "Show compress contents of folder items"; ObjectID = "0Am-9a-jtM"; */
+/* Class = "NSButtonCell"; title = "Show \"compress contents of folder\" items"; ObjectID = "0Am-9a-jtM"; */
 "0Am-9a-jtM.title" = "Показвай архивираното съдържание на елементи от папките";
 
 /* Class = "NSButtonCell"; title = "Rename the recognized extension from the subfolder"; ObjectID = "1TK-Zy-623"; */
@@ -152,7 +152,7 @@
 /* Class = "NSButtonCell"; title = "Use the default password on new advanced windows"; ObjectID = "9ul-2H-k9o"; */
 "9ul-2H-k9o.title" = "Използвай паролата по подразбиране за нови разширени прозорци";
 
-/* Class = "NSButtonCell"; title = "Show encrypt with default password items"; ObjectID = "AU8-I0-71W"; */
+/* Class = "NSButtonCell"; title = "Show \"encrypt with default password\" items"; ObjectID = "AU8-I0-71W"; */
 "AU8-I0-71W.title" = "Покажи елементите криптирани с паролата по подразбиране";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "CWc-wN-FhI"; */

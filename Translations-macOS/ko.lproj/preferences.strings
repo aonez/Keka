@@ -1,4 +1,4 @@
-
+﻿
 /* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
 "159.title" = "기본 압축 형식:";
 
@@ -113,7 +113,7 @@
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "453"; */
 "453.title" = "없음";
 
-/* Class = "NSButtonCell"; title = "Show compress contents of folder items"; ObjectID = "0Am-9a-jtM"; */
+/* Class = "NSButtonCell"; title = "Show \"compress contents of folder\" items"; ObjectID = "0Am-9a-jtM"; */
 "0Am-9a-jtM.title" = "폴더 항목의 내용 압축하기 표시";
 
 /* Class = "NSButtonCell"; title = "Rename the recognized extension from the subfolder"; ObjectID = "1TK-Zy-623"; */
@@ -152,7 +152,7 @@
 /* Class = "NSButtonCell"; title = "Use the default password on new advanced windows"; ObjectID = "9ul-2H-k9o"; */
 "9ul-2H-k9o.title" = "새로운 고급 창에서 기본값 비밀번호 사용";
 
-/* Class = "NSButtonCell"; title = "Show encrypt with default password items"; ObjectID = "AU8-I0-71W"; */
+/* Class = "NSButtonCell"; title = "Show \"encrypt with default password\" items"; ObjectID = "AU8-I0-71W"; */
 "AU8-I0-71W.title" = "기본값 비밀번호로 압축하기 항목 표시";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "CWc-wN-FhI"; */

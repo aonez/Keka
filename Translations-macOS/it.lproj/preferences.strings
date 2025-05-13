@@ -1,4 +1,4 @@
-
+﻿
 /* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
 "159.title" = "Formato di default:";
 
@@ -113,7 +113,7 @@
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "453"; */
 "453.title" = "Nessuno";
 
-/* Class = "NSButtonCell"; title = "Show compress contents of folder items"; ObjectID = "0Am-9a-jtM"; */
+/* Class = "NSButtonCell"; title = "Show \"compress contents of folder\" items"; ObjectID = "0Am-9a-jtM"; */
 "0Am-9a-jtM.title" = "Mostra le opzioni per comprimere il contenuto della cartella";
 
 /* Class = "NSButtonCell"; title = "Rename the recognized extension from the subfolder"; ObjectID = "1TK-Zy-623"; */
@@ -152,7 +152,7 @@
 /* Class = "NSButtonCell"; title = "Use the default password on new advanced windows"; ObjectID = "9ul-2H-k9o"; */
 "9ul-2H-k9o.title" = "Utilizza la password di default nelle nuove finestre avanzate";
 
-/* Class = "NSButtonCell"; title = "Show encrypt with default password items"; ObjectID = "AU8-I0-71W"; */
+/* Class = "NSButtonCell"; title = "Show \"encrypt with default password\" items"; ObjectID = "AU8-I0-71W"; */
 "AU8-I0-71W.title" = "Mostra le opzioni per crittografare con la password di default";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "CWc-wN-FhI"; */
