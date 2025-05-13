@@ -1,4 +1,4 @@
-
+﻿
 /* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
 "159.title" = "Privzeti format:";
 
@@ -113,7 +113,7 @@
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "453"; */
 "453.title" = "Noben";
 
-/* Class = "NSButtonCell"; title = "Show compress contents of folder items"; ObjectID = "0Am-9a-jtM"; */
+/* Class = "NSButtonCell"; title = "Show \"compress contents of folder\" items"; ObjectID = "0Am-9a-jtM"; */
 "0Am-9a-jtM.title" = "Pokaži stisnjeno vsebino elementov mape";
 
 /* Class = "NSButtonCell"; title = "Rename the recognized extension from the subfolder"; ObjectID = "1TK-Zy-623"; */
@@ -152,7 +152,7 @@
 /* Class = "NSButtonCell"; title = "Use the default password on new advanced windows"; ObjectID = "9ul-2H-k9o"; */
 "9ul-2H-k9o.title" = "V novih naprednih oknih uporabite privzeto geslo";
 
-/* Class = "NSButtonCell"; title = "Show encrypt with default password items"; ObjectID = "AU8-I0-71W"; */
+/* Class = "NSButtonCell"; title = "Show \"encrypt with default password\" items"; ObjectID = "AU8-I0-71W"; */
 "AU8-I0-71W.title" = "Pokaži šifriranje s privzetimi elementi gesla";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "CWc-wN-FhI"; */
@@ -363,7 +363,7 @@
 "vWb-gb-JBD.title" = "To geslo lahko uporabite tudi v meniju razširitve Finder.";
 
 /* Class = "NSTextFieldCell"; title = "The Finder Extension needs to be enabled in the  System Preferences, Extensions configuration."; ObjectID = "wgz-2S-eXI"; */
-"wgz-2S-eXI.title" = "Razširitev Finder mora biti omogočena v  System Preferences, Extensions configuration.";
+"wgz-2S-eXI.title" = "Razširitev Finder mora biti omogočena v  Nastavitve, Konfiguracija vtičkov.";
 
 /* Class = "NSTextFieldCell"; title = "Most operations use multiple threads. That means faster operations but also more power consumption and heat."; ObjectID = "xyb-eH-aiy"; */
 "xyb-eH-aiy.title" = "Večina operacij uporablja več niti. To pomeni hitrejše delovanje, a tudi večjo porabo energije in toplote.";
