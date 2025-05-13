@@ -99,7 +99,7 @@ $content_context_menu = "Meni";
 // Changelog info
 $content_changelog_title = "Oglejte si razvoj Keke";
 $content_changelog_entry_title = "Spremembe v različici";
-$content_changelog_firstpublic = "Prva javna izdaja:;
+$content_changelog_firstpublic = "Prva javna izdaja:";
 
 // 404
 $content_404 = "Strani ni bilo mogoče najti";
