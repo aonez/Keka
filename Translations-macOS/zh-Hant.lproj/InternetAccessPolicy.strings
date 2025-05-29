@@ -15,5 +15,5 @@
 /* Software update connection: */
 "SoftwareUpdatePurpose" = "Keka 會連線到 u(pdate).keka.io 檢查新版本。";
 "SoftwareUpdateDenyConsequences" = "如果您拒絕此連線，您就會收不到 Keka 的新版本通知。";
-"SoftwareUpdateGithubPurpose" = "Keka downloads new versions form its repository in github.com/aonez/Keka";
-"SoftwareUpdateGithubDenyConsequences" = "If you deny this connection, you will not be able to download new versions of Keka.";
+"SoftwareUpdateGithubPurpose" = "Keka 會從 github.com/aonez/Keka 的儲存庫下載新版本。";
+"SoftwareUpdateGithubDenyConsequences" = "如果您拒絕此連線，您將無法下載 Keka 的新版本。";
