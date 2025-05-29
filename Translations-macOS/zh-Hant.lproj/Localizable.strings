@@ -200,8 +200,8 @@
 "The extension is enabled" = "已啟用擴充功能";
 "The extension is disabled" = "已停用擴充功能";
 "Enable or disable the extension" = "啟用或停用擴充功能";
-"Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option." = "Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option.";
-"Keka will decide whether to compress or uncompress based on the file format and extension." = "Keka will decide whether to compress or uncompress based on the file format and extension.";
+"Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option." = "Keka 會根據檔案的副檔名和格式，決定是否壓縮或解壓縮未識別的檔案。建議選擇。";
+"Keka will decide whether to compress or uncompress based on the file format and extension." = "Keka 會根據檔案的格式和副檔名，決定是否壓縮或解壓縮。";
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka 會壓縮所有檔案，即便檔案早已壓縮過。您可以藉由將已經壓縮過的檔案拖曳到「拖曳區」的最底部，以在自動模式達到這種效果。";
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka 會嘗試解壓縮所有檔案。您可以藉由將未知檔案拖曳到「拖曳區」的最底部，以在自動模式達到這種效果。";
 "Show the operation log" = "顯示動作記錄";
@@ -248,8 +248,8 @@
 "Can't enable the extension" = "無法啟用延伸功能";
 "In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nPlease update your Keka Helper version to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." = "macOS 15 不能自動啟用 Finder 延伸功能，手動啟用的方式也不太簡單。\n\n更新完 Keka Helper 版本後，就能自動啟用和停用 Finder 延伸功能。你也可以在終端機中照著步驟自行啟用。";
 "In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nYou can install the Keka Helper to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." = "macOS 15 不能自動啟用 Finder 延伸功能，手動啟用的方式也不太簡單。\n\n你可以安裝 Keka Helper，這樣就能自動啟用和停用 Finder 延伸功能。你也可以在終端機中照著步驟自行啟用。";
-"Show password" = "Show password";
-"Hide password" = "Hide password";
+"Show password" = "顯示密碼";
+"Hide password" = "隱藏密碼";
 
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "偏好設定⋯";
