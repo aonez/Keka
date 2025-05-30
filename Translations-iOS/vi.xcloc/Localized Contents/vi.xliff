@@ -439,16 +439,6 @@
         <target>Thêm nhiều tập tin và thư mục vào danh sách nén</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Add some contents using the %@ button or the %@ button in the toolbar." xml:space="preserve">
-        <source>Add some contents using the %@ button or the %@ button in the toolbar.</source>
-        <target>Thêm một số nội dung sử dụng nút %@ hoặc nút %@ trên thanh công cụ.</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar." xml:space="preserve">
-        <source>Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar.</source>
-        <target>Thêm một số nội dung sử dụng nút %@ hoặc các nút %@, %@ hoặc %@ trên thanh công cụ.</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="Add some contents using the %@ button." xml:space="preserve">
         <source>Add some contents using the %@ button.</source>
         <target>Thêm một số nội dung sử dụng nút %@.</target>
@@ -737,11 +727,6 @@
       </trans-unit>
       <trans-unit id="Extract some files with Keka." xml:space="preserve">
         <source>Extract some files with Keka.</source>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Extract the file" xml:space="preserve">
-        <source>Extract the file</source>
-        <target>Giải nén tập tin</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Extraction" xml:space="preserve">

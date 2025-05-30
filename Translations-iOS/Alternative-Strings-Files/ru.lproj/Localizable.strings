@@ -89,12 +89,6 @@
 "Add files and folders to a compression list" = "Добавьте файлы и папки в список сжатия";
 
 /* No comment provided by engineer. */
-"Add some contents using the %@ button or the %@ button in the toolbar." = "Добавьте содержимое, используя кнопку %@ или кнопку %@ в панели инструментов.";
-
-/* No comment provided by engineer. */
-"Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar." = "Добавьте содержимое, используя кнопку %@ или кнопки %@, %@ или %@ в панели инструментов.";
-
-/* No comment provided by engineer. */
 "Add some contents using the %@ button." = "Добавьте содержимое, используя кнопку %@.";
 
 /* No comment provided by engineer. */
@@ -288,9 +282,6 @@
 
 /* No comment provided by engineer. */
 "Extract some files with Keka." = "Распаковать некоторые файлы с помощью Keka.";
-
-/* No comment provided by engineer. */
-"Extract the file" = "Распаковать файл";
 
 /* No comment provided by engineer. */
 "extracted" = "распакован";

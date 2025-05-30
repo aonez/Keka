@@ -89,12 +89,6 @@
 "Add files and folders to a compression list" = "添加文件和文件夹到压缩列表";
 
 /* No comment provided by engineer. */
-"Add some contents using the %@ button or the %@ button in the toolbar." = "使用工具栏中的 %@ 按钮或 %@ 按钮添加内容";
-
-/* No comment provided by engineer. */
-"Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar." = "使用工具栏中的 %@ 或 %@，%@ 或 %@ 按钮添加内容";
-
-/* No comment provided by engineer. */
 "Add some contents using the %@ button." = "使用 %@ 按钮添加内容";
 
 /* No comment provided by engineer. */
@@ -288,9 +282,6 @@
 
 /* No comment provided by engineer. */
 "Extract some files with Keka." = "使用 Keka 提取一些文件";
-
-/* No comment provided by engineer. */
-"Extract the file" = "提取文件";
 
 /* No comment provided by engineer. */
 "extracted" = "已提取";

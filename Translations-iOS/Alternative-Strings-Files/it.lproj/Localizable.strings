@@ -89,12 +89,6 @@
 "Add files and folders to a compression list" = "Aggiungi file e cartelle a un elenco di compressione";
 
 /* No comment provided by engineer. */
-"Add some contents using the %@ button or the %@ button in the toolbar." = "Aggiungi alcuni contenuti utilizzando il pulsante %@ o il pulsante %@ nella barra degli strumenti.";
-
-/* No comment provided by engineer. */
-"Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar." = "Aggiungi alcuni contenuti utilizzando il pulsante %@ o i pulsanti %@, %@ o %@ della barra degli strumenti.";
-
-/* No comment provided by engineer. */
 "Add some contents using the %@ button." = "Aggiungi alcuni contenuti utilizzando il pulsante %@.";
 
 /* No comment provided by engineer. */
@@ -288,9 +282,6 @@
 
 /* No comment provided by engineer. */
 "Extract some files with Keka." = "Estrai alcuni file con Keka.";
-
-/* No comment provided by engineer. */
-"Extract the file" = "Estrai il file";
 
 /* No comment provided by engineer. */
 "extracted" = "estratto";

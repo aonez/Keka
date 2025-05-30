@@ -89,12 +89,6 @@
 "Add files and folders to a compression list" = "압축 목록에 파일 및 폴더 추가";
 
 /* No comment provided by engineer. */
-"Add some contents using the %@ button or the %@ button in the toolbar." = "%@ 버튼이나 도구 모음의 %@ 버튼을 눌러 내용을 추가하세요.";
-
-/* No comment provided by engineer. */
-"Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar." = "%@ 버튼이나 도구 모음의 %@, %@, %@ 버튼을 눌러 내용을 추가하세요.";
-
-/* No comment provided by engineer. */
 "Add some contents using the %@ button." = "%@ 버튼을 눌러 내용을 추가하세요.";
 
 /* No comment provided by engineer. */
@@ -288,9 +282,6 @@
 
 /* No comment provided by engineer. */
 "Extract some files with Keka." = "Keka로 파일의 압축을 해제합니다.";
-
-/* No comment provided by engineer. */
-"Extract the file" = "파일 압축 해제";
 
 /* No comment provided by engineer. */
 "extracted" = "압축 해제됨";
