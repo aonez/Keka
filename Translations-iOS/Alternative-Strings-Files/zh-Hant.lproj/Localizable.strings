@@ -89,12 +89,6 @@
 "Add files and folders to a compression list" = "加入檔案或檔案夾到壓縮列表";
 
 /* No comment provided by engineer. */
-"Add some contents using the %@ button or the %@ button in the toolbar." = "使用%@按鈕，或者是工具列中的%@按鈕加入一些內容。";
-
-/* No comment provided by engineer. */
-"Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar." = "使用%@按鈕，或者是工具列中的%@、%@或%@按鈕加入一些內容。";
-
-/* No comment provided by engineer. */
 "Add some contents using the %@ button." = "使用%@按鈕加入一些內容。";
 
 /* No comment provided by engineer. */
@@ -290,9 +284,6 @@
 "Extract some files with Keka." = "使用Keka擷取一些檔案。";
 
 /* No comment provided by engineer. */
-"Extract the file" = "擷取檔案";
-
-/* No comment provided by engineer. */
 "extracted" = "已擷取";
 
 /* Extraction settings title. */
@@ -401,10 +392,10 @@
 "Modified" = "修改時間";
 
 /* No comment provided by engineer. */
-"Move compressed file(s) to Trash after extraction" = "Move compressed file(s) to Trash after extraction"; // THIS IS NOT LOCALIZED
+"Move compressed file(s) to Trash after extraction" = "擷取後將壓縮檔移到垃圾桶";
 
 /* No comment provided by engineer. */
-"Move original file(s) to Trash after compression" = "Move original file(s) to Trash after compression"; // THIS IS NOT LOCALIZED
+"Move original file(s) to Trash after compression" = "壓縮後將原始檔移到垃圾桶";
 
 /* No comment provided by engineer. */
 "Name" = "名稱";
@@ -644,7 +635,7 @@
 "Use UTF-8 Encoding if Available" = "如果可以就使用UTF-8編碼";
 
 /* No comment provided by engineer. */
-"verification failed" = "verification failed"; // THIS IS NOT LOCALIZED
+"verification failed" = "驗證失敗";
 
 /* No comment provided by engineer. */
 "Verify compression integrity" = "驗證壓縮完整性";
@@ -659,10 +650,10 @@
 "VERIFY_SECTION_TITLE" = "驗證";
 
 /* No comment provided by engineer. */
-"verifyed" = "verifyed"; // THIS IS NOT LOCALIZED
+"verifyed" = "已驗證";
 
 /* No comment provided by engineer. */
-"Verify…" = "Verify…"; // THIS IS NOT LOCALIZED
+"Verify…" = "驗證⋯";
 
 /* No comment provided by engineer. */
 "Volume Size" = "卷宗大小";

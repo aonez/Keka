@@ -458,16 +458,6 @@
         <target>Dateien und Ordner zur Komprimierungsliste hinzufügen</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Add some contents using the %@ button or the %@ button in the toolbar." xml:space="preserve">
-        <source>Add some contents using the %@ button or the %@ button in the toolbar.</source>
-        <target>Fügen Sie Inhalte mit der %@-Taste oder der %@-Taste in der Symbolleiste hinzu.</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar." xml:space="preserve">
-        <source>Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar.</source>
-        <target>Fügen Sie Inhalte mit der %@-Taste oder den Tasten %@, %@ oder %@ in der Symbolleiste hinzu.</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="Add some contents using the %@ button." xml:space="preserve">
         <source>Add some contents using the %@ button.</source>
         <target>Fügen Sie Inhalte mit der %@-Taste hinzu.</target>
@@ -763,11 +753,6 @@
       <trans-unit id="Extract some files with Keka." xml:space="preserve">
         <source>Extract some files with Keka.</source>
         <target>Einige Dateien mit Keka Extraktion.</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Extract the file" xml:space="preserve">
-        <source>Extract the file</source>
-        <target>Die Datei Extraktion</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Extraction" xml:space="preserve">

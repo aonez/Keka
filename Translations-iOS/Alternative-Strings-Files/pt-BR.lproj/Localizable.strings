@@ -89,12 +89,6 @@
 "Add files and folders to a compression list" = "Add files and folders to a compression list"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
-"Add some contents using the %@ button or the %@ button in the toolbar." = "Add some contents using the %@ button or the %@ button in the toolbar."; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar." = "Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar."; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
 "Add some contents using the %@ button." = "Add some contents using the %@ button."; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
@@ -288,9 +282,6 @@
 
 /* No comment provided by engineer. */
 "Extract some files with Keka." = "Extract some files with Keka."; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"Extract the file" = "Extrair Arquivo";
 
 /* No comment provided by engineer. */
 "extracted" = "extraído";

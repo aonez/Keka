@@ -459,16 +459,6 @@
         <target>加入檔案或檔案夾到壓縮列表</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Add some contents using the %@ button or the %@ button in the toolbar." xml:space="preserve">
-        <source>Add some contents using the %@ button or the %@ button in the toolbar.</source>
-        <target>使用%@按鈕，或者是工具列中的%@按鈕加入一些內容。</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar." xml:space="preserve">
-        <source>Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar.</source>
-        <target>使用%@按鈕，或者是工具列中的%@、%@或%@按鈕加入一些內容。</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="Add some contents using the %@ button." xml:space="preserve">
         <source>Add some contents using the %@ button.</source>
         <target>使用%@按鈕加入一些內容。</target>
@@ -764,11 +754,6 @@
       <trans-unit id="Extract some files with Keka." xml:space="preserve">
         <source>Extract some files with Keka.</source>
         <target>使用Keka擷取一些檔案。</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Extract the file" xml:space="preserve">
-        <source>Extract the file</source>
-        <target>擷取檔案</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Extraction" xml:space="preserve">

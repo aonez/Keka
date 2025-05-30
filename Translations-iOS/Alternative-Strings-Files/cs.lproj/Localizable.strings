@@ -89,12 +89,6 @@
 "Add files and folders to a compression list" = "Přidat soubory a složky na seznam pro komprimaci";
 
 /* No comment provided by engineer. */
-"Add some contents using the %@ button or the %@ button in the toolbar." = "Přidat obsah pomocí tlačítka %@ nebo tlačítka %@ v řádku nabídek.";
-
-/* No comment provided by engineer. */
-"Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar." = "Přidat obsah pomocí tlačítka %@ nebo tlačítek %@, %@ nebo %@ v řádku nabídek.";
-
-/* No comment provided by engineer. */
 "Add some contents using the %@ button." = "Přidat obsah pomocí tlačítka %@.";
 
 /* No comment provided by engineer. */
@@ -288,9 +282,6 @@
 
 /* No comment provided by engineer. */
 "Extract some files with Keka." = "Dekomprimovat několik souborů pomocí Keka.";
-
-/* No comment provided by engineer. */
-"Extract the file" = "Dekomprimovat soubor";
 
 /* No comment provided by engineer. */
 "extracted" = "dekomprimováno";

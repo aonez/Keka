@@ -89,12 +89,6 @@
 "Add files and folders to a compression list" = "リストに圧縮するファイルやフォルダを追加する";
 
 /* No comment provided by engineer. */
-"Add some contents using the %@ button or the %@ button in the toolbar." = "ツールバーの %@ ボタンまたは %@ ボタンで内容を追加する。";
-
-/* No comment provided by engineer. */
-"Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar." = "ツールバーの %@ ボタン、または %@ 、 %@ 、 %@ ボタンで内容を追加する。";
-
-/* No comment provided by engineer. */
 "Add some contents using the %@ button." = "%@ ボタンで内容を追加する。";
 
 /* No comment provided by engineer. */
@@ -288,9 +282,6 @@
 
 /* No comment provided by engineer. */
 "Extract some files with Keka." = "いくつかのファイルを Keka で展開";
-
-/* No comment provided by engineer. */
-"Extract the file" = "ファイルを展開";
 
 /* No comment provided by engineer. */
 "extracted" = "展開完了";

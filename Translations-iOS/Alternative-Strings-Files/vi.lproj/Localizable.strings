@@ -89,12 +89,6 @@
 "Add files and folders to a compression list" = "Thêm nhiều tập tin và thư mục vào danh sách nén";
 
 /* No comment provided by engineer. */
-"Add some contents using the %@ button or the %@ button in the toolbar." = "Thêm một số nội dung sử dụng nút %@ hoặc nút %@ trên thanh công cụ.";
-
-/* No comment provided by engineer. */
-"Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar." = "Thêm một số nội dung sử dụng nút %@ hoặc các nút %@, %@ hoặc %@ trên thanh công cụ.";
-
-/* No comment provided by engineer. */
 "Add some contents using the %@ button." = "Thêm một số nội dung sử dụng nút %@.";
 
 /* No comment provided by engineer. */
@@ -288,9 +282,6 @@
 
 /* No comment provided by engineer. */
 "Extract some files with Keka." = "Extract some files with Keka."; // THIS IS NOT LOCALIZED
-
-/* No comment provided by engineer. */
-"Extract the file" = "Giải nén tập tin";
 
 /* No comment provided by engineer. */
 "extracted" = "đã giải nén";

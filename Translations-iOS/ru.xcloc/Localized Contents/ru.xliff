@@ -459,16 +459,6 @@
         <target>Добавьте файлы и папки в список сжатия</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Add some contents using the %@ button or the %@ button in the toolbar." xml:space="preserve">
-        <source>Add some contents using the %@ button or the %@ button in the toolbar.</source>
-        <target>Добавьте содержимое, используя кнопку %@ или кнопку %@ в панели инструментов.</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar." xml:space="preserve">
-        <source>Add some contents using the %@ button or the %@, %@ or %@ buttons in the toolbar.</source>
-        <target>Добавьте содержимое, используя кнопку %@ или кнопки %@, %@ или %@ в панели инструментов.</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="Add some contents using the %@ button." xml:space="preserve">
         <source>Add some contents using the %@ button.</source>
         <target>Добавьте содержимое, используя кнопку %@.</target>
@@ -764,11 +754,6 @@
       <trans-unit id="Extract some files with Keka." xml:space="preserve">
         <source>Extract some files with Keka.</source>
         <target>Распаковать некоторые файлы с помощью Keka.</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Extract the file" xml:space="preserve">
-        <source>Extract the file</source>
-        <target>Распаковать файл</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Extraction" xml:space="preserve">
