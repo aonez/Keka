@@ -251,7 +251,7 @@
 "Show password" = "Afficher le mot de passe";
 "Hide password" = "Cacher le mot de passe";
 "Settings" = "Réglages";
-"Format Selector" = "Format Selector";
+"Format Selector" = "Sélecteur de format";
 
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "Préférences…";
