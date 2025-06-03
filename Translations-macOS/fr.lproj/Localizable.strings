@@ -250,6 +250,8 @@
 "In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nYou can install the Keka Helper to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." = "Dans macOS 15, il n'est pas possible d'activer automatiquement ou facilement l'extension du Finder.\n\nVous pouvez installer Keka Helper pour activer ou désactiver l'extension Finder automatiquement. Vous pouvez également suivre quelques étapes dans le Terminal pour l'activer manuellement.";
 "Show password" = "Afficher le mot de passe";
 "Hide password" = "Cacher le mot de passe";
+"Settings" = "Réglages";
+"Format Selector" = "Format Selector";
 
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "Préférences…";
