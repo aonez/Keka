@@ -311,7 +311,7 @@
       </trans-unit>
       <trans-unit id="%@ items" xml:space="preserve">
         <source>%@ items</source>
-        <target>%@ объект.</target>
+        <target>%@ об.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ of &quot;%@&quot; failed" xml:space="preserve">
@@ -321,17 +321,17 @@
       </trans-unit>
       <trans-unit id="%@ of %@ item" xml:space="preserve">
         <source>%@ of %@ item</source>
-        <target>%@ из %@ объект.</target>
+        <target>%@ из %@ об.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ of %@ items" xml:space="preserve">
         <source>%@ of %@ items</source>
-        <target>%@ из %@ объект.</target>
+        <target>%@ из %@ об.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%lld items" xml:space="preserve">
         <source>%lld items</source>
-        <target>%lld объект.</target>
+        <target>%lld об.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%lld seconds" xml:space="preserve">
@@ -511,7 +511,7 @@
       </trans-unit>
       <trans-unit id="COMPRESSION_OPERATION" xml:space="preserve">
         <source>Compression</source>
-        <target>Сжатие</target>
+        <target>Сжать</target>
         <note>Compression, operation description.</note>
       </trans-unit>
       <trans-unit id="COMPRESSION_RUNNING" xml:space="preserve">
@@ -701,7 +701,7 @@
       </trans-unit>
       <trans-unit id="EXTRACTION_OPERATION" xml:space="preserve">
         <source>Extraction</source>
-        <target>Распаковка</target>
+        <target>Распаковать</target>
         <note>Extraction, operation description.</note>
       </trans-unit>
       <trans-unit id="EXTRACTION_RUNNING" xml:space="preserve">
@@ -1158,7 +1158,7 @@
       </trans-unit>
       <trans-unit id="TRANSLATOR_NAME" xml:space="preserve">
         <source>TRANSLATOR_NAME</source>
-        <target>Alexey Ladygin</target>
+        <target>Алексей Ладыгин</target>
         <note>The translator name, if any.</note>
       </trans-unit>
       <trans-unit id="Terabytes" xml:space="preserve">
@@ -1213,7 +1213,7 @@
       </trans-unit>
       <trans-unit id="The password length should be %lld or higher." xml:space="preserve">
         <source>The password length should be %lld or higher.</source>
-        <target>Длина пароля %lld или больше символов.</target>
+        <target>Длина пароля: не менее %lld символов.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." xml:space="preserve">
@@ -1305,7 +1305,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="VERIFY_OPERATION" xml:space="preserve">
         <source>Verification</source>
-        <target>Проверка</target>
+        <target>Проверить</target>
         <note>Verification, operation description.</note>
       </trans-unit>
       <trans-unit id="VERIFY_RUNNING" xml:space="preserve">
