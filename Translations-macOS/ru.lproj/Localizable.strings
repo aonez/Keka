@@ -251,7 +251,7 @@
 "Show password" = "Показывать пароль";
 "Hide password" = "Скрывать пароль";
 "Settings" = "Настройки";
-"Format Selector" = "Format Selector";
+"Format Selector" = "Формат сжатия";
 
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "Настройки…";
