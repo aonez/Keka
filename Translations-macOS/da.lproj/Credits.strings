@@ -1,0 +1,16 @@
+﻿
+"_PROJECTTITLE_" = "Keka projektet";
+"_PROGRAMMER_" = "Udvikler, designer &amp; vedligeholder";
+"_ARTWORK_" = "Grafisk designer";
+"_TRANSLATIONS_" = "Oversættelser";
+"_TRANSLATIONSOLD_" = "Oversættelser (fra 0.1 til 0.1.4.3)";
+"_TESTERS_" = "Lejlighedsvise testere";
+"_DONATIONS_" = "Donationer (hovedsageligt sorteret efter dato)";
+"_OPENSOURCE_" = "Keka benytter open source kode";
+"_FREEWARE_" = "Keka benytter freeware binaries";
+"_ONEMORETHING_" = "Én ting til";
+"_THANKS_" = "Tak fordi du benytter Keka!";
+"_SOURCE_" = "Kildekoden til Keka 1.0 vil ikke blive frigivet grundet juridiske udfordringer. Juridisk bistand er påkrævet. Hvis du kan hjælpe projektet, så ræk ud til info@keka.io eller via Projekt-siden på Kekas website. Enhver hjælp er værdsat.";
+"_WARRANTY_" = "DENNE SOFTWARE LEVERES AF OPHAVSRETSHAVERNE OG BIDRAGYDERNE \"SOM DEN ER,\" OG ALLE UDTRYKKELIGE ELLER UNDERFORSTÅEDE GARANTIER, HERUNDER, MEN IKKE BEGRÆNSET TIL, UNDERFORSTÅEDE GARANTIER FOR SALGBARHED OG EGNETHED TIL ET BESTEMT FORMÅL, FRASKRIVES. UNDER INGEN OMSTÆNDIGHEDER SKAL OPHAVSRETSHAVERNE ELLER BIDRAGYDERNE VÆRE ANSVARLIGE FOR NOGEN DIREKTE, INDIREKTE, TILFÆLDIGE, SÆRLIGE, EKSEMPLARISKE ELLER FØLGESKADER (HERUNDER, MEN IKKE BEGRÆNSET TIL, ANSKAFFELSE AF ERSTATNINGSPRODUKTER ELLER -TJENESTER; TAB AF BRUG, DATA ELLER OVERSKUD; ELLER FORRETNINGSFORSTYRRELSER), UANSET HVORDAN OG PÅ HVILKEN ANSVARSTEORI, HVAD ENTEN DET ER I KONTRAKT, STRIKT ANSVAR ELLER TORT (HERUNDER UAGTSOMHED), DER OPSTÅR PÅ NOGEN MÅDE SOM FØLGE AF BRUGEN AF DENNE SOFTWARE, SELV HVIS MULIGHEDEN FOR SÅDANNE SKADER ER BLEVET OPLYST.";
+"_THANKSTOALL_" = "Tak til alle donerer, og til alle som har købt Keka via App Store.<br />Tak for al feedback, og for lejlighedsvise bidrag.<br />Tak til Igor Pavlov for en fremragende open source application, og til 'myspace' for at portere koden til POSIX.<br /><br />I holder alle Keka projektet i live, og holder udviklingen i gang.";
+"_APPEARDONATION_" = "Hvis du har doneret og gerne vil optrede her, så <a href=\"mailto:info@keka.io?subject=Keka donation credits\">giv mig besked</a> :)";
