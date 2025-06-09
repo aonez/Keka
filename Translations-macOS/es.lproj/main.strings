@@ -30,13 +30,13 @@
 "K4O-VW-7FA.title" = "Comprobar actualizaciones";
 
 /* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "KcM-nz-gqf"; */
-"KcM-nz-gqf.title" = "Zoom";
+"KcM-nz-gqf.title" = "Acercarse";
 
 /* Class = "NSMenuItem"; title = "Print…"; ObjectID = "M2y-gZ-kEG"; */
-"M2y-gZ-kEG.title" = "Print…";
+"M2y-gZ-kEG.title" = "Imprimir…";
 
 /* Class = "NSMenu"; title = "View"; ObjectID = "PwP-KI-Flr"; */
-"PwP-KI-Flr.title" = "View";
+"PwP-KI-Flr.title" = "Vista";
 
 /* Class = "NSMenuItem"; title = "Save"; ObjectID = "Qst-Ya-feO"; */
 "Qst-Ya-feO.title" = "Guardar";
@@ -63,7 +63,7 @@
 "W9M-Wy-dHU.title" = "Pegar";
 
 /* Class = "NSMenuItem"; title = "Show Toolbar"; ObjectID = "YHt-wh-fCp"; */
-"YHt-wh-fCp.title" = "Show Toolbar";
+"YHt-wh-fCp.title" = "Mostrar Barra de tareas";
 
 /* Class = "NSMenuItem"; title = "Debug"; ObjectID = "ZBc-IE-jQG"; */
 "ZBc-IE-jQG.title" = "Depurar";
@@ -75,7 +75,7 @@
 "bMs-9b-T4a.title" = "Borrar";
 
 /* Class = "NSMenuItem"; title = "View"; ObjectID = "f7N-ob-xwH"; */
-"f7N-ob-xwH.title" = "View";
+"f7N-ob-xwH.title" = "Ver";
 
 /* Class = "NSMenu"; title = "Edit"; ObjectID = "gy4-dO-Qdu"; */
 "gy4-dO-Qdu.title" = "Editar";
@@ -90,13 +90,13 @@
 "maF-B5-Hb6.title" = "Acerca de Keka";
 
 /* Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "nlc-UW-DRW"; */
-"nlc-UW-DRW.title" = "Revert to Saved";
+"nlc-UW-DRW.title" = "Volver a guardado";
 
 /* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "nvz-UK-KlM"; */
 "nvz-UK-KlM.title" = "Guardar como…";
 
 /* Class = "NSMenuItem"; title = "Customize Toolbar…"; ObjectID = "p3U-PZ-hC3"; */
-"p3U-PZ-hC3.title" = "Customize Toolbar…";
+"p3U-PZ-hC3.title" = "Personalizar Barra de tareas…";
 
 /* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "rHb-df-xAE"; */
 "rHb-df-xAE.title" = "Traer todo al frente";
