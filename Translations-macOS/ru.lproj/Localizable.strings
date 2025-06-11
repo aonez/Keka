@@ -240,7 +240,7 @@
 "Verification of \"%@\" failed" = "Архив «%@» не прошел проверку.";
 "The compressed data seems to be invalid" = "Похоже, сжатые данные повреждены.";
 "Encrypted Apple Archive files are only supported on macOS 12 or newer" = "Зашифрованные архивы Apple поддерживаются в macOS 12 Monterey или новее";
-"The password length should be %i or higher" = "Длина пароля %i или больше символов";
+"The password length should be %i or higher" = "Длина пароля: не менее %i символов";
 " (Entire Device)" = " (Entire Device)";
 "Recovery Volumes:" = "Тома восстановления:";
 "Encrypt" = "Зашифровать";
@@ -251,7 +251,7 @@
 "Show password" = "Показывать пароль";
 "Hide password" = "Скрывать пароль";
 "Settings" = "Настройки";
-"Format Selector" = "Format Selector";
+"Format Selector" = "Формат сжатия";
 
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "Настройки…";
