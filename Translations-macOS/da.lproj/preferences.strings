@@ -114,10 +114,10 @@
 "453.title" = "Ingen";
 
 /* Class = "NSButtonCell"; title = "Show compress contents of folder items"; ObjectID = "0Am-9a-jtM"; */
-"0Am-9a-jtM.title" = "Show compress contents of folder items";
+"0Am-9a-jtM.title" = "Vis komprimer indhold af mappe handlinger";
 
 /* Class = "NSButtonCell"; title = "Rename the recognized extension from the subfolder"; ObjectID = "1TK-Zy-623"; */
-"1TK-Zy-623.title" = "Rename the recognized extension from the subfolder";
+"1TK-Zy-623.title" = "Omdøb den genkendte endelse fra undermappen";
 
 /* Class = "NSButtonCell"; title = "Use custom tasks counter in the Dock"; ObjectID = "3cf-gN-q24"; */
 "3cf-gN-q24.title" = "Benyt tæller for igangværende handlinger i Dock";
@@ -141,7 +141,7 @@
 "8AZ-Vv-Lv1.title" = "Altid";
 
 /* Class = "NSTextFieldCell"; title = "You can use these placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n%pb% will be replaced with the clipboard string\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
-"8JN-Ub-qkc.title" = "Du kan benytte disse pladsholdere:\n\n%n erstattes med filnavnet\n%e vil blive erstatte med fil endelsen (typen)\n%p erstattes med navnet på den overliggende mappe\n%c erstattes med antallet af filer\n%d erstattes med den nuværende data\n%t erstattes med det nuværende klokkeslæt\n%s erstattes med det delta navn\n%i% erstattes med navnet på det første element\n%ia% erstattes med det første sorterede navn\n%pb% erstattes med indholdet af udklipsholderen\n\nPladsholderne kan i nogle tilfælde være tomme.";
+"8JN-Ub-qkc.title" = "Du kan benytte disse pladsholdere:\n\n%n erstattes med filnavnet\n%e vil blive erstatte med fil endelsen (typen)\n%p erstattes med navnet på den overliggende mappe\n%c erstattes med antallet af arkiver\n%d erstattes med den nuværende data\n%t erstattes med det nuværende klokkeslæt\n%s erstattes med det delta navn\n%i% erstattes med navnet på det første element\n%ia% erstattes med det første sorterede navn\n%pb% erstattes med indholdet af udklipsholderen\n\nPladsholderne kan i nogle tilfælde være tomme.";
 
 /* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "8Uc-pg-EyS"; */
 "8Uc-pg-EyS.title" = "Benyt kombineret værktøjslinje (nulstiller tilpasninger)";
@@ -216,7 +216,7 @@
 "K5h-j5-bss.title" = "Sæt komprimeringshandlinger i kø:";
 
 /* Class = "NSButtonCell"; title = "Inherit quarantine from downloaded files"; ObjectID = "KDR-ag-bll"; */
-"KDR-ag-bll.title" = "Nedarv karantæne fra downloadede filer";
+"KDR-ag-bll.title" = "Nedarv karantæne fra downloadede arkiver";
 
 /* Class = "NSButtonCell"; title = "Show in external volumes"; ObjectID = "KOF-7X-bQo"; */
 "KOF-7X-bQo.title" = "Vis på udskiftelige enheder";
@@ -276,7 +276,7 @@
 "aOv-6b-JlO.title" = "Vis adgangskoden";
 
 /* Class = "NSButtonCell"; title = "Use parent folder name when compressing multiple files"; ObjectID = "cDs-NB-2os"; */
-"cDs-NB-2os.title" = "Benyt navnet på overliggende mappe når flere filer komprimeres";
+"cDs-NB-2os.title" = "Benyt navnet på overliggende mappe når flere arkiver komprimeres";
 
 /* Class = "NSTextFieldCell"; title = "The fallback folder will be used when Keka can't work in the selected folder."; ObjectID = "caX-B6-61f"; */
 "caX-B6-61f.title" = "Denne mappe vil blive benyttet i stedet, når Keka ikke kan arbejde i den angivne mappe.";
@@ -285,7 +285,7 @@
 "cb7-h4-ScP.title" = "Maksimalt antal tråde per handling:";
 
 /* Class = "NSButtonCell"; title = "Use short tarball extensions (eg: .tgz instead of .tar.gz)"; ObjectID = "cfd-8g-kiU"; */
-"cfd-8g-kiU.title" = "Use short tarball extensions (eg: .tgz instead of .tar.gz)";
+"cfd-8g-kiU.title" = "Brug korte tarball endelser (f.eks. .tgz i stedet for .tar.gz)";
 
 /* Class = "NSButtonCell"; title = "Checking the extension status"; ObjectID = "chn-AV-kXZ"; */
 "chn-AV-kXZ.title" = "Kontrollerer status for udvidelse";

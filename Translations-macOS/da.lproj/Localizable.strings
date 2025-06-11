@@ -72,9 +72,9 @@
 "The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "Udpakningen blev fuldført, men karantænen kunne ikke håndhæves.\nGeninstaller venligst Keka for at løse dette problem";
 "Keka - %i on queue" = "Keka - %i i kø";
 "Keka can't create this %@ image" = "Keka kan ikke oprette denne %@ diskafbilding";
-"You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "Du kan kun oprette %@ diskafbildinger med en enkelt mappe. Placer alle dine filer i én mappe, og træk den til Keka for at oprette din %@ diskafbildning.";
+"You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "Du kan kun oprette %@ diskafbildinger med en enkelt mappe. Placer alle dine arkiver i én mappe, og træk mappen til Keka for at oprette din %@ diskafbildning.";
 "Keka can't create this @% tarball" = "Keka kan ikke oprette denne @% tarball";
-"Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it." = "Keka kan kun oprette krypterede LRZIP arkiver ud fra et enkelt arkiv. Opret venligst et TAR arkiv med dine filer først, og krypter det derefter.";
+"Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it." = "Keka kan kun oprette krypterede LRZIP arkiver ud fra et enkelt arkiv. Opret venligst et TAR arkiv med dine arkiver først, og krypter det derefter.";
 "This operation is not supported on %@." = "Denne handling er ikke understøttet på %@.";
 "Compress \"%@\" in %@ to..." = "Komprimer \"%@\" i %@ til...";
 "Compress in %@ to..." = "Komprimer i %@ til...";
@@ -161,7 +161,7 @@
 "Give home access" = "Giv adgang til hjemmemappe";
 "Customize" = "Tilpas";
 "Keka needs access to the source file/s." = "Keka har brug for adgang til kilde arkiverne.";
-"In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "For at kunne fungere fuldt ud med dine filer, har Keka behov for adgang til disken i din Mac.";
+"In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "For at kunne fungere fuldt ud med dine arkiver, har Keka behov for adgang til disken i din Mac.";
 "\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\nKlik blot på \"Giv adgang til Keka\", din disk bør allerede være valgt.";
 "Give access to Keka" = "Giv adgang til Keka";
 "Full Mac access (Recommended)" = "Fuld adgang til Mac (anbefales)";
