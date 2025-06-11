@@ -6,11 +6,11 @@
 "MDItemKeywords" = "Compresión, Descompresión, Extracción, Archivador, Desarchivador, Expansión, Cifrado, Descifrado, Archivos, Ficheros";
 
 /* Access request descriptions */
-"NSDesktopFolderUsageDescription" = "Keka require acceso al Escritorio para trabajar con sus ficheros.";
-"NSDocumentsFolderUsageDescription" = "Keka require acceso a Documentos para trabajar con sus ficheros.";
-"NSDownloadsFolderUsageDescription" = "Keka require acceso a Descargas para trabajar con sus ficheros.";
-"NSNetworkVolumesUsageDescription" = "Keka require acceso a los volúmenes en red para trabajar con sus ficheros.";
-"NSRemovableVolumesUsageDescription" = "Keka require acceso a los volúmenes extraíbles para trabajar con sus ficheros.";
+"NSDesktopFolderUsageDescription" = "Keka requiere acceso al Escritorio para trabajar con sus ficheros.";
+"NSDocumentsFolderUsageDescription" = "Keka requiere acceso a Documentos para trabajar con sus ficheros.";
+"NSDownloadsFolderUsageDescription" = "Keka requiere acceso a Descargas para trabajar con sus ficheros.";
+"NSNetworkVolumesUsageDescription" = "Keka requiere acceso a los volúmenes en red para trabajar con sus ficheros.";
+"NSRemovableVolumesUsageDescription" = "Keka requiere acceso a los volúmenes extraíbles para trabajar con sus ficheros.";
 
 /* File types */
 "7Z Archive" = "Archivo 7Z";
@@ -19,8 +19,8 @@
 "LZOP Tarball Archive" = "Archivo TAR comprimido con LZOP";
 "LZIP Archive" = "Archivo LZIP";
 "LZIP Tarball Archive" = "Archivo TAR comprimido con LZIP";
-"LZ4 Archive" = "LZ4 Archive";
-"LZ4 Tarball Archive" = "LZ4 Tarball Archive";
+"LZ4 Archive" = "Archivo LZ4";
+"LZ4 Tarball Archive" = "Archivo Tarball LZ4";
 "ZIP Archive" = "Archivo ZIP";
 "ZIPX Archive" = "Archivo ZIPX";
 "XZ Archive" = "Archivo XZ";
@@ -75,6 +75,6 @@
 "Snappy Tarball Archive" = "Archivo TAR comprimido con Snappy";
 "Apple iWork Archive" = "Archivo Apple iWork";
 "Delta Controller Skin" = "Apariencia de controles para Delta";
-"Zipped Web Archive Collection" = "Zipped Web Archive Collection";
+"Zipped Web Archive Collection" = "Colección de archivos web comprimidos";
 "Keka Extraction Package" = "Paquete de extracción de Keka";
-"Data" = "Data";
+"Data" = "Datos";
