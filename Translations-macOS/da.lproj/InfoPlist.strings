@@ -1,0 +1,80 @@
+
+/* Usually leave this one in English */
+"NSHumanReadableCopyright" = "Copyright © 2009-2025 aONe";
+
+/* Spotlight keywords */
+"MDItemKeywords" = "Komprimer, Dekomprimer, Udpak, Pakker, Udpakker, Udtræk, Kryptering, Dekryptering, Arkiver, Filer";
+
+/* Access request descriptions */
+"NSDesktopFolderUsageDescription" = "Keka skal bruge adgang til mappen Skrivebord for at arbejde med filer.";
+"NSDocumentsFolderUsageDescription" = "Keka skal bruge adgang til mappen Dokumenter for at arbejde med filer.";
+"NSDownloadsFolderUsageDescription" = "Keka skal bruge adgang til mappen Overførsler for at arbejde med filer.";
+"NSNetworkVolumesUsageDescription" = "Keka skal bruge adgang til netværksenheder for at arbejde med filer.";
+"NSRemovableVolumesUsageDescription" = "Keka skal bruge adgang til udskiftelige enheder for at arbejde med filer.";
+
+/* File types */
+"7Z Archive" = "7Z Arkiv";
+"LZMA Archive" = "LZMA Arkiv";
+"LZOP Archive" = "LZOP Arkiv";
+"LZOP Tarball Archive" = "LZOP Tarball Arkiv";
+"LZIP Archive" = "LZIP Arkiv";
+"LZIP Tarball Archive" = "LZIP Tarball Arkiv";
+"LZ4 Archive" = "LZ4 Arkiv";
+"LZ4 Tarball Archive" = "LZ4 Tarball Arkiv";
+"ZIP Archive" = "ZIP Arkiv";
+"ZIPX Archive" = "ZIPX Arkiv";
+"XZ Archive" = "XZ Arkiv";
+"XZ Tarball Archive" = "XZ Tarball Arkiv";
+"Brotli Archive" = "Brotli Arkiv";
+"Brotli Tarball Archive" = "Brotli Tarball Arkiv";
+"Zstandard Archive" = "Zstandard Arkiv";
+"Zstandard Tarball Archive" = "Zstandard Tarball Arkiv";
+"RAR Archive" = "RAR Arkiv";
+"RAR Legacy Archive Volume" = "Ældre RAR Arkiv Enhed";
+"Generic Archive Volume" = "Generisk Arkiv Enhed";
+"BZIP2 Archive" = "BZIP2 Arkiv";
+"BZIP2 Tarball Archive" = "BZIP2 Tarball Arkiv";
+"BZIP Archive" = "BZIP Arkiv";
+"BZIP Tarball Archive" = "BZIP Tarball Arkiv";
+"GZIP Archive" = "GZIP Arkiv";
+"GZIP Tarball Archive" = "GZIP Tarball Arkiv";
+"TAR Archive" = "TAR Arkiv";
+"LRZIP Archive" = "LRZIP Arkiv";
+"LRZIP Tarball Archive" = "LRZIP Tarball Arkiv";
+"CPIO Archive" = "CPIO Arkiv";
+"CPGZ Archive" = "CPGZ Arkiv";
+"PAX Archive" = "PAX Arkiv";
+"DMG Disk Image" = "DMG Diskafbildning";
+"ISO Disk Image" = "ISO Diskafbildning";
+"LHA Archive" = "LHA Arkiv";
+"Windows EXE File" = "Windows EXE Arkiv";
+"Windows Cabinet File" = "Windows Cabinet Arkiv";
+"Windows Installer Package" = "Windows Installer Pakke";
+"WIM Disk Image" = "WIM Diskafbildning";
+"Comic Book RAR Archive" = "Comic Book RAR Arkiv";
+"Comic Book ZIP Archive" = "Comic Book ZIP Arkiv";
+"Commodore Amiga MOD Archive" = "Commodore Amiga MOD Arkiv";
+"iOS App" = "iOS App";
+"JAR Archive" = "JAR Arkiv";
+"WAR Archive" = "WAR Arkiv";
+"Compact Pro Archive" = "Compact Pro Arkiv";
+"Synology Package Archive" = "Synology Pakke Arkiv";
+"Android Application Package" = "Android Applikationspakke";
+"Cross-Platform Installer Module (XPI)" = "Cross-Platform Installer Module (XPI)";
+"APPX Archive" = "APPX Arkiv";
+"Safari extension" = "Safari udvidelse";
+"ACE Archive" = "ACE Arkiv";
+"XIP Secure Archive" = "XIP Secure Arkiv";
+"Electronic Book" = "E-bog";
+"Apple Archive" = "Apple Arkiv";
+"Apple Encrypted Archive" = "Apple Krypteret Arkiv";
+"Squashfs Filesystem Archive" = "Squashfs Filsystem Arkiv";
+"WordPress All-in-One Backup" = "WordPress Alt-i-en Backup";
+"InstallShield 3 Archive" = "InstallShield 3 Arkiv";
+"Snappy Archive" = "Snappy Arkiv";
+"Snappy Tarball Archive" = "Snappy Tarball Arkiv";
+"Apple iWork Archive" = "Apple iWork Arkiv";
+"Delta Controller Skin" = "Delta Controller Skin";
+"Zipped Web Archive Collection" = "Zipped Web Arkiv Samling";
+"Keka Extraction Package" = "Keka Udpaknings Pakke";
+"Data" = "Data";
