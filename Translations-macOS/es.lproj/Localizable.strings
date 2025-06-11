@@ -96,7 +96,7 @@
 "About a week" = "Aproximadamente una semana";
 "About a month" = "Aproximadamente un mes";
 "About a year" = "Aproximadamente un año";
-"Finishing..." = "Finishing...";
+"Finishing..." = "Finalizando...";
 "Can't show progress time..." = "No se puede mostrar el tiempo...";
 "Password for \"%@\"" = "Contraseña para \"%@\"";
 "Format" = "Formato";
@@ -131,7 +131,7 @@
 "Drop here to compress" = "Suelta aquí para comprimir";
 "Binary \"%@\" is not accessible" = "El binario \"%@\" no está accesible";
 "The first part \"%@\" can't be found" = "La primera parte \"%@\" no se ha encontrado";
-"Unable to extract a folder" = "Unable to extract a folder";
+"Unable to extract a folder" = "No se puede extraer una carpeta";
 "unknown" = "desconocido";
 "Unknown error" = "Error desconocido";
 "Error code %d using \"%@\"\n%@" = "Código de error %d usando \"%@\"\n%@";
@@ -160,7 +160,7 @@
 "Keka needs file access" = "Keka necesita acceso al disco";
 "Give home access" = "Dar acceso personal";
 "Customize" = "Personalizar";
-"Keka needs access to the source file/s." = "Keka necesita acceso al/a los archivo/s original/es.";
+"Keka needs access to the source file/s." = "Keka necesita acceso al/los archivo/s original/es.";
 "In order to work seamlessly with your files, Keka needs local access to the Mac disk." = "Para que Keka se integre correctamente con tu Mac, necesita acceso local al disco.";
 "\nSimply click on \"Give access to Keka\", your disk should already be selected." = "\nHaz clic en \"Dar acceso a Keka\", tu disco ya está seleccionado.";
 "Give access to Keka" = "Dar acceso a Keka";
@@ -199,7 +199,7 @@
 "Give access to the compressed file" = "Dar acceso al archivo comprimido";
 "The extension is enabled" = "La extensión está habilitada";
 "The extension is disabled" = "La extensión está deshabilitada";
-"Enable or disable the extension" = "Habilita o deshabilita l'extensió";
+"Enable or disable the extension" = "Habilita o deshabilita la extensión";
 "Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option." = "Keka decidirá si comprimir o descomprimir según la extensión y el formato de los ficheros desconocidos. Esta es la opción recomendada.";
 "Keka will decide whether to compress or uncompress based on the file format and extension." = "Keka decidirá si comprimir o descomprimir según el formato y la extensión de los ficheros.";
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka comprimirá todos los ficheros, incluso aquellos que ya estén comprimidos. Puedes forzar la compresión de archivos ya comprimidos en el modo automático arrastrando y soltándolos en la parte inferior de la zona de arrastre.";
@@ -246,8 +246,8 @@
 "Encrypt" = "Encriptar";
 "Skip" = "Omitir";
 "Can't enable the extension" = "No se ha podido activar la extensión";
-"In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nPlease update your Keka Helper version to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." = "En macOS 15 no se puede activar la Extensión de Finder de forma automática o sencilla.\n\nPor favor actualiza la versión del Keka Helper para activar o desactivar la extensión de forma automática. Como alternativa puedes seguir unos pasos utilziando el Terminal para activarla de forma manual.";
-"In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nYou can install the Keka Helper to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." = "En macOS 15 no se puede activar la Extensión de Finder de forma automática o sencilla.\n\nPuedes instalar el Keka Helper para activar o desactivar la extensión de forma automática. Como alternativa puedes seguir unos pasos utilziando el Terminal para activarla de forma manual.";
+"In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nPlease update your Keka Helper version to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." = "En macOS 15 no se puede activar la Extensión de Finder de forma automática o sencilla.\n\nPor favor actualiza la versión del Keka Helper para activar o desactivar la extensión de forma automática. Como alternativa puedes seguir unos pasos utilizando el Terminal para activarla de forma manual.";
+"In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nYou can install the Keka Helper to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." = "En macOS 15 no se puede activar la Extensión de Finder de forma automática o sencilla.\n\nPuedes instalar el Keka Helper para activar o desactivar la extensión de forma automática. Como alternativa puedes seguir unos pasos utilizando el Terminal para activarla de forma manual.";
 "Show password" = "Mostrar la contraseña";
 "Hide password" = "Ocultar la contraseña";
 "Settings" = "Ajustes";
