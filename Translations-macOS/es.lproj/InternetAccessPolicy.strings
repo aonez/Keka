@@ -13,7 +13,7 @@
 "ApplicationDescription" = "Keka es un compresor de archivos para macOS.";
 
 /* Software update connection: */
-"SoftwareUpdatePurpose" = "Keka comprueba si hay nuevas versiones conectandose a u.keka.io.";
+"SoftwareUpdatePurpose" = "Keka comprueba si hay nuevas versiones conectándose a u.keka.io.";
 "SoftwareUpdateDenyConsequences" = "Si bloqueas esta conexión, no recibirás notificaciones de las nuevas versiones de Keka.";
 "SoftwareUpdateGithubPurpose" = "Keka descarga las nuevas versiones desde su repositorio en github.com/aonez/Keka";
 "SoftwareUpdateGithubDenyConsequences" = "Si bloqueas esta conexión, no podrás descargar las nuevas versiones de Keka.";
