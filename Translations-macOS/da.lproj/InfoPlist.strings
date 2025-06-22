@@ -6,11 +6,11 @@
 "MDItemKeywords" = "Komprimer, Dekomprimer, Udpak, Pakker, Udpakker, Udtræk, Kryptering, Dekryptering, Arkiver, Filer";
 
 /* Access request descriptions */
-"NSDesktopFolderUsageDescription" = "Keka skal bruge adgang til mappen Skrivebord for at arbejde med filer.";
-"NSDocumentsFolderUsageDescription" = "Keka skal bruge adgang til mappen Dokumenter for at arbejde med filer.";
-"NSDownloadsFolderUsageDescription" = "Keka skal bruge adgang til mappen Overførsler for at arbejde med filer.";
-"NSNetworkVolumesUsageDescription" = "Keka skal bruge adgang til netværksenheder for at arbejde med filer.";
-"NSRemovableVolumesUsageDescription" = "Keka skal bruge adgang til udskiftelige enheder for at arbejde med filer.";
+"NSDesktopFolderUsageDescription" = "Keka skal bruge adgang til mappen Skrivebord for at arbejde med arkiver.";
+"NSDocumentsFolderUsageDescription" = "Keka skal bruge adgang til mappen Dokumenter for at arbejde med arkiver.";
+"NSDownloadsFolderUsageDescription" = "Keka skal bruge adgang til mappen Overførsler for at arbejde med arkiver.";
+"NSNetworkVolumesUsageDescription" = "Keka skal bruge adgang til netværksenheder for at arbejde med arkiver.";
+"NSRemovableVolumesUsageDescription" = "Keka skal bruge adgang til udskiftelige enheder for at arbejde med arkiver.";
 
 /* File types */
 "7Z Archive" = "7Z Arkiv";
