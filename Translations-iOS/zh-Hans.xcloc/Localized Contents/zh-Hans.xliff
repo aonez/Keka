@@ -269,7 +269,7 @@
       </trans-unit>
       <trans-unit id="XZ Tarball Archive" xml:space="preserve">
         <source>XZ Tarball Archive</source>
-        <target>XZ 压缩归档</target>
+        <target>XZ 压缩 TAR 归档</target>
         <note/>
       </trans-unit>
       <trans-unit id="ZIP Archive" xml:space="preserve">
@@ -294,7 +294,7 @@
       </trans-unit>
       <trans-unit id="Zstandard Tarball Archive" xml:space="preserve">
         <source>Zstandard Tarball Archive</source>
-        <target>Zstd 压缩归档</target>
+        <target>Zstd 压缩 TAR 归档</target>
         <note/>
       </trans-unit>
     </body>
@@ -316,7 +316,7 @@
       </trans-unit>
       <trans-unit id="%@ of &quot;%@&quot; failed" xml:space="preserve">
         <source>%@ of "%@" failed</source>
-        <target>%@ 的 "%@" 失败</target>
+        <target>对 "%@" %@ 失败</target>
         <note>_OPERATION_ of "_FILENAME_" failed</note>
       </trans-unit>
       <trans-unit id="%@ of %@ item" xml:space="preserve">
@@ -451,7 +451,7 @@
       </trans-unit>
       <trans-unit id="Add a Photo or Video" xml:space="preserve">
         <source>Add a Photo or Video</source>
-        <target>添加图片或视频</target>
+        <target>添加照片或视频</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Add files and folders to a compression list" xml:space="preserve">
@@ -671,7 +671,7 @@
       </trans-unit>
       <trans-unit id="Disable &quot;%@&quot; if you prefer to use a default configuration." xml:space="preserve">
         <source>Disable "%@" if you prefer to use a default configuration.</source>
-        <target>如果你想使用默认设置，请禁用 "%@"。</target>
+        <target>如果您想使用默认设置，请禁用 "%@"。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Dismiss" xml:space="preserve">
@@ -783,7 +783,7 @@
       </trans-unit>
       <trans-unit id="File not informed properly, try again." xml:space="preserve">
         <source>File not informed properly, try again.</source>
-        <target>文件信息不正确，请重试。</target>
+        <target>文件未正确提交，请重试。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Files" xml:space="preserve">
@@ -803,7 +803,7 @@
       </trans-unit>
       <trans-unit id="Folder drop is only supported on iOS 16 or newer" xml:space="preserve">
         <source>Folder drop is only supported on iOS 16 or newer</source>
-        <target>仅 iOS 16 或更高版本支持文件夹拖放</target>
+        <target>文件夹拖放仅支持 iOS 16 或更新版本</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Format" xml:space="preserve">
@@ -813,7 +813,7 @@
       </trans-unit>
       <trans-unit id="General" xml:space="preserve">
         <source>General</source>
-        <target>常规</target>
+        <target>通用</target>
         <note>General settings title.</note>
       </trans-unit>
       <trans-unit id="Get Info" xml:space="preserve">
@@ -838,7 +838,7 @@
       </trans-unit>
       <trans-unit id="If you got here, please get in touch with the developers." xml:space="preserve">
         <source>If you got here, please get in touch with the developers.</source>
-        <target>如果你在这里，请与开发人员联系。</target>
+        <target>如果您访问了这里，请与开发人员联系。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Information" xml:space="preserve">
@@ -848,12 +848,12 @@
       </trans-unit>
       <trans-unit id="Keka's Folder" xml:space="preserve">
         <source>Keka's Folder</source>
-        <target>Keka 的文件夹</target>
+        <target>Keka 文件夹</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Keka's icon" xml:space="preserve">
         <source>Keka's icon</source>
-        <target>Keka 的图标</target>
+        <target>Keka 图标</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Kilobytes" xml:space="preserve">
@@ -863,7 +863,7 @@
       </trans-unit>
       <trans-unit id="Kind" xml:space="preserve">
         <source>Kind</source>
-        <target>种类</target>
+        <target>类别</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Last opened" xml:space="preserve">
@@ -898,12 +898,12 @@
       </trans-unit>
       <trans-unit id="Move compressed file(s) to Trash after extraction" xml:space="preserve">
         <source>Move compressed file(s) to Trash after extraction</source>
-        <target>解压后将压缩文件移动到回收站</target>
+        <target>解压后将压缩文件移动到废纸篓</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Move original file(s) to Trash after compression" xml:space="preserve">
         <source>Move original file(s) to Trash after compression</source>
-        <target>压缩后将原始文件移动到回收站</target>
+        <target>压缩后将原始文件移动到废纸篓</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Name" xml:space="preserve">
@@ -1013,7 +1013,7 @@
       </trans-unit>
       <trans-unit id="Preparing" xml:space="preserve">
         <source>Preparing</source>
-        <target>准备中</target>
+        <target>正在准备</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Preview" xml:space="preserve">
@@ -1123,7 +1123,7 @@
       </trans-unit>
       <trans-unit id="Show or hide additional information about the selected item" xml:space="preserve">
         <source>Show or hide additional information about the selected item</source>
-        <target>显示或隐藏已选项附加信息</target>
+        <target>显示或隐藏已选择项的附加信息</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Size" xml:space="preserve">
@@ -1176,13 +1176,13 @@
         <target>更改无法保存</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="The character %@ is not compatilbe with the %@ format." xml:space="preserve">
-        <source>The character %@ is not compatilbe with the %@ format.</source>
+      <trans-unit id="The character %@ is not compatible with the %@ format." xml:space="preserve">
+        <source>The character %@ is not compatible with the %@ format.</source>
         <target>字符 %@ 与 %@ 格式不兼容。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="The characters %@ are not compatilbe with the %@ format." xml:space="preserve">
-        <source>The characters %@ are not compatilbe with the %@ format.</source>
+      <trans-unit id="The characters %@ are not compatible with the %@ format." xml:space="preserve">
+        <source>The characters %@ are not compatible with the %@ format.</source>
         <target>字符 %@ 与 %@ 格式不兼容。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
@@ -1225,7 +1225,7 @@
         <source>This volume file needs additional files access to be opened.
 You can give access to the rest of the files or the parent folder.</source>
         <target>该卷文件需要额外文件访问权限才能打开。
-你可以授予对其或父文件夹的访问权限。</target>
+您可以授予对其或父文件夹的访问权限。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="To extract" xml:space="preserve">
@@ -1235,7 +1235,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="To prevent a timeout on large operation, enable this setting. The result will always be true if enabled." xml:space="preserve">
         <source>To prevent a timeout on large operation, enable this setting. The result will always be true if enabled.</source>
-        <target>启用该设置以防止大文件操作超时。</target>
+        <target>启用该设置以防止大文件操作超时。如果启用，结果将始终为真。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Total size" xml:space="preserve">
@@ -1260,7 +1260,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="Unable to apply the app icon" xml:space="preserve">
         <source>Unable to apply the app icon</source>
-        <target>无法应用该应用图标</target>
+        <target>无法应用该图标</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Unable to browse &quot;%@&quot;" xml:space="preserve">
@@ -1315,7 +1315,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="VERIFY_SECTION_TITLE" xml:space="preserve">
         <source>Verifying</source>
-        <target>验证</target>
+        <target>正在验证</target>
         <note>Verifying, tasks section title.</note>
       </trans-unit>
       <trans-unit id="Verify compression integrity" xml:space="preserve">
@@ -1325,7 +1325,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="Verify…" xml:space="preserve">
         <source>Verify…</source>
-        <target>验证中…</target>
+        <target>验证…</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Volume Size" xml:space="preserve">
@@ -1360,7 +1360,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="by %@" xml:space="preserve">
         <source>by %@</source>
-        <target>%@ 制作</target>
+        <target>制作，由 %@</target>
         <note>"by aone" part from "Made with love by aone".</note>
       </trans-unit>
       <trans-unit id="compress" xml:space="preserve">
