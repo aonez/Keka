@@ -360,7 +360,7 @@
 "u2R-2w-aOA.title" = "压缩时使用默认密码";
 
 /* Class = "NSTextFieldCell"; title = "You can also use this password from the Finder Extension's menu."; ObjectID = "vWb-gb-JBD"; */
-"vWb-gb-JBD.title" = "你还可以从访达扩展菜单中使用该密码。";
+"vWb-gb-JBD.title" = "您还可以从访达扩展菜单中使用该密码。";
 
 /* Class = "NSTextFieldCell"; title = "The Finder Extension needs to be enabled in the  System Preferences, Extensions configuration."; ObjectID = "wgz-2S-eXI"; */
 "wgz-2S-eXI.title" = "访达扩展需要在系统偏好设置，扩展程序中配置。";
