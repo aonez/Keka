@@ -26,29 +26,32 @@
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[2] = "700 MB CD"; ObjectID = "2271"; */
 "2271.ibShadowedObjectValues[2]" = "700MB CD";
 
-/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[3] = "4.7 GB DVD"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[3]" = "4.7GB DVD";
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[3] = "4 GB FAT32"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[3]" = "4 GB FAT32";
 
-/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[4] = "8.5 GB DVD (DL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[4]" = "8.5GB DVD (DL)";
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[4] = "4.7 GB DVD"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[4]" = "4.7GB DVD";
 
-/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[5] = "7.8 GB Mini Blu-ray (SL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[5]" = "7.8GB Mini Blu-ray (SL)";
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[5] = "8.5 GB DVD (DL)"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[5]" = "8.5GB DVD (DL)";
 
-/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[6] = "15.6 GB Mini Blu-ray (DL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[6]" = "15.6GB Mini Blu-ray (DL)";
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[6] = "7.8 GB Mini Blu-ray (SL)"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[6]" = "7.8GB Mini Blu-ray (SL)";
 
-/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[7] = "25 GB Blu-ray (SL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[7]" = "25GB Blu-ray (SL)";
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[7] = "15.6 GB Mini Blu-ray (DL)"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[7]" = "15.6GB Mini Blu-ray (DL)";
 
-/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[8] = "50 GB Blu-ray (DL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[8]" = "50GB Blu-ray (DL)";
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[8] = "25 GB Blu-ray (SL)"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[8]" = "25GB Blu-ray (SL)";
 
-/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[9] = "100 GB Blu-ray XL (TL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[9]" = "100GB Blu-ray XL (TL)";
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[9] = "50 GB Blu-ray (DL)"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[9]" = "50GB Blu-ray (DL)";
 
-/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[10] = "128 GB Blu-ray XL (QL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[10]" = "128GB Blu-ray XL (QL)";
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[10] = "100 GB Blu-ray XL (TL)"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[10]" = "100GB Blu-ray XL (TL)";
+
+/* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[11] = "128 GB Blu-ray XL (QL)"; ObjectID = "2271"; */
+"2271.ibShadowedObjectValues[11]" = "128GB Blu-ray XL (QL)";
 
 /* Class = "NSTextFieldCell"; title = "Volume name:"; ObjectID = "2343"; */
 "2343.title" = "Název svazku:";
