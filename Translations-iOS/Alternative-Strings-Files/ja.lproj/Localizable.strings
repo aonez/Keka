@@ -602,6 +602,9 @@
 "TRANSLATOR_NAME" = "tedSW";
 
 /* No comment provided by engineer. */
+"Try lowering the compression level, faster levels use less memory." = "Try lowering the compression level, faster levels use less memory."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Type" = "形式";
 
 /* No comment provided by engineer. */
@@ -635,7 +638,13 @@
 "Use UTF-8 Encoding if Available" = "可能であれば UTF-8 エンコーディングを使用する";
 
 /* No comment provided by engineer. */
+"Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly." = "Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "verification failed" = "検証に失敗しました";
+
+/* No comment provided by engineer. */
+"verified" = "検証完了";
 
 /* No comment provided by engineer. */
 "Verify compression integrity" = "圧縮の完全性を検証する";
@@ -648,9 +657,6 @@
 
 /* Verifying, tasks section title. */
 "VERIFY_SECTION_TITLE" = "検証";
-
-/* No comment provided by engineer. */
-"verifyed" = "検証完了";
 
 /* No comment provided by engineer. */
 "Verify…" = "検証中…";

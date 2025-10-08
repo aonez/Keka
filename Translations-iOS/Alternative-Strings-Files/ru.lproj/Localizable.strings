@@ -602,6 +602,9 @@
 "TRANSLATOR_NAME" = "Alexey Ladygin";
 
 /* No comment provided by engineer. */
+"Try lowering the compression level, faster levels use less memory." = "Try lowering the compression level, faster levels use less memory."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Type" = "Тип содержимого";
 
 /* No comment provided by engineer. */
@@ -635,7 +638,13 @@
 "Use UTF-8 Encoding if Available" = "Использовать кодировку UTF-8, если возможно";
 
 /* No comment provided by engineer. */
+"Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly." = "Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "verification failed" = "проверка не удалась";
+
+/* No comment provided by engineer. */
+"verified" = "проверен";
 
 /* No comment provided by engineer. */
 "Verify compression integrity" = "Проверить целостность сжатия";
@@ -648,9 +657,6 @@
 
 /* Verifying, tasks section title. */
 "VERIFY_SECTION_TITLE" = "Проверить";
-
-/* No comment provided by engineer. */
-"verifyed" = "проверен";
 
 /* No comment provided by engineer. */
 "Verify…" = "Проверить…";

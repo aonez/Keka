@@ -602,6 +602,9 @@
 "TRANSLATOR_NAME" = "Мирослав Драгоев";
 
 /* No comment provided by engineer. */
+"Try lowering the compression level, faster levels use less memory." = "Try lowering the compression level, faster levels use less memory."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Type" = "Тип";
 
 /* No comment provided by engineer. */
@@ -635,7 +638,13 @@
 "Use UTF-8 Encoding if Available" = "Използване на UTF-8 кодиране ако е възможно";
 
 /* No comment provided by engineer. */
+"Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly." = "Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "verification failed" = "verification failed"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"verified" = "verified"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Verify compression integrity" = "Verify compression integrity"; // THIS IS NOT LOCALIZED
@@ -648,9 +657,6 @@
 
 /* Verifying, tasks section title. */
 "VERIFY_SECTION_TITLE" = "Проверка";
-
-/* No comment provided by engineer. */
-"verifyed" = "verifyed"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Verify…" = "Verify…"; // THIS IS NOT LOCALIZED

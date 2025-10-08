@@ -602,6 +602,9 @@
 "TRANSLATOR_NAME" = "VinBoiSoft";
 
 /* No comment provided by engineer. */
+"Try lowering the compression level, faster levels use less memory." = "Try lowering the compression level, faster levels use less memory."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Type" = "Tipo";
 
 /* No comment provided by engineer. */
@@ -635,7 +638,13 @@
 "Use UTF-8 Encoding if Available" = "Utilizza codifica UTF-8 se disponibile";
 
 /* No comment provided by engineer. */
+"Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly." = "Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "verification failed" = "verifica non riuscita";
+
+/* No comment provided by engineer. */
+"verified" = "verificato";
 
 /* No comment provided by engineer. */
 "Verify compression integrity" = "Verifica integrità della compressione";
@@ -648,9 +657,6 @@
 
 /* Verifying, tasks section title. */
 "VERIFY_SECTION_TITLE" = "Verifico";
-
-/* No comment provided by engineer. */
-"verifyed" = "verificato";
 
 /* No comment provided by engineer. */
 "Verify…" = "Verifica…";

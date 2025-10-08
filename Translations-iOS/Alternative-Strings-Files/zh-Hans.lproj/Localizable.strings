@@ -602,6 +602,9 @@
 "TRANSLATOR_NAME" = "Max Sky";
 
 /* No comment provided by engineer. */
+"Try lowering the compression level, faster levels use less memory." = "Try lowering the compression level, faster levels use less memory."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Type" = "类型";
 
 /* No comment provided by engineer. */
@@ -633,6 +636,9 @@
 
 /* No comment provided by engineer. */
 "Use UTF-8 Encoding if Available" = "如果可用，使用 UTF-8 编码";
+
+/* No comment provided by engineer. */
+"Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly." = "Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly."; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "verification failed" = "验证失败";

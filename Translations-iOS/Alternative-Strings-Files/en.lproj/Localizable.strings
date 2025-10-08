@@ -602,6 +602,9 @@
 "TRANSLATOR_NAME" = "TRANSLATOR_NAME";
 
 /* No comment provided by engineer. */
+"Try lowering the compression level, faster levels use less memory." = "Try lowering the compression level, faster levels use less memory.";
+
+/* No comment provided by engineer. */
 "Type" = "Type";
 
 /* No comment provided by engineer. */
@@ -635,7 +638,13 @@
 "Use UTF-8 Encoding if Available" = "Use UTF-8 Encoding if Available";
 
 /* No comment provided by engineer. */
+"Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly." = "Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly.";
+
+/* No comment provided by engineer. */
 "verification failed" = "verification failed";
+
+/* No comment provided by engineer. */
+"verified" = "verified";
 
 /* No comment provided by engineer. */
 "Verify compression integrity" = "Verify compression integrity";
@@ -648,9 +657,6 @@
 
 /* Verifying, tasks section title. */
 "VERIFY_SECTION_TITLE" = "Verifying";
-
-/* No comment provided by engineer. */
-"verifyed" = "verifyed";
 
 /* No comment provided by engineer. */
 "Verify…" = "Verify…";

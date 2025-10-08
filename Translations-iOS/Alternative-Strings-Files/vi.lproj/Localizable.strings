@@ -602,6 +602,9 @@
 "TRANSLATOR_NAME" = "mwolfinspace";
 
 /* No comment provided by engineer. */
+"Try lowering the compression level, faster levels use less memory." = "Try lowering the compression level, faster levels use less memory."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Type" = "Loại";
 
 /* No comment provided by engineer. */
@@ -635,7 +638,13 @@
 "Use UTF-8 Encoding if Available" = "Sử dụng mã hoá UTF-8 nếu có";
 
 /* No comment provided by engineer. */
+"Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly." = "Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "verification failed" = "verification failed"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"verified" = "verified"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Verify compression integrity" = "Xác minh tính toàn vẹn tập nén";
@@ -648,9 +657,6 @@
 
 /* Verifying, tasks section title. */
 "VERIFY_SECTION_TITLE" = "Xác minh";
-
-/* No comment provided by engineer. */
-"verifyed" = "verifyed"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Verify…" = "Verify…"; // THIS IS NOT LOCALIZED

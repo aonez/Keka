@@ -602,6 +602,9 @@
 "TRANSLATOR_NAME" = "aone、PeterDaveHello和Yi-Jyun Pan";
 
 /* No comment provided by engineer. */
+"Try lowering the compression level, faster levels use less memory." = "Try lowering the compression level, faster levels use less memory."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Type" = "類型";
 
 /* No comment provided by engineer. */
@@ -635,7 +638,13 @@
 "Use UTF-8 Encoding if Available" = "如果可以就使用UTF-8編碼";
 
 /* No comment provided by engineer. */
+"Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly." = "Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "verification failed" = "驗證失敗";
+
+/* No comment provided by engineer. */
+"verified" = "已驗證";
 
 /* No comment provided by engineer. */
 "Verify compression integrity" = "驗證壓縮完整性";
@@ -648,9 +657,6 @@
 
 /* Verifying, tasks section title. */
 "VERIFY_SECTION_TITLE" = "驗證";
-
-/* No comment provided by engineer. */
-"verifyed" = "已驗證";
 
 /* No comment provided by engineer. */
 "Verify…" = "驗證⋯";
