@@ -602,7 +602,7 @@
 "TRANSLATOR_NAME" = "VinBoiSoft";
 
 /* No comment provided by engineer. */
-"Try lowering the compression level, faster levels use less memory." = "Try lowering the compression level, faster levels use less memory."; // THIS IS NOT LOCALIZED
+"Try lowering the compression level, faster levels use less memory." = "Prova ad abbassare il livello di compressione, i livelli più veloci utilizzano meno memoria.";
 
 /* No comment provided by engineer. */
 "Type" = "Tipo";
@@ -638,7 +638,7 @@
 "Use UTF-8 Encoding if Available" = "Utilizza codifica UTF-8 se disponibile";
 
 /* No comment provided by engineer. */
-"Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly." = "Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly."; // THIS IS NOT LOCALIZED
+"Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly." = "L'utilizzo di Keka tramite azioni ed estensioni presenta limitazioni di memoria.\nProva questa operazione utilizzando direttamente Keka.";
 
 /* No comment provided by engineer. */
 "verification failed" = "verifica non riuscita";
