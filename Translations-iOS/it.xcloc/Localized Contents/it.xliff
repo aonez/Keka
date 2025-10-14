@@ -1254,6 +1254,7 @@ Puoi dare accesso al resto dei file o alla cartella principale.</target>
       </trans-unit>
       <trans-unit id="Try lowering the compression level, faster levels use less memory." xml:space="preserve">
         <source>Try lowering the compression level, faster levels use less memory.</source>
+        <target>Prova ad abbassare il livello di compressione, i livelli più veloci utilizzano meno memoria.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Type" xml:space="preserve">
@@ -1314,6 +1315,8 @@ Puoi dare accesso al resto dei file o alla cartella principale.</target>
       <trans-unit id="Using Keka through actions and extensions have memory limitations.&#10;Try this operation using Keka directly." xml:space="preserve">
         <source>Using Keka through actions and extensions have memory limitations.
 Try this operation using Keka directly.</source>
+        <target>L'utilizzo di Keka tramite azioni ed estensioni presenta limitazioni di memoria.
+Prova questa operazione utilizzando direttamente Keka.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="VERIFY_OPERATION" xml:space="preserve">
