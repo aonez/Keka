@@ -602,7 +602,7 @@
 "TRANSLATOR_NAME" = "Marc66";
 
 /* No comment provided by engineer. */
-"Try lowering the compression level, faster levels use less memory." = "Try lowering the compression level, faster levels use less memory."; // THIS IS NOT LOCALIZED
+"Try lowering the compression level, faster levels use less memory." = "Essayer de réduire le niveau de compression, les niveaux plus rapides utilisent moins de mémoire.";
 
 /* No comment provided by engineer. */
 "Type" = "Type";
@@ -638,7 +638,7 @@
 "Use UTF-8 Encoding if Available" = "Utiliser l'encodage UTF-8 si disponible";
 
 /* No comment provided by engineer. */
-"Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly." = "Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly."; // THIS IS NOT LOCALIZED
+"Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly." = "L'utilisation de Keka à travers des actions et extensions présente des limites de mémoire.\nEssayer cette opération en utilisation Keka directement.";
 
 /* No comment provided by engineer. */
 "verification failed" = "vérification échouée";
