@@ -1182,10 +1182,12 @@
       </trans-unit>
       <trans-unit id="The character %@ is not compatilbe with the %@ format." xml:space="preserve">
         <source>The character %@ is not compatilbe with the %@ format.</source>
+        <target>字符 %@ 与 %@ 格式不兼容。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The characters %@ are not compatilbe with the %@ format." xml:space="preserve">
         <source>The characters %@ are not compatilbe with the %@ format.</source>
+        <target>字符集 %@ 与 %@ 格式不兼容。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." xml:space="preserve">
@@ -1252,6 +1254,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="Try lowering the compression level, faster levels use less memory." xml:space="preserve">
         <source>Try lowering the compression level, faster levels use less memory.</source>
+        <target>尝试降低压缩级别，使用少量内存且更快。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Type" xml:space="preserve">
@@ -1312,6 +1315,8 @@ You can give access to the rest of the files or the parent folder.</source>
       <trans-unit id="Using Keka through actions and extensions have memory limitations.&#10;Try this operation using Keka directly." xml:space="preserve">
         <source>Using Keka through actions and extensions have memory limitations.
 Try this operation using Keka directly.</source>
+        <target>使用扩展程序操作 Keka 存在内存限制。
+请直接使用 Keka 尝试此操作。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="VERIFY_OPERATION" xml:space="preserve">
