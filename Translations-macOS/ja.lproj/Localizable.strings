@@ -73,7 +73,7 @@
 "Keka - %i on queue" = "Keka - 残りの項目: %i個";
 "Keka can't create this %@ image" = "%@ イメージを作成できません。";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "1つのフォルダのみを使用して %@ が作成できます。すべてのファイルを1つのフォルダに入れてから、そのフォルダを Keka にドラッグして %@ を作成してください。";
-"Keka can't create this @% tarball" = "Keka は @% のtarballを作成できません";
+"Keka can't create this %@ tarball" = "Keka は %@ のtarballを作成できません";
 "Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it." = "Kekaは、単体では暗号化されたLRZIPアーカイブしか作成できません。最初にTARアーカイブを作成した後に暗号化してください。";
 "This operation is not supported on %@." = "この操作は %@ には対応していません。";
 "Compress \"%@\" in %@ to..." = "\"%@\" の %@ 形式の保存先...";

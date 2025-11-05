@@ -73,7 +73,7 @@
 "Keka - %i on queue" = "Keka - %i v čakalni vrsti";
 "Keka can't create this %@ image" = "Keka ne more ustvariti te %@ slike";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "Z eno mapo lahko ustvarite samo %@ slik. Poskusite spraviti vse svoje datoteke v mapo in jo spustite v Keka, da ustvarite sliko %@.";
-"Keka can't create this @% tarball" = "Keka ne more ustvariti tega @% arhiva";
+"Keka can't create this %@ tarball" = "Keka ne more ustvariti tega %@ arhiva";
 "Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it." = "Keka lahko ustvari samo šifrirane arhive LRZIP z eno datoteko. Najprej ustvarite arhiv TAR s svojimi datotekami in ga nato šifrirajte.";
 "This operation is not supported on %@." = "This operation is not supported on %@.";
 "Compress \"%@\" in %@ to..." = "Ta operacija ni podprta na %@.";

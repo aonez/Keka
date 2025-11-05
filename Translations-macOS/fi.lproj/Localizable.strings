@@ -73,7 +73,7 @@
 "Keka - %i on queue" = "Keka - %i jonossa";
 "Keka can't create this %@ image" = "Keka ei voi luoda tätä %@ tiedostoa";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "Voit vain luoda %@ tiedoston yhdellä kansiolla. Kokeile laittaa tiedostosi kansioon ja pudota se Kekaan luodaksesi %@ tiedoston.";
-"Keka can't create this @% tarball" = "Keka ei voi luoda tätä @% tarball:ia";
+"Keka can't create this %@ tarball" = "Keka ei voi luoda tätä %@ tarball:ia";
 "Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it." = "Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it.";
 "This operation is not supported on %@." = "Tämä operaatio ei ole tuettu kohteessa %@.";
 "Compress \"%@\" in %@ to..." = "Pakkaa \"%@\" kohteessa %@ kohteeseen...";

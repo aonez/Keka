@@ -73,7 +73,7 @@
 "Keka - %i on queue" = "Keka - %i trong hàng đợi";
 "Keka can't create this %@ image" = "Keka không thể tạo ra %@ ảnh đĩa";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "Bạn chỉ có thể tạo %@ ảnh đĩa với một thư mục đơn lẻ. Hãy thử đưa tất cả tập tin vào một thư mục rồi kéo thả vào Keka để tạo ra %@ ảnh đĩa.";
-"Keka can't create this @% tarball" = "Keka không thể tạo ra @% tarball";
+"Keka can't create this %@ tarball" = "Keka không thể tạo ra %@ tarball";
 "Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it." = "Keka chỉ có thể tạo các lưu trữ LRZIP được mã hóa với từng tập tin. Vui lòng tạo một lưu trữ TAR với các tập tin của bạn trước và sau đó mã hóa tệp TAR đó";
 "This operation is not supported on %@." = "Thao tác này không hỗ trợ trên %@.";
 "Compress \"%@\" in %@ to..." = "Nén \"%@\" trong %@ đến...";
