@@ -8,6 +8,6 @@
 "Encrypt with the default password here" = "Zabezpečit výchozím heslem";
 "Encrypt with the default password to..." = "Zabezpečit výchozím heslem…";
 "Extract here" = "Rozbalit";
-"Extract to..." = "Rozbalit ve složce…";
-"Extract to \"%@\"" = "Rozbalit do složky \"%@\"";
+"Extract to..." = "Rozbalit do…";
+"Extract to \"%@\"" = "Rozbalit do \"%@\"";
 "Compress with Keka" = "Komprimovat pomocí Keka";
