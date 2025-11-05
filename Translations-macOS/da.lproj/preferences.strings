@@ -114,7 +114,7 @@
 "453.title" = "Ingen";
 
 /* Class = "NSButtonCell"; title = "Show \"compress contents of folder\" items"; ObjectID = "0Am-9a-jtM"; */
-"0Am-9a-jtM.title" = "Vis komprimer indhold af mappe handlinger";
+"0Am-9a-jtM.title" = "Vis \"komprimer indhold af mappe\" handlinger";
 
 /* Class = "NSButtonCell"; title = "Rename the recognized extension from the subfolder"; ObjectID = "1TK-Zy-623"; */
 "1TK-Zy-623.title" = "Omdøb den genkendte endelse fra undermappen";
@@ -153,7 +153,7 @@
 "9ul-2H-k9o.title" = "Benyt standard adgangskoden i nye avancerede vinduer";
 
 /* Class = "NSButtonCell"; title = "Show \"encrypt with default password\" items"; ObjectID = "AU8-I0-71W"; */
-"AU8-I0-71W.title" = "Show encrypt with default password items";
+"AU8-I0-71W.title" = "Vis \"krypter med standard adgangskode\" handlinger";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "CWc-wN-FhI"; */
 "CWc-wN-FhI.title" = "Brugerdefineret mappe...";
@@ -252,7 +252,7 @@
 "WCN-jH-W9J.placeholderString" = "Indtast brugerdefineret navn her";
 
 /* Class = "NSButtonCell"; title = "Remove bad password header structure extractions"; ObjectID = "Wd0-yz-M1h"; */
-"Wd0-yz-M1h.title" = "Fjern ugyldige password header strukturer fra udpakninger";
+"Wd0-yz-M1h.title" = "Fjern ugyldige adgangskode header strukturer fra udpakninger";
 
 /* Class = "NSMenuItem"; title = "Automatic"; ObjectID = "XOB-JO-UQT"; */
 "XOB-JO-UQT.title" = "Automatisk";
@@ -300,7 +300,7 @@
 "dmz-xh-p9a.title" = "Kun hvis indstillingsvinduer er åbne";
 
 /* Class = "NSButtonCell"; title = "Set folder's modification date to extraction date"; ObjectID = "eBj-1b-wBg"; */
-"eBj-1b-wBg.title" = "Sæt data for ændring på mappen til udpakningsdato";
+"eBj-1b-wBg.title" = "Sæt dato for ændring på mappen til udpakningsdato";
 
 /* Class = "NSButtonCell"; title = "Always tarball non-archiving formats (like GZ or BZIP2) "; ObjectID = "faa-9Y-Axk"; */
 "faa-9Y-Axk.title" = "Benyt altid tarball ikke-arkiverende formater (såsom GZ eller BZIP2) ";

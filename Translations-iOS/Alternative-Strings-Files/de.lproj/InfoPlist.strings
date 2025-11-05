@@ -1,165 +1,165 @@
-/* (No Comment) */
+/* No comment provided by engineer. */
 "7Z Archive" = "7Z Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "ACE Archive" = "ACE Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "ALZip Archive" = "ALZip Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Amiga DCS Disk Archive" = "Amiga DCS Disk Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Amiga Disk File" = "Amiga Disk Datei";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Amiga DMS Disk Archive" = "Amiga DMS Disk Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Amiga PackDev Disk Archive" = "Amiga PackDev Disk Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Amiga PowerPacker Archive" = "Amiga PowerPacker Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Amiga xMash Disk Archive" = "Amiga xMash Disk Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Amiga Zoom Disk Archive" = "Amiga Zoom Disk Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Android Application Package" = "Android Anwendungs-Paket";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Apple Archive" = "Apple Archive"; // THIS IS NOT LOCALIZED
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "APPX Archive" = "APPX Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "ARC Archive" = "ARC Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "ARJ Archive" = "ARJ Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "BZIP2 Archive" = "BZIP2 Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "BZIP2 Tarball Archive" = "BZIP2 Tarball Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "CAB Archive" = "CAB Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "CDI Disk Image" = "CDI Disk Image";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Compact Pro Archive" = "Compact Pro Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Compressed Amiga Disk File" = "Komprimierte Amiga Disk Datei";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Deb Archive" = "Deb Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "DiskDoubler Archive" = "DiskDoubler Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Generic Archive Volume" = "Generischer Archiv-Volume";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "HA Archive" = "HA Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Keka Extraction Package" = "Keka Extraktions-Paket";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "LBR Archive" = "LBR Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "LhA Archive" = "LhA Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "LhF Archive" = "LhF Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Linux RPM Archive" = "Linux RPM Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "LZMA File" = "LZMA Datei";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "LZX Archive" = "LZX Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "MDF Disk Image" = "MDF Disk Image";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Microsoft MSI Installer" = "Microsoft MSI Installer";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Now Compress Archive" = "Now Compress Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "NRG Disk Image" = "NRG Disk Image";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "NSA Archive" = "NSA Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "PackIt Archive" = "PackIt Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Pax Archive" = "Pax Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "PMA Archive" = "PMA Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "RAR Archive" = "RAR Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "SAR Archive" = "SAR Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Self-Extracting Archive" = "Selbstextrahierendes Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Unix Compress File" = "Unix Komprimierte Datei";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Unix Compress Tar Archive" = "Unix Komprimiertes Tar Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "WARC Web Archive" = "WARC Web Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "XAR Archive" = "XAR Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "XIP Archive" = "XIP Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "XZ Archive" = "XZ Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "XZ Tarball Archive" = "XZ Tarball Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "ZIP Archive" = "ZIP Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "ZIPX Archive" = "ZIPX Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "ZOO Archive" = "ZOO Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Zstandard Archive" = "Zstandard Archiv";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Zstandard Tarball Archive" = "Zstandard Tarball Archiv";
 

@@ -5,7 +5,7 @@
 "%@ items" = "%@ 项";
 
 /* _OPERATION_ of "_FILENAME_" failed */
-"%@ of \"%@\" failed" = "%@ 的 \"%@\" 失败";
+"%@ of \"%@\" failed" = "对 \"%@\" %@ 失败";
 
 /* No comment provided by engineer. */
 "%@ of %@ item" = "%@ 的 %@ 项";
@@ -83,7 +83,7 @@
 "Add a Folder" = "添加文件夹";
 
 /* No comment provided by engineer. */
-"Add a Photo or Video" = "添加图片或视频";
+"Add a Photo or Video" = "添加照片或视频";
 
 /* No comment provided by engineer. */
 "Add files and folders to a compression list" = "添加文件和文件夹到压缩列表";
@@ -122,7 +122,7 @@
 "Browser" = "浏览器";
 
 /* "by aone" part from "Made with love by aone". */
-"by %@" = "%@ 制作";
+"by %@" = "制作，由 %@";
 
 /* No comment provided by engineer. */
 "Bytes" = "字节";
@@ -236,7 +236,7 @@
 "Destination" = "目标位置";
 
 /* No comment provided by engineer. */
-"Disable \"%@\" if you prefer to use a default configuration." = "如果你想使用默认设置，请禁用 \"%@\"。";
+"Disable \"%@\" if you prefer to use a default configuration." = "如果您想使用默认设置，请禁用 \"%@\"。";
 
 /* No comment provided by engineer. */
 "Dismiss" = "撤销";
@@ -323,7 +323,7 @@
 "File for Keka" = "Keka 文件";
 
 /* No comment provided by engineer. */
-"File not informed properly, try again." = "文件信息不正确，请重试。";
+"File not informed properly, try again." = "文件未正确提交，请重试。";
 
 /* No comment provided by engineer. */
 "Files" = "文件";
@@ -335,13 +335,13 @@
 "Finishing" = "完成中";
 
 /* No comment provided by engineer. */
-"Folder drop is only supported on iOS 16 or newer" = "仅 iOS 16 或更高版本支持文件夹拖放";
+"Folder drop is only supported on iOS 16 or newer" = "文件夹拖放仅支持 iOS 16 或更新版本";
 
 /* No comment provided by engineer. */
 "Format" = "格式";
 
 /* General settings title. */
-"General" = "常规";
+"General" = "通用";
 
 /* No comment provided by engineer. */
 "Get Info" = "获取信息";
@@ -356,22 +356,22 @@
 "Hide Password by Default" = "默认隐藏密码";
 
 /* No comment provided by engineer. */
-"If you got here, please get in touch with the developers." = "如果你在这里，请与开发人员联系。";
+"If you got here, please get in touch with the developers." = "如果您访问了这里，请与开发人员联系。";
 
 /* No comment provided by engineer. */
 "Information" = "信息";
 
 /* No comment provided by engineer. */
-"Keka's Folder" = "Keka 的文件夹";
+"Keka's Folder" = "Keka 文件夹";
 
 /* No comment provided by engineer. */
-"Keka's icon" = "Keka 的图标";
+"Keka's icon" = "Keka 图标";
 
 /* No comment provided by engineer. */
 "Kilobytes" = "千字节";
 
 /* No comment provided by engineer. */
-"Kind" = "种类";
+"Kind" = "类别";
 
 /* No comment provided by engineer. */
 "Last opened" = "上次打开";
@@ -392,10 +392,10 @@
 "Modified" = "已修改";
 
 /* No comment provided by engineer. */
-"Move compressed file(s) to Trash after extraction" = "解压后将压缩文件移动到回收站";
+"Move compressed file(s) to Trash after extraction" = "解压后将压缩文件移动到废纸篓";
 
 /* No comment provided by engineer. */
-"Move original file(s) to Trash after compression" = "压缩后将原始文件移动到回收站";
+"Move original file(s) to Trash after compression" = "压缩后将原始文件移动到废纸篓";
 
 /* No comment provided by engineer. */
 "Name" = "名称";
@@ -461,7 +461,7 @@
 "Please select the encoding for:" = "请选择编码：";
 
 /* No comment provided by engineer. */
-"Preparing" = "准备中";
+"Preparing" = "正在准备";
 
 /* No comment provided by engineer. */
 "Preview" = "预览";
@@ -527,7 +527,7 @@
 "Show or hide additional advanced settings" = "显示或隐藏附加高级设置";
 
 /* No comment provided by engineer. */
-"Show or hide additional information about the selected item" = "显示或隐藏已选项附加信息";
+"Show or hide additional information about the selected item" = "显示或隐藏已选择项的附加信息";
 
 /* No comment provided by engineer. */
 "Size" = "大小";
@@ -554,10 +554,10 @@
 "The changes could not be saved" = "更改无法保存";
 
 /* No comment provided by engineer. */
-"The character %@ is not compatilbe with the %@ format." = "字符 %@ 与 %@ 格式不兼容。";
+"The character %@ is not compatilbe with the %@ format." = "The character %@ is not compatilbe with the %@ format."; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
-"The characters %@ are not compatilbe with the %@ format." = "字符 %@ 与 %@ 格式不兼容。";
+"The characters %@ are not compatilbe with the %@ format." = "The characters %@ are not compatilbe with the %@ format."; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "压缩可能需要比可用内存（%@）更多的内存，并且可能无法成功完成。将被限制为一个线程。";
@@ -581,13 +581,13 @@
 "The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "越慢的级别压缩效果越好。存储级别不进行任何压缩，只归档内容。";
 
 /* No comment provided by engineer. */
-"This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "该卷文件需要额外文件访问权限才能打开。\n你可以授予对其或父文件夹的访问权限。";
+"This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "该卷文件需要额外文件访问权限才能打开。\n您可以授予对其或父文件夹的访问权限。";
 
 /* No comment provided by engineer. */
 "To extract" = "提取";
 
 /* No comment provided by engineer. */
-"To prevent a timeout on large operation, enable this setting. The result will always be true if enabled." = "启用该设置以防止大文件操作超时。";
+"To prevent a timeout on large operation, enable this setting. The result will always be true if enabled." = "启用该设置以防止大文件操作超时。如果启用，结果将始终为真。";
 
 /* No comment provided by engineer. */
 "Total size" = "总大小";
@@ -602,10 +602,13 @@
 "TRANSLATOR_NAME" = "Max Sky";
 
 /* No comment provided by engineer. */
+"Try lowering the compression level, faster levels use less memory." = "Try lowering the compression level, faster levels use less memory."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Type" = "类型";
 
 /* No comment provided by engineer. */
-"Unable to apply the app icon" = "无法应用该应用图标";
+"Unable to apply the app icon" = "无法应用该图标";
 
 /* No comment provided by engineer. */
 "Unable to browse \"%@\"" = "无法浏览 \"%@\"";
@@ -635,7 +638,13 @@
 "Use UTF-8 Encoding if Available" = "如果可用，使用 UTF-8 编码";
 
 /* No comment provided by engineer. */
+"Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly." = "Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "verification failed" = "验证失败";
+
+/* No comment provided by engineer. */
+"verified" = "verified"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Verify compression integrity" = "验证压缩完整性";
@@ -647,13 +656,10 @@
 "VERIFY_RUNNING" = "正在验证";
 
 /* Verifying, tasks section title. */
-"VERIFY_SECTION_TITLE" = "验证";
+"VERIFY_SECTION_TITLE" = "正在验证";
 
 /* No comment provided by engineer. */
-"verifyed" = "已验证";
-
-/* No comment provided by engineer. */
-"Verify…" = "验证中…";
+"Verify…" = "验证…";
 
 /* No comment provided by engineer. */
 "Volume Size" = "卷大小";

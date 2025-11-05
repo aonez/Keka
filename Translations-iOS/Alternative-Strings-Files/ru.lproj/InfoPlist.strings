@@ -1,165 +1,165 @@
-/* (No Comment) */
+/* No comment provided by engineer. */
 "7Z Archive" = "Архив 7Z";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "ACE Archive" = "Архив ACE";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "ALZip Archive" = "Архив ALZip";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Amiga DCS Disk Archive" = "Образ диска Amiga DCS";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Amiga Disk File" = "Образ диска Amiga Disk File";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Amiga DMS Disk Archive" = "Образ диска Amiga DMS";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Amiga PackDev Disk Archive" = "Образ диска Amiga PackDev";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Amiga PowerPacker Archive" = "Архив Amiga PowerPacker";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Amiga xMash Disk Archive" = "Образ диска Amiga xMash";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Amiga Zoom Disk Archive" = "Образ диска Amiga Zoom";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Android Application Package" = "Пакет приложения для Android";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Apple Archive" = "Архив Apple";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "APPX Archive" = "Архив APPX";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "ARC Archive" = "Архив ARC";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "ARJ Archive" = "Архив ARJ";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "BZIP2 Archive" = "Архив BZIP2";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "BZIP2 Tarball Archive" = "Сжатый TAR-архив BZIP2";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "CAB Archive" = "Файл Windows Cabinet";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "CDI Disk Image" = "Образ диска CDI";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Compact Pro Archive" = "Архив Compact Pro";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Compressed Amiga Disk File" = "Сжатый образ диска Amiga Disk File";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Deb Archive" = "Архив Deb";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "DiskDoubler Archive" = "Архив DiskDoubler";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Generic Archive Volume" = "Том архива";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "HA Archive" = "Архив HA";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Keka Extraction Package" = "Пакет распаковки Keka";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "LBR Archive" = "Архив LBR";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "LhA Archive" = "Архив LHA";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "LhF Archive" = "Архив LHF";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Linux RPM Archive" = "Архив Linux RPM";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "LZMA File" = "Архив LZMA";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "LZX Archive" = "Архив LZX";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "MDF Disk Image" = "Образ диска MDF";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Microsoft MSI Installer" = "Пакет Windows Installer";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Now Compress Archive" = "Архив Now Compress";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "NRG Disk Image" = "Образ диска NRG";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "NSA Archive" = "Архив NSA";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "PackIt Archive" = "Архив PackIt";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Pax Archive" = "Архив Pax";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "PMA Archive" = "Архив PMA";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "RAR Archive" = "Архив RAR";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "SAR Archive" = "Архив SAR";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Self-Extracting Archive" = "Самораспаковывающийся архив";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Unix Compress File" = "Архив Unix Compress";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Unix Compress Tar Archive" = "Сжатый TAR-архив Unix Compress";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "WARC Web Archive" = "Веб-архив WARC";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "XAR Archive" = "Архив XAR";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "XIP Archive" = "Архив XIP";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "XZ Archive" = "Архив XZ";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "XZ Tarball Archive" = "Сжатый TAR-архив XZ";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "ZIP Archive" = "Архив ZIP";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "ZIPX Archive" = "Архив ZIPX";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "ZOO Archive" = "Архив ZOO";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Zstandard Archive" = "Архив Zstandard";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Zstandard Tarball Archive" = "Сжатый TAR-архив Zstandard";
 

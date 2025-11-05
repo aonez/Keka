@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Keka/en.lproj/AppShortcuts.strings" source-language="en" target-language="es" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
     </header>
     <body>
       <trans-unit id="Compress Files with ${applicationName}" xml:space="preserve">
@@ -19,291 +19,295 @@
   </file>
   <file original="Keka/en.lproj/InfoPlist.strings" source-language="en" target-language="es" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
     </header>
     <body>
       <trans-unit id="7Z Archive" xml:space="preserve">
         <source>7Z Archive</source>
         <target>Archivo 7Z</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="ACE Archive" xml:space="preserve">
         <source>ACE Archive</source>
         <target>Archivo ACE</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="ALZip Archive" xml:space="preserve">
         <source>ALZip Archive</source>
         <target>Archivo ALZip</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="APPX Archive" xml:space="preserve">
         <source>APPX Archive</source>
         <target>Archivo APPX</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="ARC Archive" xml:space="preserve">
         <source>ARC Archive</source>
         <target>Archivo ARC</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="ARJ Archive" xml:space="preserve">
         <source>ARJ Archive</source>
         <target>Archivo ARJ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Amiga DCS Disk Archive" xml:space="preserve">
         <source>Amiga DCS Disk Archive</source>
         <target>Archivo de disco Amiga DCS</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Amiga DMS Disk Archive" xml:space="preserve">
         <source>Amiga DMS Disk Archive</source>
         <target>Archivo de disco Amiga DMS</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Amiga Disk File" xml:space="preserve">
         <source>Amiga Disk File</source>
         <target>Archivo de disco Amiga</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Amiga PackDev Disk Archive" xml:space="preserve">
         <source>Amiga PackDev Disk Archive</source>
         <target>Archivo de disco Amiga PackDev</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Amiga PowerPacker Archive" xml:space="preserve">
         <source>Amiga PowerPacker Archive</source>
         <target>Archivo de disco Amiga PowerPacker</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Amiga Zoom Disk Archive" xml:space="preserve">
         <source>Amiga Zoom Disk Archive</source>
         <target>Archivo de disco Amiga Zoom</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Amiga xMash Disk Archive" xml:space="preserve">
         <source>Amiga xMash Disk Archive</source>
         <target>Archivo de disco Amiga xMash</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Android Application Package" xml:space="preserve">
         <source>Android Application Package</source>
         <target>Aplicación empaquetada de Android</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Apple Archive" xml:space="preserve">
         <source>Apple Archive</source>
         <target>Archivo de Apple</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="BZIP2 Archive" xml:space="preserve">
         <source>BZIP2 Archive</source>
         <target>Archivo BZIP2</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="BZIP2 Tarball Archive" xml:space="preserve">
         <source>BZIP2 Tarball Archive</source>
         <target>Archivo TAR comprimido con BZIP2</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="CAB Archive" xml:space="preserve">
         <source>CAB Archive</source>
         <target>Archivo CAB</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="CDI Disk Image" xml:space="preserve">
         <source>CDI Disk Image</source>
         <target>Imagen de disco CDI</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Compact Pro Archive" xml:space="preserve">
         <source>Compact Pro Archive</source>
         <target>Archivo Compact Pro</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Compressed Amiga Disk File" xml:space="preserve">
         <source>Compressed Amiga Disk File</source>
         <target>Imagen de disco comprimida de Amiga</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Deb Archive" xml:space="preserve">
         <source>Deb Archive</source>
         <target>Archivo Deb</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DiskDoubler Archive" xml:space="preserve">
         <source>DiskDoubler Archive</source>
         <target>Archivo DiskDoubler</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Generic Archive Volume" xml:space="preserve">
         <source>Generic Archive Volume</source>
         <target>Archivo de volumen genérico</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="HA Archive" xml:space="preserve">
         <source>HA Archive</source>
         <target>Archivo HA</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Keka Extraction Package" xml:space="preserve">
         <source>Keka Extraction Package</source>
         <target>Paquete de extracción de Keka</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="LBR Archive" xml:space="preserve">
         <source>LBR Archive</source>
         <target>Archivo LBR</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="LZMA File" xml:space="preserve">
         <source>LZMA File</source>
         <target>Archivo LZMA</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="LZX Archive" xml:space="preserve">
         <source>LZX Archive</source>
         <target>Archivo LZX</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="LhA Archive" xml:space="preserve">
         <source>LhA Archive</source>
         <target>Archivo LhA</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="LhF Archive" xml:space="preserve">
         <source>LhF Archive</source>
         <target>Archivo LhF</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Linux RPM Archive" xml:space="preserve">
         <source>Linux RPM Archive</source>
         <target>Archivo Linux RPM</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="MDF Disk Image" xml:space="preserve">
         <source>MDF Disk Image</source>
         <target>Imagen de disco MDF</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Microsoft MSI Installer" xml:space="preserve">
         <source>Microsoft MSI Installer</source>
         <target>Paquete de instalación de Windows</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="NRG Disk Image" xml:space="preserve">
         <source>NRG Disk Image</source>
         <target>Imagen de disco NRG</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="NSA Archive" xml:space="preserve">
         <source>NSA Archive</source>
         <target>Archivo NSA</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Now Compress Archive" xml:space="preserve">
         <source>Now Compress Archive</source>
         <target>Archivo Now Compress</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="PMA Archive" xml:space="preserve">
         <source>PMA Archive</source>
         <target>Archivo PMA</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="PackIt Archive" xml:space="preserve">
         <source>PackIt Archive</source>
         <target>Archivo PackIt</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Pax Archive" xml:space="preserve">
         <source>Pax Archive</source>
         <target>Archivo Pax</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="RAR Archive" xml:space="preserve">
         <source>RAR Archive</source>
         <target>Archivo RAR</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="SAR Archive" xml:space="preserve">
         <source>SAR Archive</source>
         <target>Archivo SAR</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Self-Extracting Archive" xml:space="preserve">
         <source>Self-Extracting Archive</source>
         <target>Archivo auto-extraíble</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Unix Compress File" xml:space="preserve">
         <source>Unix Compress File</source>
         <target>Archivo Unix Compress</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Unix Compress Tar Archive" xml:space="preserve">
         <source>Unix Compress Tar Archive</source>
         <target>Archivo TAR comprimido con Unix Compress</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="WARC Web Archive" xml:space="preserve">
         <source>WARC Web Archive</source>
         <target>Archivo web WARC</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="XAR Archive" xml:space="preserve">
         <source>XAR Archive</source>
         <target>Archivo XAR</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="XIP Archive" xml:space="preserve">
         <source>XIP Archive</source>
         <target>Archivo XIP</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="XZ Archive" xml:space="preserve">
         <source>XZ Archive</source>
         <target>Archivo XZ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="XZ Tarball Archive" xml:space="preserve">
         <source>XZ Tarball Archive</source>
         <target>Archivo TAR comprimido con XZ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="ZIP Archive" xml:space="preserve">
         <source>ZIP Archive</source>
         <target>Archivo ZIP</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="ZIPX Archive" xml:space="preserve">
         <source>ZIPX Archive</source>
         <target>Archivo ZIPX</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="ZOO Archive" xml:space="preserve">
         <source>ZOO Archive</source>
         <target>Archivo ZOO</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Zstandard Archive" xml:space="preserve">
         <source>Zstandard Archive</source>
         <target>Archivo Zstandard</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Zstandard Tarball Archive" xml:space="preserve">
         <source>Zstandard Tarball Archive</source>
         <target>Archivo TAR comprimido con Zstandard</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
   </file>
   <file original="Keka/en.lproj/Localizable.strings" source-language="en" target-language="es" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
     </header>
     <body>
+      <trans-unit id="%@" xml:space="preserve">
+        <source>%@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="%@ item" xml:space="preserve">
         <source>%@ item</source>
         <target>%@ ítem</target>
@@ -1248,6 +1252,10 @@ Puedes dar acceso al resto de archivos o a la carpeta que los contiene.</target>
         <target>Traducido por %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Try lowering the compression level, faster levels use less memory." xml:space="preserve">
+        <source>Try lowering the compression level, faster levels use less memory.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Type" xml:space="preserve">
         <source>Type</source>
         <target>Tipo</target>
@@ -1301,6 +1309,11 @@ Puedes dar acceso al resto de archivos o a la carpeta que los contiene.</target>
       <trans-unit id="Use special coloring for known formats" xml:space="preserve">
         <source>Use special coloring for known formats</source>
         <target>Utilizar colores específicos para los formatos conocidos</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Using Keka through actions and extensions have memory limitations.&#10;Try this operation using Keka directly." xml:space="preserve">
+        <source>Using Keka through actions and extensions have memory limitations.
+Try this operation using Keka directly.</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="VERIFY_OPERATION" xml:space="preserve">
@@ -1423,8 +1436,8 @@ Puedes dar acceso al resto de archivos o a la carpeta que los contiene.</target>
         <target>verificación fallida</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="verifyed" xml:space="preserve">
-        <source>verifyed</source>
+      <trans-unit id="verified" xml:space="preserve">
+        <source>verified</source>
         <target>verificado</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
@@ -1432,7 +1445,7 @@ Puedes dar acceso al resto de archivos o a la carpeta que los contiene.</target>
   </file>
   <file original="KekaBrowseAction/en.lproj/InfoPlist.strings" source-language="en" target-language="es" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -1444,7 +1457,7 @@ Puedes dar acceso al resto de archivos o a la carpeta que los contiene.</target>
   </file>
   <file original="KekaCompressionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="es" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -1456,7 +1469,7 @@ Puedes dar acceso al resto de archivos o a la carpeta que los contiene.</target>
   </file>
   <file original="KekaExtractionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="es" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">

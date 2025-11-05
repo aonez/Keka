@@ -1,165 +1,165 @@
-/* (No Comment) */
+/* No comment provided by engineer. */
 "7Z Archive" = "7Z封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "ACE Archive" = "ACE封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "ALZip Archive" = "ALZip封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Amiga DCS Disk Archive" = "Amiga DCS磁碟封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Amiga Disk File" = "Amiga磁碟檔案";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Amiga DMS Disk Archive" = "Amiga DMS磁碟封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Amiga PackDev Disk Archive" = "Amiga PackDev磁碟封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Amiga PowerPacker Archive" = "Amiga PowerPacker封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Amiga xMash Disk Archive" = "Amiga xMash磁碟封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Amiga Zoom Disk Archive" = "Amiga Zoom磁碟封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Android Application Package" = "Android應用程式套件";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Apple Archive" = "Apple封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "APPX Archive" = "APPX封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "ARC Archive" = "ARC封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "ARJ Archive" = "ARJ封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "BZIP2 Archive" = "BZIP2封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "BZIP2 Tarball Archive" = "BZIP2 Tarball封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "CAB Archive" = "CAB封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "CDI Disk Image" = "CDI磁碟封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Compact Pro Archive" = "Compact Pro封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Compressed Amiga Disk File" = "壓縮過的Amiga磁碟檔案";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Deb Archive" = "Deb封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "DiskDoubler Archive" = "DiskDoubler封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Generic Archive Volume" = "通用封存卷宗";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "HA Archive" = "HA封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Keka Extraction Package" = "Keka解壓縮套件";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "LBR Archive" = "LBR封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "LhA Archive" = "LhA封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "LhF Archive" = "LhF封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Linux RPM Archive" = "Linux RPM封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "LZMA File" = "LZMA檔案";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "LZX Archive" = "LZX封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "MDF Disk Image" = "MDF磁碟映像檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Microsoft MSI Installer" = "Microsoft MSI安裝程式";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Now Compress Archive" = "Now Compress封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "NRG Disk Image" = "NRG磁碟映像檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "NSA Archive" = "NSA封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "PackIt Archive" = "PackIt封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Pax Archive" = "Pax封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "PMA Archive" = "PMA封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "RAR Archive" = "RAR封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "SAR Archive" = "SAR封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Self-Extracting Archive" = "自解開封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Unix Compress File" = "Unix壓縮檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Unix Compress Tar Archive" = "Unix壓縮Tar封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "WARC Web Archive" = "WARC網頁封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "XAR Archive" = "XAR封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "XIP Archive" = "XIP封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "XZ Archive" = "XZ封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "XZ Tarball Archive" = "XZ Tarball封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "ZIP Archive" = "ZIP封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "ZIPX Archive" = "ZIPX封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "ZOO Archive" = "ZOO封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Zstandard Archive" = "Zstandard封存檔";
 
-/* (No Comment) */
+/* No comment provided by engineer. */
 "Zstandard Tarball Archive" = "Zstandard Tarball封存檔";
 

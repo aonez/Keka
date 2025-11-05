@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Keka/en.lproj/AppShortcuts.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
     </header>
     <body>
       <trans-unit id="Compress Files with ${applicationName}" xml:space="preserve">
@@ -19,291 +19,295 @@
   </file>
   <file original="Keka/en.lproj/InfoPlist.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
     </header>
     <body>
       <trans-unit id="7Z Archive" xml:space="preserve">
         <source>7Z Archive</source>
         <target>7Z アーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="ACE Archive" xml:space="preserve">
         <source>ACE Archive</source>
         <target>ACE アーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="ALZip Archive" xml:space="preserve">
         <source>ALZip Archive</source>
         <target>ALZip アーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="APPX Archive" xml:space="preserve">
         <source>APPX Archive</source>
         <target>APPX アーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="ARC Archive" xml:space="preserve">
         <source>ARC Archive</source>
         <target>ARC アーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="ARJ Archive" xml:space="preserve">
         <source>ARJ Archive</source>
         <target>ARJ アーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Amiga DCS Disk Archive" xml:space="preserve">
         <source>Amiga DCS Disk Archive</source>
         <target>Amiga DCS ディスクアーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Amiga DMS Disk Archive" xml:space="preserve">
         <source>Amiga DMS Disk Archive</source>
         <target>Amiga DMS ディスクアーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Amiga Disk File" xml:space="preserve">
         <source>Amiga Disk File</source>
         <target>Amiga ディスクファイル</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Amiga PackDev Disk Archive" xml:space="preserve">
         <source>Amiga PackDev Disk Archive</source>
         <target>Amiga PackDev ディスクアーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Amiga PowerPacker Archive" xml:space="preserve">
         <source>Amiga PowerPacker Archive</source>
         <target>Amiga PowerPacker アーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Amiga Zoom Disk Archive" xml:space="preserve">
         <source>Amiga Zoom Disk Archive</source>
         <target>Amiga Zoom ディスクアーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Amiga xMash Disk Archive" xml:space="preserve">
         <source>Amiga xMash Disk Archive</source>
         <target>Amiga xMash ディスクアーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Android Application Package" xml:space="preserve">
         <source>Android Application Package</source>
         <target>Android アプリケーションパッケージ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Apple Archive" xml:space="preserve">
         <source>Apple Archive</source>
         <target>Apple アーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="BZIP2 Archive" xml:space="preserve">
         <source>BZIP2 Archive</source>
         <target>BZIP2 アーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="BZIP2 Tarball Archive" xml:space="preserve">
         <source>BZIP2 Tarball Archive</source>
         <target>BZIP2 Tarball アーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="CAB Archive" xml:space="preserve">
         <source>CAB Archive</source>
         <target>CAB アーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="CDI Disk Image" xml:space="preserve">
         <source>CDI Disk Image</source>
         <target>CDI ディスクイメージ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Compact Pro Archive" xml:space="preserve">
         <source>Compact Pro Archive</source>
         <target>Compact Pro アーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Compressed Amiga Disk File" xml:space="preserve">
         <source>Compressed Amiga Disk File</source>
         <target>Amiga 圧縮ディスクイメージ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Deb Archive" xml:space="preserve">
         <source>Deb Archive</source>
         <target>Deb アーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="DiskDoubler Archive" xml:space="preserve">
         <source>DiskDoubler Archive</source>
         <target>DiskDoubler アーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Generic Archive Volume" xml:space="preserve">
         <source>Generic Archive Volume</source>
         <target>Generic アーカイブボリューム</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="HA Archive" xml:space="preserve">
         <source>HA Archive</source>
         <target>HA アーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Keka Extraction Package" xml:space="preserve">
         <source>Keka Extraction Package</source>
         <target>Keka 展開パッケージ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="LBR Archive" xml:space="preserve">
         <source>LBR Archive</source>
         <target>LBR アーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="LZMA File" xml:space="preserve">
         <source>LZMA File</source>
         <target>LZMA ファイル</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="LZX Archive" xml:space="preserve">
         <source>LZX Archive</source>
         <target>LZX アーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="LhA Archive" xml:space="preserve">
         <source>LhA Archive</source>
         <target>LhA アーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="LhF Archive" xml:space="preserve">
         <source>LhF Archive</source>
         <target>LhF アーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Linux RPM Archive" xml:space="preserve">
         <source>Linux RPM Archive</source>
         <target>Linux RPM アーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="MDF Disk Image" xml:space="preserve">
         <source>MDF Disk Image</source>
         <target>MDF ディスクイメージ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Microsoft MSI Installer" xml:space="preserve">
         <source>Microsoft MSI Installer</source>
         <target>Microsoft MSI インストーラー</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="NRG Disk Image" xml:space="preserve">
         <source>NRG Disk Image</source>
         <target>NRG ディスクイメージ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="NSA Archive" xml:space="preserve">
         <source>NSA Archive</source>
         <target>NSA アーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Now Compress Archive" xml:space="preserve">
         <source>Now Compress Archive</source>
         <target>Now 圧縮アーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="PMA Archive" xml:space="preserve">
         <source>PMA Archive</source>
         <target>PMA アーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="PackIt Archive" xml:space="preserve">
         <source>PackIt Archive</source>
         <target>PackIt アーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Pax Archive" xml:space="preserve">
         <source>Pax Archive</source>
         <target>Pax アーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="RAR Archive" xml:space="preserve">
         <source>RAR Archive</source>
         <target>RAR アーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="SAR Archive" xml:space="preserve">
         <source>SAR Archive</source>
         <target>SAR アーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Self-Extracting Archive" xml:space="preserve">
         <source>Self-Extracting Archive</source>
         <target>自己展開アーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Unix Compress File" xml:space="preserve">
         <source>Unix Compress File</source>
         <target>Unix 圧縮ファイル</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Unix Compress Tar Archive" xml:space="preserve">
         <source>Unix Compress Tar Archive</source>
         <target>Unix 圧縮 Tar アーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="WARC Web Archive" xml:space="preserve">
         <source>WARC Web Archive</source>
         <target>WARC Web アーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="XAR Archive" xml:space="preserve">
         <source>XAR Archive</source>
         <target>XAR アーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="XIP Archive" xml:space="preserve">
         <source>XIP Archive</source>
         <target>XIP アーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="XZ Archive" xml:space="preserve">
         <source>XZ Archive</source>
         <target>XZ アーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="XZ Tarball Archive" xml:space="preserve">
         <source>XZ Tarball Archive</source>
         <target>XZ Tarball アーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="ZIP Archive" xml:space="preserve">
         <source>ZIP Archive</source>
         <target>ZIP アーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="ZIPX Archive" xml:space="preserve">
         <source>ZIPX Archive</source>
         <target>ZIPX アーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="ZOO Archive" xml:space="preserve">
         <source>ZOO Archive</source>
         <target>ZOO アーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Zstandard Archive" xml:space="preserve">
         <source>Zstandard Archive</source>
         <target>Zstandard アーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Zstandard Tarball Archive" xml:space="preserve">
         <source>Zstandard Tarball Archive</source>
         <target>Zstandard Tarball アーカイブ</target>
-        <note/>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
   </file>
   <file original="Keka/en.lproj/Localizable.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
     </header>
     <body>
+      <trans-unit id="%@" xml:space="preserve">
+        <source>%@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="%@ item" xml:space="preserve">
         <source>%@ item</source>
         <target>%@ 項目</target>
@@ -1248,6 +1252,10 @@ You can give access to the rest of the files or the parent folder.</source>
         <target>%@ により翻訳</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Try lowering the compression level, faster levels use less memory." xml:space="preserve">
+        <source>Try lowering the compression level, faster levels use less memory.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Type" xml:space="preserve">
         <source>Type</source>
         <target>形式</target>
@@ -1301,6 +1309,11 @@ You can give access to the rest of the files or the parent folder.</source>
       <trans-unit id="Use special coloring for known formats" xml:space="preserve">
         <source>Use special coloring for known formats</source>
         <target>既知の形式には特別なカラーを使用する</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Using Keka through actions and extensions have memory limitations.&#10;Try this operation using Keka directly." xml:space="preserve">
+        <source>Using Keka through actions and extensions have memory limitations.
+Try this operation using Keka directly.</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="VERIFY_OPERATION" xml:space="preserve">
@@ -1423,8 +1436,8 @@ You can give access to the rest of the files or the parent folder.</source>
         <target>検証に失敗しました</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="verifyed" xml:space="preserve">
-        <source>verifyed</source>
+      <trans-unit id="verified" xml:space="preserve">
+        <source>verified</source>
         <target>検証完了</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
@@ -1432,7 +1445,7 @@ You can give access to the rest of the files or the parent folder.</source>
   </file>
   <file original="KekaBrowseAction/en.lproj/InfoPlist.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -1444,7 +1457,7 @@ You can give access to the rest of the files or the parent folder.</source>
   </file>
   <file original="KekaCompressionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -1456,7 +1469,7 @@ You can give access to the rest of the files or the parent folder.</source>
   </file>
   <file original="KekaExtractionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">

@@ -602,6 +602,9 @@
 "TRANSLATOR_NAME" = "@ferben";
 
 /* No comment provided by engineer. */
+"Try lowering the compression level, faster levels use less memory." = "Try lowering the compression level, faster levels use less memory."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Type" = "Typ";
 
 /* No comment provided by engineer. */
@@ -635,7 +638,13 @@
 "Use UTF-8 Encoding if Available" = "Pokud je to možné použít kódování UTF-8";
 
 /* No comment provided by engineer. */
+"Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly." = "Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "verification failed" = "ověřování selhalo";
+
+/* No comment provided by engineer. */
+"verified" = "ověřeno";
 
 /* No comment provided by engineer. */
 "Verify compression integrity" = "Ověřit integritu archivu";
@@ -648,9 +657,6 @@
 
 /* Verifying, tasks section title. */
 "VERIFY_SECTION_TITLE" = "Ověření";
-
-/* No comment provided by engineer. */
-"verifyed" = "ověřeno";
 
 /* No comment provided by engineer. */
 "Verify…" = "Ověřuje se…";

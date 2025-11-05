@@ -3,10 +3,10 @@
   "project" : "Keka.xcodeproj",
   "targetLocale" : "en",
   "toolInfo" : {
-    "toolBuildNumber" : "16A242d",
+    "toolBuildNumber" : "17A321",
     "toolID" : "com.apple.dt.xcode",
     "toolName" : "Xcode",
-    "toolVersion" : "16.0"
+    "toolVersion" : "26.0"
   },
   "version" : "1.0"
 }
