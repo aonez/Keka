@@ -69,11 +69,11 @@
 "Select the folder that contains \"%@\"." = "\"%@\" 파일을 포함한 폴더를 선택하세요.";
 "Extraction of \"%@\" failed" = "\"%@\" 압축 해제 실패";
 "Extraction of \"%@\" completed" = "\"%@\" 압축 해제 완료";
-"The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "압축 해제가 완료되었지만 검역이 적용되지 않았습니다.\n이 문제를 해결하려면 Keka를 다시 설치하세요"; 
+"The extraction completed but the quarantine was not applied.\nPlease reinstall Keka to fix this issue" = "압축 해제가 완료되었지만 검역이 적용되지 않았습니다.\n이 문제를 해결하려면 Keka를 다시 설치하세요";
 "Keka - %i on queue" = "Keka - 대기열에 %i";
 "Keka can't create this %@ image" = "Keka가 %@ 이미지를 만들 수 없습니다";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "%@ 이미지는 단일 폴더로만 생성이 가능합니다. 모든 파일들을 하나의 폴더에 넣은 뒤 다시 시도하세요.";
-"Keka can't create this @% tarball" = "Keka가 @% tarball을 만들 수 없습니다";
+"Keka can't create this %@ tarball" = "Keka가 %@ tarball을 만들 수 없습니다";
 "Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it." = "Keka는 단일 파일로만 암호화된 LRZIP 압축 파일을 생성할 수 있습니다. 암호화하기 전 우선 TAR 압축 파일로 압축해주세요.";
 "This operation is not supported on %@." = "%@ 버전에서는 지원하지 않습니다.";
 "Compress \"%@\" in %@ to..." = "\"%@\"을(를) %@ 형식으로 압축하기...";
