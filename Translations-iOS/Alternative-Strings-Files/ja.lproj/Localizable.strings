@@ -602,7 +602,7 @@
 "TRANSLATOR_NAME" = "tedSW";
 
 /* No comment provided by engineer. */
-"Try lowering the compression level, faster levels use less memory." = "Try lowering the compression level, faster levels use less memory."; // THIS IS NOT LOCALIZED
+"Try lowering the compression level, faster levels use less memory." = "圧縮レベルを低くすると高速でメモリ使用量を低減できます。";
 
 /* No comment provided by engineer. */
 "Type" = "形式";
@@ -638,7 +638,7 @@
 "Use UTF-8 Encoding if Available" = "可能であれば UTF-8 エンコーディングを使用する";
 
 /* No comment provided by engineer. */
-"Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly." = "Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly."; // THIS IS NOT LOCALIZED
+"Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly." = "アクションや拡張機能経由で Kekaを使用すると使用できるメモリに制限があります。Kekaから直接実行してください。";
 
 /* No comment provided by engineer. */
 "verification failed" = "検証に失敗しました";
