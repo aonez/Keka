@@ -1,12 +1,12 @@
 ﻿
 /* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "2221"; */
-"2221.title" = "Архивирай като единични файлове";
+"2221.title" = "Архивирай елементите поотделно";
 
 /* Class = "NSButtonCell"; title = "Delete file(s) after compression"; ObjectID = "2222"; */
-"2222.title" = "Изтрий файл(овете) след компресиране";
+"2222.title" = "Изтрий файл(овете) след архивиране";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks"; ObjectID = "2244"; */
-"2244.title" = "Изключи Mac ресурсите";
+"2244.title" = "Изключи ресурсните разклонения на Mac";
 
 /* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "2262"; */
 "2262.title" = "Парола:";
@@ -51,13 +51,13 @@
 "2271.ibShadowedObjectValues[10]" = "128 ГБ Blu-ray XL (QL)";
 
 /* Class = "NSTextFieldCell"; title = "Volume name:"; ObjectID = "2343"; */
-"2343.title" = "Име на дяла:";
+"2343.title" = "Име на тома:";
 
 /* Class = "NSTextFieldCell"; placeholderString = "custom name"; ObjectID = "2354"; */
-"2354.placeholderString" = "персонализирано име";
+"2354.placeholderString" = "име по избор";
 
 /* Class = "NSTextFieldCell"; title = "You can create an ISO volume that will be read-only and compressed. ISO volumes can be only created from a folder.\n\nSet a volume name to this ISO or use the default name based on the files you compress."; ObjectID = "2363"; */
-"2363.title" = "Можете да направите ISO дял, който ще бъде компресиран и само за четене. ISO дяловете могат да бъдат създадени само от папка.\n\nСложете име на ISO дяла или използвайте то по подразбиране.";
+"2363.title" = "Можеш да създадеш ISO том, който ще бъде компресиран и само за четене. ISO томовете могат да бъдат създадени само от папка.\n\nЗадай име на ISO тома или използвай името по подразбиране.";
 
 /* Class = "NSTextFieldCell"; title = "Store"; ObjectID = "2390"; */
 "2390.title" = "Съхранение";
@@ -87,4 +87,4 @@
 "dDw-7W-5ff.title" = "Формат:";
 
 /* Class = "NSButtonCell"; title = "Verify compression integrity"; ObjectID = "gqN-A9-jPb"; */
-"gqN-A9-jPb.title" = "Провери целостта на компресията";
+"gqN-A9-jPb.title" = "Провери целостта на архива";

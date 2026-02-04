@@ -14,4 +14,4 @@
 
 /* Software update connection: */
 "SoftwareUpdatePurpose" = "Keka проверява за нови версии на update.keka.io.";
-"SoftwareUpdateDenyConsequences" = "Ако вие забраните тази връзка, няма да бъдете уведомени за нови версии на Keka.";
+"SoftwareUpdateDenyConsequences" = "Ако забраниш тази връзка, няма да получаваш известия за нови версии на Keka.";

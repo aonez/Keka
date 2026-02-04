@@ -33,7 +33,7 @@
 "KcM-nz-gqf.title" = "Приближи";
 
 /* Class = "NSMenuItem"; title = "Print…"; ObjectID = "M2y-gZ-kEG"; */
-"M2y-gZ-kEG.title" = "Принтирай…";
+"M2y-gZ-kEG.title" = "Печат…";
 
 /* Class = "NSMenu"; title = "View"; ObjectID = "PwP-KI-Flr"; */
 "PwP-KI-Flr.title" = "Изглед";
@@ -78,10 +78,10 @@
 "f7N-ob-xwH.title" = "Изглед";
 
 /* Class = "NSMenu"; title = "Edit"; ObjectID = "gy4-dO-Qdu"; */
-"gy4-dO-Qdu.title" = "Редактирай";
+"gy4-dO-Qdu.title" = "Редактиране";
 
 /* Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "jtN-lL-fdx"; */
-"jtN-lL-fdx.title" = "Отвори последни";
+"jtN-lL-fdx.title" = "Отвори скорошни";
 
 /* Class = "NSMenuItem"; title = "Terms Of Use"; ObjectID = "lmN-Tm-HmZ"; */
 "lmN-Tm-HmZ.title" = "Условия за ползване";

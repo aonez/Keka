@@ -127,7 +127,7 @@
       </trans-unit>
       <trans-unit id="Keka Extraction Package" xml:space="preserve">
         <source>Keka Extraction Package</source>
-        <target>Пакет за извличане на Keka</target>
+        <target>Пакет за разархивиране на Keka</target>
         <note/>
       </trans-unit>
       <trans-unit id="LBR Archive" xml:space="preserve">
