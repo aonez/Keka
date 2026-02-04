@@ -84,7 +84,7 @@
 "UYy-aQ-V1a.title" = "Солиден архив";
 
 /* Class = "NSTextFieldCell"; title = "Format:"; ObjectID = "dDw-7W-5ff"; */
-"dDw-7W-5ff.title" = "Format:";
+"dDw-7W-5ff.title" = "Формат:";
 
 /* Class = "NSButtonCell"; title = "Verify compression integrity"; ObjectID = "gqN-A9-jPb"; */
-"gqN-A9-jPb.title" = "Verify compression integrity";
+"gqN-A9-jPb.title" = "Провери целостта на компресията";
