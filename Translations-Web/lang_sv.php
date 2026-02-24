@@ -31,11 +31,11 @@ $content_download_text = "Lagra mer, dela med integritet";
 $content_download_love = "Gillar du det?";
 $content_download_legacy = "Föråldrad";
 $content_download_helper = "Hjälpverktyg";
-$content_downloading = "Downloading ";
-$content_get_platform = "Get it for ";
-$content_testflight = "TestFlight needed to install this build";
-$content_downloading_if_fails = "If the download does not start automatically ";
-$content_downloading_if_fails_click_here = "click here";
+$content_downloading = "Laddar ner ";
+$content_get_platform = "Hämta det för ";
+$content_testflight = "TestFlight behövs för att installera det här bygget";
+$content_downloading_if_fails = "Om nedladdningen inte startar automatiskt ";
+$content_downloading_if_fails_click_here = "klicka här";
 
 // Like
 $content_donation_button = "Donera";
