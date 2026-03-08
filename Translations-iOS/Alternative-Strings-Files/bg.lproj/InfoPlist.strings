@@ -32,7 +32,7 @@
 "Android Application Package" = "Пакет за приложение на Android";
 
 /* No comment provided by engineer. */
-"Apple Archive" = "Apple Archive"; // THIS IS NOT LOCALIZED
+"Apple Archive" = "Apple архив";
 
 /* No comment provided by engineer. */
 "APPX Archive" = "APPX архив";
@@ -74,7 +74,7 @@
 "HA Archive" = "HA архив";
 
 /* No comment provided by engineer. */
-"Keka Extraction Package" = "Пакет за извличане на Keka";
+"Keka Extraction Package" = "Пакет за разархивиране на Keka";
 
 /* No comment provided by engineer. */
 "LBR Archive" = "LBR архив";

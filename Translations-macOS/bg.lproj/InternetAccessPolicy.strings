@@ -14,6 +14,6 @@
 
 /* Software update connection: */
 "SoftwareUpdatePurpose" = "Keka проверява за нови версии на update.keka.io.";
-"SoftwareUpdateDenyConsequences" = "Ако вие забраните тази връзка, няма да бъдете уведомени за нови версии на Keka.";
+"SoftwareUpdateDenyConsequences" = "Ако забраниш тази връзка, няма да бъдеш уведомяван за нови версии на Keka.";
 "SoftwareUpdateGithubPurpose" = "Keka изтегля нови версии от своето хранилище в github.com/aonez/Keka";
-"SoftwareUpdateGithubDenyConsequences" = "Ако откажете тази връзка, няма да можете да изтегляте нови версии на Keka.";
+"SoftwareUpdateGithubDenyConsequences" = "При отказ на тази връзка няма да се изтеглят нови версии на Keka.";
