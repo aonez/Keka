@@ -1,0 +1,81 @@
+
+/* Usually leave this one in English */
+"NSHumanReadableCopyright" = "Авторски права © 2009-2025 aONe";
+
+/* Spotlight keywords */
+"MDItemKeywords" = "Компресия, Декомпресия, Екстракция, Архиватор, Unarchiver, Разширяване, Криптиране, Декриптиране, Архиви, Файлове";
+
+/* Access request descriptions */
+"NSDesktopFolderUsageDescription" = "Keka изисква достъп до папката Desktop за да работи с файловете ѝ.";
+"NSDocumentsFolderUsageDescription" = "Keka изисква достъп до папката Documents, за да работи с файловете ѝ.";
+"NSDownloadsFolderUsageDescription" = "Keka изисква достъп до папката Downloads, за да работи с файловете ѝ.";
+"NSNetworkVolumesUsageDescription" = "Keka изисква достъп до мрежовите дискове, за да работи с файловете им.";
+"NSRemovableVolumesUsageDescription" = "Keka изисква достъп до външните дискове, за да работи с файловете им.";
+
+/* File types */
+"7Z Archive" = "7Z Архив";
+"LZMA Archive" = "LZMA Архив";
+"LZOP Archive" = "LZOP Архив";
+"LZOP Tarball Archive" = "LZOP tar архив";
+"LZIP Archive" = "LZIP Архив";
+"LZIP Tarball Archive" = "LZIP tar архив";
+"LZ4 Archive" = "LZ4 архив";
+"LZ4 Tarball Archive" = "LZ4 tar архив";
+"ZIP Archive" = "ZIP архив";
+"ZIPX Archive" = "ZIPX архив";
+"XZ Archive" = "XZ архив";
+"XZ Tarball Archive" = "XZ Tarball архив";
+"Brotli Archive" = "Brotli архив";
+"Brotli Tarball Archive" = "Brotli Tarball архив";
+"Zstandard Archive" = "Zstandard архив";
+"Zstandard Tarball Archive" = "Zstandard Tarball архив";
+"RAR Archive" = "RAR архив";
+"RAR Legacy Archive Volume" = "RAR Legacy архивен том";
+"Generic Archive Volume" = "Общ архивен том";
+"BZIP2 Archive" = "BZIP2 архив";
+"BZIP2 Tarball Archive" = "BZIP2 Tarball архив";
+"BZIP Archive" = "BZIP архив";
+"BZIP Tarball Archive" = "BZIP Tarball архив";
+"GZIP Archive" = "GZIP архив";
+"GZIP Tarball Archive" = "GZIP Tarball архив";
+"TAR Archive" = "TAR архив";
+"LRZIP Archive" = "LRZIP архив";
+"LRZIP Tarball Archive" = "LRZIP Tarball архив";
+"CPIO Archive" = "CPIO архив";
+"CPGZ Archive" = "CPGZ архив";
+"PAX Archive" = "PAX архив";
+"DMG Disk Image" = "DMG Дисково изображение";
+"ISO Disk Image" = "ISO Дисково изображение";
+"LHA Archive" = "LHA архив";
+"Windows EXE File" = "Windows EXE файл";
+"Windows Cabinet File" = "Windows Cabinet Файл";
+"Windows Installer Package" = "Инсталационен пакет на Windows";
+"WIM Disk Image" = "WIM Дисково изображение";
+"Comic Book RAR Archive" = "Comic Book RAR архив";
+"Comic Book ZIP Archive" = "Comic Book ZIP архив";
+"Commodore Amiga MOD Archive" = "Commodore Amiga MOD архив";
+"iOS App" = "iOS приложение";
+"JAR Archive" = "JAR архив";
+"WAR Archive" = "WAR архив";
+"Compact Pro Archive" = "Compact Pro архив";
+"Synology Package Archive" = "Synology Package архив";
+"Android Application Package" = "Пакет за приложение на Андроид";
+"Cross-Platform Installer Module (XPI)" = "Кросплатформен модул за инсталиране (XPI)";
+"APPX Archive" = "APPX архив";
+"Safari extension" = "Добавка за Safari";
+"ACE Archive" = "ACE архив";
+"XIP Secure Archive" = "XIP сигурен архив";
+"XAR Archive" = "XAR архив";
+"Electronic Book" = "Електронна книга";
+"Apple Archive" = "Apple архив";
+"Apple Encrypted Archive" = "Apple криптиран архив";
+"Squashfs Filesystem Archive" = "Squashfs архив на файловата система";
+"WordPress All-in-One Backup" = "WordPress Всичко-в-едно Бекъп";
+"InstallShield 3 Archive" = "InstallShield 3 архив";
+"Snappy Archive" = "Snappy архив";
+"Snappy Tarball Archive" = "Snappy tar архив";
+"Apple iWork Archive" = "Apple iWork архив";
+"Delta Controller Skin" = "Скин за Delta Controller";
+"Zipped Web Archive Collection" = "ZIP колекция от Web Archive";
+"Keka Extraction Package" = "Keka пакет за разархивиране";
+"Data" = "Данни";

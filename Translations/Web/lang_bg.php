@@ -28,7 +28,7 @@ $content_title = "файловият архиватор за macOS";
 // Download
 $content_platform = "Изисква $version_replace или по-нова";
 $content_download_text = "Съхрани повече, сподели поверително";
-$content_download_love = "Харесва ли ти?";
+$content_download_love = "Харесва ли ви?";
 $content_download_legacy = "Стари версии";
 $content_download_helper = "Помощник";
 $content_downloading = "Сваляне ";
@@ -39,14 +39,14 @@ $content_downloading_if_fails_click_here = "кликни тук";
 
 // Like
 $content_donation_button = "Направи дарение";
-$content_donation_title = 'Ако харесваш Keka, просто й дай малко <i class="fa fa-heart" aria-hidden="true"></i>, <br />свали от App Store или дари с PayPal!';
+$content_donation_title = 'Ако Keka ви харесва, подкрепете проекта с <i class="fa fa-heart" aria-hidden="true"></i>, <br />изтеглете от App Store или дарете с PayPal!';
 $content_donation_mas = "Ако купиш Keka от App Store, ще поддържаш разработката,<br />приложението е същото, като това от този уебсайт, само подновявано от App Store.";
-$content_donation_paypal = "Ако не харесваш Mac App Store или искаш да си поиграеш с Keka<br />и също така харесваш проекта и искаш да дадеш малко любов, можеш да дариш с PayPal.";
+$content_donation_paypal = "Ако не използвате Mac App Store и искате да пробвате Keka,<br />проектът може да бъде подкрепен с дарение чрез PayPal.";
 
 // Beta
 $content_platform_beta = "Бета";
 $content_beta_title = "Бета версия на Keka";
-$content_beta_text = "Можеш да изпробваш най-новите възможности на Keka преди да са пуснати.<br />Ако си открил проблем или искаш нещо да докладваш, отиди на ";
+$content_beta_text = "Изпробвайте най-новите възможности на Keka преди официалното им пускане.<br />За проблем или обратна връзка отидете на ";
 $content_beta_unavailable = "В момента няма налична бета версия.";
 $content_beta_up = "Свали последната версия";
 
@@ -59,7 +59,7 @@ $content_legacy_text = 'През годините твоят Mac ще остар
 $content_info_title1 = "Толкова просто, толкова мощно";
 $content_info_title2 = "Акцент върху поверителността";
 $content_info_title3 = "Ако все още е твърде голямо...";
-$content_info_text1 = "Ти дори няма нужда да отваряш Keka, за да компресираш файл, запази я в Dock и я използвай от там.<br />Просто провлачи твоите файлове и папки върху Dock иконата или Keka прозореца, за да направиш по-малка тяхна версия.";
+$content_info_text1 = "Няма нужда да отваряте Keka, за да архивирате файл — оставете я в Dock и я използвайте оттам.<br />Плъзнете файловете и папките върху иконата в Dock или прозореца на Keka, за да създадете по-малка версия.";
 $content_info_text2 = "Споделяй сигурно само с парола и създавай криптирани файлове.<br />Използвайки AES-256 криптиране за твоите 7z файлове и<br />Zip 2.0 legacy криптиране за твоите Zip файлове.";
 $content_info_text3 = "Ако файловете са наистина големи и не се събират на твоят имейл или сървър, просто ги раздели на парчета.<br />Не се притеснявай, те все още могат да се обединят в един :)";
 $content_info_compression = "Keka може да създава файлове в следните формати:";
@@ -71,7 +71,7 @@ $content_info_v2_title2 = "Сподели с поверителност";
 $content_info_v2_title3 = "Най-доброто изживяване";
 $content_info_v2_title4 = "Мултитаскинг в най-добрия си вид";
 $content_info_v2_title5 = "Винаги под ръка";
-$content_info_v2_text1 = "С множество формати на компресия <br />за да изберете перфектния";
+$content_info_v2_text1 = "С множество формати за архивиране <br />за избор на най-подходящия";
 $content_info_v2_text2 = "Защити твоите споделени файлове с парола<br />и ги шифровай с AES-256";
 $content_info_v2_text3 = "Визуализирай, архивирай и споделяй <br />Само това, от което се нуждаеш";
 $content_info_v2_text4 = "Разархивирай, архивирай и разглеждай <br />без ограничения";
@@ -97,8 +97,8 @@ $content_changelog_firstpublic = "Първата публична версия:"
 
 // 404
 $content_404 = "Страницата не може да бъде намерена";
-$content_404_start = "Можете да отидете на <a href=\"https://www.keka.io\">началната страница</a>";
-$content_404_more = "или искаш това?";
+$content_404_start = "Може да отидете на <a href=\"https://www.keka.io\">началната страница</a>";
+$content_404_more = "или търсите това?";
 
 // Maintenance
 $content_maintenance = "Ще се върнем скоро";
