@@ -235,7 +235,7 @@
 "Review Keka ★★★★★" = "Оцени Keka ★★★★★";
 "Update the default password" = "Актуализирай паролата по подразбиране";
 "Set a default password" = "Настрой парола по подразбиране";
-"To enable external volumes access go to your main disk and select the \"Volumes\" folder." = "За да включиш достъпа до външни дискове, отвори основния си диск и избери папката "Volumes".";
+"To enable external volumes access go to your main disk and select the \"Volumes\" folder." = "За да включиш достъпа до външни дискове, отвори основния си диск и избери папката \"Volumes\".";
 "Verifying..." = "Проверка...";
 "Verification of \"%@\" failed" = "Проверката на \"%@\" се провали";
 "The compressed data seems to be invalid" = "Архивираните данни изглеждат невалидни";
