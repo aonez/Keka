@@ -122,7 +122,7 @@
 "Browser" = "Открытие";
 
 /* "by aone" part from "Made with love by aone". */
-"by %@" = "by %@"; // THIS IS NOT LOCALIZED
+"by %@" = "%@";
 
 /* No comment provided by engineer. */
 "Bytes" = "Байты";
@@ -602,7 +602,7 @@
 "TRANSLATOR_NAME" = "Alexey Ladygin";
 
 /* No comment provided by engineer. */
-"Try lowering the compression level, faster levels use less memory." = "Try lowering the compression level, faster levels use less memory."; // THIS IS NOT LOCALIZED
+"Try lowering the compression level, faster levels use less memory." = "Попробуйте снизить уровень до более быстрого сжатия, это потребляет меньше памяти.";
 
 /* No comment provided by engineer. */
 "Type" = "Тип содержимого";
@@ -638,7 +638,7 @@
 "Use UTF-8 Encoding if Available" = "Использовать кодировку UTF-8, если возможно";
 
 /* No comment provided by engineer. */
-"Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly." = "Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly."; // THIS IS NOT LOCALIZED
+"Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly." = "Работа с Keka через действия и расширения ограничена в использовании памяти.\nПопробуйте выполнить эту операцию непосредственно в приложении.";
 
 /* No comment provided by engineer. */
 "verification failed" = "проверка не удалась";

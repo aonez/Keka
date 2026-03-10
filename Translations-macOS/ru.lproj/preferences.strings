@@ -117,7 +117,7 @@
 "0Am-9a-jtM.title" = "Команды «Сжать содержимое папки…»";
 
 /* Class = "NSButtonCell"; title = "Rename the recognized extension from the subfolder"; ObjectID = "1TK-Zy-623"; */
-"1TK-Zy-623.title" = "Переименовать распознанное расширение из вложенной папки";
+"1TK-Zy-623.title" = "Переименовывать системное расширение (напр.: .app, .pkg) в имени создаваемой подпапки";
 
 /* Class = "NSButtonCell"; title = "Use custom tasks counter in the Dock"; ObjectID = "3cf-gN-q24"; */
 "3cf-gN-q24.title" = "Показывать счетчик задач в Dock";
@@ -171,7 +171,7 @@
 "DJT-wB-bCM.title" = "Спрашивать, прежде чем прекратить процесс";
 
 /* Class = "NSButtonCell"; title = "Enable home folder access"; ObjectID = "DL5-wY-cqc"; */
-"DL5-wY-cqc.title" = "Дать доступ к домашней папке";
+"DL5-wY-cqc.title" = "Разрешить доступ к домашней папке";
 
 /* Class = "NSTextFieldCell"; title = "Default action:"; ObjectID = "EJQ-OL-pMF"; */
 "EJQ-OL-pMF.title" = "Действие по умолчанию:";
@@ -189,7 +189,7 @@
 "G1T-Qd-OZi.title" = "Приоритет задач (QoS):";
 
 /* Class = "NSButtonCell"; title = "Always use the lowest priority when running on battery"; ObjectID = "GJB-94-NHl"; */
-"GJB-94-NHl.title" = "Всегда использовать наименьший приоритет при работе от батареи";
+"GJB-94-NHl.title" = "Всегда использовать наименьший приоритет при работе от аккумулятора";
 
 /* Class = "NSTextFieldCell"; title = "It is recommended to only do one compression at a time if using multiple threads."; ObjectID = "Hkf-wB-gUj"; */
 "Hkf-wB-gUj.title" = "Рекомендуется делать только одно сжатие за раз, если используется несколько потоков.";
@@ -201,13 +201,13 @@
 "I93-7A-iSn.title" = "Никогда";
 
 /* Class = "NSButtonCell"; title = "Enable full Mac access (Recommended)"; ObjectID = "IHj-ac-103"; */
-"IHj-ac-103.title" = "Дать доступ ко всему Mac (рекомендуется)";
+"IHj-ac-103.title" = "Разрешить доступ ко всему Mac (рекомендуется)";
 
 /* Class = "NSButtonCell"; title = "Verify compression integrity"; ObjectID = "IL6-a6-uik"; */
 "IL6-a6-uik.title" = "Проверять целостность содержимого в архиве";
 
 /* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive."; ObjectID = "JxT-Nq-8Z5"; */
-"JxT-Nq-8Z5.title" = "Дать доступ к внешним хранилищам, чтобы Keka могла работать с внешними дисками, например USB- или Thunderbolt-накопителями.";
+"JxT-Nq-8Z5.title" = "Разрешить доступ к внешним хранилищам, чтобы Keka могла работать с внешними дисками (например, USB- или Thunderbolt-накопителями).";
 
 /* Class = "NSTextFieldCell"; title = "Lower priority results in longer times. The lowest priority on Apple Silicon equipped Macs will only use \"Efficiency\" cores, resulting in longer but more energy efficient tasks.\nAlready running tasks priority will not be modified."; ObjectID = "Jyq-vC-L5r"; */
 "Jyq-vC-L5r.title" = "Более низкий приоритет приводит к увеличению времени. Самый низкий приоритет на компьютерах Mac, оснащенных Apple Silicon, будет использовать только ядра Efficiency Cores, что приведет к более длительному, но более энергоэффективному выполнению задач.\nПриоритет уже запущенных задач не будет изменен.";
@@ -228,7 +228,7 @@
 "NwI-O4-9NI.title" = "Исключать ветви ресурсов Mac (напр., .DS_Store)";
 
 /* Class = "NSTextFieldCell"; title = "Enable home access so Keka can be used on all your user files, such as in your Desktop or Downloads folder."; ObjectID = "PD2-iW-BGK"; */
-"PD2-iW-BGK.title" = "Дать доступ к домашней папке, чтобы Keka могла работать со всеми вашими файлами, например на Рабочем столе или в папке «Загрузки».";
+"PD2-iW-BGK.title" = "Разрешить доступ к домашней папке, чтобы Keka могла работать со всеми вашими файлами (например, на Рабочем столе или в папке «Загрузки»).";
 
 /* Class = "NSTextFieldCell"; title = "Default password:"; ObjectID = "Rgr-FP-Kua"; */
 "Rgr-FP-Kua.title" = "Пароль по умолчанию:";
@@ -261,7 +261,7 @@
 "Xl7-AN-Kgw.title" = "Самый высокий";
 
 /* Class = "NSTextFieldCell"; title = "Enable full Mac access so Keka can be used on all your Mac."; ObjectID = "ZOx-vr-5o7"; */
-"ZOx-vr-5o7.title" = "Дать доступ ко всему Mac, чтобы Keka могла работать с любыми файлами на этом Mac.";
+"ZOx-vr-5o7.title" = "Разрешить доступ ко всему Mac, чтобы Keka могла работать с любыми файлами на этом компьютере.";
 
 /* Class = "NSButtonCell"; title = "Create self-extracting archives for Windows if possible"; ObjectID = "Zfm-hU-OMZ"; */
 "Zfm-hU-OMZ.title" = "Создавать самораспаковывающиеся архивы для Windows, если возможно";
@@ -327,7 +327,7 @@
 "otI-Pt-BTh.title" = "Операции с очередями:";
 
 /* Class = "NSTextFieldCell"; title = "Keep source extension:"; ObjectID = "p5F-63-ubE"; */
-"p5F-63-ubE.title" = "Сохранять исходное расширение:";
+"p5F-63-ubE.title" = "Сохранять исходное расширение файла в имени архива:";
 
 /* Class = "NSButtonCell"; title = "Always extract in a subfolder"; ObjectID = "pXT-7y-9af"; */
 "pXT-7y-9af.title" = "Всегда распаковывать в подпапку";
@@ -348,7 +348,7 @@
 "sD5-uM-Wpa.title" = "Всегда распаковывать совместимые форматы";
 
 /* Class = "NSButtonCell"; title = "Enable external volumes access"; ObjectID = "sgV-AD-k4Q"; */
-"sgV-AD-k4Q.title" = "Дать доступ к внешним хранилищам";
+"sgV-AD-k4Q.title" = "Разрешить доступ к внешним хранилищам";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous compressions:"; ObjectID = "sjA-7B-5U6"; */
 "sjA-7B-5U6.title" = "Максимум одновременных сжатий:";

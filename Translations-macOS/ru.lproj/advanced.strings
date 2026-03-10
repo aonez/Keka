@@ -27,7 +27,7 @@
 "2271.ibShadowedObjectValues[2]" = "700 МБ — CD";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[3] = "4 GB FAT32"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[3]" = "4 ГБ — макс. размер файла в FAT32";
+"2271.ibShadowedObjectValues[3]" = "4 ГБ — макс. файл в FAT32";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[4] = "4.7 GB DVD"; ObjectID = "2271"; */
 "2271.ibShadowedObjectValues[4]" = "4,7 ГБ — DVD";
