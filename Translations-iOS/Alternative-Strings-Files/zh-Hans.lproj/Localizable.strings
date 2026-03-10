@@ -14,6 +14,9 @@
 "%@ of %@ items" = "%@ 的 %@ 项";
 
 /* No comment provided by engineer. */
+"%@." = "%@."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "%lld items" = "%lld 项";
 
 /* No comment provided by engineer. */
@@ -96,6 +99,9 @@
 
 /* No comment provided by engineer. */
 "Allocated size" = "分配大小";
+
+/* Appearance settings title. */
+"Appearance" = "Appearance"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "archive" = "归档";
@@ -554,10 +560,10 @@
 "The changes could not be saved" = "更改无法保存";
 
 /* No comment provided by engineer. */
-"The character %@ is not compatilbe with the %@ format." = "The character %@ is not compatilbe with the %@ format."; // THIS IS NOT LOCALIZED
+"The character %@ is not compatible with the %@ format." = "字符 %@ 与 %@ 格式不兼容。";
 
 /* No comment provided by engineer. */
-"The characters %@ are not compatilbe with the %@ format." = "The characters %@ are not compatilbe with the %@ format."; // THIS IS NOT LOCALIZED
+"The characters %@ are not compatible with the %@ format." = "字符集 %@ 与 %@ 格式不兼容。";
 
 /* No comment provided by engineer. */
 "The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "压缩可能需要比可用内存（%@）更多的内存，并且可能无法成功完成。将被限制为一个线程。";
@@ -584,6 +590,9 @@
 "This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "该卷文件需要额外文件访问权限才能打开。\n您可以授予对其或父文件夹的访问权限。";
 
 /* No comment provided by engineer. */
+"To be implemented" = "To be implemented"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "To extract" = "提取";
 
 /* No comment provided by engineer. */
@@ -602,7 +611,7 @@
 "TRANSLATOR_NAME" = "Max Sky";
 
 /* No comment provided by engineer. */
-"Try lowering the compression level, faster levels use less memory." = "Try lowering the compression level, faster levels use less memory."; // THIS IS NOT LOCALIZED
+"Try lowering the compression level, faster levels use less memory." = "尝试降低压缩级别，使用少量内存且更快。";
 
 /* No comment provided by engineer. */
 "Type" = "类型";
@@ -632,13 +641,19 @@
 "Use AES-256 if Available" = "如果可用，使用 AES-256 加密";
 
 /* No comment provided by engineer. */
+"Use Binaries if Possible" = "Use Binaries if Possible"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Use continuous background task" = "Use continuous background task"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Use special coloring for known formats" = "对于已知格式使用专用颜色";
 
 /* No comment provided by engineer. */
 "Use UTF-8 Encoding if Available" = "如果可用，使用 UTF-8 编码";
 
 /* No comment provided by engineer. */
-"Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly." = "Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly."; // THIS IS NOT LOCALIZED
+"Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly." = "使用扩展程序操作 Keka 存在内存限制。\n请直接使用 Keka 尝试此操作。";
 
 /* No comment provided by engineer. */
 "verification failed" = "验证失败";

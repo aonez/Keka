@@ -32,7 +32,7 @@
 "Android Application Package" = "Android-programpaket";
 
 /* No comment provided by engineer. */
-"Apple Archive" = "Apple Archive"; // THIS IS NOT LOCALIZED
+"Apple Archive" = "Apple-arkiv";
 
 /* No comment provided by engineer. */
 "APPX Archive" = "APPX-arkiv";
@@ -125,7 +125,7 @@
 "SAR Archive" = "SAR-arkiv";
 
 /* No comment provided by engineer. */
-"Self-Extracting Archive" = "Självextraherande arkiv";
+"Self-Extracting Archive" = "Själv-extraherande arkiv";
 
 /* No comment provided by engineer. */
 "Unix Compress File" = "Unix Compress-fil";

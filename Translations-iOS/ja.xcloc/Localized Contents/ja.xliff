@@ -306,7 +306,7 @@
     <body>
       <trans-unit id="%@" xml:space="preserve">
         <source>%@</source>
-        <target state="translated">%@</target>
+        <target>%@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ item" xml:space="preserve">
@@ -332,6 +332,10 @@
       <trans-unit id="%@ of %@ items" xml:space="preserve">
         <source>%@ of %@ items</source>
         <target>%@ の %@ 項目</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@." xml:space="preserve">
+        <source>%@.</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%lld items" xml:space="preserve">
@@ -478,6 +482,10 @@
         <source>Allocated size</source>
         <target>割り当てサイズ</target>
         <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Appearance" xml:space="preserve">
+        <source>Appearance</source>
+        <note>Appearance settings title.</note>
       </trans-unit>
       <trans-unit id="Archive items separately" xml:space="preserve">
         <source>Archive items separately</source>
@@ -1181,13 +1189,13 @@
         <target>変更を保存できませんでした</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="The character %@ is not compatilbe with the %@ format." xml:space="preserve">
-        <source>The character %@ is not compatilbe with the %@ format.</source>
+      <trans-unit id="The character %@ is not compatible with the %@ format." xml:space="preserve">
+        <source>The character %@ is not compatible with the %@ format.</source>
         <target>%@ の文字は %@ のフォーマットと互換性がありません。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="The characters %@ are not compatilbe with the %@ format." xml:space="preserve">
-        <source>The characters %@ are not compatilbe with the %@ format.</source>
+      <trans-unit id="The characters %@ are not compatible with the %@ format." xml:space="preserve">
+        <source>The characters %@ are not compatible with the %@ format.</source>
         <target>%@ の文字たちは %@ のフォーマットと互換性がありません。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
@@ -1233,6 +1241,10 @@ You can give access to the rest of the files or the parent folder.</source>
 残りのファイルまたは親フォルダにアクセス権を与えることができます。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="To be implemented" xml:space="preserve">
+        <source>To be implemented</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="To extract" xml:space="preserve">
         <source>To extract</source>
         <target>展開する</target>
@@ -1255,7 +1267,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="Try lowering the compression level, faster levels use less memory." xml:space="preserve">
         <source>Try lowering the compression level, faster levels use less memory.</source>
-        <target state="translated">圧縮レベルを低くすると高速でメモリ使用量を低減できます。</target>
+        <target>圧縮レベルを低くすると高速でメモリ使用量を低減できます。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Type" xml:space="preserve">
@@ -1303,9 +1315,17 @@ You can give access to the rest of the files or the parent folder.</source>
         <target>可能であれば AES-256 暗号化を使用する</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Use Binaries if Possible" xml:space="preserve">
+        <source>Use Binaries if Possible</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Use UTF-8 Encoding if Available" xml:space="preserve">
         <source>Use UTF-8 Encoding if Available</source>
         <target>可能であれば UTF-8 エンコーディングを使用する</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Use continuous background task" xml:space="preserve">
+        <source>Use continuous background task</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Use special coloring for known formats" xml:space="preserve">
@@ -1316,7 +1336,7 @@ You can give access to the rest of the files or the parent folder.</source>
       <trans-unit id="Using Keka through actions and extensions have memory limitations.&#10;Try this operation using Keka directly." xml:space="preserve">
         <source>Using Keka through actions and extensions have memory limitations.
 Try this operation using Keka directly.</source>
-        <target state="translated">アクションや拡張機能経由で Kekaを使用すると使用できるメモリに制限があります。Kekaから直接実行してください。</target>
+        <target>アクションや拡張機能経由で Kekaを使用すると使用できるメモリに制限があります。Kekaから直接実行してください。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="VERIFY_OPERATION" xml:space="preserve">

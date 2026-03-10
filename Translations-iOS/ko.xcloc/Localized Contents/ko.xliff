@@ -333,6 +333,10 @@
         <target>%@/%@ 선택됨</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="%@." xml:space="preserve">
+        <source>%@.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="%lld items" xml:space="preserve">
         <source>%lld items</source>
         <target>%lld개의 항목</target>
@@ -477,6 +481,10 @@
         <source>Allocated size</source>
         <target>할당된 크기</target>
         <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Appearance" xml:space="preserve">
+        <source>Appearance</source>
+        <note>Appearance settings title.</note>
       </trans-unit>
       <trans-unit id="Archive items separately" xml:space="preserve">
         <source>Archive items separately</source>
@@ -1177,13 +1185,13 @@
         <target>변경 사항을 저장할 수 없습니다</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="The character %@ is not compatilbe with the %@ format." xml:space="preserve">
-        <source>The character %@ is not compatilbe with the %@ format.</source>
+      <trans-unit id="The character %@ is not compatible with the %@ format." xml:space="preserve">
+        <source>The character %@ is not compatible with the %@ format.</source>
         <target>%@ 문자가 %@ 형식과 호환되지 않습니다.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="The characters %@ are not compatilbe with the %@ format." xml:space="preserve">
-        <source>The characters %@ are not compatilbe with the %@ format.</source>
+      <trans-unit id="The characters %@ are not compatible with the %@ format." xml:space="preserve">
+        <source>The characters %@ are not compatible with the %@ format.</source>
         <target>%@ 문자가 %@ 형식과 호환되지 않습니다.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
@@ -1227,6 +1235,10 @@
 You can give access to the rest of the files or the parent folder.</source>
         <target>이 볼륨 파일을 열려면 파일 접근 권한이 추가로 필요합니다.
 나머지 파일이나 상위 폴더에 대해 접근 권한을 부여해 주세요.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="To be implemented" xml:space="preserve">
+        <source>To be implemented</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="To extract" xml:space="preserve">
@@ -1298,9 +1310,17 @@ You can give access to the rest of the files or the parent folder.</source>
         <target>가능하면 AES-256 암호화 사용</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Use Binaries if Possible" xml:space="preserve">
+        <source>Use Binaries if Possible</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Use UTF-8 Encoding if Available" xml:space="preserve">
         <source>Use UTF-8 Encoding if Available</source>
         <target>가능하면 UTF-8 인코딩 사용</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Use continuous background task" xml:space="preserve">
+        <source>Use continuous background task</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Use special coloring for known formats" xml:space="preserve">

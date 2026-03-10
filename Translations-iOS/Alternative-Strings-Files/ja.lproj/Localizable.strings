@@ -14,6 +14,9 @@
 "%@ of %@ items" = "%@ の %@ 項目";
 
 /* No comment provided by engineer. */
+"%@." = "%@."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "%lld items" = "%lld 項目";
 
 /* No comment provided by engineer. */
@@ -96,6 +99,9 @@
 
 /* No comment provided by engineer. */
 "Allocated size" = "割り当てサイズ";
+
+/* Appearance settings title. */
+"Appearance" = "Appearance"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "archive" = "アーカイブ";
@@ -554,10 +560,10 @@
 "The changes could not be saved" = "変更を保存できませんでした";
 
 /* No comment provided by engineer. */
-"The character %@ is not compatilbe with the %@ format." = "%@ の文字は %@ のフォーマットと互換性がありません。";
+"The character %@ is not compatible with the %@ format." = "%@ の文字は %@ のフォーマットと互換性がありません。";
 
 /* No comment provided by engineer. */
-"The characters %@ are not compatilbe with the %@ format." = "%@ の文字たちは %@ のフォーマットと互換性がありません。";
+"The characters %@ are not compatible with the %@ format." = "%@ の文字たちは %@ のフォーマットと互換性がありません。";
 
 /* No comment provided by engineer. */
 "The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "圧縮には使用可能なメモリ (%@) よりも多くのメモリが必要になっており、正常に完了しない可能性があるため1スレッドに制限されます。";
@@ -582,6 +588,9 @@
 
 /* No comment provided by engineer. */
 "This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "このボリューム・ファイルを開くには、アクセス権の追加が必要です。\n残りのファイルまたは親フォルダにアクセス権を与えることができます。";
+
+/* No comment provided by engineer. */
+"To be implemented" = "To be implemented"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "To extract" = "展開する";
@@ -630,6 +639,12 @@
 
 /* No comment provided by engineer. */
 "Use AES-256 if Available" = "可能であれば AES-256 暗号化を使用する";
+
+/* No comment provided by engineer. */
+"Use Binaries if Possible" = "Use Binaries if Possible"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Use continuous background task" = "Use continuous background task"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Use special coloring for known formats" = "既知の形式には特別なカラーを使用する";

@@ -5,7 +5,7 @@
 "%@ items" = "%@ objekt";
 
 /* _OPERATION_ of "_FILENAME_" failed */
-"%@ of \"%@\" failed" = "%@ of \"%@\" failed"; // THIS IS NOT LOCALIZED
+"%@ of \"%@\" failed" = "%@ av \"%@\" misslyckades";
 
 /* No comment provided by engineer. */
 "%@ of %@ item" = "%@ av %@ objekt";
@@ -14,67 +14,70 @@
 "%@ of %@ items" = "%@ av %@ objekt";
 
 /* No comment provided by engineer. */
-"%lld items" = "%lld items"; // THIS IS NOT LOCALIZED
+"%@." = "%@."; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
-"%lld seconds" = "%lld seconds"; // THIS IS NOT LOCALIZED
+"%lld items" = "%lld objekt";
 
 /* No comment provided by engineer. */
-"%lld:%@ minutes" = "%lld:%@ minutes"; // THIS IS NOT LOCALIZED
+"%lld seconds" = "%lld sekunder";
 
 /* No comment provided by engineer. */
-"%lld:%@:%@ hours" = "%lld:%@:%@ hours"; // THIS IS NOT LOCALIZED
+"%lld:%@ minutes" = "%lld:%@ minuter";
+
+/* No comment provided by engineer. */
+"%lld:%@:%@ hours" = "%lld:%@:%@ timmar";
 
 /* No comment provided by engineer. */
 "About" = "Om";
 
 /* No comment provided by engineer. */
-"About %lld days" = "About %lld days"; // THIS IS NOT LOCALIZED
+"About %lld days" = "Ungefär %lld dagar";
 
 /* No comment provided by engineer. */
-"About %lld hours" = "About %lld hours"; // THIS IS NOT LOCALIZED
+"About %lld hours" = "Ungefär %lld timmar";
 
 /* No comment provided by engineer. */
-"About %lld minutes" = "About %lld minutes"; // THIS IS NOT LOCALIZED
+"About %lld minutes" = "Ungefär %lld minuter";
 
 /* No comment provided by engineer. */
-"About %lld months" = "About %lld months"; // THIS IS NOT LOCALIZED
+"About %lld months" = "Ungefär %lld månader";
 
 /* No comment provided by engineer. */
-"About %lld seconds" = "About %lld seconds"; // THIS IS NOT LOCALIZED
+"About %lld seconds" = "Ungefär %lld sekunder";
 
 /* No comment provided by engineer. */
-"About %lld weeks" = "About %lld weeks"; // THIS IS NOT LOCALIZED
+"About %lld weeks" = "Ungefär %lld veckor";
 
 /* No comment provided by engineer. */
-"About %lld years" = "About %lld years"; // THIS IS NOT LOCALIZED
+"About %lld years" = "Ungefär %lld år";
 
 /* No comment provided by engineer. */
-"About a day" = "About a day"; // THIS IS NOT LOCALIZED
+"About a day" = "Ungefär en dag";
 
 /* No comment provided by engineer. */
-"About a minute" = "About a minute"; // THIS IS NOT LOCALIZED
+"About a minute" = "Ungefär en minut";
 
 /* No comment provided by engineer. */
-"About a month" = "About a month"; // THIS IS NOT LOCALIZED
+"About a month" = "Ungefär en månad";
 
 /* No comment provided by engineer. */
-"About a second" = "About a second"; // THIS IS NOT LOCALIZED
+"About a second" = "Ungefär en sekund";
 
 /* No comment provided by engineer. */
-"About a week" = "About a week"; // THIS IS NOT LOCALIZED
+"About a week" = "Ungefär en vecka";
 
 /* No comment provided by engineer. */
-"About a year" = "About a year"; // THIS IS NOT LOCALIZED
+"About a year" = "Ungefär ett år";
 
 /* No comment provided by engineer. */
-"About an hour" = "About an hour"; // THIS IS NOT LOCALIZED
+"About an hour" = "Ungefär en timme";
 
 /* No comment provided by engineer. */
 "Actions" = "Åtgärder";
 
 /* No comment provided by engineer. */
-"Actions to do with the current browsed file" = "Actions to do with the current browsed file"; // THIS IS NOT LOCALIZED
+"Actions to do with the current browsed file" = "Åtgärder att utföra med nuvarande bläddrade filen";
 
 /* No comment provided by engineer. */
 "Add a File" = "Lägg till Fil";
@@ -83,25 +86,28 @@
 "Add a Folder" = "Lägg till Mapp";
 
 /* No comment provided by engineer. */
-"Add a Photo or Video" = "Add a Photo or Video"; // THIS IS NOT LOCALIZED
+"Add a Photo or Video" = "Lägg till Foto eller Video";
 
 /* No comment provided by engineer. */
-"Add files and folders to a compression list" = "Add files and folders to a compression list"; // THIS IS NOT LOCALIZED
+"Add files and folders to a compression list" = "Lägg till filer och mappar till komprimeringslista";
 
 /* No comment provided by engineer. */
-"Add some contents using the %@ button." = "Add some contents using the %@ button."; // THIS IS NOT LOCALIZED
+"Add some contents using the %@ button." = "Lägg till innehåll med %@-knappen.";
 
 /* No comment provided by engineer. */
-"Advanced Settings" = "Advanced Settings"; // THIS IS NOT LOCALIZED
+"Advanced Settings" = "Avancerade inställningar";
 
 /* No comment provided by engineer. */
 "Allocated size" = "Allokerad storlek";
 
-/* No comment provided by engineer. */
-"archive" = "archive"; // THIS IS NOT LOCALIZED
+/* Appearance settings title. */
+"Appearance" = "Appearance"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
-"Archive items separately" = "Archive items separately"; // THIS IS NOT LOCALIZED
+"archive" = "arkiv";
+
+/* No comment provided by engineer. */
+"Archive items separately" = "Arkivera objekten separat";
 
 /* Default compression file name. */
 "ARCHIVE_DEFAULT_NAME" = "Arkiv";
@@ -125,7 +131,7 @@
 "by %@" = "av %@";
 
 /* No comment provided by engineer. */
-"Bytes" = "Bytes"; // THIS IS NOT LOCALIZED
+"Bytes" = "Bytes";
 
 /* No comment provided by engineer. */
 "Calculate" = "Beräkna";
@@ -134,7 +140,7 @@
 "Cancel" = "Avbryt";
 
 /* No comment provided by engineer. */
-"Cancelled" = "Cancelled"; // THIS IS NOT LOCALIZED
+"Cancelled" = "Avbruten";
 
 /* No comment provided by engineer. */
 "Choose" = "Välj";
@@ -149,22 +155,22 @@
 "Close" = "Stäng";
 
 /* No comment provided by engineer. */
-"Comments" = "Comments"; // THIS IS NOT LOCALIZED
+"Comments" = "Kommentarer";
 
 /* No comment provided by engineer. */
 "Compress" = "Komprimera";
 
 /* No comment provided by engineer. */
-"compress" = "compress"; // THIS IS NOT LOCALIZED
+"compress" = "komprimera";
 
 /* No comment provided by engineer. */
-"Compress all the items in the compression list" = "Compress all the items in the compression list"; // THIS IS NOT LOCALIZED
+"Compress all the items in the compression list" = "Komprimera alla objekt i komprimeringslistan";
 
 /* No comment provided by engineer. */
-"Compress Files with Keka" = "Compress Files with Keka"; // THIS IS NOT LOCALIZED
+"Compress Files with Keka" = "Komprimera filer med Keka";
 
 /* No comment provided by engineer. */
-"Compress some files with Keka." = "Compress some files with Keka."; // THIS IS NOT LOCALIZED
+"Compress some files with Keka." = "Komprimera några filer med Keka.";
 
 /* No comment provided by engineer. */
 "compressed" = "komprimerad";
@@ -176,7 +182,7 @@
 "Compression" = "Komprimering";
 
 /* No comment provided by engineer. */
-"compression" = "compression"; // THIS IS NOT LOCALIZED
+"compression" = "komprimering";
 
 /* No comment provided by engineer. */
 "compression failed" = "komprimering misslyckades";
@@ -200,7 +206,7 @@
 "Contents: %@, Size: %@" = "Innehåll: %@, Storlek: %@";
 
 /* No comment provided by engineer. */
-"Contents: %lld, Size: %@" = "Contents: %lld, Size: %@"; // THIS IS NOT LOCALIZED
+"Contents: %lld, Size: %@" = "Innehåll: %11d, Storlek: %@";
 
 /* No comment provided by engineer. */
 "Created" = "Skapad";
@@ -224,13 +230,13 @@
 "Default Tap Action" = "Standard-tryckåtgärd";
 
 /* No comment provided by engineer. */
-"Default Volume Unit" = "Default Volume Unit"; // THIS IS NOT LOCALIZED
+"Default Volume Unit" = "Standard-volymenhet";
 
 /* No comment provided by engineer. */
 "Delete" = "Radera";
 
 /* No comment provided by engineer. */
-"Delete files(s) after compression" = "Delete files(s) after compression"; // THIS IS NOT LOCALIZED
+"Delete files(s) after compression" = "Radera fil(er) efter komprimering";
 
 /* No comment provided by engineer. */
 "Destination" = "Destination";
@@ -245,7 +251,7 @@
 "Document" = "Dokument";
 
 /* No comment provided by engineer. */
-"Documents" = "Documents"; // THIS IS NOT LOCALIZED
+"Documents" = "Dokument";
 
 /* No comment provided by engineer. */
 "Done" = "Klar";
@@ -254,7 +260,7 @@
 "done" = "klar";
 
 /* No comment provided by engineer. */
-"Downloads" = "Downloads"; // THIS IS NOT LOCALIZED
+"Downloads" = "Hämtade filer";
 
 /* No comment provided by engineer. */
 "Edit" = "Redigera";
@@ -269,19 +275,19 @@
 "Enter the password for the file\n\"%@\"" = "Ange lösenordet för filen\n\"%@\"";
 
 /* No comment provided by engineer. */
-"Exclude Mac resource forks" = "Exclude Mac resource forks"; // THIS IS NOT LOCALIZED
+"Exclude Mac resource forks" = "Exkludera Mac-resursgafflar";
 
 /* No comment provided by engineer. */
 "Extract" = "Extrahera";
 
 /* No comment provided by engineer. */
-"extract" = "extract"; // THIS IS NOT LOCALIZED
+"extract" = "extrahera";
 
 /* No comment provided by engineer. */
-"Extract Files with Keka" = "Extract Files with Keka"; // THIS IS NOT LOCALIZED
+"Extract Files with Keka" = "Extrahera filer med Keka";
 
 /* No comment provided by engineer. */
-"Extract some files with Keka." = "Extract some files with Keka."; // THIS IS NOT LOCALIZED
+"Extract some files with Keka." = "Extrahera några filer med Keka.";
 
 /* No comment provided by engineer. */
 "extracted" = "extraherad";
@@ -290,7 +296,7 @@
 "Extraction" = "Extrahering";
 
 /* No comment provided by engineer. */
-"extraction" = "extraction"; // THIS IS NOT LOCALIZED
+"extraction" = "extrahering";
 
 /* No comment provided by engineer. */
 "extraction failed" = "extrahering misslyckades";
@@ -317,25 +323,25 @@
 "Feedback" = "Feedback";
 
 /* No comment provided by engineer. */
-"file" = "file"; // THIS IS NOT LOCALIZED
+"file" = "fil";
 
 /* No comment provided by engineer. */
-"File for Keka" = "File for Keka"; // THIS IS NOT LOCALIZED
+"File for Keka" = "Fil för Keka";
 
 /* No comment provided by engineer. */
 "File not informed properly, try again." = "File informerades inte korrekt, försök igen.";
 
 /* No comment provided by engineer. */
-"Files" = "Files"; // THIS IS NOT LOCALIZED
+"Files" = "Filer";
 
 /* No comment provided by engineer. */
-"Files and Folders" = "Files and Folders"; // THIS IS NOT LOCALIZED
+"Files and Folders" = "Filer och Mappar";
 
 /* No comment provided by engineer. */
-"Finishing" = "Finishing"; // THIS IS NOT LOCALIZED
+"Finishing" = "Avslutar";
 
 /* No comment provided by engineer. */
-"Folder drop is only supported on iOS 16 or newer" = "Folder drop is only supported on iOS 16 or newer"; // THIS IS NOT LOCALIZED
+"Folder drop is only supported on iOS 16 or newer" = "Släppa mappar stöds bara på iOS 16 eller senare";
 
 /* No comment provided by engineer. */
 "Format" = "Format";
@@ -347,10 +353,10 @@
 "Get Info" = "Visa info";
 
 /* No comment provided by engineer. */
-"Gigabyte" = "Gigabyte"; // THIS IS NOT LOCALIZED
+"Gigabyte" = "Gigabyte";
 
 /* No comment provided by engineer. */
-"Give Access" = "Give Access"; // THIS IS NOT LOCALIZED
+"Give Access" = "Ge access";
 
 /* No comment provided by engineer. */
 "Hide Password by Default" = "Dölj lösenord som standard";
@@ -368,7 +374,7 @@
 "Keka's icon" = "Kekas ikon";
 
 /* No comment provided by engineer. */
-"Kilobytes" = "Kilobytes"; // THIS IS NOT LOCALIZED
+"Kilobytes" = "Kilobyte";
 
 /* No comment provided by engineer. */
 "Kind" = "Filklass";
@@ -377,7 +383,7 @@
 "Last opened" = "Senast öppnad";
 
 /* No comment provided by engineer. */
-"Level" = "Level"; // THIS IS NOT LOCALIZED
+"Level" = "Nivå";
 
 /* No comment provided by engineer. */
 "Loading" = "Laddar";
@@ -386,25 +392,25 @@
 "Made with" = "Gjord med";
 
 /* No comment provided by engineer. */
-"Megabytes" = "Megabytes"; // THIS IS NOT LOCALIZED
+"Megabytes" = "Megabyte";
 
 /* No comment provided by engineer. */
 "Modified" = "Modifierad";
 
 /* No comment provided by engineer. */
-"Move compressed file(s) to Trash after extraction" = "Move compressed file(s) to Trash after extraction"; // THIS IS NOT LOCALIZED
+"Move compressed file(s) to Trash after extraction" = "Flytta komprimerad(e) fil(er) till Papperskorgen efter extrahering";
 
 /* No comment provided by engineer. */
-"Move original file(s) to Trash after compression" = "Move original file(s) to Trash after compression"; // THIS IS NOT LOCALIZED
+"Move original file(s) to Trash after compression" = "Flytta originalfil(er) till Papperskorgen efter komprimering";
 
 /* No comment provided by engineer. */
 "Name" = "Namn";
 
 /* No comment provided by engineer. */
-"New Compression" = "New Compression"; // THIS IS NOT LOCALIZED
+"New Compression" = "Ny komprimering";
 
 /* No comment provided by engineer. */
-"No archive selected" = "No archive selected"; // THIS IS NOT LOCALIZED
+"No archive selected" = "Inget arkiv valt";
 
 /* No comment provided by engineer. */
 "No contents" = "Inget innehåll";
@@ -428,31 +434,31 @@
 "Open" = "Öppna";
 
 /* No comment provided by engineer. */
-"Open Keka" = "Open Keka"; // THIS IS NOT LOCALIZED
+"Open Keka" = "Öppna Keka";
 
 /* No comment provided by engineer. */
-"Open…" = "Open…"; // THIS IS NOT LOCALIZED
+"Open…" = "Öppna…";
 
 /* No comment provided by engineer. */
-"Order" = "Order"; // THIS IS NOT LOCALIZED
+"Order" = "Följd";
 
 /* No comment provided by engineer. */
 "Password" = "Lösenord";
 
 /* No comment provided by engineer. */
-"Password for \"%@\"" = "Password for \"%@\""; // THIS IS NOT LOCALIZED
+"Password for \"%@\"" = "Lösenord för ”%@”";
 
 /* No comment provided by engineer. */
 "Password needed" = "Lösenord behövs";
 
 /* No comment provided by engineer. */
-"Password Protected" = "Password Protected"; // THIS IS NOT LOCALIZED
+"Password Protected" = "Lösenordsskyddad";
 
 /* No comment provided by engineer. */
-"Pause" = "Pause"; // THIS IS NOT LOCALIZED
+"Pause" = "Paus";
 
 /* No comment provided by engineer. */
-"Petabytes" = "Petabytes"; // THIS IS NOT LOCALIZED
+"Petabytes" = "Petabyte";
 
 /* No comment provided by engineer. */
 "Please enter the password for:" = "Vänligen ange lösenordet för:";
@@ -461,7 +467,7 @@
 "Please select the encoding for:" = "Vänligen välj kodningen för:";
 
 /* No comment provided by engineer. */
-"Preparing" = "Preparing"; // THIS IS NOT LOCALIZED
+"Preparing" = "Förbereder";
 
 /* No comment provided by engineer. */
 "Preview" = "Förhandsvisning";
@@ -473,16 +479,16 @@
 "Remember Last Used Options" = "Kom ihåg senast använda tillval";
 
 /* No comment provided by engineer. */
-"Remove" = "Remove"; // THIS IS NOT LOCALIZED
+"Remove" = "Ta bort";
 
 /* No comment provided by engineer. */
-"Remove All Items" = "Remove All Items"; // THIS IS NOT LOCALIZED
+"Remove All Items" = "Ta bort alla objekt";
 
 /* No comment provided by engineer. */
 "Remove from cache" = "Ta bort från cache";
 
 /* No comment provided by engineer. */
-"Remove the selected items from the compression list" = "Remove the selected items from the compression list"; // THIS IS NOT LOCALIZED
+"Remove the selected items from the compression list" = "Ta bort de valda objekten från komprimeringslistan";
 
 /* No comment provided by engineer. */
 "Reset" = "Nollställ";
@@ -491,19 +497,19 @@
 "Reset All Settings" = "Nollställ alla inställningar";
 
 /* No comment provided by engineer. */
-"Resume" = "Resume"; // THIS IS NOT LOCALIZED
+"Resume" = "Fortsätt";
 
 /* No comment provided by engineer. */
 "Review" = "Granska";
 
 /* No comment provided by engineer. */
-"Run asynchronously" = "Run asynchronously"; // THIS IS NOT LOCALIZED
+"Run asynchronously" = "Kör asynkront";
 
 /* No comment provided by engineer. */
 "Save" = "Spara";
 
 /* No comment provided by engineer. */
-"Select some files and folders for Keka." = "Select some files and folders for Keka."; // THIS IS NOT LOCALIZED
+"Select some files and folders for Keka." = "Välj några filer och mappar för Keka.";
 
 /* No comment provided by engineer. */
 "Settings" = "Inställningar";
@@ -512,22 +518,22 @@
 "Share" = "Dela";
 
 /* No comment provided by engineer. */
-"Share…" = "Share…"; // THIS IS NOT LOCALIZED
+"Share…" = "Dela…";
 
 /* No comment provided by engineer. */
-"Show Advanced Settings" = "Show Advanced Settings"; // THIS IS NOT LOCALIZED
+"Show Advanced Settings" = "Visa Avancerade inställningar";
 
 /* No comment provided by engineer. */
-"Show Info" = "Show Info"; // THIS IS NOT LOCALIZED
+"Show Info" = "Visa info";
 
 /* No comment provided by engineer. */
-"Show Less" = "Show Less"; // THIS IS NOT LOCALIZED
+"Show Less" = "Visa mindre";
 
 /* No comment provided by engineer. */
-"Show or hide additional advanced settings" = "Show or hide additional advanced settings"; // THIS IS NOT LOCALIZED
+"Show or hide additional advanced settings" = "Visa eller dölj ytterligare avancerade inställningar";
 
 /* No comment provided by engineer. */
-"Show or hide additional information about the selected item" = "Show or hide additional information about the selected item"; // THIS IS NOT LOCALIZED
+"Show or hide additional information about the selected item" = "Visa eller dölj ytterligare information om valt objekt";
 
 /* No comment provided by engineer. */
 "Size" = "Storlek";
@@ -539,13 +545,13 @@
 "Slowest" = "Långsammast";
 
 /* No comment provided by engineer. */
-"Split in volumes" = "Split in volumes"; // THIS IS NOT LOCALIZED
+"Split in volumes" = "Dela i volymer";
 
 /* No comment provided by engineer. */
 "Store" = "Lagra";
 
 /* No comment provided by engineer. */
-"Terabytes" = "Terabytes"; // THIS IS NOT LOCALIZED
+"Terabytes" = "Terabyte";
 
 /* No comment provided by engineer. */
 "The %@ of space available in the destination might not be enough for compressing the estimated %@." = "Det %@ tillgängliga utrymmet i destinationen är kanske inte tillräckligt för att komprimera det beräknade %@.";
@@ -554,10 +560,10 @@
 "The changes could not be saved" = "Ändringarna kunde inte sparas";
 
 /* No comment provided by engineer. */
-"The character %@ is not compatilbe with the %@ format." = "Tecknet %@ är inte kompatibelt med formatet %@.";
+"The character %@ is not compatible with the %@ format." = "The character %@ is not compatible with the %@ format."; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
-"The characters %@ are not compatilbe with the %@ format." = "Tecknen %@ är inte kompatibelt med formatet %@.";
+"The characters %@ are not compatible with the %@ format." = "The characters %@ are not compatible with the %@ format."; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "Komprimeringen kan behöva mer minne än tillgängligt (%@) och kan nog inte slutföras framgångsrikt. Kommer att begränsas till 1 tråd.";
@@ -581,13 +587,16 @@
 "The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "Ju långsammare nivå desto mer komprimering kan utföras. Nivån Lagra gör ingen komprimering alls, endast arkivering av innehållet.";
 
 /* No comment provided by engineer. */
-"This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder."; // THIS IS NOT LOCALIZED
+"This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "Denna volymfil behöver ytterligare filåtkomst för att öppnas.\nDu kan ge åtkomst till resten av filerna eller den överordnade mappen.";
+
+/* No comment provided by engineer. */
+"To be implemented" = "To be implemented"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "To extract" = "Att extrahera";
 
 /* No comment provided by engineer. */
-"To prevent a timeout on large operation, enable this setting. The result will always be true if enabled." = "To prevent a timeout on large operation, enable this setting. The result will always be true if enabled."; // THIS IS NOT LOCALIZED
+"To prevent a timeout on large operation, enable this setting. The result will always be true if enabled." = "För att förebygga timeout på stora operationer, aktivera den här inställningen. Resultatet är alltid sant om det är aktiverat.";
 
 /* No comment provided by engineer. */
 "Total size" = "Total storlek";
@@ -596,13 +605,13 @@
 "Translated by %@" = "Översatt av %@";
 
 /* The translator link, if any. Can be a mail address or a website. */
-"TRANSLATOR_LINK" = "https://twitter.com/wileryd";
+"TRANSLATOR_LINK" = "https://threads.com/wileryd";
 
 /* The translator name, if any. */
 "TRANSLATOR_NAME" = "Linus Wileryd";
 
 /* No comment provided by engineer. */
-"Try lowering the compression level, faster levels use less memory." = "Try lowering the compression level, faster levels use less memory."; // THIS IS NOT LOCALIZED
+"Try lowering the compression level, faster levels use less memory." = "Försök minska komprimeringsnivån, snabbare nivåer använder mindre minne.";
 
 /* No comment provided by engineer. */
 "Type" = "Typ";
@@ -614,7 +623,7 @@
 "Unable to browse \"%@\"" = "Kan inte bläddra \"%@\"";
 
 /* No comment provided by engineer. */
-"Unable to delete the file" = "Unable to delete the file"; // THIS IS NOT LOCALIZED
+"Unable to delete the file" = "Kan inte radera filen";
 
 /* No comment provided by engineer. */
 "Unable to determine the available space." = "Kan inte avgöra ledigt utrymme.";
@@ -623,7 +632,7 @@
 "Unable to get encoding data" = "Kan inte hämta kodningsdata";
 
 /* No comment provided by engineer. */
-"URL Encoded" = "URL Encoded"; // THIS IS NOT LOCALIZED
+"URL Encoded" = "Kodad URL";
 
 /* No comment provided by engineer. */
 "Use AES-256 Encryption" = "Använd AES-256-kryptering";
@@ -632,22 +641,28 @@
 "Use AES-256 if Available" = "Använd AES-256 om tillgängligt";
 
 /* No comment provided by engineer. */
+"Use Binaries if Possible" = "Use Binaries if Possible"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Use continuous background task" = "Use continuous background task"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Use special coloring for known formats" = "Använd särskild färgning för kända format";
 
 /* No comment provided by engineer. */
 "Use UTF-8 Encoding if Available" = "Använd UTF-8-kodning om tillgängligt";
 
 /* No comment provided by engineer. */
-"Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly." = "Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly."; // THIS IS NOT LOCALIZED
+"Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly." = "Att använda Keka genom åtgärder och tillägg har minnesbegränsningar. Försök uppgiften med Keka direkt.";
 
 /* No comment provided by engineer. */
-"verification failed" = "verification failed"; // THIS IS NOT LOCALIZED
+"verification failed" = "verifiering misslyckades";
 
 /* No comment provided by engineer. */
-"verified" = "verified"; // THIS IS NOT LOCALIZED
+"verified" = "verifierad";
 
 /* No comment provided by engineer. */
-"Verify compression integrity" = "Verify compression integrity"; // THIS IS NOT LOCALIZED
+"Verify compression integrity" = "Verifiera komprimeringsintegritet";
 
 /* Verification, operation description. */
 "VERIFY_OPERATION" = "Verifiering";
@@ -659,13 +674,13 @@
 "VERIFY_SECTION_TITLE" = "Verifierar";
 
 /* No comment provided by engineer. */
-"Verify…" = "Verify…"; // THIS IS NOT LOCALIZED
+"Verify…" = "Verifiera…";
 
 /* No comment provided by engineer. */
-"Volume Size" = "Volume Size"; // THIS IS NOT LOCALIZED
+"Volume Size" = "Volymstorlek";
 
 /* No comment provided by engineer. */
-"Volume Unit" = "Volume Unit"; // THIS IS NOT LOCALIZED
+"Volume Unit" = "Volymenhet";
 
 /* No comment provided by engineer. */
 "Welcome" = "Välkommen";

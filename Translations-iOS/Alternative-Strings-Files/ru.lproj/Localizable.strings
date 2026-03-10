@@ -14,6 +14,9 @@
 "%@ of %@ items" = "%@ из %@ объект.";
 
 /* No comment provided by engineer. */
+"%@." = "%@."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "%lld items" = "%lld объект.";
 
 /* No comment provided by engineer. */
@@ -97,6 +100,9 @@
 /* No comment provided by engineer. */
 "Allocated size" = "Размер на диске";
 
+/* Appearance settings title. */
+"Appearance" = "Appearance"; // THIS IS NOT LOCALIZED
+
 /* No comment provided by engineer. */
 "archive" = "архив";
 
@@ -122,7 +128,7 @@
 "Browser" = "Открытие";
 
 /* "by aone" part from "Made with love by aone". */
-"by %@" = "%@";
+"by %@" = "by %@"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Bytes" = "Байты";
@@ -554,10 +560,10 @@
 "The changes could not be saved" = "Изменения не могут быть сохранены";
 
 /* No comment provided by engineer. */
-"The character %@ is not compatilbe with the %@ format." = "Символ %@ не совместим с форматом %@.";
+"The character %@ is not compatible with the %@ format." = "Символ %@ не совместим с форматом %@.";
 
 /* No comment provided by engineer. */
-"The characters %@ are not compatilbe with the %@ format." = "Символы %@ не совместимы с форматом %@.";
+"The characters %@ are not compatible with the %@ format." = "Символы %@ не совместимы с форматом %@.";
 
 /* No comment provided by engineer. */
 "The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "Для сжатия может потребоваться больше памяти, чем доступно (%@), и оно может завершиться неудачно. Будет ограничено 1 потоком.";
@@ -582,6 +588,9 @@
 
 /* No comment provided by engineer. */
 "This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "Для открытия этого тома требуется доступ к дополнительным файлам.\nВы можете предоставить доступ к остальным файлам или к родительской папке.";
+
+/* No comment provided by engineer. */
+"To be implemented" = "To be implemented"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "To extract" = "Распаковать";
@@ -630,6 +639,12 @@
 
 /* No comment provided by engineer. */
 "Use AES-256 if Available" = "Использовать шифрование AES-256, если возможно";
+
+/* No comment provided by engineer. */
+"Use Binaries if Possible" = "Use Binaries if Possible"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Use continuous background task" = "Use continuous background task"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Use special coloring for known formats" = "Цветовой акцент для известных форматов";

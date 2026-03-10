@@ -14,6 +14,9 @@
 "%@ of %@ items" = "%@/%@個項目";
 
 /* No comment provided by engineer. */
+"%@." = "%@."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "%lld items" = "%lld個項目";
 
 /* No comment provided by engineer. */
@@ -96,6 +99,9 @@
 
 /* No comment provided by engineer. */
 "Allocated size" = "已分配大小";
+
+/* Appearance settings title. */
+"Appearance" = "Appearance"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "archive" = "封存";
@@ -554,10 +560,10 @@
 "The changes could not be saved" = "無法儲存更改";
 
 /* No comment provided by engineer. */
-"The character %@ is not compatilbe with the %@ format." = "「%@」字元和%@格式不相容。";
+"The character %@ is not compatible with the %@ format." = "「%@」字元和%@格式不相容。";
 
 /* No comment provided by engineer. */
-"The characters %@ are not compatilbe with the %@ format." = "「%@」字元和%@格式不相容。";
+"The characters %@ are not compatible with the %@ format." = "「%@」字元和%@格式不相容。";
 
 /* No comment provided by engineer. */
 "The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "壓縮可能需要比可用記憶體（%@）更多的記憶體，並且可能無法成功完成。將限制在1個執行緒。";
@@ -582,6 +588,9 @@
 
 /* No comment provided by engineer. */
 "This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "這個卷宗檔案需要額外的檔案權限才能打開。\n你可以授予剩餘檔案或上層檔案夾的存取權。";
+
+/* No comment provided by engineer. */
+"To be implemented" = "To be implemented"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "To extract" = "要擷取的內容";
@@ -630,6 +639,12 @@
 
 /* No comment provided by engineer. */
 "Use AES-256 if Available" = "如果可以就使用AES-256";
+
+/* No comment provided by engineer. */
+"Use Binaries if Possible" = "Use Binaries if Possible"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Use continuous background task" = "Use continuous background task"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Use special coloring for known formats" = "使用特定的顏色顯示已知格式";

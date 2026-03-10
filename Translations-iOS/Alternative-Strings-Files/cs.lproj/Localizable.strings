@@ -14,6 +14,9 @@
 "%@ of %@ items" = "%@ z %@ položek";
 
 /* No comment provided by engineer. */
+"%@." = "%@."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "%lld items" = "%lld položek";
 
 /* No comment provided by engineer. */
@@ -96,6 +99,9 @@
 
 /* No comment provided by engineer. */
 "Allocated size" = "Přidělená velikost";
+
+/* Appearance settings title. */
+"Appearance" = "Appearance"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "archive" = "archiv";
@@ -554,10 +560,10 @@
 "The changes could not be saved" = "Změny nemohly být uloženy";
 
 /* No comment provided by engineer. */
-"The character %@ is not compatilbe with the %@ format." = "Znak %@ není kompatibilní s formátem %@.";
+"The character %@ is not compatible with the %@ format." = "Znak %@ není kompatibilní s formátem %@.";
 
 /* No comment provided by engineer. */
-"The characters %@ are not compatilbe with the %@ format." = "Znaky %@ nejsou kompatibilní s formátem %@.";
+"The characters %@ are not compatible with the %@ format." = "Znaky %@ nejsou kompatibilní s formátem %@.";
 
 /* No comment provided by engineer. */
 "The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "Komprimace bude možná vyžadovat více paměti než je volné (%@) a možná selže. Proces bude omezen jen na 1 vlákno.";
@@ -582,6 +588,9 @@
 
 /* No comment provided by engineer. */
 "This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "Pro otevření souborů z tohoto svazku je potřeba udělit oprávnění.\nMůžete udělit oprávnění ke zbytku souborů ve složce nebo nadřazené složce.";
+
+/* No comment provided by engineer. */
+"To be implemented" = "To be implemented"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "To extract" = "Dekomprimovat";
@@ -630,6 +639,12 @@
 
 /* No comment provided by engineer. */
 "Use AES-256 if Available" = "Pokud je to možné použít šifrování AES-256";
+
+/* No comment provided by engineer. */
+"Use Binaries if Possible" = "Use Binaries if Possible"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Use continuous background task" = "Use continuous background task"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Use special coloring for known formats" = "Pro známé formáty použít zvláštní barvu";

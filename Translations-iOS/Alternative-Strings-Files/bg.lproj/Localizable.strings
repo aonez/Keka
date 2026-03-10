@@ -14,6 +14,9 @@
 "%@ of %@ items" = "%@ от %@ елемента";
 
 /* No comment provided by engineer. */
+"%@." = "%@."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "%lld items" = "%lld елемента";
 
 /* No comment provided by engineer. */
@@ -96,6 +99,9 @@
 
 /* No comment provided by engineer. */
 "Allocated size" = "Разпределен размер";
+
+/* Appearance settings title. */
+"Appearance" = "Appearance"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "archive" = "архив";
@@ -236,7 +242,7 @@
 "Destination" = "Местоположение";
 
 /* No comment provided by engineer. */
-"Disable \"%@\" if you prefer to use a default configuration." = "Деактивирайте \"%@\", ако предпочитате да използвате конфигурация по подразбиране.";
+"Disable \"%@\" if you prefer to use a default configuration." = "Деактивирай \"%@\", за да се използва конфигурацията по подразбиране.";
 
 /* No comment provided by engineer. */
 "Dismiss" = "Отказ";
@@ -350,7 +356,7 @@
 "Gigabyte" = "Гигабайт";
 
 /* No comment provided by engineer. */
-"Give Access" = "Дай достъп";
+"Give Access" = "Осигури достъп";
 
 /* No comment provided by engineer. */
 "Hide Password by Default" = "Скриване на паролата по подразбиране";
@@ -440,7 +446,7 @@
 "Password" = "Парола";
 
 /* No comment provided by engineer. */
-"Password for \"%@\"" = "Парола за "%@"";
+"Password for \"%@\"" = "Парола за \"%@\"";
 
 /* No comment provided by engineer. */
 "Password needed" = "Нужна е парола";
@@ -554,10 +560,10 @@
 "The changes could not be saved" = "Промените не могат да бъдат запазени";
 
 /* No comment provided by engineer. */
-"The character %@ is not compatilbe with the %@ format." = "Символът %@ не е съвместим с формата %@.";
+"The character %@ is not compatible with the %@ format." = "Символът %@ не е съвместим с формата %@.";
 
 /* No comment provided by engineer. */
-"The characters %@ are not compatilbe with the %@ format." = "Символите %@ не са съвместими с формата %@.";
+"The characters %@ are not compatible with the %@ format." = "Символите %@ не са съвместими с формата %@.";
 
 /* No comment provided by engineer. */
 "The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "Архивирането може да изисква повече памет от наличната (%@) и може да не бъде завършено успешно. Ще бъде ограничено до 1 нишка.";
@@ -581,7 +587,10 @@
 "The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "Колкото по-бавно е нивото, толкова по-голяма компресия може да се постигне. Нивото само на запазване изобщо не компресира, а само архивира съдържанието.";
 
 /* No comment provided by engineer. */
-"This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "Този том изисква допълнителен достъп до файлове, за да се отвори.\nМожеш да дадеш достъп до останалите файлове или до родителската папка.";
+"This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "Този том изисква допълнителен достъп до файлове, за да се отвори.\nДай достъп до останалите файлове или до родителската папка.";
+
+/* No comment provided by engineer. */
+"To be implemented" = "To be implemented"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "To extract" = "Да разархивира";
@@ -632,6 +641,12 @@
 "Use AES-256 if Available" = "Използване на AES-256 ако е възможно";
 
 /* No comment provided by engineer. */
+"Use Binaries if Possible" = "Use Binaries if Possible"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Use continuous background task" = "Use continuous background task"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "Use special coloring for known formats" = "Използване на специално оцветяване за известни формати";
 
 /* No comment provided by engineer. */
@@ -675,3 +690,4 @@
 
 /* No comment provided by engineer. */
 "Where" = "Къде";
+

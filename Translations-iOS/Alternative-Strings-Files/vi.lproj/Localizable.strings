@@ -14,6 +14,9 @@
 "%@ of %@ items" = "%@ trên %@ đơn vị";
 
 /* No comment provided by engineer. */
+"%@." = "%@."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "%lld items" = "%lld items"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
@@ -96,6 +99,9 @@
 
 /* No comment provided by engineer. */
 "Allocated size" = "Kích thước được phân bổ";
+
+/* Appearance settings title. */
+"Appearance" = "Appearance"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "archive" = "archive"; // THIS IS NOT LOCALIZED
@@ -554,10 +560,10 @@
 "The changes could not be saved" = "Không thể lưu lại các thay đổi";
 
 /* No comment provided by engineer. */
-"The character %@ is not compatilbe with the %@ format." = "Ký tự %@ không tương thích với định dạng %@.";
+"The character %@ is not compatible with the %@ format." = "Ký tự %@ không tương thích với định dạng %@.";
 
 /* No comment provided by engineer. */
-"The characters %@ are not compatilbe with the %@ format." = "Các ký tự %@ không tương thích với định dạng %@.";
+"The characters %@ are not compatible with the %@ format." = "Các ký tự %@ không tương thích với định dạng %@.";
 
 /* No comment provided by engineer. */
 "The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "Quá trình nén cần (%@) bộ nhớ tạm hoặc nhiều hơn và có thể không thành công. Ứng dụng sẽ giới hạn xuống còn 1 luồng xử lý.";
@@ -582,6 +588,9 @@
 
 /* No comment provided by engineer. */
 "This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "Ổ đĩa lưu trữ tập tin cần bổ sung quyền truy cập tập tin để mở nó.\nBạn có thể cấp quyền truy cập cho tất cả các tập tin hoặc thư mục mẹ.";
+
+/* No comment provided by engineer. */
+"To be implemented" = "To be implemented"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "To extract" = "Đến giải nén";
@@ -630,6 +639,12 @@
 
 /* No comment provided by engineer. */
 "Use AES-256 if Available" = "Sử dụng mã hoá AES-256 nếu có";
+
+/* No comment provided by engineer. */
+"Use Binaries if Possible" = "Use Binaries if Possible"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Use continuous background task" = "Use continuous background task"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Use special coloring for known formats" = "Sử dụng màu sắc đặc trưng cho các định dạng đã biết";

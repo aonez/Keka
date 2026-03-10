@@ -14,6 +14,9 @@
 "%@ of %@ items" = "%@ de %@ objets";
 
 /* No comment provided by engineer. */
+"%@." = "%@."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
 "%lld items" = "%lld objets";
 
 /* No comment provided by engineer. */
@@ -96,6 +99,9 @@
 
 /* No comment provided by engineer. */
 "Allocated size" = "Taille allouée";
+
+/* Appearance settings title. */
+"Appearance" = "Appearance"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "archive" = "archive";
@@ -554,10 +560,10 @@
 "The changes could not be saved" = "Les modifications n'ont pas pu être enregistrées";
 
 /* No comment provided by engineer. */
-"The character %@ is not compatilbe with the %@ format." = "Le caractère %@ n'est pas compatible avec le format %@.";
+"The character %@ is not compatible with the %@ format." = "Le caractère %@ n'est pas compatible avec le format %@.";
 
 /* No comment provided by engineer. */
-"The characters %@ are not compatilbe with the %@ format." = "Les caractères %@ ne sont pas compatibles avec le format %@.";
+"The characters %@ are not compatible with the %@ format." = "Les caractères %@ ne sont pas compatibles avec le format %@.";
 
 /* No comment provided by engineer. */
 "The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "La compression peut nécessiter plus de mémoire que les (%@) disponibles et peut ne pas compléter correctement. Sera limitée à 1 fil";
@@ -582,6 +588,9 @@
 
 /* No comment provided by engineer. */
 "This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "Ce fichier de volum nécessite un accès supplémentaire aux fichiers pour être ouvert.\nVous pouvez donner accès au reste des fichiers ou au dossier parent.";
+
+/* No comment provided by engineer. */
+"To be implemented" = "To be implemented"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "To extract" = "A extraire";
@@ -630,6 +639,12 @@
 
 /* No comment provided by engineer. */
 "Use AES-256 if Available" = "Utiliser AES-256 si disponible";
+
+/* No comment provided by engineer. */
+"Use Binaries if Possible" = "Use Binaries if Possible"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Use continuous background task" = "Use continuous background task"; // THIS IS NOT LOCALIZED
 
 /* No comment provided by engineer. */
 "Use special coloring for known formats" = "Utiliser une colorisation spéciale pour les formats connus";
