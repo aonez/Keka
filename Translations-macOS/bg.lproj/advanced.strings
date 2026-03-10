@@ -60,7 +60,7 @@
 "2354.placeholderString" = "персонализирано име";
 
 /* Class = "NSTextFieldCell"; title = "You can create an ISO volume that will be read-only and compressed. ISO volumes can be only created from a folder.\n\nSet a volume name to this ISO or use the default name based on the files you compress."; ObjectID = "2363"; */
-"2363.title" = "Можете да направите ISO дял, който ще бъде компресиран и само за четене. ISO дяловете могат да бъдат създадени само от папка.\n\nСложете име на ISO дяла или използвайте то по подразбиране.";
+"2363.title" = "Създай ISO дял, който ще е компресиран и само за четене. ISO дялове могат да се създават само от папка.\n\nВъведи име на ISO дяла или използвай името по подразбиране.";
 
 /* Class = "NSTextFieldCell"; title = "Store"; ObjectID = "2390"; */
 "2390.title" = "Съхранение";
@@ -78,7 +78,7 @@
 "2426.title" = "Повтори:";
 
 /* Class = "NSButtonCell"; title = "Self-extracting archive for Windows"; ObjectID = "Itb-5A-JW7"; */
-"Itb-5A-JW7.title" = "Self-extracting archive for Windows";
+"Itb-5A-JW7.title" = "Саморазархивиращ се архив за Windows";
 
 /* Class = "NSButtonCell"; title = "Encrypt filenames"; ObjectID = "L2I-Q8-zqc"; */
 "L2I-Q8-zqc.title" = "Криптирай имената";
@@ -90,7 +90,7 @@
 "UYy-aQ-V1a.title" = "Солиден архив";
 
 /* Class = "NSTextFieldCell"; title = "Format:"; ObjectID = "dDw-7W-5ff"; */
-"dDw-7W-5ff.title" = "Format:";
+"dDw-7W-5ff.title" = "Формат:";
 
 /* Class = "NSButtonCell"; title = "Verify compression integrity"; ObjectID = "gqN-A9-jPb"; */
-"gqN-A9-jPb.title" = "Verify compression integrity";
+"gqN-A9-jPb.title" = "Провери целостта на архива";
