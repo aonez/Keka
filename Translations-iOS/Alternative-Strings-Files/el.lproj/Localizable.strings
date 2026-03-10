@@ -1,0 +1,693 @@
+/* No comment provided by engineer. */
+"%@ item" = "%@ στοιχείο";
+
+/* No comment provided by engineer. */
+"%@ items" = "%@ στοιχεία";
+
+/* _OPERATION_ of "_FILENAME_" failed */
+"%@ of \"%@\" failed" = "%@ του \"%@\" απέτυχε";
+
+/* No comment provided by engineer. */
+"%@ of %@ item" = "%@ από %@ στοιχείο";
+
+/* No comment provided by engineer. */
+"%@ of %@ items" = "%@ από %@ στοιχεία";
+
+/* No comment provided by engineer. */
+"%@." = "%@."; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"%lld items" = "%lld στοιχεία";
+
+/* No comment provided by engineer. */
+"%lld seconds" = "%lld δευτερόλεπτα";
+
+/* No comment provided by engineer. */
+"%lld:%@ minutes" = "%lld:%@ λεπτά";
+
+/* No comment provided by engineer. */
+"%lld:%@:%@ hours" = "%lld:%@:%@ ώρες";
+
+/* No comment provided by engineer. */
+"About" = "Πληροφορίες";
+
+/* No comment provided by engineer. */
+"About %lld days" = "Περίπου %lld ημέρες";
+
+/* No comment provided by engineer. */
+"About %lld hours" = "Περίπου %lld ώρες";
+
+/* No comment provided by engineer. */
+"About %lld minutes" = "Περίπου %lld λεπτά";
+
+/* No comment provided by engineer. */
+"About %lld months" = "Περίπου %lld μήνες";
+
+/* No comment provided by engineer. */
+"About %lld seconds" = "Περίπου %lld δευτερόλεπτα";
+
+/* No comment provided by engineer. */
+"About %lld weeks" = "Περίπου %lld εβδομάδες";
+
+/* No comment provided by engineer. */
+"About %lld years" = "Περίπου %lld χρόνια";
+
+/* No comment provided by engineer. */
+"About a day" = "Περίπου μία ημέρα";
+
+/* No comment provided by engineer. */
+"About a minute" = "Περίπου ένα λεπτό";
+
+/* No comment provided by engineer. */
+"About a month" = "Περίπου ένας μήνας";
+
+/* No comment provided by engineer. */
+"About a second" = "Περίπου ένα δευτερόλεπτο";
+
+/* No comment provided by engineer. */
+"About a week" = "Περίπου μία εβδομάδα";
+
+/* No comment provided by engineer. */
+"About a year" = "Περίπου ένα έτος";
+
+/* No comment provided by engineer. */
+"About an hour" = "Περίπου μία ώρα";
+
+/* No comment provided by engineer. */
+"Actions" = "Ενέργειες";
+
+/* No comment provided by engineer. */
+"Actions to do with the current browsed file" = "Ενέργειες για το τρέχον αρχείο που προβάλλεται";
+
+/* No comment provided by engineer. */
+"Add a File" = "Προσθήκη αρχείου";
+
+/* No comment provided by engineer. */
+"Add a Folder" = "Προσθήκη φακέλου";
+
+/* No comment provided by engineer. */
+"Add a Photo or Video" = "Προσθήκη φωτογραφίας ή βίντεο";
+
+/* No comment provided by engineer. */
+"Add files and folders to a compression list" = "Προσθήκη αρχείων και φακέλων στη λίστα συμπίεσης";
+
+/* No comment provided by engineer. */
+"Add some contents using the %@ button." = "Πρόσθεσε περιεχόμενο με το κουμπί %@.";
+
+/* No comment provided by engineer. */
+"Advanced Settings" = "Προχωρημένες ρυθμίσεις";
+
+/* No comment provided by engineer. */
+"Allocated size" = "Δεσμευμένος χώρος";
+
+/* Appearance settings title. */
+"Appearance" = "Appearance"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"archive" = "αρχείο";
+
+/* No comment provided by engineer. */
+"Archive items separately" = "Συμπίεση ανά στοιχείο";
+
+/* Default compression file name. */
+"ARCHIVE_DEFAULT_NAME" = "Αρχείο";
+
+/* No comment provided by engineer. */
+"Ask" = "Ερώτηση";
+
+/* Browse, operation description. */
+"BROWSE_OPERATION" = "Άνοιγμα";
+
+/* Browsing, operation running. */
+"BROWSE_RUNNING" = "Άνοιγμα…";
+
+/* Browsing, tasks section title. */
+"BROWSE_SECTION_TITLE" = "Περιηγήσεις";
+
+/* Browser settings title. */
+"Browser" = "Περιήγηση";
+
+/* "by aone" part from "Made with love by aone". */
+"by %@" = "από %@";
+
+/* No comment provided by engineer. */
+"Bytes" = "Byte";
+
+/* No comment provided by engineer. */
+"Calculate" = "Υπολογισμός";
+
+/* No comment provided by engineer. */
+"Cancel" = "Ακύρωση";
+
+/* No comment provided by engineer. */
+"Cancelled" = "Ακυρώθηκε";
+
+/* No comment provided by engineer. */
+"Choose" = "Επιλογή";
+
+/* No comment provided by engineer. */
+"Clear Cache" = "Εκκαθάριση μνήμης cache";
+
+/* No comment provided by engineer. */
+"Clear Cache Contents" = "Εκκαθάριση περιεχομένων cache";
+
+/* No comment provided by engineer. */
+"Close" = "Κλείσιμο";
+
+/* No comment provided by engineer. */
+"Comments" = "Σχόλια";
+
+/* No comment provided by engineer. */
+"Compress" = "Συμπίεση";
+
+/* No comment provided by engineer. */
+"compress" = "συμπίεση";
+
+/* No comment provided by engineer. */
+"Compress all the items in the compression list" = "Συμπίεση όλων των στοιχείων στη λίστα συμπίεσης";
+
+/* No comment provided by engineer. */
+"Compress Files with Keka" = "Συμπίεση αρχείων με το Keka";
+
+/* No comment provided by engineer. */
+"Compress some files with Keka." = "Συμπίεσε αρχεία με το Keka.";
+
+/* No comment provided by engineer. */
+"compressed" = "συμπιεσμένο";
+
+/* No comment provided by engineer. */
+"Compressed size" = "Συμπιεσμένο μέγεθος";
+
+/* Compression settings title. */
+"Compression" = "Συμπίεση";
+
+/* No comment provided by engineer. */
+"compression" = "συμπίεση";
+
+/* No comment provided by engineer. */
+"compression failed" = "η συμπίεση απέτυχε";
+
+/* No comment provided by engineer. */
+"Compression Level:" = "Επίπεδο συμπίεσης:";
+
+/* Compression, operation description. */
+"COMPRESSION_OPERATION" = "Συμπίεση";
+
+/* Compressing, operation running. */
+"COMPRESSION_RUNNING" = "Συμπίεση…";
+
+/* Compressing, tasks section title. */
+"COMPRESSION_SECTION_TITLE" = "Συμπιέσεις";
+
+/* No comment provided by engineer. */
+"Contents" = "Περιεχόμενα";
+
+/* No comment provided by engineer. */
+"Contents: %@, Size: %@" = "Περιεχόμενα: %@, Μέγεθος: %@";
+
+/* No comment provided by engineer. */
+"Contents: %lld, Size: %@" = "Περιεχόμενα: %lld, Μέγεθος: %@";
+
+/* No comment provided by engineer. */
+"Created" = "Δημιουργία";
+
+/* No comment provided by engineer. */
+"Custom…" = "Προσαρμογή…";
+
+/* No comment provided by engineer. */
+"Date" = "Ημερομηνία";
+
+/* No comment provided by engineer. */
+"Default Compression Level" = "Προεπιλεγμένο επίπεδο συμπίεσης";
+
+/* No comment provided by engineer. */
+"Default Destination" = "Προεπιλεγμένος προορισμός";
+
+/* No comment provided by engineer. */
+"Default Format" = "Προεπιλεγμένη μορφή";
+
+/* No comment provided by engineer. */
+"Default Tap Action" = "Προεπιλεγμένη ενέργεια πατήματος";
+
+/* No comment provided by engineer. */
+"Default Volume Unit" = "Προεπιλεγμένη μονάδα τόμου";
+
+/* No comment provided by engineer. */
+"Delete" = "Διαγραφή";
+
+/* No comment provided by engineer. */
+"Delete files(s) after compression" = "Διαγραφή αρχείων μετά τη συμπίεση";
+
+/* No comment provided by engineer. */
+"Destination" = "Προορισμός";
+
+/* No comment provided by engineer. */
+"Disable \"%@\" if you prefer to use a default configuration." = "Απενεργοποίησε το \"%@\" αν προτιμάς να χρησιμοποιήσεις προεπιλεγμένη ρύθμιση.";
+
+/* No comment provided by engineer. */
+"Dismiss" = "Κλείσιμο";
+
+/* No comment provided by engineer. */
+"Document" = "Έγγραφο";
+
+/* No comment provided by engineer. */
+"Documents" = "Έγγραφα";
+
+/* No comment provided by engineer. */
+"Done" = "Τέλος";
+
+/* No comment provided by engineer. */
+"done" = "έτοιμο";
+
+/* No comment provided by engineer. */
+"Downloads" = "Λήψεις";
+
+/* No comment provided by engineer. */
+"Edit" = "Επεξεργασία";
+
+/* No comment provided by engineer. */
+"Encrypt Filenames" = "Κρυπτογράφηση ονομάτων αρχείων";
+
+/* No comment provided by engineer. */
+"Encrypt Filenames if Possible" = "Κρυπτογράφηση ονομάτων αρχείων όπου είναι δυνατό";
+
+/* No comment provided by engineer. */
+"Enter the password for the file\n\"%@\"" = "Εισήγαγε τον κωδικό για το αρχείο\n\"%@\"";
+
+/* No comment provided by engineer. */
+"Exclude Mac resource forks" = "Εξαίρεση των resource forks του Mac";
+
+/* No comment provided by engineer. */
+"Extract" = "Αποσυμπίεση";
+
+/* No comment provided by engineer. */
+"extract" = "αποσυμπίεση";
+
+/* No comment provided by engineer. */
+"Extract Files with Keka" = "Αποσυμπίεση αρχείων με το Keka";
+
+/* No comment provided by engineer. */
+"Extract some files with Keka." = "Αποσυμπίεσε αρχεία με το Keka.";
+
+/* No comment provided by engineer. */
+"extracted" = "αποσυμπιεσμένο";
+
+/* Extraction settings title. */
+"Extraction" = "Αποσυμπίεση";
+
+/* No comment provided by engineer. */
+"extraction" = "αποσυμπίεση";
+
+/* No comment provided by engineer. */
+"extraction failed" = "η αποσυμπίεση απέτυχε";
+
+/* Extraction, operation description. */
+"EXTRACTION_OPERATION" = "Αποσυμπίεση";
+
+/* Extracting, operation running. */
+"EXTRACTION_RUNNING" = "Αποσυμπίεση…";
+
+/* Extracting, tasks section title. */
+"EXTRACTION_SECTION_TITLE" = "Αποσυμπιέσεις";
+
+/* No comment provided by engineer. */
+"failed" = "απέτυχε";
+
+/* No comment provided by engineer. */
+"Fast" = "Γρήγορο";
+
+/* No comment provided by engineer. */
+"Fastest" = "Ταχύτερο";
+
+/* No comment provided by engineer. */
+"Feedback" = "Επικοινωνία";
+
+/* No comment provided by engineer. */
+"file" = "αρχείο";
+
+/* No comment provided by engineer. */
+"File for Keka" = "Επιλογή αρχείου για το Keka";
+
+/* No comment provided by engineer. */
+"File not informed properly, try again." = "Το αρχείο δεν καθορίστηκε σωστά, δοκίμασε ξανά.";
+
+/* No comment provided by engineer. */
+"Files" = "Αρχεία";
+
+/* No comment provided by engineer. */
+"Files and Folders" = "Αρχεία και φάκελοι";
+
+/* No comment provided by engineer. */
+"Finishing" = "Ολοκλήρωση";
+
+/* No comment provided by engineer. */
+"Folder drop is only supported on iOS 16 or newer" = "Η απόθεση φακέλων υποστηρίζεται μόνο σε iOS 16 ή νεότερο";
+
+/* No comment provided by engineer. */
+"Format" = "Μορφή";
+
+/* General settings title. */
+"General" = "Γενικά";
+
+/* No comment provided by engineer. */
+"Get Info" = "Λήψη πληροφοριών";
+
+/* No comment provided by engineer. */
+"Gigabyte" = "Gigabyte";
+
+/* No comment provided by engineer. */
+"Give Access" = "Παροχή πρόσβασης";
+
+/* No comment provided by engineer. */
+"Hide Password by Default" = "Απόκρυψη συνθηματικού από προεπιλογή";
+
+/* No comment provided by engineer. */
+"If you got here, please get in touch with the developers." = "Αν έφτασες εδώ, επικοινώνησε με τους προγραμματιστές.";
+
+/* No comment provided by engineer. */
+"Information" = "Πληροφορίες";
+
+/* No comment provided by engineer. */
+"Keka's Folder" = "Φάκελος του Keka";
+
+/* No comment provided by engineer. */
+"Keka's icon" = "Εικονίδιο του Keka";
+
+/* No comment provided by engineer. */
+"Kilobytes" = "Kilobytes";
+
+/* No comment provided by engineer. */
+"Kind" = "Είδος";
+
+/* No comment provided by engineer. */
+"Last opened" = "Τελευταίο άνοιγμα";
+
+/* No comment provided by engineer. */
+"Level" = "Επίπεδο";
+
+/* No comment provided by engineer. */
+"Loading" = "Φόρτωση";
+
+/* "Made with" part from "Made with love by aone". */
+"Made with" = "Φτιαγμένο με";
+
+/* No comment provided by engineer. */
+"Megabytes" = "Megabytes";
+
+/* No comment provided by engineer. */
+"Modified" = "Τροποποίηση";
+
+/* No comment provided by engineer. */
+"Move compressed file(s) to Trash after extraction" = "Μετακίνηση συμπιεσμένων αρχείων στον Κάδο μετά την αποσυμπίεση";
+
+/* No comment provided by engineer. */
+"Move original file(s) to Trash after compression" = "Μετακίνηση αρχικών αρχείων στον Κάδο μετά τη συμπίεση";
+
+/* No comment provided by engineer. */
+"Name" = "Όνομα";
+
+/* No comment provided by engineer. */
+"New Compression" = "Νέα συμπίεση";
+
+/* No comment provided by engineer. */
+"No archive selected" = "Δεν έχει επιλεγεί αρχείο";
+
+/* No comment provided by engineer. */
+"No contents" = "Χωρίς περιεχόμενο";
+
+/* No comment provided by engineer. */
+"No files to extract" = "Δεν υπάρχουν αρχεία για αποσυμπίεση";
+
+/* Password field empty placeholder */
+"None" = "Κανένα";
+
+/* No comment provided by engineer. */
+"Normal" = "Κανονικό";
+
+/* No comment provided by engineer. */
+"Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files." = "Δεν υποστηρίζουν όλες οι πλατφόρμες κρυπτογράφηση AES-256. Ίσως χρειαστείς εφαρμογή τρίτου (όπως το Keka) για να ανοίξεις αυτά τα συμπιεσμένα αρχεία.";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Open" = "Άνοιγμα";
+
+/* No comment provided by engineer. */
+"Open Keka" = "Άνοιγμα του Keka";
+
+/* No comment provided by engineer. */
+"Open…" = "Άνοιγμα…";
+
+/* No comment provided by engineer. */
+"Order" = "Ταξινόμηση";
+
+/* No comment provided by engineer. */
+"Password" = "Συνθηματικό";
+
+/* No comment provided by engineer. */
+"Password for \"%@\"" = "Συνθηματικό για \"%@\"";
+
+/* No comment provided by engineer. */
+"Password needed" = "Απαιτείται συνθηματικό";
+
+/* No comment provided by engineer. */
+"Password Protected" = "Προστατευμένο με συνθηματικό";
+
+/* No comment provided by engineer. */
+"Pause" = "Παύση";
+
+/* No comment provided by engineer. */
+"Petabytes" = "Petabytes";
+
+/* No comment provided by engineer. */
+"Please enter the password for:" = "Καταχώρισε το συνθηματικό για:";
+
+/* No comment provided by engineer. */
+"Please select the encoding for:" = "Επίλεξε κωδικοποίηση για:";
+
+/* No comment provided by engineer. */
+"Preparing" = "Προετοιμασία";
+
+/* No comment provided by engineer. */
+"Preview" = "Προεπισκόπηση";
+
+/* No comment provided by engineer. */
+"Quick Look" = "Προεπισκόπηση";
+
+/* No comment provided by engineer. */
+"Remember Last Used Options" = "Απομνημόνευση τελευταίων επιλογών";
+
+/* No comment provided by engineer. */
+"Remove" = "Αφαίρεση";
+
+/* No comment provided by engineer. */
+"Remove All Items" = "Αφαίρεση όλων των στοιχείων";
+
+/* No comment provided by engineer. */
+"Remove from cache" = "Αφαίρεση από το cache";
+
+/* No comment provided by engineer. */
+"Remove the selected items from the compression list" = "Αφαίρεση των επιλεγμένων στοιχείων από τη λίστα συμπίεσης";
+
+/* No comment provided by engineer. */
+"Reset" = "Επαναφορά";
+
+/* No comment provided by engineer. */
+"Reset All Settings" = "Επαναφορά όλων των ρυθμίσεων";
+
+/* No comment provided by engineer. */
+"Resume" = "Συνέχιση";
+
+/* No comment provided by engineer. */
+"Review" = "Αξιολόγηση";
+
+/* No comment provided by engineer. */
+"Run asynchronously" = "Εκτέλεση ασύγχρονα";
+
+/* No comment provided by engineer. */
+"Save" = "Αποθήκευση";
+
+/* No comment provided by engineer. */
+"Select some files and folders for Keka." = "Επίλεξε αρχεία ή/και φακέλους για το Keka.";
+
+/* No comment provided by engineer. */
+"Settings" = "Ρυθμίσεις";
+
+/* No comment provided by engineer. */
+"Share" = "Κοινή χρήση";
+
+/* No comment provided by engineer. */
+"Share…" = "Κοινή χρήση…";
+
+/* No comment provided by engineer. */
+"Show Advanced Settings" = "Εμφάνιση προχωρημένων ρυθμίσεων";
+
+/* No comment provided by engineer. */
+"Show Info" = "Εμφάνιση πληροφοριών";
+
+/* No comment provided by engineer. */
+"Show Less" = "Λιγότερα";
+
+/* No comment provided by engineer. */
+"Show or hide additional advanced settings" = "Εμφάνιση ή απόκρυψη επιπλέον προχωρημένων ρυθμίσεων";
+
+/* No comment provided by engineer. */
+"Show or hide additional information about the selected item" = "Εμφάνιση ή απόκρυψη πρόσθετων πληροφοριών για το επιλεγμένο στοιχείο";
+
+/* No comment provided by engineer. */
+"Size" = "Μέγεθος";
+
+/* No comment provided by engineer. */
+"Slow" = "Αργό";
+
+/* No comment provided by engineer. */
+"Slowest" = "Πιο αργό";
+
+/* No comment provided by engineer. */
+"Split in volumes" = "Διαίρεση σε τόμους";
+
+/* No comment provided by engineer. */
+"Store" = "Αποθήκευση";
+
+/* No comment provided by engineer. */
+"Terabytes" = "Terabytes";
+
+/* No comment provided by engineer. */
+"The %@ of space available in the destination might not be enough for compressing the estimated %@." = "Ο διαθέσιμος χώρος στον προορισμό είναι %@ και ίσως δεν επαρκεί για τη συμπίεση του εκτιμώμενου %@.";
+
+/* No comment provided by engineer. */
+"The changes could not be saved" = "Δεν ήταν δυνατή η αποθήκευση των αλλαγών";
+
+/* No comment provided by engineer. */
+"The character %@ is not compatible with the %@ format." = "Ο χαρακτήρας %@ δεν είναι συμβατός με τη μορφή %@.";
+
+/* No comment provided by engineer. */
+"The characters %@ are not compatible with the %@ format." = "Οι χαρακτήρες %@ δεν είναι συμβατοί με τη μορφή %@.";
+
+/* No comment provided by engineer. */
+"The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "Η συμπίεση μπορεί να απαιτεί περισσότερη μνήμη από τη διαθέσιμη (%@) και ενδέχεται να μην ολοκληρωθεί επιτυχώς. Θα περιοριστεί σε 1 νήμα.";
+
+/* No comment provided by engineer. */
+"The compression will be limited to %lld thread/s due to memory constraints." = "Η συμπίεση θα περιοριστεί σε %lld νήμα/νήματα λόγω περιορισμών μνήμης.";
+
+/* No comment provided by engineer. */
+"The destination has %@ of space available." = "Ο προορισμός έχει διαθέσιμο χώρο %@.";
+
+/* No comment provided by engineer. */
+"The file manager for iOS and macOS" = "Ο διαχειριστής αρχείων για iOS και macOS";
+
+/* No comment provided by engineer. */
+"The folder is empty" = "Ο φάκελος είναι άδειος";
+
+/* No comment provided by engineer. */
+"The password length should be %lld or higher." = "Το μήκος του συνθηματικού πρέπει να είναι %lld ή μεγαλύτερο.";
+
+/* No comment provided by engineer. */
+"The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "Όσο πιο αργό το επίπεδο, τόσο μεγαλύτερη η συμπίεση. Το επίπεδο «Αποθήκευση» δεν συμπιέζει, απλώς αρχειοθετεί τα περιεχόμενα.";
+
+/* No comment provided by engineer. */
+"This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "Αυτό το αρχείο τόμου χρειάζεται πρόσβαση και στα υπόλοιπα αρχεία για να ανοίξει.\nΜπορείς να δώσεις πρόσβαση στα υπόλοιπα αρχεία ή στον γονικό φάκελο.";
+
+/* No comment provided by engineer. */
+"To be implemented" = "To be implemented"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"To extract" = "Για αποσυμπίεση";
+
+/* No comment provided by engineer. */
+"To prevent a timeout on large operation, enable this setting. The result will always be true if enabled." = "Για να αποφευχθεί λήξη χρονικού ορίου σε μεγάλες εργασίες, ενεργοποίησε αυτή τη ρύθμιση. Αν είναι ενεργή, το αποτέλεσμα θα είναι πάντα true.";
+
+/* No comment provided by engineer. */
+"Total size" = "Συνολικό μέγεθος";
+
+/* No comment provided by engineer. */
+"Translated by %@" = "Μετάφραση: %@";
+
+/* The translator link, if any. Can be a mail address or a website. */
+"TRANSLATOR_LINK" = "https://www.keka.io";
+
+/* The translator name, if any. */
+"TRANSLATOR_NAME" = "aone";
+
+/* No comment provided by engineer. */
+"Try lowering the compression level, faster levels use less memory." = "Δοκίμασε να μειώσεις το επίπεδο συμπίεσης· τα ταχύτερα επίπεδα χρησιμοποιούν λιγότερη μνήμη.";
+
+/* No comment provided by engineer. */
+"Type" = "Τύπος";
+
+/* No comment provided by engineer. */
+"Unable to apply the app icon" = "Αδυναμία εφαρμογής εικονιδίου εφαρμογής";
+
+/* No comment provided by engineer. */
+"Unable to browse \"%@\"" = "Αδυναμία ανοίγματος του \"%@\"";
+
+/* No comment provided by engineer. */
+"Unable to delete the file" = "Αδυναμία διαγραφής του αρχείου";
+
+/* No comment provided by engineer. */
+"Unable to determine the available space." = "Αδυναμία προσδιορισμού διαθέσιμου χώρου.";
+
+/* No comment provided by engineer. */
+"Unable to get encoding data" = "Αδυναμία λήψης δεδομένων κωδικοποίησης";
+
+/* No comment provided by engineer. */
+"URL Encoded" = "Κωδικοποιημένο URL";
+
+/* No comment provided by engineer. */
+"Use AES-256 Encryption" = "Χρήση κρυπτογράφησης AES-256";
+
+/* No comment provided by engineer. */
+"Use AES-256 if Available" = "Χρήση AES-256 αν είναι διαθέσιμο";
+
+/* No comment provided by engineer. */
+"Use Binaries if Possible" = "Use Binaries if Possible"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Use continuous background task" = "Use continuous background task"; // THIS IS NOT LOCALIZED
+
+/* No comment provided by engineer. */
+"Use special coloring for known formats" = "Χρήση ειδικού χρωματισμού για γνωστές μορφές";
+
+/* No comment provided by engineer. */
+"Use UTF-8 Encoding if Available" = "Χρήση κωδικοποίησης UTF-8 αν είναι διαθέσιμη";
+
+/* No comment provided by engineer. */
+"Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly." = "Η χρήση του Keka μέσω ενεργειών και επεκτάσεων έχει περιορισμούς μνήμης.\nΔοκίμασε να εκτελέσεις αυτήν την ενέργεια απευθείας με το Keka.";
+
+/* No comment provided by engineer. */
+"verification failed" = "η επαλήθευση απέτυχε";
+
+/* No comment provided by engineer. */
+"verified" = "επαληθεύτηκε";
+
+/* No comment provided by engineer. */
+"Verify compression integrity" = "Επαλήθευση ακεραιότητας συμπίεσης";
+
+/* Verification, operation description. */
+"VERIFY_OPERATION" = "Επαλήθευση";
+
+/* Verifying, operation running. */
+"VERIFY_RUNNING" = "Επαλήθευση…";
+
+/* Verifying, tasks section title. */
+"VERIFY_SECTION_TITLE" = "Επαληθεύσεις";
+
+/* No comment provided by engineer. */
+"Verify…" = "Επαλήθευση…";
+
+/* No comment provided by engineer. */
+"Volume Size" = "Μέγεθος τόμου";
+
+/* No comment provided by engineer. */
+"Volume Unit" = "Μονάδα τόμου";
+
+/* No comment provided by engineer. */
+"Welcome" = "Καλώς ήρθατε";
+
+/* The "Welcome to Keka" title. */
+"Welcome to %@" = "Καλώς ήρθατε στο %@";
+
+/* No comment provided by engineer. */
+"Where" = "Πού";
+

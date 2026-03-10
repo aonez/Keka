@@ -1,0 +1,1505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Keka/en.lproj/AppShortcuts.strings" source-language="en" target-language="el" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
+    </header>
+    <body>
+      <trans-unit id="Compress Files with ${applicationName}" xml:space="preserve">
+        <source>Compress Files with ${applicationName}</source>
+        <target>Συμπίεσε αρχεία με το ${applicationName}</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Extract Files with ${applicationName}" xml:space="preserve">
+        <source>Extract Files with ${applicationName}</source>
+        <target>Αποσυμπίεσε αρχεία με το ${applicationName}</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Keka/en.lproj/InfoPlist.strings" source-language="en" target-language="el" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
+    </header>
+    <body>
+      <trans-unit id="7Z Archive" xml:space="preserve">
+        <source>7Z Archive</source>
+        <target>Αρχείο 7Z</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ACE Archive" xml:space="preserve">
+        <source>ACE Archive</source>
+        <target>Αρχείο ACE</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ALZip Archive" xml:space="preserve">
+        <source>ALZip Archive</source>
+        <target>Αρχείο ALZip</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="APPX Archive" xml:space="preserve">
+        <source>APPX Archive</source>
+        <target>Αρχείο APPX</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ARC Archive" xml:space="preserve">
+        <source>ARC Archive</source>
+        <target>Αρχείο ARC</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ARJ Archive" xml:space="preserve">
+        <source>ARJ Archive</source>
+        <target>Αρχείο ARJ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Amiga DCS Disk Archive" xml:space="preserve">
+        <source>Amiga DCS Disk Archive</source>
+        <target>Αρχείο δίσκου Amiga DCS</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Amiga DMS Disk Archive" xml:space="preserve">
+        <source>Amiga DMS Disk Archive</source>
+        <target>Αρχείο δίσκου Amiga DMS</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Amiga Disk File" xml:space="preserve">
+        <source>Amiga Disk File</source>
+        <target>Αρχείο δίσκου Amiga</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Amiga PackDev Disk Archive" xml:space="preserve">
+        <source>Amiga PackDev Disk Archive</source>
+        <target>Αρχείο δίσκου Amiga PackDev</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Amiga PowerPacker Archive" xml:space="preserve">
+        <source>Amiga PowerPacker Archive</source>
+        <target>Αρχείο δίσκου Amiga PowerPacker</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Amiga Zoom Disk Archive" xml:space="preserve">
+        <source>Amiga Zoom Disk Archive</source>
+        <target>Αρχείο δίσκου Amiga Zoom</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Amiga xMash Disk Archive" xml:space="preserve">
+        <source>Amiga xMash Disk Archive</source>
+        <target>Αρχείο δίσκου Amiga xMash</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Android Application Package" xml:space="preserve">
+        <source>Android Application Package</source>
+        <target>Πακέτο εφαρμογής Android</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Apple Archive" xml:space="preserve">
+        <source>Apple Archive</source>
+        <target>Αρχείο Apple</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="BZIP2 Archive" xml:space="preserve">
+        <source>BZIP2 Archive</source>
+        <target>Αρχείο BZIP2</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="BZIP2 Tarball Archive" xml:space="preserve">
+        <source>BZIP2 Tarball Archive</source>
+        <target>Αρχείο TAR συμπιεσμένο με BZIP2</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="CAB Archive" xml:space="preserve">
+        <source>CAB Archive</source>
+        <target>Αρχείο CAB</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="CDI Disk Image" xml:space="preserve">
+        <source>CDI Disk Image</source>
+        <target>Εικόνα δίσκου CDI</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Compact Pro Archive" xml:space="preserve">
+        <source>Compact Pro Archive</source>
+        <target>Αρχείο Compact Pro</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Compressed Amiga Disk File" xml:space="preserve">
+        <source>Compressed Amiga Disk File</source>
+        <target>Συμπιεσμένο αρχείο δίσκου Amiga</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Deb Archive" xml:space="preserve">
+        <source>Deb Archive</source>
+        <target>Αρχείο Deb</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DiskDoubler Archive" xml:space="preserve">
+        <source>DiskDoubler Archive</source>
+        <target>Αρχείο DiskDoubler</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Generic Archive Volume" xml:space="preserve">
+        <source>Generic Archive Volume</source>
+        <target>Γενικός τόμος αρχείου</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="HA Archive" xml:space="preserve">
+        <source>HA Archive</source>
+        <target>Αρχείο HA</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Keka Extraction Package" xml:space="preserve">
+        <source>Keka Extraction Package</source>
+        <target>Πακέτο αποσυμπίεσης Keka</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="LBR Archive" xml:space="preserve">
+        <source>LBR Archive</source>
+        <target>Αρχείο LBR</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="LZMA File" xml:space="preserve">
+        <source>LZMA File</source>
+        <target>Αρχείο LZMA</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="LZX Archive" xml:space="preserve">
+        <source>LZX Archive</source>
+        <target>Αρχείο LZX</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="LhA Archive" xml:space="preserve">
+        <source>LhA Archive</source>
+        <target>Αρχείο LhA</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="LhF Archive" xml:space="preserve">
+        <source>LhF Archive</source>
+        <target>Αρχείο LhF</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Linux RPM Archive" xml:space="preserve">
+        <source>Linux RPM Archive</source>
+        <target>Αρχείο Linux RPM</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="MDF Disk Image" xml:space="preserve">
+        <source>MDF Disk Image</source>
+        <target>Εικόνα δίσκου MDF</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Microsoft MSI Installer" xml:space="preserve">
+        <source>Microsoft MSI Installer</source>
+        <target>Πακέτο εγκατάστασης Windows</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="NRG Disk Image" xml:space="preserve">
+        <source>NRG Disk Image</source>
+        <target>Εικόνα δίσκου NRG</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="NSA Archive" xml:space="preserve">
+        <source>NSA Archive</source>
+        <target>Αρχείο NSA</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Now Compress Archive" xml:space="preserve">
+        <source>Now Compress Archive</source>
+        <target>Αρχείο Now Compress</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="PMA Archive" xml:space="preserve">
+        <source>PMA Archive</source>
+        <target>Αρχείο PMA</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="PackIt Archive" xml:space="preserve">
+        <source>PackIt Archive</source>
+        <target>Αρχείο PackIt</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Pax Archive" xml:space="preserve">
+        <source>Pax Archive</source>
+        <target>Αρχείο Pax</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="RAR Archive" xml:space="preserve">
+        <source>RAR Archive</source>
+        <target>Αρχείο RAR</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="SAR Archive" xml:space="preserve">
+        <source>SAR Archive</source>
+        <target>Αρχείο SAR</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Self-Extracting Archive" xml:space="preserve">
+        <source>Self-Extracting Archive</source>
+        <target>Αυτοαποσυμπιεζόμενο αρχείο</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unix Compress File" xml:space="preserve">
+        <source>Unix Compress File</source>
+        <target>Αρχείο Unix Compress</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unix Compress Tar Archive" xml:space="preserve">
+        <source>Unix Compress Tar Archive</source>
+        <target>Αρχείο TAR συμπιεσμένο με Unix Compress</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="WARC Web Archive" xml:space="preserve">
+        <source>WARC Web Archive</source>
+        <target>Αρχείο ιστού WARC</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="XAR Archive" xml:space="preserve">
+        <source>XAR Archive</source>
+        <target>Αρχείο XAR</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="XIP Archive" xml:space="preserve">
+        <source>XIP Archive</source>
+        <target>Αρχείο XIP</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="XZ Archive" xml:space="preserve">
+        <source>XZ Archive</source>
+        <target>Αρχείο XZ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="XZ Tarball Archive" xml:space="preserve">
+        <source>XZ Tarball Archive</source>
+        <target>Αρχείο TAR συμπιεσμένο με XZ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ZIP Archive" xml:space="preserve">
+        <source>ZIP Archive</source>
+        <target>Αρχείο ZIP</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ZIPX Archive" xml:space="preserve">
+        <source>ZIPX Archive</source>
+        <target>Αρχείο ZIPX</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ZOO Archive" xml:space="preserve">
+        <source>ZOO Archive</source>
+        <target>Αρχείο ZOO</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Zstandard Archive" xml:space="preserve">
+        <source>Zstandard Archive</source>
+        <target>Αρχείο Zstandard</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Zstandard Tarball Archive" xml:space="preserve">
+        <source>Zstandard Tarball Archive</source>
+        <target>Αρχείο TAR συμπιεσμένο με Zstandard</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Keka/en.lproj/Localizable.strings" source-language="en" target-language="el" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
+    </header>
+    <body>
+      <trans-unit id="%@" xml:space="preserve">
+        <source>%@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ item" xml:space="preserve">
+        <source>%@ item</source>
+        <target>%@ στοιχείο</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ items" xml:space="preserve">
+        <source>%@ items</source>
+        <target>%@ στοιχεία</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ of &quot;%@&quot; failed" xml:space="preserve">
+        <source>%@ of "%@" failed</source>
+        <target>%@ του "%@" απέτυχε</target>
+        <note>_OPERATION_ of "_FILENAME_" failed</note>
+      </trans-unit>
+      <trans-unit id="%@ of %@ item" xml:space="preserve">
+        <source>%@ of %@ item</source>
+        <target>%@ από %@ στοιχείο</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ of %@ items" xml:space="preserve">
+        <source>%@ of %@ items</source>
+        <target>%@ από %@ στοιχεία</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@." xml:space="preserve">
+        <source>%@.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%lld items" xml:space="preserve">
+        <source>%lld items</source>
+        <target>%lld στοιχεία</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%lld seconds" xml:space="preserve">
+        <source>%lld seconds</source>
+        <target>%lld δευτερόλεπτα</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%lld:%@ minutes" xml:space="preserve">
+        <source>%lld:%@ minutes</source>
+        <target>%lld:%@ λεπτά</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%lld:%@:%@ hours" xml:space="preserve">
+        <source>%lld:%@:%@ hours</source>
+        <target>%lld:%@:%@ ώρες</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ARCHIVE_DEFAULT_NAME" xml:space="preserve">
+        <source>Archive</source>
+        <target>Αρχείο</target>
+        <note>Default compression file name.</note>
+      </trans-unit>
+      <trans-unit id="About" xml:space="preserve">
+        <source>About</source>
+        <target>Πληροφορίες</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About %lld days" xml:space="preserve">
+        <source>About %lld days</source>
+        <target>Περίπου %lld ημέρες</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About %lld hours" xml:space="preserve">
+        <source>About %lld hours</source>
+        <target>Περίπου %lld ώρες</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About %lld minutes" xml:space="preserve">
+        <source>About %lld minutes</source>
+        <target>Περίπου %lld λεπτά</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About %lld months" xml:space="preserve">
+        <source>About %lld months</source>
+        <target>Περίπου %lld μήνες</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About %lld seconds" xml:space="preserve">
+        <source>About %lld seconds</source>
+        <target>Περίπου %lld δευτερόλεπτα</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About %lld weeks" xml:space="preserve">
+        <source>About %lld weeks</source>
+        <target>Περίπου %lld εβδομάδες</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About %lld years" xml:space="preserve">
+        <source>About %lld years</source>
+        <target>Περίπου %lld χρόνια</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About a day" xml:space="preserve">
+        <source>About a day</source>
+        <target>Περίπου μία ημέρα</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About a minute" xml:space="preserve">
+        <source>About a minute</source>
+        <target>Περίπου ένα λεπτό</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About a month" xml:space="preserve">
+        <source>About a month</source>
+        <target>Περίπου ένας μήνας</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About a second" xml:space="preserve">
+        <source>About a second</source>
+        <target>Περίπου ένα δευτερόλεπτο</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About a week" xml:space="preserve">
+        <source>About a week</source>
+        <target>Περίπου μία εβδομάδα</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About a year" xml:space="preserve">
+        <source>About a year</source>
+        <target>Περίπου ένα έτος</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About an hour" xml:space="preserve">
+        <source>About an hour</source>
+        <target>Περίπου μία ώρα</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Actions" xml:space="preserve">
+        <source>Actions</source>
+        <target>Ενέργειες</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Actions to do with the current browsed file" xml:space="preserve">
+        <source>Actions to do with the current browsed file</source>
+        <target>Ενέργειες για το τρέχον αρχείο που προβάλλεται</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add a File" xml:space="preserve">
+        <source>Add a File</source>
+        <target>Προσθήκη αρχείου</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add a Folder" xml:space="preserve">
+        <source>Add a Folder</source>
+        <target>Προσθήκη φακέλου</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add a Photo or Video" xml:space="preserve">
+        <source>Add a Photo or Video</source>
+        <target>Προσθήκη φωτογραφίας ή βίντεο</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add files and folders to a compression list" xml:space="preserve">
+        <source>Add files and folders to a compression list</source>
+        <target>Προσθήκη αρχείων και φακέλων στη λίστα συμπίεσης</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add some contents using the %@ button." xml:space="preserve">
+        <source>Add some contents using the %@ button.</source>
+        <target>Πρόσθεσε περιεχόμενο με το κουμπί %@.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Advanced Settings" xml:space="preserve">
+        <source>Advanced Settings</source>
+        <target>Προχωρημένες ρυθμίσεις</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Allocated size" xml:space="preserve">
+        <source>Allocated size</source>
+        <target>Δεσμευμένος χώρος</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Appearance" xml:space="preserve">
+        <source>Appearance</source>
+        <note>Appearance settings title.</note>
+      </trans-unit>
+      <trans-unit id="Archive items separately" xml:space="preserve">
+        <source>Archive items separately</source>
+        <target>Συμπίεση ανά στοιχείο</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Ask" xml:space="preserve">
+        <source>Ask</source>
+        <target>Ερώτηση</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="BROWSE_OPERATION" xml:space="preserve">
+        <source>Browse</source>
+        <target>Άνοιγμα</target>
+        <note>Browse, operation description.</note>
+      </trans-unit>
+      <trans-unit id="BROWSE_RUNNING" xml:space="preserve">
+        <source>Browsing</source>
+        <target>Άνοιγμα…</target>
+        <note>Browsing, operation running.</note>
+      </trans-unit>
+      <trans-unit id="BROWSE_SECTION_TITLE" xml:space="preserve">
+        <source>Browsing</source>
+        <target>Περιηγήσεις</target>
+        <note>Browsing, tasks section title.</note>
+      </trans-unit>
+      <trans-unit id="Browser" xml:space="preserve">
+        <source>Browser</source>
+        <target>Περιήγηση</target>
+        <note>Browser settings title.</note>
+      </trans-unit>
+      <trans-unit id="Bytes" xml:space="preserve">
+        <source>Bytes</source>
+        <target>Byte</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="COMPRESSION_OPERATION" xml:space="preserve">
+        <source>Compression</source>
+        <target>Συμπίεση</target>
+        <note>Compression, operation description.</note>
+      </trans-unit>
+      <trans-unit id="COMPRESSION_RUNNING" xml:space="preserve">
+        <source>Compressing</source>
+        <target>Συμπίεση…</target>
+        <note>Compressing, operation running.</note>
+      </trans-unit>
+      <trans-unit id="COMPRESSION_SECTION_TITLE" xml:space="preserve">
+        <source>Compressing</source>
+        <target>Συμπιέσεις</target>
+        <note>Compressing, tasks section title.</note>
+      </trans-unit>
+      <trans-unit id="Calculate" xml:space="preserve">
+        <source>Calculate</source>
+        <target>Υπολογισμός</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cancel" xml:space="preserve">
+        <source>Cancel</source>
+        <target>Ακύρωση</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cancelled" xml:space="preserve">
+        <source>Cancelled</source>
+        <target>Ακυρώθηκε</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Choose" xml:space="preserve">
+        <source>Choose</source>
+        <target>Επιλογή</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Clear Cache" xml:space="preserve">
+        <source>Clear Cache</source>
+        <target>Εκκαθάριση μνήμης cache</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Clear Cache Contents" xml:space="preserve">
+        <source>Clear Cache Contents</source>
+        <target>Εκκαθάριση περιεχομένων cache</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Close" xml:space="preserve">
+        <source>Close</source>
+        <target>Κλείσιμο</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Comments" xml:space="preserve">
+        <source>Comments</source>
+        <target>Σχόλια</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Compress" xml:space="preserve">
+        <source>Compress</source>
+        <target>Συμπίεση</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Compress Files with Keka" xml:space="preserve">
+        <source>Compress Files with Keka</source>
+        <target>Συμπίεση αρχείων με το Keka</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Compress all the items in the compression list" xml:space="preserve">
+        <source>Compress all the items in the compression list</source>
+        <target>Συμπίεση όλων των στοιχείων στη λίστα συμπίεσης</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Compress some files with Keka." xml:space="preserve">
+        <source>Compress some files with Keka.</source>
+        <target>Συμπίεσε αρχεία με το Keka.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Compressed size" xml:space="preserve">
+        <source>Compressed size</source>
+        <target>Συμπιεσμένο μέγεθος</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Compression" xml:space="preserve">
+        <source>Compression</source>
+        <target>Συμπίεση</target>
+        <note>Compression settings title.</note>
+      </trans-unit>
+      <trans-unit id="Compression Level:" xml:space="preserve">
+        <source>Compression Level:</source>
+        <target>Επίπεδο συμπίεσης:</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Contents" xml:space="preserve">
+        <source>Contents</source>
+        <target>Περιεχόμενα</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Contents: %@, Size: %@" xml:space="preserve">
+        <source>Contents: %@, Size: %@</source>
+        <target>Περιεχόμενα: %@, Μέγεθος: %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Contents: %lld, Size: %@" xml:space="preserve">
+        <source>Contents: %lld, Size: %@</source>
+        <target>Περιεχόμενα: %lld, Μέγεθος: %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Created" xml:space="preserve">
+        <source>Created</source>
+        <target>Δημιουργία</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Custom…" xml:space="preserve">
+        <source>Custom…</source>
+        <target>Προσαρμογή…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Date" xml:space="preserve">
+        <source>Date</source>
+        <target>Ημερομηνία</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Default Compression Level" xml:space="preserve">
+        <source>Default Compression Level</source>
+        <target>Προεπιλεγμένο επίπεδο συμπίεσης</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Default Destination" xml:space="preserve">
+        <source>Default Destination</source>
+        <target>Προεπιλεγμένος προορισμός</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Default Format" xml:space="preserve">
+        <source>Default Format</source>
+        <target>Προεπιλεγμένη μορφή</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Default Tap Action" xml:space="preserve">
+        <source>Default Tap Action</source>
+        <target>Προεπιλεγμένη ενέργεια πατήματος</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Default Volume Unit" xml:space="preserve">
+        <source>Default Volume Unit</source>
+        <target>Προεπιλεγμένη μονάδα τόμου</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete" xml:space="preserve">
+        <source>Delete</source>
+        <target>Διαγραφή</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete files(s) after compression" xml:space="preserve">
+        <source>Delete files(s) after compression</source>
+        <target>Διαγραφή αρχείων μετά τη συμπίεση</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Destination" xml:space="preserve">
+        <source>Destination</source>
+        <target>Προορισμός</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Disable &quot;%@&quot; if you prefer to use a default configuration." xml:space="preserve">
+        <source>Disable "%@" if you prefer to use a default configuration.</source>
+        <target>Απενεργοποίησε το "%@" αν προτιμάς να χρησιμοποιήσεις προεπιλεγμένη ρύθμιση.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Dismiss" xml:space="preserve">
+        <source>Dismiss</source>
+        <target>Κλείσιμο</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Document" xml:space="preserve">
+        <source>Document</source>
+        <target>Έγγραφο</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Documents" xml:space="preserve">
+        <source>Documents</source>
+        <target>Έγγραφα</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Done" xml:space="preserve">
+        <source>Done</source>
+        <target>Τέλος</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Downloads" xml:space="preserve">
+        <source>Downloads</source>
+        <target>Λήψεις</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="EXTRACTION_OPERATION" xml:space="preserve">
+        <source>Extraction</source>
+        <target>Αποσυμπίεση</target>
+        <note>Extraction, operation description.</note>
+      </trans-unit>
+      <trans-unit id="EXTRACTION_RUNNING" xml:space="preserve">
+        <source>Extracting</source>
+        <target>Αποσυμπίεση…</target>
+        <note>Extracting, operation running.</note>
+      </trans-unit>
+      <trans-unit id="EXTRACTION_SECTION_TITLE" xml:space="preserve">
+        <source>Extracting</source>
+        <target>Αποσυμπιέσεις</target>
+        <note>Extracting, tasks section title.</note>
+      </trans-unit>
+      <trans-unit id="Edit" xml:space="preserve">
+        <source>Edit</source>
+        <target>Επεξεργασία</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Encrypt Filenames" xml:space="preserve">
+        <source>Encrypt Filenames</source>
+        <target>Κρυπτογράφηση ονομάτων αρχείων</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Encrypt Filenames if Possible" xml:space="preserve">
+        <source>Encrypt Filenames if Possible</source>
+        <target>Κρυπτογράφηση ονομάτων αρχείων όπου είναι δυνατό</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Enter the password for the file&#10;&quot;%@&quot;" xml:space="preserve">
+        <source>Enter the password for the file
+"%@"</source>
+        <target>Εισήγαγε τον κωδικό για το αρχείο
+"%@"</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Exclude Mac resource forks" xml:space="preserve">
+        <source>Exclude Mac resource forks</source>
+        <target>Εξαίρεση των resource forks του Mac</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Extract" xml:space="preserve">
+        <source>Extract</source>
+        <target>Αποσυμπίεση</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Extract Files with Keka" xml:space="preserve">
+        <source>Extract Files with Keka</source>
+        <target>Αποσυμπίεση αρχείων με το Keka</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Extract some files with Keka." xml:space="preserve">
+        <source>Extract some files with Keka.</source>
+        <target>Αποσυμπίεσε αρχεία με το Keka.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Extraction" xml:space="preserve">
+        <source>Extraction</source>
+        <target>Αποσυμπίεση</target>
+        <note>Extraction settings title.</note>
+      </trans-unit>
+      <trans-unit id="Fast" xml:space="preserve">
+        <source>Fast</source>
+        <target>Γρήγορο</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Fastest" xml:space="preserve">
+        <source>Fastest</source>
+        <target>Ταχύτερο</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Feedback" xml:space="preserve">
+        <source>Feedback</source>
+        <target>Επικοινωνία</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="File for Keka" xml:space="preserve">
+        <source>File for Keka</source>
+        <target>Επιλογή αρχείου για το Keka</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="File not informed properly, try again." xml:space="preserve">
+        <source>File not informed properly, try again.</source>
+        <target>Το αρχείο δεν καθορίστηκε σωστά, δοκίμασε ξανά.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Files" xml:space="preserve">
+        <source>Files</source>
+        <target>Αρχεία</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Files and Folders" xml:space="preserve">
+        <source>Files and Folders</source>
+        <target>Αρχεία και φάκελοι</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Finishing" xml:space="preserve">
+        <source>Finishing</source>
+        <target>Ολοκλήρωση</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Folder drop is only supported on iOS 16 or newer" xml:space="preserve">
+        <source>Folder drop is only supported on iOS 16 or newer</source>
+        <target>Η απόθεση φακέλων υποστηρίζεται μόνο σε iOS 16 ή νεότερο</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Format" xml:space="preserve">
+        <source>Format</source>
+        <target>Μορφή</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="General" xml:space="preserve">
+        <source>General</source>
+        <target>Γενικά</target>
+        <note>General settings title.</note>
+      </trans-unit>
+      <trans-unit id="Get Info" xml:space="preserve">
+        <source>Get Info</source>
+        <target>Λήψη πληροφοριών</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Gigabyte" xml:space="preserve">
+        <source>Gigabyte</source>
+        <target>Gigabyte</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Give Access" xml:space="preserve">
+        <source>Give Access</source>
+        <target>Παροχή πρόσβασης</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Hide Password by Default" xml:space="preserve">
+        <source>Hide Password by Default</source>
+        <target>Απόκρυψη συνθηματικού από προεπιλογή</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="If you got here, please get in touch with the developers." xml:space="preserve">
+        <source>If you got here, please get in touch with the developers.</source>
+        <target>Αν έφτασες εδώ, επικοινώνησε με τους προγραμματιστές.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Information" xml:space="preserve">
+        <source>Information</source>
+        <target>Πληροφορίες</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Keka's Folder" xml:space="preserve">
+        <source>Keka's Folder</source>
+        <target>Φάκελος του Keka</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Keka's icon" xml:space="preserve">
+        <source>Keka's icon</source>
+        <target>Εικονίδιο του Keka</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Kilobytes" xml:space="preserve">
+        <source>Kilobytes</source>
+        <target>Kilobytes</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Kind" xml:space="preserve">
+        <source>Kind</source>
+        <target>Είδος</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Last opened" xml:space="preserve">
+        <source>Last opened</source>
+        <target>Τελευταίο άνοιγμα</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Level" xml:space="preserve">
+        <source>Level</source>
+        <target>Επίπεδο</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Loading" xml:space="preserve">
+        <source>Loading</source>
+        <target>Φόρτωση</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Made with" xml:space="preserve">
+        <source>Made with</source>
+        <target>Φτιαγμένο με</target>
+        <note>"Made with" part from "Made with love by aone".</note>
+      </trans-unit>
+      <trans-unit id="Megabytes" xml:space="preserve">
+        <source>Megabytes</source>
+        <target>Megabytes</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Modified" xml:space="preserve">
+        <source>Modified</source>
+        <target>Τροποποίηση</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Move compressed file(s) to Trash after extraction" xml:space="preserve">
+        <source>Move compressed file(s) to Trash after extraction</source>
+        <target>Μετακίνηση συμπιεσμένων αρχείων στον Κάδο μετά την αποσυμπίεση</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Move original file(s) to Trash after compression" xml:space="preserve">
+        <source>Move original file(s) to Trash after compression</source>
+        <target>Μετακίνηση αρχικών αρχείων στον Κάδο μετά τη συμπίεση</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Name" xml:space="preserve">
+        <source>Name</source>
+        <target>Όνομα</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="New Compression" xml:space="preserve">
+        <source>New Compression</source>
+        <target>Νέα συμπίεση</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No archive selected" xml:space="preserve">
+        <source>No archive selected</source>
+        <target>Δεν έχει επιλεγεί αρχείο</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No contents" xml:space="preserve">
+        <source>No contents</source>
+        <target>Χωρίς περιεχόμενο</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No files to extract" xml:space="preserve">
+        <source>No files to extract</source>
+        <target>Δεν υπάρχουν αρχεία για αποσυμπίεση</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="None" xml:space="preserve">
+        <source>None</source>
+        <target>Κανένα</target>
+        <note>Password field empty placeholder</note>
+      </trans-unit>
+      <trans-unit id="Normal" xml:space="preserve">
+        <source>Normal</source>
+        <target>Κανονικό</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files." xml:space="preserve">
+        <source>Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files.</source>
+        <target>Δεν υποστηρίζουν όλες οι πλατφόρμες κρυπτογράφηση AES-256. Ίσως χρειαστείς εφαρμογή τρίτου (όπως το Keka) για να ανοίξεις αυτά τα συμπιεσμένα αρχεία.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="OK" xml:space="preserve">
+        <source>OK</source>
+        <target>OK</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Open" xml:space="preserve">
+        <source>Open</source>
+        <target>Άνοιγμα</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Open Keka" xml:space="preserve">
+        <source>Open Keka</source>
+        <target>Άνοιγμα του Keka</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Open…" xml:space="preserve">
+        <source>Open…</source>
+        <target>Άνοιγμα…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Order" xml:space="preserve">
+        <source>Order</source>
+        <target>Ταξινόμηση</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Password" xml:space="preserve">
+        <source>Password</source>
+        <target>Συνθηματικό</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Password Protected" xml:space="preserve">
+        <source>Password Protected</source>
+        <target>Προστατευμένο με συνθηματικό</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Password for &quot;%@&quot;" xml:space="preserve">
+        <source>Password for "%@"</source>
+        <target>Συνθηματικό για "%@"</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Password needed" xml:space="preserve">
+        <source>Password needed</source>
+        <target>Απαιτείται συνθηματικό</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Pause" xml:space="preserve">
+        <source>Pause</source>
+        <target>Παύση</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Petabytes" xml:space="preserve">
+        <source>Petabytes</source>
+        <target>Petabytes</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please enter the password for:" xml:space="preserve">
+        <source>Please enter the password for:</source>
+        <target>Καταχώρισε το συνθηματικό για:</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please select the encoding for:" xml:space="preserve">
+        <source>Please select the encoding for:</source>
+        <target>Επίλεξε κωδικοποίηση για:</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Preparing" xml:space="preserve">
+        <source>Preparing</source>
+        <target>Προετοιμασία</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Preview" xml:space="preserve">
+        <source>Preview</source>
+        <target>Προεπισκόπηση</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Quick Look" xml:space="preserve">
+        <source>Quick Look</source>
+        <target>Προεπισκόπηση</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Remember Last Used Options" xml:space="preserve">
+        <source>Remember Last Used Options</source>
+        <target>Απομνημόνευση τελευταίων επιλογών</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Remove" xml:space="preserve">
+        <source>Remove</source>
+        <target>Αφαίρεση</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Remove All Items" xml:space="preserve">
+        <source>Remove All Items</source>
+        <target>Αφαίρεση όλων των στοιχείων</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Remove from cache" xml:space="preserve">
+        <source>Remove from cache</source>
+        <target>Αφαίρεση από το cache</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Remove the selected items from the compression list" xml:space="preserve">
+        <source>Remove the selected items from the compression list</source>
+        <target>Αφαίρεση των επιλεγμένων στοιχείων από τη λίστα συμπίεσης</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Reset" xml:space="preserve">
+        <source>Reset</source>
+        <target>Επαναφορά</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Reset All Settings" xml:space="preserve">
+        <source>Reset All Settings</source>
+        <target>Επαναφορά όλων των ρυθμίσεων</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Resume" xml:space="preserve">
+        <source>Resume</source>
+        <target>Συνέχιση</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Review" xml:space="preserve">
+        <source>Review</source>
+        <target>Αξιολόγηση</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Run asynchronously" xml:space="preserve">
+        <source>Run asynchronously</source>
+        <target>Εκτέλεση ασύγχρονα</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Save" xml:space="preserve">
+        <source>Save</source>
+        <target>Αποθήκευση</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Select some files and folders for Keka." xml:space="preserve">
+        <source>Select some files and folders for Keka.</source>
+        <target>Επίλεξε αρχεία ή/και φακέλους για το Keka.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Settings" xml:space="preserve">
+        <source>Settings</source>
+        <target>Ρυθμίσεις</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Share" xml:space="preserve">
+        <source>Share</source>
+        <target>Κοινή χρήση</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Share…" xml:space="preserve">
+        <source>Share…</source>
+        <target>Κοινή χρήση…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Show Advanced Settings" xml:space="preserve">
+        <source>Show Advanced Settings</source>
+        <target>Εμφάνιση προχωρημένων ρυθμίσεων</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Show Info" xml:space="preserve">
+        <source>Show Info</source>
+        <target>Εμφάνιση πληροφοριών</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Show Less" xml:space="preserve">
+        <source>Show Less</source>
+        <target>Λιγότερα</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Show or hide additional advanced settings" xml:space="preserve">
+        <source>Show or hide additional advanced settings</source>
+        <target>Εμφάνιση ή απόκρυψη επιπλέον προχωρημένων ρυθμίσεων</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Show or hide additional information about the selected item" xml:space="preserve">
+        <source>Show or hide additional information about the selected item</source>
+        <target>Εμφάνιση ή απόκρυψη πρόσθετων πληροφοριών για το επιλεγμένο στοιχείο</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Size" xml:space="preserve">
+        <source>Size</source>
+        <target>Μέγεθος</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Slow" xml:space="preserve">
+        <source>Slow</source>
+        <target>Αργό</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Slowest" xml:space="preserve">
+        <source>Slowest</source>
+        <target>Πιο αργό</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Split in volumes" xml:space="preserve">
+        <source>Split in volumes</source>
+        <target>Διαίρεση σε τόμους</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Store" xml:space="preserve">
+        <source>Store</source>
+        <target>Αποθήκευση</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="TRANSLATOR_LINK" xml:space="preserve">
+        <source>TRANSLATOR_LINK</source>
+        <target>https://www.keka.io</target>
+        <note>The translator link, if any. Can be a mail address or a website.</note>
+      </trans-unit>
+      <trans-unit id="TRANSLATOR_NAME" xml:space="preserve">
+        <source>TRANSLATOR_NAME</source>
+        <target>aone</target>
+        <note>The translator name, if any.</note>
+      </trans-unit>
+      <trans-unit id="Terabytes" xml:space="preserve">
+        <source>Terabytes</source>
+        <target>Terabytes</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The %@ of space available in the destination might not be enough for compressing the estimated %@." xml:space="preserve">
+        <source>The %@ of space available in the destination might not be enough for compressing the estimated %@.</source>
+        <target>Ο διαθέσιμος χώρος στον προορισμό είναι %@ και ίσως δεν επαρκεί για τη συμπίεση του εκτιμώμενου %@.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The changes could not be saved" xml:space="preserve">
+        <source>The changes could not be saved</source>
+        <target>Δεν ήταν δυνατή η αποθήκευση των αλλαγών</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The character %@ is not compatible with the %@ format." xml:space="preserve">
+        <source>The character %@ is not compatible with the %@ format.</source>
+        <target>Ο χαρακτήρας %@ δεν είναι συμβατός με τη μορφή %@.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The characters %@ are not compatible with the %@ format." xml:space="preserve">
+        <source>The characters %@ are not compatible with the %@ format.</source>
+        <target>Οι χαρακτήρες %@ δεν είναι συμβατοί με τη μορφή %@.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." xml:space="preserve">
+        <source>The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread.</source>
+        <target>Η συμπίεση μπορεί να απαιτεί περισσότερη μνήμη από τη διαθέσιμη (%@) και ενδέχεται να μην ολοκληρωθεί επιτυχώς. Θα περιοριστεί σε 1 νήμα.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The compression will be limited to %lld thread/s due to memory constraints." xml:space="preserve">
+        <source>The compression will be limited to %lld thread/s due to memory constraints.</source>
+        <target>Η συμπίεση θα περιοριστεί σε %lld νήμα/νήματα λόγω περιορισμών μνήμης.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The destination has %@ of space available." xml:space="preserve">
+        <source>The destination has %@ of space available.</source>
+        <target>Ο προορισμός έχει διαθέσιμο χώρο %@.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The file manager for iOS and macOS" xml:space="preserve">
+        <source>The file manager for iOS and macOS</source>
+        <target>Ο διαχειριστής αρχείων για iOS και macOS</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The folder is empty" xml:space="preserve">
+        <source>The folder is empty</source>
+        <target>Ο φάκελος είναι άδειος</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The password length should be %lld or higher." xml:space="preserve">
+        <source>The password length should be %lld or higher.</source>
+        <target>Το μήκος του συνθηματικού πρέπει να είναι %lld ή μεγαλύτερο.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." xml:space="preserve">
+        <source>The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents.</source>
+        <target>Όσο πιο αργό το επίπεδο, τόσο μεγαλύτερη η συμπίεση. Το επίπεδο «Αποθήκευση» δεν συμπιέζει, απλώς αρχειοθετεί τα περιεχόμενα.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This volume file needs additional files access to be opened.&#10;You can give access to the rest of the files or the parent folder." xml:space="preserve">
+        <source>This volume file needs additional files access to be opened.
+You can give access to the rest of the files or the parent folder.</source>
+        <target>Αυτό το αρχείο τόμου χρειάζεται πρόσβαση και στα υπόλοιπα αρχεία για να ανοίξει.
+Μπορείς να δώσεις πρόσβαση στα υπόλοιπα αρχεία ή στον γονικό φάκελο.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="To be implemented" xml:space="preserve">
+        <source>To be implemented</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="To extract" xml:space="preserve">
+        <source>To extract</source>
+        <target>Για αποσυμπίεση</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="To prevent a timeout on large operation, enable this setting. The result will always be true if enabled." xml:space="preserve">
+        <source>To prevent a timeout on large operation, enable this setting. The result will always be true if enabled.</source>
+        <target>Για να αποφευχθεί λήξη χρονικού ορίου σε μεγάλες εργασίες, ενεργοποίησε αυτή τη ρύθμιση. Αν είναι ενεργή, το αποτέλεσμα θα είναι πάντα true.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Total size" xml:space="preserve">
+        <source>Total size</source>
+        <target>Συνολικό μέγεθος</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Translated by %@" xml:space="preserve">
+        <source>Translated by %@</source>
+        <target>Μετάφραση: %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Try lowering the compression level, faster levels use less memory." xml:space="preserve">
+        <source>Try lowering the compression level, faster levels use less memory.</source>
+        <target>Δοκίμασε να μειώσεις το επίπεδο συμπίεσης· τα ταχύτερα επίπεδα χρησιμοποιούν λιγότερη μνήμη.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Type" xml:space="preserve">
+        <source>Type</source>
+        <target>Τύπος</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="URL Encoded" xml:space="preserve">
+        <source>URL Encoded</source>
+        <target>Κωδικοποιημένο URL</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unable to apply the app icon" xml:space="preserve">
+        <source>Unable to apply the app icon</source>
+        <target>Αδυναμία εφαρμογής εικονιδίου εφαρμογής</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unable to browse &quot;%@&quot;" xml:space="preserve">
+        <source>Unable to browse "%@"</source>
+        <target>Αδυναμία ανοίγματος του "%@"</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unable to delete the file" xml:space="preserve">
+        <source>Unable to delete the file</source>
+        <target>Αδυναμία διαγραφής του αρχείου</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unable to determine the available space." xml:space="preserve">
+        <source>Unable to determine the available space.</source>
+        <target>Αδυναμία προσδιορισμού διαθέσιμου χώρου.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unable to get encoding data" xml:space="preserve">
+        <source>Unable to get encoding data</source>
+        <target>Αδυναμία λήψης δεδομένων κωδικοποίησης</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Use AES-256 Encryption" xml:space="preserve">
+        <source>Use AES-256 Encryption</source>
+        <target>Χρήση κρυπτογράφησης AES-256</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Use AES-256 if Available" xml:space="preserve">
+        <source>Use AES-256 if Available</source>
+        <target>Χρήση AES-256 αν είναι διαθέσιμο</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Use Binaries if Possible" xml:space="preserve">
+        <source>Use Binaries if Possible</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Use UTF-8 Encoding if Available" xml:space="preserve">
+        <source>Use UTF-8 Encoding if Available</source>
+        <target>Χρήση κωδικοποίησης UTF-8 αν είναι διαθέσιμη</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Use continuous background task" xml:space="preserve">
+        <source>Use continuous background task</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Use special coloring for known formats" xml:space="preserve">
+        <source>Use special coloring for known formats</source>
+        <target>Χρήση ειδικού χρωματισμού για γνωστές μορφές</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Using Keka through actions and extensions have memory limitations.&#10;Try this operation using Keka directly." xml:space="preserve">
+        <source>Using Keka through actions and extensions have memory limitations.
+Try this operation using Keka directly.</source>
+        <target>Η χρήση του Keka μέσω ενεργειών και επεκτάσεων έχει περιορισμούς μνήμης.
+Δοκίμασε να εκτελέσεις αυτήν την ενέργεια απευθείας με το Keka.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="VERIFY_OPERATION" xml:space="preserve">
+        <source>Verification</source>
+        <target>Επαλήθευση</target>
+        <note>Verification, operation description.</note>
+      </trans-unit>
+      <trans-unit id="VERIFY_RUNNING" xml:space="preserve">
+        <source>Verifying</source>
+        <target>Επαλήθευση…</target>
+        <note>Verifying, operation running.</note>
+      </trans-unit>
+      <trans-unit id="VERIFY_SECTION_TITLE" xml:space="preserve">
+        <source>Verifying</source>
+        <target>Επαληθεύσεις</target>
+        <note>Verifying, tasks section title.</note>
+      </trans-unit>
+      <trans-unit id="Verify compression integrity" xml:space="preserve">
+        <source>Verify compression integrity</source>
+        <target>Επαλήθευση ακεραιότητας συμπίεσης</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Verify…" xml:space="preserve">
+        <source>Verify…</source>
+        <target>Επαλήθευση…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Volume Size" xml:space="preserve">
+        <source>Volume Size</source>
+        <target>Μέγεθος τόμου</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Volume Unit" xml:space="preserve">
+        <source>Volume Unit</source>
+        <target>Μονάδα τόμου</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Welcome" xml:space="preserve">
+        <source>Welcome</source>
+        <target>Καλώς ήρθατε</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Welcome to %@" xml:space="preserve">
+        <source>Welcome to %@</source>
+        <target>Καλώς ήρθατε στο %@</target>
+        <note>The "Welcome to Keka" title.</note>
+      </trans-unit>
+      <trans-unit id="Where" xml:space="preserve">
+        <source>Where</source>
+        <target>Πού</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="archive" xml:space="preserve">
+        <source>archive</source>
+        <target>αρχείο</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="by %@" xml:space="preserve">
+        <source>by %@</source>
+        <target>από %@</target>
+        <note>"by aone" part from "Made with love by aone".</note>
+      </trans-unit>
+      <trans-unit id="compress" xml:space="preserve">
+        <source>compress</source>
+        <target>συμπίεση</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="compressed" xml:space="preserve">
+        <source>compressed</source>
+        <target>συμπιεσμένο</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="compression" xml:space="preserve">
+        <source>compression</source>
+        <target>συμπίεση</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="compression failed" xml:space="preserve">
+        <source>compression failed</source>
+        <target>η συμπίεση απέτυχε</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="done" xml:space="preserve">
+        <source>done</source>
+        <target>έτοιμο</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="extract" xml:space="preserve">
+        <source>extract</source>
+        <target>αποσυμπίεση</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="extracted" xml:space="preserve">
+        <source>extracted</source>
+        <target>αποσυμπιεσμένο</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="extraction" xml:space="preserve">
+        <source>extraction</source>
+        <target>αποσυμπίεση</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="extraction failed" xml:space="preserve">
+        <source>extraction failed</source>
+        <target>η αποσυμπίεση απέτυχε</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="failed" xml:space="preserve">
+        <source>failed</source>
+        <target>απέτυχε</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="file" xml:space="preserve">
+        <source>file</source>
+        <target>αρχείο</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="verification failed" xml:space="preserve">
+        <source>verification failed</source>
+        <target>η επαλήθευση απέτυχε</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="verified" xml:space="preserve">
+        <source>verified</source>
+        <target>επαληθεύτηκε</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="KekaBrowseAction/en.lproj/InfoPlist.strings" source-language="en" target-language="el" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Browse with Keka</source>
+        <target>Περιήγηση με το Keka</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="KekaCompressionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="el" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Compress using Keka</source>
+        <target>Συμπίεση με το Keka</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="KekaExtractionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="el" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Extract using Keka</source>
+        <target>Αποσυμπίεση με το Keka</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

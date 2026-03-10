@@ -1,0 +1,165 @@
+/* No comment provided by engineer. */
+"7Z Archive" = "Αρχείο 7Z";
+
+/* No comment provided by engineer. */
+"ACE Archive" = "Αρχείο ACE";
+
+/* No comment provided by engineer. */
+"ALZip Archive" = "Αρχείο ALZip";
+
+/* No comment provided by engineer. */
+"Amiga DCS Disk Archive" = "Αρχείο δίσκου Amiga DCS";
+
+/* No comment provided by engineer. */
+"Amiga Disk File" = "Αρχείο δίσκου Amiga";
+
+/* No comment provided by engineer. */
+"Amiga DMS Disk Archive" = "Αρχείο δίσκου Amiga DMS";
+
+/* No comment provided by engineer. */
+"Amiga PackDev Disk Archive" = "Αρχείο δίσκου Amiga PackDev";
+
+/* No comment provided by engineer. */
+"Amiga PowerPacker Archive" = "Αρχείο δίσκου Amiga PowerPacker";
+
+/* No comment provided by engineer. */
+"Amiga xMash Disk Archive" = "Αρχείο δίσκου Amiga xMash";
+
+/* No comment provided by engineer. */
+"Amiga Zoom Disk Archive" = "Αρχείο δίσκου Amiga Zoom";
+
+/* No comment provided by engineer. */
+"Android Application Package" = "Πακέτο εφαρμογής Android";
+
+/* No comment provided by engineer. */
+"Apple Archive" = "Αρχείο Apple";
+
+/* No comment provided by engineer. */
+"APPX Archive" = "Αρχείο APPX";
+
+/* No comment provided by engineer. */
+"ARC Archive" = "Αρχείο ARC";
+
+/* No comment provided by engineer. */
+"ARJ Archive" = "Αρχείο ARJ";
+
+/* No comment provided by engineer. */
+"BZIP2 Archive" = "Αρχείο BZIP2";
+
+/* No comment provided by engineer. */
+"BZIP2 Tarball Archive" = "Αρχείο TAR συμπιεσμένο με BZIP2";
+
+/* No comment provided by engineer. */
+"CAB Archive" = "Αρχείο CAB";
+
+/* No comment provided by engineer. */
+"CDI Disk Image" = "Εικόνα δίσκου CDI";
+
+/* No comment provided by engineer. */
+"Compact Pro Archive" = "Αρχείο Compact Pro";
+
+/* No comment provided by engineer. */
+"Compressed Amiga Disk File" = "Συμπιεσμένο αρχείο δίσκου Amiga";
+
+/* No comment provided by engineer. */
+"Deb Archive" = "Αρχείο Deb";
+
+/* No comment provided by engineer. */
+"DiskDoubler Archive" = "Αρχείο DiskDoubler";
+
+/* No comment provided by engineer. */
+"Generic Archive Volume" = "Γενικός τόμος αρχείου";
+
+/* No comment provided by engineer. */
+"HA Archive" = "Αρχείο HA";
+
+/* No comment provided by engineer. */
+"Keka Extraction Package" = "Πακέτο αποσυμπίεσης Keka";
+
+/* No comment provided by engineer. */
+"LBR Archive" = "Αρχείο LBR";
+
+/* No comment provided by engineer. */
+"LhA Archive" = "Αρχείο LhA";
+
+/* No comment provided by engineer. */
+"LhF Archive" = "Αρχείο LhF";
+
+/* No comment provided by engineer. */
+"Linux RPM Archive" = "Αρχείο Linux RPM";
+
+/* No comment provided by engineer. */
+"LZMA File" = "Αρχείο LZMA";
+
+/* No comment provided by engineer. */
+"LZX Archive" = "Αρχείο LZX";
+
+/* No comment provided by engineer. */
+"MDF Disk Image" = "Εικόνα δίσκου MDF";
+
+/* No comment provided by engineer. */
+"Microsoft MSI Installer" = "Πακέτο εγκατάστασης Windows";
+
+/* No comment provided by engineer. */
+"Now Compress Archive" = "Αρχείο Now Compress";
+
+/* No comment provided by engineer. */
+"NRG Disk Image" = "Εικόνα δίσκου NRG";
+
+/* No comment provided by engineer. */
+"NSA Archive" = "Αρχείο NSA";
+
+/* No comment provided by engineer. */
+"PackIt Archive" = "Αρχείο PackIt";
+
+/* No comment provided by engineer. */
+"Pax Archive" = "Αρχείο Pax";
+
+/* No comment provided by engineer. */
+"PMA Archive" = "Αρχείο PMA";
+
+/* No comment provided by engineer. */
+"RAR Archive" = "Αρχείο RAR";
+
+/* No comment provided by engineer. */
+"SAR Archive" = "Αρχείο SAR";
+
+/* No comment provided by engineer. */
+"Self-Extracting Archive" = "Αυτοαποσυμπιεζόμενο αρχείο";
+
+/* No comment provided by engineer. */
+"Unix Compress File" = "Αρχείο Unix Compress";
+
+/* No comment provided by engineer. */
+"Unix Compress Tar Archive" = "Αρχείο TAR συμπιεσμένο με Unix Compress";
+
+/* No comment provided by engineer. */
+"WARC Web Archive" = "Αρχείο ιστού WARC";
+
+/* No comment provided by engineer. */
+"XAR Archive" = "Αρχείο XAR";
+
+/* No comment provided by engineer. */
+"XIP Archive" = "Αρχείο XIP";
+
+/* No comment provided by engineer. */
+"XZ Archive" = "Αρχείο XZ";
+
+/* No comment provided by engineer. */
+"XZ Tarball Archive" = "Αρχείο TAR συμπιεσμένο με XZ";
+
+/* No comment provided by engineer. */
+"ZIP Archive" = "Αρχείο ZIP";
+
+/* No comment provided by engineer. */
+"ZIPX Archive" = "Αρχείο ZIPX";
+
+/* No comment provided by engineer. */
+"ZOO Archive" = "Αρχείο ZOO";
+
+/* No comment provided by engineer. */
+"Zstandard Archive" = "Αρχείο Zstandard";
+
+/* No comment provided by engineer. */
+"Zstandard Tarball Archive" = "Αρχείο TAR συμπιεσμένο με Zstandard";
+
