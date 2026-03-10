@@ -73,7 +73,6 @@
 "Keka - %i on queue" = "Keka - %i en file d'attente";
 "Keka can't create this %@ image" = "Keka ne peut créer l'image %@";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "La création d'une image %@ n'accepte qu'un unique dossier. Placez tous vos fichiers dans un même dossier et déposez-le sur Keka pour créer une image %@.";
-"Keka can't create this %@ tarball" = "Keka ne peut pas créer ce tarball %@";
 "Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it." = "Keka ne peut créer des archives chiffrées LRZIP qu'avec un seul fichier. Merci de déjà créer une archive TAR avec vos fichiers et la chiffrer ensuite.";
 "This operation is not supported on %@." = "Cette opération n'est pas supportée sur %@.";
 "Compress \"%@\" in %@ to..." = "Compresser \"%@\" dans %@ vers...";
@@ -153,6 +152,8 @@
 "Can't open the file, maybe it's not accessible" = "Échec d'ouverture du fichier, le fichier n'est peut-être pas accessible";
 "No files matching the mask" = "Aucun fichier ne correspond au filtre";
 "There were some read errors" = "Il y a eu des erreurs de lecture";
+"Dismissed trailing data, the extraction might be incomplete" = "Dismissed trailing data, the extraction might be incomplete";
+"Window size not supported, too much memory required" = "Window size not supported, too much memory required";
 "Give access" = "Donner l'accès";
 "Just folder access" = "Seulement l'accès au dossier";
 "Quit" = "Quitter";

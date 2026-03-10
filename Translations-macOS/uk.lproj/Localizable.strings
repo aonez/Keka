@@ -73,7 +73,6 @@
 "Keka - %i on queue" = "Keka - %i на черзі";
 "Keka can't create this %@ image" = "Keka не може створити %@ образ";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "Ви можете лише створити %@ образ. Спробуйте помістити всі ваші файли в папку і помістіть їх у Keka, щоб створити %@ образ";
-"Keka can't create this %@ tarball" = "Keka не може створити цей %@ тарбол";
 "Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it." = "Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it.";
 "This operation is not supported on %@." = "Ця операція не підтримується %@.";
 "Compress \"%@\" in %@ to..." = "Стиснути \"%@\" в %@ до...";
@@ -153,6 +152,8 @@
 "Can't open the file, maybe it's not accessible" = "Не вдається відкрити файл, можливо, він недоступний";
 "No files matching the mask" = "Немає файлів, що відповідають масці";
 "There were some read errors" = "Були деякі помилки читання";
+"Dismissed trailing data, the extraction might be incomplete" = "Dismissed trailing data, the extraction might be incomplete";
+"Window size not supported, too much memory required" = "Window size not supported, too much memory required";
 "Give access" = "Надати доступ";
 "Just folder access" = "Просто доступ до папки";
 "Quit" = "Вийти";

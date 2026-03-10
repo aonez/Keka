@@ -73,7 +73,6 @@
 "Keka - %i on queue" = "Keka - %i sorban áll";
 "Keka can't create this %@ image" = "A Keka nem tudja elkészíteni ezt az %@ fájlt";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "Csak egyetlen mappáról tud %@ lemezképfájlt készíteni. Próbálja az összes fájlt egy mappába rendezni, majd azt az egy mappát a Keka-ra húzni.";
-"Keka can't create this %@ tarball" = "A Keka nem tudja elkészíteni ezt a(z) %@ tömörített TAR archívumot";
 "Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it." = "Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it.";
 "This operation is not supported on %@." = "Ez a művelet nem támogatott a %@-on.";
 "Compress \"%@\" in %@ to..." = "\"%@\" tömörítése, %@ formátumban...";
@@ -153,6 +152,8 @@
 "Can't open the file, maybe it's not accessible" = "A fájl nem nyitható meg, talán nem elérhető";
 "No files matching the mask" = "Nem található a feltételnek megfelelő fájl";
 "There were some read errors" = "Néhány olvasási hiba lépett fel";
+"Dismissed trailing data, the extraction might be incomplete" = "Dismissed trailing data, the extraction might be incomplete";
+"Window size not supported, too much memory required" = "Window size not supported, too much memory required";
 "Give access" = "Engedélyezd";
 "Just folder access" = "Csak a mappához való hozzáférés";
 "Quit" = "Kilépés";

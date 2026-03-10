@@ -73,7 +73,6 @@
 "Keka - %i on queue" = "Keka - %i je ve frontě";
 "Keka can't create this %@ image" = "Keka nemůže vytvořit tento %@ obraz";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "Obrazy %@ lze vytvořit pouze z jedné složky. Zkuste soubory umístit do jedné složky, kterou přetáhněte do Keka.";
-"Keka can't create this %@ tarball" = "Keka nemůže vytvořit tento tarball %@";
 "Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it." = "Zašifrovaný archiv LRZIP lze vytvořit pouze ze souboru. Vytvořte prosím TAR archiv s vašimi soubory, a poté LRZIP archiv.";
 "This operation is not supported on %@." = "%@ tuto operaci nepodporuje";
 "Compress \"%@\" in %@ to..." = "Komprimovat „%@“ v %@ do…";
@@ -153,6 +152,8 @@
 "Can't open the file, maybe it's not accessible" = "Soubor nelze otevřít, možná není dostupný";
 "No files matching the mask" = "Žádné soubory se s maskou neshodují";
 "There were some read errors" = "Vyskytly se chyby při čtení";
+"Dismissed trailing data, the extraction might be incomplete" = "Dismissed trailing data, the extraction might be incomplete";
+"Window size not supported, too much memory required" = "Window size not supported, too much memory required";
 "Give access" = "Udělit přístup";
 "Just folder access" = "Přístup jen ke složce";
 "Quit" = "Ukončit";

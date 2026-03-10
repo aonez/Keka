@@ -73,7 +73,6 @@
 "Keka - %i on queue" = "Keka - %i σε αναμονή";
 "Keka can't create this %@ image" = "Το Keka δε μπορεί να δημιουργήσει αυτήν την %@ 'εικόνα'";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "Μπορείτε να δημιουργήσετε μόνο %@ 'εικόνες' με ένα φάκελο. Βάλτε όλα τα αρχεία σας σε ένα φάκελο και σύρατε αυτόν πάνω στο Keka για να δημιουργήσει την %@ 'εικόνα'.";
-"Keka can't create this %@ tarball" = "Το Keka δε μπορεί να δημιουργήσει αυτό τον τύπο %@ tarball αρχείου";
 "Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it." = "Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it.";
 "This operation is not supported on %@." = "Αυτή η ενέργεια δεν υποστηρίζεται στον %@.";
 "Compress \"%@\" in %@ to..." = "Συμπίεση \"%@\" in %@ to...";
@@ -153,6 +152,8 @@
 "Can't open the file, maybe it's not accessible" = "Το αρχείο δεν ανοίγει, πιθανά δεν είναι προσβάσιμο";
 "No files matching the mask" = "Δε βρέθηκαν αρχεία που ταιριάζουν με το φίλτρο σας";
 "There were some read errors" = "Υπήρξαν μερικά σφάλματα κατά την ανάγνωση";
+"Dismissed trailing data, the extraction might be incomplete" = "Dismissed trailing data, the extraction might be incomplete";
+"Window size not supported, too much memory required" = "Window size not supported, too much memory required";
 "Give access" = "Δώσε δικαίωμα πρόσβασης";
 "Just folder access" = "Μόνο πρόσβαση του φακέλου";
 "Quit" = "Εξοδος";

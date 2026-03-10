@@ -73,7 +73,6 @@
 "Keka - %i on queue" = "Keka - %i jonossa";
 "Keka can't create this %@ image" = "Keka ei voi luoda tätä %@ tiedostoa";
 "You can only create %@ images with a single folder. Try to put all your files in a folder and drop it to Keka to create the %@ image." = "Voit vain luoda %@ tiedoston yhdellä kansiolla. Kokeile laittaa tiedostosi kansioon ja pudota se Kekaan luodaksesi %@ tiedoston.";
-"Keka can't create this %@ tarball" = "Keka ei voi luoda tätä %@ tarball:ia";
 "Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it." = "Keka can only create encrypted LRZIP archives with a single file. Please create a TAR archive with your files first and then encrypt it.";
 "This operation is not supported on %@." = "Tämä operaatio ei ole tuettu kohteessa %@.";
 "Compress \"%@\" in %@ to..." = "Pakkaa \"%@\" kohteessa %@ kohteeseen...";
@@ -153,6 +152,8 @@
 "Can't open the file, maybe it's not accessible" = "Tiedostoa ei voitu avata, ehkä se ei ole saatavilla";
 "No files matching the mask" = "Ei maskia vastaavia tiedostoja";
 "There were some read errors" = "Joitakin lukuvirheitä ilmeni";
+"Dismissed trailing data, the extraction might be incomplete" = "Dismissed trailing data, the extraction might be incomplete";
+"Window size not supported, too much memory required" = "Window size not supported, too much memory required";
 "Give access" = "Anna pääsy";
 "Just folder access" = "Vain kansioon pääsy";
 "Quit" = "Lopeta";
