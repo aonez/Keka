@@ -101,7 +101,7 @@
 "Allocated size" = "Dimensione allocata";
 
 /* Appearance settings title. */
-"Appearance" = "Appearance"; // THIS IS NOT LOCALIZED
+"Appearance" = "Aspetto";
 
 /* No comment provided by engineer. */
 "archive" = "archivio";
@@ -590,7 +590,7 @@
 "This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "Questo file di volume necessita di un accesso supplementare ai file per essere aperto.\nPuoi dare accesso al resto dei file o alla cartella principale.";
 
 /* No comment provided by engineer. */
-"To be implemented" = "To be implemented"; // THIS IS NOT LOCALIZED
+"To be implemented" = "Da implementare";
 
 /* No comment provided by engineer. */
 "To extract" = "Per estrarre";
@@ -641,10 +641,10 @@
 "Use AES-256 if Available" = "Utilizza codifica AES-256 se disponibile";
 
 /* No comment provided by engineer. */
-"Use Binaries if Possible" = "Use Binaries if Possible"; // THIS IS NOT LOCALIZED
+"Use Binaries if Possible" = "Utilizza eseguibili, se possibile";
 
 /* No comment provided by engineer. */
-"Use continuous background task" = "Use continuous background task"; // THIS IS NOT LOCALIZED
+"Use continuous background task" = "Utilizza attività in background continue";
 
 /* No comment provided by engineer. */
 "Use special coloring for known formats" = "Utilizza una colorazione speciale per i formati noti";
