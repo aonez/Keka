@@ -1,4 +1,4 @@
-﻿
+
 /* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
 "159.title" = "Formato por defecto:";
 
@@ -154,6 +154,9 @@
 
 /* Class = "NSButtonCell"; title = "Show \"encrypt with default password\" items"; ObjectID = "AU8-I0-71W"; */
 "AU8-I0-71W.title" = "Mostrar opciones para encriptar con la contraseña por defecto";
+
+/* Class = "NSButtonCell"; title = "Create solid archives if possible"; ObjectID = "B4J-qZ-sDA"; */
+"B4J-qZ-sDA.title" = "Crear archivos sólidos si es posible";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "CWc-wN-FhI"; */
 "CWc-wN-FhI.title" = "Carpeta personalizada...";

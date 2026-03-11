@@ -155,6 +155,9 @@
 /* Class = "NSButtonCell"; title = "Show \"encrypt with default password\" items"; ObjectID = "AU8-I0-71W"; */
 "AU8-I0-71W.title" = "Afficher les options de chiffrement avec le mot de passe par défaut";
 
+/* Class = "NSButtonCell"; title = "Create solid archives if possible"; ObjectID = "B4J-qZ-sDA"; */
+"B4J-qZ-sDA.title" = "Create solid archives if possible";
+
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "CWc-wN-FhI"; */
 "CWc-wN-FhI.title" = "Dossier personnalisé ...";
 

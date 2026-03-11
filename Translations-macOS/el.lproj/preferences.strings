@@ -1,4 +1,4 @@
-
+﻿
 /* Class = "NSTextFieldCell"; title = "Default format:"; ObjectID = "159"; */
 "159.title" = "Προεπιλεγμένος τύπος:";
 
@@ -154,6 +154,9 @@
 
 /* Class = "NSButtonCell"; title = "Show \"encrypt with default password\" items"; ObjectID = "AU8-I0-71W"; */
 "AU8-I0-71W.title" = "Εμφάνιση των αρχείων, κρυπτογραφημένα με τον προεπιλεγμένο κωδικό";
+
+/* Class = "NSButtonCell"; title = "Create solid archives if possible"; ObjectID = "B4J-qZ-sDA"; */
+"B4J-qZ-sDA.title" = "Create solid archives if possible";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "CWc-wN-FhI"; */
 "CWc-wN-FhI.title" = "Επιθυμητός φάκελος...";

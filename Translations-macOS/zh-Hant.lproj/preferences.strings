@@ -155,6 +155,9 @@
 /* Class = "NSButtonCell"; title = "Show \"encrypt with default password\" items"; ObjectID = "AU8-I0-71W"; */
 "AU8-I0-71W.title" = "顯示使用預設密碼加密的項目";
 
+/* Class = "NSButtonCell"; title = "Create solid archives if possible"; ObjectID = "B4J-qZ-sDA"; */
+"B4J-qZ-sDA.title" = "Create solid archives if possible";
+
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "CWc-wN-FhI"; */
 "CWc-wN-FhI.title" = "自訂檔案夾⋯";
 

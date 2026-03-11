@@ -152,8 +152,8 @@
 "Can't open the file, maybe it's not accessible" = "No es pot obrir l'arxiu. Potser no està accessible";
 "No files matching the mask" = "No s'han trobat arxius amb el filtre utilitzat";
 "There were some read errors" = "Hi han hagut errors de lectura";
-"Dismissed trailing data, the extraction might be incomplete" = "Dismissed trailing data, the extraction might be incomplete";
-"Window size not supported, too much memory required" = "Window size not supported, too much memory required";
+"Dismissed trailing data, the extraction might be incomplete" = "S'han descartat dades addicionals, l'extracció pot estar incompleta";
+"Window size not supported, too much memory required" = "Mida de finestra no compatible, es requereix massa memòria";
 "Give access" = "Donar accés";
 "Just folder access" = "Només accés a la carpeta";
 "Quit" = "Sortir";
