@@ -152,8 +152,8 @@
 "Can't open the file, maybe it's not accessible" = "Échec d'ouverture du fichier, le fichier n'est peut-être pas accessible";
 "No files matching the mask" = "Aucun fichier ne correspond au filtre";
 "There were some read errors" = "Il y a eu des erreurs de lecture";
-"Dismissed trailing data, the extraction might be incomplete" = "Dismissed trailing data, the extraction might be incomplete";
-"Window size not supported, too much memory required" = "Window size not supported, too much memory required";
+"Dismissed trailing data, the extraction might be incomplete" = "Données de fin rejetées, l'extraction peut être incomplète";
+"Window size not supported, too much memory required" = "Taille de fenêtre non prise en charge, trop de mémoire nécessaire";
 "Give access" = "Donner l'accès";
 "Just folder access" = "Seulement l'accès au dossier";
 "Quit" = "Quitter";
