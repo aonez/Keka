@@ -335,6 +335,7 @@
       </trans-unit>
       <trans-unit id="%@." xml:space="preserve">
         <source>%@.</source>
+        <target>%@.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%lld items" xml:space="preserve">
@@ -484,6 +485,7 @@
       </trans-unit>
       <trans-unit id="Appearance" xml:space="preserve">
         <source>Appearance</source>
+        <target>Aspetto</target>
         <note>Appearance settings title.</note>
       </trans-unit>
       <trans-unit id="Archive items separately" xml:space="preserve">
@@ -1242,6 +1244,7 @@ Puoi dare accesso al resto dei file o alla cartella principale.</target>
       </trans-unit>
       <trans-unit id="To be implemented" xml:space="preserve">
         <source>To be implemented</source>
+        <target>Da implementare</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="To extract" xml:space="preserve">
@@ -1316,6 +1319,7 @@ Puoi dare accesso al resto dei file o alla cartella principale.</target>
       </trans-unit>
       <trans-unit id="Use Binaries if Possible" xml:space="preserve">
         <source>Use Binaries if Possible</source>
+        <target>Utilizza eseguibili, se possibile</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Use UTF-8 Encoding if Available" xml:space="preserve">
@@ -1325,6 +1329,7 @@ Puoi dare accesso al resto dei file o alla cartella principale.</target>
       </trans-unit>
       <trans-unit id="Use continuous background task" xml:space="preserve">
         <source>Use continuous background task</source>
+        <target>Utilizza attività in background continue</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Use special coloring for known formats" xml:space="preserve">

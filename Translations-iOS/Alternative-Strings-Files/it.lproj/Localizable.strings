@@ -14,7 +14,7 @@
 "%@ of %@ items" = "%@ di %@ elementi";
 
 /* No comment provided by engineer. */
-"%@." = "%@."; // THIS IS NOT LOCALIZED
+"%@." = "%@.";
 
 /* No comment provided by engineer. */
 "%lld items" = "%lld elementi";
