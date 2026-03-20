@@ -210,7 +210,7 @@
 "IL6-a6-uik.title" = "Провери целостта на архива";
 
 /* Class = "NSTextFieldCell"; title = "Enable external volumes access so Keka can be used with your external disks, such as a USB or Thunderbolt drive."; ObjectID = "JxT-Nq-8Z5"; */
-"JxT-Nq-8Z5.title" = "Активирай достъпа до външни дискове, за да може Keka да се използва с твоите външни дискове, като USB или Thunderbolt устройство.";
+"JxT-Nq-8Z5.title" = "Активирай достъпа до външни дискове, за да може Keka да се използва с външни дискове, като USB или Thunderbolt устройства.";
 
 /* Class = "NSTextFieldCell"; title = "Lower priority results in longer times. The lowest priority on Apple Silicon equipped Macs will only use \"Efficiency\" cores, resulting in longer but more energy efficient tasks.\nAlready running tasks priority will not be modified."; ObjectID = "Jyq-vC-L5r"; */
 "Jyq-vC-L5r.title" = "По-ниският приоритет води до по-дълго изпълнение. На Mac с Apple Silicon (M процесори) най-ниският приоритет използва само \"Efficiency\" ядрата, което е по-икономично, но по-бавно.";
@@ -225,7 +225,7 @@
 "KOF-7X-bQo.title" = "Покажи във външните дискове";
 
 /* Class = "NSTextFieldCell"; title = "Limit the number of threads per operation:"; ObjectID = "ND5-DN-C1H"; */
-"ND5-DN-C1H.title" = "Ограничаване на броят нишки за операция:";
+"ND5-DN-C1H.title" = "Ограничаване на броя нишки за операция:";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "NwI-O4-9NI"; */
 "NwI-O4-9NI.title" = "Изключи Mac ресурсите (като: .DS_Store)";
@@ -315,7 +315,7 @@
 "hLS-Ut-4fh.title" = "Архивиране на единичен файл:";
 
 /* Class = "NSButtonCell"; title = "Use AES-256 when encrypting ZIP files (less compatible)"; ObjectID = "hp7-jO-HeV"; */
-"hp7-jO-HeV.title" = "Използвай AES-256 когато криптираш ZIP файлове (по-малко съвместимо)";
+"hp7-jO-HeV.title" = "Използвай AES-256 при криптиране на ZIP файлове (по-малка съвместимост)";
 
 /* Class = "NSTextFieldCell"; title = "You can customize where to show the contextual menu below:"; ObjectID = "izC-0G-lvl"; */
 "izC-0G-lvl.title" = "Персонализирай къде да се показва контекстното меню:";
@@ -366,19 +366,19 @@
 "vWb-gb-JBD.title" = "Паролата може да се използва и от контекстното меню на Finder.";
 
 /* Class = "NSTextFieldCell"; title = "The Finder Extension needs to be enabled in the  System Preferences, Extensions configuration."; ObjectID = "wgz-2S-eXI"; */
-"wgz-2S-eXI.title" = "Разширението за Finder трябва да бъде активирано в  System Preferences, Extensions configuration.";
+"wgz-2S-eXI.title" = "Разширението за Finder трябва да бъде активирано в  System Preferences, Extensions.";
 
 /* Class = "NSTextFieldCell"; title = "Most operations use multiple threads. That means faster operations but also more power consumption and heat."; ObjectID = "xyb-eH-aiy"; */
-"xyb-eH-aiy.title" = "Повечето операции използват няколко нишки.Това води до по-бързи операции но и до повече консумация на енергия и топлина";
+"xyb-eH-aiy.title" = "Повечето операции използват няколко нишки. Това ускорява работата, но увеличава консумацията на енергия и топлината.";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous extractions:"; ObjectID = "yGo-Gm-0zq"; */
 "yGo-Gm-0zq.title" = "Максимум едновременни разархивирания:";
 
 /* Class = "NSTextFieldCell"; title = "Queuing usually results in faster operations and a more responsive behaviour."; ObjectID = "zPq-ei-qUb"; */
-"zPq-ei-qUb.title" = "Поставянето на опашка обикновенно дава по-бързи резултати и по-добро поведение на компютъра .";
+"zPq-ei-qUb.title" = "Поставянето на опашка обикновено дава по-бързи резултати и по-стабилна работа на компютъра.";
 
 /* Class = "NSButtonCell"; title = "Try the default password when extracting any file"; ObjectID = "zRi-PC-AW9"; */
-"zRi-PC-AW9.title" = "Пробвай паролата по подразбиране когато разархивираш всеки файл с парола";
+"zRi-PC-AW9.title" = "Пробвай паролата по подразбиране при разархивиране на защитени с парола файлове";
 
 /* Class = "NSButtonCell"; title = "Automatically install new updates"; ObjectID = "zTa-p3-fHX"; */
 "zTa-p3-fHX.title" = "Автоматично инсталирай нови актуализации";
