@@ -306,7 +306,6 @@
     <body>
       <trans-unit id="%@" xml:space="preserve">
         <source>%@</source>
-        <target/>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ item" xml:space="preserve">
@@ -336,6 +335,7 @@
       </trans-unit>
       <trans-unit id="%@." xml:space="preserve">
         <source>%@.</source>
+        <target>%@.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%lld items" xml:space="preserve">
@@ -485,6 +485,7 @@
       </trans-unit>
       <trans-unit id="Appearance" xml:space="preserve">
         <source>Appearance</source>
+        <target>Външен вид</target>
         <note>Appearance settings title.</note>
       </trans-unit>
       <trans-unit id="Archive items separately" xml:space="preserve">
@@ -851,7 +852,7 @@
       </trans-unit>
       <trans-unit id="If you got here, please get in touch with the developers." xml:space="preserve">
         <source>If you got here, please get in touch with the developers.</source>
-        <target>Ако стигнеш дотук, свържи се с разработчиците.</target>
+        <target>Ако се стигне дотук, свържи се с разработчиците.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Information" xml:space="preserve">
@@ -1243,6 +1244,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="To be implemented" xml:space="preserve">
         <source>To be implemented</source>
+        <target>Предстои</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="To extract" xml:space="preserve">
@@ -1317,6 +1319,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="Use Binaries if Possible" xml:space="preserve">
         <source>Use Binaries if Possible</source>
+        <target>Използвай бинарни файлове, ако е възможно</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Use UTF-8 Encoding if Available" xml:space="preserve">
@@ -1326,6 +1329,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="Use continuous background task" xml:space="preserve">
         <source>Use continuous background task</source>
+        <target>Използвай непрекъсната фонова задача</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Use special coloring for known formats" xml:space="preserve">
