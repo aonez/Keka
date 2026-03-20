@@ -156,7 +156,7 @@
 "AU8-I0-71W.title" = "Команды «Зашифровать паролем по умолчанию…»";
 
 /* Class = "NSButtonCell"; title = "Create solid archives if possible"; ObjectID = "B4J-qZ-sDA"; */
-"B4J-qZ-sDA.title" = "Create solid archives if possible";
+"B4J-qZ-sDA.title" = "Создавать непрерывные архивы, если возможно";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "CWc-wN-FhI"; */
 "CWc-wN-FhI.title" = "Выбрать папку…";

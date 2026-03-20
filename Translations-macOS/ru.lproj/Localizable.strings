@@ -152,8 +152,8 @@
 "Can't open the file, maybe it's not accessible" = "Невозможно открыть файл. Вероятно, он недоступен";
 "No files matching the mask" = "Нет файлов, отвечающих маске запроса";
 "There were some read errors" = "Было несколько ошибок чтения";
-"Dismissed trailing data, the extraction might be incomplete" = "Dismissed trailing data, the extraction might be incomplete";
-"Window size not supported, too much memory required" = "Window size not supported, too much memory required";
+"Dismissed trailing data, the extraction might be incomplete" = "Избыточные данные были отброшены, извлечение может быть неполным";
+"Window size not supported, too much memory required" = "Размер окна не поддерживается, требуется слишком много памяти";
 "Give access" = "Дать доступ";
 "Just folder access" = "Только доступ к папке";
 "Quit" = "Выход";
