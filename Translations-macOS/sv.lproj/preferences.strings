@@ -138,7 +138,7 @@
 "6bh-6N-5PP.title" = "Samla åtgärder i en undermeny";
 
 /* Class = "NSMenuItem"; title = "Always"; ObjectID = "8AZ-Vv-Lv1"; */
-"8AZ-Vv-Lv1.title" = "Always";
+"8AZ-Vv-Lv1.title" = "Alltid";
 
 /* Class = "NSTextFieldCell"; title = "You can use these placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n%pb% will be replaced with the clipboard string\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
 "8JN-Ub-qkc.title" = "Du kan använda dessa platshållare:\n\n%n ersätts med filnamnet\n%e ersätts med filändelse\n%p ersätts med överordnad mapp\n%c ersätts med antalet filer\n%d ersätts med nuvarande datum\n%t ersätts med nuvarande tid\n%s ersätts med delat namn\n%i% ersätts med första objektets namn\n%ia% ersätts med första sorterade namnet\n%pb% ersätts med sträng från urklipp\n\nErsättningen kommer i vissa fall att vara tom.";
@@ -156,7 +156,7 @@
 "AU8-I0-71W.title" = "Visa kryptera objekt med standardlösenord";
 
 /* Class = "NSButtonCell"; title = "Create solid archives if possible"; ObjectID = "B4J-qZ-sDA"; */
-"B4J-qZ-sDA.title" = "Create solid archives if possible";
+"B4J-qZ-sDA.title" = "Skapa solida arkiv om möjligt";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "CWc-wN-FhI"; */
 "CWc-wN-FhI.title" = "Anpassad mapp...";
@@ -168,7 +168,7 @@
 "DAr-Td-s5W.title" = "Extraheringar behöver mindre kraft så även med flera trådar kan du lätt sätta gränsen till två eller tre. Notera att måldisken får lida.";
 
 /* Class = "NSButtonCell"; title = "Use resizable windows"; ObjectID = "DCA-p1-1uq"; */
-"DCA-p1-1uq.title" = "Use resizable windows";
+"DCA-p1-1uq.title" = "Låt fönster kunna ändras i storlek";
 
 /* Class = "NSButtonCell"; title = "Ask before quitting with operations"; ObjectID = "DJT-wB-bCM"; */
 "DJT-wB-bCM.title" = "Fråga innan avslut under pågående uppgift";
@@ -186,7 +186,7 @@
 "Ei5-Ya-HGI.title" = "Använd anpassat namn när flera filer komprimeras";
 
 /* Class = "NSButtonCell"; title = "Activate Keka when starting a new operation"; ObjectID = "FMT-Gs-iEi"; */
-"FMT-Gs-iEi.title" = "Activate Keka when starting a new operation";
+"FMT-Gs-iEi.title" = "Aktivera Keka när en ny uppgift startar";
 
 /* Class = "NSTextFieldCell"; title = "Tasks priority (QoS):"; ObjectID = "G1T-Qd-OZi"; */
 "G1T-Qd-OZi.title" = "Aktivitetsprioritet (QoS):";
@@ -201,7 +201,7 @@
 "Hx2-S1-j7m.title" = "Dessa verkställs endast när Keka inte är startat.";
 
 /* Class = "NSMenuItem"; title = "Never"; ObjectID = "I93-7A-iSn"; */
-"I93-7A-iSn.title" = "Never";
+"I93-7A-iSn.title" = "Aldrig";
 
 /* Class = "NSButtonCell"; title = "Enable full Mac access (Recommended)"; ObjectID = "IHj-ac-103"; */
 "IHj-ac-103.title" = "Aktivera fullständig åtkomst (Rekommenderas)";
@@ -237,7 +237,7 @@
 "Rgr-FP-Kua.title" = "Standardlösenord:";
 
 /* Class = "NSButtonCell"; title = "Silently ignore extra trailing data"; ObjectID = "Rwo-pm-Y6t"; */
-"Rwo-pm-Y6t.title" = "Silently ignore extra trailing data";
+"Rwo-pm-Y6t.title" = "Ignorera extra efterföljande data tyst";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "Aktivera integration med Notiscenter";
@@ -267,7 +267,7 @@
 "ZOx-vr-5o7.title" = "Aktivera fullständig åtkomst så att Keka kan användas på hela din Mac.";
 
 /* Class = "NSButtonCell"; title = "Create self-extracting archives for Windows if possible"; ObjectID = "Zfm-hU-OMZ"; */
-"Zfm-hU-OMZ.title" = "Create self-extracting archives for Windows if possible";
+"Zfm-hU-OMZ.title" = "Skapa självextraherande arkiv för Windows om möjligt";
 
 /* Class = "NSMenuItem"; title = "High"; ObjectID = "ZiK-jD-TLq"; */
 "ZiK-jD-TLq.title" = "Hög";
@@ -300,7 +300,7 @@
 "dhi-qv-weg.title" = "Komprimerar flera filer:";
 
 /* Class = "NSMenuItem"; title = "Only if configuration windows are open"; ObjectID = "dmz-xh-p9a"; */
-"dmz-xh-p9a.title" = "Only if configuration windows are open";
+"dmz-xh-p9a.title" = "Endast om konfigurationsfönster är öppet";
 
 /* Class = "NSButtonCell"; title = "Set folder's modification date to extraction date"; ObjectID = "eBj-1b-wBg"; */
 "eBj-1b-wBg.title" = "Sätt mappens modifieringsdatum till extraheringsdatum";
@@ -342,13 +342,13 @@
 "rP2-XR-ZQt.title" = "Visa Keka-åtgärder i Finders kontextmeny";
 
 /* Class = "NSTextFieldCell"; title = "Show an icon in the Dock:"; ObjectID = "rra-p2-67m"; */
-"rra-p2-67m.title" = "Show an icon in the Dock:";
+"rra-p2-67m.title" = "Visa en ikon i Dock:";
 
 /* Class = "NSButtonCell"; title = "Show icons in actions"; ObjectID = "s9u-2a-b8X"; */
 "s9u-2a-b8X.title" = "Visa ikoner i åtgärder";
 
 /* Class = "NSMenuItem"; title = "Always extract compatible formats"; ObjectID = "sD5-uM-Wpa"; */
-"sD5-uM-Wpa.title" = "Always extract compatible formats";
+"sD5-uM-Wpa.title" = "Extrahera alltid kompatibla format";
 
 /* Class = "NSButtonCell"; title = "Enable external volumes access"; ObjectID = "sgV-AD-k4Q"; */
 "sgV-AD-k4Q.title" = "Aktivera åtkomst till externa volymer";
