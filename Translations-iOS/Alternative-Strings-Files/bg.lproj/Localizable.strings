@@ -14,7 +14,7 @@
 "%@ of %@ items" = "%@ от %@ елемента";
 
 /* No comment provided by engineer. */
-"%@." = "%@."; // THIS IS NOT LOCALIZED
+"%@." = "%@.";
 
 /* No comment provided by engineer. */
 "%lld items" = "%lld елемента";
@@ -101,7 +101,7 @@
 "Allocated size" = "Разпределен размер";
 
 /* Appearance settings title. */
-"Appearance" = "Appearance"; // THIS IS NOT LOCALIZED
+"Appearance" = "Външен вид";
 
 /* No comment provided by engineer. */
 "archive" = "архив";
@@ -362,7 +362,7 @@
 "Hide Password by Default" = "Скриване на паролата по подразбиране";
 
 /* No comment provided by engineer. */
-"If you got here, please get in touch with the developers." = "Ако стигнеш дотук, свържи се с разработчиците.";
+"If you got here, please get in touch with the developers." = "Ако се стигне дотук, свържи се с разработчиците.";
 
 /* No comment provided by engineer. */
 "Information" = "Информация";
@@ -590,7 +590,7 @@
 "This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "Този том изисква допълнителен достъп до файлове, за да се отвори.\nДай достъп до останалите файлове или до родителската папка.";
 
 /* No comment provided by engineer. */
-"To be implemented" = "To be implemented"; // THIS IS NOT LOCALIZED
+"To be implemented" = "Предстои";
 
 /* No comment provided by engineer. */
 "To extract" = "Да разархивира";
@@ -641,10 +641,10 @@
 "Use AES-256 if Available" = "Използване на AES-256 ако е възможно";
 
 /* No comment provided by engineer. */
-"Use Binaries if Possible" = "Use Binaries if Possible"; // THIS IS NOT LOCALIZED
+"Use Binaries if Possible" = "Използвай бинарни файлове, ако е възможно";
 
 /* No comment provided by engineer. */
-"Use continuous background task" = "Use continuous background task"; // THIS IS NOT LOCALIZED
+"Use continuous background task" = "Използвай непрекъсната фонова задача";
 
 /* No comment provided by engineer. */
 "Use special coloring for known formats" = "Използване на специално оцветяване за известни формати";
@@ -690,4 +690,3 @@
 
 /* No comment provided by engineer. */
 "Where" = "Къде";
-
