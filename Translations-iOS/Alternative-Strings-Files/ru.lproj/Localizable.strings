@@ -101,7 +101,7 @@
 "Allocated size" = "Размер на диске";
 
 /* Appearance settings title. */
-"Appearance" = "Appearance"; // THIS IS NOT LOCALIZED
+"Appearance" = "Оформление";
 
 /* No comment provided by engineer. */
 "archive" = "архив";
@@ -641,10 +641,10 @@
 "Use AES-256 if Available" = "Использовать шифрование AES-256, если возможно";
 
 /* No comment provided by engineer. */
-"Use Binaries if Possible" = "Use Binaries if Possible"; // THIS IS NOT LOCALIZED
+"Use Binaries if Possible" = "Использовать исполняемые файлы, если возможно";
 
 /* No comment provided by engineer. */
-"Use continuous background task" = "Use continuous background task"; // THIS IS NOT LOCALIZED
+"Use continuous background task" = "Использовать непрерывные фоновые задачи";
 
 /* No comment provided by engineer. */
 "Use special coloring for known formats" = "Цветовой акцент для известных форматов";
