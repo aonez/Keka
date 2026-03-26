@@ -156,7 +156,7 @@
 "AU8-I0-71W.title" = "显示要使用默认密码加密的项";
 
 /* Class = "NSButtonCell"; title = "Create solid archives if possible"; ObjectID = "B4J-qZ-sDA"; */
-"B4J-qZ-sDA.title" = "Create solid archives if possible";
+"B4J-qZ-sDA.title" = "尽可能创建固实归档";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "CWc-wN-FhI"; */
 "CWc-wN-FhI.title" = "自定义文件夹...";
@@ -267,7 +267,7 @@
 "ZOx-vr-5o7.title" = "启用完整访问权限，以便可以在整个系统中使用 Keka。";
 
 /* Class = "NSButtonCell"; title = "Create self-extracting archives for Windows if possible"; ObjectID = "Zfm-hU-OMZ"; */
-"Zfm-hU-OMZ.title" = "如果可能，创建 Windows 自解压文件";
+"Zfm-hU-OMZ.title" = "尽可能创建 Windows 自解压文件";
 
 /* Class = "NSMenuItem"; title = "High"; ObjectID = "ZiK-jD-TLq"; */
 "ZiK-jD-TLq.title" = "高";

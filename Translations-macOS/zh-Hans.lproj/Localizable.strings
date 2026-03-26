@@ -152,8 +152,8 @@
 "Can't open the file, maybe it's not accessible" = "无法打开文件，可能它无法访问";
 "No files matching the mask" = "没有与掩码匹配的文件";
 "There were some read errors" = "出现读取错误";
-"Dismissed trailing data, the extraction might be incomplete" = "Dismissed trailing data, the extraction might be incomplete";
-"Window size not supported, too much memory required" = "Window size not supported, too much memory required";
+"Dismissed trailing data, the extraction might be incomplete" = "已忽略末尾多余数据，提取结果可能不完整";
+"Window size not supported, too much memory required" = "窗口大小不受支持，所需内存过多。";
 "Give access" = "授予访问权限";
 "Just folder access" = "仅文件夹访问权限";
 "Quit" = "退出";
