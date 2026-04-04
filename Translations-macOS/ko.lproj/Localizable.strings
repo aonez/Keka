@@ -10,7 +10,7 @@
 "Performance" = "성능";
 "Finder Extension" = "Finder 확장 프로그램";
 "Passwords" = "비밀번호";
-"Love" = "Love";
+"Love" = "애정";
 "OK" = "확인";
 "Done" = "완료";
 "Yes" = "예";
@@ -121,7 +121,7 @@
 "Perform automatic action" = "자동";
 "Always compress" = "항상 압축";
 "Always extract" = "항상 압축 풀기";
-"Always extract compatible formats" = "Always extract compatible formats";
+"Always extract compatible formats" = "항상 호환 형식으로 압축 풀기";
 "1.4 MB Floppy" = "1.4 MB 플로피 디스크";
 "650 MB CD" = "650 MB CD";
 "700 MB CD" = "700 MB CD";
@@ -152,8 +152,8 @@
 "Can't open the file, maybe it's not accessible" = "파일을 열 수 없거나 파일에 접속할 수 없습니다.";
 "No files matching the mask" = "마스크와 일치하는 파일들이 없습니다.";
 "There were some read errors" = "몇몇 읽기 에러가 있었습니다";
-"Dismissed trailing data, the extraction might be incomplete" = "Dismissed trailing data, the extraction might be incomplete";
-"Window size not supported, too much memory required" = "Window size not supported, too much memory required";
+"Dismissed trailing data, the extraction might be incomplete" = "후행 데이터를 무시했습니다. 압축 해제가 불완전할 수 있습니다.";
+"Window size not supported, too much memory required" = "창 크기를 지원하지 않습니다. 메모리를 너무 많이 요구합니다.";
 "Give access" = "권한 허용";
 "Just folder access" = "폴더 접근 권한만 허용";
 "Quit" = "종료";
@@ -201,8 +201,8 @@
 "The extension is enabled" = "확장 프로그램이 활성화 되었습니다";
 "The extension is disabled" = "확장 프로그램이 비활성화 되었습니다";
 "Enable or disable the extension" = "확장 프로그램 활성화 또는 비활성화";
-"Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option." = "Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option.";
-"Keka will decide whether to compress or uncompress based on the file format and extension." = "Keka will decide whether to compress or uncompress based on the file format and extension.";
+"Keka will decide whether to compress or uncompress based on the file extension and format for unrecognized files. This is the recommended option." = "Keka가 파일을 인식할 수 없을 때에 파일 확장자와 형식을 기반으로 압축 혹은 압축 해제를 결정합니다. 권장 설정입니다.";
+"Keka will decide whether to compress or uncompress based on the file format and extension." = "Keka가 파일 형식과 확장자를 기반으로 압축 혹은 압축 해제를 결정합니다.";
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka는 모든 파일을 압축합니다. 이미 압축된 파일도 마찬가지입니다. 이미 압축된 파일을 드롭 영역의 맨 아래 부분에 놓아 자동 모드에서 압축할 수 있습니다.";
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka는 모든 파일을 추출하려고 합니다. 알 수 없는 파일을 드롭 영역의 맨 아래에 놓아서 자동 모드에서 추출하려고 할 수 있습니다.";
 "Show the operation log" = "작업 로그 보기";
@@ -246,13 +246,13 @@
 "Recovery Volumes:" = "볼륨 복원:";
 "Encrypt" = "암호화";
 "Skip" = "건너뛰기";
-"Can't enable the extension" = "Can't enable the extension";
-"In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nPlease update your Keka Helper version to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." = "In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nPlease update your Keka Helper version to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it.";
-"In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nYou can install the Keka Helper to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." = "In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nYou can install the Keka Helper to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it.";
-"Show password" = "Show password";
-"Hide password" = "Hide password";
+"Can't enable the extension" = "확장 활성화 불가";
+"In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nPlease update your Keka Helper version to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." = "macOS 15에서는 Finder 확장을 자동으로 혹은 간편하게 활성화할 수 있는 방법이 없습니다.\n\nFinder 확장 프로그램을 자동으로 활성화 및 비활성화하려면 Keka Helper 버전을 업데이트하세요. 아니면 터미널에서 몇 단계를 거쳐 수동으로 활성화할 수 있습니다.";
+"In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nYou can install the Keka Helper to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." = "macOS 15에서는 Finder 확장을 자동으로 혹은 간편하게 활성화할 수 있는 방법이 없습니다.\n\nKeka Helper를 설치하여 Finder 확장 프로그램을 자동으로 활성화 및 비활성화할 수 있습니다. 아니면 터미널에서 몇 단계를 거쳐 수동으로 활성화할 수 있습니다.";
+"Show password" = "비밀번호 표시";
+"Hide password" = "비밀번호 숨김";
 "Settings" = "환경설정";
-"Format Selector" = "Format Selector";
+"Format Selector" = "형식 선택기";
 
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "환경설정…";

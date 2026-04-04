@@ -65,7 +65,7 @@
 "Safari extension" = "Safari 확장 프로그램";
 "ACE Archive" = "ACE 아카이브";
 "XIP Secure Archive" = "XIP 보안 아카이브";
-"XAR Archive" = "XAR Archive";
+"XAR Archive" = "XAR 아카이브";
 "Electronic Book" = "전자책";
 "Apple Archive" = "Apple 아카이브";
 "Apple Encrypted Archive" = "암호화된 Apple 아카이브";
@@ -76,6 +76,6 @@
 "Snappy Tarball Archive" = "Snappy Tarball 아카이브";
 "Apple iWork Archive" = "Apple iWork 아카이브";
 "Delta Controller Skin" = "Delta 컨트롤러 스킨";
-"Zipped Web Archive Collection" = "Zipped Web Archive Collection";
+"Zipped Web Archive Collection" = "Zip 웹 아카이브 모음";
 "Keka Extraction Package" = "Keka 압축 해제 패키지";
-"Data" = "Data";
+"Data" = "데이터";
