@@ -101,7 +101,7 @@
 "Allocated size" = "分配大小";
 
 /* Appearance settings title. */
-"Appearance" = "Appearance"; // THIS IS NOT LOCALIZED
+"Appearance" = "外观";
 
 /* No comment provided by engineer. */
 "archive" = "归档";
@@ -269,7 +269,7 @@
 "Encrypt Filenames" = "加密文件名";
 
 /* No comment provided by engineer. */
-"Encrypt Filenames if Possible" = "如果可用，加密文件名";
+"Encrypt Filenames if Possible" = "尽可能加密文件名";
 
 /* No comment provided by engineer. */
 "Enter the password for the file\n\"%@\"" = "输入文件的密码\n\"%@\"";
@@ -590,7 +590,7 @@
 "This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "该卷文件需要额外文件访问权限才能打开。\n您可以授予对其或父文件夹的访问权限。";
 
 /* No comment provided by engineer. */
-"To be implemented" = "To be implemented"; // THIS IS NOT LOCALIZED
+"To be implemented" = "待实现";
 
 /* No comment provided by engineer. */
 "To extract" = "提取";
@@ -638,19 +638,19 @@
 "Use AES-256 Encryption" = "使用 AES-256 加密";
 
 /* No comment provided by engineer. */
-"Use AES-256 if Available" = "如果可用，使用 AES-256 加密";
+"Use AES-256 if Available" = "使用 AES-256 加密（如果可用）";
 
 /* No comment provided by engineer. */
-"Use Binaries if Possible" = "Use Binaries if Possible"; // THIS IS NOT LOCALIZED
+"Use Binaries if Possible" = "尽可能使用二进制文件";
 
 /* No comment provided by engineer. */
-"Use continuous background task" = "Use continuous background task"; // THIS IS NOT LOCALIZED
+"Use continuous background task" = "使用持续后台任务";
 
 /* No comment provided by engineer. */
 "Use special coloring for known formats" = "对于已知格式使用专用颜色";
 
 /* No comment provided by engineer. */
-"Use UTF-8 Encoding if Available" = "如果可用，使用 UTF-8 编码";
+"Use UTF-8 Encoding if Available" = "使用 UTF-8 编码（如果可用）";
 
 /* No comment provided by engineer. */
 "Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly." = "使用扩展程序操作 Keka 存在内存限制。\n请直接使用 Keka 尝试此操作。";

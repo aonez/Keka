@@ -14,7 +14,7 @@
 "%@ of %@ items" = "%@/%@ 선택됨";
 
 /* No comment provided by engineer. */
-"%@." = "%@."; // THIS IS NOT LOCALIZED
+"%@." = "%@.";
 
 /* No comment provided by engineer. */
 "%lld items" = "%lld개의 항목";
@@ -101,7 +101,7 @@
 "Allocated size" = "할당된 크기";
 
 /* Appearance settings title. */
-"Appearance" = "Appearance"; // THIS IS NOT LOCALIZED
+"Appearance" = "표시";
 
 /* No comment provided by engineer. */
 "archive" = "아카이브";
@@ -398,10 +398,10 @@
 "Modified" = "수정일";
 
 /* No comment provided by engineer. */
-"Move compressed file(s) to Trash after extraction" = "Move compressed file(s) to Trash after extraction"; // THIS IS NOT LOCALIZED
+"Move compressed file(s) to Trash after extraction" = "압축 해제 후 압축 파일을 휴지통으로 이동";
 
 /* No comment provided by engineer. */
-"Move original file(s) to Trash after compression" = "Move original file(s) to Trash after compression"; // THIS IS NOT LOCALIZED
+"Move original file(s) to Trash after compression" = "압축 후 원본 파일을 휴지통으로 이동";
 
 /* No comment provided by engineer. */
 "Name" = "이름";
@@ -590,7 +590,7 @@
 "This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "이 볼륨 파일을 열려면 파일 접근 권한이 추가로 필요합니다.\n나머지 파일이나 상위 폴더에 대해 접근 권한을 부여해 주세요.";
 
 /* No comment provided by engineer. */
-"To be implemented" = "To be implemented"; // THIS IS NOT LOCALIZED
+"To be implemented" = "구현 예정";
 
 /* No comment provided by engineer. */
 "To extract" = "압축 해제";
@@ -611,7 +611,7 @@
 "TRANSLATOR_NAME" = "justcontributor";
 
 /* No comment provided by engineer. */
-"Try lowering the compression level, faster levels use less memory." = "Try lowering the compression level, faster levels use less memory."; // THIS IS NOT LOCALIZED
+"Try lowering the compression level, faster levels use less memory." = "더 빠른 압축 방법으로 시도하세요, 더 적은 메모리를 사용합니다.";
 
 /* No comment provided by engineer. */
 "Type" = "유형";
@@ -641,10 +641,10 @@
 "Use AES-256 if Available" = "가능하면 AES-256 암호화 사용";
 
 /* No comment provided by engineer. */
-"Use Binaries if Possible" = "Use Binaries if Possible"; // THIS IS NOT LOCALIZED
+"Use Binaries if Possible" = "가능하면 바이너리 사용";
 
 /* No comment provided by engineer. */
-"Use continuous background task" = "Use continuous background task"; // THIS IS NOT LOCALIZED
+"Use continuous background task" = "연속적인 백그라운드 작업 사용";
 
 /* No comment provided by engineer. */
 "Use special coloring for known formats" = "알려진 형식에 특별한 색상 적용";
@@ -653,13 +653,13 @@
 "Use UTF-8 Encoding if Available" = "가능하면 UTF-8 인코딩 사용";
 
 /* No comment provided by engineer. */
-"Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly." = "Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly."; // THIS IS NOT LOCALIZED
+"Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly." = "Keka를 액션과 확장으로 구동하면 메모리가 제한됩니다.\nKeka를 직접 구동하는 이 작업을 시도해보세요.";
 
 /* No comment provided by engineer. */
-"verification failed" = "verification failed"; // THIS IS NOT LOCALIZED
+"verification failed" = "검증 실패";
 
 /* No comment provided by engineer. */
-"verified" = "verified"; // THIS IS NOT LOCALIZED
+"verified" = "검증됨";
 
 /* No comment provided by engineer. */
 "Verify compression integrity" = "압축 무결성 검사";
@@ -674,7 +674,7 @@
 "VERIFY_SECTION_TITLE" = "검증";
 
 /* No comment provided by engineer. */
-"Verify…" = "Verify…"; // THIS IS NOT LOCALIZED
+"Verify…" = "검증…";
 
 /* No comment provided by engineer. */
 "Volume Size" = "볼륨 크기";
