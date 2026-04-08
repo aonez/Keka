@@ -156,7 +156,7 @@
 "AU8-I0-71W.title" = "기본값 비밀번호로 압축하기 항목 표시";
 
 /* Class = "NSButtonCell"; title = "Create solid archives if possible"; ObjectID = "B4J-qZ-sDA"; */
-"B4J-qZ-sDA.title" = "Create solid archives if possible";
+"B4J-qZ-sDA.title" = "가능하면 솔리드 아카이브 생성";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "CWc-wN-FhI"; */
 "CWc-wN-FhI.title" = "사용자 지정 폴더...";
@@ -168,7 +168,7 @@
 "DAr-Td-s5W.title" = "압축 해제가 전력을 덜 사용하기 때문에 여러 개의 스레드를 사용하더라도 이 제한을 쉽게 두 개 또는 세 개로 설정할 수 있습니다. 대상 디스크가 손상될 수 있습니다.";
 
 /* Class = "NSButtonCell"; title = "Use resizable windows"; ObjectID = "DCA-p1-1uq"; */
-"DCA-p1-1uq.title" = "Use resizable windows";
+"DCA-p1-1uq.title" = "창 크기 조정 사용";
 
 /* Class = "NSButtonCell"; title = "Ask before quitting with operations"; ObjectID = "DJT-wB-bCM"; */
 "DJT-wB-bCM.title" = "진행중이면 종료하기 전 묻기";
@@ -186,7 +186,7 @@
 "Ei5-Ya-HGI.title" = "여러 파일을 압축할 때 사용자 지정 이름 사용";
 
 /* Class = "NSButtonCell"; title = "Activate Keka when starting a new operation"; ObjectID = "FMT-Gs-iEi"; */
-"FMT-Gs-iEi.title" = "Activate Keka when starting a new operation";
+"FMT-Gs-iEi.title" = "새 작업을 시작할 때 Keka 활성화";
 
 /* Class = "NSTextFieldCell"; title = "Tasks priority (QoS):"; ObjectID = "G1T-Qd-OZi"; */
 "G1T-Qd-OZi.title" = "작업 우선순위 (QoS):";
@@ -201,7 +201,7 @@
 "Hx2-S1-j7m.title" = "이 설정은 Keka가 열려있지 않을 때만 적용됩니다.";
 
 /* Class = "NSMenuItem"; title = "Never"; ObjectID = "I93-7A-iSn"; */
-"I93-7A-iSn.title" = "Never";
+"I93-7A-iSn.title" = "절대 안 함";
 
 /* Class = "NSButtonCell"; title = "Enable full Mac access (Recommended)"; ObjectID = "IHj-ac-103"; */
 "IHj-ac-103.title" = "Mac 전체 접근 권한 허용 (권장)";
@@ -237,7 +237,7 @@
 "Rgr-FP-Kua.title" = "기본값 비밀번호:";
 
 /* Class = "NSButtonCell"; title = "Silently ignore extra trailing data"; ObjectID = "Rwo-pm-Y6t"; */
-"Rwo-pm-Y6t.title" = "Silently ignore extra trailing data";
+"Rwo-pm-Y6t.title" = "추가 후행 데이터를 조용히 무시하기";
 
 /* Class = "NSButtonCell"; title = "Enable Notification Center integration"; ObjectID = "SOL-6U-5P9"; */
 "SOL-6U-5P9.title" = "알림 센터 사용";
@@ -348,7 +348,7 @@
 "s9u-2a-b8X.title" = "작업에서 아이콘 표시";
 
 /* Class = "NSMenuItem"; title = "Always extract compatible formats"; ObjectID = "sD5-uM-Wpa"; */
-"sD5-uM-Wpa.title" = "Always extract compatible formats";
+"sD5-uM-Wpa.title" = "항상 호환 형식으로 압축 풀기";
 
 /* Class = "NSButtonCell"; title = "Enable external volumes access"; ObjectID = "sgV-AD-k4Q"; */
 "sgV-AD-k4Q.title" = "외장 볼륨 접근 권한 허용";

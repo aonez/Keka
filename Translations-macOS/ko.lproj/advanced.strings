@@ -78,7 +78,7 @@
 "2426.title" = "암호 다시 입력:";
 
 /* Class = "NSButtonCell"; title = "Self-extracting archive for Windows"; ObjectID = "Itb-5A-JW7"; */
-"Itb-5A-JW7.title" = "Self-extracting archive for Windows";
+"Itb-5A-JW7.title" = "Windows용 자체 해제되는 압축";
 
 /* Class = "NSButtonCell"; title = "Encrypt filenames"; ObjectID = "L2I-Q8-zqc"; */
 "L2I-Q8-zqc.title" = "파일 이름 암호화";
