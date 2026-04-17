@@ -51,7 +51,7 @@ $content_beta_unavailable = 'Il n\'y a pas de version Beta disponible en ce mome
 $content_beta_up = "Récupérer la dernière version";
 
 // Legacy
-$content_platform_legacy = "For $version_replace";
+$content_platform_legacy = "Pour $version_replace";
 $content_legacy_title = "Anciennes versions de Keka";
 $content_legacy_text = 'Au fil des années, votre Mac va vieillir et ne pourra plus supporter<br />le dernier Keka, mais relax <i class="fa fa-coffee" aria-hidden="true"></i>, les anciennes versions seront ici.';
 
