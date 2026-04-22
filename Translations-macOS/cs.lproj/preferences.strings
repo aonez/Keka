@@ -45,7 +45,7 @@
 "263.title" = "Každý soubor archivovat samostatně";
 
 /* Class = "NSButtonCell"; title = "Show file in Finder after compression"; ObjectID = "264"; */
-"264.title" = "Po komprimaci zobrazit archiv ve Finderu";
+"264.title" = "Po komprimaci zobrazit ve Finderu";
 
 /* Class = "NSButtonCell"; title = "Exclude Mac resource forks (eg: .DS_Store)"; ObjectID = "265"; */
 "265.title" = "Vynechat prostředkové části (např. .DS_Store)";
@@ -54,7 +54,7 @@
 "279.title" = "Pokaždé se zeptat";
 
 /* Class = "NSMenuItem"; title = "Next to original file"; ObjectID = "280"; */
-"280.title" = "Stejné, jako původní soubory";
+"280.title" = "Vedle původního souboru";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "281"; */
 "281.title" = "Vybrat složku…";
@@ -66,7 +66,7 @@
 "283.title" = "Název vytvořených souborů:";
 
 /* Class = "NSMenuItem"; title = "Same as original file"; ObjectID = "286"; */
-"286.title" = "Stejný, jako výchozí soubory";
+"286.title" = "Stejné jako původní soubor";
 
 /* Class = "NSMenuItem"; title = "Custom name..."; ObjectID = "287"; */
 "287.title" = "Vlastní název…";
@@ -75,7 +75,7 @@
 "357.title" = "Pokaždé se zeptat";
 
 /* Class = "NSMenuItem"; title = "Next to original file"; ObjectID = "358"; */
-"358.title" = "Stejná, jako výchozí soubory";
+"358.title" = "Vedle původního souboru";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "359"; */
 "359.title" = "Vlastní složka…";
@@ -87,7 +87,7 @@
 "361.title" = "Po rozbalení zobrazit soubory ve Finderu";
 
 /* Class = "NSButtonCell"; title = "Move compressed file(s) to Trash after extraction"; ObjectID = "362"; */
-"362.title" = "Po rozbalení přesunout soubory archivu do koše";
+"362.title" = "Po rozbalení přesunout archiv do koše";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "418"; */
 "418.title" = "Žádný";
@@ -114,13 +114,13 @@
 "453.title" = "Žádný";
 
 /* Class = "NSButtonCell"; title = "Show \"compress contents of folder\" items"; ObjectID = "0Am-9a-jtM"; */
-"0Am-9a-jtM.title" = "Zobrazit komprimovaný obsah položek ve složce";
+"0Am-9a-jtM.title" = "Zobrazit položku „Komprimovat obsah složky“";
 
 /* Class = "NSButtonCell"; title = "Rename the recognized extension from the subfolder"; ObjectID = "1TK-Zy-623"; */
 "1TK-Zy-623.title" = "Přejmenovat rozpoznanou příponu z podsložky";
 
 /* Class = "NSButtonCell"; title = "Use custom tasks counter in the Dock"; ObjectID = "3cf-gN-q24"; */
-"3cf-gN-q24.title" = "Zobrazovat celkový počet úloh v Doku ";
+"3cf-gN-q24.title" = "Zobrazovat počet úloh v Doku";
 
 /* Class = "NSButtonCell"; title = "Show icon in primary item"; ObjectID = "47Y-rt-2fG"; */
 "47Y-rt-2fG.title" = "Zobrazit ikonu primární položky";
@@ -141,10 +141,10 @@
 "8AZ-Vv-Lv1.title" = "Vždy";
 
 /* Class = "NSTextFieldCell"; title = "You can use these placeholders:\n\n%n will be replaced with the file name\n%e will be replaced with the file extension\n%p will be replaced with the parent folder\n%c will be replaced with the number of files\n%d will be replaced with the current date\n%t will be replaced with the current time\n%s will be replaced with the shared name\n%i% will be replaced with the first item name\n%ia% will be replaced with the first sorted name\n%pb% will be replaced with the clipboard string\n\nThe replacements will be empty in some cases."; ObjectID = "8JN-Ub-qkc"; */
-"8JN-Ub-qkc.title" = "Můžete použít tyto zkratky:\n\n%n představuje název souboru\n%e představuje příponu\n%p představuje nadřazenou složku\n%c představuje množství souborů\n%d představuje dnešní datum\n%t představuje the aktuální čas\n%s představuje sdílený název\n%i% představuje název první položky\n%ia% představuje první název po seřazení\n%pb% bude nahrazena textovým obsahem schránky\n\nNěkteré z těchto zkratek mohou být za určitých podmínek i prázdné.";
+"8JN-Ub-qkc.title" = "Můžete použít tyto zkratky:\n\n%n představuje název souboru\n%e představuje příponu\n%p představuje nadřazenou složku\n%c představuje množství souborů\n%d představuje dnešní datum\n%t představuje aktuální čas\n%s představuje sdílený název\n%i% představuje název první položky\n%ia% představuje první název po seřazení\n%pb% bude nahrazena textovým obsahem schránky\n\nNěkteré z těchto zkratek mohou být za určitých podmínek i prázdné.";
 
 /* Class = "NSButtonCell"; title = "Use unified toolbar (resets customizations)"; ObjectID = "8Uc-pg-EyS"; */
-"8Uc-pg-EyS.title" = "Použít sjednocený panel nástrojů (obnoví vaše změny panelu)";
+"8Uc-pg-EyS.title" = "Použít sjednocený panel nástrojů (zruší vlastní úpravy)";
 
 /* Class = "NSTextFieldCell"; title = "Fallback folder:"; ObjectID = "9dE-yV-N3K"; */
 "9dE-yV-N3K.title" = "Nouzová složka:";
@@ -153,10 +153,10 @@
 "9ul-2H-k9o.title" = "Použít výchozí heslo v novém rozšířeném okně";
 
 /* Class = "NSButtonCell"; title = "Show \"encrypt with default password\" items"; ObjectID = "AU8-I0-71W"; */
-"AU8-I0-71W.title" = "Zobrazit zabezpečit s výchozím heslem";
+"AU8-I0-71W.title" = "Zobrazit položku „Zašifrovat výchozím heslem“";
 
 /* Class = "NSButtonCell"; title = "Create solid archives if possible"; ObjectID = "B4J-qZ-sDA"; */
-"B4J-qZ-sDA.title" = "Create solid archives if possible";
+"B4J-qZ-sDA.title" = "Pokud možno komprimovat jako jeden spojitý soubor";
 
 /* Class = "NSMenuItem"; title = "Custom folder..."; ObjectID = "CWc-wN-FhI"; */
 "CWc-wN-FhI.title" = "Vlastní složka…";
@@ -168,7 +168,7 @@
 "DAr-Td-s5W.title" = "Rozbalování je nenáročné na energii, proto můžete i při použití více jader toto číslo nastavit na dva nebo tři. Tyto operace ale mohou zatěžovat cílový disk.";
 
 /* Class = "NSButtonCell"; title = "Use resizable windows"; ObjectID = "DCA-p1-1uq"; */
-"DCA-p1-1uq.title" = "Použít okna s proměnnou velikostí";
+"DCA-p1-1uq.title" = "Použít okna s nastavitelnou velikostí";
 
 /* Class = "NSButtonCell"; title = "Ask before quitting with operations"; ObjectID = "DJT-wB-bCM"; */
 "DJT-wB-bCM.title" = "Zeptat se před ukončením, pokud probíhají operace";
@@ -186,7 +186,7 @@
 "Ei5-Ya-HGI.title" = "Při komprimaci více souborů použít vlastní název";
 
 /* Class = "NSButtonCell"; title = "Activate Keka when starting a new operation"; ObjectID = "FMT-Gs-iEi"; */
-"FMT-Gs-iEi.title" = "Při nové operaci, převést program Keka do popředí";
+"FMT-Gs-iEi.title" = "Při zahájení nové operace aktivovat aplikaci Keka";
 
 /* Class = "NSTextFieldCell"; title = "Tasks priority (QoS):"; ObjectID = "G1T-Qd-OZi"; */
 "G1T-Qd-OZi.title" = "Priorita úloh (QoS):";
@@ -213,7 +213,7 @@
 "JxT-Nq-8Z5.title" = "Pokud chcete Keka používat s externími disky připojenými přes rozhraní USB nebo Thunderbolt, udělte přístup k externím diskům.";
 
 /* Class = "NSTextFieldCell"; title = "Lower priority results in longer times. The lowest priority on Apple Silicon equipped Macs will only use \"Efficiency\" cores, resulting in longer but more energy efficient tasks.\nAlready running tasks priority will not be modified."; ObjectID = "Jyq-vC-L5r"; */
-"Jyq-vC-L5r.title" = "Nízká priorita = delší čas. Nejnižší priorita na počítačích s procesory Apple Silicon použije pouze „úsporná“ jádra, výsledkem bude delší čas, ale efektivnější využítí energie.\nPrioritu již běžících procesů nelze měnit.";
+"Jyq-vC-L5r.title" = "Nízká priorita = delší čas. Nejnižší priorita na počítačích s procesory Apple Silicon použije pouze „úsporná“ jádra, výsledkem bude delší čas, ale efektivnější využití energie.\nPrioritu již běžících procesů nelze měnit.";
 
 /* Class = "NSTextFieldCell"; title = "Queue compression operations:"; ObjectID = "K5h-j5-bss"; */
 "K5h-j5-bss.title" = "Řazení komprimace do fronty operací:";
@@ -246,7 +246,7 @@
 "TLc-Nk-Bps.placeholderString" = "Zadejte vlastní název";
 
 /* Class = "NSButtonCell"; title = "Always ask for a password when compressing"; ObjectID = "TZN-PU-t5N"; */
-"TZN-PU-t5N.title" = "Př komprimaci vždy požadovat heslo";
+"TZN-PU-t5N.title" = "Při komprimaci vždy požadovat heslo";
 
 /* Class = "NSMenuItem"; title = "Lower"; ObjectID = "Vss-gS-NkP"; */
 "Vss-gS-NkP.title" = "Nižší";
@@ -279,16 +279,16 @@
 "aOv-6b-JlO.title" = "Zobrazit heslo";
 
 /* Class = "NSButtonCell"; title = "Use parent folder name when compressing multiple files"; ObjectID = "cDs-NB-2os"; */
-"cDs-NB-2os.title" = "Při komprimaci více souborů použít název složky";
+"cDs-NB-2os.title" = "Použít název nadřazené složky";
 
 /* Class = "NSTextFieldCell"; title = "The fallback folder will be used when Keka can't work in the selected folder."; ObjectID = "caX-B6-61f"; */
-"caX-B6-61f.title" = "Tuto složku Keka použije, pokud nebude mít k nějaké složce přístup.";
+"caX-B6-61f.title" = "Tuto složku Keka použije, pokud nebude mít k cílové složce přístup.";
 
 /* Class = "NSButtonCell"; title = "Maximum threads per operation:"; ObjectID = "cb7-h4-ScP"; */
 "cb7-h4-ScP.title" = "Nejvyšší počet vláken na operaci:";
 
 /* Class = "NSButtonCell"; title = "Use short tarball extensions (eg: .tgz instead of .tar.gz)"; ObjectID = "cfd-8g-kiU"; */
-"cfd-8g-kiU.title" = "Použít zkrácené přípony tarball (např.: .tgz namísto .tar.gz)";
+"cfd-8g-kiU.title" = "Použít zkrácené přípony pro tarball (např.: .tgz místo .tar.gz)";
 
 /* Class = "NSButtonCell"; title = "Checking the extension status"; ObjectID = "chn-AV-kXZ"; */
 "chn-AV-kXZ.title" = "Ověřuje se stav přípony";
@@ -306,7 +306,7 @@
 "eBj-1b-wBg.title" = "Nastavit datum změny složky na datum rozbalení";
 
 /* Class = "NSButtonCell"; title = "Always tarball non-archiving formats (like GZ or BZIP2) "; ObjectID = "faa-9Y-Axk"; */
-"faa-9Y-Axk.title" = "Při vytváření tarball nepoužívat archivační formáty (GZ a BZIP2) ";
+"faa-9Y-Axk.title" = "Vždy vytvořit tarball z nearchivních formátů (např. GZ, BZIP2)";
 
 /* Class = "NSTextFieldCell"; title = "Queue extraction operations:"; ObjectID = "fhN-DK-edu"; */
 "fhN-DK-edu.title" = "Řazení rozbalování do fronty operací:";
@@ -330,7 +330,7 @@
 "otI-Pt-BTh.title" = "Řazení do fronty operací:";
 
 /* Class = "NSTextFieldCell"; title = "Keep source extension:"; ObjectID = "p5F-63-ubE"; */
-"p5F-63-ubE.title" = "Použít výchozí příponu souboru:";
+"p5F-63-ubE.title" = "Zachovat původní příponu:";
 
 /* Class = "NSButtonCell"; title = "Always extract in a subfolder"; ObjectID = "pXT-7y-9af"; */
 "pXT-7y-9af.title" = "Vždy rozbalit do podsložky";
@@ -369,7 +369,7 @@
 "wgz-2S-eXI.title" = "Rozšíření Finderu musíte povolit v  → Předvolby systému → Rozšíření.";
 
 /* Class = "NSTextFieldCell"; title = "Most operations use multiple threads. That means faster operations but also more power consumption and heat."; ObjectID = "xyb-eH-aiy"; */
-"xyb-eH-aiy.title" = "Pro většinu operací se kvůli výkonu používá více vláken. To ale může vést k vyšší spotřebě energie.";
+"xyb-eH-aiy.title" = "Pro většinu operací se kvůli výkonu používá více vláken. To může vést k vyšší spotřebě energie.";
 
 /* Class = "NSButtonCell"; title = "Maximum simultaneous extractions:"; ObjectID = "yGo-Gm-0zq"; */
 "yGo-Gm-0zq.title" = "Nejvyšší počet souběžných rozbalování:";
@@ -378,7 +378,7 @@
 "zPq-ei-qUb.title" = "Řazení většinou vede k rychlejším operacím a lepší odezvě.";
 
 /* Class = "NSButtonCell"; title = "Try the default password when extracting any file"; ObjectID = "zRi-PC-AW9"; */
-"zRi-PC-AW9.title" = "Při rozbalování každého souboru zkusit použít výchozí heslo";
+"zRi-PC-AW9.title" = "Při rozbalování zkusit výchozí heslo";
 
 /* Class = "NSButtonCell"; title = "Automatically install new updates"; ObjectID = "zTa-p3-fHX"; */
 "zTa-p3-fHX.title" = "Automaticky instalovat aktualizace";
