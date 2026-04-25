@@ -1,0 +1,81 @@
+
+/* Usually leave this one in English */
+"NSHumanReadableCopyright" = "Copyright © 2009-2026 aONe";
+
+/* Spotlight keywords */
+"MDItemKeywords" = "บีบอัด, คลายบีบอัด, แตกไฟล์, โปรแกรมบีบอัด, โปรแกรมแตกไฟล์, ขยาย, เข้ารหัส, ถอดรหัส, ไฟล์เก็บถาวร, ไฟล์";
+
+/* Access request descriptions */
+"NSDesktopFolderUsageDescription" = "Keka ต้องการสิทธิ์เข้าถึงเดสก์ท็อปเพื่อทำงานกับไฟล์";
+"NSDocumentsFolderUsageDescription" = "Keka ต้องการสิทธิ์เข้าถึงเอกสารเพื่อทำงานกับไฟล์";
+"NSDownloadsFolderUsageDescription" = "Keka ต้องการสิทธิ์เข้าถึงดาวน์โหลดเพื่อทำงานกับไฟล์";
+"NSNetworkVolumesUsageDescription" = "Keka ต้องการสิทธิ์เข้าถึงโวลุ่มเครือข่ายเพื่อทำงานกับไฟล์";
+"NSRemovableVolumesUsageDescription" = "Keka ต้องการสิทธิ์เข้าถึงโวลุ่มแบบถอดได้เพื่อทำงานกับไฟล์";
+
+/* File types */
+"7Z Archive" = "ไฟล์เก็บถาวร 7Z";
+"LZMA Archive" = "ไฟล์เก็บถาวร LZMA";
+"LZOP Archive" = "ไฟล์เก็บถาวร LZOP";
+"LZOP Tarball Archive" = "ไฟล์เก็บถาวร Tarball LZOP";
+"LZIP Archive" = "ไฟล์เก็บถาวร LZIP";
+"LZIP Tarball Archive" = "ไฟล์เก็บถาวร Tarball LZIP";
+"LZ4 Archive" = "ไฟล์เก็บถาวร LZ4";
+"LZ4 Tarball Archive" = "ไฟล์เก็บถาวร Tarball LZ4";
+"ZIP Archive" = "ไฟล์เก็บถาวร ZIP";
+"ZIPX Archive" = "ไฟล์เก็บถาวร ZIPX";
+"XZ Archive" = "ไฟล์เก็บถาวร XZ";
+"XZ Tarball Archive" = "ไฟล์เก็บถาวร Tarball XZ";
+"Brotli Archive" = "ไฟล์เก็บถาวร Brotli";
+"Brotli Tarball Archive" = "ไฟล์เก็บถาวร Tarball Brotli";
+"Zstandard Archive" = "ไฟล์เก็บถาวร Zstandard";
+"Zstandard Tarball Archive" = "ไฟล์เก็บถาวร Tarball Zstandard";
+"RAR Archive" = "ไฟล์เก็บถาวร RAR";
+"RAR Legacy Archive Volume" = "โวลุ่มไฟล์เก็บถาวร Legacy RAR";
+"Generic Archive Volume" = "โวลุ่มไฟล์เก็บถาวร Generic";
+"BZIP2 Archive" = "ไฟล์เก็บถาวร BZIP2";
+"BZIP2 Tarball Archive" = "ไฟล์เก็บถาวร Tarball BZIP2";
+"BZIP Archive" = "ไฟล์เก็บถาวร BZIP";
+"BZIP Tarball Archive" = "ไฟล์เก็บถาวร Tarball BZIP";
+"GZIP Archive" = "ไฟล์เก็บถาวร GZIP";
+"GZIP Tarball Archive" = "ไฟล์เก็บถาวร Tarball GZIP";
+"TAR Archive" = "ไฟล์เก็บถาวร TAR";
+"LRZIP Archive" = "ไฟล์เก็บถาวร LRZIP";
+"LRZIP Tarball Archive" = "ไฟล์เก็บถาวร Tarball LRZIP";
+"CPIO Archive" = "ไฟล์เก็บถาวร CPIO";
+"CPGZ Archive" = "ไฟล์เก็บถาวร CPGZ";
+"PAX Archive" = "ไฟล์เก็บถาวร PAX";
+"DMG Disk Image" = "ดิสก์อิมเมจ DMG";
+"ISO Disk Image" = "ดิสก์อิมเมจ ISO";
+"LHA Archive" = "ไฟล์เก็บถาวร LHA";
+"Windows EXE File" = "ไฟล์ EXE ของ Windows";
+"Windows Cabinet File" = "ไฟล์ Cabinet ของ Windows";
+"Windows Installer Package" = "แพ็กเกจติดตั้ง Windows";
+"WIM Disk Image" = "ดิสก์อิมเมจ WIM";
+"Comic Book RAR Archive" = "ไฟล์เก็บถาวร Comic Book RAR";
+"Comic Book ZIP Archive" = "ไฟล์เก็บถาวร Comic Book ZIP";
+"Commodore Amiga MOD Archive" = "ไฟล์เก็บถาวร Commodore Amiga MOD";
+"iOS App" = "แอป iOS";
+"JAR Archive" = "ไฟล์เก็บถาวร JAR";
+"WAR Archive" = "ไฟล์เก็บถาวร WAR";
+"Compact Pro Archive" = "ไฟล์เก็บถาวร Compact Pro";
+"Synology Package Archive" = "ไฟล์เก็บถาวรแพ็กเกจ Synology";
+"Android Application Package" = "แพ็กเกจแอป Android";
+"Cross-Platform Installer Module (XPI)" = "โมดูลติดตั้งข้ามแพลตฟอร์ม (XPI)";
+"APPX Archive" = "ไฟล์เก็บถาวร APPX";
+"Safari extension" = "ส่วนขยาย Safari";
+"ACE Archive" = "ไฟล์เก็บถาวร ACE";
+"XIP Secure Archive" = "ไฟล์เก็บถาวร XIP Secure";
+"XAR Archive" = "ไฟล์เก็บถาวร XAR";
+"Electronic Book" = "หนังสืออิเล็กทรอนิกส์";
+"Apple Archive" = "ไฟล์เก็บถาวร Apple";
+"Apple Encrypted Archive" = "ไฟล์เก็บถาวร Apple ที่เข้ารหัส";
+"Squashfs Filesystem Archive" = "ไฟล์เก็บถาวรระบบไฟล์ Squashfs";
+"WordPress All-in-One Backup" = "ข้อมูลสำรอง WordPress All-in-One";
+"InstallShield 3 Archive" = "ไฟล์เก็บถาวร InstallShield 3";
+"Snappy Archive" = "ไฟล์เก็บถาวร Snappy";
+"Snappy Tarball Archive" = "ไฟล์เก็บถาวร Tarball Snappy";
+"Apple iWork Archive" = "ไฟล์เก็บถาวร Apple iWork";
+"Delta Controller Skin" = "สกินคอนโทรลเลอร์ Delta";
+"Zipped Web Archive Collection" = "คอลเลกชันไฟล์เว็บที่บีบอัด";
+"Keka Extraction Package" = "แพ็กเกจแตกไฟล์ Keka";
+"Data" = "ข้อมูล";

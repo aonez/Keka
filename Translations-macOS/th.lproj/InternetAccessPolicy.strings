@@ -1,0 +1,19 @@
+
+/*
+//
+// This file is for Little Snitch's IAP: https://r.keka.io/IAP
+// Currently Little Snitch is only translated in English and German, so will not use any other localizations.
+//
+// If you're translating other than English or German, you can dismiss this file or translate it in case they
+// add some more languages in the future.
+//
+*/
+
+/* Top-level, general application description: */
+"ApplicationDescription" = "Keka เป็นโปรแกรมจัดการไฟล์เก็บถาวรสำหรับ macOS";
+
+/* Software update connection: */
+"SoftwareUpdatePurpose" = "Keka ตรวจหาเวอร์ชันใหม่โดยเชื่อมต่อกับ u(pdate).keka.io";
+"SoftwareUpdateDenyConsequences" = "หากคุณปฏิเสธการเชื่อมต่อนี้ คุณจะไม่ได้รับการแจ้งเตือนเกี่ยวกับ Keka เวอร์ชันใหม่";
+"SoftwareUpdateGithubPurpose" = "Keka ดาวน์โหลดเวอร์ชันใหม่จาก repository ที่ github.com/aonez/Keka";
+"SoftwareUpdateGithubDenyConsequences" = "หากคุณปฏิเสธการเชื่อมต่อนี้ คุณจะไม่สามารถดาวน์โหลด Keka เวอร์ชันใหม่ได้";

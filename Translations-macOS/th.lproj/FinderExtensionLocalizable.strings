@@ -1,0 +1,13 @@
+"Open with Keka" = "เปิดด้วย Keka";
+"Compress here" = "บีบอัดที่นี่";
+"Compress to..." = "บีบอัดเป็น...";
+"Encrypt here" = "เข้ารหัสที่นี่";
+"Encrypt to..." = "เข้ารหัสเป็น...";
+"Compress the contents of the folder here" = "บีบอัดเนื้อหาในโฟลเดอร์ที่นี่";
+"Compress the contents of the folder to..." = "บีบอัดเนื้อหาในโฟลเดอร์เป็น...";
+"Encrypt with the default password here" = "เข้ารหัสด้วยรหัสผ่านเริ่มต้นที่นี่";
+"Encrypt with the default password to..." = "เข้ารหัสด้วยรหัสผ่านเริ่มต้นเป็น...";
+"Extract here" = "แตกไฟล์ที่นี่";
+"Extract to..." = "แตกไฟล์ไปยัง...";
+"Extract to \"%@\"" = "แตกไฟล์ไปยัง \"%@\"";
+"Compress with Keka" = "บีบอัดด้วย Keka";

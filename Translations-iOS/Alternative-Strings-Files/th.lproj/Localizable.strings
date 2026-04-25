@@ -1,0 +1,693 @@
+/* No comment provided by engineer. */
+"%@ item" = "%@ รายการ";
+
+/* No comment provided by engineer. */
+"%@ items" = "%@ รายการ";
+
+/* _OPERATION_ of "_FILENAME_" failed */
+"%@ of \"%@\" failed" = "การดำเนินการ %@ กับ \"%@\" ล้มเหลว";
+
+/* No comment provided by engineer. */
+"%@ of %@ item" = "%@ จาก %@ รายการ";
+
+/* No comment provided by engineer. */
+"%@ of %@ items" = "%@ จาก %@ รายการ";
+
+/* No comment provided by engineer. */
+"%@." = "%@.";
+
+/* No comment provided by engineer. */
+"%lld items" = "%lld รายการ";
+
+/* No comment provided by engineer. */
+"%lld seconds" = "%lld วินาที";
+
+/* No comment provided by engineer. */
+"%lld:%@ minutes" = "%lld:%@ นาที";
+
+/* No comment provided by engineer. */
+"%lld:%@:%@ hours" = "%lld:%@:%@ ชั่วโมง";
+
+/* No comment provided by engineer. */
+"About" = "เกี่ยวกับ";
+
+/* No comment provided by engineer. */
+"About %lld days" = "ประมาณ %lld วัน";
+
+/* No comment provided by engineer. */
+"About %lld hours" = "ประมาณ %lld ชั่วโมง";
+
+/* No comment provided by engineer. */
+"About %lld minutes" = "ประมาณ %lld นาที";
+
+/* No comment provided by engineer. */
+"About %lld months" = "ประมาณ %lld เดือน";
+
+/* No comment provided by engineer. */
+"About %lld seconds" = "ประมาณ %lld วินาที";
+
+/* No comment provided by engineer. */
+"About %lld weeks" = "ประมาณ %lld สัปดาห์";
+
+/* No comment provided by engineer. */
+"About %lld years" = "ประมาณ %lld ปี";
+
+/* No comment provided by engineer. */
+"About a day" = "ประมาณหนึ่งวัน";
+
+/* No comment provided by engineer. */
+"About a minute" = "ประมาณหนึ่งนาที";
+
+/* No comment provided by engineer. */
+"About a month" = "ประมาณหนึ่งเดือน";
+
+/* No comment provided by engineer. */
+"About a second" = "ประมาณหนึ่งวินาที";
+
+/* No comment provided by engineer. */
+"About a week" = "ประมาณหนึ่งสัปดาห์";
+
+/* No comment provided by engineer. */
+"About a year" = "ประมาณหนึ่งปี";
+
+/* No comment provided by engineer. */
+"About an hour" = "ประมาณหนึ่งชั่วโมง";
+
+/* No comment provided by engineer. */
+"Actions" = "การทำงาน";
+
+/* No comment provided by engineer. */
+"Actions to do with the current browsed file" = "การทำงานกับไฟล์ที่กำลังเรียกดู";
+
+/* No comment provided by engineer. */
+"Add a File" = "เพิ่มไฟล์";
+
+/* No comment provided by engineer. */
+"Add a Folder" = "เพิ่มโฟลเดอร์";
+
+/* No comment provided by engineer. */
+"Add a Photo or Video" = "เพิ่มรูปภาพหรือวิดีโอ";
+
+/* No comment provided by engineer. */
+"Add files and folders to a compression list" = "เพิ่มไฟล์และโฟลเดอร์ไปยังรายการบีบอัด";
+
+/* No comment provided by engineer. */
+"Add some contents using the %@ button." = "เพิ่มเนื้อหาโดยใช้ปุ่ม %@";
+
+/* No comment provided by engineer. */
+"Advanced Settings" = "การตั้งค่าขั้นสูง";
+
+/* No comment provided by engineer. */
+"Allocated size" = "ขนาดที่จัดสรร";
+
+/* Appearance settings title. */
+"Appearance" = "ลักษณะ";
+
+/* No comment provided by engineer. */
+"archive" = "ไฟล์เก็บถาวร";
+
+/* No comment provided by engineer. */
+"Archive items separately" = "เก็บแต่ละรายการแยกกัน";
+
+/* Default compression file name. */
+"ARCHIVE_DEFAULT_NAME" = "ไฟล์เก็บถาวร";
+
+/* No comment provided by engineer. */
+"Ask" = "ถาม";
+
+/* Browse, operation description. */
+"BROWSE_OPERATION" = "เรียกดู";
+
+/* Browsing, operation running. */
+"BROWSE_RUNNING" = "กำลังเรียกดู";
+
+/* Browsing, tasks section title. */
+"BROWSE_SECTION_TITLE" = "กำลังเรียกดู";
+
+/* Browser settings title. */
+"Browser" = "ตัวเรียกดู";
+
+/* "by aone" part from "Made with love by aone". */
+"by %@" = "โดย %@";
+
+/* No comment provided by engineer. */
+"Bytes" = "ไบต์";
+
+/* No comment provided by engineer. */
+"Calculate" = "คำนวณ";
+
+/* No comment provided by engineer. */
+"Cancel" = "ยกเลิก";
+
+/* No comment provided by engineer. */
+"Cancelled" = "ยกเลิกแล้ว";
+
+/* No comment provided by engineer. */
+"Choose" = "เลือก";
+
+/* No comment provided by engineer. */
+"Clear Cache" = "ล้างแคช";
+
+/* No comment provided by engineer. */
+"Clear Cache Contents" = "ล้างเนื้อหาแคช";
+
+/* No comment provided by engineer. */
+"Close" = "ปิด";
+
+/* No comment provided by engineer. */
+"Comments" = "ความคิดเห็น";
+
+/* No comment provided by engineer. */
+"Compress" = "บีบอัด";
+
+/* No comment provided by engineer. */
+"compress" = "บีบอัด";
+
+/* No comment provided by engineer. */
+"Compress all the items in the compression list" = "บีบอัดรายการทั้งหมดในรายการบีบอัด";
+
+/* No comment provided by engineer. */
+"Compress Files with Keka" = "บีบอัดไฟล์ด้วย Keka";
+
+/* No comment provided by engineer. */
+"Compress some files with Keka." = "บีบอัดไฟล์บางไฟล์ด้วย Keka";
+
+/* No comment provided by engineer. */
+"compressed" = "บีบอัดแล้ว";
+
+/* No comment provided by engineer. */
+"Compressed size" = "ขนาดที่บีบอัดแล้ว";
+
+/* Compression settings title. */
+"Compression" = "การบีบอัด";
+
+/* No comment provided by engineer. */
+"compression" = "การบีบอัด";
+
+/* No comment provided by engineer. */
+"compression failed" = "บีบอัดล้มเหลว";
+
+/* No comment provided by engineer. */
+"Compression Level:" = "ระดับการบีบอัด:";
+
+/* Compression, operation description. */
+"COMPRESSION_OPERATION" = "การบีบอัด";
+
+/* Compressing, operation running. */
+"COMPRESSION_RUNNING" = "กำลังบีบอัด";
+
+/* Compressing, tasks section title. */
+"COMPRESSION_SECTION_TITLE" = "กำลังบีบอัด";
+
+/* No comment provided by engineer. */
+"Contents" = "เนื้อหา";
+
+/* No comment provided by engineer. */
+"Contents: %@, Size: %@" = "เนื้อหา: %@, ขนาด: %@";
+
+/* No comment provided by engineer. */
+"Contents: %lld, Size: %@" = "เนื้อหา: %lld, ขนาด: %@";
+
+/* No comment provided by engineer. */
+"Created" = "สร้างเมื่อ";
+
+/* No comment provided by engineer. */
+"Custom…" = "กำหนดเอง…";
+
+/* No comment provided by engineer. */
+"Date" = "วันที่";
+
+/* No comment provided by engineer. */
+"Default Compression Level" = "ระดับการบีบอัดเริ่มต้น";
+
+/* No comment provided by engineer. */
+"Default Destination" = "ปลายทางเริ่มต้น";
+
+/* No comment provided by engineer. */
+"Default Format" = "รูปแบบเริ่มต้น";
+
+/* No comment provided by engineer. */
+"Default Tap Action" = "การทำงานเมื่อแตะเริ่มต้น";
+
+/* No comment provided by engineer. */
+"Default Volume Unit" = "หน่วยขนาดโวลุ่มเริ่มต้น";
+
+/* No comment provided by engineer. */
+"Delete" = "ลบ";
+
+/* No comment provided by engineer. */
+"Delete files(s) after compression" = "ลบไฟล์หลังบีบอัด";
+
+/* No comment provided by engineer. */
+"Destination" = "ปลายทาง";
+
+/* No comment provided by engineer. */
+"Disable \"%@\" if you prefer to use a default configuration." = "ปิด \"%@\" หากต้องการใช้การตั้งค่าเริ่มต้น";
+
+/* No comment provided by engineer. */
+"Dismiss" = "ปิด";
+
+/* No comment provided by engineer. */
+"Document" = "เอกสาร";
+
+/* No comment provided by engineer. */
+"Documents" = "เอกสาร";
+
+/* No comment provided by engineer. */
+"Done" = "เสร็จสิ้น";
+
+/* No comment provided by engineer. */
+"done" = "เสร็จแล้ว";
+
+/* No comment provided by engineer. */
+"Downloads" = "ดาวน์โหลด";
+
+/* No comment provided by engineer. */
+"Edit" = "แก้ไข";
+
+/* No comment provided by engineer. */
+"Encrypt Filenames" = "เข้ารหัสชื่อไฟล์";
+
+/* No comment provided by engineer. */
+"Encrypt Filenames if Possible" = "เข้ารหัสชื่อไฟล์หากทำได้";
+
+/* No comment provided by engineer. */
+"Enter the password for the file\n\"%@\"" = "ป้อนรหัสผ่านสำหรับไฟล์\n\"%@\"";
+
+/* No comment provided by engineer. */
+"Exclude Mac resource forks" = "ไม่รวม resource forks ของ Mac";
+
+/* No comment provided by engineer. */
+"Extract" = "แตกไฟล์";
+
+/* No comment provided by engineer. */
+"extract" = "แตกไฟล์";
+
+/* No comment provided by engineer. */
+"Extract Files with Keka" = "แตกไฟล์ด้วย Keka";
+
+/* No comment provided by engineer. */
+"Extract some files with Keka." = "แตกไฟล์บางไฟล์ด้วย Keka";
+
+/* No comment provided by engineer. */
+"extracted" = "แตกไฟล์แล้ว";
+
+/* Extraction settings title. */
+"Extraction" = "การแตกไฟล์";
+
+/* No comment provided by engineer. */
+"extraction" = "การแตกไฟล์";
+
+/* No comment provided by engineer. */
+"extraction failed" = "แตกไฟล์ล้มเหลว";
+
+/* Extraction, operation description. */
+"EXTRACTION_OPERATION" = "การแตกไฟล์";
+
+/* Extracting, operation running. */
+"EXTRACTION_RUNNING" = "กำลังแตกไฟล์";
+
+/* Extracting, tasks section title. */
+"EXTRACTION_SECTION_TITLE" = "กำลังแตกไฟล์";
+
+/* No comment provided by engineer. */
+"failed" = "ล้มเหลว";
+
+/* No comment provided by engineer. */
+"Fast" = "เร็ว";
+
+/* No comment provided by engineer. */
+"Fastest" = "เร็วที่สุด";
+
+/* No comment provided by engineer. */
+"Feedback" = "ข้อเสนอแนะ";
+
+/* No comment provided by engineer. */
+"file" = "ไฟล์";
+
+/* No comment provided by engineer. */
+"File for Keka" = "ไฟล์สำหรับ Keka";
+
+/* No comment provided by engineer. */
+"File not informed properly, try again." = "ข้อมูลไฟล์ไม่ถูกต้อง โปรดลองอีกครั้ง";
+
+/* No comment provided by engineer. */
+"Files" = "ไฟล์";
+
+/* No comment provided by engineer. */
+"Files and Folders" = "ไฟล์และโฟลเดอร์";
+
+/* No comment provided by engineer. */
+"Finishing" = "กำลังเสร็จสิ้น";
+
+/* No comment provided by engineer. */
+"Folder drop is only supported on iOS 16 or newer" = "การวางโฟลเดอร์รองรับเฉพาะ iOS 16 หรือใหม่กว่า";
+
+/* No comment provided by engineer. */
+"Format" = "รูปแบบ";
+
+/* General settings title. */
+"General" = "ทั่วไป";
+
+/* No comment provided by engineer. */
+"Get Info" = "ดูข้อมูล";
+
+/* No comment provided by engineer. */
+"Gigabyte" = "กิกะไบต์";
+
+/* No comment provided by engineer. */
+"Give Access" = "ให้สิทธิ์เข้าถึง";
+
+/* No comment provided by engineer. */
+"Hide Password by Default" = "ซ่อนรหัสผ่านเป็นค่าเริ่มต้น";
+
+/* No comment provided by engineer. */
+"If you got here, please get in touch with the developers." = "หากคุณมาถึงจุดนี้ โปรดติดต่อผู้พัฒนา";
+
+/* No comment provided by engineer. */
+"Information" = "ข้อมูล";
+
+/* No comment provided by engineer. */
+"Keka's Folder" = "โฟลเดอร์ของ Keka";
+
+/* No comment provided by engineer. */
+"Keka's icon" = "ไอคอนของ Keka";
+
+/* No comment provided by engineer. */
+"Kilobytes" = "กิโลไบต์";
+
+/* No comment provided by engineer. */
+"Kind" = "ชนิด";
+
+/* No comment provided by engineer. */
+"Last opened" = "เปิดล่าสุด";
+
+/* No comment provided by engineer. */
+"Level" = "ระดับ";
+
+/* No comment provided by engineer. */
+"Loading" = "กำลังโหลด";
+
+/* "Made with" part from "Made with love by aone". */
+"Made with" = "สร้างด้วย";
+
+/* No comment provided by engineer. */
+"Megabytes" = "เมกะไบต์";
+
+/* No comment provided by engineer. */
+"Modified" = "แก้ไขเมื่อ";
+
+/* No comment provided by engineer. */
+"Move compressed file(s) to Trash after extraction" = "ย้ายไฟล์บีบอัดไปถังขยะหลังแตกไฟล์";
+
+/* No comment provided by engineer. */
+"Move original file(s) to Trash after compression" = "ย้ายไฟล์ต้นฉบับไปถังขยะหลังบีบอัด";
+
+/* No comment provided by engineer. */
+"Name" = "ชื่อ";
+
+/* No comment provided by engineer. */
+"New Compression" = "การบีบอัดใหม่";
+
+/* No comment provided by engineer. */
+"No archive selected" = "ไม่ได้เลือกไฟล์เก็บถาวร";
+
+/* No comment provided by engineer. */
+"No contents" = "ไม่มีเนื้อหา";
+
+/* No comment provided by engineer. */
+"No files to extract" = "ไม่มีไฟล์ให้แตก";
+
+/* Password field empty placeholder */
+"None" = "ไม่มี";
+
+/* No comment provided by engineer. */
+"Normal" = "ปกติ";
+
+/* No comment provided by engineer. */
+"Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files." = "ไม่ใช่ทุกแพลตฟอร์มที่รองรับการเข้ารหัส AES-256 คุณอาจต้องใช้แอปของบุคคลที่สาม (เช่น Keka) เพื่อเปิดไฟล์บีบอัดเหล่านี้";
+
+/* No comment provided by engineer. */
+"OK" = "ตกลง";
+
+/* No comment provided by engineer. */
+"Open" = "เปิด";
+
+/* No comment provided by engineer. */
+"Open Keka" = "เปิด Keka";
+
+/* No comment provided by engineer. */
+"Open…" = "เปิด…";
+
+/* No comment provided by engineer. */
+"Order" = "ลำดับ";
+
+/* No comment provided by engineer. */
+"Password" = "รหัสผ่าน";
+
+/* No comment provided by engineer. */
+"Password for \"%@\"" = "รหัสผ่านสำหรับ \"%@\"";
+
+/* No comment provided by engineer. */
+"Password needed" = "ต้องใช้รหัสผ่าน";
+
+/* No comment provided by engineer. */
+"Password Protected" = "ป้องกันด้วยรหัสผ่าน";
+
+/* No comment provided by engineer. */
+"Pause" = "หยุดพัก";
+
+/* No comment provided by engineer. */
+"Petabytes" = "เพตะไบต์";
+
+/* No comment provided by engineer. */
+"Please enter the password for:" = "โปรดป้อนรหัสผ่านสำหรับ:";
+
+/* No comment provided by engineer. */
+"Please select the encoding for:" = "โปรดเลือก encoding สำหรับ:";
+
+/* No comment provided by engineer. */
+"Preparing" = "กำลังเตรียม";
+
+/* No comment provided by engineer. */
+"Preview" = "ดูตัวอย่าง";
+
+/* No comment provided by engineer. */
+"Quick Look" = "Quick Look";
+
+/* No comment provided by engineer. */
+"Remember Last Used Options" = "จดจำตัวเลือกที่ใช้ล่าสุด";
+
+/* No comment provided by engineer. */
+"Remove" = "เอาออก";
+
+/* No comment provided by engineer. */
+"Remove All Items" = "เอารายการทั้งหมดออก";
+
+/* No comment provided by engineer. */
+"Remove from cache" = "เอาออกจากแคช";
+
+/* No comment provided by engineer. */
+"Remove the selected items from the compression list" = "เอารายการที่เลือกออกจากรายการบีบอัด";
+
+/* No comment provided by engineer. */
+"Reset" = "รีเซ็ต";
+
+/* No comment provided by engineer. */
+"Reset All Settings" = "รีเซ็ตการตั้งค่าทั้งหมด";
+
+/* No comment provided by engineer. */
+"Resume" = "ทำต่อ";
+
+/* No comment provided by engineer. */
+"Review" = "รีวิว";
+
+/* No comment provided by engineer. */
+"Run asynchronously" = "ทำงานแบบอะซิงโครนัส";
+
+/* No comment provided by engineer. */
+"Save" = "บันทึก";
+
+/* No comment provided by engineer. */
+"Select some files and folders for Keka." = "เลือกไฟล์และโฟลเดอร์สำหรับ Keka";
+
+/* No comment provided by engineer. */
+"Settings" = "การตั้งค่า";
+
+/* No comment provided by engineer. */
+"Share" = "แชร์";
+
+/* No comment provided by engineer. */
+"Share…" = "แชร์…";
+
+/* No comment provided by engineer. */
+"Show Advanced Settings" = "แสดงการตั้งค่าขั้นสูง";
+
+/* No comment provided by engineer. */
+"Show Info" = "แสดงข้อมูล";
+
+/* No comment provided by engineer. */
+"Show Less" = "แสดงน้อยลง";
+
+/* No comment provided by engineer. */
+"Show or hide additional advanced settings" = "แสดงหรือซ่อนการตั้งค่าขั้นสูงเพิ่มเติม";
+
+/* No comment provided by engineer. */
+"Show or hide additional information about the selected item" = "แสดงหรือซ่อนข้อมูลเพิ่มเติมเกี่ยวกับรายการที่เลือก";
+
+/* No comment provided by engineer. */
+"Size" = "ขนาด";
+
+/* No comment provided by engineer. */
+"Slow" = "ช้า";
+
+/* No comment provided by engineer. */
+"Slowest" = "ช้าที่สุด";
+
+/* No comment provided by engineer. */
+"Split in volumes" = "แบ่งเป็นโวลุ่ม";
+
+/* No comment provided by engineer. */
+"Store" = "เก็บอย่างเดียว";
+
+/* No comment provided by engineer. */
+"Terabytes" = "เทระไบต์";
+
+/* No comment provided by engineer. */
+"The %@ of space available in the destination might not be enough for compressing the estimated %@." = "พื้นที่ว่าง %@ ในปลายทางอาจไม่พอสำหรับการบีบอัดที่ประเมินไว้ %@";
+
+/* No comment provided by engineer. */
+"The changes could not be saved" = "ไม่สามารถบันทึกการเปลี่ยนแปลงได้";
+
+/* No comment provided by engineer. */
+"The character %@ is not compatible with the %@ format." = "อักขระ %@ ไม่รองรับกับรูปแบบ %@";
+
+/* No comment provided by engineer. */
+"The characters %@ are not compatible with the %@ format." = "อักขระ %@ ไม่รองรับกับรูปแบบ %@";
+
+/* No comment provided by engineer. */
+"The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." = "การบีบอัดอาจต้องใช้หน่วยความจำมากกว่าที่มีอยู่ (%@) และอาจไม่สำเร็จ จะจำกัดไว้ที่ 1 เธรด";
+
+/* No comment provided by engineer. */
+"The compression will be limited to %lld thread/s due to memory constraints." = "การบีบอัดจะถูกจำกัดไว้ที่ %lld เธรดเนื่องจากข้อจำกัดหน่วยความจำ";
+
+/* No comment provided by engineer. */
+"The destination has %@ of space available." = "ปลายทางมีพื้นที่ว่าง %@";
+
+/* No comment provided by engineer. */
+"The file manager for iOS and macOS" = "ตัวจัดการไฟล์สำหรับ iOS และ macOS";
+
+/* No comment provided by engineer. */
+"The folder is empty" = "โฟลเดอร์ว่างเปล่า";
+
+/* No comment provided by engineer. */
+"The password length should be %lld or higher." = "ความยาวรหัสผ่านควรเป็น %lld ขึ้นไป";
+
+/* No comment provided by engineer. */
+"The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." = "ยิ่งระดับช้าเท่าใดก็ยิ่งบีบอัดได้มากขึ้น ระดับเก็บอย่างเดียวจะไม่บีบอัดเลย เพียงเก็บเนื้อหาไว้ในไฟล์";
+
+/* No comment provided by engineer. */
+"This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "ไฟล์โวลุ่มนี้ต้องมีสิทธิ์เข้าถึงไฟล์เพิ่มเติมจึงจะเปิดได้\nคุณสามารถให้สิทธิ์เข้าถึงไฟล์ที่เหลือหรือโฟลเดอร์แม่ได้";
+
+/* No comment provided by engineer. */
+"To be implemented" = "จะเพิ่มในอนาคต";
+
+/* No comment provided by engineer. */
+"To extract" = "เพื่อแตกไฟล์";
+
+/* No comment provided by engineer. */
+"To prevent a timeout on large operation, enable this setting. The result will always be true if enabled." = "เปิดใช้การตั้งค่านี้เพื่อป้องกัน timeout ในงานขนาดใหญ่ หากเปิดใช้ ผลลัพธ์จะเป็นจริงเสมอ";
+
+/* No comment provided by engineer. */
+"Total size" = "ขนาดรวม";
+
+/* No comment provided by engineer. */
+"Translated by %@" = "แปลโดย %@";
+
+/* The translator link, if any. Can be a mail address or a website. */
+"TRANSLATOR_LINK" = "https://github.com/pokpong007";
+
+/* The translator name, if any. */
+"TRANSLATOR_NAME" = "Pokpong Limpaphan (ปกป้อง ลิมปพันธุ์)";
+
+/* No comment provided by engineer. */
+"Try lowering the compression level, faster levels use less memory." = "ลองลดระดับการบีบอัด ระดับที่เร็วขึ้นใช้หน่วยความจำน้อยกว่า";
+
+/* No comment provided by engineer. */
+"Type" = "ประเภท";
+
+/* No comment provided by engineer. */
+"Unable to apply the app icon" = "ไม่สามารถใช้ไอคอนแอปได้";
+
+/* No comment provided by engineer. */
+"Unable to browse \"%@\"" = "ไม่สามารถเรียกดู \"%@\" ได้";
+
+/* No comment provided by engineer. */
+"Unable to delete the file" = "ไม่สามารถลบไฟล์ได้";
+
+/* No comment provided by engineer. */
+"Unable to determine the available space." = "ไม่สามารถระบุพื้นที่ว่างได้";
+
+/* No comment provided by engineer. */
+"Unable to get encoding data" = "ไม่สามารถรับข้อมูล encoding ได้";
+
+/* No comment provided by engineer. */
+"URL Encoded" = "เข้ารหัส URL";
+
+/* No comment provided by engineer. */
+"Use AES-256 Encryption" = "ใช้การเข้ารหัส AES-256";
+
+/* No comment provided by engineer. */
+"Use AES-256 if Available" = "ใช้ AES-256 หากมี";
+
+/* No comment provided by engineer. */
+"Use Binaries if Possible" = "ใช้ไบนารีหากทำได้";
+
+/* No comment provided by engineer. */
+"Use continuous background task" = "ใช้งานเบื้องหลังต่อเนื่อง";
+
+/* No comment provided by engineer. */
+"Use special coloring for known formats" = "ใช้สีพิเศษสำหรับรูปแบบที่รู้จัก";
+
+/* No comment provided by engineer. */
+"Use UTF-8 Encoding if Available" = "ใช้ encoding UTF-8 หากมี";
+
+/* No comment provided by engineer. */
+"Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly." = "การใช้ Keka ผ่าน actions และ extensions มีข้อจำกัดด้านหน่วยความจำ\nลองทำงานนี้โดยใช้ Keka โดยตรง";
+
+/* No comment provided by engineer. */
+"verification failed" = "ตรวจสอบล้มเหลว";
+
+/* No comment provided by engineer. */
+"verified" = "ตรวจสอบแล้ว";
+
+/* No comment provided by engineer. */
+"Verify compression integrity" = "ตรวจสอบความสมบูรณ์ของการบีบอัด";
+
+/* Verification, operation description. */
+"VERIFY_OPERATION" = "การตรวจสอบ";
+
+/* Verifying, operation running. */
+"VERIFY_RUNNING" = "กำลังตรวจสอบ";
+
+/* Verifying, tasks section title. */
+"VERIFY_SECTION_TITLE" = "กำลังตรวจสอบ";
+
+/* No comment provided by engineer. */
+"Verify…" = "ตรวจสอบ…";
+
+/* No comment provided by engineer. */
+"Volume Size" = "ขนาดโวลุ่ม";
+
+/* No comment provided by engineer. */
+"Volume Unit" = "หน่วยโวลุ่ม";
+
+/* No comment provided by engineer. */
+"Welcome" = "ยินดีต้อนรับ";
+
+/* The "Welcome to Keka" title. */
+"Welcome to %@" = "ยินดีต้อนรับสู่ %@";
+
+/* No comment provided by engineer. */
+"Where" = "ตำแหน่ง";
+

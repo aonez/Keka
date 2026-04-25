@@ -1,0 +1,1511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Keka/en.lproj/AppShortcuts.strings" source-language="en" target-language="th" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
+    </header>
+    <body>
+      <trans-unit id="Compress Files with ${applicationName}" xml:space="preserve">
+        <source>Compress Files with ${applicationName}</source>
+        <target>บีบอัดไฟล์ด้วย ${applicationName}</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Extract Files with ${applicationName}" xml:space="preserve">
+        <source>Extract Files with ${applicationName}</source>
+        <target>แตกไฟล์ด้วย ${applicationName}</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Keka/en.lproj/InfoPlist.strings" source-language="en" target-language="th" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
+    </header>
+    <body>
+      <trans-unit id="7Z Archive" xml:space="preserve">
+        <source>7Z Archive</source>
+        <target>ไฟล์เก็บถาวร 7Z</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ACE Archive" xml:space="preserve">
+        <source>ACE Archive</source>
+        <target>ไฟล์เก็บถาวร ACE</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ALZip Archive" xml:space="preserve">
+        <source>ALZip Archive</source>
+        <target>ไฟล์เก็บถาวร ALZip</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="APPX Archive" xml:space="preserve">
+        <source>APPX Archive</source>
+        <target>ไฟล์เก็บถาวร APPX</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ARC Archive" xml:space="preserve">
+        <source>ARC Archive</source>
+        <target>ไฟล์เก็บถาวร ARC</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ARJ Archive" xml:space="preserve">
+        <source>ARJ Archive</source>
+        <target>ไฟล์เก็บถาวร ARJ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Amiga DCS Disk Archive" xml:space="preserve">
+        <source>Amiga DCS Disk Archive</source>
+        <target>ไฟล์เก็บถาวรดิสก์ Amiga DCS</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Amiga DMS Disk Archive" xml:space="preserve">
+        <source>Amiga DMS Disk Archive</source>
+        <target>ไฟล์เก็บถาวรดิสก์ Amiga DMS</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Amiga Disk File" xml:space="preserve">
+        <source>Amiga Disk File</source>
+        <target>ไฟล์ดิสก์ Amiga</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Amiga PackDev Disk Archive" xml:space="preserve">
+        <source>Amiga PackDev Disk Archive</source>
+        <target>ไฟล์เก็บถาวรดิสก์ Amiga PackDev</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Amiga PowerPacker Archive" xml:space="preserve">
+        <source>Amiga PowerPacker Archive</source>
+        <target>ไฟล์เก็บถาวร Amiga PowerPacker</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Amiga Zoom Disk Archive" xml:space="preserve">
+        <source>Amiga Zoom Disk Archive</source>
+        <target>ไฟล์เก็บถาวรดิสก์ Amiga Zoom</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Amiga xMash Disk Archive" xml:space="preserve">
+        <source>Amiga xMash Disk Archive</source>
+        <target>ไฟล์เก็บถาวรดิสก์ Amiga xMash</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Android Application Package" xml:space="preserve">
+        <source>Android Application Package</source>
+        <target>แพ็กเกจแอป Android</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Apple Archive" xml:space="preserve">
+        <source>Apple Archive</source>
+        <target>ไฟล์เก็บถาวร Apple</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="BZIP2 Archive" xml:space="preserve">
+        <source>BZIP2 Archive</source>
+        <target>ไฟล์เก็บถาวร BZIP2</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="BZIP2 Tarball Archive" xml:space="preserve">
+        <source>BZIP2 Tarball Archive</source>
+        <target>ไฟล์เก็บถาวร Tarball BZIP2</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="CAB Archive" xml:space="preserve">
+        <source>CAB Archive</source>
+        <target>ไฟล์เก็บถาวร CAB</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="CDI Disk Image" xml:space="preserve">
+        <source>CDI Disk Image</source>
+        <target>ดิสก์อิมเมจ CDI</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Compact Pro Archive" xml:space="preserve">
+        <source>Compact Pro Archive</source>
+        <target>ไฟล์เก็บถาวร Compact Pro</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Compressed Amiga Disk File" xml:space="preserve">
+        <source>Compressed Amiga Disk File</source>
+        <target>ไฟล์ดิสก์ Amiga ที่บีบอัด</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Deb Archive" xml:space="preserve">
+        <source>Deb Archive</source>
+        <target>ไฟล์เก็บถาวร Deb</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DiskDoubler Archive" xml:space="preserve">
+        <source>DiskDoubler Archive</source>
+        <target>ไฟล์เก็บถาวร DiskDoubler</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Generic Archive Volume" xml:space="preserve">
+        <source>Generic Archive Volume</source>
+        <target>โวลุ่มไฟล์เก็บถาวร Generic</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="HA Archive" xml:space="preserve">
+        <source>HA Archive</source>
+        <target>ไฟล์เก็บถาวร HA</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Keka Extraction Package" xml:space="preserve">
+        <source>Keka Extraction Package</source>
+        <target>แพ็กเกจแตกไฟล์ Keka</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="LBR Archive" xml:space="preserve">
+        <source>LBR Archive</source>
+        <target>ไฟล์เก็บถาวร LBR</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="LZMA File" xml:space="preserve">
+        <source>LZMA File</source>
+        <target>ไฟล์ LZMA</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="LZX Archive" xml:space="preserve">
+        <source>LZX Archive</source>
+        <target>ไฟล์เก็บถาวร LZX</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="LhA Archive" xml:space="preserve">
+        <source>LhA Archive</source>
+        <target>ไฟล์เก็บถาวร LhA</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="LhF Archive" xml:space="preserve">
+        <source>LhF Archive</source>
+        <target>ไฟล์เก็บถาวร LhF</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Linux RPM Archive" xml:space="preserve">
+        <source>Linux RPM Archive</source>
+        <target>ไฟล์เก็บถาวร Linux RPM</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="MDF Disk Image" xml:space="preserve">
+        <source>MDF Disk Image</source>
+        <target>ดิสก์อิมเมจ MDF</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Microsoft MSI Installer" xml:space="preserve">
+        <source>Microsoft MSI Installer</source>
+        <target>ตัวติดตั้ง Microsoft MSI</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="NRG Disk Image" xml:space="preserve">
+        <source>NRG Disk Image</source>
+        <target>ดิสก์อิมเมจ NRG</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="NSA Archive" xml:space="preserve">
+        <source>NSA Archive</source>
+        <target>ไฟล์เก็บถาวร NSA</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Now Compress Archive" xml:space="preserve">
+        <source>Now Compress Archive</source>
+        <target>ไฟล์เก็บถาวร Now Compress</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="PMA Archive" xml:space="preserve">
+        <source>PMA Archive</source>
+        <target>ไฟล์เก็บถาวร PMA</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="PackIt Archive" xml:space="preserve">
+        <source>PackIt Archive</source>
+        <target>ไฟล์เก็บถาวร PackIt</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Pax Archive" xml:space="preserve">
+        <source>Pax Archive</source>
+        <target>ไฟล์เก็บถาวร Pax</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="RAR Archive" xml:space="preserve">
+        <source>RAR Archive</source>
+        <target>ไฟล์เก็บถาวร RAR</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="SAR Archive" xml:space="preserve">
+        <source>SAR Archive</source>
+        <target>ไฟล์เก็บถาวร SAR</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Self-Extracting Archive" xml:space="preserve">
+        <source>Self-Extracting Archive</source>
+        <target>ไฟล์เก็บถาวรแบบแตกตัวเอง</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unix Compress File" xml:space="preserve">
+        <source>Unix Compress File</source>
+        <target>ไฟล์ Unix Compress</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unix Compress Tar Archive" xml:space="preserve">
+        <source>Unix Compress Tar Archive</source>
+        <target>ไฟล์เก็บถาวร Unix Compress Tar</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="WARC Web Archive" xml:space="preserve">
+        <source>WARC Web Archive</source>
+        <target>ไฟล์เว็บเก็บถาวร WARC</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="XAR Archive" xml:space="preserve">
+        <source>XAR Archive</source>
+        <target>ไฟล์เก็บถาวร XAR</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="XIP Archive" xml:space="preserve">
+        <source>XIP Archive</source>
+        <target>ไฟล์เก็บถาวร XIP</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="XZ Archive" xml:space="preserve">
+        <source>XZ Archive</source>
+        <target>ไฟล์เก็บถาวร XZ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="XZ Tarball Archive" xml:space="preserve">
+        <source>XZ Tarball Archive</source>
+        <target>ไฟล์เก็บถาวร Tarball XZ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ZIP Archive" xml:space="preserve">
+        <source>ZIP Archive</source>
+        <target>ไฟล์เก็บถาวร ZIP</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ZIPX Archive" xml:space="preserve">
+        <source>ZIPX Archive</source>
+        <target>ไฟล์เก็บถาวร ZIPX</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ZOO Archive" xml:space="preserve">
+        <source>ZOO Archive</source>
+        <target>ไฟล์เก็บถาวร ZOO</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Zstandard Archive" xml:space="preserve">
+        <source>Zstandard Archive</source>
+        <target>ไฟล์เก็บถาวร Zstandard</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Zstandard Tarball Archive" xml:space="preserve">
+        <source>Zstandard Tarball Archive</source>
+        <target>ไฟล์เก็บถาวร Tarball Zstandard</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Keka/en.lproj/Localizable.strings" source-language="en" target-language="th" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
+    </header>
+    <body>
+      <trans-unit id="%@" xml:space="preserve">
+        <source>%@</source>
+        <target>%@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ item" xml:space="preserve">
+        <source>%@ item</source>
+        <target>%@ รายการ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ items" xml:space="preserve">
+        <source>%@ items</source>
+        <target>%@ รายการ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ of &quot;%@&quot; failed" xml:space="preserve">
+        <source>%@ of "%@" failed</source>
+        <target>การดำเนินการ %@ กับ "%@" ล้มเหลว</target>
+        <note>_OPERATION_ of "_FILENAME_" failed</note>
+      </trans-unit>
+      <trans-unit id="%@ of %@ item" xml:space="preserve">
+        <source>%@ of %@ item</source>
+        <target>%@ จาก %@ รายการ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ of %@ items" xml:space="preserve">
+        <source>%@ of %@ items</source>
+        <target>%@ จาก %@ รายการ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@." xml:space="preserve">
+        <source>%@.</source>
+        <target>%@.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%lld items" xml:space="preserve">
+        <source>%lld items</source>
+        <target>%lld รายการ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%lld seconds" xml:space="preserve">
+        <source>%lld seconds</source>
+        <target>%lld วินาที</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%lld:%@ minutes" xml:space="preserve">
+        <source>%lld:%@ minutes</source>
+        <target>%lld:%@ นาที</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%lld:%@:%@ hours" xml:space="preserve">
+        <source>%lld:%@:%@ hours</source>
+        <target>%lld:%@:%@ ชั่วโมง</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ARCHIVE_DEFAULT_NAME" xml:space="preserve">
+        <source>Archive</source>
+        <target>ไฟล์เก็บถาวร</target>
+        <note>Default compression file name.</note>
+      </trans-unit>
+      <trans-unit id="About" xml:space="preserve">
+        <source>About</source>
+        <target>เกี่ยวกับ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About %lld days" xml:space="preserve">
+        <source>About %lld days</source>
+        <target>ประมาณ %lld วัน</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About %lld hours" xml:space="preserve">
+        <source>About %lld hours</source>
+        <target>ประมาณ %lld ชั่วโมง</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About %lld minutes" xml:space="preserve">
+        <source>About %lld minutes</source>
+        <target>ประมาณ %lld นาที</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About %lld months" xml:space="preserve">
+        <source>About %lld months</source>
+        <target>ประมาณ %lld เดือน</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About %lld seconds" xml:space="preserve">
+        <source>About %lld seconds</source>
+        <target>ประมาณ %lld วินาที</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About %lld weeks" xml:space="preserve">
+        <source>About %lld weeks</source>
+        <target>ประมาณ %lld สัปดาห์</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About %lld years" xml:space="preserve">
+        <source>About %lld years</source>
+        <target>ประมาณ %lld ปี</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About a day" xml:space="preserve">
+        <source>About a day</source>
+        <target>ประมาณหนึ่งวัน</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About a minute" xml:space="preserve">
+        <source>About a minute</source>
+        <target>ประมาณหนึ่งนาที</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About a month" xml:space="preserve">
+        <source>About a month</source>
+        <target>ประมาณหนึ่งเดือน</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About a second" xml:space="preserve">
+        <source>About a second</source>
+        <target>ประมาณหนึ่งวินาที</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About a week" xml:space="preserve">
+        <source>About a week</source>
+        <target>ประมาณหนึ่งสัปดาห์</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About a year" xml:space="preserve">
+        <source>About a year</source>
+        <target>ประมาณหนึ่งปี</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="About an hour" xml:space="preserve">
+        <source>About an hour</source>
+        <target>ประมาณหนึ่งชั่วโมง</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Actions" xml:space="preserve">
+        <source>Actions</source>
+        <target>การทำงาน</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Actions to do with the current browsed file" xml:space="preserve">
+        <source>Actions to do with the current browsed file</source>
+        <target>การทำงานกับไฟล์ที่กำลังเรียกดู</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add a File" xml:space="preserve">
+        <source>Add a File</source>
+        <target>เพิ่มไฟล์</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add a Folder" xml:space="preserve">
+        <source>Add a Folder</source>
+        <target>เพิ่มโฟลเดอร์</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add a Photo or Video" xml:space="preserve">
+        <source>Add a Photo or Video</source>
+        <target>เพิ่มรูปภาพหรือวิดีโอ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add files and folders to a compression list" xml:space="preserve">
+        <source>Add files and folders to a compression list</source>
+        <target>เพิ่มไฟล์และโฟลเดอร์ไปยังรายการบีบอัด</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add some contents using the %@ button." xml:space="preserve">
+        <source>Add some contents using the %@ button.</source>
+        <target>เพิ่มเนื้อหาโดยใช้ปุ่ม %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Advanced Settings" xml:space="preserve">
+        <source>Advanced Settings</source>
+        <target>การตั้งค่าขั้นสูง</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Allocated size" xml:space="preserve">
+        <source>Allocated size</source>
+        <target>ขนาดที่จัดสรร</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Appearance" xml:space="preserve">
+        <source>Appearance</source>
+        <target>ลักษณะ</target>
+        <note>Appearance settings title.</note>
+      </trans-unit>
+      <trans-unit id="Archive items separately" xml:space="preserve">
+        <source>Archive items separately</source>
+        <target>เก็บแต่ละรายการแยกกัน</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Ask" xml:space="preserve">
+        <source>Ask</source>
+        <target>ถาม</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="BROWSE_OPERATION" xml:space="preserve">
+        <source>Browse</source>
+        <target>เรียกดู</target>
+        <note>Browse, operation description.</note>
+      </trans-unit>
+      <trans-unit id="BROWSE_RUNNING" xml:space="preserve">
+        <source>Browsing</source>
+        <target>กำลังเรียกดู</target>
+        <note>Browsing, operation running.</note>
+      </trans-unit>
+      <trans-unit id="BROWSE_SECTION_TITLE" xml:space="preserve">
+        <source>Browsing</source>
+        <target>กำลังเรียกดู</target>
+        <note>Browsing, tasks section title.</note>
+      </trans-unit>
+      <trans-unit id="Browser" xml:space="preserve">
+        <source>Browser</source>
+        <target>ตัวเรียกดู</target>
+        <note>Browser settings title.</note>
+      </trans-unit>
+      <trans-unit id="Bytes" xml:space="preserve">
+        <source>Bytes</source>
+        <target>ไบต์</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="COMPRESSION_OPERATION" xml:space="preserve">
+        <source>Compression</source>
+        <target>การบีบอัด</target>
+        <note>Compression, operation description.</note>
+      </trans-unit>
+      <trans-unit id="COMPRESSION_RUNNING" xml:space="preserve">
+        <source>Compressing</source>
+        <target>กำลังบีบอัด</target>
+        <note>Compressing, operation running.</note>
+      </trans-unit>
+      <trans-unit id="COMPRESSION_SECTION_TITLE" xml:space="preserve">
+        <source>Compressing</source>
+        <target>กำลังบีบอัด</target>
+        <note>Compressing, tasks section title.</note>
+      </trans-unit>
+      <trans-unit id="Calculate" xml:space="preserve">
+        <source>Calculate</source>
+        <target>คำนวณ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cancel" xml:space="preserve">
+        <source>Cancel</source>
+        <target>ยกเลิก</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cancelled" xml:space="preserve">
+        <source>Cancelled</source>
+        <target>ยกเลิกแล้ว</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Choose" xml:space="preserve">
+        <source>Choose</source>
+        <target>เลือก</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Clear Cache" xml:space="preserve">
+        <source>Clear Cache</source>
+        <target>ล้างแคช</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Clear Cache Contents" xml:space="preserve">
+        <source>Clear Cache Contents</source>
+        <target>ล้างเนื้อหาแคช</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Close" xml:space="preserve">
+        <source>Close</source>
+        <target>ปิด</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Comments" xml:space="preserve">
+        <source>Comments</source>
+        <target>ความคิดเห็น</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Compress" xml:space="preserve">
+        <source>Compress</source>
+        <target>บีบอัด</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Compress Files with Keka" xml:space="preserve">
+        <source>Compress Files with Keka</source>
+        <target>บีบอัดไฟล์ด้วย Keka</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Compress all the items in the compression list" xml:space="preserve">
+        <source>Compress all the items in the compression list</source>
+        <target>บีบอัดรายการทั้งหมดในรายการบีบอัด</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Compress some files with Keka." xml:space="preserve">
+        <source>Compress some files with Keka.</source>
+        <target>บีบอัดไฟล์บางไฟล์ด้วย Keka</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Compressed size" xml:space="preserve">
+        <source>Compressed size</source>
+        <target>ขนาดที่บีบอัดแล้ว</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Compression" xml:space="preserve">
+        <source>Compression</source>
+        <target>การบีบอัด</target>
+        <note>Compression settings title.</note>
+      </trans-unit>
+      <trans-unit id="Compression Level:" xml:space="preserve">
+        <source>Compression Level:</source>
+        <target>ระดับการบีบอัด:</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Contents" xml:space="preserve">
+        <source>Contents</source>
+        <target>เนื้อหา</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Contents: %@, Size: %@" xml:space="preserve">
+        <source>Contents: %@, Size: %@</source>
+        <target>เนื้อหา: %@, ขนาด: %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Contents: %lld, Size: %@" xml:space="preserve">
+        <source>Contents: %lld, Size: %@</source>
+        <target>เนื้อหา: %lld, ขนาด: %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Created" xml:space="preserve">
+        <source>Created</source>
+        <target>สร้างเมื่อ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Custom…" xml:space="preserve">
+        <source>Custom…</source>
+        <target>กำหนดเอง…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Date" xml:space="preserve">
+        <source>Date</source>
+        <target>วันที่</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Default Compression Level" xml:space="preserve">
+        <source>Default Compression Level</source>
+        <target>ระดับการบีบอัดเริ่มต้น</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Default Destination" xml:space="preserve">
+        <source>Default Destination</source>
+        <target>ปลายทางเริ่มต้น</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Default Format" xml:space="preserve">
+        <source>Default Format</source>
+        <target>รูปแบบเริ่มต้น</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Default Tap Action" xml:space="preserve">
+        <source>Default Tap Action</source>
+        <target>การทำงานเมื่อแตะเริ่มต้น</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Default Volume Unit" xml:space="preserve">
+        <source>Default Volume Unit</source>
+        <target>หน่วยขนาดโวลุ่มเริ่มต้น</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete" xml:space="preserve">
+        <source>Delete</source>
+        <target>ลบ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete files(s) after compression" xml:space="preserve">
+        <source>Delete files(s) after compression</source>
+        <target>ลบไฟล์หลังบีบอัด</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Destination" xml:space="preserve">
+        <source>Destination</source>
+        <target>ปลายทาง</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Disable &quot;%@&quot; if you prefer to use a default configuration." xml:space="preserve">
+        <source>Disable "%@" if you prefer to use a default configuration.</source>
+        <target>ปิด "%@" หากต้องการใช้การตั้งค่าเริ่มต้น</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Dismiss" xml:space="preserve">
+        <source>Dismiss</source>
+        <target>ปิด</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Document" xml:space="preserve">
+        <source>Document</source>
+        <target>เอกสาร</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Documents" xml:space="preserve">
+        <source>Documents</source>
+        <target>เอกสาร</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Done" xml:space="preserve">
+        <source>Done</source>
+        <target>เสร็จสิ้น</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Downloads" xml:space="preserve">
+        <source>Downloads</source>
+        <target>ดาวน์โหลด</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="EXTRACTION_OPERATION" xml:space="preserve">
+        <source>Extraction</source>
+        <target>การแตกไฟล์</target>
+        <note>Extraction, operation description.</note>
+      </trans-unit>
+      <trans-unit id="EXTRACTION_RUNNING" xml:space="preserve">
+        <source>Extracting</source>
+        <target>กำลังแตกไฟล์</target>
+        <note>Extracting, operation running.</note>
+      </trans-unit>
+      <trans-unit id="EXTRACTION_SECTION_TITLE" xml:space="preserve">
+        <source>Extracting</source>
+        <target>กำลังแตกไฟล์</target>
+        <note>Extracting, tasks section title.</note>
+      </trans-unit>
+      <trans-unit id="Edit" xml:space="preserve">
+        <source>Edit</source>
+        <target>แก้ไข</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Encrypt Filenames" xml:space="preserve">
+        <source>Encrypt Filenames</source>
+        <target>เข้ารหัสชื่อไฟล์</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Encrypt Filenames if Possible" xml:space="preserve">
+        <source>Encrypt Filenames if Possible</source>
+        <target>เข้ารหัสชื่อไฟล์หากทำได้</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Enter the password for the file&#10;&quot;%@&quot;" xml:space="preserve">
+        <source>Enter the password for the file
+"%@"</source>
+        <target>ป้อนรหัสผ่านสำหรับไฟล์
+"%@"</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Exclude Mac resource forks" xml:space="preserve">
+        <source>Exclude Mac resource forks</source>
+        <target>ไม่รวม resource forks ของ Mac</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Extract" xml:space="preserve">
+        <source>Extract</source>
+        <target>แตกไฟล์</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Extract Files with Keka" xml:space="preserve">
+        <source>Extract Files with Keka</source>
+        <target>แตกไฟล์ด้วย Keka</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Extract some files with Keka." xml:space="preserve">
+        <source>Extract some files with Keka.</source>
+        <target>แตกไฟล์บางไฟล์ด้วย Keka</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Extraction" xml:space="preserve">
+        <source>Extraction</source>
+        <target>การแตกไฟล์</target>
+        <note>Extraction settings title.</note>
+      </trans-unit>
+      <trans-unit id="Fast" xml:space="preserve">
+        <source>Fast</source>
+        <target>เร็ว</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Fastest" xml:space="preserve">
+        <source>Fastest</source>
+        <target>เร็วที่สุด</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Feedback" xml:space="preserve">
+        <source>Feedback</source>
+        <target>ข้อเสนอแนะ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="File for Keka" xml:space="preserve">
+        <source>File for Keka</source>
+        <target>ไฟล์สำหรับ Keka</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="File not informed properly, try again." xml:space="preserve">
+        <source>File not informed properly, try again.</source>
+        <target>ข้อมูลไฟล์ไม่ถูกต้อง โปรดลองอีกครั้ง</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Files" xml:space="preserve">
+        <source>Files</source>
+        <target>ไฟล์</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Files and Folders" xml:space="preserve">
+        <source>Files and Folders</source>
+        <target>ไฟล์และโฟลเดอร์</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Finishing" xml:space="preserve">
+        <source>Finishing</source>
+        <target>กำลังเสร็จสิ้น</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Folder drop is only supported on iOS 16 or newer" xml:space="preserve">
+        <source>Folder drop is only supported on iOS 16 or newer</source>
+        <target>การวางโฟลเดอร์รองรับเฉพาะ iOS 16 หรือใหม่กว่า</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Format" xml:space="preserve">
+        <source>Format</source>
+        <target>รูปแบบ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="General" xml:space="preserve">
+        <source>General</source>
+        <target>ทั่วไป</target>
+        <note>General settings title.</note>
+      </trans-unit>
+      <trans-unit id="Get Info" xml:space="preserve">
+        <source>Get Info</source>
+        <target>ดูข้อมูล</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Gigabyte" xml:space="preserve">
+        <source>Gigabyte</source>
+        <target>กิกะไบต์</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Give Access" xml:space="preserve">
+        <source>Give Access</source>
+        <target>ให้สิทธิ์เข้าถึง</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Hide Password by Default" xml:space="preserve">
+        <source>Hide Password by Default</source>
+        <target>ซ่อนรหัสผ่านเป็นค่าเริ่มต้น</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="If you got here, please get in touch with the developers." xml:space="preserve">
+        <source>If you got here, please get in touch with the developers.</source>
+        <target>หากคุณมาถึงจุดนี้ โปรดติดต่อผู้พัฒนา</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Information" xml:space="preserve">
+        <source>Information</source>
+        <target>ข้อมูล</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Keka's Folder" xml:space="preserve">
+        <source>Keka's Folder</source>
+        <target>โฟลเดอร์ของ Keka</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Keka's icon" xml:space="preserve">
+        <source>Keka's icon</source>
+        <target>ไอคอนของ Keka</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Kilobytes" xml:space="preserve">
+        <source>Kilobytes</source>
+        <target>กิโลไบต์</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Kind" xml:space="preserve">
+        <source>Kind</source>
+        <target>ชนิด</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Last opened" xml:space="preserve">
+        <source>Last opened</source>
+        <target>เปิดล่าสุด</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Level" xml:space="preserve">
+        <source>Level</source>
+        <target>ระดับ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Loading" xml:space="preserve">
+        <source>Loading</source>
+        <target>กำลังโหลด</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Made with" xml:space="preserve">
+        <source>Made with</source>
+        <target>สร้างด้วย</target>
+        <note>"Made with" part from "Made with love by aone".</note>
+      </trans-unit>
+      <trans-unit id="Megabytes" xml:space="preserve">
+        <source>Megabytes</source>
+        <target>เมกะไบต์</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Modified" xml:space="preserve">
+        <source>Modified</source>
+        <target>แก้ไขเมื่อ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Move compressed file(s) to Trash after extraction" xml:space="preserve">
+        <source>Move compressed file(s) to Trash after extraction</source>
+        <target>ย้ายไฟล์บีบอัดไปถังขยะหลังแตกไฟล์</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Move original file(s) to Trash after compression" xml:space="preserve">
+        <source>Move original file(s) to Trash after compression</source>
+        <target>ย้ายไฟล์ต้นฉบับไปถังขยะหลังบีบอัด</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Name" xml:space="preserve">
+        <source>Name</source>
+        <target>ชื่อ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="New Compression" xml:space="preserve">
+        <source>New Compression</source>
+        <target>การบีบอัดใหม่</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No archive selected" xml:space="preserve">
+        <source>No archive selected</source>
+        <target>ไม่ได้เลือกไฟล์เก็บถาวร</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No contents" xml:space="preserve">
+        <source>No contents</source>
+        <target>ไม่มีเนื้อหา</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No files to extract" xml:space="preserve">
+        <source>No files to extract</source>
+        <target>ไม่มีไฟล์ให้แตก</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="None" xml:space="preserve">
+        <source>None</source>
+        <target>ไม่มี</target>
+        <note>Password field empty placeholder</note>
+      </trans-unit>
+      <trans-unit id="Normal" xml:space="preserve">
+        <source>Normal</source>
+        <target>ปกติ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files." xml:space="preserve">
+        <source>Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files.</source>
+        <target>ไม่ใช่ทุกแพลตฟอร์มที่รองรับการเข้ารหัส AES-256 คุณอาจต้องใช้แอปของบุคคลที่สาม (เช่น Keka) เพื่อเปิดไฟล์บีบอัดเหล่านี้</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="OK" xml:space="preserve">
+        <source>OK</source>
+        <target>ตกลง</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Open" xml:space="preserve">
+        <source>Open</source>
+        <target>เปิด</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Open Keka" xml:space="preserve">
+        <source>Open Keka</source>
+        <target>เปิด Keka</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Open…" xml:space="preserve">
+        <source>Open…</source>
+        <target>เปิด…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Order" xml:space="preserve">
+        <source>Order</source>
+        <target>ลำดับ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Password" xml:space="preserve">
+        <source>Password</source>
+        <target>รหัสผ่าน</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Password Protected" xml:space="preserve">
+        <source>Password Protected</source>
+        <target>ป้องกันด้วยรหัสผ่าน</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Password for &quot;%@&quot;" xml:space="preserve">
+        <source>Password for "%@"</source>
+        <target>รหัสผ่านสำหรับ "%@"</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Password needed" xml:space="preserve">
+        <source>Password needed</source>
+        <target>ต้องใช้รหัสผ่าน</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Pause" xml:space="preserve">
+        <source>Pause</source>
+        <target>หยุดพัก</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Petabytes" xml:space="preserve">
+        <source>Petabytes</source>
+        <target>เพตะไบต์</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please enter the password for:" xml:space="preserve">
+        <source>Please enter the password for:</source>
+        <target>โปรดป้อนรหัสผ่านสำหรับ:</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please select the encoding for:" xml:space="preserve">
+        <source>Please select the encoding for:</source>
+        <target>โปรดเลือก encoding สำหรับ:</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Preparing" xml:space="preserve">
+        <source>Preparing</source>
+        <target>กำลังเตรียม</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Preview" xml:space="preserve">
+        <source>Preview</source>
+        <target>ดูตัวอย่าง</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Quick Look" xml:space="preserve">
+        <source>Quick Look</source>
+        <target>Quick Look</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Remember Last Used Options" xml:space="preserve">
+        <source>Remember Last Used Options</source>
+        <target>จดจำตัวเลือกที่ใช้ล่าสุด</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Remove" xml:space="preserve">
+        <source>Remove</source>
+        <target>เอาออก</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Remove All Items" xml:space="preserve">
+        <source>Remove All Items</source>
+        <target>เอารายการทั้งหมดออก</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Remove from cache" xml:space="preserve">
+        <source>Remove from cache</source>
+        <target>เอาออกจากแคช</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Remove the selected items from the compression list" xml:space="preserve">
+        <source>Remove the selected items from the compression list</source>
+        <target>เอารายการที่เลือกออกจากรายการบีบอัด</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Reset" xml:space="preserve">
+        <source>Reset</source>
+        <target>รีเซ็ต</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Reset All Settings" xml:space="preserve">
+        <source>Reset All Settings</source>
+        <target>รีเซ็ตการตั้งค่าทั้งหมด</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Resume" xml:space="preserve">
+        <source>Resume</source>
+        <target>ทำต่อ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Review" xml:space="preserve">
+        <source>Review</source>
+        <target>รีวิว</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Run asynchronously" xml:space="preserve">
+        <source>Run asynchronously</source>
+        <target>ทำงานแบบอะซิงโครนัส</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Save" xml:space="preserve">
+        <source>Save</source>
+        <target>บันทึก</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Select some files and folders for Keka." xml:space="preserve">
+        <source>Select some files and folders for Keka.</source>
+        <target>เลือกไฟล์และโฟลเดอร์สำหรับ Keka</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Settings" xml:space="preserve">
+        <source>Settings</source>
+        <target>การตั้งค่า</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Share" xml:space="preserve">
+        <source>Share</source>
+        <target>แชร์</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Share…" xml:space="preserve">
+        <source>Share…</source>
+        <target>แชร์…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Show Advanced Settings" xml:space="preserve">
+        <source>Show Advanced Settings</source>
+        <target>แสดงการตั้งค่าขั้นสูง</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Show Info" xml:space="preserve">
+        <source>Show Info</source>
+        <target>แสดงข้อมูล</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Show Less" xml:space="preserve">
+        <source>Show Less</source>
+        <target>แสดงน้อยลง</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Show or hide additional advanced settings" xml:space="preserve">
+        <source>Show or hide additional advanced settings</source>
+        <target>แสดงหรือซ่อนการตั้งค่าขั้นสูงเพิ่มเติม</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Show or hide additional information about the selected item" xml:space="preserve">
+        <source>Show or hide additional information about the selected item</source>
+        <target>แสดงหรือซ่อนข้อมูลเพิ่มเติมเกี่ยวกับรายการที่เลือก</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Size" xml:space="preserve">
+        <source>Size</source>
+        <target>ขนาด</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Slow" xml:space="preserve">
+        <source>Slow</source>
+        <target>ช้า</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Slowest" xml:space="preserve">
+        <source>Slowest</source>
+        <target>ช้าที่สุด</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Split in volumes" xml:space="preserve">
+        <source>Split in volumes</source>
+        <target>แบ่งเป็นโวลุ่ม</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Store" xml:space="preserve">
+        <source>Store</source>
+        <target>เก็บอย่างเดียว</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="TRANSLATOR_LINK" xml:space="preserve">
+        <source>TRANSLATOR_LINK</source>
+        <target>https://github.com/pokpong007</target>
+        <note>The translator link, if any. Can be a mail address or a website.</note>
+      </trans-unit>
+      <trans-unit id="TRANSLATOR_NAME" xml:space="preserve">
+        <source>TRANSLATOR_NAME</source>
+        <target>Pokpong Limpaphan (ปกป้อง ลิมปพันธุ์)</target>
+        <note>The translator name, if any.</note>
+      </trans-unit>
+      <trans-unit id="Terabytes" xml:space="preserve">
+        <source>Terabytes</source>
+        <target>เทระไบต์</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The %@ of space available in the destination might not be enough for compressing the estimated %@." xml:space="preserve">
+        <source>The %@ of space available in the destination might not be enough for compressing the estimated %@.</source>
+        <target>พื้นที่ว่าง %@ ในปลายทางอาจไม่พอสำหรับการบีบอัดที่ประเมินไว้ %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The changes could not be saved" xml:space="preserve">
+        <source>The changes could not be saved</source>
+        <target>ไม่สามารถบันทึกการเปลี่ยนแปลงได้</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The character %@ is not compatible with the %@ format." xml:space="preserve">
+        <source>The character %@ is not compatible with the %@ format.</source>
+        <target>อักขระ %@ ไม่รองรับกับรูปแบบ %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The characters %@ are not compatible with the %@ format." xml:space="preserve">
+        <source>The characters %@ are not compatible with the %@ format.</source>
+        <target>อักขระ %@ ไม่รองรับกับรูปแบบ %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." xml:space="preserve">
+        <source>The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread.</source>
+        <target>การบีบอัดอาจต้องใช้หน่วยความจำมากกว่าที่มีอยู่ (%@) และอาจไม่สำเร็จ จะจำกัดไว้ที่ 1 เธรด</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The compression will be limited to %lld thread/s due to memory constraints." xml:space="preserve">
+        <source>The compression will be limited to %lld thread/s due to memory constraints.</source>
+        <target>การบีบอัดจะถูกจำกัดไว้ที่ %lld เธรดเนื่องจากข้อจำกัดหน่วยความจำ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The destination has %@ of space available." xml:space="preserve">
+        <source>The destination has %@ of space available.</source>
+        <target>ปลายทางมีพื้นที่ว่าง %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The file manager for iOS and macOS" xml:space="preserve">
+        <source>The file manager for iOS and macOS</source>
+        <target>ตัวจัดการไฟล์สำหรับ iOS และ macOS</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The folder is empty" xml:space="preserve">
+        <source>The folder is empty</source>
+        <target>โฟลเดอร์ว่างเปล่า</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The password length should be %lld or higher." xml:space="preserve">
+        <source>The password length should be %lld or higher.</source>
+        <target>ความยาวรหัสผ่านควรเป็น %lld ขึ้นไป</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." xml:space="preserve">
+        <source>The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents.</source>
+        <target>ยิ่งระดับช้าเท่าใดก็ยิ่งบีบอัดได้มากขึ้น ระดับเก็บอย่างเดียวจะไม่บีบอัดเลย เพียงเก็บเนื้อหาไว้ในไฟล์</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This volume file needs additional files access to be opened.&#10;You can give access to the rest of the files or the parent folder." xml:space="preserve">
+        <source>This volume file needs additional files access to be opened.
+You can give access to the rest of the files or the parent folder.</source>
+        <target>ไฟล์โวลุ่มนี้ต้องมีสิทธิ์เข้าถึงไฟล์เพิ่มเติมจึงจะเปิดได้
+คุณสามารถให้สิทธิ์เข้าถึงไฟล์ที่เหลือหรือโฟลเดอร์แม่ได้</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="To be implemented" xml:space="preserve">
+        <source>To be implemented</source>
+        <target>จะเพิ่มในอนาคต</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="To extract" xml:space="preserve">
+        <source>To extract</source>
+        <target>เพื่อแตกไฟล์</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="To prevent a timeout on large operation, enable this setting. The result will always be true if enabled." xml:space="preserve">
+        <source>To prevent a timeout on large operation, enable this setting. The result will always be true if enabled.</source>
+        <target>เปิดใช้การตั้งค่านี้เพื่อป้องกัน timeout ในงานขนาดใหญ่ หากเปิดใช้ ผลลัพธ์จะเป็นจริงเสมอ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Total size" xml:space="preserve">
+        <source>Total size</source>
+        <target>ขนาดรวม</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Translated by %@" xml:space="preserve">
+        <source>Translated by %@</source>
+        <target>แปลโดย %@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Try lowering the compression level, faster levels use less memory." xml:space="preserve">
+        <source>Try lowering the compression level, faster levels use less memory.</source>
+        <target>ลองลดระดับการบีบอัด ระดับที่เร็วขึ้นใช้หน่วยความจำน้อยกว่า</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Type" xml:space="preserve">
+        <source>Type</source>
+        <target>ประเภท</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="URL Encoded" xml:space="preserve">
+        <source>URL Encoded</source>
+        <target>เข้ารหัส URL</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unable to apply the app icon" xml:space="preserve">
+        <source>Unable to apply the app icon</source>
+        <target>ไม่สามารถใช้ไอคอนแอปได้</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unable to browse &quot;%@&quot;" xml:space="preserve">
+        <source>Unable to browse "%@"</source>
+        <target>ไม่สามารถเรียกดู "%@" ได้</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unable to delete the file" xml:space="preserve">
+        <source>Unable to delete the file</source>
+        <target>ไม่สามารถลบไฟล์ได้</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unable to determine the available space." xml:space="preserve">
+        <source>Unable to determine the available space.</source>
+        <target>ไม่สามารถระบุพื้นที่ว่างได้</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Unable to get encoding data" xml:space="preserve">
+        <source>Unable to get encoding data</source>
+        <target>ไม่สามารถรับข้อมูล encoding ได้</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Use AES-256 Encryption" xml:space="preserve">
+        <source>Use AES-256 Encryption</source>
+        <target>ใช้การเข้ารหัส AES-256</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Use AES-256 if Available" xml:space="preserve">
+        <source>Use AES-256 if Available</source>
+        <target>ใช้ AES-256 หากมี</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Use Binaries if Possible" xml:space="preserve">
+        <source>Use Binaries if Possible</source>
+        <target>ใช้ไบนารีหากทำได้</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Use UTF-8 Encoding if Available" xml:space="preserve">
+        <source>Use UTF-8 Encoding if Available</source>
+        <target>ใช้ encoding UTF-8 หากมี</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Use continuous background task" xml:space="preserve">
+        <source>Use continuous background task</source>
+        <target>ใช้งานเบื้องหลังต่อเนื่อง</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Use special coloring for known formats" xml:space="preserve">
+        <source>Use special coloring for known formats</source>
+        <target>ใช้สีพิเศษสำหรับรูปแบบที่รู้จัก</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Using Keka through actions and extensions have memory limitations.&#10;Try this operation using Keka directly." xml:space="preserve">
+        <source>Using Keka through actions and extensions have memory limitations.
+Try this operation using Keka directly.</source>
+        <target>การใช้ Keka ผ่าน actions และ extensions มีข้อจำกัดด้านหน่วยความจำ
+ลองทำงานนี้โดยใช้ Keka โดยตรง</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="VERIFY_OPERATION" xml:space="preserve">
+        <source>Verification</source>
+        <target>การตรวจสอบ</target>
+        <note>Verification, operation description.</note>
+      </trans-unit>
+      <trans-unit id="VERIFY_RUNNING" xml:space="preserve">
+        <source>Verifying</source>
+        <target>กำลังตรวจสอบ</target>
+        <note>Verifying, operation running.</note>
+      </trans-unit>
+      <trans-unit id="VERIFY_SECTION_TITLE" xml:space="preserve">
+        <source>Verifying</source>
+        <target>กำลังตรวจสอบ</target>
+        <note>Verifying, tasks section title.</note>
+      </trans-unit>
+      <trans-unit id="Verify compression integrity" xml:space="preserve">
+        <source>Verify compression integrity</source>
+        <target>ตรวจสอบความสมบูรณ์ของการบีบอัด</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Verify…" xml:space="preserve">
+        <source>Verify…</source>
+        <target>ตรวจสอบ…</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Volume Size" xml:space="preserve">
+        <source>Volume Size</source>
+        <target>ขนาดโวลุ่ม</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Volume Unit" xml:space="preserve">
+        <source>Volume Unit</source>
+        <target>หน่วยโวลุ่ม</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Welcome" xml:space="preserve">
+        <source>Welcome</source>
+        <target>ยินดีต้อนรับ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Welcome to %@" xml:space="preserve">
+        <source>Welcome to %@</source>
+        <target>ยินดีต้อนรับสู่ %@</target>
+        <note>The "Welcome to Keka" title.</note>
+      </trans-unit>
+      <trans-unit id="Where" xml:space="preserve">
+        <source>Where</source>
+        <target>ตำแหน่ง</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="archive" xml:space="preserve">
+        <source>archive</source>
+        <target>ไฟล์เก็บถาวร</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="by %@" xml:space="preserve">
+        <source>by %@</source>
+        <target>โดย %@</target>
+        <note>"by aone" part from "Made with love by aone".</note>
+      </trans-unit>
+      <trans-unit id="compress" xml:space="preserve">
+        <source>compress</source>
+        <target>บีบอัด</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="compressed" xml:space="preserve">
+        <source>compressed</source>
+        <target>บีบอัดแล้ว</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="compression" xml:space="preserve">
+        <source>compression</source>
+        <target>การบีบอัด</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="compression failed" xml:space="preserve">
+        <source>compression failed</source>
+        <target>บีบอัดล้มเหลว</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="done" xml:space="preserve">
+        <source>done</source>
+        <target>เสร็จแล้ว</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="extract" xml:space="preserve">
+        <source>extract</source>
+        <target>แตกไฟล์</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="extracted" xml:space="preserve">
+        <source>extracted</source>
+        <target>แตกไฟล์แล้ว</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="extraction" xml:space="preserve">
+        <source>extraction</source>
+        <target>การแตกไฟล์</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="extraction failed" xml:space="preserve">
+        <source>extraction failed</source>
+        <target>แตกไฟล์ล้มเหลว</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="failed" xml:space="preserve">
+        <source>failed</source>
+        <target>ล้มเหลว</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="file" xml:space="preserve">
+        <source>file</source>
+        <target>ไฟล์</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="verification failed" xml:space="preserve">
+        <source>verification failed</source>
+        <target>ตรวจสอบล้มเหลว</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="verified" xml:space="preserve">
+        <source>verified</source>
+        <target>ตรวจสอบแล้ว</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="KekaBrowseAction/en.lproj/InfoPlist.strings" source-language="en" target-language="th" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Browse with Keka</source>
+        <target>เรียกดูด้วย Keka</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="KekaCompressionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="th" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Compress using Keka</source>
+        <target>บีบอัดด้วย Keka</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="KekaExtractionAction/en.lproj/InfoPlist.strings" source-language="en" target-language="th" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Extract using Keka</source>
+        <target>แตกไฟล์ด้วย Keka</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
