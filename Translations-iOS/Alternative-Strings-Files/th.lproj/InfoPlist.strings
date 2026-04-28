@@ -1,0 +1,165 @@
+/* No comment provided by engineer. */
+"7Z Archive" = "ไฟล์เก็บถาวร 7Z";
+
+/* No comment provided by engineer. */
+"ACE Archive" = "ไฟล์เก็บถาวร ACE";
+
+/* No comment provided by engineer. */
+"ALZip Archive" = "ไฟล์เก็บถาวร ALZip";
+
+/* No comment provided by engineer. */
+"Amiga DCS Disk Archive" = "ไฟล์เก็บถาวรดิสก์ Amiga DCS";
+
+/* No comment provided by engineer. */
+"Amiga Disk File" = "ไฟล์ดิสก์ Amiga";
+
+/* No comment provided by engineer. */
+"Amiga DMS Disk Archive" = "ไฟล์เก็บถาวรดิสก์ Amiga DMS";
+
+/* No comment provided by engineer. */
+"Amiga PackDev Disk Archive" = "ไฟล์เก็บถาวรดิสก์ Amiga PackDev";
+
+/* No comment provided by engineer. */
+"Amiga PowerPacker Archive" = "ไฟล์เก็บถาวร Amiga PowerPacker";
+
+/* No comment provided by engineer. */
+"Amiga xMash Disk Archive" = "ไฟล์เก็บถาวรดิสก์ Amiga xMash";
+
+/* No comment provided by engineer. */
+"Amiga Zoom Disk Archive" = "ไฟล์เก็บถาวรดิสก์ Amiga Zoom";
+
+/* No comment provided by engineer. */
+"Android Application Package" = "แพ็กเกจแอป Android";
+
+/* No comment provided by engineer. */
+"Apple Archive" = "ไฟล์เก็บถาวร Apple";
+
+/* No comment provided by engineer. */
+"APPX Archive" = "ไฟล์เก็บถาวร APPX";
+
+/* No comment provided by engineer. */
+"ARC Archive" = "ไฟล์เก็บถาวร ARC";
+
+/* No comment provided by engineer. */
+"ARJ Archive" = "ไฟล์เก็บถาวร ARJ";
+
+/* No comment provided by engineer. */
+"BZIP2 Archive" = "ไฟล์เก็บถาวร BZIP2";
+
+/* No comment provided by engineer. */
+"BZIP2 Tarball Archive" = "ไฟล์เก็บถาวร Tarball BZIP2";
+
+/* No comment provided by engineer. */
+"CAB Archive" = "ไฟล์เก็บถาวร CAB";
+
+/* No comment provided by engineer. */
+"CDI Disk Image" = "ดิสก์อิมเมจ CDI";
+
+/* No comment provided by engineer. */
+"Compact Pro Archive" = "ไฟล์เก็บถาวร Compact Pro";
+
+/* No comment provided by engineer. */
+"Compressed Amiga Disk File" = "ไฟล์ดิสก์ Amiga ที่บีบอัด";
+
+/* No comment provided by engineer. */
+"Deb Archive" = "ไฟล์เก็บถาวร Deb";
+
+/* No comment provided by engineer. */
+"DiskDoubler Archive" = "ไฟล์เก็บถาวร DiskDoubler";
+
+/* No comment provided by engineer. */
+"Generic Archive Volume" = "โวลุ่มไฟล์เก็บถาวร Generic";
+
+/* No comment provided by engineer. */
+"HA Archive" = "ไฟล์เก็บถาวร HA";
+
+/* No comment provided by engineer. */
+"Keka Extraction Package" = "แพ็กเกจแตกไฟล์ Keka";
+
+/* No comment provided by engineer. */
+"LBR Archive" = "ไฟล์เก็บถาวร LBR";
+
+/* No comment provided by engineer. */
+"LhA Archive" = "ไฟล์เก็บถาวร LhA";
+
+/* No comment provided by engineer. */
+"LhF Archive" = "ไฟล์เก็บถาวร LhF";
+
+/* No comment provided by engineer. */
+"Linux RPM Archive" = "ไฟล์เก็บถาวร Linux RPM";
+
+/* No comment provided by engineer. */
+"LZMA File" = "ไฟล์ LZMA";
+
+/* No comment provided by engineer. */
+"LZX Archive" = "ไฟล์เก็บถาวร LZX";
+
+/* No comment provided by engineer. */
+"MDF Disk Image" = "ดิสก์อิมเมจ MDF";
+
+/* No comment provided by engineer. */
+"Microsoft MSI Installer" = "ตัวติดตั้ง Microsoft MSI";
+
+/* No comment provided by engineer. */
+"Now Compress Archive" = "ไฟล์เก็บถาวร Now Compress";
+
+/* No comment provided by engineer. */
+"NRG Disk Image" = "ดิสก์อิมเมจ NRG";
+
+/* No comment provided by engineer. */
+"NSA Archive" = "ไฟล์เก็บถาวร NSA";
+
+/* No comment provided by engineer. */
+"PackIt Archive" = "ไฟล์เก็บถาวร PackIt";
+
+/* No comment provided by engineer. */
+"Pax Archive" = "ไฟล์เก็บถาวร Pax";
+
+/* No comment provided by engineer. */
+"PMA Archive" = "ไฟล์เก็บถาวร PMA";
+
+/* No comment provided by engineer. */
+"RAR Archive" = "ไฟล์เก็บถาวร RAR";
+
+/* No comment provided by engineer. */
+"SAR Archive" = "ไฟล์เก็บถาวร SAR";
+
+/* No comment provided by engineer. */
+"Self-Extracting Archive" = "ไฟล์เก็บถาวรแบบแตกตัวเอง";
+
+/* No comment provided by engineer. */
+"Unix Compress File" = "ไฟล์ Unix Compress";
+
+/* No comment provided by engineer. */
+"Unix Compress Tar Archive" = "ไฟล์เก็บถาวร Unix Compress Tar";
+
+/* No comment provided by engineer. */
+"WARC Web Archive" = "ไฟล์เว็บเก็บถาวร WARC";
+
+/* No comment provided by engineer. */
+"XAR Archive" = "ไฟล์เก็บถาวร XAR";
+
+/* No comment provided by engineer. */
+"XIP Archive" = "ไฟล์เก็บถาวร XIP";
+
+/* No comment provided by engineer. */
+"XZ Archive" = "ไฟล์เก็บถาวร XZ";
+
+/* No comment provided by engineer. */
+"XZ Tarball Archive" = "ไฟล์เก็บถาวร Tarball XZ";
+
+/* No comment provided by engineer. */
+"ZIP Archive" = "ไฟล์เก็บถาวร ZIP";
+
+/* No comment provided by engineer. */
+"ZIPX Archive" = "ไฟล์เก็บถาวร ZIPX";
+
+/* No comment provided by engineer. */
+"ZOO Archive" = "ไฟล์เก็บถาวร ZOO";
+
+/* No comment provided by engineer. */
+"Zstandard Archive" = "ไฟล์เก็บถาวร Zstandard";
+
+/* No comment provided by engineer. */
+"Zstandard Tarball Archive" = "ไฟล์เก็บถาวร Tarball Zstandard";
+
