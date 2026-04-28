@@ -1,12 +1,12 @@
 {
-  "developmentRegion": "en",
-  "project": "Keka.xcodeproj",
-  "targetLocale": "th",
-  "toolInfo": {
-    "toolBuildNumber": "17A321",
-    "toolID": "com.apple.dt.xcode",
-    "toolName": "Xcode",
-    "toolVersion": "26.0"
+  "developmentRegion" : "en",
+  "project" : "Keka.xcodeproj",
+  "targetLocale" : "th",
+  "toolInfo" : {
+    "toolBuildNumber" : "17A400",
+    "toolID" : "com.apple.dt.xcode",
+    "toolName" : "Xcode",
+    "toolVersion" : "26.0.1"
   },
-  "version": "1.0"
+  "version" : "1.0"
 }
