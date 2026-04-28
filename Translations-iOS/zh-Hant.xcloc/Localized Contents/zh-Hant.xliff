@@ -1270,7 +1270,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="Try lowering the compression level, faster levels use less memory." xml:space="preserve">
         <source>Try lowering the compression level, faster levels use less memory.</source>
-        <target>請試著降低壓縮級別。較快的級別，使用的記憶體較少。</target>
+        <target>請試著降低壓縮級別，較快的級別，使用的記憶體較少。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Type" xml:space="preserve">
@@ -1315,7 +1315,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="Use AES-256 if Available" xml:space="preserve">
         <source>Use AES-256 if Available</source>
-        <target>盡可能使用AES-256</target>
+        <target>可用時使用AES-256</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Use Binaries if Possible" xml:space="preserve">
@@ -1325,7 +1325,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="Use UTF-8 Encoding if Available" xml:space="preserve">
         <source>Use UTF-8 Encoding if Available</source>
-        <target>盡可能使用UTF-8編碼</target>
+        <target>可用時使用UTF-8編碼</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Use continuous background task" xml:space="preserve">
