@@ -97,7 +97,7 @@ $content_privacypolicy_WEB = 'เวอร์ชัน WEB ใช้ Sparkle ส
 $content_context_menu = "เมนู";
 
 // Changelog info
-$content_changelog_title = "ดูการเติมโตของ Keka";
+$content_changelog_title = "ดูการเติบโตของ Keka";
 $content_changelog_entry_title = "การเปลี่ยนแปลงในเวอร์ชัน";
 $content_changelog_firstpublic = "รุ่นสาธารณะครั้งแรก:";
 
