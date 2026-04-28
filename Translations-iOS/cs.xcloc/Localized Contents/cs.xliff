@@ -306,6 +306,7 @@
     <body>
       <trans-unit id="%@" xml:space="preserve">
         <source>%@</source>
+        <target>%@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ item" xml:space="preserve">
@@ -335,6 +336,7 @@
       </trans-unit>
       <trans-unit id="%@." xml:space="preserve">
         <source>%@.</source>
+        <target>%@.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%lld items" xml:space="preserve">
@@ -484,6 +486,7 @@
       </trans-unit>
       <trans-unit id="Appearance" xml:space="preserve">
         <source>Appearance</source>
+        <target>Vzhled</target>
         <note>Appearance settings title.</note>
       </trans-unit>
       <trans-unit id="Archive items separately" xml:space="preserve">
@@ -1242,6 +1245,7 @@ Můžete udělit oprávnění ke zbytku souborů ve složce nebo nadřazené slo
       </trans-unit>
       <trans-unit id="To be implemented" xml:space="preserve">
         <source>To be implemented</source>
+        <target>Bude implemenováno</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="To extract" xml:space="preserve">
@@ -1266,6 +1270,7 @@ Můžete udělit oprávnění ke zbytku souborů ve složce nebo nadřazené slo
       </trans-unit>
       <trans-unit id="Try lowering the compression level, faster levels use less memory." xml:space="preserve">
         <source>Try lowering the compression level, faster levels use less memory.</source>
+        <target>Zkuste snížit úroveň komprimace, vyšší úrovně spotřebovávají méně paměti.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Type" xml:space="preserve">
@@ -1315,6 +1320,7 @@ Můžete udělit oprávnění ke zbytku souborů ve složce nebo nadřazené slo
       </trans-unit>
       <trans-unit id="Use Binaries if Possible" xml:space="preserve">
         <source>Use Binaries if Possible</source>
+        <target>Pokud možno použít binární soubory</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Use UTF-8 Encoding if Available" xml:space="preserve">
@@ -1324,6 +1330,7 @@ Můžete udělit oprávnění ke zbytku souborů ve složce nebo nadřazené slo
       </trans-unit>
       <trans-unit id="Use continuous background task" xml:space="preserve">
         <source>Use continuous background task</source>
+        <target>Použít nepřetržitou úlohu na pozadí</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Use special coloring for known formats" xml:space="preserve">
@@ -1334,6 +1341,8 @@ Můžete udělit oprávnění ke zbytku souborů ve složce nebo nadřazené slo
       <trans-unit id="Using Keka through actions and extensions have memory limitations.&#10;Try this operation using Keka directly." xml:space="preserve">
         <source>Using Keka through actions and extensions have memory limitations.
 Try this operation using Keka directly.</source>
+        <target>Používání aplikace Keka prostřednictvím akcí a rozšíření má jistá paměťová omezení.
+Zkuste tuto operaci přímo s aplikací Keka.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="VERIFY_OPERATION" xml:space="preserve">

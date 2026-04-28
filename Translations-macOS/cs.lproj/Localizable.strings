@@ -62,7 +62,7 @@
 "Choose a name and folder to start the compression" = "Před komprimováním vyberte název archivu a složku";
 "Creation of \"%@\" failed" = "Vytváření „%@“ selhalo";
 "Creating \"%@\"" = "Vytváří se „%@“";
-"Preparing extraction..." = "Připravuje se rozbalení….";
+"Preparing extraction..." = "Připravuje se rozbalení…";
 "Choose a folder to extract this file" = "Před rozbalením vyberte cílovou složku";
 "Choose where do you want to extract \"%@\"." = "Vyberte cílovou složku, do které chcete „%@“ rozbalit.";
 "Select all the volumes from \"%@\" or the folder that contains them." = "Vyberte z „%@“ všechny svazky, nebo složku, která tyto svazky obsahuje.";
@@ -114,7 +114,7 @@
 "Ask each time" = "Pokaždé se zeptat";
 "Next to original file" = "Vedle původního souboru";
 "Custom folder..." = "Vlastní složka…";
-"Same as original file" = "Stejné, jako původní soubory";
+"Same as original file" = "Stejné jako původní soubor";
 "Custom name..." = "Vlastní název…";
 "Archive" = "Archiv";
 "Set as default folder" = "Nastavit jako výchozí složku";
@@ -152,8 +152,8 @@
 "Can't open the file, maybe it's not accessible" = "Soubor nelze otevřít, možná není dostupný";
 "No files matching the mask" = "Žádné soubory se s maskou neshodují";
 "There were some read errors" = "Vyskytly se chyby při čtení";
-"Dismissed trailing data, the extraction might be incomplete" = "Dismissed trailing data, the extraction might be incomplete";
-"Window size not supported, too much memory required" = "Window size not supported, too much memory required";
+"Dismissed trailing data, the extraction might be incomplete" = "Závěrečná nadbytečná data byla ignorována, rozbalená data mohou být neúplná.";
+"Window size not supported, too much memory required" = "Velikost okna není podporována, vyžaduje příliš mnoho paměti";
 "Give access" = "Udělit přístup";
 "Just folder access" = "Přístup jen ke složce";
 "Quit" = "Ukončit";
@@ -174,7 +174,7 @@
 "Show in context menu" = "Zobrazit v kontextové nabídce";
 "External disk: %@" = "Externí disk: %@";
 "An extension is required" = "Je třeba nainstalovat rozšíření";
-"In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "Abyste mohli nastavit Keka jako výchozí aplikaci, musíte nejprve nainstalovat rozšíření. Klikněte na tlačítko „Další informace“ a řiďte se pokyny na obrazovce.\n\nKeka můžete kdykoliv nastavit jako výchozí pro jakýkoliv formát pomocí nabídky „Informace“ ve Finderu";
+"In order to set Keka as the default application, you need to install an extension. Click on \"More information\" to follow the required steps.\n\nRemember that you can always set Keka as the default application for any format using the Finder's \"Get Info\" panel." = "Abyste mohli nastavit Keka jako výchozí aplikaci, musíte nejprve nainstalovat rozšíření. Klikněte na tlačítko „Další informace“ a řiďte se pokyny na obrazovce.\n\nKeka můžete kdykoliv nastavit jako výchozí pro jakýkoliv formát pomocí nabídky „Informace“ ve Finderu.";
 "Your installed extension is obsolete and you should update it." = "Vámi nainstalované rozšíření je zastaralé a ja třeba ho aktualizovat.";
 "Update" = "Aktualizovat";
 "Save" = "Uložit";
@@ -184,7 +184,7 @@
 "Keka is now set as the default application for its known formats." = "Keka je nyní nastavena jako výchozí aplikace pro otevírání archivů.";
 "Keka set as default" = "Keka je nastavena jako výchozí aplikace";
 "There were some errors while registering the formats. There is more information in the Console.app." = "Při registraci formátů se vyskytly chyby. Více informací naleznete v aplikaci Konzola.";
-"The intermediate application can't get access to Keka." = "Zprostředkující aplikace nemůže ke Keka získat řístup.";
+"The intermediate application can't get access to Keka." = "Zprostředkující aplikace nemůže ke Keka získat přístup.";
 "The intermediate application can't find Keka." = "Zprostředkující aplikace nemůže Keka nalézt.";
 "Show in Finder" = "Zobrazit ve Finderu";
 "Delete" = "Smazat";
@@ -192,8 +192,8 @@
 "The password does not match" = "Hesla se neshodují";
 "The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption." = "Heslo jste nenastavili správně a soubor nelze zašifrovat. Můžete operaci zrušit a heslo znovu nastavit, nebo pokračovat bez šifrování.";
 "Use legacy encryption" = "Použít starší způsob šifrování";
-"Using AES-256 encryption in ZIP" = "V ZIPu používáme šifrování typu AES-256";
-"Note that most modern operating systems such as macOS (before macOS 11.0 Big Sur) or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities." = "Většina moderních operačních systémů, jako je napřílkad macOS (Big Sur a starší) nebo Windows oficiálně nepodporují ZIPy zašifrované formou AES-256.\n\nStále je ale můžete otevřít ve většině archivačních aplikací.";
+"Using AES-256 encryption in ZIP" = "V ZIPu použít šifrování typu AES-256";
+"Note that most modern operating systems such as macOS (before macOS 11.0 Big Sur) or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities." = "Většina moderních operačních systémů, jako je napřílkad macOS (11.0 Big Sur a starší) nebo Windows oficiálně nepodporují ZIPy zašifrované metodou AES-256.\n\nStále je ale můžete otevřít ve většině archivačních aplikací.";
 "Cannot create the file" = "Soubor nelze vytvořit";
 "Keka has no file access to the source file/s\nGive it access when asked or manually in the Preferences" = "Keka nemá k původním souborům přístup.\nUdělte jí přístup buď když se vás zeptá, nebo ručně v předvolbách";
 "Give access to the source/s folder/s" = "Udělit přístup k umístěním původních souborů";
@@ -205,7 +205,7 @@
 "Keka will decide whether to compress or uncompress based on the file format and extension." = "Keka rozhodne mezi komprimací a dekomprimací podle formátu souboru a podle přípony.";
 "Keka will compress all files, even those that are already compressed. You can compress an already compressed file in automatic mode by dropping it to the bottom part of the drop zone." = "Keka komprimuje všechny soubory, včetně již komprimovaných souborů. Soubory můžete znovu komprimovat přetažením do spodní částí Keka.";
 "Keka will try to extract all files. You can try to extract an unknown file in automatic mode by dropping it in the bottom part of the drop zone." = "Keka se pokusí všechny soubory rozbalit. Soubory neznámeho typu můžete zkusit rozbalit přetažením do spodní části Keka.";
-"Show the operation log" = "Zobrazit operační protokol";
+"Show the operation log" = "Zobrazit protokol událostí";
 "Unable to process tips" = "Příspěvek nelze zpracovat";
 "Already tipping a monthly %@" = "Už měsíčně přispíváte %@";
 "Send a monthly %@ tip" = "Měsíčně příspět %@";
@@ -215,7 +215,7 @@
 "All compressions will be stored at this location." = "Všechny soubory zkomprimujeme do této složky.";
 "You'll be asked where to extract each operation." = "Před každým rozbalením se vás zeptáme na cílovou složku.";
 "You'll be asked where to compress each operation." = "Před každou komprimací se vás zeptáme na cílovou složku.";
-"If Keka has File Access it will execute the operation near the source file/s, otherwise it will ask for a location. You can set Keka's File Access in the Preferences tab so this option works properly." = "Pokud má Keka přístup k souborům, pokusí se všechny opperace provádět tam, kde se nacházejí výchozí soubory. Aby tato funkce pracovala správně, nastavte přístup k souborům v příslušném panelu v předvolbách.";
+"If Keka has File Access it will execute the operation near the source file/s, otherwise it will ask for a location. You can set Keka's File Access in the Preferences tab so this option works properly." = "Pokud má Keka přístup k souborům, pokusí se všechny operace provádět tam, kde se nacházejí výchozí soubory. Aby tato funkce pracovala správně, nastavte přístup k souborům v příslušném panelu v předvolbách.";
 "Keka has no file access to the destination folder so it needs to ask for a location.\nYou can add access to this and other folders in Keka's Preferences File Access pane." = "Protože Keka nemá přístup k výchozí složce, zeptá se vás na jinou.\nPřístup k této a dalším složkám můžete nastavit v předvolbách v kartě Přístup k souborům.";
 "The characters %@ are not compatible with the %@ format" = "Znaky %@ nejsou s formátem %@ kompatibilní";
 "The character %@ is not compatible with the %@ format" = "Znak %@ není s formátem %@ kompatibilní";
@@ -240,15 +240,15 @@
 "Verifying..." = "Ověřuje se…";
 "Verification of \"%@\" failed" = "Ověřování „%@“ selhalo";
 "The compressed data seems to be invalid" = "Komprimovaná data se zají být chybná";
-"Encrypted Apple Archive files are only supported on macOS 12 or newer" = "Zabezpečený archiv Apple je podporován na macOS 12 a vyšším";
-"The password length should be %i or higher" = "Délka hesla by měla být %i nebo více znaků";
+"Encrypted Apple Archive files are only supported on macOS 12 or newer" = "Zabezpečený archiv Apple je podporován na macOS 12 a novějším";
+"The password length should be %i or higher" = "Délka hesla by měla být alespoň %i znaků";
 " (Entire Device)" = " (celé zařízení)";
 "Recovery Volumes:" = "Svazky zotavení macOS:";
 "Encrypt" = "Zašifrovat";
 "Skip" = "Přeskočit";
 "Can't enable the extension" = "Nelze povolit rozšíření";
-"In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nPlease update your Keka Helper version to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." = "V macOS 15 nelze automaticky nebo jednoduše povolit rozšíření Finderu.\n\nAktualizuje prosím verzi Keka Helper pro automatickou aktivaci/deaktivaci rozšíření Finderu. Nebo můžete zkusit postup v programu Terminal a aktivovat jej ručně.";
-"In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nYou can install the Keka Helper to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." =        "V macOS 15 nelze automaticky nebo jednoduše povolit rozšíření Finderu.\n\nNainstalujte prosím Keka Helper pro automatickou aktivaci/deaktivaci rozšíření Finderu. Nebo můžete zkusit postup v programu Terminal a aktivovat jej ručně.";
+"In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nPlease update your Keka Helper version to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." = "V macOS 15 nelze automaticky nebo jednoduše povolit rozšíření Finderu.\n\nAktualizuje prosím verzi Keka Helper pro automatickou aktivaci/deaktivaci rozšíření Finderu. Nebo můžete zkusit postup v programu Terminál a aktivovat jej ručně.";
+"In macOS 15 there's no way to automatically or easily enable the Finder Extension.\n\nYou can install the Keka Helper to enable and disable the Finder Extension automatically. Alternatively you can follow some steps in the Terminal to manually enable it." =        "V macOS 15 nelze automaticky nebo jednoduše povolit rozšíření Finderu.\n\nNainstalujte prosím Keka Helper pro automatickou aktivaci/deaktivaci rozšíření Finderu. Nebo můžete zkusit postup v programu Terminál a aktivovat jej ručně.";
 "Show password" = "Zobrazit heslo";
 "Hide password" = "Skrýt heslo";
 "Settings" = "Předvolby";
