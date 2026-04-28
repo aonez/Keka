@@ -1270,7 +1270,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="Try lowering the compression level, faster levels use less memory." xml:space="preserve">
         <source>Try lowering the compression level, faster levels use less memory.</source>
-        <target>請試著降低壓縮級別，較快的級別，使用的記憶體較少。</target>
+        <target>請試著降低壓縮級別，較快的級別使用的記憶體較少。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Type" xml:space="preserve">
