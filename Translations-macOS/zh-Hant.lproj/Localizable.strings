@@ -128,7 +128,7 @@
 "4.7 GB DVD" = "4.7 GB DVD";
 "Drop here to extract" = "拖曳到此以解壓縮";
 "Drop here to compress" = "拖曳到此以壓縮";
-"Binary \"%@\" is not accessible" = "無法存取「%@」二進位檔案";
+"Binary \"%@\" is not accessible" = "無法存取「%@」二進位工具";
 "The first part \"%@\" can't be found" = "找不到「%@」的第一部分";
 "Unable to extract a folder" = "無法解壓縮檔案夾";
 "unknown" = "未知";
@@ -152,8 +152,8 @@
 "Can't open the file, maybe it's not accessible" = "無法打開檔案，可能無法存取";
 "No files matching the mask" = "沒有符合遮罩的檔案";
 "There were some read errors" = "可能有讀取錯誤";
-"Dismissed trailing data, the extraction might be incomplete" = "Dismissed trailing data, the extraction might be incomplete";
-"Window size not supported, too much memory required" = "Window size not supported, too much memory required";
+"Dismissed trailing data, the extraction might be incomplete" = "已捨棄尾部資料，解壓縮的結果可能不完整";
+"Window size not supported, too much memory required" = "不支援滑動視窗大小，記憶體需求過大";
 "Give access" = "授予取用權限";
 "Just folder access" = "只有檔案夾取用權限";
 "Quit" = "結束";
@@ -252,7 +252,7 @@
 "Show password" = "顯示密碼";
 "Hide password" = "隱藏密碼";
 "Settings" = "偏好設定";
-"Format Selector" = "Format Selector";
+"Format Selector" = "格式選擇器";
 
 /* Keka preferences for macOS 12.0 and earlier */
 "Preferences…" = "偏好設定⋯";
