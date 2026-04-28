@@ -306,6 +306,7 @@
     <body>
       <trans-unit id="%@" xml:space="preserve">
         <source>%@</source>
+        <target>%@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%@ item" xml:space="preserve">
@@ -335,6 +336,7 @@
       </trans-unit>
       <trans-unit id="%@." xml:space="preserve">
         <source>%@.</source>
+        <target>%@。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="%lld items" xml:space="preserve">
@@ -484,6 +486,7 @@
       </trans-unit>
       <trans-unit id="Appearance" xml:space="preserve">
         <source>Appearance</source>
+        <target>外觀</target>
         <note>Appearance settings title.</note>
       </trans-unit>
       <trans-unit id="Archive items separately" xml:space="preserve">
@@ -1242,6 +1245,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="To be implemented" xml:space="preserve">
         <source>To be implemented</source>
+        <target>待實作</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="To extract" xml:space="preserve">
@@ -1266,6 +1270,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="Try lowering the compression level, faster levels use less memory." xml:space="preserve">
         <source>Try lowering the compression level, faster levels use less memory.</source>
+        <target>請試著降低壓縮級別。較快的級別，使用的記憶體較少。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Type" xml:space="preserve">
@@ -1310,20 +1315,22 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="Use AES-256 if Available" xml:space="preserve">
         <source>Use AES-256 if Available</source>
-        <target>如果可以就使用AES-256</target>
+        <target>盡可能使用AES-256</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Use Binaries if Possible" xml:space="preserve">
         <source>Use Binaries if Possible</source>
+        <target>盡可能使用二進位工具</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Use UTF-8 Encoding if Available" xml:space="preserve">
         <source>Use UTF-8 Encoding if Available</source>
-        <target>如果可以就使用UTF-8編碼</target>
+        <target>盡可能使用UTF-8編碼</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Use continuous background task" xml:space="preserve">
         <source>Use continuous background task</source>
+        <target>使用持續執行的背景作業</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Use special coloring for known formats" xml:space="preserve">
@@ -1334,6 +1341,8 @@ You can give access to the rest of the files or the parent folder.</source>
       <trans-unit id="Using Keka through actions and extensions have memory limitations.&#10;Try this operation using Keka directly." xml:space="preserve">
         <source>Using Keka through actions and extensions have memory limitations.
 Try this operation using Keka directly.</source>
+        <target>透過動作和延伸功能使用Keka會遇到記憶體限制。
+請試著直接使用Keka執行此動作。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="VERIFY_OPERATION" xml:space="preserve">
