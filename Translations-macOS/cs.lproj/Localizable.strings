@@ -193,7 +193,7 @@
 "The password is not properly set and the file cannot be encrypted. You can cancel and set the password again or continue the process without encryption." = "Heslo jste nenastavili správně a soubor nelze zašifrovat. Můžete operaci zrušit a heslo znovu nastavit, nebo pokračovat bez šifrování.";
 "Use legacy encryption" = "Použít starší způsob šifrování";
 "Using AES-256 encryption in ZIP" = "V ZIPu použít šifrování typu AES-256";
-"Note that most modern operating systems such as macOS (before macOS 11.0 Big Sur) or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities." = "Většina moderních operačních systémů, jako je napřílkad macOS (11.0 Big Sur a starší) nebo Windows oficiálně nepodporují ZIPy zašifrované metodou AES-256.\n\nStále je ale můžete otevřít ve většině archivačních aplikací.";
+"Note that most modern operating systems such as macOS (before macOS 11.0 Big Sur) or Windows do not support AES-256 encrypted ZIPs by default.\n\nYou can open those files easily with most third party extraction utilities." = "Většina moderních operačních systémů, jako je například macOS (11.0 Big Sur a starší) nebo Windows oficiálně nepodporují ZIPy zašifrované metodou AES-256.\n\nStále je ale můžete otevřít ve většině archivačních aplikací.";
 "Cannot create the file" = "Soubor nelze vytvořit";
 "Keka has no file access to the source file/s\nGive it access when asked or manually in the Preferences" = "Keka nemá k původním souborům přístup.\nUdělte jí přístup buď když se vás zeptá, nebo ručně v předvolbách";
 "Give access to the source/s folder/s" = "Udělit přístup k umístěním původních souborů";
