@@ -14,7 +14,7 @@
 "%@ of %@ items" = "%@/%@個項目";
 
 /* No comment provided by engineer. */
-"%@." = "%@."; // THIS IS NOT LOCALIZED
+"%@." = "。";
 
 /* No comment provided by engineer. */
 "%lld items" = "%lld個項目";
@@ -101,7 +101,7 @@
 "Allocated size" = "已分配大小";
 
 /* Appearance settings title. */
-"Appearance" = "Appearance"; // THIS IS NOT LOCALIZED
+"Appearance" = "外觀";
 
 /* No comment provided by engineer. */
 "archive" = "封存";
@@ -590,7 +590,7 @@
 "This volume file needs additional files access to be opened.\nYou can give access to the rest of the files or the parent folder." = "這個卷宗檔案需要額外的檔案權限才能打開。\n你可以授予剩餘檔案或上層檔案夾的存取權。";
 
 /* No comment provided by engineer. */
-"To be implemented" = "To be implemented"; // THIS IS NOT LOCALIZED
+"To be implemented" = "待實作";
 
 /* No comment provided by engineer. */
 "To extract" = "要擷取的內容";
@@ -611,7 +611,7 @@
 "TRANSLATOR_NAME" = "aone、PeterDaveHello和Yi-Jyun Pan";
 
 /* No comment provided by engineer. */
-"Try lowering the compression level, faster levels use less memory." = "Try lowering the compression level, faster levels use less memory."; // THIS IS NOT LOCALIZED
+"Try lowering the compression level, faster levels use less memory." = "請試著降低壓縮級別，較快的級別使用的記憶體較少。";
 
 /* No comment provided by engineer. */
 "Type" = "類型";
@@ -638,22 +638,22 @@
 "Use AES-256 Encryption" = "使用AES-256加密";
 
 /* No comment provided by engineer. */
-"Use AES-256 if Available" = "如果可以就使用AES-256";
+"Use AES-256 if Available" = "可用時使用AES-256";
 
 /* No comment provided by engineer. */
-"Use Binaries if Possible" = "Use Binaries if Possible"; // THIS IS NOT LOCALIZED
+"Use Binaries if Possible" = "盡可能使用二進位程式";
 
 /* No comment provided by engineer. */
-"Use continuous background task" = "Use continuous background task"; // THIS IS NOT LOCALIZED
+"Use continuous background task" = "使用持續執行的背景作業";
 
 /* No comment provided by engineer. */
 "Use special coloring for known formats" = "使用特定的顏色顯示已知格式";
 
 /* No comment provided by engineer. */
-"Use UTF-8 Encoding if Available" = "如果可以就使用UTF-8編碼";
+"Use UTF-8 Encoding if Available" = "可用時使用UTF-8編碼";
 
 /* No comment provided by engineer. */
-"Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly." = "Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly."; // THIS IS NOT LOCALIZED
+"Using Keka through actions and extensions have memory limitations.\nTry this operation using Keka directly." = "透過動作和延伸功能使用Keka會遇到記憶體限制。\n請試著直接使用Keka執行此動作。";
 
 /* No comment provided by engineer. */
 "verification failed" = "驗證失敗";
