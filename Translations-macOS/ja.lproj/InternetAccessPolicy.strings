@@ -10,10 +10,10 @@
 */
 
 /* Top-level, general application description: */
-"ApplicationDescription" = "Keka は、macOS 用のファイルアーカイバーです。";
+"ApplicationDescription" = "KekaはmacOS用のファイルアーカイバです。";
 
 /* Software update connection: */
 "SoftwareUpdatePurpose" = "Keka は新しいバージョンを確認するために u(pdate).keka.io に接続します。";
-"SoftwareUpdateDenyConsequences" = "この接続を許可しない場合、Keka の新しいバージョンの通知が受け取れません。";
-"SoftwareUpdateGithubPurpose" = "Keka は github.com/aonez/Keka のリポジトリから新しいバージョンをダウンロードします";
-"SoftwareUpdateGithubDenyConsequences" = "この接続を拒否すると、Keka の新しいバージョンをダウンロードできなくなります。";
+"SoftwareUpdateDenyConsequences" = "この接続を許可しない場合、Kekaの新しいバージョンの通知を受け取れません。";
+"SoftwareUpdateGithubPurpose" = "github.com/aonez/Kekaのリポジトリから、新しいバージョンをダウンロードします。";
+"SoftwareUpdateGithubDenyConsequences" = "この接続を許可しない場合、Kekaの新しいバージョンをダウンロードできなくなります。";
