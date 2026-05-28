@@ -596,7 +596,7 @@
       </trans-unit>
       <trans-unit id="Compress some files with Keka." xml:space="preserve">
         <source>Compress some files with Keka.</source>
-        <target state="translated">いくつかのファイルをKekaで圧縮</target>
+        <target state="translated">いくつかのファイルをKekaで圧縮します。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Compressed size" xml:space="preserve">
@@ -656,7 +656,7 @@
       </trans-unit>
       <trans-unit id="Default Format" xml:space="preserve">
         <source>Default Format</source>
-        <target>デフォルトの形式</target>
+        <target state="translated">デフォルトの形式</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Default Tap Action" xml:space="preserve">
@@ -767,7 +767,7 @@
       </trans-unit>
       <trans-unit id="Extract some files with Keka." xml:space="preserve">
         <source>Extract some files with Keka.</source>
-        <target state="translated">いくつかのファイルをKekaで展開</target>
+        <target state="translated">いくつかのファイルをKekaで展開します。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Extraction" xml:space="preserve">
@@ -817,12 +817,12 @@
       </trans-unit>
       <trans-unit id="Folder drop is only supported on iOS 16 or newer" xml:space="preserve">
         <source>Folder drop is only supported on iOS 16 or newer</source>
-        <target state="translated">フォルダドロップはiOS16以降でのみ対応しています</target>
+        <target state="translated">フォルダドロップはiOS16以降でのみ対応</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Format" xml:space="preserve">
         <source>Format</source>
-        <target>形式</target>
+        <target state="translated">形式</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="General" xml:space="preserve">
@@ -957,7 +957,7 @@
       </trans-unit>
       <trans-unit id="Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files." xml:space="preserve">
         <source>Not all platforms support AES-256 encryption. You may need a third party application (like Keka) to open these compressed files.</source>
-        <target state="translated">すべてのプラットフォームがAES-256暗号化に対応しているわけではありません。これらの圧縮ファイルを開くには、サードパーティ製のアプリケーション（Keka など）が必要になる場合があります。</target>
+        <target state="translated">すべてのプラットフォームがAES-256暗号化に対応しているわけではありません。これらの圧縮ファイルを開くには、サードパーティ製のアプリケーション（Kekaなど）が必要になる場合があります。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="OK" xml:space="preserve">
@@ -972,7 +972,7 @@
       </trans-unit>
       <trans-unit id="Open Keka" xml:space="preserve">
         <source>Open Keka</source>
-        <target state="translated">Kekaで開く</target>
+        <target state="translated">Kekaを開く</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Open…" xml:space="preserve">
@@ -1137,7 +1137,7 @@
       </trans-unit>
       <trans-unit id="Show or hide additional information about the selected item" xml:space="preserve">
         <source>Show or hide additional information about the selected item</source>
-        <target state="translated">選択項目について追加情報の表示と非表示を切り替える</target>
+        <target state="translated">選択項目について追加情報の表示/非表示を切り替える</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Size" xml:space="preserve">
@@ -1202,7 +1202,7 @@
       </trans-unit>
       <trans-unit id="The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread." xml:space="preserve">
         <source>The compression may need more memory than available (%@) and may not be completed successfully. Will be limited to 1 thread.</source>
-        <target state="translated">使用可能なメモリ (%@) 以上のメモリが必要なため、圧縮が正常に完了しない可能性があります。処理を1スレッドに制限します。</target>
+        <target state="translated">使用可能なメモリ（%@）以上のメモリが必要なため、圧縮が正常に完了しない可能性があります。処理を1スレッドに制限します。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The compression will be limited to %lld thread/s due to memory constraints." xml:space="preserve">
@@ -1222,7 +1222,7 @@
       </trans-unit>
       <trans-unit id="The folder is empty" xml:space="preserve">
         <source>The folder is empty</source>
-        <target state="translated">フォルダが空です</target>
+        <target state="translated">フォルダは空です</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="The password length should be %lld or higher." xml:space="preserve">
@@ -1384,7 +1384,7 @@ Try this operation using Keka directly.</source>
       </trans-unit>
       <trans-unit id="Welcome to %@" xml:space="preserve">
         <source>Welcome to %@</source>
-        <target state="translated">Welcome to %@</target>
+        <target state="translated">ようこそ%@へ</target>
         <note>The "Welcome to Keka" title.</note>
       </trans-unit>
       <trans-unit id="Where" xml:space="preserve">

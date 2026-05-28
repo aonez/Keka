@@ -1,6 +1,6 @@
-﻿
+
 /* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "2221"; */
-"2221.title" = "個別の圧縮ファイルを作成する";
+"2221.title" = "項目ごとにアーカイブ";
 
 /* Class = "NSButtonCell"; title = "Delete file(s) after compression"; ObjectID = "2222"; */
 "2222.title" = "圧縮後に元のファイルをゴミ箱に入れる";
@@ -18,79 +18,79 @@
 "2271.placeholderString" = "例: 5MB";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[0] = "1.4 MB Floppy disk"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[0]" = "1.4MBのFD";
+"2271.ibShadowedObjectValues[0]" = "1.4MBフロッピーディスク";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[1] = "650 MB CD"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[1]" = "650MBのCD";
+"2271.ibShadowedObjectValues[1]" = "650MB CD";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[2] = "700 MB CD"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[2]" = "700MBのCD";
+"2271.ibShadowedObjectValues[2]" = "700MB CD";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[3] = "4 GB FAT32"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[3]" = "4 GB FAT32";
+"2271.ibShadowedObjectValues[3]" = "4GB FAT32";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[4] = "4.7 GB DVD"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[4]" = "4.7GBのDVD";
+"2271.ibShadowedObjectValues[4]" = "4.7GB DVD";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[5] = "8.5 GB DVD (DL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[5]" = "8.5GBのDVD (DL)";
+"2271.ibShadowedObjectValues[5]" = "8.5GB DVD（DL）";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[6] = "7.8 GB Mini Blu-ray (SL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[6]" = "7.8GBのMini Blu-ray (SL)";
+"2271.ibShadowedObjectValues[6]" = "7.8GB Mini Blu-ray（SL）";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[7] = "15.6 GB Mini Blu-ray (DL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[7]" = "15.6GBのMini Blu-ray (DL)";
+"2271.ibShadowedObjectValues[7]" = "15.6GB Mini Blu-ray（DL）";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[8] = "25 GB Blu-ray (SL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[8]" = "25GBのBlu-ray (SL)";
+"2271.ibShadowedObjectValues[8]" = "25GB Blu-ray（SL）";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[9] = "50 GB Blu-ray (DL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[9]" = "50GBのBlu-ray (DL)";
+"2271.ibShadowedObjectValues[9]" = "50GB Blu-ray（DL）";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[10] = "100 GB Blu-ray XL (TL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[10]" = "100GBのBlu-ray XL (TL)";
+"2271.ibShadowedObjectValues[10]" = "100GB Blu-ray XL（TL）";
 
 /* Class = "NSComboBoxCell"; 2271.ibShadowedObjectValues[11] = "128 GB Blu-ray XL (QL)"; ObjectID = "2271"; */
-"2271.ibShadowedObjectValues[11]" = "128GBのBlu-ray XL (QL)";
+"2271.ibShadowedObjectValues[11]" = "128GB Blu-ray XL（QL）";
 
 /* Class = "NSTextFieldCell"; title = "Volume name:"; ObjectID = "2343"; */
 "2343.title" = "ボリューム名:";
 
 /* Class = "NSTextFieldCell"; placeholderString = "custom name"; ObjectID = "2354"; */
-"2354.placeholderString" = "指定するファイル名";
+"2354.placeholderString" = "カスタム名";
 
 /* Class = "NSTextFieldCell"; title = "You can create an ISO volume that will be read-only and compressed. ISO volumes can be only created from a folder.\n\nSet a volume name to this ISO or use the default name based on the files you compress."; ObjectID = "2363"; */
-"2363.title" = "圧縮された読み取り専用の iso ディスクイメージを作成することができます。フォルダのみから iso ボリュームが作成できます。\n \n圧縮するファイルのフォルダ名を自動に使用するもしくは dmg のボリューム名を設定することができます。";
+"2363.title" = "読み取り専用の圧縮ISOボリュームを作成することができます。ISOボリュームはフォルダからのみ作成できます。\n\nこのISOにボリューム名を設定するか、圧縮するファイルに基づいたデフォルト名を使用してください。";
 
 /* Class = "NSTextFieldCell"; title = "Store"; ObjectID = "2390"; */
 "2390.title" = "まとめる";
 
 /* Class = "NSTextFieldCell"; title = "Fast"; ObjectID = "2392"; */
-"2392.title" = "早い";
+"2392.title" = "高速";
 
 /* Class = "NSTextFieldCell"; title = "Slow"; ObjectID = "2394"; */
-"2394.title" = "遅い";
+"2394.title" = "低速";
 
 /* Class = "NSTextFieldCell"; title = "Normal"; ObjectID = "2398"; */
 "2398.title" = "通常";
 
 /* Class = "NSTextFieldCell"; title = "Repeat:"; ObjectID = "2426"; */
-"2426.title" = "確認:";
+"2426.title" = "繰り返し:";
 
 /* Class = "NSButtonCell"; title = "Self-extracting archive for Windows"; ObjectID = "Itb-5A-JW7"; */
-"Itb-5A-JW7.title" = "Windows 用の自己展開アーカイブ";
+"Itb-5A-JW7.title" = "Windows用自己展開アーカイブ";
 
 /* Class = "NSButtonCell"; title = "Encrypt filenames"; ObjectID = "L2I-Q8-zqc"; */
-"L2I-Q8-zqc.title" = "ファイル名を暗号化する";
+"L2I-Q8-zqc.title" = "ファイル名を暗号化";
 
 /* Class = "NSButtonCell"; title = "Use AES-256 encryption"; ObjectID = "Lw7-h9-3Qh"; */
-"Lw7-h9-3Qh.title" = "AES-256暗号化を使用する";
+"Lw7-h9-3Qh.title" = "AES-256暗号化を使用";
 
 /* Class = "NSButtonCell"; title = "Solid archive"; ObjectID = "UYy-aQ-V1a"; */
-"UYy-aQ-V1a.title" = "ソリッド圧縮";
+"UYy-aQ-V1a.title" = "ソリッドアーカイブ";
 
 /* Class = "NSTextFieldCell"; title = "Format:"; ObjectID = "dDw-7W-5ff"; */
-"dDw-7W-5ff.title" = "フォーマット:";
+"dDw-7W-5ff.title" = "形式:";
 
 /* Class = "NSButtonCell"; title = "Verify compression integrity"; ObjectID = "gqN-A9-jPb"; */
-"gqN-A9-jPb.title" = "圧縮の完全性を検証する";
+"gqN-A9-jPb.title" = "圧縮の完全性を検証";
