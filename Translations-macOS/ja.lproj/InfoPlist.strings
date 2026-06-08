@@ -3,7 +3,7 @@
 "NSHumanReadableCopyright" = "Copyright © 2009-2026 aONe";
 
 /* Spotlight keywords */
-"MDItemKeywords" = "Compression, Decompression, Extraction, Archiver, Unarchiver, Expand, Encryption, Decryption, Archives, Files, 圧縮, 解凍, 抽出, アーカイバ, アンアーカイバ, 展開, 暗号化, 復号, アーカイブ, 書庫, ファイル";
+"MDItemKeywords" = "圧縮, 解凍, 抽出, アーカイバ, アンアーカイバ, 展開, 暗号化, 復号, アーカイブ, ファイル";
 
 /* Access request descriptions */
 "NSDesktopFolderUsageDescription" = "Kekaがファイルを操作するには、\"デスクトップ\"へのアクセス権が必要です。";
