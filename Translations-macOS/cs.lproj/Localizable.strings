@@ -26,7 +26,6 @@
 "File \"%@\" needs a password to be extracted" = "Zadejte heslo pro „%@“";
 "File \"%@\" needs a special encoding to be extracted" = "„%@“ vyžaduje pro rozbalení speciální kódování";
 "Extraction of \"%@\" done" = "Rozbalení „%@“ dokončeno";
-"Extraction of \"%@\" failed." = "Rozbalení „%@“ selhalo.";
 "Extraction of %i files done" = "Rozbalení %i souborů dokončeno";
 "Extraction complete" = "Rozbalení dokončeno";
 "Extraction fail" = "Rozbalování selhalo";

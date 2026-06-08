@@ -26,7 +26,6 @@
 "File \"%@\" needs a password to be extracted" = "\"%@\" Dosyasının çıkarılması için bir parola gereklidir";
 "File \"%@\" needs a special encoding to be extracted" = "\"%@\" Dosyasının çıkarılması için özel bir kodlamaya ihtiyacı var";
 "Extraction of \"%@\" done" = "Çıkarma işlemi \"%@\" tamamlandı";
-"Extraction of \"%@\" failed." = "Çıkarma işlemi \"%@\" başarısız";
 "Extraction of %i files done" = "%i dosyası çıkarıldı";
 "Extraction complete" = "Çıkarma tamamlandı";
 "Extraction fail" = "Çıkarma başarısız oldu";

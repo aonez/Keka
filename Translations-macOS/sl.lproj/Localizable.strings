@@ -26,7 +26,6 @@
 "File \"%@\" needs a password to be extracted" = "Za razširitev datoteke \"%@\" je potrebno geslo";
 "File \"%@\" needs a special encoding to be extracted" = "Za razširitev datoteke \"%@\" je potrebno posebno kodiranje";
 "Extraction of \"%@\" done" = "Razširitev \"%@\" končana";
-"Extraction of \"%@\" failed." = "Razširitev \"%@\" neuspešna.";
 "Extraction of %i files done" = "Razširitev %i datotek končana";
 "Extraction complete" = "Razširitev končana";
 "Extraction fail" = "Razširitev neuspešna";

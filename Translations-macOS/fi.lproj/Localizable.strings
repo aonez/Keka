@@ -26,7 +26,6 @@
 "File \"%@\" needs a password to be extracted" = "Tiedosto \"%@\" tarvitsee salasanan purkamista varten";
 "File \"%@\" needs a special encoding to be extracted" = "Tiedosto \"%@\" tarvitsee erityisen enkoodauksen purkamista varten";
 "Extraction of \"%@\" done" = "Kohteen \"%@\" purkaminen on valmis";
-"Extraction of \"%@\" failed." = "Kohteen \"%@\" purkaminen epäonnistui.";
 "Extraction of %i files done" = "Kohteiden %i purkaminen on valmis";
 "Extraction complete" = "Purkaminen valmis";
 "Extraction fail" = "Purkaminen epäonnistui";

@@ -26,7 +26,6 @@
 "File \"%@\" needs a password to be extracted" = "A \"%@\" fájl kicsomagolásához jelszóra van szükség";
 "File \"%@\" needs a special encoding to be extracted" = "A \"%@\" fájlnak különleges kódolásra van szüksége a kicsomagoláshoz";
 "Extraction of \"%@\" done" = "\"%@\" kicsomagolás kész.";
-"Extraction of \"%@\" failed." = "\"%@\" kicsomagolása sikertelen.";
 "Extraction of %i files done" = "%i fájl kicsomagolva";
 "Extraction complete" = "Kicsomagolás kész";
 "Extraction fail" = "A kicsomagolás során hiba lépett fel";

@@ -26,7 +26,6 @@
 "File \"%@\" needs a password to be extracted" = "Introduïu la contrasenya per extreure el contingut de l'arxiu  «%@».";
 "File \"%@\" needs a special encoding to be extracted" = "File \"%@\" needs a special encoding to be extracted";
 "Extraction of \"%@\" done" = "S'ha extret el contingut de l'arxiu «%@» correctament";
-"Extraction of \"%@\" failed." = "Ha fallat l'extracció de l'arxiu «%@».";
 "Extraction of %i files done" = "S'han extret %i arxius correctament";
 "Extraction complete" = "Extracció finalitzada";
 "Extraction fail" = "Ha fallat l'extracció";

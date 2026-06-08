@@ -26,7 +26,6 @@
 "File \"%@\" needs a password to be extracted" = "الملف \"%@\" يحتاج إلى كلمة مرور لاستخراجها";
 "File \"%@\" needs a special encoding to be extracted" = "الملف \"%@\" يحتاج إلى ترميز خاص لاستخراجه";
 "Extraction of \"%@\" done" = "استخراج \"%@\" تم";
-"Extraction of \"%@\" failed." = "استخراج \"%@\" فشل.";
 "Extraction of %i files done" = "استخراج %i ملفات تم";
 "Extraction complete" = "تم الاستخراج بالكامل";
 "Extraction fail" = "فشل الاستخراج";

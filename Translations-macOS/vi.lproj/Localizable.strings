@@ -26,7 +26,6 @@
 "File \"%@\" needs a password to be extracted" = "Tập tin \"%@\" cần một mật khẩu để giải nén";
 "File \"%@\" needs a special encoding to be extracted" = "Tập tin \"%@\" cần một mã hoá đặt biệt để giải nén";
 "Extraction of \"%@\" done" = "Giải nén cho \"%@\" hoàn thành";
-"Extraction of \"%@\" failed." = "Giải nén cho \"%@\" thất bại.";
 "Extraction of %i files done" = "Giải nén được %i tập tin hoàn thành";
 "Extraction complete" = "Giải nén hoàn tất";
 "Extraction fail" = "Giải nén thất bại";

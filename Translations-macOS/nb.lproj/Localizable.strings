@@ -26,7 +26,6 @@
 "File \"%@\" needs a password to be extracted" = "Filen \"%@\" trenger et passord for å pakkes ut";
 "File \"%@\" needs a special encoding to be extracted" = "Filen \"%@\" trenger en spesiell koding for å pakkes ut";
 "Extraction of \"%@\" done" = "Utpakking av \"%@\" ferdig";
-"Extraction of \"%@\" failed." = "Utpakking av \"%@\" feilet.";
 "Extraction of %i files done" = "Utpakking av %i filer ferdig";
 "Extraction complete" = "Utpakking fullført";
 "Extraction fail" = "Utpakking feilet";

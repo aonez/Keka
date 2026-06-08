@@ -26,7 +26,6 @@
 "File \"%@\" needs a password to be extracted" = "File \"%@\" needs a password to be extracted";
 "File \"%@\" needs a special encoding to be extracted" = "File \"%@\" needs a special encoding to be extracted";
 "Extraction of \"%@\" done" = "Extraction of \"%@\" done";
-"Extraction of \"%@\" failed." = "Extraction of \"%@\" failed.";
 "Extraction of %i files done" = "Extraction of %i files done";
 "Extraction complete" = "Extraction complete";
 "Extraction fail" = "Extraction failed";

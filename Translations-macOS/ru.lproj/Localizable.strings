@@ -26,7 +26,6 @@
 "File \"%@\" needs a password to be extracted" = "Для распаковки файла «%@» требуется указать пароль";
 "File \"%@\" needs a special encoding to be extracted" = "Файл «%@» требует особой кодировки для распаковки";
 "Extraction of \"%@\" done" = "Распаковка файла «%@» завершена";
-"Extraction of \"%@\" failed." = "Не удалось распаковать файл «%@».";
 "Extraction of %i files done" = "Распаковка %i файлов завершена";
 "Extraction complete" = "Распаковка завершена";
 "Extraction fail" = "Распаковка не удалась";

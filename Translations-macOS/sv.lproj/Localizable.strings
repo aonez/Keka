@@ -26,7 +26,6 @@
 "File \"%@\" needs a password to be extracted" = "Filen \"%@\" kräver ett lösenord för att extraheras";
 "File \"%@\" needs a special encoding to be extracted" = "Filen \"%@\" kräver en särskild teckenkodning för att extraheras";
 "Extraction of \"%@\" done" = "Extrahering av \"%@\" färdig";
-"Extraction of \"%@\" failed." = "Extrahering av \"%@\" misslyckades.";
 "Extraction of %i files done" = "Extrahering av %i filer färdig";
 "Extraction complete" = "Extrahering färdig";
 "Extraction fail" = "Extraheringsfel";

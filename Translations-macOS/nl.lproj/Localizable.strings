@@ -26,7 +26,6 @@
 "File \"%@\" needs a password to be extracted" = "Bestand \"%@\" heeft een wachtwoord nodig om uitgepakt te worden";
 "File \"%@\" needs a special encoding to be extracted" = "Bestand \"%@\" heeft een speciale indeling nodig om uitgepakt te worden";
 "Extraction of \"%@\" done" = "Uitpakken van \"%@\" voltooid";
-"Extraction of \"%@\" failed." = "Uitpakken van \"%@\" mislukt.";
 "Extraction of %i files done" = "Uitpakken van %i bestanden voltooid";
 "Extraction complete" = "Uitpakken voltooid";
 "Extraction fail" = "Uitpakken mislukt";

@@ -26,7 +26,6 @@
 "File \"%@\" needs a password to be extracted" = "Arkivet \"%@\" skal bruge en adgangskode for at blive udpakket";
 "File \"%@\" needs a special encoding to be extracted" = "Arkivet \"%@\" skal bruge en speciel tegnkodning for at blive udpakket";
 "Extraction of \"%@\" done" = "Udpakningen af \"%@\" fuldført";
-"Extraction of \"%@\" failed." = "Udpakningen af \"%@\" fejlede.";
 "Extraction of %i files done" = "Udpakning af %i arkiver udført";
 "Extraction complete" = "Udpakning fuldført";
 "Extraction fail" = "Udpakning fejlet";

@@ -26,7 +26,6 @@
 "File \"%@\" needs a password to be extracted" = "Файл \"%@\" иска парола, за да бъде разархивиран";
 "File \"%@\" needs a special encoding to be extracted" = "Файлът \"%@\" се нуждае от специално кодиране за да бъде разархивиран";
 "Extraction of \"%@\" done" = "Разархивирането на \"%@\" е готово";
-"Extraction of \"%@\" failed." = "Разархивирането на \"%@\" се провали.";
 "Extraction of %i files done" = "Разархивирането на %i файлове е готово";
 "Extraction complete" = "Разархивирането завърши";
 "Extraction fail" = "Разархивирането се провали";

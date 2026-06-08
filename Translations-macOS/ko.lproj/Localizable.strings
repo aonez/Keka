@@ -26,7 +26,6 @@
 "File \"%@\" needs a password to be extracted" = "\"%@\" 파일의 압축을 해제하려면 암호가 필요합니다";
 "File \"%@\" needs a special encoding to be extracted" = "\"%@\" 파일의 압축을 해제하려면 인코딩을 지정해야 합니다";
 "Extraction of \"%@\" done" = "\"%@\" 파일 압축 해제 완료";
-"Extraction of \"%@\" failed." = "\"%@\" 파일 압축 해제 실패";
 "Extraction of %i files done" = "파일 %i개 압축 해제 완료";
 "Extraction complete" = "압축 해제 완료";
 "Extraction fail" = "압축 해제 실패";

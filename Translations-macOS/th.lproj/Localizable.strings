@@ -26,7 +26,6 @@
 "File \"%@\" needs a password to be extracted" = "ไฟล์ \"%@\" ต้องใช้รหัสผ่านเพื่อแตกไฟล์";
 "File \"%@\" needs a special encoding to be extracted" = "ไฟล์ \"%@\" ต้องใช้ encoding พิเศษเพื่อแตกไฟล์";
 "Extraction of \"%@\" done" = "แตก \"%@\" เสร็จแล้ว";
-"Extraction of \"%@\" failed." = "การแตก \"%@\" ล้มเหลว";
 "Extraction of %i files done" = "แตกไฟล์ %i ไฟล์เสร็จแล้ว";
 "Extraction complete" = "แตกไฟล์เสร็จสมบูรณ์";
 "Extraction fail" = "แตกไฟล์ล้มเหลว";

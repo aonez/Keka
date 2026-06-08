@@ -26,7 +26,6 @@
 "File \"%@\" needs a password to be extracted" = "需要密碼才能解壓縮「%@」檔案";
 "File \"%@\" needs a special encoding to be extracted" = "需要特殊編碼才能解壓縮「%@」檔案";
 "Extraction of \"%@\" done" = "解壓縮「%@」完成";
-"Extraction of \"%@\" failed." = "解壓縮「%@」失敗。";
 "Extraction of %i files done" = "解壓縮 %i 個檔案完成";
 "Extraction complete" = "解壓縮完成";
 "Extraction fail" = "解壓縮失敗";

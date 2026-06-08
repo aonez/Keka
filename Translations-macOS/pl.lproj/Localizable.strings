@@ -26,7 +26,6 @@
 "File \"%@\" needs a password to be extracted" = "\"%@\" - wymaga hasła";
 "File \"%@\" needs a special encoding to be extracted" = "Plik \"%@\" wymaga specjalnego kodowania do wyodrębnienia";
 "Extraction of \"%@\" done" = "\"%@\" - został wyodrębniony";
-"Extraction of \"%@\" failed." = "\"%@\" - wystąpił błąd podczas wyodrębniania.";
 "Extraction of %i files done" = "%i pliki zostały wyodrębnione";
 "Extraction complete" = "Wyodrębnianie zakończone";
 "Extraction fail" = "Wyodrębnianie zakończone niepowodzeniem";

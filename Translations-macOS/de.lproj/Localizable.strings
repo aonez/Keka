@@ -26,7 +26,6 @@
 "File \"%@\" needs a password to be extracted" = "Datei „%@“ erfordert zum Entpacken ein Passwort";
 "File \"%@\" needs a special encoding to be extracted" = "Datei „%@“ erfordert zum Entpacken die Angabe der verwendeten Zeichenkodierung";
 "Extraction of \"%@\" done" = "Entpacken von „%@“ abgeschlossen";
-"Extraction of \"%@\" failed." = "Entpacken von „%@“ fehlgeschlagen.";
 "Extraction of %i files done" = "Entpacken von %i Dateien abgeschlossen";
 "Extraction complete" = "Entpacken abgeschlossen";
 "Extraction fail" = "Entpacken fehlgeschlagen";

@@ -26,7 +26,6 @@
 "File \"%@\" needs a password to be extracted" = "Файлу \"%@\" потрібен пароль для розпакування";
 "File \"%@\" needs a special encoding to be extracted" = "Файл \"%@\" потребує спеціального кодування для розпакування";
 "Extraction of \"%@\" done" = "Розпакування \"%@\" завершено";
-"Extraction of \"%@\" failed." = "Розпакування \"%@\" не вдалося.";
 "Extraction of %i files done" = "Розпакування %i файлів завершено";
 "Extraction complete" = "Розпакування завершено";
 "Extraction fail" = "Не вдалося розпакувати";

@@ -26,7 +26,6 @@
 "File \"%@\" needs a password to be extracted" = "Το αρχείο \"%@\" θέλει εισαγωγή του κωδικού για να αποσυμπιεστεί";
 "File \"%@\" needs a special encoding to be extracted" = "Το αρχείο \"%@\" χρειάζεται μια ειδική κωδικοποίηση για την αποσυμπίεσή του";
 "Extraction of \"%@\" done" = "Η αποσυμπίεση του \"%@\" ολοκληρώθηκε";
-"Extraction of \"%@\" failed." = "Η αποσυμπίεση του \"%@\" απέτυχε.";
 "Extraction of %i files done" = "Η αποσυμπίεση %i αρχείου(ων) ολοκληρώθηκε";
 "Extraction complete" = "Η αποσυμπίεση ολοκληρώθηκε";
 "Extraction fail" = "Η αποσυμπίεση απέτυχε";

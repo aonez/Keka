@@ -26,7 +26,6 @@
 "File \"%@\" needs a password to be extracted" = "Lêer \“%@\” benodig ’n wagwoord om geëkstraheer te word";
 "File \"%@\" needs a special encoding to be extracted" = "Lêer \“%@\” benodig spesiale enkodering om geëkstraheer te word";
 "Extraction of \"%@\" done" = "Ekstrahering van \“%@\” is klaar";
-"Extraction of \"%@\" failed." = "Ekstrahering van \“%@\” het misluk";
 "Extraction of %i files done" = "Ekstrahering van %i lêers is klaar";
 "Extraction complete" = "Ekstrahering is klaar";
 "Extraction fail" = "Ekstrahering het misluk";

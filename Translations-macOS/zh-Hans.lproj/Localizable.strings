@@ -26,7 +26,6 @@
 "File \"%@\" needs a password to be extracted" = "文件“%@”需要密码才能被提取";
 "File \"%@\" needs a special encoding to be extracted" = "文件“%@”需指定编码才能被提取";
 "Extraction of \"%@\" done" = "提取“%@”完成";
-"Extraction of \"%@\" failed." = "提取“%@”失败.";
 "Extraction of %i files done" = "%i 个文件提取完成";
 "Extraction complete" = "提取完成";
 "Extraction fail" = "提取失败";
