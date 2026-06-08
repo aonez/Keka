@@ -150,6 +150,7 @@
 "This archive is locked" = "アーカイブはロックされています";
 "Write error. No permission? No space left?" = "書き込みエラーです。アクセス権や空き領域を確認してください。";
 "Can't open the file, maybe it's not accessible" = "ファイルを開けません。アクセスできない可能性があります";
+"No files matching the mask" = "条件に一致するファイルがありません";
 "There were some read errors" = "読み込みエラーがありました";
 "Dismissed trailing data, the extraction might be incomplete" = "末尾のデータを切り捨てました。展開が不完全な可能性があります";
 "Window size not supported, too much memory required" = "ウインドウサイズに対応していません。多くのメモリが必要です";
