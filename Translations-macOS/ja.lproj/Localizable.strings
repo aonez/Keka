@@ -38,8 +38,8 @@
 "Operation not implemented" = "操作が実装されていません";
 "Performing operation..." = "操作を実行中…";
 "Waiting..." = "待機中…";
-"Extracting \"%@...\"" = "\"%@\"を展開中…";
 "Extracting \"%@\"" = "\"%@\"を展開中";
+"Extracting \"%@...\"" = "\"%@\"を展開中…";
 "Creating %@ file..." = "%@ファイルを作成中…";
 "Creating file \"%@\"" = "\"%@\"を作成中";
 "Creating file \"%@...\"" = "\"%@\"を作成中…";
