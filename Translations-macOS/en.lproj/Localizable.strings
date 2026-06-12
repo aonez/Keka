@@ -153,6 +153,7 @@
 "There were some read errors" = "There were some read errors";
 "Dismissed trailing data, the extraction might be incomplete" = "Dismissed trailing data, the extraction might be incomplete";
 "Window size not supported, too much memory required" = "Window size not supported, too much memory required";
+"The headers contain errors, the extraction might be invalid" = "The headers contain errors, the extraction might be invalid";
 "Give access" = "Give access";
 "Just folder access" = "Just folder access";
 "Quit" = "Quit";

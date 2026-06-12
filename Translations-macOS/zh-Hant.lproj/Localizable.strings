@@ -153,6 +153,7 @@
 "There were some read errors" = "可能有讀取錯誤";
 "Dismissed trailing data, the extraction might be incomplete" = "已捨棄尾部資料，解壓縮的結果可能不完整";
 "Window size not supported, too much memory required" = "不支援此視窗大小，記憶體需求過大";
+"The headers contain errors, the extraction might be invalid" = "標頭包含錯誤，解壓縮可能無效";
 "Give access" = "授予取用權限";
 "Just folder access" = "只有檔案夾取用權限";
 "Quit" = "結束";

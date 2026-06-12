@@ -153,6 +153,7 @@
 "There were some read errors" = "Было несколько ошибок чтения";
 "Dismissed trailing data, the extraction might be incomplete" = "Избыточные данные были отброшены, извлечение может быть неполным";
 "Window size not supported, too much memory required" = "Размер окна не поддерживается, требуется слишком много памяти";
+"The headers contain errors, the extraction might be invalid" = "Заголовки содержат ошибки, извлечение может быть некорректным";
 "Give access" = "Дать доступ";
 "Just folder access" = "Только доступ к папке";
 "Quit" = "Выход";

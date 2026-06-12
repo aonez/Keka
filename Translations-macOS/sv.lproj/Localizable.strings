@@ -153,6 +153,7 @@
 "There were some read errors" = "Det uppstod vissa läsfel";
 "Dismissed trailing data, the extraction might be incomplete" = "Avfärdade efterföljande data, extraheringen kan vara inkomplett";
 "Window size not supported, too much memory required" = "Fönsterstorlek stöds inte, kräver för mycket minne";
+"The headers contain errors, the extraction might be invalid" = "Huvudena innehåller fel, extraheringen kan vara ogiltig";
 "Give access" = "Ge åtkomst";
 "Just folder access" = "Endast mappåtkomst";
 "Quit" = "Avsluta";

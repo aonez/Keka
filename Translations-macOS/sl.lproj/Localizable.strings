@@ -153,6 +153,7 @@
 "There were some read errors" = "Bilo je nekaj napak pri branju";
 "Dismissed trailing data, the extraction might be incomplete" = "Dismissed trailing data, the extraction might be incomplete";
 "Window size not supported, too much memory required" = "Window size not supported, too much memory required";
+"The headers contain errors, the extraction might be invalid" = "Glave vsebujejo napake, ekstrakcija je morda neveljavna";
 "Give access" = "Omogoči dostop";
 "Just folder access" = "Samo dostop do mape";
 "Quit" = "Zapri";

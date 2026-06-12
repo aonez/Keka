@@ -153,6 +153,7 @@
 "There were some read errors" = "เกิดข้อผิดพลาดในการอ่านบางส่วน";
 "Dismissed trailing data, the extraction might be incomplete" = "ละเว้นข้อมูลส่วนท้าย การแตกไฟล์อาจไม่สมบูรณ์";
 "Window size not supported, too much memory required" = "ไม่รองรับขนาดหน้าต่างนี้ ต้องใช้หน่วยความจำมากเกินไป";
+"The headers contain errors, the extraction might be invalid" = "ส่วนหัวมีข้อผิดพลาด การแตกไฟล์อาจไม่สมบูรณ์";
 "Give access" = "ให้สิทธิ์เข้าถึง";
 "Just folder access" = "เข้าถึงเฉพาะโฟลเดอร์";
 "Quit" = "ออก";

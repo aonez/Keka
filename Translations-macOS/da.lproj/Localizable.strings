@@ -153,6 +153,7 @@
 "There were some read errors" = "Der var læsningsfejl";
 "Dismissed trailing data, the extraction might be incomplete" = "Dismissed trailing data, the extraction might be incomplete";
 "Window size not supported, too much memory required" = "Window size not supported, too much memory required";
+"The headers contain errors, the extraction might be invalid" = "Headerne indeholder fejl, udpakningen kan være ugyldig";
 "Give access" = "Tildel adgang";
 "Just folder access" = "Kun mappeadgang";
 "Quit" = "Slut";

@@ -153,6 +153,7 @@
 "There were some read errors" = "Bazı okuma hataları vardı";
 "Dismissed trailing data, the extraction might be incomplete" = "Dismissed trailing data, the extraction might be incomplete";
 "Window size not supported, too much memory required" = "Window size not supported, too much memory required";
+"The headers contain errors, the extraction might be invalid" = "Başlıklar hata içeriyor, çıkarma işlemi geçersiz olabilir";
 "Give access" = "Erişim izni ver";
 "Just folder access" = "Sadece klasör erişimi ver";
 "Quit" = "Çık";

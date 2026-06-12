@@ -153,6 +153,7 @@
 "There were some read errors" = "Hi han hagut errors de lectura";
 "Dismissed trailing data, the extraction might be incomplete" = "S'han descartat dades addicionals, l'extracció pot estar incompleta";
 "Window size not supported, too much memory required" = "Mida de finestra no compatible, es requereix massa memòria";
+"The headers contain errors, the extraction might be invalid" = "Les capçaleres contenen errors, l'extracció podria ser invàlida";
 "Give access" = "Donar accés";
 "Just folder access" = "Només accés a la carpeta";
 "Quit" = "Sortir";

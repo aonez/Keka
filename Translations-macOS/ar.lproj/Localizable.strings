@@ -153,6 +153,7 @@
 "There were some read errors" = "كانت هناك بعض أخطاء القراءة";
 "Dismissed trailing data, the extraction might be incomplete" = "Dismissed trailing data, the extraction might be incomplete";
 "Window size not supported, too much memory required" = "Window size not supported, too much memory required";
+"The headers contain errors, the extraction might be invalid" = "تحتوي الرؤوس على أخطاء، قد يكون الاستخراج غير صالح";
 "Give access" = "إعطاء حق الوصول";
 "Just folder access" = "الوصول إلى المجلد فقط";
 "Quit" = "إنهاء";

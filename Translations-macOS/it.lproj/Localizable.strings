@@ -153,6 +153,7 @@
 "There were some read errors" = "Si sono verificati alcuni errori di lettura";
 "Dismissed trailing data, the extraction might be incomplete" = "Dati finali rifiutati, l'estrazione potrebbe essere incompleta";
 "Window size not supported, too much memory required" = "Dimensioni finestra non supportate, richiesta troppa memoria";
+"The headers contain errors, the extraction might be invalid" = "Le intestazioni contengono errori, l'estrazione potrebbe non essere valida";
 "Give access" = "Consenti l'accesso";
 "Just folder access" = "Solo accesso alla cartella";
 "Quit" = "Esci";

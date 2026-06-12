@@ -153,6 +153,7 @@
 "There were some read errors" = "Vyskytly se chyby při čtení";
 "Dismissed trailing data, the extraction might be incomplete" = "Závěrečná nadbytečná data byla ignorována, rozbalená data mohou být neúplná.";
 "Window size not supported, too much memory required" = "Velikost okna není podporována, vyžaduje příliš mnoho paměti";
+"The headers contain errors, the extraction might be invalid" = "Hlavičky obsahují chyby, extrakce může být neplatná";
 "Give access" = "Udělit přístup";
 "Just folder access" = "Přístup jen ke složce";
 "Quit" = "Ukončit";

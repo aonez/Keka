@@ -153,6 +153,7 @@
 "There were some read errors" = "Daar was ’n paar leesfoute";
 "Dismissed trailing data, the extraction might be incomplete" = "Dismissed trailing data, the extraction might be incomplete";
 "Window size not supported, too much memory required" = "Window size not supported, too much memory required";
+"The headers contain errors, the extraction might be invalid" = "Die koptekste bevat foute, die onttrekking mag dalk ongeldig wees";
 "Give access" = "Verleen toegang";
 "Just folder access" = "Slegs vouertoegang";
 "Quit" = "Sluit";

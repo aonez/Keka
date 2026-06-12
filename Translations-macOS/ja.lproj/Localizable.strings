@@ -153,6 +153,7 @@
 "There were some read errors" = "読み込みエラーがありました";
 "Dismissed trailing data, the extraction might be incomplete" = "末尾のデータを切り捨てました。展開が不完全な可能性があります";
 "Window size not supported, too much memory required" = "ウインドウサイズに対応していません。多くのメモリが必要です";
+"The headers contain errors, the extraction might be invalid" = "ヘッダーにエラーが含まれています。展開が無効になる可能性があります";
 "Give access" = "アクセスを許可";
 "Just folder access" = "フォルダアクセスのみ";
 "Quit" = "終了";

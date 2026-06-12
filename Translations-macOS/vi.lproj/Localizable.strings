@@ -153,6 +153,7 @@
 "There were some read errors" = "Xuất hiện lỗi đọc dữ liệu";
 "Dismissed trailing data, the extraction might be incomplete" = "Dismissed trailing data, the extraction might be incomplete";
 "Window size not supported, too much memory required" = "Window size not supported, too much memory required";
+"The headers contain errors, the extraction might be invalid" = "Các tiêu đề chứa lỗi, việc giải nén có thể không hợp lệ";
 "Give access" = "Cho phép truy cập";
 "Just folder access" = "Chỉ truy cập thư mục";
 "Quit" = "Thoát";

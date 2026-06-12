@@ -153,6 +153,7 @@
 "There were some read errors" = "Има няколко грешки в четенето";
 "Dismissed trailing data, the extraction might be incomplete" = "Допълнителните крайни данни бяха игнорирани; разархивирането може да е непълно";
 "Window size not supported, too much memory required" = "Размерът на прозореца не се поддържа; нужна е твърде много памет";
+"The headers contain errors, the extraction might be invalid" = "Заглавните части съдържат грешки, извличането може да е невалидно";
 "Give access" = "Осигури достъп";
 "Just folder access" = "Достъп само до папката";
 "Quit" = "Излез";

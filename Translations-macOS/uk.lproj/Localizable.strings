@@ -153,6 +153,7 @@
 "There were some read errors" = "Були деякі помилки читання";
 "Dismissed trailing data, the extraction might be incomplete" = "Dismissed trailing data, the extraction might be incomplete";
 "Window size not supported, too much memory required" = "Window size not supported, too much memory required";
+"The headers contain errors, the extraction might be invalid" = "Заголовки містять помилки, вилучення може бути некоректним";
 "Give access" = "Надати доступ";
 "Just folder access" = "Просто доступ до папки";
 "Quit" = "Вийти";

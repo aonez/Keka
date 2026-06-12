@@ -153,6 +153,7 @@
 "There were some read errors" = "Néhány olvasási hiba lépett fel";
 "Dismissed trailing data, the extraction might be incomplete" = "Dismissed trailing data, the extraction might be incomplete";
 "Window size not supported, too much memory required" = "Window size not supported, too much memory required";
+"The headers contain errors, the extraction might be invalid" = "A fejlécek hibákat tartalmaznak, a kibontás érvénytelen lehet";
 "Give access" = "Engedélyezd";
 "Just folder access" = "Csak a mappához való hozzáférés";
 "Quit" = "Kilépés";

@@ -153,6 +153,7 @@
 "There were some read errors" = "Joitakin lukuvirheitä ilmeni";
 "Dismissed trailing data, the extraction might be incomplete" = "Dismissed trailing data, the extraction might be incomplete";
 "Window size not supported, too much memory required" = "Window size not supported, too much memory required";
+"The headers contain errors, the extraction might be invalid" = "Otsakkeet sisältävät virheitä, purku saattaa olla virheellinen";
 "Give access" = "Anna pääsy";
 "Just folder access" = "Vain kansioon pääsy";
 "Quit" = "Lopeta";
