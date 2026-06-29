@@ -1,4 +1,4 @@
-﻿
+
 /* Class = "NSButtonCell"; title = "Archive items separately"; ObjectID = "2221"; */
 "2221.title" = "項目ごとにアーカイブ";
 
@@ -63,7 +63,7 @@
 "2363.title" = "読み取り専用の圧縮ISOボリュームを作成することができます。ISOボリュームはフォルダからのみ作成できます。\n\nこのISOにボリューム名を設定するか、圧縮するファイルに基づいたデフォルト名を使用してください。";
 
 /* Class = "NSTextFieldCell"; title = "Store"; ObjectID = "2390"; */
-"2390.title" = "まとめる";
+"2390.title" = "無圧縮";
 
 /* Class = "NSTextFieldCell"; title = "Fast"; ObjectID = "2392"; */
 "2392.title" = "高速";

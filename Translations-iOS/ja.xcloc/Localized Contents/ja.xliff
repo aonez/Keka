@@ -1232,14 +1232,14 @@
       </trans-unit>
       <trans-unit id="The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents." xml:space="preserve">
         <source>The slower the level the more compression can be accomplished. The store level does no compression at all, only archives the contents.</source>
-        <target state="translated">レベルが低速なほど、圧縮率が高くなります。ストアレベルではまったく圧縮することなく、内容のアーカイブだけを行います。</target>
+        <target state="translated">レベルが低速なほど、圧縮率は高くなります。ストアレベルでは、圧縮は行わずに内容のアーカイブだけを行います。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This volume file needs additional files access to be opened.&#10;You can give access to the rest of the files or the parent folder." xml:space="preserve">
         <source>This volume file needs additional files access to be opened.
 You can give access to the rest of the files or the parent folder.</source>
-        <target state="translated">このボリュームファイルを開くには、追加のファイルへのアクセス権が必要です。
-残りのファイルまたは親フォルダへのアクセス権を与えることができます。</target>
+        <target state="translated">このボリュームファイルを開くには、ファイルへのアクセス権を追加する必要があります。
+残りのファイルまたは親フォルダへのアクセス権を与えてください。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="To be implemented" xml:space="preserve">
