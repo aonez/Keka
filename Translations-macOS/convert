@@ -3,7 +3,7 @@
 xcode=0
 onlyBase=0
 
-cd "${0%/*}"
+cd "${0%/*}" || exit 1
 
 for var in "$@"
 do
@@ -30,16 +30,16 @@ someNoUTF8=0
 
 function checkLanguageFolders {
 	f="${1}"
-	if [ ! -d ${f} ]; then
-		continue
+	if [ ! -d "${f}" ]; then
+		return
 	fi
 	if [ $onlyBase -eq 1 ] && [[ ${f} != "Base.strings" ]]; then
-		continue
+		return
 	fi
-	for t in ${f}/*.strings; do
-		convertStringsFile "${f}" "${t}" &
+	for t in "${f}"/*.strings; do
+		[ -f "${t}" ] || continue
+		convertStringsFile "${f}" "${t}"
 	done
-	wait
 }
 
 function convertStringsFile {
@@ -48,20 +48,16 @@ function convertStringsFile {
 	md5="$(md5 "${t}" | cut -d'=' -f 2)"
 	md5="${md5## }"
 	md5file=${f}/.${t#${f}/}.conversion.md5
-	if [ ! -f "${md5file}" ]; then
-		echo $md5 > "${md5file}"
-	else
+	if [ -f "${md5file}" ]; then
 		md5old="$(cat "${md5file}")"
 		if [[ $md5 == $md5old ]]; then
 			unset md5old
-			continue
-		else
-			echo $md5 > "${md5file}"
+			return
 		fi
 	fi
 	n=${t#$f/} # file name
 	text="${f}/${n}"
-	enc="$( file -I ${t} )"
+	enc="$( file -I "${t}" )"
 	charset="$( echo ${enc} | cut -d'=' -f2 )"
 	noUTF8=0	
 	if [[ ${charset} != "utf-8" ]]; then
@@ -71,19 +67,20 @@ function convertStringsFile {
 		if [[ "$charset" != "binary" ]]; then
 			convFrom="-f ${charset}"
 		fi
-		conv="$( { iconv $convFrom -t utf-8 < ${t} > ${t}.tmp; } 2>&1 )"
-		echo $md5 > "${md5file}"
-		if [ $? -eq 0 ]; then
-			mv -f ${t}.tmp ${t}
+		if conv="$( { iconv $convFrom -t utf-8 < "${t}" > "${t}.tmp"; } 2>&1 )" && mv -f "${t}.tmp" "${t}"; then
+			# Cache the converted bytes, never the original or a failed conversion.
+			md5="$(md5 "${t}" | cut -d'=' -f 2)"
+			echo "${md5## }" > "${md5file}"
 			text="${text} > ${GREEN}UTF-8${NC}"
 		else
 			someNoUTF8=1
-			rm "${md5file}"
+			rm -f "${t}.tmp" "${md5file}"
 			text="${text} > ${RED}${charset} !!!${NC} > ${ORANGE}${conv}${NC}"
 		fi
 		echo -e "${text}"
 	else
-		continue
+		echo "$md5" > "${md5file}"
+		return
 	fi
 	error=0
 	if [[ ${enc} = *"regexec error"* ]]; then
@@ -96,9 +93,8 @@ function convertStringsFile {
 }
 
 for fff in *.*; do
-	checkLanguageFolders "${fff}" &
+	checkLanguageFolders "${fff}"
 done
-wait
 
 if [ $someNoUTF8 -eq 1 ] && [ $someError -eq 1 ]; then
 	echo -e "${RED}There are some files not encoded in UTF-8 and with errors${NC}"
