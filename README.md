@@ -1,5 +1,6 @@
 <h1 align="center">Keka</h1>
 
+[![Featured on AppWK](https://appwk.cn/badges/featured-dark.svg)](https://appwk.cn/apps/keka)
 <a href="#"><img width="256" height="256" src="https://www.keka.io/img/Keka-Square-512x512.png" align="left" /></a>
 
 <br />
