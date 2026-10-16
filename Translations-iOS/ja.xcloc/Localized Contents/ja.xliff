@@ -596,7 +596,7 @@
       </trans-unit>
       <trans-unit id="Compress some files with Keka." xml:space="preserve">
         <source>Compress some files with Keka.</source>
-        <target state="translated">いくつかのファイルをKekaで圧縮します。</target>
+        <target state="translated">Kekaでファイルを圧縮します。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Compressed size" xml:space="preserve">
@@ -767,7 +767,7 @@
       </trans-unit>
       <trans-unit id="Extract some files with Keka." xml:space="preserve">
         <source>Extract some files with Keka.</source>
-        <target state="translated">いくつかのファイルをKekaで展開します。</target>
+        <target state="translated">Kekaでファイルを展開します。</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Extraction" xml:space="preserve">
@@ -1244,6 +1244,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="To be implemented" xml:space="preserve">
         <source>To be implemented</source>
+        <target state="translated">実装予定</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="To extract" xml:space="preserve">
@@ -1283,7 +1284,7 @@ You can give access to the rest of the files or the parent folder.</source>
       </trans-unit>
       <trans-unit id="Unable to apply the app icon" xml:space="preserve">
         <source>Unable to apply the app icon</source>
-        <target>APP アイコンを適用できません</target>
+        <target state="translated">APPアイコンを適用できません</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Unable to browse &quot;%@&quot;" xml:space="preserve">
