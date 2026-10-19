@@ -117,7 +117,7 @@
 "0Am-9a-jtM.title" = "\"フォルダの圧縮コンテンツ\"を表示";
 
 /* Class = "NSButtonCell"; title = "Rename the recognized extension from the subfolder"; ObjectID = "1TK-Zy-623"; */
-"1TK-Zy-623.title" = "サブフォルダから認識された拡張子の名前を変更";
+"1TK-Zy-623.title" = "展開後のサブフォルダ名から認識された拡張子を取り除く";
 
 /* Class = "NSButtonCell"; title = "Use custom tasks counter in the Dock"; ObjectID = "3cf-gN-q24"; */
 "3cf-gN-q24.title" = "Dockでカスタムタスクカウンタを使用";
@@ -168,7 +168,7 @@
 "DAr-Td-s5W.title" = "展開は消費電力が少ないため、複数スレッドを使用する場合も、制限を2つや3つに設定しても問題ありません。ただし展開先ストレージには影響があります。";
 
 /* Class = "NSButtonCell"; title = "Use resizable windows"; ObjectID = "DCA-p1-1uq"; */
-"DCA-p1-1uq.title" = "サイズを変更できるウインドウを使用";
+"DCA-p1-1uq.title" = "サイズ変更が可能なウインドウを使用";
 
 /* Class = "NSButtonCell"; title = "Ask before quitting with operations"; ObjectID = "DJT-wB-bCM"; */
 "DJT-wB-bCM.title" = "操作を終了する前に尋ねる";
@@ -219,7 +219,7 @@
 "K5h-j5-bss.title" = "キューの圧縮操作:";
 
 /* Class = "NSButtonCell"; title = "Inherit quarantine from downloaded files"; ObjectID = "KDR-ag-bll"; */
-"KDR-ag-bll.title" = "ダウンロードしたファイルから検疫を継承";
+"KDR-ag-bll.title" = "ダウンロードしたファイルからセキュリティ警告（隔離フラグ）を継承";
 
 /* Class = "NSButtonCell"; title = "Show in external volumes"; ObjectID = "KOF-7X-bQo"; */
 "KOF-7X-bQo.title" = "外付けボリュームに表示";
