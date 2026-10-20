@@ -623,7 +623,7 @@
       </trans-unit>
       <trans-unit id="Contents: %lld, Size: %@" xml:space="preserve">
         <source>Contents: %lld, Size: %@</source>
-        <target>Innehåll: %11d, Storlek: %@</target>
+        <target>Innehåll: %lld, Storlek: %@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Created" xml:space="preserve">

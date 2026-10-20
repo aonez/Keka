@@ -206,7 +206,7 @@
 "Contents: %@, Size: %@" = "Innehåll: %@, Storlek: %@";
 
 /* No comment provided by engineer. */
-"Contents: %lld, Size: %@" = "Innehåll: %11d, Storlek: %@";
+"Contents: %lld, Size: %@" = "Innehåll: %lld, Storlek: %@";
 
 /* No comment provided by engineer. */
 "Created" = "Skapad";
