@@ -36,7 +36,7 @@ You will find the updated list of legacy versions in the Keka website at https:/
 - [Wiki](https://github.com/aonez/Keka/wiki) - learn and share Keka knowledge.
 - [Discussions](https://github.com/aonez/Keka/discussions) - chat about Keka with others and share your ideas.
 - [Releases](https://github.com/aonez/Keka/releases) - download a specific version.
-- [Translations](Translations/) - keep Keka multilingual and well spoken :)
+- Translations ([macOS](Translations-macOS/), [iOS](Translations-iOS/), [Web](Translations-Web/)) - keep Keka multilingual and well spoken :)
 
 This repository is used mainly to take care of [Issues](https://github.com/aonez/Keka/issues) and have a collaborative [Wiki](https://github.com/aonez/Keka/wiki).
 
