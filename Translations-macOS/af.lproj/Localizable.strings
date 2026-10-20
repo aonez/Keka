@@ -42,7 +42,7 @@
 "Extracting \"%@...\"" = "Ekstraheer tans \“%@...\”";
 "Creating %@ file..." = "Skep tans %@ lêer...";
 "Creating file \"%@\"" = "Skep tans lêer \“%@\”";
-"Creating file \"%@...\"" = "Skep tans lêer \“@...\”";
+"Creating file \"%@...\"" = "Skep tans lêer \“%@...\”";
 "Volume name:" = "Volumenaam:";
 "Select the encoding for \"%@\"" = "Kies die enkodering vir \"%@\"";
 "Time elapsed: %d:%@%d:%@%d hours%@" = "Verstreke tyd: %d:%@%d:%@%d uur%@";
